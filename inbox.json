@@ -1937,6 +1937,380 @@
     "fang"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-flooding",
+   "word": "flooding",
+   "pos": "名詞",
+   "meaning": "淹水；水災",
+   "sentences": [
+    {
+     "en": "Several roads near the river were closed because of flooding after the heavy rain.",
+     "zh": "大雨過後，河邊好幾條路因為淹水而封閉。"
+    },
+    {
+     "en": "The warehouse manager moved the inventory to higher shelves to protect it from flooding.",
+     "zh": "倉庫主管把存貨移到較高的架子上，以免被水淹到。"
+    },
+    {
+     "en": "Flooding in the basement forced the company to cancel its meetings on Monday.",
+     "zh": "地下室淹水，公司只好取消週一的會議。"
+    },
+    {
+     "en": "The city is building new drainage systems to reduce the risk of flooding downtown.",
+     "zh": "市政府正在興建新的排水系統，降低市中心淹水的風險。"
+    },
+    {
+     "en": "Our insurance policy covers damage caused by flooding, fire, and storms.",
+     "zh": "我們的保險涵蓋淹水、火災和暴風雨造成的損失。"
+    }
+   ],
+   "distractors": [
+    "floating",
+    "flowing",
+    "flooring"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-platform",
+   "word": "platform",
+   "pos": "名詞",
+   "meaning": "月台；平台；講台",
+   "sentences": [
+    {
+     "en": "Passengers for the express train to the airport should wait on platform three.",
+     "zh": "搭乘機場特快車的旅客請在第三月台候車。"
+    },
+    {
+     "en": "The company launched an online platform where customers can track their orders.",
+     "zh": "公司推出一個線上平台，讓顧客可以追蹤訂單。"
+    },
+    {
+     "en": "The speaker stood on a small platform so that everyone in the hall could see her.",
+     "zh": "講者站在小講台上，讓大廳裡每個人都看得到她。"
+    },
+    {
+     "en": "Due to construction, the platform for southbound trains has been moved to the other side of the station.",
+     "zh": "由於施工，南下列車的月台移到了車站另一側。"
+    },
+    {
+     "en": "Our marketing team uses a social media platform to share news about new products.",
+     "zh": "我們的行銷團隊用社群媒體平台分享新產品的消息。"
+    }
+   ],
+   "distractors": [
+    "platter",
+    "plateau",
+    "pattern"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-stilts",
+   "word": "stilts",
+   "pos": "名詞",
+   "meaning": "（支撐房屋的）高腳柱；高蹺",
+   "sentences": [
+    {
+     "en": "The beach cottages are built on stilts to protect them from high tides.",
+     "zh": "海邊小屋蓋在高腳柱上，以防漲潮淹到。"
+    },
+    {
+     "en": "Many houses in the flood zone are raised on stilts, with parking spaces underneath.",
+     "zh": "淹水區的許多房子都架在高腳柱上，底下當停車位。"
+    },
+    {
+     "en": "The restaurant sits on wooden stilts above the lake, offering guests a beautiful view.",
+     "zh": "這家餐廳架在湖面上的木柱上，讓客人欣賞美景。"
+    },
+    {
+     "en": "At the street festival, performers on stilts handed out flyers to visitors.",
+     "zh": "街頭慶典上，踩高蹺的表演者發傳單給遊客。"
+    },
+    {
+     "en": "Engineers checked the concrete stilts supporting the walkway after the storm.",
+     "zh": "暴風雨過後，工程師檢查了支撐步道的水泥柱。"
+    }
+   ],
+   "distractors": [
+    "stints",
+    "stills",
+    "stalls"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-tense",
+   "word": "tense",
+   "pos": "形容詞",
+   "meaning": "緊張的；（肌肉）緊繃的",
+   "sentences": [
+    {
+     "en": "The atmosphere in the meeting room was tense as everyone waited for the sales results.",
+     "zh": "大家等待銷售結果時，會議室裡的氣氛很緊張。"
+    },
+    {
+     "en": "Negotiations between the two companies became tense when they discussed the price.",
+     "zh": "兩家公司談到價格時，協商變得很緊張。"
+    },
+    {
+     "en": "Sitting at a desk all day can make the muscles in your neck and shoulders tense.",
+     "zh": "整天坐在辦公桌前會讓脖子和肩膀的肌肉緊繃。"
+    },
+    {
+     "en": "Mr. Wang looked tense before his presentation, but he spoke confidently once he began.",
+     "zh": "王先生簡報前看起來很緊張，但一開口就很有自信。"
+    },
+    {
+     "en": "The final minutes of the contract deadline were tense for the entire legal team.",
+     "zh": "合約期限的最後幾分鐘，整個法務團隊都很緊張。"
+    }
+   ],
+   "distractors": [
+    "dense",
+    "tender",
+    "tenant"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-euthanize",
+   "word": "euthanize",
+   "pos": "動詞",
+   "meaning": "（對動物）施行安樂死",
+   "sentences": [
+    {
+     "en": "The veterinarian explained that the clinic will only euthanize an animal when it is suffering greatly.",
+     "zh": "獸醫解釋，只有動物非常痛苦時，診所才會施行安樂死。"
+    },
+    {
+     "en": "The animal shelter has a policy not to euthanize healthy pets.",
+     "zh": "這家動物收容所的規定是不對健康的寵物施行安樂死。"
+    },
+    {
+     "en": "Owners must sign a consent form before the hospital can euthanize their pet.",
+     "zh": "飼主必須先簽同意書，醫院才能為寵物施行安樂死。"
+    },
+    {
+     "en": "The farm had to euthanize several sick cows to stop the disease from spreading.",
+     "zh": "農場只好讓幾頭生病的牛安樂死，以免疾病擴散。"
+    },
+    {
+     "en": "Volunteers work hard to find homes for older dogs so the shelter does not need to euthanize them.",
+     "zh": "志工努力替老狗找家，這樣收容所就不必讓牠們安樂死。"
+    }
+   ],
+   "distractors": [
+    "energize",
+    "emphasize",
+    "eulogize"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-distorted",
+   "word": "distorted",
+   "pos": "形容詞",
+   "meaning": "扭曲的；失真的",
+   "sentences": [
+    {
+     "en": "The sound from the old speakers was distorted, so we rented new equipment for the conference.",
+     "zh": "舊喇叭的聲音失真，所以我們為研討會租了新設備。"
+    },
+    {
+     "en": "The image on the projector looked distorted because the lens was not adjusted correctly.",
+     "zh": "投影機的畫面看起來變形，因為鏡頭沒調好。"
+    },
+    {
+     "en": "The article gave a distorted picture of the company's financial situation.",
+     "zh": "這篇文章扭曲了公司的財務狀況。"
+    },
+    {
+     "en": "Customers complained that the photos on the website showed distorted colors.",
+     "zh": "顧客抱怨網站上的照片顏色失真。"
+    },
+    {
+     "en": "The caller's voice was distorted, so the receptionist asked him to call back.",
+     "zh": "來電者的聲音不清楚，所以接待員請他再打一次。"
+    }
+   ],
+   "distractors": [
+    "disturbed",
+    "distracted",
+    "distributed"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-caramel",
+   "word": "caramel",
+   "pos": "名詞",
+   "meaning": "焦糖",
+   "sentences": [
+    {
+     "en": "The café's most popular drink is a latte with caramel and whipped cream.",
+     "zh": "這家咖啡店最受歡迎的飲料是加焦糖和鮮奶油的拿鐵。"
+    },
+    {
+     "en": "Our bakery is offering a new apple tart topped with caramel this autumn.",
+     "zh": "我們的烘焙坊今年秋天推出一款淋上焦糖的新蘋果塔。"
+    },
+    {
+     "en": "The candy company plans to export its caramel to several countries in Europe.",
+     "zh": "這家糖果公司計畫把它的焦糖外銷到歐洲好幾個國家。"
+    },
+    {
+     "en": "Customers can add caramel to any ice cream for an extra fifty cents.",
+     "zh": "顧客多付五十美分就能在任何冰淇淋上加焦糖。"
+    },
+    {
+     "en": "The chef heated the sugar slowly until it turned into a smooth caramel.",
+     "zh": "主廚慢慢加熱糖，直到它變成滑順的焦糖。"
+    }
+   ],
+   "distractors": [
+    "camera",
+    "camel",
+    "carnival"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-syrup",
+   "word": "syrup",
+   "pos": "名詞",
+   "meaning": "糖漿",
+   "sentences": [
+    {
+     "en": "The hotel breakfast includes pancakes served with butter and maple syrup.",
+     "zh": "飯店早餐有附奶油和楓糖漿的鬆餅。"
+    },
+    {
+     "en": "You can ask the barista to add vanilla syrup to your coffee at no extra cost.",
+     "zh": "你可以請咖啡師在咖啡裡加香草糖漿，不用另外付費。"
+    },
+    {
+     "en": "The pharmacy sells a cough syrup that is safe for children over six.",
+     "zh": "藥局有賣六歲以上兒童可以安心使用的止咳糖漿。"
+    },
+    {
+     "en": "Our factory produces fruit syrup for restaurants and cafés across the country.",
+     "zh": "我們的工廠為全國的餐廳和咖啡店生產水果糖漿。"
+    },
+    {
+     "en": "To reduce sugar, the café now offers drinks with half the usual amount of syrup.",
+     "zh": "為了減糖，咖啡店現在提供只加一半糖漿的飲料。"
+    }
+   ],
+   "distractors": [
+    "strap",
+    "scrap",
+    "stirrup"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-aesthetic",
+   "word": "aesthetic",
+   "pos": "形容詞",
+   "meaning": "美感的；美學的；（名詞）風格",
+   "sentences": [
+    {
+     "en": "The designer was hired to improve the aesthetic appeal of the hotel lobby.",
+     "zh": "公司聘請這位設計師來提升飯店大廳的美感。"
+    },
+    {
+     "en": "Customers often choose our furniture for its aesthetic value as well as its comfort.",
+     "zh": "顧客常因為我們家具的美感和舒適度而選購。"
+    },
+    {
+     "en": "The new office has a clean, modern aesthetic with plenty of natural light.",
+     "zh": "新辦公室有乾淨現代的風格，自然光也很充足。"
+    },
+    {
+     "en": "For aesthetic reasons, the architect chose glass walls instead of brick.",
+     "zh": "基於美觀考量，建築師選用玻璃牆而不是磚牆。"
+    },
+    {
+     "en": "The app was redesigned to match the brand's simple aesthetic.",
+     "zh": "這個應用程式重新設計，以符合品牌簡約的風格。"
+    }
+   ],
+   "distractors": [
+    "athletic",
+    "authentic",
+    "arithmetic"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-decent",
+   "word": "decent",
+   "pos": "形容詞",
+   "meaning": "像樣的；還不錯的；體面的",
+   "sentences": [
+    {
+     "en": "The hotel is not luxurious, but it offers decent rooms at a reasonable price.",
+     "zh": "這家飯店不算豪華，但以合理價格提供還不錯的房間。"
+    },
+    {
+     "en": "Employees deserve a decent salary and safe working conditions.",
+     "zh": "員工應該得到合理的薪水和安全的工作環境。"
+    },
+    {
+     "en": "Our team made decent progress on the project this week.",
+     "zh": "我們團隊這週在專案上有不錯的進展。"
+    },
+    {
+     "en": "It is hard to find a decent restaurant near the airport after ten o'clock at night.",
+     "zh": "晚上十點以後，在機場附近很難找到像樣的餐廳。"
+    },
+    {
+     "en": "Please wear decent clothes to the client meeting tomorrow.",
+     "zh": "明天和客戶開會請穿得體面一點。"
+    }
+   ],
+   "distractors": [
+    "descent",
+    "recent",
+    "docent"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-arguably",
+   "word": "arguably",
+   "pos": "副詞",
+   "meaning": "可以說；或許可以說是",
+   "sentences": [
+    {
+     "en": "The new model is arguably the best laptop the company has ever produced.",
+     "zh": "新機型可以說是這家公司做過最好的筆電。"
+    },
+    {
+     "en": "Customer service is arguably the most important part of running a hotel.",
+     "zh": "客戶服務或許可以說是經營飯店最重要的一環。"
+    },
+    {
+     "en": "Ms. Chen is arguably the most experienced manager in our department.",
+     "zh": "陳小姐可以說是我們部門最有經驗的主管。"
+    },
+    {
+     "en": "Online shopping has arguably changed the way people buy groceries more than anything else.",
+     "zh": "網路購物可以說比任何事都更改變了人們買菜的方式。"
+    },
+    {
+     "en": "The museum's new wing is arguably the city's most impressive building.",
+     "zh": "博物館的新館或許可以說是全市最令人印象深刻的建築。"
+    }
+   ],
+   "distractors": [
+    "arguing",
+    "agreeably",
+    "adorably"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
