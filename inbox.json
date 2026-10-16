@@ -2855,6 +2855,108 @@
     "dairyman"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-records",
+   "word": "records",
+   "pos": "名詞",
+   "meaning": "（用在名稱裡）唱片公司；（一般）紀錄；檔案",
+   "sentences": [
+    {
+     "en": "The singer signed a five-year contract with Blue Sky Records last month.",
+     "zh": "這位歌手上個月和藍天唱片公司簽了五年合約。"
+    },
+    {
+     "en": "Golden Hill Records will release the band's new album in December.",
+     "zh": "金丘唱片公司將在十二月發行這個樂團的新專輯。"
+    },
+    {
+     "en": "Please keep all receipts so the accounting team can update its records.",
+     "zh": "請保留所有收據，讓會計團隊更新帳目紀錄。"
+    },
+    {
+     "en": "Patients can ask the clinic for a copy of their medical records.",
+     "zh": "病人可以向診所索取病歷副本。"
+    },
+    {
+     "en": "She worked as a producer at a small independent records label in London.",
+     "zh": "她曾在倫敦一家小型獨立唱片公司擔任製作人。"
+    }
+   ],
+   "distractors": [
+    "recorders",
+    "reckons",
+    "regards"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-prompt",
+   "word": "prompt",
+   "pos": "形容詞",
+   "meaning": "迅速的；及時的；（名詞）提示；（動詞）促使",
+   "sentences": [
+    {
+     "en": "Thank you for your prompt reply to our questions about the contract.",
+     "zh": "謝謝您迅速回覆我們關於合約的問題。"
+    },
+    {
+     "en": "The company is known for its prompt delivery and friendly customer service.",
+     "zh": "這家公司以快速送貨和親切的客服聞名。"
+    },
+    {
+     "en": "Prompt payment of the invoice will help us avoid delays in shipping.",
+     "zh": "準時付清這張請款單，可以避免出貨延誤。"
+    },
+    {
+     "en": "Staff are expected to be prompt and arrive at meetings on time.",
+     "zh": "員工應該守時，準時出席會議。"
+    },
+    {
+     "en": "The manager praised the team for its prompt action during the system failure.",
+     "zh": "經理稱讚團隊在系統故障時迅速應變。"
+    }
+   ],
+   "distractors": [
+    "promote",
+    "profit",
+    "prompted"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-stay-tuned",
+   "word": "stay tuned",
+   "pos": "片語動詞",
+   "meaning": "（廣播、電視）請繼續收看／收聽；（一般）敬請期待後續消息",
+   "sentences": [
+    {
+     "en": "Stay tuned to our radio station for the latest traffic and weather updates.",
+     "zh": "請繼續收聽本電台，掌握最新交通和天氣消息。"
+    },
+    {
+     "en": "We will announce the winners after the break, so please stay tuned.",
+     "zh": "我們會在廣告後宣布得獎者，請繼續收看。"
+    },
+    {
+     "en": "Our new product line will launch next month, so stay tuned for more details.",
+     "zh": "我們的新產品系列下個月推出，後續細節敬請期待。"
+    },
+    {
+     "en": "The host asked listeners to stay tuned for an interview with the company's CEO.",
+     "zh": "主持人請聽眾繼續收聽，接下來是公司執行長的專訪。"
+    },
+    {
+     "en": "Customers who want to hear about special offers should stay tuned to our social media pages.",
+     "zh": "想知道優惠消息的顧客，請持續關注我們的社群網頁。"
+    }
+   ],
+   "distractors": [
+    "stay tidy",
+    "stay tired",
+    "stay turned"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
