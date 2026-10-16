@@ -3378,6 +3378,41 @@
       ],
       "note": "accompany 是一般的「陪伴、一起去」；escort 多了「帶路、護送、保護」的意思，常用在警衛、導覽或重要人物。escort 也可以當名詞，意思是「護衛、隨行人員」。",
       "addedAt": "2026-10-16"
+    },
+    {
+      "id": "20261016-remain",
+      "word": "remain",
+      "pos": "動詞",
+      "meaning": "留在；保持（某種狀態）；剩下",
+      "sentences": [
+        {
+          "en": "All staff members must remain at their assigned locations until the fire drill is officially over.",
+          "zh": "所有員工必須待在指定的位置，直到消防演習正式結束。"
+        },
+        {
+          "en": "The store will remain open until nine o'clock every evening during the holiday shopping season.",
+          "zh": "假期購物季期間，店會每天晚上營業到九點。"
+        },
+        {
+          "en": "Despite the rise in material costs, our prices will remain the same for the rest of the year.",
+          "zh": "儘管材料成本上漲，我們今年剩下的時間價格都會維持不變。"
+        },
+        {
+          "en": "Passengers are asked to remain seated until the bus has come to a complete stop at the terminal.",
+          "zh": "請乘客保持坐著，直到巴士在總站完全停下來。"
+        },
+        {
+          "en": "Only two tickets remain for Friday's business seminar, so please register as soon as possible.",
+          "zh": "週五的商業研討會只剩兩張票，請盡快報名。"
+        }
+      ],
+      "distractors": [
+        "retain",
+        "remind",
+        "refrain"
+      ],
+      "note": "remain 和 stay 意思很像，但 remain 比較正式，多益很常考。後面可以直接接形容詞，例如 remain calm（保持冷靜）。別搞混：retain＝保留（東西）；remind＝提醒。",
+      "addedAt": "2026-10-16"
     }
   ],
   "notes": [
