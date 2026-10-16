@@ -2993,6 +2993,41 @@
    ],
    "addedAt": "2026-10-16",
    "note": "意思像 make（讓某人去做某事），但句型不同：prompt + 人 + to + 動詞（The rain prompted us to stay home.）；make + 人 + 動詞原形，不加 to（The rain made us stay home.）。make 較口語、帶「不得不」的感覺；prompt 較正式，指某件事成為原因、讓人決定去做。"
+  },
+  {
+   "id": "20261016-priorities",
+   "word": "priorities",
+   "pos": "名詞",
+   "meaning": "（priority 的複數）優先事項；最重要的事；優先順序",
+   "sentences": [
+    {
+     "en": "A change in priorities was the main reason the two business partners decided to separate.",
+     "zh": "優先事項改變，是這兩位事業夥伴決定拆夥的主要原因。"
+    },
+    {
+     "en": "The new manager asked each team to list its top three priorities for the coming year.",
+     "zh": "新經理請每個團隊列出明年最重要的三件事。"
+    },
+    {
+     "en": "Customer safety and product quality are the company's highest priorities.",
+     "zh": "顧客安全和產品品質是公司的首要考量。"
+    },
+    {
+     "en": "Because of the budget cuts, the department had to rethink its priorities for the second half of the year.",
+     "zh": "因為預算刪減，部門必須重新思考下半年的優先順序。"
+    },
+    {
+     "en": "Ms. Lin is good at setting clear priorities, so her team rarely misses a deadline.",
+     "zh": "林小姐很會設定清楚的優先順序，所以她的團隊很少延誤期限。"
+    }
+   ],
+   "distractors": [
+    "properties",
+    "privacies",
+    "prosperities"
+   ],
+   "note": "單數是 priority（a top priority 首要之事）；動詞是 prioritize（排出優先順序）。容易搞混：preference 是「偏好、比較喜歡」，priority 是「比較重要、要先處理」。",
+   "addedAt": "2026-10-16"
   }
  ],
  "notes": [
