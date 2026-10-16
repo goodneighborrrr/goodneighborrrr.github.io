@@ -2894,7 +2894,7 @@
    "id": "20261016-prompt",
    "word": "prompt",
    "pos": "形容詞",
-   "meaning": "迅速的；及時的；（名詞）提示；（動詞）促使",
+   "meaning": "（動詞）促使；（形容詞）迅速的；及時的；（名詞）提示",
    "sentences": [
     {
      "en": "Thank you for your prompt reply to our questions about the contract.",
@@ -2955,6 +2955,40 @@
     "stay tidy",
     "stay tired",
     "stay turned"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-prompted",
+   "word": "prompted",
+   "pos": "動詞",
+   "meaning": "（prompt 的過去式）促使；引起（某人去做某事）",
+   "sentences": [
+    {
+     "en": "Rising fuel costs prompted the airline to raise its ticket prices.",
+     "zh": "燃料成本上漲，促使航空公司調漲機票價格。"
+    },
+    {
+     "en": "Customer complaints prompted the manager to change the store's return policy.",
+     "zh": "顧客的抱怨促使經理修改了店裡的退貨規定。"
+    },
+    {
+     "en": "The heavy rain prompted organizers to move the concert indoors.",
+     "zh": "大雨促使主辦單位把音樂會移到室內。"
+    },
+    {
+     "en": "A drop in sales prompted the company to launch a new advertising campaign.",
+     "zh": "銷售下滑促使公司推出新的廣告活動。"
+    },
+    {
+     "en": "The positive reviews prompted many new customers to try the restaurant.",
+     "zh": "好評促使許多新顧客來嘗試這家餐廳。"
+    }
+   ],
+   "distractors": [
+    "promoted",
+    "promised",
+    "proposed"
    ],
    "addedAt": "2026-10-16"
   }
