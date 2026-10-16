@@ -2685,6 +2685,40 @@
     "juror"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-mix-up",
+   "word": "mix-up",
+   "pos": "名詞",
+   "meaning": "搞混；弄錯；（因混淆造成的）差錯",
+   "sentences": [
+    {
+     "en": "Due to a mix-up in the schedule, two teams booked the same conference room for Monday morning.",
+     "zh": "由於排程出錯，兩個團隊在週一早上訂了同一間會議室。"
+    },
+    {
+     "en": "The hotel apologized for the mix-up and moved us to a larger room at no extra charge.",
+     "zh": "飯店為這個疏失道歉，並免費把我們換到更大的房間。"
+    },
+    {
+     "en": "A mix-up at the warehouse caused several customers to receive the wrong items.",
+     "zh": "倉庫出了差錯，導致好幾位顧客收到錯誤的商品。"
+    },
+    {
+     "en": "To avoid another mix-up, please write the order number clearly on every package.",
+     "zh": "為了避免再出錯，請在每個包裹上清楚寫上訂單編號。"
+    },
+    {
+     "en": "The airline explained that the delay was caused by a mix-up with the crew's schedule.",
+     "zh": "航空公司解釋，延誤是因為機組人員的班表弄錯了。"
+    }
+   ],
+   "distractors": [
+    "make-up",
+    "mock-up",
+    "pick-up"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
