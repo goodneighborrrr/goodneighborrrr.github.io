@@ -2413,6 +2413,40 @@
     "job promotion"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-television-show-taping",
+   "word": "television show taping",
+   "pos": "名詞",
+   "meaning": "電視節目錄影（現場有觀眾的錄製）",
+   "sentences": [
+    {
+     "en": "The audience for the television show taping must arrive at the studio by six o'clock.",
+     "zh": "參加電視節目錄影的觀眾必須在六點前抵達攝影棚。"
+    },
+    {
+     "en": "Free tickets for the television show taping are available on the network's website.",
+     "zh": "電視節目錄影的免費入場券可以在電視台網站上索取。"
+    },
+    {
+     "en": "Phones must be turned off during the television show taping to avoid disturbing the recording.",
+     "zh": "電視節目錄影期間必須關機，以免干擾錄製。"
+    },
+    {
+     "en": "The hotel offered guests a special package that included seats at a television show taping downtown.",
+     "zh": "飯店為房客推出特別方案，包含市中心一場電視節目錄影的座位。"
+    },
+    {
+     "en": "Our marketing team arranged for the new product to appear during a popular television show taping.",
+     "zh": "我們的行銷團隊安排新產品在一個熱門電視節目錄影時亮相。"
+    }
+   ],
+   "distractors": [
+    "television show tasting",
+    "television show trading",
+    "television show typing"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
