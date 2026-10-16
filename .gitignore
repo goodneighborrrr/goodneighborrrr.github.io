@@ -1,0 +1,11 @@
+.env
+.env.*
+*.key
+*.pem
+*secret*
+*password*
+*credential*
+*token*
+service-account*.json
+firebase-adminsdk*.json
+.DS_Store
