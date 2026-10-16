@@ -3133,6 +3133,41 @@
    ],
    "note": "常見句型：leave + 東西 + undisturbed（讓東西保持原樣、不要去動它）。同義字：untouched（沒被碰過）、intact（完好無缺）。來源：disturb（打擾、弄亂）＋字首 un-（不）＋-ed。",
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-disturb",
+   "word": "disturb",
+   "pos": "動詞",
+   "meaning": "打擾；干擾；弄亂（東西）",
+   "sentences": [
+    {
+     "en": "Please do not disturb the manager during her meeting with the clients unless it is urgent.",
+     "zh": "除非有急事，請不要在經理和客戶開會時打擾她。"
+    },
+    {
+     "en": "Construction workers were asked not to disturb hotel guests before nine o'clock in the morning.",
+     "zh": "施工人員被要求早上九點前不要吵到飯店房客。"
+    },
+    {
+     "en": "The cleaning staff were careful not to disturb any of the papers on the director's desk.",
+     "zh": "清潔人員很小心，沒有弄亂主任桌上的任何文件。"
+    },
+    {
+     "en": "Loud phone calls in the open office can disturb coworkers who are trying to concentrate.",
+     "zh": "在開放式辦公室大聲講電話，會干擾正在專心工作的同事。"
+    },
+    {
+     "en": "If you need to work quietly, you can book a private room where nobody will disturb you.",
+     "zh": "如果你需要安靜工作，可以預約一間不會有人打擾你的獨立房間。"
+    }
+   ],
+   "distractors": [
+    "distribute",
+    "disturbance",
+    "distrust"
+   ],
+   "note": "飯店門把上的 Do Not Disturb 就是「請勿打擾」。相關字：undisturbed（沒被動過、不受打擾的）、disturbing（令人不安的）、disturbance（干擾；騷動）。容易搞混：interrupt 是「打斷（正在說話或進行的事）」，disturb 範圍比較廣，也可以指弄亂東西。",
+   "addedAt": "2026-10-16"
   }
  ],
  "notes": [
