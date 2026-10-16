@@ -514,32 +514,77 @@ function toast(msg){
 }
 
 /* ---------- 新增 / 修改單字 ---------- */
+function splitWords(text){
+  const seen = new Set(), out = [];
+  for (let t of String(text || "").split(/[\n,，、;；\/|]+/)){
+    t = t.replace(/^\s*(?:[-*•·]|\d+[.)、])\s*/, "").replace(/[“”"]/g, "").trim().replace(/\s+/g, " ");
+    if (!t) continue;
+    const k = t.toLowerCase(); if (seen.has(k)) continue; seen.add(k); out.push(t);
+  }
+  return out;
+}
+
 function openAdd(){
   openSheet(`
     <div class="phead"><h2>新增單字</h2><button class="x" aria-label="關閉">×</button></div>
     <form class="stack" id="addForm" autocomplete="off">
-      <label class="f" for="newWord">今天學到的英文單字
-        <input type="text" id="newWord" class="en" placeholder="例如 favorable" autocapitalize="off" spellcheck="false" required></label>
+      <label class="f" for="newWord">今天學到的英文單字（可以一次打很多個，一行一個或用逗號分開）
+        <textarea id="newWord" class="en" rows="4" placeholder="例如：&#10;favorable&#10;postpone&#10;washing machine" autocapitalize="off" spellcheck="false" style="min-height:110px"></textarea></label>
       <div id="addMsg"></div>
       <button class="primary" id="addGo" type="submit">新增</button>
     </form>
-    <div class="row" style="justify-content:center;margin-top:14px"><button type="button" class="linkbtn" id="toImport">一次加很多字：用 ChatGPT 或其他 AI 寫好再貼上</button></div>`);
+    <div class="row" style="justify-content:center;margin-top:14px"><button type="button" class="linkbtn" id="toImport">用 ChatGPT 或其他 AI 寫好再貼上</button></div>`);
   $("#toImport").onclick = openImport;
   const input = $("#newWord");
   setTimeout(() => input.focus(), 50);
   $("#addForm").addEventListener("submit", async e => {
     e.preventDefault();
-    const word = input.value.trim().replace(/\s+/g, " ");
     const msg = $("#addMsg");
-    if (!/^[A-Za-z][A-Za-z' -]*$/.test(word)){ msg.innerHTML = `<p class="note err">請只輸入英文字母，例如 favorable。</p>`; return; }
-    const dup = Store.words.find(w => w.word.toLowerCase() === word.toLowerCase());
-    if (dup){ msg.innerHTML = `<p class="note err">「${escapeHtml(dup.word)}」已經在單字庫裡了。</p>`; return; }
-    msg.innerHTML = `<p class="note loading"><span class="dot"></span>AI 正在寫中文意思和考題句子，大約 5～15 秒…</p>`;
-    $("#addGo").disabled = true;
-    let draft = null, aiNote = "";
-    try { draft = await AI.generate(word); }
-    catch(err){ aiNote = err && err.userMessage ? err.userMessage : "AI 暫時沒辦法使用，請先自己輸入中文和一個例句。"; }
-    openEditor(normalizeWord(draft ? { ...draft, word } : { word, sentences:[{en:"", zh:""}] }), { isNew:true, aiNote });
+    const list = splitWords(input.value);
+    if (!list.length){ msg.innerHTML = `<p class="note err">請輸入至少一個英文單字。</p>`; return; }
+    const bad = list.filter(w => !/^[A-Za-z][A-Za-z' .-]*$/.test(w));
+    if (bad.length){ msg.innerHTML = `<p class="note err">這些不是英文字：${escapeHtml(bad.join("、"))}。請只輸入英文字母。</p>`; return; }
+    const dups = list.filter(w => Store.words.some(x => x.word.toLowerCase() === w.toLowerCase()));
+    const todo = list.filter(w => !dups.includes(w));
+    if (!todo.length){ msg.innerHTML = `<p class="note err">${escapeHtml(dups.join("、"))} 已經在單字庫裡了。</p>`; return; }
+
+    // 只有一個字：照舊打開確認畫面，讓你看過再存
+    if (todo.length === 1 && list.length === 1){
+      const word = todo[0];
+      msg.innerHTML = `<p class="note loading"><span class="dot"></span>AI 正在寫中文意思和考題句子，大約 5～15 秒…</p>`;
+      $("#addGo").disabled = true;
+      let draft = null, aiNote = "";
+      try { draft = await AI.generate(word); }
+      catch(err){ aiNote = err && err.userMessage ? err.userMessage : "AI 暫時沒辦法使用，請先自己輸入中文和一個例句。"; }
+      openEditor(normalizeWord(draft ? { ...draft, word } : { word, sentences:[{en:"", zh:""}] }), { isNew:true, aiNote });
+      return;
+    }
+
+    // 很多個字：AI 一次寫好，直接存進單字庫
+    $("#addGo").disabled = true; input.disabled = true;
+    const added = [], failed = [];
+    let stopMsg = "";
+    const CHUNK = 6;
+    for (let k = 0; k < todo.length; k += CHUNK){
+      const part = todo.slice(k, k + CHUNK);
+      msg.innerHTML = `<p class="note loading"><span class="dot"></span>AI 正在寫第 ${k + 1}～${Math.min(k + CHUNK, todo.length)} 個字（共 ${todo.length} 個），每批大約 10～30 秒，請不要關掉…</p>`;
+      let got = {};
+      try { got = await AI.generateMany(part); }
+      catch(err){ stopMsg = err && err.userMessage ? err.userMessage : "AI 暫時沒辦法使用。"; failed.push(...todo.slice(k)); break; }
+      for (const w of part){
+        const d = got[w.toLowerCase()];
+        if (!d){ failed.push(w); continue; }
+        await Store.add(normalizeWord({ ...d, word: w, source: "app" }));
+        added.push(w);
+      }
+    }
+    input.disabled = false; $("#addGo").disabled = false;
+    input.value = failed.join("\n");
+    msg.innerHTML = `<p class="note">已加入 ${added.length} 個字${added.length ? "：" + escapeHtml(added.join("、")) : ""}
+      ${dups.length ? `<br>已經在單字庫、略過：${escapeHtml(dups.join("、"))}` : ""}
+      ${failed.length ? `<br><b>沒加成功：${escapeHtml(failed.join("、"))}</b>（已經留在上面的框框裡，可以再按一次「新增」重試）` : ""}
+      ${stopMsg ? `<br>${escapeHtml(stopMsg)}` : ""}</p>`;
+    if (added.length){ toast(`已加入 ${added.length} 個新字`); if (!S.round.length || S.i >= S.round.length) newRound(); else updateCount(); }
   });
 }
 
@@ -730,6 +775,54 @@ function openBank(){
 /* ---------- AI（Google Gemini 免費版） ---------- */
 const AI = {
   models: ["gemini-flash-latest", "gemini-2.5-flash"],
+  async call(prompt){
+    const key = Store.settings.aiKey || "";
+    if (!key){ const e = new Error("no key"); e.userMessage = "還沒有設定 AI 通行碼（在單字庫最下面的設定），先自己輸入中文意思和一個例句。"; throw e; }
+    let res, lastStatus = 0;
+    for (const model of this.models){
+      res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", "x-goog-api-key": key },
+        body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { responseMimeType: "application/json", temperature: 0.8 } }),
+      }).catch(() => null);
+      if (res && res.ok) break;
+      lastStatus = res ? res.status : 0;
+      if (lastStatus !== 404) break;
+    }
+    let detail = "";
+    if (res && !res.ok){ try { const j = await res.json(); detail = [j?.error?.status, j?.error?.details?.[0]?.reason, j?.error?.message].filter(Boolean).join("｜").slice(0, 160); } catch {} }
+    if (!res || !res.ok){
+      const e = new Error("http " + lastStatus); e.status = lastStatus;
+      e.userMessage = lastStatus === 429 ? "今天的 AI 免費額度用完了，先自己輸入中文和例句，或請 Claude 幫你加。"
+        : (lastStatus === 400 || lastStatus === 401 || lastStatus === 403) ? "AI 通行碼好像不對，請到單字庫最下面的設定重新貼一次。"
+        : "AI 暫時沒辦法使用，請先自己輸入中文和一個例句。";
+      e.userMessage += `（Google 回覆：${lastStatus || "連不上"}${detail ? "｜" + detail : ""}）`;
+      throw e;
+    }
+    const data = await res.json();
+    const text = data?.candidates?.[0]?.content?.parts?.map(p => p.text).join("") || "";
+    try { return JSON.parse(text); } catch { const e = new Error("json"); e.userMessage = "AI 回覆的格式不對，請再試一次。"; throw e; }
+  },
+  async generateMany(words){
+    const prompt = `You are writing TOEIC Part 5 practice questions for a Taiwanese learner.
+Target words: ${JSON.stringify(words)}
+Return ONLY a JSON array with one object per target word, in the same order, each with this shape:
+{"word": the target word exactly as given,
+ "pos": one of ${JSON.stringify(POS_LIST)},
+ "meaning": "Traditional Chinese (Taiwan) meaning, short, separate senses with ；",
+ "sentences": [5 items of {"en": "a business/office TOEIC-style English sentence, 15-28 words, containing the exact target word string exactly once, same spelling and form", "zh": "natural Traditional Chinese (Taiwan) translation"}],
+ "distractors": [3 English words with the same part of speech that look or sound similar to the target word but do NOT fit any of its sentences]}`;
+    let arr = await this.call(prompt);
+    if (!Array.isArray(arr)) arr = Array.isArray(arr?.words) ? arr.words : [arr];
+    const out = {};
+    for (const j of arr){
+      const word = words.find(w => w.toLowerCase() === String(j?.word || "").trim().toLowerCase());
+      if (!word) continue;
+      const sentences = (j.sentences || []).filter(s => s && s.en && hasWord(s.en, word));
+      if (sentences.length) out[word.toLowerCase()] = { pos: POS_LIST.includes(j.pos) ? j.pos : "其他", meaning: j.meaning || "", sentences, distractors: j.distractors || [] };
+    }
+    return out;
+  },
   async generate(word){
     const key = Store.settings.aiKey || "";
     if (!key){ const e = new Error("no key"); e.userMessage = "還沒有設定 AI 通行碼（在單字庫最下面的設定），先自己輸入中文意思和一個例句。"; throw e; }
