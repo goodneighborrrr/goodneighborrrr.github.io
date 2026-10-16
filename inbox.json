@@ -2922,7 +2922,8 @@
     "profit",
     "prompted"
    ],
-   "addedAt": "2026-10-16"
+   "addedAt": "2026-10-16",
+   "note": "意思像 make（讓某人去做某事），但句型不同：prompt + 人 + to + 動詞（The rain prompted us to stay home.）；make + 人 + 動詞原形，不加 to（The rain made us stay home.）。make 較口語、帶「不得不」的感覺；prompt 較正式，指某件事成為原因、讓人決定去做。prompt 當形容詞是「迅速的」（a prompt reply）；放在名詞前通常是形容詞，後面接「人 + to + 動詞」就是動詞「促使」。"
   },
   {
    "id": "20261016-stay-tuned",
@@ -2990,7 +2991,20 @@
     "promised",
     "proposed"
    ],
-   "addedAt": "2026-10-16"
+   "addedAt": "2026-10-16",
+   "note": "意思像 make（讓某人去做某事），但句型不同：prompt + 人 + to + 動詞（The rain prompted us to stay home.）；make + 人 + 動詞原形，不加 to（The rain made us stay home.）。make 較口語、帶「不得不」的感覺；prompt 較正式，指某件事成為原因、讓人決定去做。"
+  }
+ ],
+ "notes": [
+  {
+   "id": "note-20261016-prompt",
+   "word": "prompt",
+   "note": "意思像 make（讓某人去做某事），但句型不同：prompt + 人 + to + 動詞（The rain prompted us to stay home.）；make + 人 + 動詞原形，不加 to（The rain made us stay home.）。make 較口語、帶「不得不」的感覺；prompt 較正式，指某件事成為原因、讓人決定去做。prompt 當形容詞是「迅速的」（a prompt reply）；放在名詞前通常是形容詞，後面接「人 + to + 動詞」就是動詞「促使」。"
+  },
+  {
+   "id": "note-20261016-prompted",
+   "word": "prompted",
+   "note": "意思像 make（讓某人去做某事），但句型不同：prompt + 人 + to + 動詞（The rain prompted us to stay home.）；make + 人 + 動詞原形，不加 to（The rain made us stay home.）。make 較口語、帶「不得不」的感覺；prompt 較正式，指某件事成為原因、讓人決定去做。"
   }
  ]
 }

@@ -98,6 +98,8 @@ main{padding-block:20px 48px}
 .wordline .pos{font-size:13px;color:var(--muted)}
 .meaning{font-size:17px;font-weight:500}
 .zh{font-size:14px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px}
+.wnote{font-size:14px;line-height:1.7;background:var(--leaf-wash);color:var(--ink);border-radius:10px;padding:10px 12px;white-space:pre-line}
+.wnote b{color:var(--leaf-ink)}
 .primary{width:100%;margin-top:16px;height:50px;border-radius:25px;border:0;background:var(--leaf);color:#fff;font-weight:700;font-size:16px;letter-spacing:.04em}
 .primary:hover{filter:brightness(1.05)}
 .primary:disabled{opacity:.5;cursor:default}
@@ -267,6 +269,7 @@ function normalizeWord(w){
     meaning: w.meaning || "",
     sentences: (w.sentences || []).filter(s => s && s.en).map(s => ({ en: s.en, zh: s.zh || "" })),
     distractors: (w.distractors || []).filter(Boolean),
+    note: String(w.note || ""),
     source: w.source || "app",
     createdAt: w.createdAt || Date.now(),
     stats: Object.assign({ attempts:0, wrong:0, lastSeen:0 }, w.stats || {}),
@@ -411,6 +414,7 @@ function renderQuestion(){
       <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
       ${q.sentence.zh ? `<div class="zh">${escapeHtml(q.sentence.zh)}</div>` : ""}
+      ${w.note ? `<div class="wnote"><b>備註</b>　${escapeHtml(w.note)}</div>` : ""}
     </section>
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
     <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}`;
@@ -611,6 +615,8 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
       <button type="button" class="linkbtn" id="addSent">＋ 再加一個例句</button>
       <label class="f" for="e_dis">錯誤選項的備用字（用逗號分開，單字庫的字不夠時才會用到）
         <input type="text" id="e_dis" class="en" value="${escapeHtml(w.distractors.join(", "))}" placeholder="例如 favorite, faithful, flexible"></label>
+      <label class="f" for="e_note">備註（同義詞、容易搞混的字、用法提醒；答完題目時會顯示在最下面）
+        <textarea id="e_note" placeholder="例如：類似 make，但句型要加 to：prompt + 人 + to + 動詞" style="min-height:64px">${escapeHtml(w.note || "")}</textarea></label>
       ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
       <div id="editMsg"></div>
       <button class="primary" type="submit">儲存</button>
@@ -647,7 +653,7 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
     const bad = sents.findIndex(s => !hasWord(s.en, word));
     if (bad >= 0) return msg.innerHTML = `<p class="note err">例句 ${bad + 1} 裡沒有出現「${escapeHtml(word)}」。例句要用一模一樣的拼法，才能把它挖空出題。</p>`;
     const updated = { ...w, word, pos: $("#e_pos").value, meaning: $("#e_meaning").value.trim(), sentences: sents,
-      distractors: $("#e_dis").value.split(/[,，、]/).map(s => s.trim()).filter(Boolean).slice(0, 6) };
+      distractors: $("#e_dis").value.split(/[,，、]/).map(s => s.trim()).filter(Boolean).slice(0, 6), note: $("#e_note").value.trim() };
     if (isNew){ Store.add(updated); toast(`已新增 ${word}`); }
     else { Store.update(updated); toast(`已儲存 ${word}`); }
     closeSheet();
@@ -662,7 +668,7 @@ const IMPORT_PROMPT = `請幫我把下面的英文單字做成多益單字題的
 規則：
 1. 只回覆一個 JSON 陣列，不要有任何其他文字或說明。
 2. 每個單字一個物件，格式如下：
-{"word":"單字（照我給的拼法）","pos":"詞性","meaning":"台灣繁體中文意思，不同意思用；隔開","sentences":[{"en":"英文例句","zh":"台灣繁體中文翻譯"}],"distractors":["錯誤選項1","錯誤選項2","錯誤選項3"]}
+{"word":"單字（照我給的拼法）","pos":"詞性","meaning":"台灣繁體中文意思，不同意思用；隔開","sentences":[{"en":"英文例句","zh":"台灣繁體中文翻譯"}],"distractors":["錯誤選項1","錯誤選項2","錯誤選項3"],"note":"備註：常見同義詞或容易搞混的字，以及差別（沒有就空白）"}
 3. pos 只能是其中一個：名詞、動詞、形容詞、副詞、介系詞、連接詞、片語動詞、其他
 4. sentences 寫 5 句多益 Part 5 風格（商務、辦公室情境）的英文句子，每句 15～28 個字。每一句都必須包含跟 word 一模一樣拼法的字，而且只出現一次。
 5. distractors 寫 3 個詞性相同、長得或聽起來像、但放進這些句子都不對的英文字。
@@ -713,7 +719,7 @@ function openImport(){
       if (Store.words.some(w => w.word.toLowerCase() === word.toLowerCase()) || added.some(w => w.toLowerCase() === word.toLowerCase())){ skipped.push(`${word}（已經在單字庫）`); continue; }
       const sentences = (Array.isArray(it.sentences) ? it.sentences : []).map(x => typeof x === "string" ? { en: x, zh: "" } : x).filter(x => x && x.en && hasWord(x.en, word));
       if (!sentences.length){ skipped.push(`${word}（例句裡沒有這個字）`); continue; }
-      await Store.add(normalizeWord({ word, pos: POS_LIST.includes(it.pos) ? it.pos : "其他", meaning: String(it.meaning || ""), sentences, distractors: Array.isArray(it.distractors) ? it.distractors.map(String).slice(0, 6) : [], source: "import" }));
+      await Store.add(normalizeWord({ word, pos: POS_LIST.includes(it.pos) ? it.pos : "其他", meaning: String(it.meaning || ""), sentences, distractors: Array.isArray(it.distractors) ? it.distractors.map(String).slice(0, 6) : [], note: String(it.note || ""), source: "import" }));
       added.push(word);
     }
     if (!added.length && !skipped.length){ msg.innerHTML = `<p class="note err">沒有找到任何單字，請確認貼上的是 AI 的回覆。</p>`; return; }
@@ -818,7 +824,8 @@ Return ONLY a JSON array with one object per target word, in the same order, eac
  "pos": one of ${JSON.stringify(POS_LIST)},
  "meaning": "Traditional Chinese (Taiwan) meaning, short, separate senses with ；",
  "sentences": [5 items of {"en": "a business/office TOEIC-style English sentence, 15-28 words, containing the exact target word string exactly once, same spelling and form", "zh": "natural Traditional Chinese (Taiwan) translation"}],
- "distractors": [3 English words with the same part of speech that look or sound similar to the target word but do NOT fit any of its sentences]}`;
+ "distractors": [3 English words with the same part of speech that look or sound similar to the target word but do NOT fit any of its sentences],
+ "note": "Traditional Chinese (Taiwan), 1-2 short sentences: common synonyms or easily confused words and how they differ (e.g. different sentence pattern), or empty string if nothing useful"}`;
     let arr = await this.call(prompt);
     if (!Array.isArray(arr)) arr = Array.isArray(arr?.words) ? arr.words : [arr];
     const out = {};
@@ -826,7 +833,7 @@ Return ONLY a JSON array with one object per target word, in the same order, eac
       const word = words.find(w => w.toLowerCase() === String(j?.word || "").trim().toLowerCase());
       if (!word) continue;
       const sentences = (j.sentences || []).filter(s => s && s.en && hasWord(s.en, word));
-      if (sentences.length) out[word.toLowerCase()] = { pos: POS_LIST.includes(j.pos) ? j.pos : "其他", meaning: j.meaning || "", sentences, distractors: j.distractors || [] };
+      if (sentences.length) out[word.toLowerCase()] = { pos: POS_LIST.includes(j.pos) ? j.pos : "其他", meaning: j.meaning || "", sentences, distractors: j.distractors || [], note: String(j.note || "") };
     }
     return out;
   },
@@ -837,12 +844,13 @@ Return ONLY JSON with this shape:
 {"pos": one of ${JSON.stringify(POS_LIST)},
  "meaning": "Traditional Chinese (Taiwan) meaning, short, separate senses with ；",
  "sentences": [5 items of {"en": "a business/office TOEIC-style English sentence, 15-28 words, containing the exact string \\"${word}\\" exactly once, same spelling and form", "zh": "natural Traditional Chinese (Taiwan) translation"}],
- "distractors": [3 English words with the same part of speech that look or sound similar to "${word}" but do NOT fit any of the sentences]}`;
+ "distractors": [3 English words with the same part of speech that look or sound similar to "${word}" but do NOT fit any of the sentences],
+ "note": "Traditional Chinese (Taiwan), 1-2 short sentences: common synonyms or easily confused words and how they differ (e.g. different sentence pattern), or empty string if nothing useful"}`;
     let j = await this.call(prompt);
     if (Array.isArray(j)) j = j[0] || {};
     const sentences = (j.sentences || []).filter(s => s && s.en && hasWord(s.en, word));
     if (!sentences.length){ const e = new Error("bad"); e.userMessage = "AI 寫的句子不合用，請自己輸入一個例句，或關掉再試一次。"; throw e; }
-    return { pos: POS_LIST.includes(j.pos) ? j.pos : "其他", meaning: j.meaning || "", sentences, distractors: j.distractors || [] };
+    return { pos: POS_LIST.includes(j.pos) ? j.pos : "其他", meaning: j.meaning || "", sentences, distractors: j.distractors || [], note: String(j.note || "") };
   },
 };
 
@@ -857,18 +865,25 @@ async function importInbox({ quiet = false } = {}){
     const data = await res.json();
     const done = new Set(Store.settings.imported || []);
     const fresh = (data.words || []).filter(e => e && e.id && e.word && !done.has(e.id));
-    if (!fresh.length) return;
+    const notes = (data.notes || []).filter(n => n && n.id && n.word && n.note && !done.has(n.id));
+    if (!fresh.length && !notes.length) return;
     const added = [];
     for (const e of fresh){
       const exists = Store.words.some(w => w.word.toLowerCase() === String(e.word).toLowerCase());
       const sentences = (e.sentences || []).filter(s => s && s.en && hasWord(s.en, e.word));
       if (!exists && sentences.length){
-        await Store.add(normalizeWord({ id: "c-" + e.id, word: e.word, pos: POS_LIST.includes(e.pos) ? e.pos : "其他", meaning: e.meaning || "", sentences, distractors: e.distractors || [], source: "claude", createdAt: Date.parse(e.addedAt) || Date.now() }));
+        await Store.add(normalizeWord({ id: "c-" + e.id, word: e.word, pos: POS_LIST.includes(e.pos) ? e.pos : "其他", meaning: e.meaning || "", sentences, distractors: e.distractors || [], note: String(e.note || ""), source: "claude", createdAt: Date.parse(e.addedAt) || Date.now() }));
         added.push(e.word);
       }
     }
-    await Store.saveSettings({ imported: arrayUnion(...fresh.map(e => e.id)) });
-    Store.settings.imported = [...done, ...fresh.map(e => e.id)];
+    // 補備註：Claude 幫已經在單字庫的字補上同義詞或用法提醒（每筆只套用一次）
+    for (const n of notes){
+      const w = Store.words.find(x => x.word.toLowerCase() === String(n.word).toLowerCase());
+      if (w && w.note !== n.note){ w.note = n.note; await Store.update(w); }
+    }
+    const ids = [...fresh.map(e => e.id), ...notes.map(n => n.id)];
+    await Store.saveSettings({ imported: arrayUnion(...ids) });
+    Store.settings.imported = [...done, ...ids];
     if (added.length){
       toast(`已加入 Claude 幫你寫好的 ${added.length} 個新字`);
       if (!S.round.length || S.i >= S.round.length) newRound(); else updateCount();
