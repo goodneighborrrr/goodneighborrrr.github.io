@@ -2753,6 +2753,40 @@
     "flip"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-produce",
+   "word": "produce",
+   "pos": "名詞",
+   "meaning": "（名詞）農產品；蔬果；（動詞）生產；製造",
+   "sentences": [
+    {
+     "en": "Fresh produce is delivered to the supermarket every morning before the store opens.",
+     "zh": "新鮮蔬果每天早上在超市開門前送達。"
+    },
+    {
+     "en": "Customers can find apples, bananas, and lettuce in the produce section near the entrance.",
+     "zh": "顧客可以在入口附近的蔬果區找到蘋果、香蕉和萵苣。"
+    },
+    {
+     "en": "The restaurant buys its produce directly from local farms to keep costs low.",
+     "zh": "這家餐廳直接向當地農場購買蔬果，以降低成本。"
+    },
+    {
+     "en": "Our produce manager checks the quality of the vegetables several times a day.",
+     "zh": "我們的蔬果區主管一天會檢查好幾次蔬菜的品質。"
+    },
+    {
+     "en": "The factory will produce five thousand units of the new printer next month.",
+     "zh": "工廠下個月將生產五千台新款印表機。"
+    }
+   ],
+   "distractors": [
+    "product",
+    "producer",
+    "productive"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
