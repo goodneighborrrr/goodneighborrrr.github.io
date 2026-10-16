@@ -683,11 +683,14 @@ Return ONLY JSON with this shape:
       lastStatus = res ? res.status : 0;
       if (lastStatus !== 404) break;   // 只有「找不到這個模型」才換下一個試
     }
+    let detail = "";
+    if (res && !res.ok){ try { const j = await res.json(); detail = [j?.error?.status, j?.error?.details?.[0]?.reason, j?.error?.message].filter(Boolean).join("｜").slice(0, 160); } catch {} }
     if (!res || !res.ok){
       const e = new Error("http " + lastStatus);
       e.userMessage = lastStatus === 429 ? "今天的 AI 免費額度用完了，先自己輸入中文和例句，或請 Claude 幫你加。"
         : (lastStatus === 400 || lastStatus === 401 || lastStatus === 403) ? "AI 通行碼好像不對，請到單字庫最下面的設定重新貼一次。"
         : "AI 暫時沒辦法使用，請先自己輸入中文和一個例句。";
+      e.userMessage += `（Google 回覆：${lastStatus || "連不上"}${detail ? "｜" + detail : ""}）`;
       throw e;
     }
     const data = await res.json();
