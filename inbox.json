@@ -3413,6 +3413,41 @@
       ],
       "note": "remain 和 stay 意思很像，但 remain 比較正式，多益很常考。後面可以直接接形容詞，例如 remain calm（保持冷靜）。別搞混：retain＝保留（東西）；remind＝提醒。",
       "addedAt": "2026-10-16"
+    },
+    {
+      "id": "20261016-stationed",
+      "word": "stationed",
+      "pos": "動詞",
+      "meaning": "（被）派駐；（被）安排守在某個位置",
+      "sentences": [
+        {
+          "en": "During the trade fair, two sales representatives will be stationed at the main entrance to greet visitors.",
+          "zh": "商展期間，會有兩位業務代表被安排在大門口迎接訪客。"
+        },
+        {
+          "en": "Volunteers stationed near the registration desk will help guests find their seats before the conference begins.",
+          "zh": "安排在報到處附近的志工，會在會議開始前幫來賓找座位。"
+        },
+        {
+          "en": "Security officers were stationed on every floor of the hotel during the international business summit.",
+          "zh": "國際商業高峰會期間，飯店每層樓都派駐了保全人員。"
+        },
+        {
+          "en": "Ms. Wong has been stationed at our Singapore office for three years as the regional coordinator.",
+          "zh": "黃小姐以區域協調員的身分派駐新加坡辦公室已經三年了。"
+        },
+        {
+          "en": "Please check the event map to see where you will be stationed on the day of the opening ceremony.",
+          "zh": "請查看活動地圖，確認開幕典禮當天你被安排在哪個位置。"
+        }
+      ],
+      "distractors": [
+        "stated",
+        "stained",
+        "stunned"
+      ],
+      "note": "be stationed at＝被安排守在某處、派駐在某地，原形是 station（當名詞是「車站」）。長很像的字：stationary（靜止的）、stationery（文具），兩個只差一個字母。",
+      "addedAt": "2026-10-16"
     }
   ],
   "notes": [
