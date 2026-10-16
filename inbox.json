@@ -2379,6 +2379,40 @@
     "gene"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-job-orientation",
+   "word": "job orientation",
+   "pos": "名詞",
+   "meaning": "新人訓練；新進員工說明會",
+   "sentences": [
+    {
+     "en": "All new employees must attend a two-day job orientation before they start working in the warehouse.",
+     "zh": "所有新進員工在開始到倉庫工作前，都必須參加兩天的新人訓練。"
+    },
+    {
+     "en": "During the job orientation, the HR manager explained the company's vacation policy and safety rules.",
+     "zh": "新人訓練期間，人資經理說明了公司的休假制度和安全規定。"
+    },
+    {
+     "en": "The job orientation for the new sales team will be held in Conference Room B on Monday morning.",
+     "zh": "新業務團隊的新人訓練將於週一上午在 B 會議室舉行。"
+    },
+    {
+     "en": "Ms. Lee received her employee badge and laptop at the end of her job orientation.",
+     "zh": "李小姐在新人訓練結束時領到了員工證和筆電。"
+    },
+    {
+     "en": "Many new hires say that a well-organized job orientation helps them feel welcome on their first day.",
+     "zh": "許多新進員工表示，安排完善的新人訓練讓他們第一天上班就感到受歡迎。"
+    }
+   ],
+   "distractors": [
+    "job description",
+    "job application",
+    "job promotion"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
