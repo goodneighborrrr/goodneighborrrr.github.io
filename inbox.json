@@ -3343,6 +3343,41 @@
       ],
       "note": "名詞 handout（講義）要連在一起寫；動詞片語 hand out（分發）要分開寫，例如 hand out the handouts（發講義）。",
       "addedAt": "2026-10-16"
+    },
+    {
+      "id": "20261016-escort",
+      "word": "escort",
+      "pos": "動詞",
+      "meaning": "護送；陪同；帶（某人）去某處",
+      "sentences": [
+        {
+          "en": "A security guard will escort the visitors to the conference room on the tenth floor.",
+          "zh": "保全人員會護送訪客到十樓的會議室。"
+        },
+        {
+          "en": "Employees are asked to escort their guests at all times while inside the research building.",
+          "zh": "員工在研發大樓內必須全程陪同自己的訪客。"
+        },
+        {
+          "en": "The hotel manager offered to escort the famous author through the side entrance to avoid the reporters.",
+          "zh": "飯店經理主動帶那位知名作家從側門進去，避開記者。"
+        },
+        {
+          "en": "Ms. Rivera will escort the delegation from Japan during their three-day tour of our factories.",
+          "zh": "里維拉小姐會在日本代表團參觀工廠的三天期間全程陪同。"
+        },
+        {
+          "en": "Please wait in the lobby until a staff member arrives to escort you to the interview room.",
+          "zh": "請在大廳等候，工作人員會來帶你到面試室。"
+        }
+      ],
+      "distractors": [
+        "escape",
+        "export",
+        "exert"
+      ],
+      "note": "accompany 是一般的「陪伴、一起去」；escort 多了「帶路、護送、保護」的意思，常用在警衛、導覽或重要人物。escort 也可以當名詞，意思是「護衛、隨行人員」。",
+      "addedAt": "2026-10-16"
     }
   ],
   "notes": [
