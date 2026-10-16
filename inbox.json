@@ -2787,6 +2787,74 @@
     "proceed"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-stock",
+   "word": "stock",
+   "pos": "動詞",
+   "meaning": "（商店）進貨；備有（商品）；（名詞）存貨；股票",
+   "sentences": [
+    {
+     "en": "The grocery store plans to stock more fresh fruit during the summer months.",
+     "zh": "這家雜貨店打算在夏季幾個月多進一些新鮮水果。"
+    },
+    {
+     "en": "Our pharmacy does not stock this medicine, but we can order it for you.",
+     "zh": "我們藥局沒有販售這種藥，不過可以幫您訂。"
+    },
+    {
+     "en": "Employees stock the shelves every night after the store closes.",
+     "zh": "員工每晚在店打烊後把貨架補滿。"
+    },
+    {
+     "en": "The new location will stock a wider range of office supplies than our downtown branch.",
+     "zh": "新分店會比市區分店備有更多種類的辦公用品。"
+    },
+    {
+     "en": "Please check whether we still have the blue jackets in stock before the customer arrives.",
+     "zh": "客人到之前，請先確認藍色外套是否還有庫存。"
+    }
+   ],
+   "distractors": [
+    "stuck",
+    "shock",
+    "stork"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-dairy",
+   "word": "dairy",
+   "pos": "名詞",
+   "meaning": "乳製品（牛奶、起司、優格等）；（形容詞）乳製的",
+   "sentences": [
+    {
+     "en": "The supermarket keeps all dairy items, such as milk and cheese, in the refrigerated section.",
+     "zh": "超市把牛奶、起司這類乳製品都放在冷藏區。"
+    },
+    {
+     "en": "Several of our employees cannot eat dairy, so please order some vegan dishes for the lunch meeting.",
+     "zh": "我們有幾位員工不能吃乳製品，午餐會議請訂一些純素餐點。"
+    },
+    {
+     "en": "The company's dairy products are sold in more than two thousand stores across Asia.",
+     "zh": "這家公司的乳製品在亞洲超過兩千家商店販售。"
+    },
+    {
+     "en": "Prices for dairy rose sharply this year because of higher feed costs for farmers.",
+     "zh": "因為農民的飼料成本上漲，今年乳製品價格大幅上升。"
+    },
+    {
+     "en": "The new café offers plant-based milk for customers who avoid dairy.",
+     "zh": "新咖啡店為不吃乳製品的顧客提供植物奶。"
+    }
+   ],
+   "distractors": [
+    "diary",
+    "daily",
+    "dairyman"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
