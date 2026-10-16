@@ -2515,6 +2515,40 @@
     "sympathy"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-topped",
+   "word": "topped",
+   "pos": "動詞",
+   "meaning": "（top 的過去式）登上榜首；位居第一；超過（某數量）",
+   "sentences": [
+    {
+     "en": "The author's new novel has topped best-seller lists for nine weeks in a row.",
+     "zh": "這位作家的新小說已經連續九週登上暢銷書排行榜冠軍。"
+    },
+    {
+     "en": "Sales of the new smartphone topped two million units in the first month.",
+     "zh": "新款智慧型手機第一個月的銷量就超過兩百萬台。"
+    },
+    {
+     "en": "Our team topped the regional sales rankings for the third quarter.",
+     "zh": "我們團隊在第三季拿下區域業績排名第一。"
+    },
+    {
+     "en": "The film topped the box office over the holiday weekend.",
+     "zh": "這部電影在連假週末登上票房冠軍。"
+    },
+    {
+     "en": "Last year, the hotel's online rating topped every other hotel in the city.",
+     "zh": "去年這家飯店的網路評分勝過市內所有其他飯店。"
+    }
+   ],
+   "distractors": [
+    "tapped",
+    "tipped",
+    "stopped"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
