@@ -522,7 +522,9 @@ function openAdd(){
         <input type="text" id="newWord" class="en" placeholder="例如 favorable" autocapitalize="off" spellcheck="false" required></label>
       <div id="addMsg"></div>
       <button class="primary" id="addGo" type="submit">新增</button>
-    </form>`);
+    </form>
+    <div class="row" style="justify-content:center;margin-top:14px"><button type="button" class="linkbtn" id="toImport">一次加很多字：用 ChatGPT 或其他 AI 寫好再貼上</button></div>`);
+  $("#toImport").onclick = openImport;
   const input = $("#newWord");
   setTimeout(() => input.focus(), 50);
   $("#addForm").addEventListener("submit", async e => {
@@ -564,7 +566,7 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
       <button type="button" class="linkbtn" id="addSent">＋ 再加一個例句</button>
       <label class="f" for="e_dis">錯誤選項的備用字（用逗號分開，單字庫的字不夠時才會用到）
         <input type="text" id="e_dis" class="en" value="${escapeHtml(w.distractors.join(", "))}" placeholder="例如 favorite, faithful, flexible"></label>
-      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : ""}</p>` : ""}
+      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
       <div id="editMsg"></div>
       <button class="primary" type="submit">儲存</button>
       ${!isNew ? `<div class="row" style="justify-content:center"><button type="button" class="ghost danger" id="delWord">刪除這個單字</button></div>` : ""}
@@ -607,6 +609,72 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
     if (!S.round.length) newRound(); else render();
     if (fromBank) openBank();
   });
+}
+
+/* ---------- 貼上匯入：讓 ChatGPT、Gemini 等其他 AI 幫忙寫單字 ---------- */
+const IMPORT_PROMPT = `請幫我把下面的英文單字做成多益單字題的資料。
+
+規則：
+1. 只回覆一個 JSON 陣列，不要有任何其他文字或說明。
+2. 每個單字一個物件，格式如下：
+{"word":"單字（照我給的拼法）","pos":"詞性","meaning":"台灣繁體中文意思，不同意思用；隔開","sentences":[{"en":"英文例句","zh":"台灣繁體中文翻譯"}],"distractors":["錯誤選項1","錯誤選項2","錯誤選項3"]}
+3. pos 只能是其中一個：名詞、動詞、形容詞、副詞、介系詞、連接詞、片語動詞、其他
+4. sentences 寫 5 句多益 Part 5 風格（商務、辦公室情境）的英文句子，每句 15～28 個字。每一句都必須包含跟 word 一模一樣拼法的字，而且只出現一次。
+5. distractors 寫 3 個詞性相同、長得或聽起來像、但放進這些句子都不對的英文字。
+
+我的單字：
+`;
+
+function parseImport(text){
+  let t = String(text || "").trim().replace(/^```(?:json)?/i, "").replace(/```$/, "").trim();
+  const tries = [t];
+  const a = t.indexOf("["), b = t.lastIndexOf("]"); if (a >= 0 && b > a) tries.push(t.slice(a, b + 1));
+  const o1 = t.indexOf("{"), o2 = t.lastIndexOf("}"); if (o1 >= 0 && o2 > o1) tries.push(t.slice(o1, o2 + 1));
+  for (const x of tries){
+    let data; try { data = JSON.parse(x); } catch { continue; }
+    if (!Array.isArray(data)) data = Array.isArray(data?.words) ? data.words : [data];
+    data = data.filter(d => d && typeof d === "object" && d.word);
+    if (data.length) return data;
+  }
+  throw new Error("parse");
+}
+
+function openImport(){
+  openSheet(`
+    <div class="phead"><h2>貼上匯入</h2><button class="x" aria-label="關閉">×</button></div>
+    <div class="stack">
+      <div class="note"><b>第 1 步</b>：按下面的按鈕複製指令，貼到 ChatGPT（或 Gemini 等其他 AI），在最後面打上你要加的單字，送出。</div>
+      <textarea id="impPrompt" readonly style="min-height:120px;font-size:13px">${escapeHtml(IMPORT_PROMPT)}</textarea>
+      <button class="ghost" type="button" id="copyPrompt">複製給 AI 的指令</button>
+      <div class="note"><b>第 2 步</b>：把 AI 的回覆整段複製，貼在下面，按「匯入」。</div>
+      <label class="f" for="impText">AI 的回覆<textarea id="impText" style="min-height:160px;font-size:13px" placeholder="把 ChatGPT 的回覆貼在這裡" spellcheck="false" autocapitalize="off"></textarea></label>
+      <div id="impMsg"></div>
+      <button class="primary" type="button" id="impGo">匯入</button>
+    </div>`);
+  $("#copyPrompt").onclick = async () => {
+    const ta = $("#impPrompt");
+    try { await navigator.clipboard.writeText(IMPORT_PROMPT); toast("已複製，貼到 ChatGPT 後在最後面打上單字"); }
+    catch { ta.focus(); ta.select(); toast("請按 Cmd+C（手機：拷貝）複製選取的文字"); }
+  };
+  $("#impGo").onclick = async () => {
+    const msg = $("#impMsg");
+    let items;
+    try { items = parseImport($("#impText").value); }
+    catch { msg.innerHTML = `<p class="note err">看不懂貼上的內容。請確認是把 AI 的回覆完整貼上；如果 AI 多寫了說明文字，可以請它「只回覆 JSON」再試一次。</p>`; return; }
+    const added = [], skipped = [];
+    for (const it of items){
+      const word = String(it?.word || "").trim().replace(/\s+/g, " ");
+      if (!word){ continue; }
+      if (Store.words.some(w => w.word.toLowerCase() === word.toLowerCase()) || added.some(w => w.toLowerCase() === word.toLowerCase())){ skipped.push(`${word}（已經在單字庫）`); continue; }
+      const sentences = (Array.isArray(it.sentences) ? it.sentences : []).map(x => typeof x === "string" ? { en: x, zh: "" } : x).filter(x => x && x.en && hasWord(x.en, word));
+      if (!sentences.length){ skipped.push(`${word}（例句裡沒有這個字）`); continue; }
+      await Store.add(normalizeWord({ word, pos: POS_LIST.includes(it.pos) ? it.pos : "其他", meaning: String(it.meaning || ""), sentences, distractors: Array.isArray(it.distractors) ? it.distractors.map(String).slice(0, 6) : [], source: "import" }));
+      added.push(word);
+    }
+    if (!added.length && !skipped.length){ msg.innerHTML = `<p class="note err">沒有找到任何單字，請確認貼上的是 AI 的回覆。</p>`; return; }
+    msg.innerHTML = `<p class="note">已加入 ${added.length} 個字${added.length ? "：" + escapeHtml(added.join("、")) : ""}${skipped.length ? `<br>略過 ${skipped.length} 個：${escapeHtml(skipped.join("、"))}` : ""}</p>`;
+    if (added.length){ $("#impText").value = ""; toast(`已加入 ${added.length} 個新字`); if (!S.round.length || S.i >= S.round.length) newRound(); else updateCount(); }
+  };
 }
 
 /* ---------- 單字庫 + 設定 ---------- */
