@@ -3098,6 +3098,41 @@
    ],
    "note": "同義說法：for now、temporarily、at the moment（都是「暫時、目前」）。容易搞混：at the time 是「當時（過去那個時候）」，不是「暫時」。",
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-undisturbed",
+   "word": "undisturbed",
+   "pos": "形容詞",
+   "meaning": "沒被動過的；保持原樣的；不受打擾的",
+   "sentences": [
+    {
+     "en": "Please leave the plastic cover undisturbed until the paint on the wall is completely dry.",
+     "zh": "在牆上的油漆完全乾之前，請不要動那層塑膠布。"
+    },
+    {
+     "en": "Guests who want to remain undisturbed can hang the sign on their door.",
+     "zh": "不想被打擾的房客可以把告示牌掛在門上。"
+    },
+    {
+     "en": "The documents in the storage room have been left undisturbed for more than ten years.",
+     "zh": "儲藏室裡的文件已經十多年沒人動過了。"
+    },
+    {
+     "en": "Researchers need a quiet room where they can work undisturbed for several hours.",
+     "zh": "研究人員需要一間安靜的房間，能連續幾個小時不受打擾地工作。"
+    },
+    {
+     "en": "The packages must stay undisturbed in the warehouse until the inspector arrives.",
+     "zh": "包裹必須原封不動地留在倉庫，直到檢查員抵達。"
+    }
+   ],
+   "distractors": [
+    "undetermined",
+    "understated",
+    "undeserved"
+   ],
+   "note": "常見句型：leave + 東西 + undisturbed（讓東西保持原樣、不要去動它）。同義字：untouched（沒被碰過）、intact（完好無缺）。來源：disturb（打擾、弄亂）＋字首 un-（不）＋-ed。",
+   "addedAt": "2026-10-16"
   }
  ],
  "notes": [
