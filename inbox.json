@@ -2583,6 +2583,108 @@
     "back order"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-realtor",
+   "word": "realtor",
+   "pos": "名詞",
+   "meaning": "房屋仲介；不動產經紀人",
+   "sentences": [
+    {
+     "en": "Our realtor found three office spaces downtown that match the company's budget.",
+     "zh": "我們的房屋仲介在市中心找到三間符合公司預算的辦公室。"
+    },
+    {
+     "en": "Before signing the lease, please ask the realtor whether utilities are included in the rent.",
+     "zh": "簽租約前，請問清楚房仲租金是否包含水電費。"
+    },
+    {
+     "en": "The realtor scheduled a showing of the apartment for Saturday afternoon.",
+     "zh": "房屋仲介把看房時間安排在週六下午。"
+    },
+    {
+     "en": "Ms. Huang has worked as a realtor in Taichung for more than ten years.",
+     "zh": "黃小姐在台中當房屋仲介已經超過十年。"
+    },
+    {
+     "en": "A good realtor can help buyers negotiate a lower price for a house.",
+     "zh": "好的房屋仲介能幫買方把房價談低。"
+    }
+   ],
+   "distractors": [
+    "realist",
+    "retailer",
+    "relater"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-receptionist",
+   "word": "receptionist",
+   "pos": "名詞",
+   "meaning": "接待員；櫃台人員",
+   "sentences": [
+    {
+     "en": "Please check in with the receptionist when you arrive for your interview.",
+     "zh": "來面試時，請先到櫃台向接待員報到。"
+    },
+    {
+     "en": "The hotel is hiring a receptionist who can speak both English and Japanese.",
+     "zh": "飯店正在招募一位會說英文和日文的櫃台人員。"
+    },
+    {
+     "en": "The receptionist answered phone calls and greeted visitors all morning.",
+     "zh": "接待員整個早上都在接電話和招呼訪客。"
+    },
+    {
+     "en": "If you have a package to deliver, you may leave it with the receptionist.",
+     "zh": "如果您要送包裹，可以交給接待員。"
+    },
+    {
+     "en": "Our clinic's receptionist will call you the day before to confirm your appointment.",
+     "zh": "我們診所的櫃台人員會在前一天打電話跟您確認預約。"
+    }
+   ],
+   "distractors": [
+    "reception",
+    "recipient",
+    "receptacle"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-janitor",
+   "word": "janitor",
+   "pos": "名詞",
+   "meaning": "（大樓的）清潔工；工友",
+   "sentences": [
+    {
+     "en": "The janitor cleans the restrooms on every floor twice a day.",
+     "zh": "清潔工每天打掃每層樓的洗手間兩次。"
+    },
+    {
+     "en": "Please tell the janitor if you notice any water on the lobby floor.",
+     "zh": "如果發現大廳地上有水，請告訴清潔工。"
+    },
+    {
+     "en": "The school hired a new janitor to take care of the gym and the classrooms.",
+     "zh": "學校聘請了一位新工友負責體育館和教室。"
+    },
+    {
+     "en": "Our janitor usually empties the trash bins after the office closes at six.",
+     "zh": "我們的清潔工通常在辦公室六點下班後清理垃圾桶。"
+    },
+    {
+     "en": "The janitor found a lost wallet in the meeting room and brought it to the front desk.",
+     "zh": "清潔工在會議室撿到一個遺失的皮夾，送到了櫃台。"
+    }
+   ],
+   "distractors": [
+    "junior",
+    "jailer",
+    "juror"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
