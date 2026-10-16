@@ -2549,6 +2549,40 @@
     "stopped"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-box-office",
+   "word": "box office",
+   "pos": "名詞",
+   "meaning": "票房；售票處",
+   "sentences": [
+    {
+     "en": "The new animated film earned more than fifty million dollars at the box office in its first week.",
+     "zh": "這部新動畫電影上映第一週就拿下超過五千萬美元的票房。"
+    },
+    {
+     "en": "Tickets for tonight's concert can be picked up at the box office one hour before the show.",
+     "zh": "今晚音樂會的票可以在開演前一小時到售票處取票。"
+    },
+    {
+     "en": "The movie was a big hit at the box office, so the studio is planning a sequel.",
+     "zh": "這部電影票房大賣，所以片廠正在規劃續集。"
+    },
+    {
+     "en": "Box office sales dropped this summer because many people chose to watch films at home.",
+     "zh": "今年夏天票房下滑，因為很多人選擇在家看電影。"
+    },
+    {
+     "en": "Please call the box office if you need to change the date of your theater tickets.",
+     "zh": "如果需要更改劇院門票的日期，請打電話給售票處。"
+    }
+   ],
+   "distractors": [
+    "post office",
+    "box offer",
+    "back office"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
