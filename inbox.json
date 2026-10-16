@@ -1,1 +1,1942 @@
-{ "words": [] }
+{
+ "words": [
+  {
+   "id": "20261016-pastry",
+   "word": "pastry",
+   "pos": "名詞",
+   "meaning": "糕點；酥皮點心",
+   "sentences": [
+    {
+     "en": "The café near our office sells a fresh pastry with every morning coffee order.",
+     "zh": "我們辦公室附近的咖啡店，每份早餐咖啡都附一個新鮮糕點。"
+    },
+    {
+     "en": "Guests at the conference breakfast can choose fruit, yogurt, or a pastry from the buffet table.",
+     "zh": "會議早餐的來賓可以從自助餐桌上選水果、優格或一份糕點。"
+    },
+    {
+     "en": "Our bakery is hiring a pastry chef with at least three years of experience in a hotel kitchen.",
+     "zh": "我們的烘焙坊正在招募一位至少有三年飯店廚房經驗的糕點師傅。"
+    },
+    {
+     "en": "Each pastry in the display case is labeled with its price and a list of ingredients.",
+     "zh": "展示櫃裡的每個糕點都標有價格和成分清單。"
+    },
+    {
+     "en": "The catering company recommended adding a small pastry to the dessert menu for the retirement party.",
+     "zh": "外燴公司建議在退休派對的甜點菜單上加一份小糕點。"
+    }
+   ],
+   "distractors": [
+    "pantry",
+    "pasture",
+    "poetry"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-gothenburg",
+   "word": "Gothenburg",
+   "pos": "名詞",
+   "meaning": "哥德堡（瑞典的城市）",
+   "sentences": [
+    {
+     "en": "Our Scandinavian sales team will move from Stockholm to a larger office in Gothenburg next spring.",
+     "zh": "我們的北歐業務團隊明年春天會從斯德哥爾摩搬到哥德堡一間更大的辦公室。"
+    },
+    {
+     "en": "The shipment left the port of Gothenburg on Monday and should reach Rotterdam by Thursday.",
+     "zh": "這批貨週一從哥德堡港出發，應該週四會抵達鹿特丹。"
+    },
+    {
+     "en": "Ms. Lin will attend a three-day trade fair in Gothenburg to meet potential suppliers.",
+     "zh": "林小姐會去哥德堡參加為期三天的商展，和潛在供應商見面。"
+    },
+    {
+     "en": "Travelers flying to Gothenburg should allow extra time for connections in Frankfurt during the holiday season.",
+     "zh": "搭機前往哥德堡的旅客在假期期間應預留較多時間在法蘭克福轉機。"
+    },
+    {
+     "en": "The company's new research center in Gothenburg focuses on electric vehicle batteries.",
+     "zh": "公司在哥德堡的新研究中心專注於電動車電池。"
+    }
+   ],
+   "distractors": [
+    "Hamburg",
+    "Luxembourg",
+    "Strasbourg"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-arch",
+   "word": "arch",
+   "pos": "名詞",
+   "meaning": "拱門；拱形結構",
+   "sentences": [
+    {
+     "en": "Visitors enter the shopping center through a large stone arch decorated with seasonal lights.",
+     "zh": "訪客經由一座裝飾著季節燈飾的大型石拱門進入購物中心。"
+    },
+    {
+     "en": "The architect designed a glass arch to connect the two wings of the new library.",
+     "zh": "建築師設計了一座玻璃拱形結構來連接新圖書館的兩翼。"
+    },
+    {
+     "en": "Please meet the tour group at the arch near the main entrance of the park at 9 a.m.",
+     "zh": "請在上午九點到公園大門附近的拱門和導覽團會合。"
+    },
+    {
+     "en": "The repair crew discovered a crack in the old brick arch above the warehouse doorway.",
+     "zh": "維修人員發現倉庫門口上方的舊磚造拱門有一道裂縫。"
+    },
+    {
+     "en": "A wooden arch covered with flowers was set up for the outdoor awards ceremony.",
+     "zh": "戶外頒獎典禮布置了一座覆滿鮮花的木拱門。"
+    }
+   ],
+   "distractors": [
+    "march",
+    "perch",
+    "porch"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-mittens",
+   "word": "mittens",
+   "pos": "名詞",
+   "meaning": "連指手套",
+   "sentences": [
+    {
+     "en": "The outdoor staff at the ski resort receive warm jackets and mittens at the start of each season.",
+     "zh": "滑雪度假村的戶外工作人員每季開始時都會領到保暖外套和連指手套。"
+    },
+    {
+     "en": "Our winter catalog features scarves, hats, and wool mittens in five different colors.",
+     "zh": "我們的冬季型錄有圍巾、帽子和五種顏色的羊毛連指手套。"
+    },
+    {
+     "en": "The store sold out of children's mittens within a week of the first snowfall.",
+     "zh": "第一場雪後一週內，店裡的兒童連指手套就賣完了。"
+    },
+    {
+     "en": "Delivery drivers are advised to wear mittens or gloves when temperatures fall below zero.",
+     "zh": "氣溫降到零度以下時，建議送貨司機戴連指手套或手套。"
+    },
+    {
+     "en": "Please return any lost mittens to the front desk so their owners can collect them.",
+     "zh": "請把撿到的連指手套交到櫃台，讓失主可以領回。"
+    }
+   ],
+   "distractors": [
+    "kittens",
+    "mentions",
+    "missions"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-skyscraper",
+   "word": "skyscraper",
+   "pos": "名詞",
+   "meaning": "摩天大樓",
+   "sentences": [
+    {
+     "en": "The firm recently moved its headquarters to the fortieth floor of a downtown skyscraper.",
+     "zh": "這家公司最近把總部搬到市中心一棟摩天大樓的四十樓。"
+    },
+    {
+     "en": "Construction of the new skyscraper is expected to take about four years.",
+     "zh": "新摩天大樓的建造工程預計約需四年。"
+    },
+    {
+     "en": "From the observation deck of the skyscraper, visitors can see the entire harbor.",
+     "zh": "從摩天大樓的觀景台，遊客可以看到整個港口。"
+    },
+    {
+     "en": "The city council approved plans for a skyscraper that will include offices, shops, and apartments.",
+     "zh": "市議會核准了一棟包含辦公室、商店和公寓的摩天大樓計畫。"
+    },
+    {
+     "en": "Window cleaners at the skyscraper must complete a safety training course every year.",
+     "zh": "這棟摩天大樓的窗戶清潔人員每年都必須完成安全訓練課程。"
+    }
+   ],
+   "distractors": [
+    "scraper",
+    "skylight",
+    "skydiver"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-taxidermy",
+   "word": "taxidermy",
+   "pos": "名詞",
+   "meaning": "動物標本剝製術；動物標本",
+   "sentences": [
+    {
+     "en": "The natural history museum hired a specialist in taxidermy to restore its collection of birds.",
+     "zh": "自然史博物館聘請了一位標本剝製專家來修復館內的鳥類收藏。"
+    },
+    {
+     "en": "The hunting lodge displays several examples of taxidermy in its main dining room.",
+     "zh": "這間狩獵小屋在主餐廳展示了好幾件動物標本。"
+    },
+    {
+     "en": "Visitors to the exhibit can watch a short video explaining how taxidermy is done.",
+     "zh": "參觀展覽的訪客可以看一段介紹動物標本如何製作的短片。"
+    },
+    {
+     "en": "The antique shop does not accept taxidermy because of strict import regulations.",
+     "zh": "由於進口法規嚴格，這家古董店不收動物標本。"
+    },
+    {
+     "en": "Ms. Park took an evening course in taxidermy before applying for the museum position.",
+     "zh": "朴小姐在應徵博物館職位前，上過一門動物標本剝製的夜間課程。"
+    }
+   ],
+   "distractors": [
+    "taxonomy",
+    "taxation",
+    "taxicab"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-stuffed",
+   "word": "stuffed",
+   "pos": "形容詞",
+   "meaning": "塞滿的；填餡的；（吃得）很飽的",
+   "sentences": [
+    {
+     "en": "The gift shop sells stuffed animals that look like the zoo's most popular pandas.",
+     "zh": "禮品店販售長得像動物園最受歡迎熊貓的填充玩偶。"
+    },
+    {
+     "en": "The restaurant's special this week is roasted chicken stuffed with rice and mushrooms.",
+     "zh": "這家餐廳本週特餐是填入米飯和蘑菇的烤雞。"
+    },
+    {
+     "en": "My suitcase was so stuffed with product samples that I could barely close it.",
+     "zh": "我的行李箱塞滿了產品樣品，幾乎關不起來。"
+    },
+    {
+     "en": "After the five-course banquet, most of the guests felt too stuffed to eat dessert.",
+     "zh": "吃完五道菜的宴席後，大部分賓客都飽到吃不下甜點。"
+    },
+    {
+     "en": "Please do not leave stuffed envelopes on the reception desk without a name on them.",
+     "zh": "請不要把沒寫名字、塞得滿滿的信封放在接待櫃台。"
+    }
+   ],
+   "distractors": [
+    "staffed",
+    "stuck",
+    "stunned"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-jaw",
+   "word": "jaw",
+   "pos": "名詞",
+   "meaning": "下巴；下顎；（機器的）夾爪",
+   "sentences": [
+    {
+     "en": "The dentist recommended an X-ray because the patient had pain in his lower jaw.",
+     "zh": "牙醫建議照X光，因為病人的下顎會痛。"
+    },
+    {
+     "en": "Wearing a mouth guard at night can reduce stress on the jaw caused by grinding teeth.",
+     "zh": "晚上戴護齒套可以減輕磨牙對下顎造成的壓力。"
+    },
+    {
+     "en": "The boxer injured his jaw during training and had to cancel the next match.",
+     "zh": "那位拳擊手訓練時傷到下巴，只好取消下一場比賽。"
+    },
+    {
+     "en": "The new machine's metal jaw grips each package firmly before moving it to the conveyor belt.",
+     "zh": "新機器的金屬夾爪會先牢牢夾住每個包裹，再把它移到輸送帶上。"
+    },
+    {
+     "en": "Several employees reported jaw pain after long hours of talking on the phone with customers.",
+     "zh": "好幾位員工反映長時間跟客戶講電話後下巴會痛。"
+    }
+   ],
+   "distractors": [
+    "claw",
+    "jar",
+    "paw"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-hinge",
+   "word": "hinge",
+   "pos": "名詞",
+   "meaning": "鉸鏈；（動詞）取決於",
+   "sentences": [
+    {
+     "en": "The maintenance team replaced the broken hinge on the conference room door this morning.",
+     "zh": "維修團隊今天早上換掉了會議室門上壞掉的鉸鏈。"
+    },
+    {
+     "en": "Each cabinet comes with a soft-close hinge that prevents the doors from slamming.",
+     "zh": "每個櫃子都附有緩衝鉸鏈，避免門用力撞上。"
+    },
+    {
+     "en": "If the laptop screen feels loose, the hinge may need to be tightened by a technician.",
+     "zh": "如果筆電螢幕感覺鬆動，可能需要請技術人員鎖緊鉸鏈。"
+    },
+    {
+     "en": "Please oil the hinge on the warehouse gate, as it has become very noisy.",
+     "zh": "請替倉庫大門的鉸鏈上油，它變得很吵。"
+    },
+    {
+     "en": "The success of the merger may hinge on approval from government regulators.",
+     "zh": "這次合併能否成功，可能取決於政府主管機關的核准。"
+    }
+   ],
+   "distractors": [
+    "fringe",
+    "hedge",
+    "hint"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-linguistic",
+   "word": "linguistic",
+   "pos": "形容詞",
+   "meaning": "語言的；語言學的",
+   "sentences": [
+    {
+     "en": "The company hired a translator with strong linguistic skills to handle its Japanese contracts.",
+     "zh": "公司聘請一位語言能力很強的翻譯來處理日文合約。"
+    },
+    {
+     "en": "Our research team studies linguistic differences between customers in northern and southern regions.",
+     "zh": "我們的研究團隊研究北部和南部顧客之間的語言差異。"
+    },
+    {
+     "en": "The training program helps new staff overcome linguistic barriers when serving international guests.",
+     "zh": "這個訓練課程幫助新進員工在服務國際旅客時克服語言障礙。"
+    },
+    {
+     "en": "Dr. Huang holds a degree in linguistic anthropology from a university in London.",
+     "zh": "黃博士擁有倫敦一所大學的語言人類學學位。"
+    },
+    {
+     "en": "The marketing slogan was changed after a linguistic review found it confusing in Spanish.",
+     "zh": "經過語言審查發現這句標語在西班牙文中容易讓人誤解，因此修改了行銷標語。"
+    }
+   ],
+   "distractors": [
+    "linear",
+    "lunar",
+    "literal"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-compulsory",
+   "word": "compulsory",
+   "pos": "形容詞",
+   "meaning": "強制的；必須做的",
+   "sentences": [
+    {
+     "en": "Attendance at the annual safety training is compulsory for all factory employees.",
+     "zh": "所有工廠員工都必須參加年度安全訓練。"
+    },
+    {
+     "en": "Wearing a hard hat is compulsory in every area of the construction site.",
+     "zh": "在工地的每個區域都必須戴安全帽。"
+    },
+    {
+     "en": "The new policy makes it compulsory for staff to change their passwords every ninety days.",
+     "zh": "新政策規定員工每九十天必須更換一次密碼。"
+    },
+    {
+     "en": "Is the leadership workshop compulsory, or can managers choose not to attend?",
+     "zh": "領導力工作坊是強制參加的，還是主管可以選擇不去？"
+    },
+    {
+     "en": "Completing the online ethics course is compulsory before employees can receive their first bonus.",
+     "zh": "員工必須先完成線上職業道德課程，才能領到第一筆獎金。"
+    }
+   ],
+   "distractors": [
+    "complimentary",
+    "comparable",
+    "compulsive"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-inspect",
+   "word": "inspect",
+   "pos": "動詞",
+   "meaning": "檢查；視察",
+   "sentences": [
+    {
+     "en": "A safety officer will inspect the factory equipment before production begins on Monday.",
+     "zh": "一位安全人員會在週一開始生產前檢查工廠設備。"
+    },
+    {
+     "en": "Please inspect each package for damage before signing the delivery receipt.",
+     "zh": "在簽收送貨單之前，請檢查每個包裹有無損壞。"
+    },
+    {
+     "en": "Health officials visit the restaurant twice a year to inspect its kitchen.",
+     "zh": "衛生官員每年兩次到這家餐廳視察廚房。"
+    },
+    {
+     "en": "The buyer asked an engineer to inspect the building before agreeing to the purchase price.",
+     "zh": "買方在同意購買價格前，請了一位工程師檢查這棟建築。"
+    },
+    {
+     "en": "Managers should inspect the storage room regularly to make sure no supplies are missing.",
+     "zh": "主管應定期檢查儲藏室，確保沒有短少任何用品。"
+    }
+   ],
+   "distractors": [
+    "inspire",
+    "insist",
+    "instruct"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-construction",
+   "word": "construction",
+   "pos": "名詞",
+   "meaning": "建造；建設；施工",
+   "sentences": [
+    {
+     "en": "Construction of the new airport terminal is scheduled to begin next month.",
+     "zh": "新機場航廈預定下個月開工。"
+    },
+    {
+     "en": "Due to road construction on Main Street, buses will use a different route this week.",
+     "zh": "由於主街道路施工，本週公車會改走其他路線。"
+    },
+    {
+     "en": "The company specializes in the construction of energy-efficient office buildings.",
+     "zh": "這家公司專門興建節能辦公大樓。"
+    },
+    {
+     "en": "Visitors must wear safety boots when entering the construction area.",
+     "zh": "訪客進入施工區域時必須穿安全靴。"
+    },
+    {
+     "en": "The hotel apologized for the noise caused by construction on the fifth floor.",
+     "zh": "飯店為五樓施工造成的噪音道歉。"
+    }
+   ],
+   "distractors": [
+    "constitution",
+    "consumption",
+    "contraction"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-remodeling",
+   "word": "remodeling",
+   "pos": "名詞",
+   "meaning": "改建；重新裝修",
+   "sentences": [
+    {
+     "en": "The store will be closed for two weeks while remodeling is completed.",
+     "zh": "店面在完成改裝期間會停業兩週。"
+    },
+    {
+     "en": "Our remodeling of the lobby includes new lighting, flooring, and a larger reception desk.",
+     "zh": "我們的大廳改裝包括新照明、新地板和更大的接待櫃台。"
+    },
+    {
+     "en": "The hotel spent nearly two million dollars on remodeling its guest rooms last year.",
+     "zh": "這家飯店去年花了將近兩百萬美元重新裝修客房。"
+    },
+    {
+     "en": "Customers can still order online during the remodeling of our downtown branch.",
+     "zh": "市區分店改裝期間，顧客仍可上網訂購。"
+    },
+    {
+     "en": "The landlord agreed to pay for remodeling the kitchen before the new tenants move in.",
+     "zh": "房東同意在新房客入住前出錢重新裝修廚房。"
+    }
+   ],
+   "distractors": [
+    "resembling",
+    "rehearsing",
+    "remaining"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-cosmetic",
+   "word": "cosmetic",
+   "pos": "形容詞",
+   "meaning": "表面上的；美容的；化妝用的",
+   "sentences": [
+    {
+     "en": "The changes to the website were mostly cosmetic, so customers will not notice any difference in how it works.",
+     "zh": "網站的修改大多只是表面上的，所以顧客不會察覺功能上有任何差別。"
+    },
+    {
+     "en": "The company plans to launch a new cosmetic product line for men next year.",
+     "zh": "公司計畫明年推出男性的新化妝品系列。"
+    },
+    {
+     "en": "Although the car had some cosmetic damage, the engine was in excellent condition.",
+     "zh": "雖然車子外觀有些損傷，引擎狀況非常好。"
+    },
+    {
+     "en": "The clinic offers both medical and cosmetic treatments for skin problems.",
+     "zh": "這間診所提供皮膚問題的醫療和美容療程。"
+    },
+    {
+     "en": "The landlord made a few cosmetic repairs, such as painting the walls, before showing the apartment.",
+     "zh": "房東在帶人看房前做了一些表面修繕，例如粉刷牆壁。"
+    }
+   ],
+   "distractors": [
+    "cosmic",
+    "comic",
+    "caustic"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-inclement",
+   "word": "inclement",
+   "pos": "形容詞",
+   "meaning": "（天氣）惡劣的",
+   "sentences": [
+    {
+     "en": "The outdoor concert was moved indoors because of inclement weather.",
+     "zh": "因為天氣惡劣，戶外音樂會改到室內舉行。"
+    },
+    {
+     "en": "In case of inclement weather, the company picnic will be postponed until the following Saturday.",
+     "zh": "如果天氣不佳，公司野餐會延到下週六。"
+    },
+    {
+     "en": "Several flights were delayed this morning due to inclement conditions at the airport.",
+     "zh": "由於機場天候不佳，今天早上好幾班飛機延誤。"
+    },
+    {
+     "en": "Employees may work from home on days with inclement weather.",
+     "zh": "天氣惡劣的日子，員工可以在家工作。"
+    },
+    {
+     "en": "The ferry service may be suspended during periods of inclement weather.",
+     "zh": "天氣惡劣期間，渡輪服務可能會暫停。"
+    }
+   ],
+   "distractors": [
+    "incoherent",
+    "inclusive",
+    "indifferent"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-catered",
+   "word": "catered",
+   "pos": "形容詞",
+   "meaning": "有外燴的；有人供應餐點的",
+   "sentences": [
+    {
+     "en": "A catered lunch will be provided for all participants at the training session.",
+     "zh": "訓練課程會為所有參加者提供外燴午餐。"
+    },
+    {
+     "en": "The awards dinner was catered by a popular Italian restaurant downtown.",
+     "zh": "頒獎晚宴由市中心一家很受歡迎的義大利餐廳負責外燴。"
+    },
+    {
+     "en": "Our office party will be catered, so employees do not need to bring any food.",
+     "zh": "我們的辦公室派對有外燴，所以員工不用帶食物。"
+    },
+    {
+     "en": "The conference package includes meeting rooms, audio equipment, and catered breaks.",
+     "zh": "會議套裝方案包含會議室、音響設備和附餐點的休息時間。"
+    },
+    {
+     "en": "All of the food at the grand opening was catered by a local bakery.",
+     "zh": "開幕典禮上所有的食物都由當地一家烘焙坊供應。"
+    }
+   ],
+   "distractors": [
+    "scattered",
+    "centered",
+    "charted"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-bathtub",
+   "word": "bathtub",
+   "pos": "名詞",
+   "meaning": "浴缸",
+   "sentences": [
+    {
+     "en": "Each suite in the hotel has a large bathtub and a separate shower.",
+     "zh": "飯店每間套房都有大浴缸和獨立淋浴間。"
+    },
+    {
+     "en": "The plumber was called to fix a leak under the bathtub in Room 214.",
+     "zh": "已經請水電工來修理 214 號房浴缸下方的漏水。"
+    },
+    {
+     "en": "Our showroom displays more than thirty bathtub designs in different sizes and materials.",
+     "zh": "我們的展示間陳列了三十多款不同尺寸和材質的浴缸設計。"
+    },
+    {
+     "en": "Guests are reminded not to leave the bathtub running unattended.",
+     "zh": "提醒房客浴缸放水時不要離開。"
+    },
+    {
+     "en": "The renovation will replace the old bathtub with a walk-in shower for easier access.",
+     "zh": "這次整修會把舊浴缸換成無障礙淋浴間，方便進出。"
+    }
+   ],
+   "distractors": [
+    "backup",
+    "bathrobe",
+    "bedtime"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-hoovering",
+   "word": "hoovering",
+   "pos": "動詞",
+   "meaning": "用吸塵器吸（地）（英式說法）",
+   "sentences": [
+    {
+     "en": "The cleaning staff finish hoovering the offices before employees arrive at eight.",
+     "zh": "清潔人員在員工八點到班前就把辦公室吸完地了。"
+    },
+    {
+     "en": "Please move your bags off the floor so the hoovering can be done quickly.",
+     "zh": "請把包包從地上拿起來，這樣吸地可以很快完成。"
+    },
+    {
+     "en": "Hoovering the hotel corridors is usually done in the early afternoon when most guests are out.",
+     "zh": "飯店走廊通常在下午早一點、多數房客外出時吸地。"
+    },
+    {
+     "en": "The new cordless machine makes hoovering the stairs much easier.",
+     "zh": "新的無線吸塵器讓吸樓梯變得容易許多。"
+    },
+    {
+     "en": "Daily hoovering helps keep dust levels low in the meeting rooms.",
+     "zh": "每天吸地有助於讓會議室保持低灰塵量。"
+    }
+   ],
+   "distractors": [
+    "hovering",
+    "covering",
+    "hoarding"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-vacuum",
+   "word": "vacuum",
+   "pos": "動詞",
+   "meaning": "用吸塵器清掃；（名詞）吸塵器；真空",
+   "sentences": [
+    {
+     "en": "Housekeeping staff vacuum every guest room after checkout.",
+     "zh": "房務人員會在每位房客退房後用吸塵器清掃客房。"
+    },
+    {
+     "en": "Please vacuum the carpet in the conference room before the clients arrive.",
+     "zh": "請在客戶到達前用吸塵器清理會議室的地毯。"
+    },
+    {
+     "en": "The store is offering a twenty percent discount on its newest robot vacuum this weekend.",
+     "zh": "本週末店裡最新款的掃地機器人打八折。"
+    },
+    {
+     "en": "Our cleaning contract requires the company to vacuum all hallways twice a week.",
+     "zh": "我們的清潔合約規定該公司每週用吸塵器清掃所有走廊兩次。"
+    },
+    {
+     "en": "Food is packed in vacuum bags to keep it fresh during shipping.",
+     "zh": "食物用真空袋包裝，運送期間能保持新鮮。"
+    }
+   ],
+   "distractors": [
+    "vaccinate",
+    "validate",
+    "vanish"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-laundry",
+   "word": "laundry",
+   "pos": "名詞",
+   "meaning": "待洗衣物；洗衣（服務）；洗衣房",
+   "sentences": [
+    {
+     "en": "The hotel offers same-day laundry service for guests who drop off clothes before 9 a.m.",
+     "zh": "飯店為上午九點前送洗衣物的房客提供當日洗衣服務。"
+    },
+    {
+     "en": "Each floor of the apartment building has a shared laundry room with two machines.",
+     "zh": "這棟公寓每層樓都有一間共用洗衣房，有兩台機器。"
+    },
+    {
+     "en": "Please place your laundry in the bag provided and leave it outside your door.",
+     "zh": "請把要洗的衣物放進提供的袋子，放在門外。"
+    },
+    {
+     "en": "The resort's laundry staff wash more than five hundred towels every day.",
+     "zh": "度假村的洗衣人員每天洗超過五百條毛巾。"
+    },
+    {
+     "en": "Doing laundry at the dormitory costs two dollars per load.",
+     "zh": "在宿舍洗衣服每洗一次要兩美元。"
+    }
+   ],
+   "distractors": [
+    "launch",
+    "landing",
+    "lottery"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-load",
+   "word": "load",
+   "pos": "動詞",
+   "meaning": "裝載；裝（貨、衣物）；（名詞）負荷量",
+   "sentences": [
+    {
+     "en": "Workers will load the boxes onto the truck early tomorrow morning.",
+     "zh": "工人明天一早會把箱子裝上卡車。"
+    },
+    {
+     "en": "Please do not load more than ten kilograms of clothes into the washing machine.",
+     "zh": "請不要在洗衣機裡放超過十公斤的衣服。"
+    },
+    {
+     "en": "The new software takes only a few seconds to load on most computers.",
+     "zh": "新軟體在大多數電腦上只要幾秒鐘就能載入。"
+    },
+    {
+     "en": "The elevator can carry a maximum load of eight hundred kilograms.",
+     "zh": "電梯最大載重是八百公斤。"
+    },
+    {
+     "en": "It took the crew nearly two hours to load all the equipment for the outdoor event.",
+     "zh": "工作人員花了將近兩小時才把戶外活動的設備全部裝好。"
+    }
+   ],
+   "distractors": [
+    "loan",
+    "lead",
+    "loaf"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-unload",
+   "word": "unload",
+   "pos": "動詞",
+   "meaning": "卸下（貨物）；把（東西）拿出來",
+   "sentences": [
+    {
+     "en": "The delivery team will unload the furniture at the back entrance of the store.",
+     "zh": "送貨團隊會在店的後門卸下家具。"
+    },
+    {
+     "en": "Please unload the dishwasher before you leave the office kitchen.",
+     "zh": "離開辦公室茶水間前，請把洗碗機裡的碗盤拿出來。"
+    },
+    {
+     "en": "It usually takes about forty minutes to unload a full container at the port.",
+     "zh": "在港口卸完一整個貨櫃通常要四十分鐘左右。"
+    },
+    {
+     "en": "Drivers are not allowed to unload goods in the front parking lot.",
+     "zh": "司機不准在前面的停車場卸貨。"
+    },
+    {
+     "en": "Staff should wear gloves when they unload heavy boxes from the van.",
+     "zh": "員工從廂型車卸下重箱子時應戴手套。"
+    }
+   ],
+   "distractors": [
+    "unlock",
+    "unfold",
+    "upload"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-washing-machine",
+   "word": "washing machine",
+   "pos": "名詞",
+   "meaning": "洗衣機",
+   "sentences": [
+    {
+     "en": "The washing machine in the staff laundry room is out of order until Friday.",
+     "zh": "員工洗衣房的洗衣機故障，要到週五才能用。"
+    },
+    {
+     "en": "Our new washing machine uses forty percent less water than older models.",
+     "zh": "我們的新款洗衣機用水量比舊機型少百分之四十。"
+    },
+    {
+     "en": "Please remove your clothes from the washing machine as soon as the cycle ends.",
+     "zh": "洗程結束後請立刻把衣服從洗衣機裡拿出來。"
+    },
+    {
+     "en": "Every apartment comes with a refrigerator, a stove, and a washing machine.",
+     "zh": "每間公寓都附有冰箱、爐子和洗衣機。"
+    },
+    {
+     "en": "The technician said the washing machine was making noise because it was overloaded.",
+     "zh": "技術人員說洗衣機發出噪音是因為放太多衣物了。"
+    }
+   ],
+   "distractors": [
+    "sewing machine",
+    "washing powder",
+    "fax machine"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-detergent",
+   "word": "detergent",
+   "pos": "名詞",
+   "meaning": "洗衣精；清潔劑",
+   "sentences": [
+    {
+     "en": "Guests can buy small packets of detergent from the machine in the laundry room.",
+     "zh": "房客可以在洗衣房的機器買小包洗衣精。"
+    },
+    {
+     "en": "Our company has developed a detergent that works well even in cold water.",
+     "zh": "我們公司開發了一款即使在冷水中也很有效的洗衣精。"
+    },
+    {
+     "en": "Please use only the recommended amount of detergent to avoid damaging the machine.",
+     "zh": "請只使用建議用量的洗衣精，以免損壞機器。"
+    },
+    {
+     "en": "The supermarket is offering a discount on its own brand of laundry detergent.",
+     "zh": "超市的自有品牌洗衣精正在打折。"
+    },
+    {
+     "en": "Customers with sensitive skin often choose a detergent without added perfume.",
+     "zh": "皮膚敏感的顧客常選擇不含香精的洗衣精。"
+    }
+   ],
+   "distractors": [
+    "deterrent",
+    "detective",
+    "detector"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-laundry-basket",
+   "word": "laundry basket",
+   "pos": "名詞",
+   "meaning": "洗衣籃",
+   "sentences": [
+    {
+     "en": "Housekeeping will collect any towels left in the laundry basket each morning.",
+     "zh": "房務人員每天早上會收走洗衣籃裡的毛巾。"
+    },
+    {
+     "en": "Each room has a laundry basket and a list of cleaning prices.",
+     "zh": "每間房都有一個洗衣籃和洗衣價目表。"
+    },
+    {
+     "en": "The store's plastic laundry basket comes in three sizes and four colors.",
+     "zh": "店裡的塑膠洗衣籃有三種尺寸和四種顏色。"
+    },
+    {
+     "en": "Please put your used uniforms in the laundry basket next to the locker room.",
+     "zh": "請把穿過的制服放到更衣室旁邊的洗衣籃。"
+    },
+    {
+     "en": "A folding laundry basket is useful for small apartments with little storage space.",
+     "zh": "可折疊的洗衣籃很適合收納空間小的公寓。"
+    }
+   ],
+   "distractors": [
+    "picnic basket",
+    "wastebasket",
+    "fruit basket"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-dryer",
+   "word": "dryer",
+   "pos": "名詞",
+   "meaning": "烘衣機；吹風機",
+   "sentences": [
+    {
+     "en": "Each hotel room is equipped with a hair dryer and an iron.",
+     "zh": "每間飯店房間都配有吹風機和熨斗。"
+    },
+    {
+     "en": "The dryer in the laundry room takes about an hour to dry a full load.",
+     "zh": "洗衣房的烘衣機烘乾一整批衣物大約要一小時。"
+    },
+    {
+     "en": "Please clean the lint filter after each use of the dryer.",
+     "zh": "每次使用烘衣機後請清理棉絮濾網。"
+    },
+    {
+     "en": "Our new energy-saving dryer has received excellent reviews from customers.",
+     "zh": "我們新的節能烘衣機獲得顧客很好的評價。"
+    },
+    {
+     "en": "Wool sweaters should not be placed in the dryer because they may shrink.",
+     "zh": "羊毛衣不應放進烘衣機，因為可能會縮水。"
+    }
+   ],
+   "distractors": [
+    "dyer",
+    "drawer",
+    "driver"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-comforter",
+   "word": "comforter",
+   "pos": "名詞",
+   "meaning": "被子；棉被",
+   "sentences": [
+    {
+     "en": "Every guest bed is made with fresh sheets and a soft down comforter.",
+     "zh": "每張客床都鋪有乾淨床單和柔軟的羽絨被。"
+    },
+    {
+     "en": "The department store is having a sale on comforter sets this weekend.",
+     "zh": "百貨公司本週末有被子組的特賣。"
+    },
+    {
+     "en": "If you need an extra comforter, please call the front desk.",
+     "zh": "如果您需要多一條被子，請打電話給櫃台。"
+    },
+    {
+     "en": "The comforter should be dry-cleaned rather than washed at home.",
+     "zh": "這條被子應該送乾洗，而不是在家洗。"
+    },
+    {
+     "en": "Our online store sells comforter covers in several sizes and colors.",
+     "zh": "我們的網路商店販售多種尺寸和顏色的被套。"
+    }
+   ],
+   "distractors": [
+    "commuter",
+    "computer",
+    "competitor"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-blanket",
+   "word": "blanket",
+   "pos": "名詞",
+   "meaning": "毯子；（形容詞）全面的",
+   "sentences": [
+    {
+     "en": "Passengers on long flights receive a blanket and a small pillow.",
+     "zh": "長途航班的乘客會拿到一條毯子和一個小枕頭。"
+    },
+    {
+     "en": "Please fold the blanket and leave it on the seat when you leave the theater.",
+     "zh": "離開劇院時請把毯子摺好放在座位上。"
+    },
+    {
+     "en": "The hotel provides an extra blanket in each closet during the winter months.",
+     "zh": "冬季期間飯店會在每個衣櫃裡多放一條毯子。"
+    },
+    {
+     "en": "The company announced a blanket ban on personal phone calls during meetings.",
+     "zh": "公司宣布全面禁止開會時接私人電話。"
+    },
+    {
+     "en": "Volunteers handed out a warm blanket to every person waiting outside the shelter.",
+     "zh": "志工發給在收容所外等候的每個人一條保暖毯子。"
+    }
+   ],
+   "distractors": [
+    "bracket",
+    "basket",
+    "banquet"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-duvet",
+   "word": "duvet",
+   "pos": "名詞",
+   "meaning": "羽絨被；被子",
+   "sentences": [
+    {
+     "en": "The hotel recently replaced every duvet with a lighter one for the summer season.",
+     "zh": "飯店最近把每一條羽絨被都換成夏天用的薄款。"
+    },
+    {
+     "en": "Our duvet covers are made from one hundred percent organic cotton.",
+     "zh": "我們的被套是百分之百有機棉製成。"
+    },
+    {
+     "en": "Please let housekeeping know if you prefer a duvet or a traditional blanket.",
+     "zh": "如果您偏好羽絨被或傳統毯子，請告訴房務人員。"
+    },
+    {
+     "en": "The online shop offers free delivery on any duvet purchased this month.",
+     "zh": "網路商店本月購買任何羽絨被都免運費。"
+    },
+    {
+     "en": "A duvet that is too heavy can make it hard to sleep during warm nights.",
+     "zh": "太重的羽絨被在溫暖的夜晚會讓人難以入睡。"
+    }
+   ],
+   "distractors": [
+    "duet",
+    "debut",
+    "divot"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-laundromat",
+   "word": "laundromat",
+   "pos": "名詞",
+   "meaning": "自助洗衣店",
+   "sentences": [
+    {
+     "en": "The laundromat on Fifth Street is open twenty-four hours a day.",
+     "zh": "第五街的自助洗衣店二十四小時營業。"
+    },
+    {
+     "en": "Many students use the laundromat near campus because their dormitories have no machines.",
+     "zh": "許多學生使用校園附近的自助洗衣店，因為宿舍沒有洗衣機。"
+    },
+    {
+     "en": "The owner of the laundromat plans to install machines that accept mobile payments.",
+     "zh": "自助洗衣店老闆計畫安裝可用手機付款的機器。"
+    },
+    {
+     "en": "While waiting at the laundromat, customers can enjoy free coffee and Wi-Fi.",
+     "zh": "在自助洗衣店等待時，顧客可以享用免費咖啡和無線網路。"
+    },
+    {
+     "en": "A new laundromat opened next to the supermarket last month.",
+     "zh": "上個月超市旁邊新開了一家自助洗衣店。"
+    }
+   ],
+   "distractors": [
+    "laboratory",
+    "landmark",
+    "lavatory"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-fold",
+   "word": "fold",
+   "pos": "動詞",
+   "meaning": "摺疊；（公司）倒閉",
+   "sentences": [
+    {
+     "en": "Please fold the brochures in half before placing them in the envelopes.",
+     "zh": "請先把小冊子對摺再放進信封。"
+    },
+    {
+     "en": "Hotel staff fold the towels into the shape of a swan for honeymoon guests.",
+     "zh": "飯店員工會把毛巾摺成天鵝的形狀給蜜月房客。"
+    },
+    {
+     "en": "The new table is easy to fold and store when it is not in use.",
+     "zh": "新桌子不用時很容易摺起來收好。"
+    },
+    {
+     "en": "Employees in the shipping department fold each shirt carefully before packing it.",
+     "zh": "出貨部的員工在包裝前會小心摺好每件襯衫。"
+    },
+    {
+     "en": "Small businesses often fold within their first two years because of cash flow problems.",
+     "zh": "小企業常因現金流問題在頭兩年內倒閉。"
+    }
+   ],
+   "distractors": [
+    "fool",
+    "foil",
+    "flood"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-hang-up",
+   "word": "hang up",
+   "pos": "片語動詞",
+   "meaning": "掛斷（電話）；把（衣物）掛起來",
+   "sentences": [
+    {
+     "en": "Please do not hang up; your call will be answered by the next available agent.",
+     "zh": "請不要掛斷，下一位有空的客服人員會接聽您的電話。"
+    },
+    {
+     "en": "Guests can hang up their coats in the closet near the entrance.",
+     "zh": "客人可以把外套掛在入口附近的衣櫥裡。"
+    },
+    {
+     "en": "If you hear a recorded message asking for your bank details, hang up immediately.",
+     "zh": "如果聽到錄音要求您提供銀行資料，請立即掛斷。"
+    },
+    {
+     "en": "The receptionist asked the visitors to hang up their umbrellas before entering the gallery.",
+     "zh": "接待員請訪客進入藝廊前先把雨傘掛好。"
+    },
+    {
+     "en": "Mr. Chen had to hang up the phone quickly because his meeting was about to start.",
+     "zh": "陳先生因為會議快開始了，只好趕快掛掉電話。"
+    }
+   ],
+   "distractors": [
+    "hang out",
+    "show up",
+    "give up"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-kind-of",
+   "word": "kind of",
+   "pos": "副詞",
+   "meaning": "有點；有幾分（口語）",
+   "sentences": [
+    {
+     "en": "The new office is kind of small, but it is close to the train station.",
+     "zh": "新辦公室有點小，不過離火車站很近。"
+    },
+    {
+     "en": "I was kind of surprised that the client signed the contract so quickly.",
+     "zh": "我有點驚訝客戶這麼快就簽了合約。"
+    },
+    {
+     "en": "The instructions are kind of confusing, so let me explain the process step by step.",
+     "zh": "說明有點難懂，所以我一步一步解釋流程。"
+    },
+    {
+     "en": "The weather has been kind of cold this week, so remember to bring a jacket to the outdoor event.",
+     "zh": "這週天氣有點冷，參加戶外活動記得帶外套。"
+    },
+    {
+     "en": "Our team is kind of busy right now, but we can meet with you on Thursday afternoon.",
+     "zh": "我們團隊現在有點忙，不過週四下午可以和您見面。"
+    }
+   ],
+   "distractors": [
+    "kindly",
+    "kind for",
+    "a kind"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-kinda",
+   "word": "kinda",
+   "pos": "其他",
+   "meaning": "有點（kind of 的口語寫法）",
+   "sentences": [
+    {
+     "en": "The training video was kinda long, but it covered everything we needed to know.",
+     "zh": "訓練影片有點長，不過涵蓋了我們需要知道的一切。"
+    },
+    {
+     "en": "I'm kinda tired after the overnight flight, so can we meet tomorrow instead?",
+     "zh": "搭了夜班飛機我有點累，我們可以改明天見面嗎？"
+    },
+    {
+     "en": "The new coffee machine is kinda hard to use without reading the manual.",
+     "zh": "不看說明書的話，新咖啡機有點難用。"
+    },
+    {
+     "en": "That restaurant is kinda expensive, but the food is excellent for client dinners.",
+     "zh": "那家餐廳有點貴，不過拿來請客戶吃飯很合適。"
+    },
+    {
+     "en": "She said the interview was kinda stressful, but she felt good about her answers.",
+     "zh": "她說面試有點緊張，但她對自己的回答很滿意。"
+    }
+   ],
+   "distractors": [
+    "kindle",
+    "kinder",
+    "kindly"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-refer-to",
+   "word": "refer to",
+   "pos": "片語動詞",
+   "meaning": "參考；提到；指的是",
+   "sentences": [
+    {
+     "en": "Please refer to the user manual for instructions on changing the printer cartridge.",
+     "zh": "更換印表機墨水匣的步驟請參考使用手冊。"
+    },
+    {
+     "en": "New employees should refer to the handbook if they have questions about vacation days.",
+     "zh": "新進員工如果對休假天數有疑問，應該參考員工手冊。"
+    },
+    {
+     "en": "In this report, we use the word clients to refer to both companies and individuals.",
+     "zh": "在這份報告中，我們用「客戶」這個詞同時指公司和個人。"
+    },
+    {
+     "en": "During the presentation, Ms. Wu will refer to last year's sales figures several times.",
+     "zh": "簡報中，吳小姐會多次提到去年的銷售數字。"
+    },
+    {
+     "en": "Applicants may refer to the company website for more details about the position.",
+     "zh": "應徵者可以參考公司網站，了解這個職位的更多細節。"
+    }
+   ],
+   "distractors": [
+    "prefer to",
+    "defer to",
+    "reply to"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-routine",
+   "word": "routine",
+   "pos": "名詞",
+   "meaning": "例行公事；日常作息；（形容詞）例行的",
+   "sentences": [
+    {
+     "en": "Checking email is the first part of my morning routine at the office.",
+     "zh": "查看電子郵件是我在辦公室早上例行工作的第一件事。"
+    },
+    {
+     "en": "The technician will perform a routine inspection of the elevators on Friday.",
+     "zh": "技術人員週五會對電梯做例行檢查。"
+    },
+    {
+     "en": "Regular exercise has become part of Mr. Lee's daily routine since he changed jobs.",
+     "zh": "自從換工作後，規律運動成了李先生日常作息的一部分。"
+    },
+    {
+     "en": "Please follow the routine safety procedures when you close the store each night.",
+     "zh": "每晚關店時請遵守例行的安全程序。"
+    },
+    {
+     "en": "The new software helps managers automate routine tasks such as scheduling meetings.",
+     "zh": "新軟體幫助主管把安排會議這類例行工作自動化。"
+    }
+   ],
+   "distractors": [
+    "roulette",
+    "routing",
+    "outline"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-a-bit-of",
+   "word": "a bit of",
+   "pos": "其他",
+   "meaning": "一點點（的）；有點",
+   "sentences": [
+    {
+     "en": "The project needs a bit of extra time before it is ready for the client.",
+     "zh": "這個專案還需要多一點時間才能交給客戶。"
+    },
+    {
+     "en": "With a bit of practice, new staff can learn the checkout system in one day.",
+     "zh": "只要稍加練習，新員工一天就能學會結帳系統。"
+    },
+    {
+     "en": "There was a bit of confusion about the meeting time, so some people arrived late.",
+     "zh": "會議時間有點混亂，所以有些人遲到了。"
+    },
+    {
+     "en": "Adding a bit of color to the office walls could make the space feel more welcoming.",
+     "zh": "在辦公室牆面加一點顏色，會讓空間感覺更親切。"
+    },
+    {
+     "en": "The manager asked for a bit of patience while the computer system is being updated.",
+     "zh": "主管請大家在電腦系統更新期間稍微耐心一點。"
+    }
+   ],
+   "distractors": [
+    "a bite of",
+    "a pair of",
+    "a box of"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-motivate",
+   "word": "motivate",
+   "pos": "動詞",
+   "meaning": "激勵；促使",
+   "sentences": [
+    {
+     "en": "Managers can motivate their teams by recognizing good work in front of others.",
+     "zh": "主管可以透過在眾人面前肯定好的表現來激勵團隊。"
+    },
+    {
+     "en": "The company offers bonuses to motivate sales staff to reach their monthly targets.",
+     "zh": "公司提供獎金來激勵業務人員達成每月目標。"
+    },
+    {
+     "en": "It can be difficult to motivate employees during a long and busy season.",
+     "zh": "在漫長又忙碌的旺季，很難激勵員工。"
+    },
+    {
+     "en": "Ms. Tan gave a short speech to motivate the volunteers before the charity event began.",
+     "zh": "慈善活動開始前，譚小姐發表了簡短演說來激勵志工。"
+    },
+    {
+     "en": "Flexible working hours help motivate many workers to stay with the company.",
+     "zh": "彈性工時促使許多員工留在公司。"
+    }
+   ],
+   "distractors": [
+    "meditate",
+    "migrate",
+    "mutate"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-motivation",
+   "word": "motivation",
+   "pos": "名詞",
+   "meaning": "動機；動力",
+   "sentences": [
+    {
+     "en": "Many employees say that recognition is their main motivation for working hard.",
+     "zh": "許多員工說，被肯定是他們努力工作的主要動力。"
+    },
+    {
+     "en": "The workshop teaches managers how to increase staff motivation without spending more money.",
+     "zh": "這個工作坊教主管如何在不多花錢的情況下提升員工的動力。"
+    },
+    {
+     "en": "Low motivation among workers can lead to mistakes and missed deadlines.",
+     "zh": "員工動力低落可能導致錯誤和延誤期限。"
+    },
+    {
+     "en": "During the interview, the applicant explained her motivation for changing careers.",
+     "zh": "面試時，應徵者說明了她轉換跑道的動機。"
+    },
+    {
+     "en": "A clear goal can be a strong source of motivation for a project team.",
+     "zh": "明確的目標可以是專案團隊強大的動力來源。"
+    }
+   ],
+   "distractors": [
+    "motion",
+    "mutation",
+    "meditation"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-enhance",
+   "word": "enhance",
+   "pos": "動詞",
+   "meaning": "提高；增強；提升",
+   "sentences": [
+    {
+     "en": "The new lighting will enhance the appearance of the products in the display windows.",
+     "zh": "新照明會讓櫥窗裡的商品看起來更好看。"
+    },
+    {
+     "en": "Online training courses can enhance employees' computer skills.",
+     "zh": "線上訓練課程可以提升員工的電腦技能。"
+    },
+    {
+     "en": "The hotel added a rooftop garden to enhance the experience of its guests.",
+     "zh": "飯店增設屋頂花園來提升房客的體驗。"
+    },
+    {
+     "en": "Clear photos can greatly enhance the quality of a product listing.",
+     "zh": "清楚的照片可以大幅提升商品頁面的品質。"
+    },
+    {
+     "en": "The company hopes the new logo will enhance its image among younger customers.",
+     "zh": "公司希望新標誌能提升它在年輕顧客心中的形象。"
+    }
+   ],
+   "distractors": [
+    "enchant",
+    "enroll",
+    "endanger"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-improve",
+   "word": "improve",
+   "pos": "動詞",
+   "meaning": "改善；改進",
+   "sentences": [
+    {
+     "en": "The airline is working to improve its on-time performance this year.",
+     "zh": "航空公司今年正努力改善準點率。"
+    },
+    {
+     "en": "Customer feedback helps us improve the quality of our services.",
+     "zh": "顧客的意見幫助我們改善服務品質。"
+    },
+    {
+     "en": "Taking short breaks during the day can improve concentration at work.",
+     "zh": "一天中稍作休息可以改善工作時的專注力。"
+    },
+    {
+     "en": "The city plans to improve public transportation between the airport and downtown.",
+     "zh": "市政府計畫改善機場和市中心之間的大眾運輸。"
+    },
+    {
+     "en": "Ms. Ho took an evening class to improve her business writing skills.",
+     "zh": "何小姐去上夜間課程，來加強她的商業寫作能力。"
+    }
+   ],
+   "distractors": [
+    "approve",
+    "impose",
+    "imprint"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-cosmetics",
+   "word": "cosmetics",
+   "pos": "名詞",
+   "meaning": "化妝品",
+   "sentences": [
+    {
+     "en": "The department store's first floor is dedicated to cosmetics and perfume.",
+     "zh": "百貨公司一樓專門賣化妝品和香水。"
+    },
+    {
+     "en": "Our company exports cosmetics to more than twenty countries in Asia.",
+     "zh": "我們公司把化妝品出口到亞洲二十多個國家。"
+    },
+    {
+     "en": "Airline passengers may carry small bottles of cosmetics in their hand luggage.",
+     "zh": "搭機旅客可以在手提行李中攜帶小瓶化妝品。"
+    },
+    {
+     "en": "The new line of natural cosmetics will be available in stores next month.",
+     "zh": "新的天然化妝品系列下個月會在店裡上架。"
+    },
+    {
+     "en": "Sales of cosmetics increased sharply during the holiday shopping season.",
+     "zh": "化妝品的銷售在節日購物季期間大幅成長。"
+    }
+   ],
+   "distractors": [
+    "comics",
+    "cosmos",
+    "climates"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-makeup",
+   "word": "makeup",
+   "pos": "名詞",
+   "meaning": "化妝；妝容；（團體的）組成",
+   "sentences": [
+    {
+     "en": "The actors spend about an hour in the makeup room before each performance.",
+     "zh": "演員每次演出前會在化妝間待大約一小時。"
+    },
+    {
+     "en": "The store offers free makeup lessons to customers who spend over fifty dollars.",
+     "zh": "消費滿五十美元的顧客，店家提供免費化妝教學。"
+    },
+    {
+     "en": "Please remove your makeup before the skin test at the clinic.",
+     "zh": "在診所做皮膚測試前請先卸妝。"
+    },
+    {
+     "en": "The makeup of the board changed after two new directors were appointed.",
+     "zh": "兩位新董事上任後，董事會的組成改變了。"
+    },
+    {
+     "en": "A professional makeup artist was hired for the company's photo shoot.",
+     "zh": "公司的拍照活動請了專業化妝師。"
+    }
+   ],
+   "distractors": [
+    "markup",
+    "backup",
+    "mockup"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-cosmetic-surgery",
+   "word": "cosmetic surgery",
+   "pos": "名詞",
+   "meaning": "整形手術；美容手術",
+   "sentences": [
+    {
+     "en": "More people are choosing cosmetic surgery to change their appearance.",
+     "zh": "越來越多人選擇整形手術來改變外貌。"
+    },
+    {
+     "en": "The clinic specializes in cosmetic surgery and offers free consultations on weekends.",
+     "zh": "這間診所專門做整形手術，週末提供免費諮詢。"
+    },
+    {
+     "en": "Patients should rest for at least a week after cosmetic surgery on the face.",
+     "zh": "臉部整形手術後，病人應至少休息一週。"
+    },
+    {
+     "en": "Many insurance plans do not cover cosmetic surgery unless it is medically necessary.",
+     "zh": "許多保險方案不給付整形手術，除非醫療上有必要。"
+    },
+    {
+     "en": "The article discusses the growing number of tourists who travel abroad for cosmetic surgery.",
+     "zh": "這篇文章討論越來越多遊客出國做整形手術的現象。"
+    }
+   ],
+   "distractors": [
+    "cosmetic counter",
+    "plastic bag",
+    "cosmetic case"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-cosmetic-changes",
+   "word": "cosmetic changes",
+   "pos": "名詞",
+   "meaning": "表面上的改變；外觀上的修改",
+   "sentences": [
+    {
+     "en": "The designers made only cosmetic changes to the new model, such as different colors and logos.",
+     "zh": "設計師對新車款只做了表面上的修改，例如換顏色和標誌。"
+    },
+    {
+     "en": "Employees complained that the reorganization involved cosmetic changes rather than real improvements.",
+     "zh": "員工抱怨這次組織調整只是表面改變，不是真正的改善。"
+    },
+    {
+     "en": "The website update includes some cosmetic changes, but the checkout process remains the same.",
+     "zh": "網站更新包括一些外觀上的修改，但結帳流程不變。"
+    },
+    {
+     "en": "A few cosmetic changes, like new paint and lighting, made the old office feel modern.",
+     "zh": "一些外觀上的改變，像是重新上漆和換燈光，讓舊辦公室感覺很現代。"
+    },
+    {
+     "en": "The landlord promised more than cosmetic changes before raising the rent.",
+     "zh": "房東承諾在調漲租金前，會做的不只是表面上的修改。"
+    }
+   ],
+   "distractors": [
+    "climate changes",
+    "cosmetic charges",
+    "cosmic changes"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-common",
+   "word": "common",
+   "pos": "形容詞",
+   "meaning": "常見的；共同的；公共的",
+   "sentences": [
+    {
+     "en": "Delayed flights are common during the winter holiday season.",
+     "zh": "冬季假期期間班機延誤很常見。"
+    },
+    {
+     "en": "The two companies share a common goal of reducing plastic waste.",
+     "zh": "這兩家公司有著減少塑膠垃圾的共同目標。"
+    },
+    {
+     "en": "Tenants may use the common area on the ground floor for meetings.",
+     "zh": "房客可以使用一樓的公共區域開會。"
+    },
+    {
+     "en": "One common mistake on job applications is forgetting to include contact information.",
+     "zh": "求職申請常見的錯誤之一是忘記寫聯絡方式。"
+    },
+    {
+     "en": "It is common for new employees to feel nervous during their first week.",
+     "zh": "新員工在第一週感到緊張是很常見的。"
+    }
+   ],
+   "distractors": [
+    "comical",
+    "cosmic",
+    "coming"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-childhood",
+   "word": "childhood",
+   "pos": "名詞",
+   "meaning": "童年",
+   "sentences": [
+    {
+     "en": "The author describes her childhood on a small farm in her new book.",
+     "zh": "作者在新書中描述她在小農場度過的童年。"
+    },
+    {
+     "en": "Mr. Kao's interest in architecture began in childhood when he built models with his father.",
+     "zh": "高先生對建築的興趣從童年開始，那時他和父親一起做模型。"
+    },
+    {
+     "en": "The museum's new exhibit shows toys that many visitors remember from their childhood.",
+     "zh": "博物館的新展覽展出許多參觀者童年記憶中的玩具。"
+    },
+    {
+     "en": "The company was founded by two friends who had known each other since childhood.",
+     "zh": "這家公司由兩位從小就認識的朋友創立。"
+    },
+    {
+     "en": "Good eating habits formed in childhood can last a lifetime.",
+     "zh": "童年養成的良好飲食習慣可以維持一輩子。"
+    }
+   ],
+   "distractors": [
+    "childbirth",
+    "likelihood",
+    "falsehood"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-memory",
+   "word": "memory",
+   "pos": "名詞",
+   "meaning": "記憶；回憶；（電腦）記憶體",
+   "sentences": [
+    {
+     "en": "The new laptop has twice as much memory as the old model.",
+     "zh": "新筆電的記憶體是舊機型的兩倍。"
+    },
+    {
+     "en": "The opening of the first store remains a proud memory for the company's founder.",
+     "zh": "第一家店開幕至今仍是創辦人引以為傲的回憶。"
+    },
+    {
+     "en": "Writing down important dates is better than relying on your memory.",
+     "zh": "把重要日期寫下來比靠記憶好。"
+    },
+    {
+     "en": "The speaker shared a funny memory from her first day as a sales assistant.",
+     "zh": "講者分享了她第一天當銷售助理時的一段有趣回憶。"
+    },
+    {
+     "en": "A monument was built in memory of the workers who built the bridge.",
+     "zh": "為紀念建造這座橋的工人，興建了一座紀念碑。"
+    }
+   ],
+   "distractors": [
+    "mercury",
+    "melody",
+    "machinery"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-grandparents",
+   "word": "grandparents",
+   "pos": "名詞",
+   "meaning": "祖父母；外祖父母",
+   "sentences": [
+    {
+     "en": "Many children spend their summer vacation with their grandparents in the countryside.",
+     "zh": "很多孩子暑假和祖父母一起在鄉下度過。"
+    },
+    {
+     "en": "The hotel offers special family packages for grandparents traveling with grandchildren.",
+     "zh": "飯店為帶孫子女旅行的祖父母提供特別的家庭套裝方案。"
+    },
+    {
+     "en": "Ms. Lin started the bakery using recipes from her grandparents.",
+     "zh": "林小姐用她祖父母的食譜開了這家烘焙坊。"
+    },
+    {
+     "en": "On a special day each autumn, the school invites grandparents to visit the classrooms.",
+     "zh": "學校每年秋天有一個特別的日子，邀請祖父母來參觀教室。"
+    },
+    {
+     "en": "The museum offers free admission to grandparents who come with children under twelve.",
+     "zh": "帶十二歲以下兒童來的祖父母可以免費入館。"
+    }
+   ],
+   "distractors": [
+    "grandstands",
+    "grandmasters",
+    "grants"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-grown-up",
+   "word": "grown-up",
+   "pos": "名詞",
+   "meaning": "大人；成年人；（形容詞）成熟的",
+   "sentences": [
+    {
+     "en": "The museum tour is designed for children, but every grown-up is welcome to join.",
+     "zh": "這個博物館導覽是為兒童設計的，但每位大人也都歡迎參加。"
+    },
+    {
+     "en": "Each child under eight must be accompanied by a grown-up in the swimming pool.",
+     "zh": "八歲以下的兒童在泳池都必須有大人陪同。"
+    },
+    {
+     "en": "The menu includes smaller portions for kids and regular portions for every grown-up.",
+     "zh": "菜單有給小孩的小份量和給大人的一般份量。"
+    },
+    {
+     "en": "The company's new website has a more grown-up design that appeals to business customers.",
+     "zh": "公司新網站的設計更成熟，吸引企業客戶。"
+    },
+    {
+     "en": "Learning to manage your own budget is part of becoming a grown-up.",
+     "zh": "學會管理自己的預算是長大成人的一部分。"
+    }
+   ],
+   "distractors": [
+    "group",
+    "grower",
+    "grumble"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-simple",
+   "word": "simple",
+   "pos": "形容詞",
+   "meaning": "簡單的；樸素的",
+   "sentences": [
+    {
+     "en": "Filling out the online form is simple and takes only five minutes.",
+     "zh": "填寫線上表格很簡單，只要五分鐘。"
+    },
+    {
+     "en": "The new remote control has a simple design with only six buttons.",
+     "zh": "新遙控器設計簡單，只有六個按鈕。"
+    },
+    {
+     "en": "The restaurant serves simple dishes made with fresh local ingredients.",
+     "zh": "這家餐廳供應以新鮮在地食材做的簡單料理。"
+    },
+    {
+     "en": "There is no simple solution to the traffic problems downtown.",
+     "zh": "市中心的交通問題沒有簡單的解決辦法。"
+    },
+    {
+     "en": "Please keep your presentation simple and focus on the main points.",
+     "zh": "請讓你的簡報保持簡單，專注在重點上。"
+    }
+   ],
+   "distractors": [
+    "sample",
+    "symbol",
+    "simmer"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-pure",
+   "word": "pure",
+   "pos": "形容詞",
+   "meaning": "純的；純淨的；純粹的",
+   "sentences": [
+    {
+     "en": "The bottled water comes from a pure mountain spring.",
+     "zh": "這瓶裝水來自純淨的山泉。"
+    },
+    {
+     "en": "Our sweaters are made from pure wool imported from New Zealand.",
+     "zh": "我們的毛衣是用從紐西蘭進口的純羊毛製成。"
+    },
+    {
+     "en": "Meeting the CEO in the elevator was pure luck.",
+     "zh": "在電梯裡遇到執行長純屬運氣。"
+    },
+    {
+     "en": "The jewelry store sells rings made of pure gold.",
+     "zh": "珠寶店販售純金戒指。"
+    },
+    {
+     "en": "The company advertises its juice as pure fruit with no added sugar.",
+     "zh": "公司宣傳它的果汁是純果汁，不加糖。"
+    }
+   ],
+   "distractors": [
+    "purse",
+    "puree",
+    "pore"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-connect",
+   "word": "connect",
+   "pos": "動詞",
+   "meaning": "連接；連結；聯繫",
+   "sentences": [
+    {
+     "en": "Please connect the printer to the network before installing the software.",
+     "zh": "安裝軟體前請先把印表機連上網路。"
+    },
+    {
+     "en": "The new bridge will connect the island to the mainland.",
+     "zh": "新的橋會把島嶼和本島連接起來。"
+    },
+    {
+     "en": "Our app helps job seekers connect with employers in their area.",
+     "zh": "我們的應用程式幫助求職者和當地雇主建立聯繫。"
+    },
+    {
+     "en": "Guests can connect to the hotel's free Wi-Fi using their room number.",
+     "zh": "房客可以用房號連上飯店的免費無線網路。"
+    },
+    {
+     "en": "A short tunnel will connect the two office buildings so staff can avoid the rain.",
+     "zh": "一條短隧道會連接兩棟辦公大樓，讓員工不必淋雨。"
+    }
+   ],
+   "distractors": [
+    "correct",
+    "collect",
+    "convict"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-bridge",
+   "word": "bridge",
+   "pos": "名詞",
+   "meaning": "橋；（動詞）縮小（差距）",
+   "sentences": [
+    {
+     "en": "The bridge over the river will be closed for repairs this weekend.",
+     "zh": "河上的橋本週末會封閉維修。"
+    },
+    {
+     "en": "Traffic on the bridge is usually heavy during the morning rush hour.",
+     "zh": "早上尖峰時段橋上的交通通常很擁擠。"
+    },
+    {
+     "en": "The city plans to build a pedestrian bridge between the train station and the shopping mall.",
+     "zh": "市政府計畫在火車站和購物中心之間蓋一座人行天橋。"
+    },
+    {
+     "en": "The new training program aims to bridge the gap between school and the workplace.",
+     "zh": "新的訓練計畫旨在縮小學校和職場之間的落差。"
+    },
+    {
+     "en": "Trucks heavier than ten tons are not allowed to cross the old bridge.",
+     "zh": "超過十噸的卡車不准通過那座舊橋。"
+    }
+   ],
+   "distractors": [
+    "bride",
+    "badge",
+    "bribe"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-comfort",
+   "word": "comfort",
+   "pos": "名詞",
+   "meaning": "舒適；安慰；（動詞）安慰",
+   "sentences": [
+    {
+     "en": "The new office chairs are designed for comfort during long working hours.",
+     "zh": "新辦公椅是為長時間工作的舒適度而設計。"
+    },
+    {
+     "en": "Our airline offers more legroom for passengers who value comfort.",
+     "zh": "我們的航空公司為重視舒適的乘客提供更大的腿部空間。"
+    },
+    {
+     "en": "Customers can now shop from the comfort of their own homes.",
+     "zh": "顧客現在可以在家舒舒服服地購物。"
+    },
+    {
+     "en": "The nurse tried to comfort the patient who was worried about the surgery.",
+     "zh": "護理師試著安慰擔心手術的病人。"
+    },
+    {
+     "en": "The hotel lobby combines modern design with comfort and warm lighting.",
+     "zh": "飯店大廳結合了現代設計、舒適感和溫暖的燈光。"
+    }
+   ],
+   "distractors": [
+    "compost",
+    "conflict",
+    "comment"
+   ],
+   "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-fan",
+   "word": "fan",
+   "pos": "名詞",
+   "meaning": "電扇；風扇；粉絲；愛好者",
+   "sentences": [
+    {
+     "en": "Please turn on the fan if the meeting room gets too warm.",
+     "zh": "如果會議室太熱，請打開電扇。"
+    },
+    {
+     "en": "Ms. Chang is a big fan of the company's new coffee blend.",
+     "zh": "張小姐非常喜歡公司的新款綜合咖啡。"
+    },
+    {
+     "en": "The store sold out of the new ceiling fan within a week.",
+     "zh": "店裡新款吊扇一週內就賣完了。"
+    },
+    {
+     "en": "Each fan who buys a ticket online will receive a free team scarf.",
+     "zh": "每位在網路上買票的球迷都會獲得一條免費球隊圍巾。"
+    },
+    {
+     "en": "The technician said the computer was overheating because its fan was broken.",
+     "zh": "技術人員說電腦過熱是因為風扇壞了。"
+    }
+   ],
+   "distractors": [
+    "fun",
+    "fin",
+    "fang"
+   ],
+   "addedAt": "2026-10-16"
+  }
+ ]
+}
