@@ -3063,6 +3063,41 @@
    ],
    "note": "不要跟 side（邊、側面）搞混：siding 是一種「材料」，指房子外牆釘上的一片片壁板（木頭、塑膠或金屬）。另外 siding 也可能是動詞 side（支持某一方）的 -ing 形，例如 siding with the manager（站在經理那邊）。",
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-for-the-time-being",
+   "word": "for the time being",
+   "pos": "其他",
+   "meaning": "暫時；目前（之後可能會改變）",
+   "sentences": [
+    {
+     "en": "The main entrance is closed for repairs, so please use the side door for the time being.",
+     "zh": "大門正在維修，暫時請走側門。"
+    },
+    {
+     "en": "For the time being, all meetings will be held online until the new office is ready.",
+     "zh": "在新辦公室準備好之前，所有會議暫時都改在線上舉行。"
+    },
+    {
+     "en": "The company has decided not to hire any new staff for the time being.",
+     "zh": "公司決定暫時不招募新員工。"
+    },
+    {
+     "en": "Ms. Chen will manage the sales team for the time being while the director is on leave.",
+     "zh": "主任休假期間，暫時由陳小姐管理業務團隊。"
+    },
+    {
+     "en": "The price of the service will stay the same for the time being, but it may rise next year.",
+     "zh": "這項服務的價格暫時維持不變，但明年可能會調漲。"
+    }
+   ],
+   "distractors": [
+    "by the time being",
+    "for the timing being",
+    "at the time begun"
+   ],
+   "note": "同義說法：for now、temporarily、at the moment（都是「暫時、目前」）。容易搞混：at the time 是「當時（過去那個時候）」，不是「暫時」。",
+   "addedAt": "2026-10-16"
   }
  ],
  "notes": [
