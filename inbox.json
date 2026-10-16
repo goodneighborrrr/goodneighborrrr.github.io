@@ -2345,6 +2345,40 @@
     "popular"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-genre",
+   "word": "genre",
+   "pos": "名詞",
+   "meaning": "（文學、電影、音樂等的）類型；體裁",
+   "sentences": [
+    {
+     "en": "The bookstore organizes its shelves by genre, such as mystery, romance, and science fiction.",
+     "zh": "這家書店依照類型排列書架，例如推理、愛情和科幻。"
+    },
+    {
+     "en": "Our streaming service lets viewers search for movies by genre or by actor.",
+     "zh": "我們的串流服務讓觀眾可以依類型或演員搜尋電影。"
+    },
+    {
+     "en": "The music festival features artists from every genre, from jazz to hip-hop.",
+     "zh": "這個音樂節有各種類型的藝人，從爵士到嘻哈都有。"
+    },
+    {
+     "en": "The publisher is looking for new writers in the fantasy genre for next year's catalog.",
+     "zh": "出版社正在為明年的書目尋找奇幻類型的新作家。"
+    },
+    {
+     "en": "Customer surveys show that comedy is the most popular genre among our younger viewers.",
+     "zh": "顧客調查顯示，喜劇是我們年輕觀眾最喜歡的類型。"
+    }
+   ],
+   "distractors": [
+    "gender",
+    "genie",
+    "gene"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
