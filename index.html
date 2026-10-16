@@ -624,7 +624,7 @@ function openBank(){
       <h2 style="margin:0;font-size:16px">設定</h2>
       <form class="stack" id="keyForm" autocomplete="off">
         <label class="f" for="aiKey">Google AI 通行碼（新增單字時自動寫中文和例句）
-          <input type="password" id="aiKey" placeholder="${hasKey ? "已設定（要換新的才需要再貼）" : "貼上 AIza 開頭的通行碼"}" autocomplete="off" spellcheck="false"></label>
+          <input type="password" id="aiKey" placeholder="${hasKey ? "已設定（要換新的才需要再貼）" : "貼上從 Google AI Studio 複製的通行碼"}" autocomplete="off" spellcheck="false"></label>
         <div class="row"><button class="ghost" type="submit">儲存通行碼</button>${hasKey ? `<span class="tag">已設定</span>` : `<span class="tag plain">尚未設定</span>`}</div>
       </form>
       <div class="row" style="justify-content:space-between"><span style="font-size:13px;color:var(--muted)">已登入：${escapeHtml(auth.currentUser?.email || "")}</span><button class="ghost" id="logout">登出</button></div>
@@ -686,7 +686,7 @@ Return ONLY JSON with this shape:
     if (!res || !res.ok){
       const e = new Error("http " + lastStatus);
       e.userMessage = lastStatus === 429 ? "今天的 AI 免費額度用完了，先自己輸入中文和例句，或請 Claude 幫你加。"
-        : (lastStatus === 400 || lastStatus === 403) ? "AI 通行碼好像不對，請到單字庫最下面的設定重新貼一次。"
+        : (lastStatus === 400 || lastStatus === 401 || lastStatus === 403) ? "AI 通行碼好像不對，請到單字庫最下面的設定重新貼一次。"
         : "AI 暫時沒辦法使用，請先自己輸入中文和一個例句。";
       throw e;
     }
