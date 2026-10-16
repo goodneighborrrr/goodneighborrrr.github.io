@@ -3028,6 +3028,41 @@
    ],
    "note": "單數是 priority（a top priority 首要之事）；動詞是 prioritize（排出優先順序）。容易搞混：preference 是「偏好、比較喜歡」，priority 是「比較重要、要先處理」。",
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-siding",
+   "word": "siding",
+   "pos": "名詞",
+   "meaning": "（房屋的）外牆板；外牆包覆材料",
+   "sentences": [
+    {
+     "en": "The homeowners replaced the old wooden siding with vinyl panels that are easier to clean.",
+     "zh": "屋主把舊的木頭外牆板換成比較好清理的塑膠外牆板。"
+    },
+    {
+     "en": "Strong winds during the storm tore off part of the siding on the west side of the building.",
+     "zh": "暴風雨的強風把建築物西側的外牆板吹掉了一部分。"
+    },
+    {
+     "en": "Our company installs siding, roofs, and windows for houses throughout the region.",
+     "zh": "我們公司為全區的房屋安裝外牆板、屋頂和窗戶。"
+    },
+    {
+     "en": "The real estate agent suggested painting the siding before putting the house on the market.",
+     "zh": "房仲建議房子上市前先把外牆板重新粉刷。"
+    },
+    {
+     "en": "Metal siding costs more at first, but it can last much longer than wood.",
+     "zh": "金屬外牆板一開始比較貴，但比木頭耐用得多。"
+    }
+   ],
+   "distractors": [
+    "sliding",
+    "shading",
+    "seating"
+   ],
+   "note": "不要跟 side（邊、側面）搞混：siding 是一種「材料」，指房子外牆釘上的一片片壁板（木頭、塑膠或金屬）。另外 siding 也可能是動詞 side（支持某一方）的 -ing 形，例如 siding with the manager（站在經理那邊）。",
+   "addedAt": "2026-10-16"
   }
  ],
  "notes": [
