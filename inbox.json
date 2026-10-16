@@ -2719,6 +2719,40 @@
     "mixer"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-fit",
+   "word": "fit",
+   "pos": "動詞",
+   "meaning": "fit someone/something in：（在忙碌的行程中）安插時間給某人或某事；（也有）合身；適合",
+   "sentences": [
+    {
+     "en": "The dentist is fully booked this week, but she can fit you in on Monday at ten.",
+     "zh": "牙醫這週都約滿了，不過她週一十點可以幫你插個時間。"
+    },
+    {
+     "en": "Ms. Wu asked her assistant to fit the client meeting in before lunch.",
+     "zh": "吳小姐請助理在午餐前把和客戶的會議排進去。"
+    },
+    {
+     "en": "If you send your request today, we will try to fit your order in this week's production.",
+     "zh": "如果你今天送出需求，我們會盡量把你的訂單排進本週的生產。"
+    },
+    {
+     "en": "The manager's schedule is very busy, so it may be hard to fit another interview in.",
+     "zh": "經理的行程很滿，可能很難再排進一場面試。"
+    },
+    {
+     "en": "Could you fit me in for a quick haircut on Saturday morning?",
+     "zh": "你週六早上能幫我排個時間快速剪個頭髮嗎？"
+    }
+   ],
+   "distractors": [
+    "fix",
+    "fill",
+    "fold"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
