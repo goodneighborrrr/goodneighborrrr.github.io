@@ -2481,6 +2481,40 @@
     "directorate"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-symposium",
+   "word": "symposium",
+   "pos": "名詞",
+   "meaning": "研討會；座談會",
+   "sentences": [
+    {
+     "en": "The company will host a two-day symposium on renewable energy at the convention center next month.",
+     "zh": "公司下個月將在會議中心舉辦為期兩天的再生能源研討會。"
+    },
+    {
+     "en": "More than three hundred researchers registered for the medical symposium in Singapore.",
+     "zh": "超過三百位研究人員報名參加在新加坡舉行的醫學研討會。"
+    },
+    {
+     "en": "Dr. Wang was invited to give the opening speech at the annual technology symposium.",
+     "zh": "王博士受邀在年度科技研討會上發表開幕演講。"
+    },
+    {
+     "en": "Registration for the symposium closes on Friday, so please submit your form as soon as possible.",
+     "zh": "研討會報名週五截止，請盡快交表。"
+    },
+    {
+     "en": "The papers presented at the symposium will be published online after the event.",
+     "zh": "研討會上發表的論文會在活動結束後上網公開。"
+    }
+   ],
+   "distractors": [
+    "symptom",
+    "symphony",
+    "sympathy"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
