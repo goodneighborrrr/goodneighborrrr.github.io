@@ -214,7 +214,7 @@ let db;
 try { db = initializeFirestore(fbApp, { localCache: persistentLocalCache({ tabManager: persistentMultipleTabManager() }) }); }
 catch (e) { db = initializeFirestore(fbApp, {}); }
 
-const ROUND_SIZE = 20;
+const ROUND_SIZE = 100;
 const STREAK_TO_CLEAR = 3;
 const TEST_MODE = location.hash === "#test";   // 測試用：「隔天」改成「1 分鐘後」
 const POS_LIST = ["名詞","動詞","形容詞","副詞","介系詞","連接詞","片語動詞","其他"];
