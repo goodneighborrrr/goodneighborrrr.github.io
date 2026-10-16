@@ -2311,6 +2311,40 @@
     "adorably"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-proper",
+   "word": "proper",
+   "pos": "形容詞",
+   "meaning": "恰當的；正確的；正式的",
+   "sentences": [
+    {
+     "en": "Please make sure all documents are stored in the proper folder before the audit.",
+     "zh": "稽核前，請確認所有文件都放在正確的資料夾裡。"
+    },
+    {
+     "en": "New employees receive proper training before they are allowed to operate the machines.",
+     "zh": "新進員工在獲准操作機器前，都會接受正規的訓練。"
+    },
+    {
+     "en": "The contract was not signed because the proper approval had not been obtained.",
+     "zh": "合約沒有簽成，因為還沒取得正式的核准。"
+    },
+    {
+     "en": "Without proper maintenance, the air conditioning system may break down during the summer.",
+     "zh": "如果沒有適當的維修保養，空調系統夏天可能會故障。"
+    },
+    {
+     "en": "Guests are expected to wear proper business attire at the awards dinner.",
+     "zh": "頒獎晚宴的賓客應穿著正式的商務服裝。"
+    }
+   ],
+   "distractors": [
+    "prosper",
+    "property",
+    "popular"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
