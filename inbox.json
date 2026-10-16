@@ -2447,6 +2447,40 @@
     "television show typing"
    ],
    "addedAt": "2026-10-16"
+  },
+  {
+   "id": "20261016-doctorate",
+   "word": "doctorate",
+   "pos": "名詞",
+   "meaning": "博士學位",
+   "sentences": [
+    {
+     "en": "Dr. Chen earned her doctorate in economics before joining the research department.",
+     "zh": "陳博士在加入研究部門之前取得了經濟學博士學位。"
+    },
+    {
+     "en": "Applicants for the senior scientist position must hold a doctorate in chemistry or a related field.",
+     "zh": "應徵資深科學家職位的人必須擁有化學或相關領域的博士學位。"
+    },
+    {
+     "en": "The company will pay part of the tuition for employees who want to pursue a doctorate.",
+     "zh": "公司會替想攻讀博士學位的員工支付部分學費。"
+    },
+    {
+     "en": "After completing his doctorate, Mr. Lin accepted a teaching position at a university in Taipei.",
+     "zh": "林先生完成博士學位後，接受了台北一所大學的教職。"
+    },
+    {
+     "en": "It usually takes four to six years to finish a doctorate in engineering.",
+     "zh": "攻讀工程博士學位通常需要四到六年。"
+    }
+   ],
+   "distractors": [
+    "dictator",
+    "decorate",
+    "directorate"
+   ],
+   "addedAt": "2026-10-16"
   }
  ]
 }
