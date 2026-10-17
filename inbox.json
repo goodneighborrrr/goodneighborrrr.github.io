@@ -3448,6 +3448,41 @@
       ],
       "note": "be stationed at＝被安排守在某處、派駐在某地，原形是 station（當名詞是「車站」）。長很像的字：stationary（靜止的）、stationery（文具），兩個只差一個字母。",
       "addedAt": "2026-10-16"
+    },
+    {
+      "id": "20261017-tribe",
+      "word": "tribe",
+      "pos": "名詞",
+      "meaning": "部落；部族；（口語）一群志同道合的人",
+      "sentences": [
+        {
+          "en": "The museum's new exhibit features traditional baskets and jewelry made by a local tribe in the mountains.",
+          "zh": "博物館的新展覽展出山區一個在地部落製作的傳統籃子和飾品。"
+        },
+        {
+          "en": "Our travel agency offers a guided tour that lets visitors learn about the history of an ancient tribe.",
+          "zh": "我們旅行社提供導覽行程，讓遊客了解一個古老部族的歷史。"
+        },
+        {
+          "en": "The documentary, which was filmed over two years, follows the daily life of a small tribe in the Amazon.",
+          "zh": "這部花了兩年拍攝的紀錄片，記錄了亞馬遜一個小部落的日常生活。"
+        },
+        {
+          "en": "The company donated computers to a school that serves children from a remote tribe in northern Thailand.",
+          "zh": "公司捐了電腦給一所學校，那裡的學生來自泰國北部一個偏遠部落。"
+        },
+        {
+          "en": "Before visiting the village, tourists were asked to respect the customs and beliefs of the tribe living there.",
+          "zh": "參觀村莊前，遊客被要求尊重當地部落的習俗和信仰。"
+        }
+      ],
+      "distractors": [
+        "tribute",
+        "bribe",
+        "trip"
+      ],
+      "note": "形容詞是 tribal（部落的）。長很像的字：tribute＝致敬、紀念；bribe＝賄賂。口語裡 find your tribe 是「找到跟你合得來的一群人」。",
+      "addedAt": "2026-10-17"
     }
   ],
   "notes": [
