@@ -304,14 +304,54 @@ function sentenceHtml(sentence, word, filled){
 function shuffle(a){ a = a.slice(); for (let i = a.length - 1; i > 0; i--){ const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; } return a; }
 function isDue(w, key){ return w.review.active && w.review.lastKey < key; }
 
+/* ---------- 熟練度：答對越多次，隔越久才再考；答錯就回到最前面 ----------
+   level = 連續答對的天數（同一天答對很多次只算一次，答錯歸零）
+   level 0→隔 1 天、1→2 天、2→4 天、3→7 天、4→14 天、5→30 天、6 以上→60 天 */
+const GAPS = [1, 2, 4, 7, 14, 30, 60];
+function levelOf(w){
+  if (typeof w.stats.level === "number") return w.stats.level;
+  // 舊資料：沒答錯過就當作有一點熟，答錯過就從 0 開始
+  return w.stats.attempts && !w.stats.wrong ? Math.min(w.stats.attempts, 2) : 0;
+}
+function gapOf(w){ return GAPS[Math.min(levelOf(w), GAPS.length - 1)]; }
+function periodsSince(ms){
+  if (!ms) return Infinity;
+  if (TEST_MODE) return Math.floor((Date.now() - ms) / 60000);
+  const a = new Date(ms), b = new Date();
+  return Math.round((new Date(b.getFullYear(), b.getMonth(), b.getDate()) - new Date(a.getFullYear(), a.getMonth(), a.getDate())) / 86400000);
+}
+function overdue(w){ return periodsSince(w.stats.lastSeen) / gapOf(w); }   // ≥ 1 代表該考了
+function errRateOf(w){ return w.stats.attempts ? w.stats.wrong / w.stats.attempts : 0; }
+
 function buildRound(){
   const key = periodKey();
-  const usable = Store.words.filter(w => w.sentences.length);
   const size = roundSize();
-  const due = shuffle(usable.filter(w => isDue(w, key))).slice(0, size);
-  const rest = shuffle(usable.filter(w => !due.includes(w)));
-  const picked = shuffle(due.concat(rest.slice(0, Math.max(0, size - due.length))));
-  return picked.map(buildQuestion);
+  const usable = Store.words.filter(w => w.sentences.length);
+  const wrongToday = w => w.review.active && !isDue(w, key);               // 今天答錯的，今天不再考
+  // 1. 答錯過、今天該複習的字：最優先
+  const review = shuffle(usable.filter(w => isDue(w, key)));
+  const taken = new Set(review);
+  // 2. 時間到了該考的字：越久沒考、錯誤率越高、越不熟的越前面
+  const ready = usable.filter(w => !taken.has(w) && !wrongToday(w) && w.stats.attempts && overdue(w) >= 1)
+    .sort((a, b) => (overdue(b) + errRateOf(b) * 2) - (overdue(a) + errRateOf(a) * 2) || levelOf(a) - levelOf(b));
+  // 3. 還沒考過的新字
+  const fresh = shuffle(usable.filter(w => !taken.has(w) && !w.stats.attempts));
+  // 4. 還沒到時間的字（題數不夠時才用來補）：最快要到期、最不熟的先補
+  const later = usable.filter(w => !taken.has(w) && !wrongToday(w) && w.stats.attempts && overdue(w) < 1)
+    .sort((a, b) => overdue(b) - overdue(a) || levelOf(a) - levelOf(b));
+  const today = shuffle(usable.filter(w => !taken.has(w) && wrongToday(w)));
+
+  const picked = review.slice(0, size);
+  const room = () => size - picked.length;
+  // 新字最多佔剩下名額的一半，避免一次加很多字時把該複習的字擠掉
+  const freshCap = Math.ceil(room() / 2);
+  const readyTake = ready.slice(0, Math.max(room() - Math.min(freshCap, fresh.length), 0));
+  picked.push(...readyTake);
+  picked.push(...fresh.slice(0, room()));
+  picked.push(...ready.slice(readyTake.length, readyTake.length + room()));
+  picked.push(...later.slice(0, room()));
+  picked.push(...today.slice(0, room()));
+  return shuffle(picked).map(buildQuestion);
 }
 
 const FALLBACK = {
@@ -348,7 +388,11 @@ function buildQuestion(w){
 
 function recordAnswer(w, ok){
   const key = periodKey();
+  const lv = levelOf(w);
   w.stats.attempts++; w.stats.lastSeen = Date.now();
+  if (!ok){ w.stats.level = 0; w.stats.levelKey = key; }
+  else if (w.stats.levelKey !== key){ w.stats.level = lv + 1; w.stats.levelKey = key; }   // 同一天答對很多次只升一級
+  else w.stats.level = lv;
   if (!ok){
     w.stats.wrong++;
     w.review.active = true; w.review.streak = 0; w.review.lastKey = key;   // 隔天才會再強制出現
@@ -646,7 +690,7 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
         <input type="text" id="e_dis" class="en" value="${escapeHtml(w.distractors.join(", "))}" placeholder="例如 favorite, faithful, flexible"></label>
       <label class="f" for="e_note">備註（同義詞、容易搞混的字、用法提醒；答完題目時會顯示在最下面）
         <textarea id="e_note" placeholder="例如：類似 make，但句型要加 to：prompt + 人 + to + 動詞" style="min-height:64px">${escapeHtml(w.note || "")}</textarea></label>
-      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
+      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.stats.attempts ? `。熟悉程度 ${levelOf(w)} 級，大約隔 ${gapOf(w)} 天再考` : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
       <div id="editMsg"></div>
       <button class="primary" type="submit">儲存</button>
       ${!isNew ? `<div class="row" style="justify-content:center"><button type="button" class="ghost danger" id="delWord">刪除這個單字</button></div>` : ""}
