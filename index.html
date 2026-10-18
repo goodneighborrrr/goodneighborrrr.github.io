@@ -10,8 +10,8 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="default">
 <meta name="apple-mobile-web-app-title" content="EQ 單字">
-<link rel="apple-touch-icon" href="icons/icon-180.png?v=3">
-<link rel="icon" type="image/png" href="icons/favicon-48.png?v=3">
+<link rel="apple-touch-icon" href="icons/icon-180.png?v=4">
+<link rel="icon" type="image/png" href="icons/favicon-48.png?v=4">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -455,7 +455,7 @@ function render(){
 function renderEmpty(){
   const hasWords = Store.words.length > 0;
   main.innerHTML = `<div class="empty">
-    <img src="icons/icon-180.png?v=3" alt="">
+    <img src="icons/icon-180.png?v=4" alt="">
     <h2>${hasWords ? "單字還沒有例句" : "單字庫是空的"}</h2>
     <p>${hasWords ? "到單字庫幫單字補上例句，就可以開始刷題。" : "按右上角的 ＋ 新增今天學到的單字，<br>或請 Claude 幫你加。"}</p>
     <button class="primary" id="emptyAdd" style="max-width:260px">新增單字</button></div>`;
@@ -537,7 +537,7 @@ function authMessage(code){
 function renderLogin(mode = "login", note = ""){
   const isNew = mode === "new";
   main.innerHTML = `
-    <div class="empty" style="padding-bottom:12px"><img src="icons/icon-180.png?v=3" alt=""><h2>EQ 單字刷題</h2><p>${isNew ? "第一次使用：幫這個 App 設一組密碼" : "登入你的單字庫"}</p></div>
+    <div class="empty" style="padding-bottom:12px"><img src="icons/icon-180.png?v=4" alt=""><h2>EQ 單字刷題</h2><p>${isNew ? "第一次使用：幫這個 App 設一組密碼" : "登入你的單字庫"}</p></div>
     <form class="stack" id="loginForm" autocomplete="on" style="max-width:420px;margin:0 auto">
       <label class="f" for="lgEmail">信箱<input type="text" id="lgEmail" inputmode="email" autocomplete="username" autocapitalize="off" spellcheck="false" value="${OWNER_EMAIL}"></label>
       <label class="f" for="lgPass">${isNew ? "設定密碼（至少 6 個字）" : "密碼"}<input type="password" id="lgPass" autocomplete="${isNew ? "new-password" : "current-password"}" required></label>
