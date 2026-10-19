@@ -3728,6 +3728,41 @@
       ],
       "note": "administration 是名詞（行政、管理）；動詞 administer（管理、執行）；做行政工作的人是 administrator，形容詞是 administrative。常見搭配：administration office（行政辦公室）、business administration（企業管理，MBA 的 A 就是它）。長很像的字：admiration（欽佩）。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-unit",
+      "word": "unit",
+      "pos": "名詞",
+      "meaning": "（公寓）一戶；單位；（一台）設備；（產品）一件",
+      "sentences": [
+        {
+          "en": "Every unit in the new apartment building has already been rented, even though construction finished only last month.",
+          "zh": "新公寓大樓上個月才完工，但每一戶都已經租出去了。"
+        },
+        {
+          "en": "Each unit in the complex comes with a private balcony and one free parking space in the basement.",
+          "zh": "社區裡每一戶都有私人陽台，地下室還附一個免費車位。"
+        },
+        {
+          "en": "The property manager will inspect the vacant unit on the third floor before the new tenants move in.",
+          "zh": "新房客搬進來前，物業經理會先檢查三樓那間空的房子。"
+        },
+        {
+          "en": "The air conditioning unit in the main meeting room stopped working during yesterday's important afternoon presentation.",
+          "zh": "昨天下午重要的簡報進行到一半，大會議室的冷氣機壞了。"
+        },
+        {
+          "en": "The factory can now produce one complete unit of the new coffee machine every three minutes.",
+          "zh": "工廠現在每三分鐘就能生產一台完整的新款咖啡機。"
+        }
+      ],
+      "distractors": [
+        "unity",
+        "union",
+        "utility"
+      ],
+      "note": "unit 在租屋、房地產廣告裡指「一戶、一間」，例如 a two-bedroom unit（兩房的房子）。apartment 是「公寓（那一戶）」，unit 比較像「大樓裡的其中一戶」，商業、房地產用語常見。unit 也指一台設備（AC unit＝冷氣機）、產品的件數。長很像的字：unity（團結）、union（工會、聯盟）。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
