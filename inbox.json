@@ -3763,6 +3763,41 @@
       ],
       "note": "unit 在租屋、房地產廣告裡指「一戶、一間」，例如 a two-bedroom unit（兩房的房子）。apartment 是「公寓（那一戶）」，unit 比較像「大樓裡的其中一戶」，商業、房地產用語常見。unit 也指一台設備（AC unit＝冷氣機）、產品的件數。長很像的字：unity（團結）、union（工會、聯盟）。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-burst",
+      "word": "burst",
+      "pos": "動詞",
+      "meaning": "爆裂；破裂；突然（大哭、大笑）",
+      "sentences": [
+        {
+          "en": "A water pipe in the basement burst during the night and flooded the storage room.",
+          "zh": "地下室的水管半夜爆裂，把儲藏室淹了。"
+        },
+        {
+          "en": "The maintenance team replaced the old pipes so that they would not burst again this winter.",
+          "zh": "維修團隊換掉了舊水管，這樣今年冬天就不會再爆管。"
+        },
+        {
+          "en": "If you fill the balloons with too much air, they may burst before the grand opening ceremony begins.",
+          "zh": "氣球灌太多氣的話，可能在開幕典禮開始前就爆掉。"
+        },
+        {
+          "en": "Everyone in the meeting room burst into laughter when the manager's dog walked in during the presentation.",
+          "zh": "簡報進行中經理的狗走進來，會議室裡所有人都突然大笑起來。"
+        },
+        {
+          "en": "A tire on the delivery truck burst on the highway, so the packages arrived two hours late.",
+          "zh": "送貨卡車的輪胎在高速公路上爆胎，所以包裹晚了兩小時才到。"
+        }
+      ],
+      "distractors": [
+        "boost",
+        "brush",
+        "trust"
+      ],
+      "note": "burst 和 crack 不一樣：burst 是因為裡面壓力太大，「砰」一聲突然爆開、破掉（水管、氣球、輪胎）；crack 是出現一條裂縫，但東西還連在一起（杯子、手機螢幕裂了）。burst 三態都一樣：burst-burst-burst。burst into tears／laughter＝突然大哭／大笑。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
