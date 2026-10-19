@@ -3588,6 +3588,41 @@
       ],
       "note": "hold 在多益最常考「舉辦、舉行」，例如 hold a meeting（開會）。意思很像的 host 也是「舉辦」，但比較強調「當主人、主辦方」。其他常見用法：hold on（等一下）、hold the line（電話別掛）。過去式是 held。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-excerpt",
+      "word": "excerpt",
+      "pos": "名詞",
+      "meaning": "摘錄；節錄；片段",
+      "sentences": [
+        {
+          "en": "The newsletter included a short excerpt from the CEO's speech at the annual conference last month.",
+          "zh": "電子報收錄了執行長上個月在年會演講的一小段摘錄。"
+        },
+        {
+          "en": "Before buying the novel, customers can read a free excerpt of the first chapter on the publisher's website.",
+          "zh": "買這本小說前，顧客可以在出版社網站免費試閱第一章的片段。"
+        },
+        {
+          "en": "The marketing team posted an excerpt of the customer interview on the company's social media page.",
+          "zh": "行銷團隊把顧客訪談的一段節錄貼在公司的社群網頁上。"
+        },
+        {
+          "en": "Please attach a brief excerpt from the contract so the legal department can review the key terms.",
+          "zh": "請附上合約的簡短節錄，讓法務部門檢查重點條款。"
+        },
+        {
+          "en": "The presenter played a two-minute excerpt from the training video to start the morning workshop on customer service.",
+          "zh": "講者先播了一段兩分鐘的訓練影片片段，作為早上客服研習的開場。"
+        }
+      ],
+      "distractors": [
+        "expert",
+        "exception",
+        "excess"
+      ],
+      "note": "excerpt 是從文章、書、演講或影片裡「挑出來的一小段」，常說 an excerpt from…。容易搞混：except（除了）、expert（專家）。意思很像的 extract 也可以指摘錄，但更常當動詞「提取」。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
