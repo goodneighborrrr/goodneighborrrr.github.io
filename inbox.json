@@ -3623,6 +3623,41 @@
       ],
       "note": "excerpt 是從文章、書、演講或影片裡「挑出來的一小段」，常說 an excerpt from…。容易搞混：except（除了）、expert（專家）。意思很像的 extract 也可以指摘錄，但更常當動詞「提取」。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-defective",
+      "word": "defective",
+      "pos": "形容詞",
+      "meaning": "有瑕疵的；有缺陷的；故障的",
+      "sentences": [
+        {
+          "en": "Items cannot be returned after thirty days unless they are defective or damaged during shipping.",
+          "zh": "商品超過三十天就不能退貨，除非是有瑕疵或運送途中損壞。"
+        },
+        {
+          "en": "The factory recalled more than two thousand heaters after discovering a defective part in the power switch.",
+          "zh": "工廠發現電源開關有個零件有瑕疵後，召回了兩千多台暖氣機。"
+        },
+        {
+          "en": "Customers who receive a defective printer can exchange it for a new one at any of our stores.",
+          "zh": "收到有瑕疵印表機的顧客，可以到我們任何一家門市換新品。"
+        },
+        {
+          "en": "The quality control team checks every batch carefully so that no defective products reach the market.",
+          "zh": "品管團隊仔細檢查每一批貨，確保沒有瑕疵品流到市面上。"
+        },
+        {
+          "en": "Please contact our service center if you believe your laptop battery is defective within the first year of purchase.",
+          "zh": "購買後第一年內，如果你覺得筆電電池有問題，請聯絡我們的服務中心。"
+        }
+      ],
+      "distractors": [
+        "defensive",
+        "deceptive",
+        "decisive"
+      ],
+      "note": "名詞是 defect（瑕疵、缺陷）。同義詞 faulty 也常用。長很像的字：defensive（防禦的）、detective（偵探）。多益常見句型：退貨、保固、召回（recall）時會出現 defective products（瑕疵品）。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
