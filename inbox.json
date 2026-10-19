@@ -3693,6 +3693,41 @@
       ],
       "note": "hallway＝走廊（hall＋way）。hall 本身也可以指走廊或大廳；corridor 是比較正式的「走廊、通道」，飯店、醫院常用。長很像的字：highway（公路）、hallmark（特徵、標誌）。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-administration",
+      "word": "administration",
+      "pos": "名詞",
+      "meaning": "行政；管理；（政府）執政當局",
+      "sentences": [
+        {
+          "en": "Visitors must sign in at the administration office on the first floor before entering the factory.",
+          "zh": "訪客進入工廠前，必須先到一樓的行政辦公室登記。"
+        },
+        {
+          "en": "She has worked in hospital administration for over ten years and now manages a team of twelve.",
+          "zh": "她在醫院行政工作超過十年，現在管理一個十二人的團隊。"
+        },
+        {
+          "en": "Questions about your salary or vacation days should be sent to the administration office by email.",
+          "zh": "關於薪水或休假天數的問題，請用電子郵件寄給行政辦公室。"
+        },
+        {
+          "en": "The new administration plans to reduce the cost of public transportation for students and seniors.",
+          "zh": "新政府計畫降低學生和長者搭乘大眾運輸的費用。"
+        },
+        {
+          "en": "A degree in business administration is required for this management position at our Tokyo branch.",
+          "zh": "應徵東京分公司這個管理職，需要企業管理學位。"
+        }
+      ],
+      "distractors": [
+        "admiration",
+        "adaptation",
+        "alteration"
+      ],
+      "note": "administration 是名詞（行政、管理）；動詞 administer（管理、執行）；做行政工作的人是 administrator，形容詞是 administrative。常見搭配：administration office（行政辦公室）、business administration（企業管理，MBA 的 A 就是它）。長很像的字：admiration（欽佩）。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
