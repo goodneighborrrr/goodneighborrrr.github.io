@@ -3658,6 +3658,41 @@
       ],
       "note": "名詞是 defect（瑕疵、缺陷）。同義詞 faulty 也常用。長很像的字：defensive（防禦的）、detective（偵探）。多益常見句型：退貨、保固、召回（recall）時會出現 defective products（瑕疵品）。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-hallway",
+      "word": "hallway",
+      "pos": "名詞",
+      "meaning": "走廊；玄關",
+      "sentences": [
+        {
+          "en": "The conference room is at the end of the hallway, just past the photocopy machine.",
+          "zh": "會議室在走廊盡頭，經過影印機就到了。"
+        },
+        {
+          "en": "Please do not leave delivery boxes in the hallway outside the office because they could block the emergency exit.",
+          "zh": "請不要把貨運箱放在辦公室外的走廊，因為可能會擋住逃生出口。"
+        },
+        {
+          "en": "New employee photos will be displayed on the wall of the main hallway on the second floor.",
+          "zh": "新進員工的照片會貼在二樓主要走廊的牆上。"
+        },
+        {
+          "en": "The cleaning staff mop the hallway every evening after most employees have gone home for the day.",
+          "zh": "清潔人員每天晚上在大部分員工下班後拖走廊的地。"
+        },
+        {
+          "en": "While walking down the hallway, Ms. Kim ran into the client she was scheduled to meet.",
+          "zh": "金小姐走在走廊上時，剛好碰到她約好要見面的客戶。"
+        }
+      ],
+      "distractors": [
+        "highway",
+        "hallmark",
+        "harbor"
+      ],
+      "note": "hallway＝走廊（hall＋way）。hall 本身也可以指走廊或大廳；corridor 是比較正式的「走廊、通道」，飯店、醫院常用。長很像的字：highway（公路）、hallmark（特徵、標誌）。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
