@@ -3518,6 +3518,76 @@
       ],
       "note": "on a trial basis＝試用、試辦，先做一段時間看看效果。常見搭配：free trial（免費試用）、clinical trial（臨床試驗）。trial 也有「審判」的意思。拼法很像的 trail 是「小路、足跡」。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-drill",
+      "word": "drill",
+      "pos": "名詞",
+      "meaning": "演習；練習；鑽頭",
+      "sentences": [
+        {
+          "en": "All employees must leave the building quickly and calmly during the fire drill on Thursday morning.",
+          "zh": "週四早上消防演習時，所有員工都必須迅速、冷靜地離開大樓。"
+        },
+        {
+          "en": "The safety manager announced that an emergency drill will take place at ten o'clock tomorrow.",
+          "zh": "安全主管宣布，明天十點會進行緊急應變演習。"
+        },
+        {
+          "en": "The maintenance worker used an electric drill to install the new shelves in the storage room.",
+          "zh": "維修人員用電鑽在儲藏室裝新的架子。"
+        },
+        {
+          "en": "After the earthquake drill, the staff gathered in the parking lot to be counted by their supervisors.",
+          "zh": "地震演習結束後，員工在停車場集合，讓主管清點人數。"
+        },
+        {
+          "en": "Our English teacher uses a short pronunciation drill at the start of every class to help students speak clearly.",
+          "zh": "我們的英文老師每堂課一開始都會做簡短的發音練習，幫學生講得更清楚。"
+        }
+      ],
+      "distractors": [
+        "grill",
+        "thrill",
+        "drift"
+      ],
+      "note": "fire drill＝消防演習，earthquake drill＝地震演習。drill 也可以指「鑽頭、電鑽」，當動詞是「鑽孔、反覆練習」。長很像的字：grill（烤架）、thrill（興奮、刺激）。",
+      "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-hold",
+      "word": "hold",
+      "pos": "動詞",
+      "meaning": "舉辦（會議、活動）；拿著；保持",
+      "sentences": [
+        {
+          "en": "The company will hold its annual shareholders' meeting at the Grand Hotel on March 15.",
+          "zh": "公司將在三月十五日於君悅飯店舉行年度股東大會。"
+        },
+        {
+          "en": "We plan to hold a short training session for new staff every Monday morning this month.",
+          "zh": "這個月我們打算每週一早上幫新員工舉辦簡短的訓練課。"
+        },
+        {
+          "en": "The marketing team decided to hold the product launch event outdoors if the weather is good.",
+          "zh": "行銷團隊決定，天氣好的話就在戶外舉辦產品發表會。"
+        },
+        {
+          "en": "Please hold the elevator for a moment while I bring the boxes from the storage room.",
+          "zh": "我去儲藏室搬箱子，請幫我按住電梯一下。"
+        },
+        {
+          "en": "Due to the typhoon, the organizers could not hold the conference as scheduled last Friday.",
+          "zh": "因為颱風，主辦單位上週五沒辦法照原定計畫舉行會議。"
+        }
+      ],
+      "distractors": [
+        "fold",
+        "scold",
+        "howl"
+      ],
+      "note": "hold 在多益最常考「舉辦、舉行」，例如 hold a meeting（開會）。意思很像的 host 也是「舉辦」，但比較強調「當主人、主辦方」。其他常見用法：hold on（等一下）、hold the line（電話別掛）。過去式是 held。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
