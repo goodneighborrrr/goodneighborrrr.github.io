@@ -93,6 +93,9 @@ main{padding-block:20px 48px}
 .opt.wrong{border-color:var(--wrong);background:var(--wrong-wash)}
 .opt.wrong .k{background:var(--wrong);border-color:var(--wrong);color:#fff}
 .opt.dim{opacity:.55}
+.opt .gl{margin-left:auto;padding-left:12px;font-family:var(--font-ui);font-size:14px;color:var(--muted);text-align:right;line-height:1.35}
+.opt.dim .gl{color:var(--ink)}
+.opt.wrong .gl{color:var(--wrong)}
 
 .feedback{margin-top:18px;padding:16px 18px;border-radius:var(--r);background:var(--card);border:1px solid var(--line);display:grid;gap:8px;animation:rise .2s ease}
 @keyframes rise{from{transform:translateY(6px);opacity:.4}}
@@ -476,7 +479,8 @@ function renderQuestion(){
     <ul class="options">${q.options.map((o, k) => {
       let cls = "opt";
       if (answered){ if (k === q.correct) cls += " right"; else if (k === q.picked) cls += " wrong"; else cls += " dim"; }
-      return `<li><button class="${cls}" data-k="${k}" ${answered ? "disabled" : ""} lang="en"><span class="k">${LETTERS[k]}</span>${escapeHtml(o)}</button></li>`;
+      const gl = answered && k !== q.correct ? glossFor(o) : "";
+      return `<li><button class="${cls}" data-k="${k}" ${answered ? "disabled" : ""} lang="en"><span class="k">${LETTERS[k]}</span><span>${escapeHtml(o)}</span>${gl ? `<span class="gl" lang="zh-Hant">${escapeHtml(gl)}</span>` : ""}</button></li>`;
     }).join("")}</ul>
     ${answered ? `
     <section class="feedback">
@@ -489,7 +493,7 @@ function renderQuestion(){
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
     <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}`;
   main.querySelectorAll(".opt").forEach(b => b.onclick = () => answer(+b.dataset.k));
-  if (answered) $("#next").onclick = next;
+  if (answered){ $("#next").onclick = next; fillGloss(q); }
   bindSeg();
 }
 
@@ -927,11 +931,40 @@ Return ONLY JSON with this shape:
   },
 };
 
+/* ---------- 錯的選項的中文意思：先查單字庫，再查 gloss.json（Claude 寫的），最後請 AI 翻譯並記在雲端 ---------- */
+const GLOSS = {};
+async function loadGloss(){
+  try { const r = await fetch(`gloss.json?t=${Date.now()}`, { cache: "no-store" }); if (r.ok){ const j = await r.json(); Object.assign(GLOSS, j.words || {}); } } catch {}
+}
+function shortMeaning(m){ return String(m || "").split("；").slice(0, 2).join("；"); }
+function glossFor(word){
+  const k = String(word).trim().toLowerCase();
+  const inBank = Store.words.find(w => w.word.toLowerCase() === k);
+  if (inBank && inBank.meaning) return shortMeaning(inBank.meaning);
+  return GLOSS[k] || (Store.settings.gloss || {})[k] || "";
+}
+const glossTried = new Set();
+async function fillGloss(q){
+  const missing = q.options.filter((o, k) => k !== q.correct && !glossFor(o) && !glossTried.has(o.toLowerCase()));
+  if (!missing.length || !Store.settings.aiKey) return;
+  missing.forEach(o => glossTried.add(o.toLowerCase()));
+  try {
+    const j = await AI.call(`Give the short Traditional Chinese (Taiwan) meaning of each English word or phrase below, as used in TOEIC business English. Return ONLY a JSON object mapping each item exactly as given (lowercase) to its meaning, max 12 Chinese characters, separate senses with ；. Items: ${JSON.stringify(missing.map(o => o.toLowerCase()))}`);
+    const add = {};
+    for (const o of missing){ const v = j && j[o.toLowerCase()]; if (typeof v === "string" && v.trim()) add[o.toLowerCase()] = v.trim().slice(0, 30); }
+    if (!Object.keys(add).length) return;
+    Store.settings.gloss = Object.assign({}, Store.settings.gloss, add);
+    Store.saveSettings({ gloss: add });
+    if (S.round[S.i] === q) render();
+  } catch {}
+}
+
 /* ---------- Claude 收件匣：Claude 幫你寫好的單字放在 inbox.json ---------- */
 let importing = false;
 async function importInbox({ quiet = false } = {}){
   if (importing || !Store.uid || !Store.loaded) return;
   importing = true;
+  loadGloss();
   try {
     const res = await fetch(`inbox.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) return;
