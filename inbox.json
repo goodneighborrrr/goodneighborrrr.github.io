@@ -3483,6 +3483,41 @@
       ],
       "note": "形容詞是 tribal（部落的）。長很像的字：tribute＝致敬、紀念；bribe＝賄賂。口語裡 find your tribe 是「找到跟你合得來的一群人」。",
       "addedAt": "2026-10-17"
+    },
+    {
+      "id": "20261019-trial",
+      "word": "trial",
+      "pos": "名詞",
+      "meaning": "試用；試驗；審判",
+      "sentences": [
+        {
+          "en": "The new software will be used on a trial basis for three months before the company decides whether to buy it.",
+          "zh": "新軟體會先試用三個月，公司再決定要不要買。"
+        },
+        {
+          "en": "Ms. Chen was hired on a trial basis, and her contract will be reviewed at the end of June.",
+          "zh": "陳小姐是試用聘僱，她的合約會在六月底重新評估。"
+        },
+        {
+          "en": "The café is offering free delivery on a trial basis to see whether customers are interested in the service.",
+          "zh": "這家咖啡店先試辦免運外送，看看客人對這項服務有沒有興趣。"
+        },
+        {
+          "en": "Before signing the contract, we requested a free trial of the accounting program for thirty days.",
+          "zh": "簽約前，我們申請了那套會計軟體三十天的免費試用。"
+        },
+        {
+          "en": "The clinical trial for the new medicine will involve more than five hundred volunteers across Asia.",
+          "zh": "這款新藥的臨床試驗會有超過五百位亞洲各地的志願者參加。"
+        }
+      ],
+      "distractors": [
+        "trail",
+        "trait",
+        "tribute"
+      ],
+      "note": "on a trial basis＝試用、試辦，先做一段時間看看效果。常見搭配：free trial（免費試用）、clinical trial（臨床試驗）。trial 也有「審判」的意思。拼法很像的 trail 是「小路、足跡」。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
