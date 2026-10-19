@@ -3833,6 +3833,41 @@
       ],
       "note": "plumber 的 b 不發音，唸起來像 PLUM-er。plumbing＝水管系統、水電工程。注意：plumber 主要修「水管」；修「電」的是 electrician（電工）。長很像的字：plunger（通馬桶的吸盤）、lumber（木材）。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-improperly",
+      "word": "improperly",
+      "pos": "副詞",
+      "meaning": "不當地；不正確地；不恰當地",
+      "sentences": [
+        {
+          "en": "The shipment was damaged because the boxes had been packed improperly at the warehouse in Busan last week.",
+          "zh": "這批貨受損了，因為上週在釜山倉庫打包得不正確。"
+        },
+        {
+          "en": "Employees who use the company credit card improperly may lose their spending privileges and face disciplinary action.",
+          "zh": "不當使用公司信用卡的員工，可能會被取消使用權限並受到懲處。"
+        },
+        {
+          "en": "If the machine is installed improperly, the warranty will not cover any of the repair costs.",
+          "zh": "如果機器安裝不當，保固將不會負擔任何維修費用。"
+        },
+        {
+          "en": "Several customers complained that their personal information had been handled improperly by the call center.",
+          "zh": "有幾位客戶抱怨客服中心不當處理他們的個人資料。"
+        },
+        {
+          "en": "Food that is stored improperly can spoil quickly, especially in the kitchen during the hot summer months.",
+          "zh": "保存方式不對的食物很快就會壞掉，尤其是炎熱夏天放在廚房的時候。"
+        }
+      ],
+      "distractors": [
+        "impressively",
+        "importantly",
+        "improbably"
+      ],
+      "note": "improperly＝im（不）＋ properly（正確地、適當地），意思剛好相反。形容詞是 improper（不當的）。多益常見搭配：installed improperly（安裝不當）、stored improperly（保存不當）、used improperly（使用不當）。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
