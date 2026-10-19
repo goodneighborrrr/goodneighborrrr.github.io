@@ -3868,6 +3868,181 @@
       ],
       "note": "improperly＝im（不）＋ properly（正確地、適當地），意思剛好相反。形容詞是 improper（不當的）。多益常見搭配：installed improperly（安裝不當）、stored improperly（保存不當）、used improperly（使用不當）。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-microwave",
+      "word": "microwave",
+      "pos": "名詞",
+      "meaning": "微波爐",
+      "sentences": [
+        {
+          "en": "Please do not heat fish in the office microwave because the smell spreads through the entire floor.",
+          "zh": "請不要用辦公室的微波爐加熱魚，因為味道會傳遍整層樓。"
+        },
+        {
+          "en": "The staff kitchen has a refrigerator, a coffee maker, and a microwave for employees to use during lunch.",
+          "zh": "員工廚房有冰箱、咖啡機和微波爐，午餐時間可以使用。"
+        },
+        {
+          "en": "Our new microwave oven model heats food twice as fast as the previous version while using less power.",
+          "zh": "我們的新款微波爐加熱速度是舊款的兩倍，而且更省電。"
+        },
+        {
+          "en": "Customers who purchase a microwave this week will receive a free set of plastic food containers for reheating meals.",
+          "zh": "本週購買微波爐的顧客，會免費獲得一組加熱餐點用的塑膠保鮮盒。"
+        },
+        {
+          "en": "The maintenance team removed the broken microwave from the staff kitchen because it stopped heating food properly.",
+          "zh": "維修團隊把員工廚房壞掉的微波爐搬走了，因為它沒辦法正常加熱食物。"
+        }
+      ],
+      "distractors": [
+        "microphone",
+        "microscope",
+        "microchip"
+      ],
+      "note": "microwave oven 就是微波爐，口語通常只說 microwave。microwave 也可以當動詞：microwave the soup（用微波爐熱湯）。micro- 是「微小」的意思，所以 microphone（麥克風）、microscope（顯微鏡）長得很像。",
+      "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-brief",
+      "word": "brief",
+      "pos": "形容詞",
+      "meaning": "簡短的；短暫的",
+      "sentences": [
+        {
+          "en": "The manager made a brief announcement about the new parking rules at the start of the meeting.",
+          "zh": "經理在會議一開始簡短宣布了新的停車規定。"
+        },
+        {
+          "en": "Each candidate will give a brief presentation of no more than five minutes about their sales experience.",
+          "zh": "每位應徵者要做一個不超過五分鐘的簡短報告，介紹自己的業務經驗。"
+        },
+        {
+          "en": "Please keep your email brief and include only the most important details for the client.",
+          "zh": "信請寫得簡短一點，只放客戶需要的重點就好。"
+        },
+        {
+          "en": "After a brief pause, the speaker continued her talk about the company's plans for next year.",
+          "zh": "講者短暫停頓後，繼續談公司明年的計畫。"
+        },
+        {
+          "en": "There will be a brief delay in shipping because of the national holiday on Monday.",
+          "zh": "因為週一是國定假日，出貨會稍微延遲一下。"
+        }
+      ],
+      "distractors": [
+        "bright",
+        "brave",
+        "broad"
+      ],
+      "note": "brief 可以指「時間短」（a brief meeting）或「話說得少」（a brief email）。副詞是 briefly（簡短地）。同義詞：short。brief 也可以當名詞或動詞：brief the team（向團隊簡報），briefing＝簡報會。",
+      "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-running-late",
+      "word": "running late",
+      "pos": "其他",
+      "meaning": "（快要）遲到；進度落後；誤點",
+      "sentences": [
+        {
+          "en": "I'm running late because of heavy traffic this morning, so please start the weekly meeting without me.",
+          "zh": "今天早上塞車，我會晚到，請先開始每週例會，不用等我。"
+        },
+        {
+          "en": "The train is running late this morning, and passengers are advised to check the updated schedule online.",
+          "zh": "火車今天早上誤點，建議乘客上網查詢最新時刻表。"
+        },
+        {
+          "en": "If you are running late for your interview, call the receptionist as soon as possible to let her know.",
+          "zh": "如果你面試會遲到，請盡快打電話告訴櫃檯人員。"
+        },
+        {
+          "en": "The conference is running late, so the lunch break will begin twenty minutes after the scheduled time.",
+          "zh": "會議進度落後，所以午休會比原定時間晚二十分鐘開始。"
+        },
+        {
+          "en": "Ms. Lopez texted the client to say she was running late because her flight had been delayed.",
+          "zh": "羅培茲小姐傳訊息給客戶，說她的班機延誤，所以會晚一點到。"
+        }
+      ],
+      "distractors": [
+        "running out",
+        "running away",
+        "running into"
+      ],
+      "note": "be running late＝「（還在路上）會晚到、時程落後」，通常是事前先告知別人；be late 是單純「遲到了」。別搞混：running out（快用完）、running into（巧遇）。",
+      "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-prior",
+      "word": "prior",
+      "pos": "形容詞",
+      "meaning": "之前的；先前的（prior to＝在……之前）",
+      "sentences": [
+        {
+          "en": "All visitors must register at the front desk on the first floor prior to entering the research laboratory.",
+          "zh": "所有訪客進入研究實驗室前，必須先到一樓櫃檯登記。"
+        },
+        {
+          "en": "Please submit your expense reports at least three days prior to the end of each month.",
+          "zh": "請在每個月底前至少三天交出費用報告。"
+        },
+        {
+          "en": "No prior experience is required for this sales position because full training will be provided by our team.",
+          "zh": "這個業務職位不需要相關經驗，我們團隊會提供完整訓練。"
+        },
+        {
+          "en": "The hotel requires guests to cancel their reservations 48 hours prior to arrival to avoid a fee.",
+          "zh": "飯店要求房客在入住前 48 小時取消訂房，才不會被收費。"
+        },
+        {
+          "en": "Prior to joining our company, Mr. Tan worked as a sales manager in Singapore for six years.",
+          "zh": "陳先生加入我們公司前，在新加坡當了六年業務經理。"
+        }
+      ],
+      "distractors": [
+        "primary",
+        "private",
+        "proper"
+      ],
+      "note": "prior to＝before（在……之前），但比較正式，常出現在公告、合約、email。prior 單獨用是「之前的」，例如 prior experience（相關經驗）、prior notice（事先通知）。名詞 priority 是「優先事項」。",
+      "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-soapmaking",
+      "word": "soapmaking",
+      "pos": "名詞",
+      "meaning": "製作肥皂；手工皂製作",
+      "sentences": [
+        {
+          "en": "The community center offers a soapmaking class where participants learn to mix natural oils and scents.",
+          "zh": "社區中心開了一堂手工皂課，學員會學習調配天然油脂和香味。"
+        },
+        {
+          "en": "She started a small soapmaking business at home and now sells handmade bars to local hotels.",
+          "zh": "她在家開了小小的手工皂事業，現在把手工肥皂賣給當地的飯店。"
+        },
+        {
+          "en": "Our annual team-building event this Friday will include a soapmaking workshop using lavender and honey.",
+          "zh": "今年這週五的團隊活動，會有一場用薰衣草和蜂蜜做手工皂的工作坊。"
+        },
+        {
+          "en": "Because soapmaking involves chemicals such as lye, all students must wear gloves and safety glasses.",
+          "zh": "因為做肥皂會用到鹼液這類化學品，所有學員都必須戴手套和護目鏡。"
+        },
+        {
+          "en": "The factory tour ends in the gift shop, where visitors can watch a soapmaking demonstration.",
+          "zh": "工廠導覽最後會到禮品店，遊客可以在那裡看做肥皂的示範。"
+        }
+      ],
+      "distractors": [
+        "sightseeing",
+        "shipbuilding",
+        "snowboarding"
+      ],
+      "note": "soapmaking＝soap（肥皂）＋making（製作）。英文常用「東西＋making」表示做某種東西：papermaking（造紙）、winemaking（釀酒）、filmmaking（拍電影）。手工皂可以說 handmade soap。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
