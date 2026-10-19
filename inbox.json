@@ -3798,6 +3798,41 @@
       ],
       "note": "burst 和 crack 不一樣：burst 是因為裡面壓力太大，「砰」一聲突然爆開、破掉（水管、氣球、輪胎）；crack 是出現一條裂縫，但東西還連在一起（杯子、手機螢幕裂了）。burst 三態都一樣：burst-burst-burst。burst into tears／laughter＝突然大哭／大笑。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261019-plumber",
+      "word": "plumber",
+      "pos": "名詞",
+      "meaning": "水管工；水電工（修水管的人）",
+      "sentences": [
+        {
+          "en": "The building manager called a plumber to fix the leaking pipe in the second-floor restroom.",
+          "zh": "大樓管理員找了水電工來修二樓廁所漏水的水管。"
+        },
+        {
+          "en": "A licensed plumber will install the new water heater in the staff kitchen on Thursday morning.",
+          "zh": "週四早上會有一位合格的水電師傅來員工廚房裝新的熱水器。"
+        },
+        {
+          "en": "Because the sink was completely blocked, we had to wait three hours for the plumber to arrive.",
+          "zh": "因為水槽完全塞住，我們等了三個小時水電工才來。"
+        },
+        {
+          "en": "The hotel keeps an emergency plumber on call in case a pipe bursts during the night.",
+          "zh": "飯店有一位隨時待命的緊急水電工，以防半夜水管爆裂。"
+        },
+        {
+          "en": "Our company is hiring an experienced plumber to maintain the water systems in all of our factories.",
+          "zh": "我們公司正在徵一位有經驗的水電工，負責維護所有工廠的供水系統。"
+        }
+      ],
+      "distractors": [
+        "plunger",
+        "lumber",
+        "climber"
+      ],
+      "note": "plumber 的 b 不發音，唸起來像 PLUM-er。plumbing＝水管系統、水電工程。注意：plumber 主要修「水管」；修「電」的是 electrician（電工）。長很像的字：plunger（通馬桶的吸盤）、lumber（木材）。",
+      "addedAt": "2026-10-19"
     }
   ],
   "notes": [
