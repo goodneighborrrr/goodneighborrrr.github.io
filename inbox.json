@@ -4043,6 +4043,41 @@
       ],
       "note": "soapmaking＝soap（肥皂）＋making（製作）。英文常用「東西＋making」表示做某種東西：papermaking（造紙）、winemaking（釀酒）、filmmaking（拍電影）。手工皂可以說 handmade soap。",
       "addedAt": "2026-10-19"
+    },
+    {
+      "id": "20261020-notable",
+      "word": "notable",
+      "pos": "形容詞",
+      "meaning": "值得注意的；顯著的；著名的",
+      "sentences": [
+        {
+          "en": "The awards ceremony recognized several notable performances by young actors and musicians from across the country.",
+          "zh": "頒獎典禮表揚了幾場來自全國各地年輕演員和音樂家的出色表演。"
+        },
+        {
+          "en": "One notable change in this year's budget is the increase in funding for employee training programs.",
+          "zh": "今年預算中一個值得注意的改變，是員工訓練計畫的經費增加了。"
+        },
+        {
+          "en": "The museum's new exhibit includes paintings by several notable artists from the late nineteenth and early twentieth centuries.",
+          "zh": "博物館的新展覽有幾位十九世紀末到二十世紀初知名畫家的作品。"
+        },
+        {
+          "en": "Ms. Wu's most notable achievement was doubling the company's sales in Asia within two years.",
+          "zh": "吳小姐最顯著的成就，是在兩年內讓公司在亞洲的業績翻倍。"
+        },
+        {
+          "en": "The hotel is located near many notable landmarks, including the old city hall and the central market.",
+          "zh": "這間飯店鄰近許多著名地標，包括舊市政廳和中央市場。"
+        }
+      ],
+      "distractors": [
+        "portable",
+        "notional",
+        "nominal"
+      ],
+      "note": "notable＝note（注意）＋able（值得），「值得注意的、出色的、有名的」。副詞 notably（特別是；顯著地）。容易搞混：noticeable 是「看得出來的、明顯的」，notable 更強調「重要、值得一提」。同義詞：remarkable、outstanding。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
