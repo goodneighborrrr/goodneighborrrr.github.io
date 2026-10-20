@@ -109,6 +109,8 @@ main{padding-block:20px 48px}
 .zh{font-size:14px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px}
 .wnote{font-size:14px;line-height:1.7;background:var(--leaf-wash);color:var(--ink);border-radius:10px;padding:10px 12px;white-space:pre-line}
 .wnote b{color:var(--leaf-ink)}
+.linkish{justify-self:start;border:0;background:none;padding:4px 0;color:var(--muted);font-size:13px;text-decoration:underline;text-underline-offset:3px;text-align:left}
+.linkish:hover{color:var(--ink)}
 .primary{width:100%;margin-top:16px;height:50px;border-radius:25px;border:0;background:var(--leaf);color:#fff;font-weight:700;font-size:16px;letter-spacing:.04em}
 .primary:hover{filter:brightness(1.05)}
 .primary:disabled{opacity:.5;cursor:default}
@@ -363,11 +365,22 @@ const FALLBACK = {
   "形容詞":["available","previous","reliable","annual","temporary","accurate"],
   "副詞":["recently","gradually","nearly","separately","briefly","entirely"],
 };
+/* 意思太接近、放進句子也可能對的字，不要放在同一題 */
+function bigrams(m){ const t = String(m || "").replace(/（[^）]*）|\([^)]*\)/g, ""); const out = new Set(); for (const part of t.split(/[；;，,、\s]+/)) for (let i = 0; i + 1 < part.length; i++) out.add(part.slice(i, i + 2)); return out; }
+function pairKey(a, b){ return [a.toLowerCase(), b.toLowerCase()].sort().join("|"); }
+function tooClose(a, b){
+  const A = a.word.toLowerCase(), B = b.word.toLowerCase();
+  if ((Store.settings.noPair || []).includes(pairKey(A, B))) return true;           // 你標記過「我選的也對」
+  if (wordRe(B).test(a.note || "") || wordRe(A).test(b.note || "")) return true;   // 備註裡提到彼此（多半是同義詞）
+  const x = bigrams(a.meaning), y = bigrams(b.meaning);
+  for (const g of x) if (y.has(g)) return true;                                     // 中文意思有重疊
+  return false;
+}
 function distractorsFor(w){
   const used = new Set([w.word.toLowerCase()]);
   const out = [];
   const take = list => { for (const x of list){ const v = String(x).trim(); if (!v || used.has(v.toLowerCase())) continue; used.add(v.toLowerCase()); out.push(v); if (out.length === 3) return true; } return false; };
-  const others = Store.words.filter(x => x.id !== w.id);
+  const others = Store.words.filter(x => x.id !== w.id && !tooClose(w, x));
   take(shuffle(others.filter(x => x.pos === w.pos)).map(x => x.word))
     || take(shuffle(w.distractors))
     || take(shuffle(others).map(x => x.word))
@@ -478,22 +491,23 @@ function renderQuestion(){
     <p class="question" lang="en">${sentenceHtml(q.sentence.en, w.word, answered)}</p>
     <ul class="options">${q.options.map((o, k) => {
       let cls = "opt";
-      if (answered){ if (k === q.correct) cls += " right"; else if (k === q.picked) cls += " wrong"; else cls += " dim"; }
+      if (answered){ if (k === q.correct || (q.disputed && k === q.picked)) cls += " right"; else if (k === q.picked) cls += " wrong"; else cls += " dim"; }
       const gl = answered && k !== q.correct ? glossFor(o) : "";
       return `<li><button class="${cls}" data-k="${k}" ${answered ? "disabled" : ""} lang="en"><span class="k">${LETTERS[k]}</span><span>${escapeHtml(o)}</span>${gl ? `<span class="gl" lang="zh-Hant">${escapeHtml(gl)}</span>` : ""}</button></li>`;
     }).join("")}</ul>
     ${answered ? `
     <section class="feedback">
-      <div class="verdict ${ok ? "ok" : "no"}">${ok ? "答對了！" : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
+      <div class="verdict ${ok || q.disputed ? "ok" : "no"}">${ok ? "答對了！" : q.disputed ? `算你對！(${LETTERS[q.picked]}) 放進句子也說得通` : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
       <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
       ${q.sentence.zh ? `<div class="zh">${escapeHtml(q.sentence.zh)}</div>` : ""}
       ${w.note ? `<div class="wnote"><b>備註</b>　${escapeHtml(w.note)}</div>` : ""}
+      ${!ok && !q.disputed ? `<button class="linkish" id="dispute">我選的 ${escapeHtml(q.options[q.picked])} 放進句子也對？按這裡算我對</button>` : ""}
     </section>
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
     <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}`;
   main.querySelectorAll(".opt").forEach(b => b.onclick = () => answer(+b.dataset.k));
-  if (answered){ $("#next").onclick = next; fillGloss(q); }
+  if (answered){ $("#next").onclick = next; fillGloss(q); const d = $("#dispute"); if (d) d.onclick = disputeAnswer; }
   bindSeg();
 }
 
@@ -502,9 +516,23 @@ function answer(k){
   if (!q || q.picked >= 0) return;
   q.picked = k;
   const w = wordById(q.id);
-  if (w) recordAnswer(w, k === q.correct);
+  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); recordAnswer(w, k === q.correct); }
   render();
   const btn = $("#next"); if (btn) btn.focus({preventScroll:true});
+}
+/* 答錯但覺得自己選的也對：以後這兩個字不會出在同一題，這題算答對 */
+function disputeAnswer(){
+  const q = S.round[S.i], w = q && wordById(q.id);
+  if (!q || !w || q.picked < 0 || q.picked === q.correct || q.disputed) return;
+  const other = q.options[q.picked];
+  q.disputed = true;
+  const list = new Set(Store.settings.noPair || []); list.add(pairKey(w.word, other));
+  Store.settings.noPair = [...list];
+  Store.saveSettings({ noPair: arrayUnion(pairKey(w.word, other)) });
+  if (q.before){ w.stats = q.before.stats; w.review = q.before.review; }
+  recordAnswer(w, true);
+  toast(`已記下：${w.word} 和 ${other} 以後不會出在同一題，這題算你對`);
+  render();
 }
 function next(){ S.i++; render(); window.scrollTo({top:0, behavior:"smooth"}); }
 
