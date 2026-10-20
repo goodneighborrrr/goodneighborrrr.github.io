@@ -4043,41 +4043,6 @@
       ],
       "note": "soapmaking＝soap（肥皂）＋making（製作）。英文常用「東西＋making」表示做某種東西：papermaking（造紙）、winemaking（釀酒）、filmmaking（拍電影）。手工皂可以說 handmade soap。",
       "addedAt": "2026-10-19"
-    },
-    {
-      "id": "20261020-respect",
-      "word": "respect",
-      "pos": "動詞",
-      "meaning": "尊重；尊敬；遵守（規定）",
-      "sentences": [
-        {
-          "en": "All employees are expected to respect the privacy of customers when handling their personal information.",
-          "zh": "所有員工在處理顧客個資時，都必須尊重顧客的隱私。"
-        },
-        {
-          "en": "Visitors to the factory must respect the safety rules and wear helmets at all times.",
-          "zh": "參觀工廠的訪客必須遵守安全規定，全程戴安全帽。"
-        },
-        {
-          "en": "Many employees respect Ms. Chen because she always listens carefully to their ideas and concerns.",
-          "zh": "很多員工都很尊敬陳小姐，因為她總是認真聽大家的想法和擔憂。"
-        },
-        {
-          "en": "Please respect the deadline, as the client needs the final report by noon on Friday.",
-          "zh": "請遵守截止期限，客戶週五中午前就需要最終報告。"
-        },
-        {
-          "en": "Hotel guests are asked to respect quiet hours between 10 p.m. and 7 a.m. on all floors.",
-          "zh": "飯店請房客遵守晚上十點到早上七點的安靜時段，所有樓層都一樣。"
-        }
-      ],
-      "distractors": [
-        "repeat",
-        "retreat",
-        "respond"
-      ],
-      "note": "respect 可以當動詞（尊重、遵守）也可以當名詞（尊重），例如 with respect。同家族：respectful（有禮貌的）、respectable（體面的）、respective（各自的），長很像但意思不同。",
-      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
