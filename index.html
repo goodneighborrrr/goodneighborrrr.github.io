@@ -318,6 +318,10 @@ function levelOf(w){
   // 舊資料：沒答錯過就當作有一點熟，答錯過就從 0 開始
   return w.stats.attempts && !w.stats.wrong ? Math.min(w.stats.attempts, 2) : 0;
 }
+/* 連續答對次數（答錯歸零）；連續答對 3 次就算熟了，排到最後面才考 */
+const MASTER_RUN = 3;
+function runOf(w){ return typeof w.stats.run === "number" ? w.stats.run : levelOf(w); }
+function mastered(w){ return runOf(w) >= MASTER_RUN && !w.review.active; }
 function gapOf(w){ return GAPS[Math.min(levelOf(w), GAPS.length - 1)]; }
 function periodsSince(ms){
   if (!ms) return Infinity;
@@ -337,14 +341,16 @@ function buildRound(){
   const review = shuffle(usable.filter(w => isDue(w, key)));
   const taken = new Set(review);
   // 2. 時間到了該考的字：越久沒考、錯誤率越高、越不熟的越前面
-  const ready = usable.filter(w => !taken.has(w) && !wrongToday(w) && w.stats.attempts && overdue(w) >= 1)
+  const ready = usable.filter(w => !taken.has(w) && !wrongToday(w) && !mastered(w) && w.stats.attempts && overdue(w) >= 1)
     .sort((a, b) => (overdue(b) + errRateOf(b) * 2) - (overdue(a) + errRateOf(a) * 2) || levelOf(a) - levelOf(b));
   // 3. 還沒考過的新字
   const fresh = shuffle(usable.filter(w => !taken.has(w) && !w.stats.attempts));
   // 4. 還沒到時間的字（題數不夠時才用來補）：最快要到期、最不熟的先補
-  const later = usable.filter(w => !taken.has(w) && !wrongToday(w) && w.stats.attempts && overdue(w) < 1)
+  const later = usable.filter(w => !taken.has(w) && !wrongToday(w) && !mastered(w) && w.stats.attempts && overdue(w) < 1)
     .sort((a, b) => overdue(b) - overdue(a) || levelOf(a) - levelOf(b));
   const today = shuffle(usable.filter(w => !taken.has(w) && wrongToday(w)));
+  // 5. 已經連續答對 3 次的熟字：排在最後面，題數不夠才拿來補，越久沒考的先補
+  const known = usable.filter(w => !taken.has(w) && !wrongToday(w) && mastered(w)).sort((a, b) => a.stats.lastSeen - b.stats.lastSeen);
 
   const picked = review.slice(0, size);
   const room = () => size - picked.length;
@@ -355,6 +361,7 @@ function buildRound(){
   picked.push(...fresh.slice(0, room()));
   picked.push(...ready.slice(readyTake.length, readyTake.length + room()));
   picked.push(...later.slice(0, room()));
+  picked.push(...known.slice(0, room()));
   picked.push(...today.slice(0, room()));
   return shuffle(picked).map(buildQuestion);
 }
@@ -404,8 +411,9 @@ function buildQuestion(w){
 
 function recordAnswer(w, ok){
   const key = periodKey();
-  const lv = levelOf(w);
+  const lv = levelOf(w), run0 = runOf(w);
   w.stats.attempts++; w.stats.lastSeen = Date.now();
+  w.stats.run = ok ? run0 + 1 : 0;
   if (!ok){ w.stats.level = 0; w.stats.levelKey = key; }
   else if (w.stats.levelKey !== key){ w.stats.level = lv + 1; w.stats.levelKey = key; }   // 同一天答對很多次只升一級
   else w.stats.level = lv;
@@ -722,7 +730,7 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
         <input type="text" id="e_dis" class="en" value="${escapeHtml(w.distractors.join(", "))}" placeholder="例如 favorite, faithful, flexible"></label>
       <label class="f" for="e_note">備註（同義詞、容易搞混的字、用法提醒；答完題目時會顯示在最下面）
         <textarea id="e_note" placeholder="例如：類似 make，但句型要加 to：prompt + 人 + to + 動詞" style="min-height:64px">${escapeHtml(w.note || "")}</textarea></label>
-      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.stats.attempts ? `。熟悉程度 ${levelOf(w)} 級，大約隔 ${gapOf(w)} 天再考` : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
+      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.stats.attempts ? (mastered(w) ? `。已經連續答對 ${runOf(w)} 次，排在最後面才考` : `。連續答對 ${runOf(w)} 次（滿 ${MASTER_RUN} 次就排到最後面），大約隔 ${gapOf(w)} 天再考`) : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
       <div id="editMsg"></div>
       <button class="primary" type="submit">儲存</button>
       ${!isNew ? `<div class="row" style="justify-content:center"><button type="button" class="ghost danger" id="delWord">刪除這個單字</button></div>` : ""}
