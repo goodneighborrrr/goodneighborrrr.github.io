@@ -4078,6 +4078,41 @@
       ],
       "note": "notable＝note（注意）＋able（值得），「值得注意的、出色的、有名的」。副詞 notably（特別是；顯著地）。容易搞混：noticeable 是「看得出來的、明顯的」，notable 更強調「重要、值得一提」。同義詞：remarkable、outstanding。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261020-spokesperson",
+      "word": "spokesperson",
+      "pos": "名詞",
+      "meaning": "發言人；代言人",
+      "sentences": [
+        {
+          "en": "A spokesperson for the airline confirmed that all flights to Tokyo would resume on Monday morning.",
+          "zh": "航空公司發言人證實，飛往東京的所有航班將在週一早上恢復。"
+        },
+        {
+          "en": "The company's spokesperson answered reporters' questions about the product recall during a short press conference.",
+          "zh": "公司發言人在簡短的記者會上回答了記者關於產品召回的問題。"
+        },
+        {
+          "en": "According to a hospital spokesperson, the new emergency wing will open to patients next spring.",
+          "zh": "根據醫院發言人的說法，新的急診大樓明年春天會開始服務病患。"
+        },
+        {
+          "en": "Ms. Lin was chosen as the official spokesperson because she speaks clearly and handles pressure well.",
+          "zh": "林小姐被選為正式發言人，因為她說話清楚、抗壓性也好。"
+        },
+        {
+          "en": "The city government has not yet appointed a new spokesperson since Mr. Ortiz retired last month.",
+          "zh": "奧提茲先生上個月退休後，市政府還沒任命新的發言人。"
+        }
+      ],
+      "distractors": [
+        "sportsperson",
+        "spectator",
+        "speedometer"
+      ],
+      "note": "spokesperson＝spoke（說，speak 的過去式）＋person（人），代表公司或政府對外說話的人。以前常說 spokesman（男）／spokeswoman（女），現在多用不分性別的 spokesperson。常見搭配：a spokesperson for…（……的發言人）、press conference（記者會）。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
