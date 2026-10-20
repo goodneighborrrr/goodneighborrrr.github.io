@@ -4218,6 +4218,41 @@
       ],
       "note": "blurry＝模糊的（照片、視線、字）。動詞是 blur（使模糊），blurred 也是「模糊的」，意思差不多。相反詞：clear（清楚的）、sharp（清晰的）。長很像的字：furry（毛茸茸的）。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261020-following",
+      "word": "following",
+      "pos": "介系詞",
+      "meaning": "在……之後；（形容詞）接下來的；以下的",
+      "sentences": [
+        {
+          "en": "Your vision may be blurry for about twenty minutes following the eye exam, so please rest in the waiting room.",
+          "zh": "眼睛檢查後大約二十分鐘內，視力可能會模糊，請在候診室休息。"
+        },
+        {
+          "en": "A light lunch will be served in the cafeteria immediately following the board meeting on Thursday.",
+          "zh": "週四董事會一結束，員工餐廳會供應簡單的午餐。"
+        },
+        {
+          "en": "Sales increased sharply in the three months following the official launch of our new mobile app.",
+          "zh": "新手機 App 正式推出後的三個月，銷售量大幅成長。"
+        },
+        {
+          "en": "Customers will receive a short satisfaction survey by email on the day following their delivery.",
+          "zh": "顧客會在收到貨的隔天，收到一份簡短的滿意度問卷電子郵件。"
+        },
+        {
+          "en": "The question-and-answer session following the sales presentation will last about thirty minutes in Room B.",
+          "zh": "業務簡報結束後的問答時間，會在 B 會議室進行約三十分鐘。"
+        }
+      ],
+      "distractors": [
+        "beneath",
+        "despite",
+        "toward"
+      ],
+      "note": "following 當介系詞＝after（在……之後），比較正式，公告、醫療說明、新聞很常用。也可以當形容詞「接下來的、以下的」：the following day（隔天）、the following items（以下項目）。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
