@@ -4253,6 +4253,41 @@
       ],
       "note": "following 當介系詞＝after（在……之後），比較正式，公告、醫療說明、新聞很常用。也可以當形容詞「接下來的、以下的」：the following day（隔天）、the following items（以下項目）。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261020-given",
+      "word": "given",
+      "pos": "介系詞",
+      "meaning": "考慮到；鑑於；有鑑於",
+      "sentences": [
+        {
+          "en": "Given your history of vision issues, we recommend a full eye exam once every six months.",
+          "zh": "考慮到你有視力問題的病史，我們建議每六個月做一次完整的眼睛檢查。"
+        },
+        {
+          "en": "Given the bad weather, the outdoor company picnic has been moved to the conference hall.",
+          "zh": "考慮到天氣不好，公司戶外野餐改到會議廳舉行。"
+        },
+        {
+          "en": "Given her ten years of sales experience, Ms. Lee is the best candidate for the manager position.",
+          "zh": "考慮到李小姐有十年業務經驗，她是經理職位的最佳人選。"
+        },
+        {
+          "en": "The project was finished on time, which is impressive given the small size of the team.",
+          "zh": "專案準時完成了，考慮到團隊人數很少，這相當了不起。"
+        },
+        {
+          "en": "Given the high demand this season, customers should place their orders at least two weeks in advance.",
+          "zh": "考慮到這一季需求很高，顧客應該至少提前兩週下單。"
+        }
+      ],
+      "distractors": [
+        "beside",
+        "except",
+        "within"
+      ],
+      "note": "given 當介系詞＝considering（考慮到、鑑於），後面接名詞，常放句首：Given the weather, …。也可以接句子：given (that) …。別跟動詞 give 的過去分詞 given（被給予）搞混，例如 I was given a gift（我收到禮物）。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
