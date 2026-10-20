@@ -4148,6 +4148,41 @@
       ],
       "note": "beforehand＝事先（在某件事發生之前先做好），通常放在句尾，例如 let me know beforehand。同義詞：in advance、ahead of time。相反詞：afterward（之後）。和 prior to 不同：prior to 後面要接名詞（prior to the meeting），beforehand 單獨用就好。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261020-afterwards",
+      "word": "afterwards",
+      "pos": "副詞",
+      "meaning": "之後；後來",
+      "sentences": [
+        {
+          "en": "You'll need to arrange for someone to drive you home afterwards since your vision will be blurry for a few hours.",
+          "zh": "你需要安排別人之後載你回家，因為你的視力會模糊幾個小時。"
+        },
+        {
+          "en": "The workshop ends at noon, and lunch will be served in the main hall afterwards.",
+          "zh": "研習中午結束，之後會在大廳供應午餐。"
+        },
+        {
+          "en": "Please read the contract carefully this morning and send me any comments afterwards by email.",
+          "zh": "請今天早上仔細看過合約，之後再用電子郵件把意見寄給我。"
+        },
+        {
+          "en": "The manager gave a short speech, and afterwards the new employees introduced themselves to the team.",
+          "zh": "經理簡短致詞後，新進員工接著向團隊自我介紹。"
+        },
+        {
+          "en": "Guests can tour the factory first and enjoy a free tasting session in the gift shop afterwards.",
+          "zh": "來賓可以先參觀工廠，之後在禮品店享受免費試吃。"
+        }
+      ],
+      "distractors": [
+        "upwards",
+        "outwards",
+        "awkwardly"
+      ],
+      "note": "afterwards（英式常見）＝afterward（美式常見），意思一樣：之後、後來。相反詞是 beforehand（事先）。常和 since 一起出現時要注意：since 在這裡是「因為」，不是「自從」。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
