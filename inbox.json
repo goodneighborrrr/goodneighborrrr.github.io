@@ -4113,6 +4113,41 @@
       ],
       "note": "spokesperson＝spoke（說，speak 的過去式）＋person（人），代表公司或政府對外說話的人。以前常說 spokesman（男）／spokeswoman（女），現在多用不分性別的 spokesperson。常見搭配：a spokesperson for…（……的發言人）、press conference（記者會）。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261020-beforehand",
+      "word": "beforehand",
+      "pos": "副詞",
+      "meaning": "事先；預先",
+      "sentences": [
+        {
+          "en": "Please call the restaurant beforehand if you would like to reserve a private room for the team dinner.",
+          "zh": "如果團隊聚餐想訂包廂，請事先打電話給餐廳。"
+        },
+        {
+          "en": "All presenters are asked to send their slides to the event organizer at least two days beforehand.",
+          "zh": "所有講者都必須至少提前兩天把投影片寄給活動主辦人。"
+        },
+        {
+          "en": "If you cannot attend the training session on Friday, please let your manager know beforehand by email.",
+          "zh": "如果你週五不能參加訓練課，請事先寄信告訴你的主管。"
+        },
+        {
+          "en": "The hotel requires payment beforehand for all large group bookings of more than ten rooms during the holidays.",
+          "zh": "假日期間超過十間房的團體訂房，飯店都要求預先付款。"
+        },
+        {
+          "en": "We checked the projector beforehand so that the client presentation would start without any problems.",
+          "zh": "我們事先檢查了投影機，讓客戶簡報能順利開始。"
+        }
+      ],
+      "distractors": [
+        "behind",
+        "beyond",
+        "barely"
+      ],
+      "note": "beforehand＝事先（在某件事發生之前先做好），通常放在句尾，例如 let me know beforehand。同義詞：in advance、ahead of time。相反詞：afterward（之後）。和 prior to 不同：prior to 後面要接名詞（prior to the meeting），beforehand 單獨用就好。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
