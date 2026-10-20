@@ -442,7 +442,58 @@ function setProgress(){
 }
 function setSignedIn(on){ document.body.classList.toggle("signed-out", !on); }
 
-function newRound(){ S.round = buildRound(); S.i = 0; render(); }
+function newRound(){ S.round = buildRound(); S.i = 0; render(); checkRound(S.round); }
+
+/* 請 AI 檢查每題：錯的選項放進句子會不會「也說得通」。會的就換掉，並記下這兩個字以後不放同一題 */
+function swapOption(q, bad){
+  const w = wordById(q.id); if (!w) return false;
+  const k = q.options.findIndex(o => o.toLowerCase() === bad.toLowerCase());
+  if (k < 0 || k === q.correct) return false;
+  const used = new Set(q.options.map(o => o.toLowerCase()));
+  const others = Store.words.filter(x => x.id !== w.id && !tooClose(w, x)).map(x => x.word);
+  const pool = [...shuffle(w.distractors), ...shuffle(others.filter(x => (wordByWord(x) || {}).pos === w.pos)), ...shuffle(FALLBACK[w.pos] || FALLBACK["名詞"])];
+  const rep = pool.map(x => String(x).trim()).find(x => x && !used.has(x.toLowerCase()) && !(Store.settings.noPair || []).includes(pairKey(w.word, x)));
+  if (!rep) return false;
+  q.options[k] = rep; return true;
+}
+function wordByWord(x){ const k = String(x).toLowerCase(); return Store.words.find(w => w.word.toLowerCase() === k); }
+async function checkRound(round){
+  if (!Store.settings.aiKey) return;
+  let todo = round.map((q, i) => i);
+  for (let pass = 0; pass < 3 && todo.length; pass++){
+    const next = [];
+    for (let s = 0; s < todo.length; s += 15){
+      if (S.round !== round) return;                                    // 已經換新的一回了
+      const batch = todo.slice(s, s + 15).filter(i => round[i].picked < 0 && i >= S.i);
+      if (!batch.length) continue;
+      const items = batch.map(i => { const q = round[i], w = wordById(q.id);
+        return { i, sentence: q.sentence.en.replace(wordRe(w.word), (m, a) => a + "____"), answer: w.word, others: q.options.filter((o, k) => k !== q.correct) }; });
+      let res;
+      try {
+        res = await AI.call(`You check English vocabulary multiple-choice questions for a Taiwanese learner. Each item has a sentence with one blank (____), the intended answer, and wrong options.
+For each wrong option, decide if it could ALSO fill the blank and give a natural, grammatical, sensible sentence (even if less common or with a slightly different meaning, e.g. "air conditioning fan" instead of "air conditioning unit"). Be strict: if a native speaker could reasonably accept it, it fits.
+Return ONLY a JSON array: [{"i": item i, "fits": [wrong options that also fit, exactly as given]}]. Use an empty list when none fit.
+Items: ${JSON.stringify(items)}`, 0.2);
+      } catch { return; }                                                // AI 不能用就照原本的題目
+      if (!Array.isArray(res)) res = Array.isArray(res?.items) ? res.items : [];
+      const newPairs = [];
+      for (const r of res){
+        const ri = Number(r?.i), q = round[ri]; if (!q || q.picked >= 0 || !Array.isArray(r.fits)) continue;
+        const w = wordById(q.id); if (!w) continue;
+        for (const bad of r.fits){
+          if (typeof bad !== "string" || bad.toLowerCase() === w.word.toLowerCase()) continue;
+          if (swapOption(q, bad)){ newPairs.push(pairKey(w.word, bad)); if (!next.includes(ri)) next.push(ri); }
+        }
+      }
+      if (newPairs.length){
+        Store.settings.noPair = [...new Set([...(Store.settings.noPair || []), ...newPairs])];
+        Store.saveSettings({ noPair: arrayUnion(...newPairs) });
+        if (S.round === round && batch.includes(S.i) && round[S.i].picked < 0) render();
+      }
+    }
+    todo = next;
+  }
+}
 
 /* 每回題數：30 / 50 / 100，選了會記在雲端，手機和電腦一致 */
 function segHtml(){
@@ -894,7 +945,7 @@ function openBank(){
 /* ---------- AI（Google Gemini 免費版） ---------- */
 const AI = {
   models: ["gemini-flash-latest", "gemini-2.5-flash", "gemini-flash-lite-latest", "gemini-2.5-flash-lite"],
-  async call(prompt){
+  async call(prompt, temperature = 0.8){
     const key = Store.settings.aiKey || "";
     if (!key){ const e = new Error("no key"); e.userMessage = "還沒有設定 AI 通行碼（在單字庫最下面的設定），先自己輸入中文意思和一個例句。"; throw e; }
     let res, lastStatus = 0;
@@ -905,7 +956,7 @@ const AI = {
         res = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
           method: "POST",
           headers: { "Content-Type": "application/json", "x-goog-api-key": key },
-          body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { responseMimeType: "application/json", temperature: 0.8 } }),
+          body: JSON.stringify({ contents: [{ parts: [{ text: prompt }] }], generationConfig: { responseMimeType: "application/json", temperature } }),
         }).catch(() => null);
         if (res && res.ok) break outer;
         lastStatus = res ? res.status : 0;
