@@ -4183,6 +4183,41 @@
       ],
       "note": "afterwards（英式常見）＝afterward（美式常見），意思一樣：之後、後來。相反詞是 beforehand（事先）。常和 since 一起出現時要注意：since 在這裡是「因為」，不是「自從」。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261020-blurry",
+      "word": "blurry",
+      "pos": "形容詞",
+      "meaning": "模糊的；看不清楚的",
+      "sentences": [
+        {
+          "en": "The photos on the company website look blurry, so we need to replace them with clearer images.",
+          "zh": "公司網站上的照片看起來很模糊，我們需要換成比較清楚的圖片。"
+        },
+        {
+          "en": "After the eye exam, your vision may be blurry for a few hours, so please do not drive.",
+          "zh": "眼睛檢查後，你的視力可能會模糊幾個小時，所以請不要開車。"
+        },
+        {
+          "en": "The text on the projector screen was too blurry for the people in the back row to read.",
+          "zh": "投影幕上的字太模糊了，坐後排的人看不清楚。"
+        },
+        {
+          "en": "If the scanned copy of your passport is blurry, the visa office will ask you to send it again.",
+          "zh": "如果護照掃描檔很模糊，簽證辦公室會請你重寄一次。"
+        },
+        {
+          "en": "The security camera recorded only a blurry image of the delivery truck leaving the warehouse.",
+          "zh": "監視器只拍到送貨卡車離開倉庫的模糊畫面。"
+        }
+      ],
+      "distractors": [
+        "furry",
+        "burly",
+        "bloody"
+      ],
+      "note": "blurry＝模糊的（照片、視線、字）。動詞是 blur（使模糊），blurred 也是「模糊的」，意思差不多。相反詞：clear（清楚的）、sharp（清晰的）。長很像的字：furry（毛茸茸的）。",
+      "addedAt": "2026-10-20"
     }
   ],
   "notes": [
