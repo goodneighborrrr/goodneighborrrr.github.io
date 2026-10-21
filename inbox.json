@@ -4393,6 +4393,76 @@
       ],
       "note": "floral 是 flower（花）的形容詞：floral arrangement（花藝擺設）、floral pattern（花朵圖案）、floral scent（花香）。賣花、插花的人叫 florist（花店老闆、花藝師）。長很像的字：moral（道德的）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-wilt",
+      "word": "wilt",
+      "pos": "動詞",
+      "meaning": "（花草）枯萎；凋謝；（人）變得無精打采",
+      "sentences": [
+        {
+          "en": "Fresh flowers in the hotel lobby begin to wilt after three days, so the staff replace them every Monday and Thursday.",
+          "zh": "飯店大廳的鮮花三天後就開始枯萎，所以員工每週一和週四都會換新。"
+        },
+        {
+          "en": "Without enough water, the plants in the office will wilt quickly during the hot summer months.",
+          "zh": "沒有足夠的水，辦公室的植物在炎熱的夏天很快就會枯萎。"
+        },
+        {
+          "en": "Store the lettuce in the refrigerator so that it does not wilt before the lunch buffet tomorrow.",
+          "zh": "把萵苣放進冰箱，這樣明天午餐自助餐前才不會軟掉。"
+        },
+        {
+          "en": "The florist sprays the roses with cold water to keep them from starting to wilt in the shop window.",
+          "zh": "花店老闆用冷水噴玫瑰，避免它們在櫥窗裡開始凋謝。"
+        },
+        {
+          "en": "Many workers begin to wilt in the afternoon heat, so the factory provides cold drinks and extra breaks.",
+          "zh": "很多工人在下午的高溫下開始沒精神，所以工廠提供冷飲和額外的休息時間。"
+        }
+      ],
+      "distractors": [
+        "tilt",
+        "wield",
+        "wail"
+      ],
+      "note": "wilt 是花草因為缺水或太熱而「垂下來、軟掉」，也可以形容人累到沒精神。過去式 wilted（枯萎的）。相近的字：wither（枯萎，程度更嚴重、乾掉）、fade（褪色、凋謝）。",
+      "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-banquet",
+      "word": "banquet",
+      "pos": "名詞",
+      "meaning": "宴會；盛宴",
+      "sentences": [
+        {
+          "en": "The annual awards banquet will be held in the hotel's grand ballroom on Friday evening.",
+          "zh": "年度頒獎晚宴將於週五晚上在飯店的大宴會廳舉行。"
+        },
+        {
+          "en": "More than three hundred guests attended the formal banquet held to celebrate the company's fiftieth anniversary.",
+          "zh": "三百多位賓客出席了慶祝公司五十週年的正式晚宴。"
+        },
+        {
+          "en": "The banquet hall can seat up to five hundred people and is often used for weddings and conferences.",
+          "zh": "這間宴會廳最多可以容納五百人，常用來辦婚禮和會議。"
+        },
+        {
+          "en": "Please confirm your meal choice for the banquet by Wednesday so that the kitchen can prepare enough food.",
+          "zh": "請在週三前確認你晚宴的餐點選擇，讓廚房能準備足夠的食物。"
+        },
+        {
+          "en": "The mayor gave a short speech at the banquet to thank the volunteers for their hard work.",
+          "zh": "市長在宴會上簡短致詞，感謝志工的辛勞。"
+        }
+      ],
+      "distractors": [
+        "bouquet",
+        "banner",
+        "blanket"
+      ],
+      "note": "banquet 是比較正式、人很多的宴會，通常有致詞、頒獎，例如尾牙、頒獎晚宴。reception 是比較輕鬆的招待會（站著聊天、吃點心）。長很像的字：bouquet（花束）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
