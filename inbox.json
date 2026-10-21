@@ -4463,6 +4463,41 @@
       ],
       "note": "banquet 是比較正式、人很多的宴會，通常有致詞、頒獎，例如尾牙、頒獎晚宴。reception 是比較輕鬆的招待會（站著聊天、吃點心）。長很像的字：bouquet（花束）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-campaign",
+      "word": "campaign",
+      "pos": "名詞",
+      "meaning": "（宣傳、行銷）活動；運動；競選活動",
+      "sentences": [
+        {
+          "en": "The marketing team launched a new advertising campaign to promote our summer drinks on social media.",
+          "zh": "行銷團隊在社群媒體上推出新的廣告活動，宣傳我們的夏季飲品。"
+        },
+        {
+          "en": "The company's recycling campaign encouraged employees to reduce paper use by thirty percent this year.",
+          "zh": "公司的回收活動鼓勵員工今年減少三成的用紙量。"
+        },
+        {
+          "en": "Thanks to the successful online campaign, sales of the new headphones doubled within two months.",
+          "zh": "多虧網路行銷活動很成功，新耳機的銷量在兩個月內翻倍。"
+        },
+        {
+          "en": "Ms. Ito will lead the fundraising campaign for the new children's hospital starting early next month.",
+          "zh": "伊藤小姐將從下個月初開始，負責新兒童醫院的募款活動。"
+        },
+        {
+          "en": "The city started a safety campaign to remind drivers to slow down near schools and parks.",
+          "zh": "市政府發起交通安全宣導活動，提醒駕駛在學校和公園附近減速。"
+        }
+      ],
+      "distractors": [
+        "champagne",
+        "campus",
+        "compass"
+      ],
+      "note": "campaign 是「為了某個目標、持續一段時間的一系列活動」，例如 advertising／marketing campaign（廣告／行銷活動）、fundraising campaign（募款活動）、election campaign（競選活動）。常搭配動詞 launch（推出）。發音 kam-PAIN，g 不發音。長很像的字：champagne（香檳）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
