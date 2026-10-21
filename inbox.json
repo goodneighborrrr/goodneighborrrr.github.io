@@ -4778,6 +4778,111 @@
       ],
       "note": "contributor 是 contribute（貢獻、捐獻、投稿）的人或東西。primary／main contributor＝主要貢獻者；也可以指「造成某結果的主要因素」。名詞 contribution（貢獻、捐款）。容易搞混：distributor（經銷商）、contractor（承包商）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-primary",
+      "word": "primary",
+      "pos": "形容詞",
+      "meaning": "主要的；首要的；初級的",
+      "sentences": [
+        {
+          "en": "The primary goal of this training program is to improve customer service in all of our stores.",
+          "zh": "這個訓練計畫的主要目標，是提升我們所有門市的客戶服務。"
+        },
+        {
+          "en": "Ms. Garcia was the primary contributor to the annual report, so she will present it to the board.",
+          "zh": "賈西亞小姐是年度報告的主要撰寫人，所以由她向董事會報告。"
+        },
+        {
+          "en": "Rising costs are the primary reason why the company decided to close two of its factories.",
+          "zh": "成本上升是公司決定關掉兩間工廠的主要原因。"
+        },
+        {
+          "en": "Please list Mr. Wong as the primary contact person for all questions about the shipment.",
+          "zh": "請把王先生列為這批貨所有問題的主要聯絡人。"
+        },
+        {
+          "en": "Our primary market is young professionals who live and work in large cities across Asia.",
+          "zh": "我們的主要市場是住在亞洲各大城市的年輕上班族。"
+        }
+      ],
+      "distractors": [
+        "primitive",
+        "primate",
+        "premature"
+      ],
+      "note": "primary＝main（主要的），比較正式。常見搭配：primary goal（主要目標）、primary reason（主要原因）、primary contact（主要聯絡人）。也有「初級的」意思：primary school（小學）。副詞 primarily（主要地）。",
+      "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-booths",
+      "word": "booths",
+      "pos": "名詞",
+      "meaning": "攤位；（售票、電話）亭；（餐廳）卡座（booth 的複數）",
+      "sentences": [
+        {
+          "en": "More than two hundred companies will set up booths at the trade fair to show their latest products.",
+          "zh": "兩百多家公司會在商展設攤，展示他們的最新產品。"
+        },
+        {
+          "en": "Visitors can try free samples at the food booths located near the main entrance of the exhibition hall.",
+          "zh": "參觀者可以在展覽館大門附近的美食攤位試吃。"
+        },
+        {
+          "en": "The event organizer charges five hundred dollars to rent one of the booths for the entire weekend.",
+          "zh": "主辦單位整個週末租一個攤位收五百元。"
+        },
+        {
+          "en": "Our team decorated the company's booths with bright banners to attract more customers at the expo.",
+          "zh": "我們團隊用顯眼的布條裝飾公司的攤位，在博覽會上吸引更多客人。"
+        },
+        {
+          "en": "The ticket booths at the stadium open two hours before the game starts on Saturday.",
+          "zh": "體育場的售票亭在週六比賽開始前兩小時開放。"
+        }
+      ],
+      "distractors": [
+        "boots",
+        "booms",
+        "boosts"
+      ],
+      "note": "booth 是展覽、市集裡的「攤位」（set up a booth＝設攤），也指小亭子：ticket booth（售票亭）、phone booth（電話亭）、photo booth（拍貼機）。餐廳靠牆、有高椅背的「卡座」也叫 booth。stall 也是攤位，比較常指市場、夜市的攤子。",
+      "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-prominent",
+      "word": "prominent",
+      "pos": "形容詞",
+      "meaning": "著名的；重要的；顯眼的；突出的",
+      "sentences": [
+        {
+          "en": "Several prominent business leaders will speak at the international economic summit in Tokyo next month.",
+          "zh": "下個月在東京的國際經濟高峰會，會有幾位知名企業領袖演講。"
+        },
+        {
+          "en": "The company logo should be displayed in a prominent place on the front of the building.",
+          "zh": "公司標誌應該放在大樓正面顯眼的位置。"
+        },
+        {
+          "en": "Dr. Huang is a prominent scientist who has won many awards for her research on clean energy.",
+          "zh": "黃博士是一位知名科學家，她的潔淨能源研究得過很多獎。"
+        },
+        {
+          "en": "The new product was given a prominent spot near the store entrance so that more customers would notice it.",
+          "zh": "新產品被放在店門口附近的顯眼位置，讓更多客人注意到。"
+        },
+        {
+          "en": "Ms. Ortiz played a prominent role in helping the company expand into the South American market.",
+          "zh": "奧提茲小姐在協助公司拓展南美市場上扮演了重要角色。"
+        }
+      ],
+      "distractors": [
+        "provident",
+        "pertinent",
+        "penitent"
+      ],
+      "note": "prominent 有兩個意思：①人很有名、重要（a prominent leader）；②東西很顯眼、突出（a prominent place）。常見搭配：play a prominent role（扮演重要角色）。同義詞：famous、well-known、noticeable。和你學過的 notable 很像：notable 強調「值得一提」，prominent 強調「地位高、很顯眼」。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
