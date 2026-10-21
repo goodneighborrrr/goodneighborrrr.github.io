@@ -4673,6 +4673,41 @@
       ],
       "note": "beverage 是 drink 比較正式的說法，菜單、公告、飯店、多益常用：food and beverages（餐飲，常縮寫成 F&B）、hot／cold beverages（熱飲／冷飲）、alcoholic beverages（含酒精飲料）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-underway",
+      "word": "underway",
+      "pos": "形容詞",
+      "meaning": "進行中的；已經開始的（get underway＝開始）",
+      "sentences": [
+        {
+          "en": "The annual conference gets underway on Monday morning with a welcome speech by the company president.",
+          "zh": "年度大會週一早上開始，由公司總裁致歡迎詞揭開序幕。"
+        },
+        {
+          "en": "Construction of the new shopping mall is already underway and should be completed by next summer.",
+          "zh": "新購物中心已經在施工了，預計明年夏天前完工。"
+        },
+        {
+          "en": "Plans are underway to open three new branches in southern Taiwan before the end of the year.",
+          "zh": "公司正在規劃年底前在南台灣開三家新分店。"
+        },
+        {
+          "en": "Please turn off your mobile phones before the presentation gets underway in the main hall.",
+          "zh": "主廳的簡報開始前，請把手機關機。"
+        },
+        {
+          "en": "An investigation is underway to find out why the large shipment from Germany arrived two weeks late.",
+          "zh": "目前正在調查，那批從德國來的大批貨物為什麼晚了兩週才到。"
+        }
+      ],
+      "distractors": [
+        "underpaid",
+        "underwater",
+        "undercooked"
+      ],
+      "note": "get underway＝開始（get started）；be underway＝正在進行中（in progress）。也可以寫成兩個字 under way。正式公告、新聞很常用：The meeting is now underway.（會議正在進行。）",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
