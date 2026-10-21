@@ -4358,6 +4358,41 @@
       ],
       "note": "reception 的意思很多：招待會、歡迎會（welcome reception、wedding reception 婚宴）；接待處、櫃檯（reception desk，櫃檯人員叫 receptionist）；手機收訊（good reception）；受到的反應（a warm reception 熱烈歡迎）。長很像的字：receipt（收據）、recipe（食譜）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-direction",
+      "word": "direction",
+      "pos": "名詞",
+      "meaning": "方向；指導；（複數 directions）作答說明；指路",
+      "sentences": [
+        {
+          "en": "The delivery truck was driving in the wrong direction, so the driver had to turn around and take another route.",
+          "zh": "送貨卡車開錯方向了，所以司機只好掉頭走別條路。"
+        },
+        {
+          "en": "Under the direction of Ms. Park, the marketing team completed the campaign two weeks ahead of schedule.",
+          "zh": "在朴小姐的帶領下，行銷團隊提前兩週完成了這次活動。"
+        },
+        {
+          "en": "The new CEO wants to take the company in a new direction by focusing on online sales.",
+          "zh": "新執行長想把重心放在網路銷售，帶領公司走向新方向。"
+        },
+        {
+          "en": "The hotel shuttle leaves every twenty minutes in the direction of the airport and the convention center.",
+          "zh": "飯店接駁車每二十分鐘一班，往機場和會展中心的方向開。"
+        },
+        {
+          "en": "Visitors should walk in the direction of the signs to find the main exhibition hall on the second floor.",
+          "zh": "訪客請照著指標的方向走，就能找到二樓的主展覽廳。"
+        }
+      ],
+      "distractors": [
+        "discretion",
+        "division",
+        "dictation"
+      ],
+      "note": "direction 單數是「方向；指導」；複數 directions 是「作答說明、使用說明」（多益每個大題開頭的 Directions），也指「指路」：give directions（幫人指路）。under the direction of＝在……的帶領下。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
