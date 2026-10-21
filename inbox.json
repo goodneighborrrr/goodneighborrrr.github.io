@@ -4323,6 +4323,41 @@
       ],
       "note": "forum 可以是實體的「論壇、公聽會」（public forum），也可以是網路的「討論區」（online forum，例如 PTT、Dcard、Reddit）。相近的字：seminar（研討會）、conference（大型會議）。長很像的字：formula（公式；配方）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-reception",
+      "word": "reception",
+      "pos": "名詞",
+      "meaning": "招待會；歡迎會；接待處（櫃檯）；（手機）收訊",
+      "sentences": [
+        {
+          "en": "We will be hosting a small reception at noon to welcome our new partners from Japan.",
+          "zh": "我們中午會舉辦一場小型招待會，歡迎來自日本的新合作夥伴。"
+        },
+        {
+          "en": "Please leave your visitor badge at the reception desk on the first floor before you leave the building.",
+          "zh": "離開大樓前，請把訪客證交還到一樓的接待櫃檯。"
+        },
+        {
+          "en": "A wedding reception will be held in the hotel's garden, followed by dinner in the main ballroom.",
+          "zh": "婚宴會在飯店花園舉行，之後在大宴會廳用晚餐。"
+        },
+        {
+          "en": "The mobile phone reception inside the warehouse is poor, so workers often use radios to communicate.",
+          "zh": "倉庫裡的手機收訊很差，所以工人常用無線電溝通。"
+        },
+        {
+          "en": "The new manager received a warm reception from her team on her first day at the office.",
+          "zh": "新經理上班第一天就受到團隊熱情的歡迎。"
+        }
+      ],
+      "distractors": [
+        "receipt",
+        "recession",
+        "recipe"
+      ],
+      "note": "reception 的意思很多：招待會、歡迎會（welcome reception、wedding reception 婚宴）；接待處、櫃檯（reception desk，櫃檯人員叫 receptionist）；手機收訊（good reception）；受到的反應（a warm reception 熱烈歡迎）。長很像的字：receipt（收據）、recipe（食譜）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
