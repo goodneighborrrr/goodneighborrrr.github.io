@@ -4918,6 +4918,41 @@
       ],
       "note": "serve as＋角色或用途＝擔任、當作，人和東西都可以用：serve as chairperson（擔任主席）、This room serves as an office（這間當辦公室用）。和 work as 的差別：work as 通常是職業（work as a nurse），serve as 多是一段時間或特定場合的角色。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-wing",
+      "word": "wing",
+      "pos": "名詞",
+      "meaning": "（建築物的）側翼；廂房；（鳥、飛機的）翅膀",
+      "sentences": [
+        {
+          "en": "The conference rooms are located in the east wing of the hotel, next to the main ballroom.",
+          "zh": "會議室在飯店的東側翼，就在大宴會廳旁邊。"
+        },
+        {
+          "en": "The hospital opened a new children's wing last month with fifty beds and a play area.",
+          "zh": "醫院上個月啟用了新的兒童病房大樓，有五十張病床和遊戲區。"
+        },
+        {
+          "en": "Employees in the west wing should use the side exit during the fire drill on Friday.",
+          "zh": "週五消防演習時，西側翼的員工請走側門出口。"
+        },
+        {
+          "en": "The museum's modern art wing will be closed for repairs until the end of March.",
+          "zh": "博物館的現代藝術館區因維修關閉到三月底。"
+        },
+        {
+          "en": "Our accounting department will move to the north wing of the building after the renovation is finished.",
+          "zh": "整修完成後，我們會計部會搬到大樓的北側翼。"
+        }
+      ],
+      "distractors": [
+        "wink",
+        "swing",
+        "wig"
+      ],
+      "note": "wing 原本是「翅膀」，就像鳥的翅膀從身體往兩邊延伸，大樓從主體延伸出去的一側就叫 wing：east wing（東側翼、東棟）。醫院、飯店、博物館很常用。雞翅也是 chicken wings。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
