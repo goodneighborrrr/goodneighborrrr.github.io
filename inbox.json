@@ -4603,6 +4603,41 @@
       ],
       "note": "etiquette 是社交或工作場合「該有的禮貌規矩」：business etiquette（商務禮儀）、table／dining etiquette（餐桌禮儀）、email etiquette（郵件禮儀）。發音 ET-i-ket，最後的 -quette 唸「ket」。manners 也是禮貌，但比較日常，指一個人的行為舉止。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-amenities",
+      "word": "amenities",
+      "pos": "名詞",
+      "meaning": "（便利）設施；生活機能（amenity 的複數）",
+      "sentences": [
+        {
+          "en": "The hotel offers modern amenities such as a fitness center, an outdoor pool, and free high-speed Wi-Fi.",
+          "zh": "這間飯店提供現代化設施，像是健身中心、戶外泳池和免費高速網路。"
+        },
+        {
+          "en": "The new office building includes amenities like a staff cafeteria, bike parking, and a rooftop garden.",
+          "zh": "新辦公大樓有員工餐廳、腳踏車停車位和屋頂花園等設施。"
+        },
+        {
+          "en": "Apartments in this complex are popular because of their convenient location near the station and excellent shared amenities.",
+          "zh": "這個社區的公寓很搶手，因為離車站近、公共設施又很好。"
+        },
+        {
+          "en": "Guests can find a list of all hotel amenities and their opening hours on the back of the room door.",
+          "zh": "房客可以在房門背面看到飯店所有設施和開放時間的清單。"
+        },
+        {
+          "en": "The city plans to improve public amenities, including parks, libraries, and sports centers, over the next five years.",
+          "zh": "市政府計畫在未來五年改善公園、圖書館和運動中心等公共設施。"
+        }
+      ],
+      "distractors": [
+        "amendments",
+        "enemies",
+        "anemones"
+      ],
+      "note": "amenities 是讓生活或住宿更方便舒適的設施，飯店、租屋、房地產廣告超常見：hotel amenities（飯店設施）、public amenities（公共設施）。通常用複數。和 facilities 很像：facilities 偏「場地、建築設備」，amenities 偏「讓人舒服方便的附加服務」，飯店的盥洗用品也叫 amenities。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
