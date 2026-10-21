@@ -4288,6 +4288,41 @@
       ],
       "note": "given 當介系詞＝considering（考慮到、鑑於），後面接名詞，常放句首：Given the weather, …。也可以接句子：given (that) …。別跟動詞 give 的過去分詞 given（被給予）搞混，例如 I was given a gift（我收到禮物）。",
       "addedAt": "2026-10-20"
+    },
+    {
+      "id": "20261021-forum",
+      "word": "forum",
+      "pos": "名詞",
+      "meaning": "論壇；討論會；（網路）討論區",
+      "sentences": [
+        {
+          "en": "The city will hold a public forum next Tuesday to discuss plans for the new train station.",
+          "zh": "市政府下週二會舉辦公聽會，討論新火車站的計畫。"
+        },
+        {
+          "en": "Employees are encouraged to share ideas for improving the workplace on the company's internal online forum.",
+          "zh": "公司鼓勵員工在內部網路討論區分享改善工作環境的想法。"
+        },
+        {
+          "en": "More than two hundred business leaders attended the economic forum held in Singapore last month.",
+          "zh": "上個月在新加坡舉辦的經濟論壇，有兩百多位企業領袖出席。"
+        },
+        {
+          "en": "The customer support forum allows users to ask questions and help each other solve technical problems.",
+          "zh": "客服討論區讓使用者可以發問，並互相幫忙解決技術問題。"
+        },
+        {
+          "en": "The annual forum gives small business owners a chance to meet investors and learn from industry experts.",
+          "zh": "這個年度論壇讓小企業老闆有機會認識投資人，並向業界專家學習。"
+        }
+      ],
+      "distractors": [
+        "formula",
+        "forearm",
+        "fortune"
+      ],
+      "note": "forum 可以是實體的「論壇、公聽會」（public forum），也可以是網路的「討論區」（online forum，例如 PTT、Dcard、Reddit）。相近的字：seminar（研討會）、conference（大型會議）。長很像的字：formula（公式；配方）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
