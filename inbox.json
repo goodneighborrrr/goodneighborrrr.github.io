@@ -4883,6 +4883,41 @@
       ],
       "note": "prominent 有兩個意思：①人很有名、重要（a prominent leader）；②東西很顯眼、突出（a prominent place）。常見搭配：play a prominent role（扮演重要角色）。同義詞：famous、well-known、noticeable。和你學過的 notable 很像：notable 強調「值得一提」，prominent 強調「地位高、很顯眼」。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-serve-as",
+      "word": "serve as",
+      "pos": "片語動詞",
+      "meaning": "擔任；作為；當作……用",
+      "sentences": [
+        {
+          "en": "Ms. Chen has agreed to serve as the main contact person for all questions about the trade fair.",
+          "zh": "陳小姐已經答應擔任商展所有問題的主要聯絡人。"
+        },
+        {
+          "en": "The old warehouse will serve as a temporary office while the main building is being renovated.",
+          "zh": "主大樓整修期間，舊倉庫會暫時當作辦公室使用。"
+        },
+        {
+          "en": "Mr. Lopez was asked to serve as the host of the company's annual awards banquet.",
+          "zh": "羅培茲先生受邀擔任公司年度頒獎晚宴的主持人。"
+        },
+        {
+          "en": "These sales figures will serve as a useful guide for setting next year's marketing budget.",
+          "zh": "這些銷售數字會作為訂定明年行銷預算的實用參考。"
+        },
+        {
+          "en": "Volunteers who serve as tour guides must arrive at the museum thirty minutes before opening.",
+          "zh": "擔任導覽員的志工必須在博物館開館前三十分鐘到。"
+        }
+      ],
+      "distractors": [
+        "save as",
+        "serve up",
+        "set as"
+      ],
+      "note": "serve as＋角色或用途＝擔任、當作，人和東西都可以用：serve as chairperson（擔任主席）、This room serves as an office（這間當辦公室用）。和 work as 的差別：work as 通常是職業（work as a nurse），serve as 多是一段時間或特定場合的角色。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
