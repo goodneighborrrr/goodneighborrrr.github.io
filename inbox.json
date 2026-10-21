@@ -4358,6 +4358,41 @@
       ],
       "note": "reception 的意思很多：招待會、歡迎會（welcome reception、wedding reception 婚宴）；接待處、櫃檯（reception desk，櫃檯人員叫 receptionist）；手機收訊（good reception）；受到的反應（a warm reception 熱烈歡迎）。長很像的字：receipt（收據）、recipe（食譜）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-floral",
+      "word": "floral",
+      "pos": "形容詞",
+      "meaning": "花的；花卉的；有花朵圖案的",
+      "sentences": [
+        {
+          "en": "The hotel lobby was decorated with fresh floral arrangements for this week's international business conference.",
+          "zh": "為了這週的國際商務會議，飯店大廳用新鮮的花藝擺設裝飾。"
+        },
+        {
+          "en": "Our new spring collection features light dresses with colorful floral patterns made from soft cotton fabrics.",
+          "zh": "我們的春季新品有輕盈的洋裝，用柔軟的棉布做成，上面有彩色的花朵圖案。"
+        },
+        {
+          "en": "The florist will deliver the floral decorations to the wedding reception venue by ten o'clock.",
+          "zh": "花店會在十點前把花卉裝飾送到婚宴場地。"
+        },
+        {
+          "en": "Customers say the new hand soap has a pleasant floral scent that is not too strong.",
+          "zh": "顧客說新的洗手乳有淡淡的、宜人的花香，不會太濃。"
+        },
+        {
+          "en": "Ms. Tan started a small floral design business that supplies flowers to restaurants and hotels downtown.",
+          "zh": "陳小姐開了一家小型花藝設計公司，提供鮮花給市中心的餐廳和飯店。"
+        }
+      ],
+      "distractors": [
+        "moral",
+        "fluent",
+        "feral"
+      ],
+      "note": "floral 是 flower（花）的形容詞：floral arrangement（花藝擺設）、floral pattern（花朵圖案）、floral scent（花香）。賣花、插花的人叫 florist（花店老闆、花藝師）。長很像的字：moral（道德的）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
