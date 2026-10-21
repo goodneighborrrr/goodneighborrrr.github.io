@@ -4708,6 +4708,76 @@
       ],
       "note": "get underway＝開始（get started）；be underway＝正在進行中（in progress）。也可以寫成兩個字 under way。正式公告、新聞很常用：The meeting is now underway.（會議正在進行。）",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-graciously",
+      "word": "graciously",
+      "pos": "副詞",
+      "meaning": "親切大方地；有禮地；慷慨地",
+      "sentences": [
+        {
+          "en": "Mr. Lee graciously agreed to speak at our event even though he had a very busy schedule.",
+          "zh": "李先生雖然行程很滿，還是很親切地答應來我們的活動演講。"
+        },
+        {
+          "en": "The local bakery graciously donated two hundred cakes for the charity fundraising event last weekend.",
+          "zh": "當地麵包店上週末很慷慨地捐了兩百個蛋糕給慈善募款活動。"
+        },
+        {
+          "en": "The hotel manager graciously offered us a free room upgrade after our flight was delayed.",
+          "zh": "我們的班機延誤後，飯店經理很貼心地免費幫我們升等房間。"
+        },
+        {
+          "en": "Ms. Kim graciously accepted the award and warmly thanked everyone who had supported the project from the beginning.",
+          "zh": "金小姐大方得體地接受獎項，並熱情感謝從一開始就支持這個計畫的每個人。"
+        },
+        {
+          "en": "Our sponsor has graciously provided free lunch for all volunteers at this year's beach cleanup.",
+          "zh": "我們的贊助商很慷慨地為今年淨灘的所有志工提供免費午餐。"
+        }
+      ],
+      "distractors": [
+        "greedily",
+        "grievously",
+        "gruffly"
+      ],
+      "note": "graciously 是有禮貌、大方、願意幫忙的樣子，正式感謝或公告很常用：graciously agreed（親切地答應）、graciously donated（慷慨地捐贈）。形容詞 gracious（親切的、得體的）。容易搞混：gracefully（優雅地，指動作）、gratefully（感激地）。",
+      "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-contributor",
+      "word": "contributor",
+      "pos": "名詞",
+      "meaning": "貢獻者；捐助者；撰稿人；（造成某結果的）因素",
+      "sentences": [
+        {
+          "en": "Ms. Garcia was the primary contributor to the report, writing most of the chapters on market trends.",
+          "zh": "賈西亞小姐是這份報告的主要貢獻者，市場趨勢的章節大多是她寫的。"
+        },
+        {
+          "en": "The museum thanked every contributor whose generous donation helped pay for the new science exhibition hall.",
+          "zh": "博物館感謝每一位捐助者，他們慷慨的捐款幫忙支付了新科學展覽廳的費用。"
+        },
+        {
+          "en": "Rising fuel prices were the main contributor to the increase in shipping costs this year.",
+          "zh": "燃料價格上漲是今年運費增加的主要原因。"
+        },
+        {
+          "en": "As a regular contributor to the business magazine, Mr. Tan writes about small company management.",
+          "zh": "陳先生是那本商業雜誌的固定撰稿人，專寫小公司的管理。"
+        },
+        {
+          "en": "Our sales team was the biggest contributor to the company's profits during the last quarter.",
+          "zh": "上一季，我們業務團隊是公司獲利的最大功臣。"
+        }
+      ],
+      "distractors": [
+        "conductor",
+        "contraption",
+        "condenser"
+      ],
+      "note": "contributor 是 contribute（貢獻、捐獻、投稿）的人或東西。primary／main contributor＝主要貢獻者；也可以指「造成某結果的主要因素」。名詞 contribution（貢獻、捐款）。容易搞混：distributor（經銷商）、contractor（承包商）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
