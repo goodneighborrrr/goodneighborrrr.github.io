@@ -4498,6 +4498,111 @@
       ],
       "note": "campaign 是「為了某個目標、持續一段時間的一系列活動」，例如 advertising／marketing campaign（廣告／行銷活動）、fundraising campaign（募款活動）、election campaign（競選活動）。常搭配動詞 launch（推出）。發音 kam-PAIN，g 不發音。長很像的字：champagne（香檳）。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-paid-off",
+      "word": "paid off",
+      "pos": "片語動詞",
+      "meaning": "（努力）有了回報；成功了；還清（債務）",
+      "sentences": [
+        {
+          "en": "All the long hours the team spent preparing the proposal finally paid off when the client signed the contract.",
+          "zh": "團隊花了很多時間準備提案，客戶簽約時終於有了回報。"
+        },
+        {
+          "en": "Our decision to invest in online advertising paid off, as sales rose by forty percent last quarter.",
+          "zh": "我們投資網路廣告的決定成功了，上一季業績成長了四成。"
+        },
+        {
+          "en": "Ms. Lin's hard work paid off when she was promoted to regional manager after only two years.",
+          "zh": "林小姐的努力有了回報，才兩年就升上區域經理。"
+        },
+        {
+          "en": "The extra training sessions for new staff paid off, and customer complaints dropped sharply this month.",
+          "zh": "新員工的額外訓練見效了，這個月客訴大幅減少。"
+        },
+        {
+          "en": "Moving the factory closer to the port paid off by cutting shipping times in half.",
+          "zh": "把工廠搬到靠近港口的地方很值得，運送時間縮短了一半。"
+        }
+      ],
+      "distractors": [
+        "laid off",
+        "paid back",
+        "sold off"
+      ],
+      "note": "pay off（過去式 paid off）主要有兩個意思：①努力、投資「有回報、成功了」：Hard work pays off.（努力會有回報）②還清債務：pay off a loan。別搞混：laid off＝被裁員；paid back＝還錢給某人。",
+      "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-summit",
+      "word": "summit",
+      "pos": "名詞",
+      "meaning": "高峰會；（山的）山頂；最高點",
+      "sentences": [
+        {
+          "en": "Leaders from twenty countries will gather in Seoul next month for an international economic summit.",
+          "zh": "二十個國家的領袖下個月將齊聚首爾，參加國際經濟高峰會。"
+        },
+        {
+          "en": "The climbers reached the summit of the mountain just before sunrise and took photos of the view.",
+          "zh": "登山客在日出前登上山頂，拍下了風景。"
+        },
+        {
+          "en": "The technology summit attracted more than two thousand engineers, investors, and business owners from around the world this year.",
+          "zh": "今年的科技高峰會吸引了來自世界各地兩千多位工程師、投資人和企業主。"
+        },
+        {
+          "en": "Our CEO was invited to speak about green energy at the business summit in Geneva.",
+          "zh": "我們的執行長受邀在日內瓦的商業高峰會上談綠能。"
+        },
+        {
+          "en": "Hotel rooms near the convention center sold out quickly because of the upcoming global trade summit.",
+          "zh": "因為即將舉辦全球貿易高峰會，會展中心附近的飯店房間很快就賣光了。"
+        }
+      ],
+      "distractors": [
+        "summary",
+        "suburb",
+        "sunset"
+      ],
+      "note": "summit 原本是「山頂」，引申為各國領袖或業界大咖聚在一起的「高峰會」，比 forum（論壇）、conference（會議）層級更高。長很像的字：summary（摘要），以及動詞 submit（提交）。",
+      "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-etiquette",
+      "word": "etiquette",
+      "pos": "名詞",
+      "meaning": "禮儀；禮節",
+      "sentences": [
+        {
+          "en": "New employees receive a short training session on business etiquette, including how to greet clients properly.",
+          "zh": "新進員工會上一堂簡短的商務禮儀課，包括怎麼正確地問候客戶。"
+        },
+        {
+          "en": "In many Asian countries, it is considered good etiquette to hand business cards over with both hands.",
+          "zh": "在很多亞洲國家，用雙手遞名片被認為是好的禮節。"
+        },
+        {
+          "en": "The hotel staff follow strict telephone etiquette, always answering within three rings and speaking politely.",
+          "zh": "飯店員工遵守嚴格的電話禮儀，一定在響三聲內接起並有禮貌地說話。"
+        },
+        {
+          "en": "Before the overseas trip, Mr. Park read a short guide to local dining etiquette in France and Italy.",
+          "zh": "出國前，朴先生讀了一本關於法國和義大利用餐禮儀的簡短指南。"
+        },
+        {
+          "en": "Good email etiquette means writing a clear subject line and replying to customers within one business day.",
+          "zh": "好的電子郵件禮儀，是寫清楚的主旨，並在一個工作天內回覆客戶。"
+        }
+      ],
+      "distractors": [
+        "estimate",
+        "cassette",
+        "palette"
+      ],
+      "note": "etiquette 是社交或工作場合「該有的禮貌規矩」：business etiquette（商務禮儀）、table／dining etiquette（餐桌禮儀）、email etiquette（郵件禮儀）。發音 ET-i-ket，最後的 -quette 唸「ket」。manners 也是禮貌，但比較日常，指一個人的行為舉止。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
