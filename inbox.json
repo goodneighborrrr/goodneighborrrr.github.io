@@ -4638,6 +4638,41 @@
       ],
       "note": "amenities 是讓生活或住宿更方便舒適的設施，飯店、租屋、房地產廣告超常見：hotel amenities（飯店設施）、public amenities（公共設施）。通常用複數。和 facilities 很像：facilities 偏「場地、建築設備」，amenities 偏「讓人舒服方便的附加服務」，飯店的盥洗用品也叫 amenities。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261021-beverages",
+      "word": "beverages",
+      "pos": "名詞",
+      "meaning": "飲料；飲品（beverage 的複數）",
+      "sentences": [
+        {
+          "en": "Light snacks and cold beverages will be served in the lobby during the afternoon break.",
+          "zh": "下午休息時間，大廳會供應輕食和冷飲。"
+        },
+        {
+          "en": "Guests may not bring outside food or beverages into the concert hall or the theater.",
+          "zh": "賓客不得攜帶外食或飲料進入音樂廳或劇院。"
+        },
+        {
+          "en": "The café sells a wide selection of hot beverages, including coffee, tea, and hot chocolate.",
+          "zh": "這家咖啡店有很多熱飲可以選，包括咖啡、茶和熱可可。"
+        },
+        {
+          "en": "Our company is the largest distributor of soft drinks and other beverages in Southeast Asia.",
+          "zh": "我們公司是東南亞最大的汽水和其他飲料經銷商。"
+        },
+        {
+          "en": "All beverages in the hotel minibar will be charged to your room when you check out.",
+          "zh": "飯店迷你吧的所有飲料，都會在退房時記在你的房帳上。"
+        }
+      ],
+      "distractors": [
+        "leverages",
+        "averages",
+        "coverages"
+      ],
+      "note": "beverage 是 drink 比較正式的說法，菜單、公告、飯店、多益常用：food and beverages（餐飲，常縮寫成 F&B）、hot／cold beverages（熱飲／冷飲）、alcoholic beverages（含酒精飲料）。",
+      "addedAt": "2026-10-21"
     }
   ],
   "notes": [
