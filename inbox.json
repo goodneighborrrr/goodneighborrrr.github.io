@@ -5198,6 +5198,41 @@
       ],
       "note": "napkin 是吃飯時擦嘴、擦手用的餐巾，可以是紙的（paper napkin）或布的（cloth napkin）。英式也常說 serviette。tissue 是一般的「面紙、衛生紙」，不是餐桌專用。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-advertisement",
+      "word": "advertisement",
+      "pos": "名詞",
+      "meaning": "廣告",
+      "sentences": [
+        {
+          "en": "The company placed a full-page advertisement in the newspaper to promote its big year-end sale this December.",
+          "zh": "公司在報紙上刊登全版廣告，宣傳今年十二月的年終大特賣。"
+        },
+        {
+          "en": "According to the advertisement, the hotel offers free breakfast and airport pickup for all guests.",
+          "zh": "根據廣告，這間飯店為所有房客提供免費早餐和機場接送。"
+        },
+        {
+          "en": "We received over one hundred applications after posting a job advertisement on our website last week.",
+          "zh": "上週我們在網站上刊登徵才廣告後，收到一百多份應徵資料。"
+        },
+        {
+          "en": "The new television advertisement for our sports drink will be shown during the baseball games.",
+          "zh": "我們運動飲料的新電視廣告會在棒球比賽時播出。"
+        },
+        {
+          "en": "Please check the price in the advertisement carefully, because some items are on sale only this weekend.",
+          "zh": "請仔細看廣告上的價格，因為有些商品只有這個週末特價。"
+        }
+      ],
+      "distractors": [
+        "advancement",
+        "adventure",
+        "advisement"
+      ],
+      "note": "advertisement 的拼法：advertise（打廣告，動詞）＋ment。口語常縮寫成 ad 或 advert（英式）。相關字：advertising（廣告業；廣告活動）、advertiser（廣告主）。多益常見：job advertisement（徵才廣告）、place an advertisement（刊登廣告）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
