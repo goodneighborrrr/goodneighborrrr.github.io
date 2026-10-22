@@ -5268,6 +5268,76 @@
       ],
       "note": "mattress 是床上那塊「床墊」，複數加 -es：mattresses。相關字：bed frame（床架）、pillow（枕頭）、sheet（床單）、comforter／duvet（棉被）。拼法注意兩個 t、兩個 s：ma-tt-re-ss。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-foam",
+      "word": "foam",
+      "pos": "名詞",
+      "meaning": "泡沫；泡棉；海綿（材質）",
+      "sentences": [
+        {
+          "en": "Our new mattresses are made with three layers of memory foam for extra comfort and support.",
+          "zh": "我們的新床墊用了三層記憶泡棉，更舒適、支撐力更好。"
+        },
+        {
+          "en": "Fragile items such as glass vases should be packed in soft foam before they are shipped.",
+          "zh": "玻璃花瓶這類易碎品，寄出前要用軟泡棉包好。"
+        },
+        {
+          "en": "The café adds a thick layer of milk foam on top of every cappuccino it serves.",
+          "zh": "這家咖啡店每杯卡布奇諾上面都會加一層厚厚的奶泡。"
+        },
+        {
+          "en": "The office chairs have cushions filled with high-quality foam that does not lose its shape.",
+          "zh": "辦公椅的坐墊裡填了高品質泡棉，不容易變形。"
+        },
+        {
+          "en": "Firefighters used special foam to put out the fire in the chemical warehouse last night.",
+          "zh": "消防員昨晚用特殊泡沫撲滅了化學品倉庫的火。"
+        }
+      ],
+      "distractors": [
+        "form",
+        "loam",
+        "fame"
+      ],
+      "note": "foam 可以是液體上的「泡沫」（milk foam 奶泡、shaving foam 刮鬍泡），也可以是軟軟的「泡棉」材質（memory foam 記憶泡棉，床墊、枕頭常見）。和 bubble 的差別：bubble 是一顆一顆的泡泡，foam 是一大片細小泡泡。",
+      "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-layers",
+      "word": "layers",
+      "pos": "名詞",
+      "meaning": "層；層次（layer 的複數）",
+      "sentences": [
+        {
+          "en": "The cake has three layers of chocolate and is decorated with fresh strawberries on top.",
+          "zh": "這個蛋糕有三層巧克力，上面用新鮮草莓裝飾。"
+        },
+        {
+          "en": "Visitors to the mountain should wear several layers of clothing because the weather changes quickly.",
+          "zh": "上山的遊客應該穿好幾層衣服，因為天氣變化很快。"
+        },
+        {
+          "en": "Each package is protected by two layers of bubble wrap to prevent damage during delivery.",
+          "zh": "每個包裹都用兩層氣泡紙保護，避免運送中損壞。"
+        },
+        {
+          "en": "The new window design uses three layers of glass to keep the office quiet and warm.",
+          "zh": "新的窗戶設計用了三層玻璃，讓辦公室安靜又保暖。"
+        },
+        {
+          "en": "Our management structure has only two layers, so important decisions can be made much more quickly.",
+          "zh": "我們的管理架構只有兩層，所以重要決定可以快很多。"
+        }
+      ],
+      "distractors": [
+        "players",
+        "lawyers",
+        "slayers"
+      ],
+      "note": "layer＝一層：a layer of dust（一層灰）、layers of clothing（多層衣服，洋蔥式穿法）。也可以當動詞「一層一層疊」：layer the vegetables。抽象用法：layers of management（管理層級）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
