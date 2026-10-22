@@ -41,6 +41,10 @@
 
 做法：修改 `inbox.json` → 檢查是合法 JSON（`python3 -m json.tool inbox.json`）→ commit，說明用繁體中文，例如「新增單字：diligent、postpone」→ push 到 `main`。完成後告訴主人：等 1 分鐘，打開 App（或按左上角重新整理）就會看到「已加入 N 個新字」。
 
+## 英語口說練習
+
+`speaking/` 這個資料夾是另一個小功能：用瀏覽器內建的語音功能陪主人練習英文口說，說完一輪後請 Gemini 糾正、接著聊。細節、重要決定（為什麼沒有用 Firebase Cloud Function）跟已知的 iPhone 限制，都寫在 `speaking/CLAUDE.md`，改這個功能前先看那份。
+
 ## 其他
 
 - 不公開的備份空間是 `goodneighborrrr/eq-vocab-app`，App 的檔案兩邊要保持一致。

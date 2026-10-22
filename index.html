@@ -934,6 +934,7 @@ function openBank(){
         <div class="row"><button class="ghost" type="submit">儲存通行碼</button>${hasKey ? `<span class="tag">已設定</span>` : `<span class="tag plain">尚未設定</span>`}</div>
       </form>
       <div class="row" style="justify-content:space-between"><span style="font-size:13px;color:var(--muted)">已登入：${escapeHtml(auth.currentUser?.email || "")}</span><button class="ghost" id="logout">登出</button></div>
+      <a class="linkbtn" href="speaking/" style="justify-self:start">前往英語口說練習 →</a>
     </section>`);
   bankOpen = true;
   const draw = () => {
