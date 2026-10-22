@@ -408,7 +408,7 @@ function distractorsFor(w){
   const used = new Set([w.word.toLowerCase()]);
   const out = [];
   const take = list => { for (const x of list){ const v = String(x).trim(); if (!v || used.has(v.toLowerCase())) continue; used.add(v.toLowerCase()); out.push(v); if (out.length === 3) return true; } return false; };
-  const others = Store.words.filter(x => x.id !== w.id && !tooClose(w, x));
+  const others = Store.words.filter(x => x.id !== w.id && !tooClose(w, x) && !/^[A-Z]/.test(x.word));   // 地名、人名（大寫開頭）可以當形容詞用，容易也說得通，不拿來當錯的選項
   take(shuffle(others.filter(x => x.pos === w.pos)).map(x => x.word))
     || take(shuffle(w.distractors))
     || take(shuffle(others).map(x => x.word))
