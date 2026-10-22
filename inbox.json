@@ -5338,6 +5338,41 @@
       ],
       "note": "layer＝一層：a layer of dust（一層灰）、layers of clothing（多層衣服，洋蔥式穿法）。也可以當動詞「一層一層疊」：layer the vegetables。抽象用法：layers of management（管理層級）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-established",
+      "word": "established",
+      "pos": "動詞",
+      "meaning": "建立；成立；確立（地位）（establish 的過去式／過去分詞）",
+      "sentences": [
+        {
+          "en": "Within ten years, the company has established itself as one of the country's top furniture manufacturers.",
+          "zh": "短短十年內，這家公司已經成為國內頂尖的家具製造商之一。"
+        },
+        {
+          "en": "The hotel was established in 1925 and is still run by the same family today.",
+          "zh": "這間飯店創立於 1925 年，到今天仍由同一個家族經營。"
+        },
+        {
+          "en": "Ms. Park quickly established a good relationship with several of our biggest clients in Japan and Korea.",
+          "zh": "朴小姐很快就和我們在日本、韓國的幾位大客戶建立了良好關係。"
+        },
+        {
+          "en": "The firm has established offices in five Asian cities to support its growing number of customers.",
+          "zh": "這家公司在五個亞洲城市設立了辦公室，服務越來越多的客戶。"
+        },
+        {
+          "en": "Clear safety rules were established for all workers after the accident at the factory last spring.",
+          "zh": "去年春天工廠發生意外後，為所有工人訂立了清楚的安全規定。"
+        }
+      ],
+      "distractors": [
+        "exhausted",
+        "escalated",
+        "estimated"
+      ],
+      "note": "establish＝建立、成立（公司、關係、規則）。establish oneself as＝讓自己成為、確立地位（has established itself as a top brand）。名詞 establishment（建立；機構、店家）。也常當形容詞：an established company（老字號、有規模的公司）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
