@@ -5128,6 +5128,41 @@
       ],
       "note": "shortcoming＝缺點、不足，比 weakness 正式一點，常用在產品、計畫、系統或人的能力。同義詞：weakness、flaw、drawback。注意 shortage 是「短缺、不夠用」（例如缺貨、缺人），不是缺點。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-venue",
+      "word": "venue",
+      "pos": "名詞",
+      "meaning": "（活動、會議、比賽的）場地；舉辦地點",
+      "sentences": [
+        {
+          "en": "The hotel's grand ballroom has been chosen as the venue for this year's awards banquet.",
+          "zh": "飯店的大宴會廳被選為今年頒獎晚宴的場地。"
+        },
+        {
+          "en": "We need to find a larger venue because more than five hundred people have registered for the seminar.",
+          "zh": "有五百多人報名研討會，所以我們需要找更大的場地。"
+        },
+        {
+          "en": "Please arrive at the venue at least thirty minutes early to set up your company's booth.",
+          "zh": "請至少提早三十分鐘到場地，布置貴公司的攤位。"
+        },
+        {
+          "en": "The concert venue is easy to reach by subway and has a large parking lot nearby.",
+          "zh": "演唱會場地搭捷運很方便，附近還有大型停車場。"
+        },
+        {
+          "en": "Due to the typhoon warning, the outdoor wedding was moved to an indoor venue near the beach.",
+          "zh": "因為颱風警報，戶外婚禮改到海邊附近的室內場地舉行。"
+        }
+      ],
+      "distractors": [
+        "revenue",
+        "venture",
+        "valve"
+      ],
+      "note": "venue 是「舉辦活動的地點」，會議、演唱會、婚禮、比賽都可以用：wedding venue（婚禮場地）、concert venue（演唱會場地）。和 location 的差別：location 是一般的「位置」，venue 一定跟活動有關。長很像的字：avenue（大道）、revenue（營收）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
