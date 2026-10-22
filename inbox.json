@@ -5443,6 +5443,41 @@
       ],
       "note": "mandatory＝規定一定要做的，同義詞 compulsory、required、obligatory。相反詞：optional（可選擇的）、voluntary（自願的）。多益常見：mandatory training（強制訓練）、attendance is mandatory（一定要出席）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-proofread",
+      "word": "proofread",
+      "pos": "動詞",
+      "meaning": "校對；校稿（檢查錯字和文法）",
+      "sentences": [
+        {
+          "en": "Please proofread the brochure carefully before we send it to the printing company on Friday morning.",
+          "zh": "週五早上送印刷廠之前，請仔細校對這份宣傳手冊。"
+        },
+        {
+          "en": "Ms. Lin asked her assistant to proofread the sales contract for any spelling and grammar mistakes.",
+          "zh": "林小姐請助理校對銷售合約，檢查有沒有拼字和文法錯誤。"
+        },
+        {
+          "en": "All articles must be proofread by at least two editors before they are published online.",
+          "zh": "所有文章上網發布前，都必須經過至少兩位編輯校對。"
+        },
+        {
+          "en": "It is a good idea to proofread your résumé several times before applying for a job.",
+          "zh": "應徵工作前，最好把履歷多校對幾次。"
+        },
+        {
+          "en": "The marketing team hired a freelancer to proofread the English version of the company website.",
+          "zh": "行銷團隊請了一位自由工作者校對公司網站的英文版。"
+        }
+      ],
+      "distractors": [
+        "proclaim",
+        "prolong",
+        "provoke"
+      ],
+      "note": "proofread＝proof（校樣、印刷前的樣稿）＋read（讀），也就是「印刷或發布前，仔細看一遍挑錯」。三態都一樣：proofread–proofread–proofread（後兩個唸 red）。做校對的人叫 proofreader。相近：edit（編輯，會改內容），proofread 只挑錯字、文法、格式。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
