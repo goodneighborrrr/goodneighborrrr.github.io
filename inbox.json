@@ -5373,6 +5373,41 @@
       ],
       "note": "establish＝建立、成立（公司、關係、規則）。establish oneself as＝讓自己成為、確立地位（has established itself as a top brand）。名詞 establishment（建立；機構、店家）。也常當形容詞：an established company（老字號、有規模的公司）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-belongings",
+      "word": "belongings",
+      "pos": "名詞",
+      "meaning": "隨身物品；個人財物；行李",
+      "sentences": [
+        {
+          "en": "Passengers are reminded to take all their personal belongings with them when leaving the train.",
+          "zh": "提醒乘客下車時帶走所有隨身物品。"
+        },
+        {
+          "en": "Please do not leave your belongings unattended in the hotel lobby or the waiting area.",
+          "zh": "請不要把隨身物品放在飯店大廳或等候區無人看管。"
+        },
+        {
+          "en": "The company is not responsible for any lost belongings left in the meeting rooms after the event.",
+          "zh": "活動結束後留在會議室的遺失物品，公司恕不負責。"
+        },
+        {
+          "en": "Employees can store their belongings in the free lockers located next to the staff entrance on the first floor.",
+          "zh": "員工可以把個人物品放在一樓員工入口旁的免費置物櫃。"
+        },
+        {
+          "en": "After the move, it took Mr. Chen two weeks to unpack all of his belongings at the new apartment.",
+          "zh": "搬家後，陳先生花了兩個禮拜才把新公寓裡所有的東西拆箱整理好。"
+        }
+      ],
+      "distractors": [
+        "blessings",
+        "longings",
+        "beginnings"
+      ],
+      "note": "belongings 永遠用複數，指「屬於你的東西」：personal belongings（隨身物品）。來自動詞 belong to（屬於）。車站、飛機、飯店廣播超常見：Please take all your belongings with you.（請帶走您的隨身物品）。相近：possessions（財產，比較正式）、stuff（東西，口語）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
