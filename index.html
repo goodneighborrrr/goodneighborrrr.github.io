@@ -163,7 +163,10 @@ textarea{resize:vertical;min-height:72px;line-height:1.5}
 
 /* bank */
 .banklist{list-style:none;margin:12px 0 0;padding:0}
-.bankitem{width:100%;display:grid;grid-template-columns:1fr 92px;gap:2px 14px;align-items:center;text-align:left;padding:12px 4px;border:0;border-bottom:1px solid var(--line);background:none}
+.banklist li.sw{position:relative;overflow:hidden;border-bottom:1px solid var(--line)}
+.banklist .delbtn{position:absolute;top:0;right:0;bottom:0;width:88px;border:0;background:var(--wrong);color:#fff;font-weight:700;font-size:15px}
+.bankitem{position:relative;z-index:1;width:100%;display:grid;grid-template-columns:1fr 92px;gap:2px 14px;align-items:center;text-align:left;padding:12px 4px;border:0;background:var(--paper);touch-action:pan-y;transition:transform .2s ease}
+.bankitem.dragging{transition:none}
 .bankitem:hover{background:var(--card)}
 .bankitem .top{display:flex;flex-wrap:wrap;align-items:baseline;gap:4px 8px;min-width:0}
 .bankitem .w{font-family:var(--font-en);font-weight:600;font-size:17px;overflow-wrap:anywhere}
@@ -176,6 +179,7 @@ textarea{resize:vertical;min-height:72px;line-height:1.5}
 .meter{height:4px;border-radius:2px;background:var(--line);margin-top:4px;overflow:hidden}
 .meter i{display:block;height:100%;background:var(--wrong)}
 .chips{display:flex;gap:6px;flex-wrap:wrap}
+.toast button{margin-left:12px;border:0;background:none;color:var(--leaf);font-weight:700;font-size:14px;padding:0}
 .toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:10px 18px;border-radius:999px;font-size:14px;z-index:60;max-width:calc(100% - 32px);text-align:center;animation:rise .2s ease}
 .signed-out .barrow > *, .signed-out .progress{visibility:hidden}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
@@ -699,9 +703,11 @@ function closeSheet(){
 }
 sheet.addEventListener("click", e => { if (e.target === sheet) closeSheet(); });
 
-function toast(msg){
-  const t = document.createElement("div"); t.className = "toast"; t.textContent = msg; document.body.appendChild(t);
-  setTimeout(() => t.remove(), 2600);
+function toast(msg, action){
+  const t = document.createElement("div"); t.className = "toast"; t.textContent = msg;
+  if (action){ const b = document.createElement("button"); b.textContent = action.label; b.onclick = () => { t.remove(); action.run(); }; t.appendChild(b); }
+  document.body.appendChild(t);
+  setTimeout(() => t.remove(), action ? 5000 : 2600);
 }
 
 /* ---------- 新增 / 修改單字 ---------- */
@@ -924,7 +930,7 @@ function openBank(){
   openSheet(`
     <div class="phead"><h2>單字庫 <span class="tag plain" style="vertical-align:middle">${list.length} 個字</span></h2><button class="x" aria-label="關閉">×</button></div>
     <div class="row"><input type="text" id="bankSearch" class="grow" placeholder="搜尋英文或中文" value="${escapeHtml(bankQuery)}" aria-label="搜尋單字"></div>
-    <p style="font-size:13px;color:var(--muted);margin:10px 0 0">錯誤率高的排在最上面。複習中的字：<b style="color:var(--ink)">${reviewing}</b> 個，點單字可以修改或刪除。</p>
+    <p style="font-size:13px;color:var(--muted);margin:10px 0 0">錯誤率高的排在最上面。複習中的字：<b style="color:var(--ink)">${reviewing}</b> 個，點單字可以修改，往左滑可以刪除。</p>
     <ul class="banklist" id="bankList"></ul>
     <section class="stack" style="margin-top:28px;padding-top:18px;border-top:1px solid var(--line)">
       <h2 style="margin:0;font-size:16px">設定</h2>
@@ -942,14 +948,53 @@ function openBank(){
     const shown = q ? list.filter(w => w.word.toLowerCase().includes(q) || w.meaning.includes(q)) : list;
     $("#bankList").innerHTML = shown.length ? shown.map(w => {
       const r = errRate(w);
-      return `<li><button class="bankitem" data-id="${w.id}">
+      return `<li class="sw"><button class="delbtn" data-del="${w.id}" tabindex="-1">刪除</button><button class="bankitem" data-id="${w.id}">
         <span class="top"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span>
           ${w.review.active ? `<span class="tag warn">複習中 ${w.review.streak}/${STREAK_TO_CLEAR}</span>` : ""}</span>
         <span class="m">${escapeHtml(w.meaning)}</span>
         <span class="rate">${r < 0 ? `<b>—</b><span>還沒考過</span>` : `<b class="${r >= .5 ? "hi" : ""}">${Math.round(r * 100)}%</b><span>錯 ${w.stats.wrong} / 答 ${w.stats.attempts}</span><span class="meter"><i style="width:${Math.round(r * 100)}%"></i></span>`}</span>
       </button></li>`; }).join("") : `<li class="empty" style="padding:28px 0">${list.length ? "找不到符合的單字" : "還沒有單字"}</li>`;
-    panel.querySelectorAll(".bankitem").forEach(b => b.onclick = () => { bankOpen = true; openEditor(wordById(b.dataset.id)); });
+    panel.querySelectorAll(".bankitem").forEach(b => {
+      b.onclick = () => { if (b.dataset.moved === "1") return; if (b.dataset.open === "1"){ closeSwipe(b); return; } bankOpen = true; openEditor(wordById(b.dataset.id)); };
+      attachSwipe(b);
+    });
+    panel.querySelectorAll(".delbtn").forEach(d => d.onclick = () => {
+      const w = wordById(d.dataset.del); if (!w) return;
+      const copy = JSON.parse(JSON.stringify(Store.clean(w)));
+      Store.remove(w.id);
+      const i = list.indexOf(w); if (i >= 0) list.splice(i, 1);
+      S.round = S.round.filter((q, k) => q.id !== w.id || k < S.i);
+      draw(); updateCount();
+      panel.querySelector(".phead h2 .tag").textContent = `${list.length} 個字`;
+      toast(`已刪除 ${w.word}`, { label: "復原", run: () => { const back = normalizeWord(copy); Store.add(back); list.push(back); draw(); updateCount(); panel.querySelector(".phead h2 .tag").textContent = `${list.length} 個字`; toast(`已復原 ${back.word}`); } });
+    });
   };
+  // 往左滑露出「刪除」按鈕（像 iPhone 的郵件）
+  const OPEN_X = -88;
+  function closeSwipe(b){ b.style.transform = ""; b.dataset.open = "0"; setTimeout(() => { b.dataset.moved = "0"; }, 0); }
+  function attachSwipe(b){
+    let x0 = 0, y0 = 0, dx = 0, base = 0, mode = "";
+    b.addEventListener("touchstart", e => {
+      panel.querySelectorAll('.bankitem[data-open="1"]').forEach(o => { if (o !== b) closeSwipe(o); });
+      const t = e.touches[0]; x0 = t.clientX; y0 = t.clientY; dx = 0; mode = ""; base = b.dataset.open === "1" ? OPEN_X : 0;
+    }, { passive: true });
+    b.addEventListener("touchmove", e => {
+      const t = e.touches[0], mx = t.clientX - x0, my = t.clientY - y0;
+      if (!mode) mode = Math.abs(mx) > 8 && Math.abs(mx) > Math.abs(my) ? "x" : (Math.abs(my) > 8 ? "y" : "");
+      if (mode !== "x") return;
+      e.preventDefault(); dx = mx; b.dataset.moved = "1";
+      b.classList.add("dragging");
+      b.style.transform = `translateX(${Math.min(0, Math.max(OPEN_X * 1.5, base + dx))}px)`;
+    }, { passive: false });
+    b.addEventListener("touchend", () => {
+      b.classList.remove("dragging");
+      if (mode !== "x"){ return; }
+      const end = base + dx;
+      if (end < OPEN_X / 2){ b.style.transform = `translateX(${OPEN_X}px)`; b.dataset.open = "1"; }
+      else { b.style.transform = ""; b.dataset.open = "0"; }
+      setTimeout(() => { b.dataset.moved = "0"; }, 50);
+    });
+  }
   draw();
   $("#bankSearch").oninput = e => { bankQuery = e.target.value; draw(); };
   $("#keyForm").addEventListener("submit", async e => {
