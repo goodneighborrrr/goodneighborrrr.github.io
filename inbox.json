@@ -5408,6 +5408,41 @@
       ],
       "note": "belongings 永遠用複數，指「屬於你的東西」：personal belongings（隨身物品）。來自動詞 belong to（屬於）。車站、飛機、飯店廣播超常見：Please take all your belongings with you.（請帶走您的隨身物品）。相近：possessions（財產，比較正式）、stuff（東西，口語）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-mandatory",
+      "word": "mandatory",
+      "pos": "形容詞",
+      "meaning": "強制的；義務的；一定要做的",
+      "sentences": [
+        {
+          "en": "Attendance at the safety training session is mandatory for all new factory employees starting next Monday.",
+          "zh": "從下週一開始，所有工廠新進員工都必須參加安全訓練課。"
+        },
+        {
+          "en": "Wearing a helmet is mandatory in the construction area at all times, even for short visits.",
+          "zh": "在工地區域隨時都必須戴安全帽，就算只是短暫參觀也一樣。"
+        },
+        {
+          "en": "The company introduced a mandatory retirement age of sixty-five for all of its full-time staff members.",
+          "zh": "公司為所有全職員工訂了六十五歲強制退休的規定。"
+        },
+        {
+          "en": "Please note that it is mandatory to show a valid ID when picking up your package.",
+          "zh": "請注意，領取包裹時一定要出示有效證件。"
+        },
+        {
+          "en": "All drivers must complete a mandatory rest period of thirty minutes after every four hours of driving.",
+          "zh": "所有司機每開四小時，都必須強制休息三十分鐘。"
+        }
+      ],
+      "distractors": [
+        "monetary",
+        "momentary",
+        "migratory"
+      ],
+      "note": "mandatory＝規定一定要做的，同義詞 compulsory、required、obligatory。相反詞：optional（可選擇的）、voluntary（自願的）。多益常見：mandatory training（強制訓練）、attendance is mandatory（一定要出席）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
