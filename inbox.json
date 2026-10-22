@@ -4953,6 +4953,41 @@
       ],
       "note": "wing 原本是「翅膀」，就像鳥的翅膀從身體往兩邊延伸，大樓從主體延伸出去的一側就叫 wing：east wing（東側翼、東棟）。醫院、飯店、博物館很常用。雞翅也是 chicken wings。",
       "addedAt": "2026-10-21"
+    },
+    {
+      "id": "20261022-rival",
+      "word": "rival",
+      "pos": "名詞",
+      "meaning": "競爭對手；對手；（形容詞）競爭的",
+      "sentences": [
+        {
+          "en": "Our main rival lowered its prices last week, so we need to rethink our sales strategy.",
+          "zh": "我們的主要競爭對手上週降價了，所以我們需要重新思考銷售策略。"
+        },
+        {
+          "en": "The new smartphone from our biggest rival has already sold more than one million units in Asia.",
+          "zh": "我們最大競爭對手的新手機，在亞洲已經賣出一百多萬支。"
+        },
+        {
+          "en": "Ms. Kang left her position to join a rival firm that offered her a higher salary.",
+          "zh": "康小姐離職，跳槽到一家給她更高薪水的競爭對手公司。"
+        },
+        {
+          "en": "To stay ahead of every rival in the market, the company invests heavily in research and design.",
+          "zh": "為了在市場上領先所有競爭對手，公司大量投資研發和設計。"
+        },
+        {
+          "en": "The local coffee shop has struggled since a large rival opened a store across the street.",
+          "zh": "自從一家大型競爭對手在對街開店後，這家在地咖啡店就經營得很辛苦。"
+        }
+      ],
+      "distractors": [
+        "arrival",
+        "revival",
+        "river"
+      ],
+      "note": "rival 和 competitor 意思很像，都是競爭對手。rival 常帶有「實力差不多、彼此較勁」的感覺，也可以放在名詞前面當形容詞：a rival company（對手公司）。長很像的字：arrival（抵達）、revival（復甦）。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
