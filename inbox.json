@@ -5233,6 +5233,41 @@
       ],
       "note": "advertisement 的拼法：advertise（打廣告，動詞）＋ment。口語常縮寫成 ad 或 advert（英式）。相關字：advertising（廣告業；廣告活動）、advertiser（廣告主）。多益常見：job advertisement（徵才廣告）、place an advertisement（刊登廣告）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-mattresses",
+      "word": "mattresses",
+      "pos": "名詞",
+      "meaning": "床墊（mattress 的複數）",
+      "sentences": [
+        {
+          "en": "Our furniture store is offering thirty percent off all mattresses and bed frames this weekend only.",
+          "zh": "我們家具店只有這個週末，所有床墊和床架都打七折。"
+        },
+        {
+          "en": "The hotel replaced the old mattresses in every guest room last month to improve customer comfort and reviews.",
+          "zh": "飯店上個月把每間客房的舊床墊都換掉，提升房客的舒適度和評價。"
+        },
+        {
+          "en": "Customers can try our mattresses in the showroom for as long as they like before buying.",
+          "zh": "顧客購買前可以在展示間盡情試躺我們的床墊。"
+        },
+        {
+          "en": "The delivery fee for large items such as mattresses and sofas is included in the price.",
+          "zh": "床墊和沙發這類大型商品的運費已經包含在價格裡。"
+        },
+        {
+          "en": "All of our mattresses come with a ten-year warranty and free removal of your old bed.",
+          "zh": "我們所有床墊都有十年保固，還免費幫你回收舊床。"
+        }
+      ],
+      "distractors": [
+        "mattocks",
+        "matters",
+        "molasses"
+      ],
+      "note": "mattress 是床上那塊「床墊」，複數加 -es：mattresses。相關字：bed frame（床架）、pillow（枕頭）、sheet（床單）、comforter／duvet（棉被）。拼法注意兩個 t、兩個 s：ma-tt-re-ss。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
