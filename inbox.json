@@ -5163,6 +5163,41 @@
       ],
       "note": "venue 是「舉辦活動的地點」，會議、演唱會、婚禮、比賽都可以用：wedding venue（婚禮場地）、concert venue（演唱會場地）。和 location 的差別：location 是一般的「位置」，venue 一定跟活動有關。長很像的字：avenue（大道）、revenue（營收）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-napkins",
+      "word": "napkins",
+      "pos": "名詞",
+      "meaning": "餐巾；餐巾紙（napkin 的複數）",
+      "sentences": [
+        {
+          "en": "The waiter brought us extra napkins after the children spilled their juice on the table.",
+          "zh": "小孩把果汁打翻在桌上後，服務生多拿了一些餐巾紙給我們。"
+        },
+        {
+          "en": "Our café switched to recycled paper napkins last month to reduce waste and lower its costs.",
+          "zh": "我們咖啡店上個月改用回收紙做的餐巾紙，減少浪費也降低成本。"
+        },
+        {
+          "en": "For the banquet, the cloth napkins should be folded neatly and placed on top of each plate.",
+          "zh": "晚宴的布餐巾要摺整齊，放在每個盤子上面。"
+        },
+        {
+          "en": "Please restock the napkins and plastic forks at the self-service counter before the lunch rush begins.",
+          "zh": "午餐尖峰時段開始前，請把自助區的餐巾紙和塑膠叉子補滿。"
+        },
+        {
+          "en": "Customers can find straws, napkins, and sugar packets on the small table next to the cashier.",
+          "zh": "顧客可以在收銀台旁邊的小桌子上拿吸管、餐巾紙和糖包。"
+        }
+      ],
+      "distractors": [
+        "pumpkins",
+        "nickels",
+        "catkins"
+      ],
+      "note": "napkin 是吃飯時擦嘴、擦手用的餐巾，可以是紙的（paper napkin）或布的（cloth napkin）。英式也常說 serviette。tissue 是一般的「面紙、衛生紙」，不是餐桌專用。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
