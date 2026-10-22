@@ -123,6 +123,7 @@ main{padding-block:20px 48px}
 .score .big{font-family:var(--font-mono);font-size:56px;line-height:1;font-variant-numeric:tabular-nums}
 .score .big small{font-size:24px;color:var(--muted)}
 .score p{margin:8px 0 0;color:var(--muted)}
+.score .cyc{font-size:13px}
 .list{list-style:none;margin:20px 0 0;padding:0;border-top:1px solid var(--line)}
 .list li{display:grid;grid-template-columns:1fr auto;gap:2px 12px;padding:12px 2px;border-bottom:1px solid var(--line);min-width:0}
 .list .w{font-family:var(--font-en);font-weight:600;font-size:17px;overflow-wrap:anywhere}
@@ -332,25 +333,44 @@ function periodsSince(ms){
 function overdue(w){ return periodsSince(w.stats.lastSeen) / gapOf(w); }   // ≥ 1 代表該考了
 function errRateOf(w){ return w.stats.attempts ? w.stats.wrong / w.stats.attempts : 0; }
 
+/* 輪替：每個字都答對過一次，才開始下一輪；這一輪答對過的字先不考（答錯的照複習規則處理） */
+function cycleNo(){ return +(Store.settings && Store.settings.cycle) || 1; }
+function doneThisCycle(w, cyc = cycleNo()){ return w.stats.doneCycle === cyc; }
+function cycleProgress(){
+  const usable = Store.words.filter(w => w.sentences.length);
+  return { done: usable.filter(w => doneThisCycle(w)).length, total: usable.length };
+}
+
 function buildRound(){
   const key = periodKey();
   const size = roundSize();
   const usable = Store.words.filter(w => w.sentences.length);
   const wrongToday = w => w.review.active && !isDue(w, key);               // 今天答錯的，今天不再考
+  // 這一輪的字都答對過了，就開始新的一輪
+  let cyc = cycleNo();
+  const pool = usable.filter(w => !wrongToday(w));
+  if (pool.length && pool.every(w => doneThisCycle(w, cyc))){
+    cyc += 1; Store.settings.cycle = cyc; Store.saveSettings({ cycle: cyc });
+  }
+  const done = w => doneThisCycle(w, cyc);
   // 1. 答錯過、今天該複習的字：最優先
   const review = shuffle(usable.filter(w => isDue(w, key)));
   const taken = new Set(review);
+  const open = w => !taken.has(w) && !wrongToday(w) && !done(w);          // 這一輪還沒答對過的字
   // 2. 時間到了該考的字：越久沒考、錯誤率越高、越不熟的越前面
-  const ready = usable.filter(w => !taken.has(w) && !wrongToday(w) && !mastered(w) && w.stats.attempts && overdue(w) >= 1)
+  const ready = usable.filter(w => open(w) && !mastered(w) && w.stats.attempts && overdue(w) >= 1)
     .sort((a, b) => (overdue(b) + errRateOf(b) * 2) - (overdue(a) + errRateOf(a) * 2) || levelOf(a) - levelOf(b));
   // 3. 還沒考過的新字
-  const fresh = shuffle(usable.filter(w => !taken.has(w) && !w.stats.attempts));
-  // 4. 還沒到時間的字（題數不夠時才用來補）：最快要到期、最不熟的先補
-  const later = usable.filter(w => !taken.has(w) && !wrongToday(w) && !mastered(w) && w.stats.attempts && overdue(w) < 1)
+  const fresh = shuffle(usable.filter(w => open(w) && !w.stats.attempts));
+  // 4. 還沒到時間的字：最快要到期、最不熟的先
+  const later = usable.filter(w => open(w) && !mastered(w) && w.stats.attempts && overdue(w) < 1)
     .sort((a, b) => overdue(b) - overdue(a) || levelOf(a) - levelOf(b));
+  // 5. 已經連續答對 3 次的熟字：這一輪的最後面，越久沒考的先
+  const known = usable.filter(w => open(w) && mastered(w)).sort((a, b) => a.stats.lastSeen - b.stats.lastSeen);
+  // 6. 這一輪已經答對過的字：只有題數不夠時才補（熟字最後、越久沒考的先）
+  const again = usable.filter(w => !taken.has(w) && !wrongToday(w) && done(w))
+    .sort((a, b) => (mastered(a) - mastered(b)) || a.stats.lastSeen - b.stats.lastSeen);
   const today = shuffle(usable.filter(w => !taken.has(w) && wrongToday(w)));
-  // 5. 已經連續答對 3 次的熟字：排在最後面，題數不夠才拿來補，越久沒考的先補
-  const known = usable.filter(w => !taken.has(w) && !wrongToday(w) && mastered(w)).sort((a, b) => a.stats.lastSeen - b.stats.lastSeen);
 
   const picked = review.slice(0, size);
   const room = () => size - picked.length;
@@ -362,6 +382,7 @@ function buildRound(){
   picked.push(...ready.slice(readyTake.length, readyTake.length + room()));
   picked.push(...later.slice(0, room()));
   picked.push(...known.slice(0, room()));
+  picked.push(...again.slice(0, room()));
   picked.push(...today.slice(0, room()));
   return shuffle(picked).map(buildQuestion);
 }
@@ -414,6 +435,7 @@ function recordAnswer(w, ok){
   const lv = levelOf(w), run0 = runOf(w);
   w.stats.attempts++; w.stats.lastSeen = Date.now();
   w.stats.run = ok ? run0 + 1 : 0;
+  w.stats.doneCycle = ok ? cycleNo() : 0;                                  // 這一輪答對過了，下一回先不考
   if (!ok){ w.stats.level = 0; w.stats.levelKey = key; }
   else if (w.stats.levelKey !== key){ w.stats.level = lv + 1; w.stats.levelKey = key; }   // 同一天答對很多次只升一級
   else w.stats.level = lv;
@@ -600,7 +622,8 @@ function renderResults(){
   const wrongs = S.round.filter(q => q.picked !== q.correct).map(q => wordById(q.id)).filter(Boolean);
   main.innerHTML = `
     <div class="score"><div class="big">${right}<small> / ${S.round.length}</small></div>
-      <p>${right === S.round.length ? "全部答對，太厲害了！" : `答錯 ${wrongs.length} 題，這些字明天會再考你一次。`}</p></div>
+      <p>${right === S.round.length ? "全部答對，太厲害了！" : `答錯 ${wrongs.length} 題，這些字明天會再考你一次。`}</p>
+      <p class="cyc">第 ${cycleNo()} 輪：已答對 ${cycleProgress().done} / ${cycleProgress().total} 個字${cycleProgress().done >= cycleProgress().total ? "，下一回開始新的一輪" : ""}</p></div>
     ${wrongs.length ? `<ul class="list">${wrongs.map(w => `<li><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="tag warn">${escapeHtml(w.pos)}</span><span class="m">${escapeHtml(w.meaning)}</span></li>`).join("")}</ul>` : ""}
     <div class="segc">${segHtml()}</div>
     <button class="primary" id="again" style="margin-top:4px">再來一回</button>
