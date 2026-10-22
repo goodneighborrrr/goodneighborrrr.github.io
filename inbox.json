@@ -4988,6 +4988,146 @@
       ],
       "note": "rival 和 competitor 意思很像，都是競爭對手。rival 常帶有「實力差不多、彼此較勁」的感覺，也可以放在名詞前面當形容詞：a rival company（對手公司）。長很像的字：arrival（抵達）、revival（復甦）。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-profitability",
+      "word": "profitability",
+      "pos": "名詞",
+      "meaning": "獲利能力；盈利",
+      "sentences": [
+        {
+          "en": "The new manager's main goal is to improve the profitability of our stores in southern Taiwan.",
+          "zh": "新經理的主要目標，是提升我們南台灣門市的獲利能力。"
+        },
+        {
+          "en": "Lower shipping costs helped increase the company's profitability by nearly ten percent during the last fiscal year.",
+          "zh": "運費降低，讓公司上個會計年度的獲利提升了將近一成。"
+        },
+        {
+          "en": "Before opening a new branch, the board carefully studied the long-term profitability of the location.",
+          "zh": "開新分店前，董事會仔細研究了那個地點的長期獲利能力。"
+        },
+        {
+          "en": "Many airlines are cutting unprofitable routes in order to return to profitability after a difficult year.",
+          "zh": "經歷艱難的一年後，很多航空公司砍掉賠錢的航線，好讓公司重新獲利。"
+        },
+        {
+          "en": "The consultant suggested reducing waste in the factory as a simple way to boost profitability.",
+          "zh": "顧問建議減少工廠的浪費，這是提升獲利的簡單方法。"
+        }
+      ],
+      "distractors": [
+        "probability",
+        "portability",
+        "possibility"
+      ],
+      "note": "profitability＝profit（利潤）＋able（能夠）＋ity（名詞），也就是「賺錢的能力」。形容詞 profitable（賺錢的、有利潤的），相反詞 unprofitable（賠錢的）。長很像的字：probability（機率）。",
+      "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-utilizing",
+      "word": "utilizing",
+      "pos": "動詞",
+      "meaning": "利用；使用（utilize 的 -ing 形）",
+      "sentences": [
+        {
+          "en": "By utilizing online meeting tools, our team has cut travel costs by more than half this year.",
+          "zh": "今年我們團隊利用線上會議工具，把差旅費砍了一半以上。"
+        },
+        {
+          "en": "The factory is utilizing solar panels on its roof to reduce electricity bills during the summer.",
+          "zh": "工廠利用屋頂上的太陽能板，在夏天減少電費。"
+        },
+        {
+          "en": "We are utilizing customer feedback to improve the design and packaging of our next product line.",
+          "zh": "我們正在利用顧客意見，改善下一系列產品的設計和包裝。"
+        },
+        {
+          "en": "The hotel saves space by utilizing the basement as a storage area for extra furniture.",
+          "zh": "飯店把地下室拿來當多餘家具的倉庫，節省空間。"
+        },
+        {
+          "en": "Utilizing the latest software, the accounting team can now finish monthly reports in just two days.",
+          "zh": "會計團隊利用最新的軟體，現在只要兩天就能完成月報。"
+        }
+      ],
+      "distractors": [
+        "uttering",
+        "unifying",
+        "idolizing"
+      ],
+      "note": "utilize＝use（使用），但更正式，強調「有效地利用、善用」，多益和商業文件很常見。名詞 utilization（利用率）。口語用 use 就好。",
+      "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-address",
+      "word": "address",
+      "pos": "動詞",
+      "meaning": "處理；解決（問題）；向……致詞；寫地址",
+      "sentences": [
+        {
+          "en": "To address this shortcoming, the company will hire two more customer service representatives next month.",
+          "zh": "為了解決這個不足，公司下個月會多請兩位客服人員。"
+        },
+        {
+          "en": "The manager held a meeting to address employees' concerns about the new work schedule and overtime rules.",
+          "zh": "經理開了一場會，處理員工對新班表和加班規定的疑慮。"
+        },
+        {
+          "en": "Our technical team is working hard to address the problems with the online payment system.",
+          "zh": "我們的技術團隊正在努力處理線上付款系統的問題。"
+        },
+        {
+          "en": "The CEO will address all of the shareholders at the annual general meeting on Friday afternoon.",
+          "zh": "執行長將在週五下午的年度股東大會上向全體股東致詞。"
+        },
+        {
+          "en": "The new policy was created to address complaints about long waiting times at the service counter.",
+          "zh": "這項新政策是為了處理服務櫃檯等候時間太長的抱怨。"
+        }
+      ],
+      "distractors": [
+        "adhere",
+        "addict",
+        "undress"
+      ],
+      "note": "address 當名詞是「地址」，但多益更常考動詞：①處理、解決（address a problem／concern／issue）②向群眾致詞（address the audience）。同義詞：deal with、handle。",
+      "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261022-shortcoming",
+      "word": "shortcoming",
+      "pos": "名詞",
+      "meaning": "缺點；不足之處",
+      "sentences": [
+        {
+          "en": "To address this shortcoming, the company will offer extra training to all new sales staff.",
+          "zh": "為了改善這個不足，公司會給所有新進業務人員額外的訓練。"
+        },
+        {
+          "en": "The main shortcoming of the new software is that it does not work well on older computers.",
+          "zh": "新軟體的主要缺點是在舊電腦上跑不太順。"
+        },
+        {
+          "en": "The report pointed out one serious shortcoming in our delivery system: orders often arrive late.",
+          "zh": "報告指出我們配送系統的一個嚴重問題：訂單常常晚到。"
+        },
+        {
+          "en": "Every product has at least one shortcoming, so we should listen carefully to customer feedback.",
+          "zh": "每個產品至少都有一個缺點，所以我們應該仔細聽顧客的意見。"
+        },
+        {
+          "en": "Ms. Wu admitted that her biggest shortcoming as a manager was not delegating enough work.",
+          "zh": "吳小姐承認，她當主管最大的缺點是不太會把工作分派出去。"
+        }
+      ],
+      "distractors": [
+        "homecoming",
+        "oncoming",
+        "shorthand"
+      ],
+      "note": "shortcoming＝缺點、不足，比 weakness 正式一點，常用在產品、計畫、系統或人的能力。同義詞：weakness、flaw、drawback。注意 shortage 是「短缺、不夠用」（例如缺貨、缺人），不是缺點。",
+      "addedAt": "2026-10-22"
     }
   ],
   "notes": [
