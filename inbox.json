@@ -5513,6 +5513,41 @@
       ],
       "note": "ceremony 是正式的典禮或儀式：opening ceremony（開幕典禮）、awards ceremony（頒獎典禮）、wedding ceremony（婚禮儀式）、graduation ceremony（畢業典禮）。和 banquet（宴會，重點在吃飯）、reception（招待會，比較輕鬆）不同，ceremony 重點在「正式的流程」。",
       "addedAt": "2026-10-23"
+    },
+    {
+      "id": "20261023-advantage",
+      "word": "advantage",
+      "pos": "名詞",
+      "meaning": "優勢；好處；優點（take advantage of＝利用、把握）",
+      "sentences": [
+        {
+          "en": "Customers are encouraged to take advantage of our free one-week trial before buying a full membership.",
+          "zh": "我們鼓勵顧客在購買正式會員前，先好好利用一週免費試用。"
+        },
+        {
+          "en": "The biggest advantage of the new office is its location just two minutes from the subway station.",
+          "zh": "新辦公室最大的優點，是離捷運站只要兩分鐘。"
+        },
+        {
+          "en": "Employees should take advantage of the free training courses offered by the human resources department.",
+          "zh": "員工應該好好利用人資部門提供的免費訓練課程。"
+        },
+        {
+          "en": "Our long experience in the Asian market gives us a clear advantage over newer competitors.",
+          "zh": "我們在亞洲市場的長期經驗，讓我們比新的競爭對手更有優勢。"
+        },
+        {
+          "en": "Many shoppers took advantage of the year-end holiday sale to buy laptops and phones at half price.",
+          "zh": "很多顧客趁著年底假期特賣，用半價買了筆電和手機。"
+        }
+      ],
+      "distractors": [
+        "advance",
+        "adventure",
+        "adversity"
+      ],
+      "note": "take advantage of＝好好利用、把握（機會、優惠）。也可能有負面意思：take advantage of someone＝占某人便宜。相反詞 disadvantage（缺點、劣勢）。have an advantage over…＝比……有優勢。",
+      "addedAt": "2026-10-23"
     }
   ],
   "notes": [
