@@ -5548,6 +5548,41 @@
       ],
       "note": "take advantage of＝好好利用、把握（機會、優惠）。也可能有負面意思：take advantage of someone＝占某人便宜。相反詞 disadvantage（缺點、劣勢）。have an advantage over…＝比……有優勢。",
       "addedAt": "2026-10-23"
+    },
+    {
+      "id": "20261023-complimentary",
+      "word": "complimentary",
+      "pos": "形容詞",
+      "meaning": "免費贈送的；讚美的",
+      "sentences": [
+        {
+          "en": "All hotel guests receive a complimentary breakfast and free access to the fitness center during their stay.",
+          "zh": "所有房客住宿期間都享有免費早餐，並可免費使用健身中心。"
+        },
+        {
+          "en": "Each attendee at the conference will be given a complimentary tote bag with the company logo on it.",
+          "zh": "每位與會者都會拿到一個印有公司標誌的免費托特包。"
+        },
+        {
+          "en": "The restaurant offered us complimentary desserts because our main dishes took over an hour to arrive.",
+          "zh": "因為主菜等了一個多小時才上，餐廳招待我們免費甜點。"
+        },
+        {
+          "en": "Customers who spend more than two thousand dollars will receive a complimentary gift wrapping service.",
+          "zh": "消費超過兩千元的顧客，可以享有免費禮品包裝服務。"
+        },
+        {
+          "en": "Ms. Lee received many complimentary comments from clients about her clear, friendly, and well-organized sales presentation last week.",
+          "zh": "李小姐上週清楚、親切又有條理的業務簡報，得到很多客戶的稱讚。"
+        }
+      ],
+      "distractors": [
+        "complementary",
+        "compulsory",
+        "complicated"
+      ],
+      "note": "complimentary 在多益最常見的意思是「免費贈送的」（飯店、餐廳、活動），比 free 更正式、更有禮貌。來自 compliment（讚美），所以也有「讚美的」意思。⚠️ 拼法很像的 complementary（中間是 e）是「互補的」，常被拼錯，考試很愛考。",
+      "addedAt": "2026-10-23"
     }
   ],
   "notes": [
