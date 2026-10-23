@@ -5478,6 +5478,41 @@
       ],
       "note": "proofread＝proof（校樣、印刷前的樣稿）＋read（讀），也就是「印刷或發布前，仔細看一遍挑錯」。三態都一樣：proofread–proofread–proofread（後兩個唸 red）。做校對的人叫 proofreader。相近：edit（編輯，會改內容），proofread 只挑錯字、文法、格式。",
       "addedAt": "2026-10-22"
+    },
+    {
+      "id": "20261023-ceremony",
+      "word": "ceremony",
+      "pos": "名詞",
+      "meaning": "典禮；儀式",
+      "sentences": [
+        {
+          "en": "The opening ceremony for the new factory will take place next Monday at ten o'clock in the morning.",
+          "zh": "新工廠的開幕典禮將在下週一早上十點舉行。"
+        },
+        {
+          "en": "More than five hundred guests attended the awards ceremony held at the city's largest hotel.",
+          "zh": "五百多位賓客出席了在市內最大飯店舉辦的頒獎典禮。"
+        },
+        {
+          "en": "The mayor cut a red ribbon during a short ceremony to mark the opening of the new library.",
+          "zh": "市長在簡短的典禮上剪綵，慶祝新圖書館開幕。"
+        },
+        {
+          "en": "All graduates must arrive at the hall one hour before the ceremony begins to receive their gowns.",
+          "zh": "所有畢業生必須在典禮開始前一小時到禮堂領取學士服。"
+        },
+        {
+          "en": "The company held a small ceremony to thank employees who had worked there for more than twenty years.",
+          "zh": "公司舉辦了一場小型儀式，感謝服務超過二十年的員工。"
+        }
+      ],
+      "distractors": [
+        "cemetery",
+        "ceramic",
+        "category"
+      ],
+      "note": "ceremony 是正式的典禮或儀式：opening ceremony（開幕典禮）、awards ceremony（頒獎典禮）、wedding ceremony（婚禮儀式）、graduation ceremony（畢業典禮）。和 banquet（宴會，重點在吃飯）、reception（招待會，比較輕鬆）不同，ceremony 重點在「正式的流程」。",
+      "addedAt": "2026-10-23"
     }
   ],
   "notes": [
