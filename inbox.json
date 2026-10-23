@@ -5618,6 +5618,41 @@
       ],
       "note": "1 hectare（公頃）＝10,000 平方公尺，大約 3,025 坪，差不多一個半足球場大。常和 of land／farmland 一起出現。另一個常見面積單位是 acre（英畝），1 公頃約 2.5 英畝。",
       "addedAt": "2026-10-23"
+    },
+    {
+      "id": "20261023-questionnaires",
+      "word": "questionnaires",
+      "pos": "名詞",
+      "meaning": "問卷；調查表（questionnaire 的複數）",
+      "sentences": [
+        {
+          "en": "All participants were asked to fill out short questionnaires about their experience at the training workshop.",
+          "zh": "所有參加者都被請求填寫簡短的問卷，分享參加訓練工作坊的心得。"
+        },
+        {
+          "en": "The marketing team sent online questionnaires to five hundred customers to learn more about their shopping habits.",
+          "zh": "行銷團隊寄了線上問卷給五百位顧客，想更了解他們的購物習慣。"
+        },
+        {
+          "en": "Please return the completed questionnaires to the front desk before you check out of the hotel tomorrow.",
+          "zh": "明天退房前，請把填好的問卷交回櫃檯。"
+        },
+        {
+          "en": "According to the questionnaires, most employees would prefer to start work earlier and finish at five.",
+          "zh": "根據問卷結果，大部分員工比較想早點上班、五點下班。"
+        },
+        {
+          "en": "The research company will analyze the questionnaires and present the results at next month's meeting.",
+          "zh": "研究公司會分析這些問卷，並在下個月的會議上報告結果。"
+        }
+      ],
+      "distractors": [
+        "millionaires",
+        "missionaries",
+        "commissioners"
+      ],
+      "note": "questionnaire＝question（問題）＋naire，就是一張列滿問題的「問卷」。拼法注意：兩個 n（questio-nn-aire），結尾是 -aire。常見搭配：fill out／complete a questionnaire（填問卷）。同義詞 survey（調查），survey 比較常指整個調查活動。",
+      "addedAt": "2026-10-23"
     }
   ],
   "notes": [
