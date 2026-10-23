@@ -5583,6 +5583,41 @@
       ],
       "note": "complimentary 在多益最常見的意思是「免費贈送的」（飯店、餐廳、活動），比 free 更正式、更有禮貌。來自 compliment（讚美），所以也有「讚美的」意思。⚠️ 拼法很像的 complementary（中間是 e）是「互補的」，常被拼錯，考試很愛考。",
       "addedAt": "2026-10-23"
+    },
+    {
+      "id": "20261023-hectares",
+      "word": "hectares",
+      "pos": "名詞",
+      "meaning": "公頃（hectare 的複數，面積單位）",
+      "sentences": [
+        {
+          "en": "The company plans to build a new factory on fifty hectares of land near the port.",
+          "zh": "公司計畫在港口附近五十公頃的土地上蓋新工廠。"
+        },
+        {
+          "en": "The national park covers more than three thousand hectares of thick forest, quiet lakes, and high mountains.",
+          "zh": "國家公園占地三千多公頃，有茂密的森林、寧靜的湖泊和高山。"
+        },
+        {
+          "en": "The farm grows organic vegetables on twelve hectares and sells them directly to local restaurants.",
+          "zh": "這座農場在十二公頃的土地上種有機蔬菜，直接賣給當地餐廳。"
+        },
+        {
+          "en": "About two hundred hectares of farmland were damaged by the heavy rain and flooding in the south last month.",
+          "zh": "上個月南部的豪雨和淹水，讓大約兩百公頃的農地受損。"
+        },
+        {
+          "en": "The new business park will cover eighty hectares and include offices, shops, and a hotel.",
+          "zh": "新的商業園區占地八十公頃，會有辦公室、商店和一間飯店。"
+        }
+      ],
+      "distractors": [
+        "lectures",
+        "nectars",
+        "hecklers"
+      ],
+      "note": "1 hectare（公頃）＝10,000 平方公尺，大約 3,025 坪，差不多一個半足球場大。常和 of land／farmland 一起出現。另一個常見面積單位是 acre（英畝），1 公頃約 2.5 英畝。",
+      "addedAt": "2026-10-23"
     }
   ],
   "notes": [
