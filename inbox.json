@@ -5933,6 +5933,41 @@
       ],
       "note": "alternate 有兩個意思：①替代的、備用的（alternate route 替代道路），和 alternative 意思很像，美式常混用；②交替的、每隔一個（on alternate days＝每隔一天）。也可以當動詞「輪流、交替」：alternate between A and B。",
       "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-add-up",
+      "word": "add up",
+      "pos": "片語動詞",
+      "meaning": "加總；把……加起來；（金額）累積起來",
+      "sentences": [
+        {
+          "en": "Please add up all the travel expenses on this list and send the total to the accounting team.",
+          "zh": "請把這張清單上所有的差旅費加總，再把總額寄給會計部。"
+        },
+        {
+          "en": "The cashier forgot to add up the prices correctly, so the customer was charged too much.",
+          "zh": "收銀員沒把價格正確加總，所以顧客被多收了錢。"
+        },
+        {
+          "en": "Small daily costs like coffee and taxis can quickly add up to a large amount each month.",
+          "zh": "像咖啡、計程車這種每天的小花費，每個月很快就會累積成一大筆錢。"
+        },
+        {
+          "en": "At the end of each week, the store manager has to add up the sales from all three cash registers.",
+          "zh": "每週結束時，店長要把三台收銀機的營業額加總起來。"
+        },
+        {
+          "en": "Before submitting the budget, could you add up the numbers again to make sure there are no mistakes?",
+          "zh": "交出預算前，你可以再把數字加一次，確定沒有錯嗎？"
+        }
+      ],
+      "distractors": [
+        "give up",
+        "show up",
+        "break up"
+      ],
+      "note": "add up＝把數字加起來（add up the bill）。add up to＝總共是……：The costs add up to $500（費用總共 500 元）。口語 It doesn't add up 是「說不通、不合理」。相近：total（總計）、sum up（總結、合計）。",
+      "addedAt": "2026-10-25"
     }
   ],
   "notes": [
