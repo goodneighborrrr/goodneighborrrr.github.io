@@ -5828,6 +5828,111 @@
       ],
       "note": "inaugural＝第一次的、開幕的、就職的，比 first 正式很多：inaugural flight（首航）、inaugural issue（創刊號）、inaugural speech（就職演說）。動詞 inaugurate（為……舉行就職或開幕典禮），名詞 inauguration（就職典禮）。發音：ih-NAW-gyuh-rul。",
       "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-commemorate",
+      "word": "commemorate",
+      "pos": "動詞",
+      "meaning": "紀念；慶祝（重要的日子或事件）",
+      "sentences": [
+        {
+          "en": "The company will hold a special dinner to commemorate its fiftieth anniversary at the Grand Hotel next month.",
+          "zh": "公司下個月會舉辦一場特別晚宴，在君悅飯店紀念創立五十週年。"
+        },
+        {
+          "en": "A bronze statue was built in the central park to commemorate the man who founded the city in 1850.",
+          "zh": "中央公園立了一座銅像，紀念 1850 年建立這座城市的人。"
+        },
+        {
+          "en": "The post office issued a set of new stamps to commemorate the opening of the national high-speed railway.",
+          "zh": "郵局發行了一套新郵票，紀念全國高鐵通車。"
+        },
+        {
+          "en": "To commemorate Foundation Day, employees will receive a small gift and a free lunch in the cafeteria.",
+          "zh": "為了紀念公司創立日，員工會收到小禮物，還能在員工餐廳免費吃午餐。"
+        },
+        {
+          "en": "Our team designed a special logo to commemorate the opening of our one hundredth store in Taiwan.",
+          "zh": "我們團隊設計了特別的標誌，紀念在台灣開第一百家店。"
+        }
+      ],
+      "distractors": [
+        "accommodate",
+        "compensate",
+        "complicate"
+      ],
+      "note": "commemorate＝用活動、典禮、紀念品來「紀念」重要的人或事，比 celebrate（慶祝）更正式、更有紀念意義。名詞 commemoration（紀念），形容詞 commemorative（紀念的，例如 commemorative stamps 紀念郵票）。和你學過的 in observance of 很像。",
+      "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-foundation",
+      "word": "foundation",
+      "pos": "名詞",
+      "meaning": "基礎；地基；基金會；創立（Foundation Day＝創立紀念日）",
+      "sentences": [
+        {
+          "en": "The company celebrates Foundation Day every March to remember the day it was first established.",
+          "zh": "公司每年三月慶祝創立紀念日，紀念當初成立的那一天。"
+        },
+        {
+          "en": "A strong foundation in basic math will help new accounting employees understand our monthly financial reports.",
+          "zh": "扎實的基礎數學能力，能幫助新的會計人員看懂我們的月財報。"
+        },
+        {
+          "en": "The children's charity foundation donated over one million dollars last year to build schools in rural areas.",
+          "zh": "這個兒童慈善基金會去年捐了一百多萬元，在偏鄉蓋學校。"
+        },
+        {
+          "en": "Engineers found several small cracks in the old building's foundation during the safety inspection last week.",
+          "zh": "工程師上週安全檢查時，在舊大樓的地基發現幾道小裂縫。"
+        },
+        {
+          "en": "Good communication is the foundation of a successful long-term relationship with our clients and suppliers.",
+          "zh": "良好的溝通是和客戶、供應商建立長期合作關係的基礎。"
+        }
+      ],
+      "distractors": [
+        "fountain",
+        "fondness",
+        "foundry"
+      ],
+      "note": "foundation 意思很多：①基礎（a strong foundation）②建築的地基 ③基金會（charity foundation）④創立（Foundation Day＝公司或學校的創立紀念日，也叫 Founders' Day）。來自 found（創立）。化妝品的「粉底」也叫 foundation。",
+      "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-alternate",
+      "word": "alternate",
+      "pos": "形容詞",
+      "meaning": "替代的；備用的；交替的（每隔一個）",
+      "sentences": [
+        {
+          "en": "Due to road construction, drivers are advised to take an alternate route to the airport this week.",
+          "zh": "因為道路施工，這週建議駕駛改走替代道路去機場。"
+        },
+        {
+          "en": "If you cannot attend the meeting on Monday, please let us know so we can choose an alternate date.",
+          "zh": "如果你週一不能參加會議，請告訴我們，我們好另外選一天。"
+        },
+        {
+          "en": "The team meets in person on alternate Fridays and holds online meetings during the other weeks.",
+          "zh": "團隊每隔一個星期五見面開會，其他週則線上開會。"
+        },
+        {
+          "en": "Each speaker should prepare an alternate topic in case another presenter talks about the same subject.",
+          "zh": "每位講者都要準備一個備用主題，以免和其他講者講到一樣的內容。"
+        },
+        {
+          "en": "The flight was canceled, so the airline booked all passengers on an alternate flight leaving two hours later.",
+          "zh": "班機取消了，航空公司幫所有乘客改訂兩小時後起飛的替代班機。"
+        }
+      ],
+      "distractors": [
+        "literate",
+        "ultimate",
+        "illiterate"
+      ],
+      "note": "alternate 有兩個意思：①替代的、備用的（alternate route 替代道路），和 alternative 意思很像，美式常混用；②交替的、每隔一個（on alternate days＝每隔一天）。也可以當動詞「輪流、交替」：alternate between A and B。",
+      "addedAt": "2026-10-25"
     }
   ],
   "notes": [
