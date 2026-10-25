@@ -5653,6 +5653,41 @@
       ],
       "note": "questionnaire＝question（問題）＋naire，就是一張列滿問題的「問卷」。拼法注意：兩個 n（questio-nn-aire），結尾是 -aire。常見搭配：fill out／complete a questionnaire（填問卷）。同義詞 survey（調查），survey 比較常指整個調查活動。",
       "addedAt": "2026-10-23"
+    },
+    {
+      "id": "20261025-initial",
+      "word": "initial",
+      "pos": "形容詞",
+      "meaning": "最初的；開始的；初步的",
+      "sentences": [
+        {
+          "en": "The initial cost of the new software is high, but it will save us money over time.",
+          "zh": "新軟體一開始的費用很高，但長期下來會幫我們省錢。"
+        },
+        {
+          "en": "Our initial plan was to open the store in May, but construction delays pushed it to July.",
+          "zh": "我們原本計畫五月開店，但工程延誤，延到了七月。"
+        },
+        {
+          "en": "After an initial interview by phone, the top candidates will be invited to meet the manager in person.",
+          "zh": "經過第一輪電話面試後，表現最好的應徵者會受邀和經理當面見面。"
+        },
+        {
+          "en": "The initial results of the customer survey show that most people are happy with our service.",
+          "zh": "顧客調查的初步結果顯示，大部分人對我們的服務很滿意。"
+        },
+        {
+          "en": "The initial response to our new advertising campaign has been very positive, especially among young customers.",
+          "zh": "我們新廣告活動一開始的反應非常好，尤其是年輕顧客。"
+        }
+      ],
+      "distractors": [
+        "inertial",
+        "innocent",
+        "infinite"
+      ],
+      "note": "initial＝first（最初的），比較正式：initial cost（初期費用）、initial plan（原本的計畫）、initial interview（初次面試）。副詞 initially（起初）。名詞 initials 是「姓名縮寫」，例如陳世鈞的英文縮寫 SC。",
+      "addedAt": "2026-10-25"
     }
   ],
   "notes": [
