@@ -5828,6 +5828,76 @@
       ],
       "note": "facility 是為了某個用途建造的場所或設備：sports facility（運動設施）、production／manufacturing facility（工廠）。複數 facilities 常指「各種設施」。和 amenities 的差別：facilities 偏場地、建築、設備；amenities 偏讓人舒服方便的附加服務。",
       "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-observance",
+      "word": "observance",
+      "pos": "名詞",
+      "meaning": "（節日、紀念日的）慶祝、紀念；（規定的）遵守",
+      "sentences": [
+        {
+          "en": "In observance of the national holiday, all branch offices will be closed on Monday, October 10.",
+          "zh": "為了慶祝國定假日，所有分公司在十月十日星期一休息。"
+        },
+        {
+          "en": "The bank will not process any payments on Friday in observance of the Lunar New Year.",
+          "zh": "因為農曆新年，銀行週五不處理任何付款。"
+        },
+        {
+          "en": "Strict observance of the safety rules has helped the factory avoid accidents for three years.",
+          "zh": "嚴格遵守安全規定，讓工廠三年來都沒發生意外。"
+        },
+        {
+          "en": "The museum will offer free admission on Saturday in observance of the city's two hundredth anniversary.",
+          "zh": "為了紀念建城兩百週年，博物館週六免費入場。"
+        },
+        {
+          "en": "Please note that our customer service center will close early today in observance of Memorial Day.",
+          "zh": "請注意，因為陣亡將士紀念日，我們的客服中心今天會提早關閉。"
+        }
+      ],
+      "distractors": [
+        "observation",
+        "obedience",
+        "allowance"
+      ],
+      "note": "in observance of＋節日＝為了慶祝／紀念某個節日（公告最常見：…will be closed in observance of the holiday）。也有「遵守」的意思：observance of the rules。來自動詞 observe（遵守；慶祝）。⚠️ 長很像的 observation 是「觀察」。",
+      "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-inaugural",
+      "word": "inaugural",
+      "pos": "形容詞",
+      "meaning": "首次的；開幕的；就職的",
+      "sentences": [
+        {
+          "en": "The airline's inaugural flight from Taipei to Seattle will depart from Taoyuan Airport next Tuesday morning.",
+          "zh": "這家航空公司台北飛西雅圖的首航班機，下週二早上從桃園機場出發。"
+        },
+        {
+          "en": "More than two thousand people attended the inaugural meeting of the new business association last weekend.",
+          "zh": "上週末新的商業協會第一次大會，有兩千多人參加。"
+        },
+        {
+          "en": "The president gave his inaugural speech in front of thousands of supporters in the city square.",
+          "zh": "總統在市中心廣場數千名支持者面前發表就職演說。"
+        },
+        {
+          "en": "The inaugural issue of our company magazine will be sent to all employees and clients next week.",
+          "zh": "我們公司雜誌的創刊號下週會寄給所有員工和客戶。"
+        },
+        {
+          "en": "Our team won the inaugural award for customer service excellence at this year's industry conference.",
+          "zh": "我們團隊在今年的產業大會上，拿下第一屆優良客服獎。"
+        }
+      ],
+      "distractors": [
+        "integral",
+        "inaudible",
+        "intestinal"
+      ],
+      "note": "inaugural＝第一次的、開幕的、就職的，比 first 正式很多：inaugural flight（首航）、inaugural issue（創刊號）、inaugural speech（就職演說）。動詞 inaugurate（為……舉行就職或開幕典禮），名詞 inauguration（就職典禮）。發音：ih-NAW-gyuh-rul。",
+      "addedAt": "2026-10-25"
     }
   ],
   "notes": [
