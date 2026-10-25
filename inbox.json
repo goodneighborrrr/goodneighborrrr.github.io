@@ -5688,6 +5688,41 @@
       ],
       "note": "initial＝first（最初的），比較正式：initial cost（初期費用）、initial plan（原本的計畫）、initial interview（初次面試）。副詞 initially（起初）。名詞 initials 是「姓名縮寫」，例如陳世鈞的英文縮寫 SC。",
       "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-presenter",
+      "word": "presenter",
+      "pos": "名詞",
+      "meaning": "報告人；講者；（節目）主持人",
+      "sentences": [
+        {
+          "en": "Each presenter will have fifteen minutes to explain their project, followed by five minutes for questions.",
+          "zh": "每位報告人有十五分鐘說明自己的專案，接著有五分鐘問答時間。"
+        },
+        {
+          "en": "The presenter used clear charts and simple examples to explain the company's new sales strategy.",
+          "zh": "講者用清楚的圖表和簡單的例子，說明公司新的業務策略。"
+        },
+        {
+          "en": "Please send your slides to the event organizer if you have been chosen as a presenter at the conference.",
+          "zh": "如果你被選為研討會的講者，請把投影片寄給活動主辦人。"
+        },
+        {
+          "en": "The television presenter interviewed three local business owners about the effects of rising rent and food prices.",
+          "zh": "電視節目主持人訪問了三位在地店家老闆，談房租和食物漲價的影響。"
+        },
+        {
+          "en": "Our first presenter this morning is Ms. Kato, who will talk about online marketing trends in Asia.",
+          "zh": "今天早上第一位講者是加藤小姐，她會談亞洲的網路行銷趨勢。"
+        }
+      ],
+      "distractors": [
+        "preserver",
+        "prescriber",
+        "pretender"
+      ],
+      "note": "presenter＝present（報告、介紹）＋er，就是「上台報告或主持的人」。名詞 presentation（簡報、報告）。相近：speaker（演講者）、host（主持人、主辦人）。英式英文的電視節目主持人常說 presenter，美式多說 host。",
+      "addedAt": "2026-10-25"
     }
   ],
   "notes": [
