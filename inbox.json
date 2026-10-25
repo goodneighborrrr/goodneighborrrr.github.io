@@ -5723,6 +5723,111 @@
       ],
       "note": "presenter＝present（報告、介紹）＋er，就是「上台報告或主持的人」。名詞 presentation（簡報、報告）。相近：speaker（演講者）、host（主持人、主辦人）。英式英文的電視節目主持人常說 presenter，美式多說 host。",
       "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-renovation",
+      "word": "renovation",
+      "pos": "名詞",
+      "meaning": "整修；翻新；裝修",
+      "sentences": [
+        {
+          "en": "The renovation of the hotel lobby will be completed by the end of next month.",
+          "zh": "飯店大廳的整修工程將在下個月底完成。"
+        },
+        {
+          "en": "Due to ongoing renovation, the third floor of the library will be closed until May.",
+          "zh": "因為正在整修，圖書館三樓將關閉到五月。"
+        },
+        {
+          "en": "The company spent over two million dollars on the renovation of its old headquarters building.",
+          "zh": "公司花了兩百多萬元翻新舊的總部大樓。"
+        },
+        {
+          "en": "Customers can still use the main entrance during the renovation of the shopping center's parking garage.",
+          "zh": "購物中心停車場整修期間，顧客仍然可以使用正門。"
+        },
+        {
+          "en": "After the renovation, the restaurant will have twice as many seats and a brand-new open kitchen.",
+          "zh": "整修完成後，餐廳的座位會變成兩倍，還有全新的開放式廚房。"
+        }
+      ],
+      "distractors": [
+        "innovation",
+        "reputation",
+        "resonation"
+      ],
+      "note": "renovation＝re（再一次）＋nov（新）→ 讓東西「重新變新」，指整修、翻新建築。動詞 renovate。和 remodeling（改建，常改變格局）很像；repair 是「修理壞掉的地方」。長很像的字：innovation（創新）。",
+      "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-recreational",
+      "word": "recreational",
+      "pos": "形容詞",
+      "meaning": "休閒的；娛樂的",
+      "sentences": [
+        {
+          "en": "The city plans to build a new recreational facility with a swimming pool and tennis courts.",
+          "zh": "市政府計畫蓋一座新的休閒設施，有游泳池和網球場。"
+        },
+        {
+          "en": "The hotel offers many recreational activities, including morning yoga classes, guided bike tours, and cooking lessons.",
+          "zh": "飯店提供很多休閒活動，包括晨間瑜伽、單車導覽和烹飪課。"
+        },
+        {
+          "en": "Employees can use the company's recreational area to relax and play table tennis during their lunch break.",
+          "zh": "員工午休時可以到公司的休閒區放鬆、打桌球。"
+        },
+        {
+          "en": "The park will be closed for recreational use while workers repair the walking paths and benches.",
+          "zh": "工人修理步道和長椅期間，公園將暫停開放休閒使用。"
+        },
+        {
+          "en": "Our apartment complex provides a recreational room where residents can watch movies and play games.",
+          "zh": "我們的社區有一間休閒室，住戶可以在那裡看電影、玩遊戲。"
+        }
+      ],
+      "distractors": [
+        "irrational",
+        "relational",
+        "reactionary"
+      ],
+      "note": "recreational 來自 recreation（休閒、娛樂），指工作以外放鬆、運動、玩樂的：recreational facility（休閒設施）、recreational activities（休閒活動）。re＋create＝讓自己「重新充電」。",
+      "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261025-facility",
+      "word": "facility",
+      "pos": "名詞",
+      "meaning": "設施；場所；（工廠、研究等用途的）大樓",
+      "sentences": [
+        {
+          "en": "The company opened a new production facility in Vietnam to meet growing demand from Asian customers.",
+          "zh": "公司在越南開了一間新的生產工廠，因應亞洲客戶越來越多的需求。"
+        },
+        {
+          "en": "Our hotel's fitness facility is open twenty-four hours a day and is free for all registered guests.",
+          "zh": "我們飯店的健身設施二十四小時開放，所有住客都能免費使用。"
+        },
+        {
+          "en": "The new research facility will employ more than three hundred scientists and engineers when it opens next year.",
+          "zh": "新的研究大樓明年啟用時，會僱用三百多位科學家和工程師。"
+        },
+        {
+          "en": "Visitors must wear safety glasses at all times while touring the company's large manufacturing facility in Taichung.",
+          "zh": "參觀公司在台中的大型製造廠時，訪客必須全程戴護目鏡。"
+        },
+        {
+          "en": "The renovation of the recreational facility is expected to finish before the summer holidays begin.",
+          "zh": "休閒設施的整修工程預計在暑假開始前完成。"
+        }
+      ],
+      "distractors": [
+        "felicity",
+        "fatality",
+        "familiarity"
+      ],
+      "note": "facility 是為了某個用途建造的場所或設備：sports facility（運動設施）、production／manufacturing facility（工廠）。複數 facilities 常指「各種設施」。和 amenities 的差別：facilities 偏場地、建築、設備；amenities 偏讓人舒服方便的附加服務。",
+      "addedAt": "2026-10-25"
     }
   ],
   "notes": [
