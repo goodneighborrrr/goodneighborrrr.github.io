@@ -254,7 +254,7 @@ function renderApp(aiKey){
 
   if (!SR || !aiKey) return;
 
-  let rec = null, sessionOn = false, turnBuffer = "", finishedByPhrase = false, busy = false;
+  let rec = null, sessionOn = false, turnBuffer = "", liveInterim = "", finishedByPhrase = false, busy = false;
   const history = [];
 
   function newRecognizer(){
@@ -264,13 +264,17 @@ function renderApp(aiKey){
       let interim = "";
       for (let i = e.resultIndex; i < e.results.length; i++){
         const text = e.results[i][0].transcript;
-        if (e.results[i].isFinal){
-          turnBuffer = (turnBuffer + " " + text).trim();
-          if (FINISH_RE.test(turnBuffer)){ turnBuffer = turnBuffer.replace(FINISH_RE, "").trim(); finishedByPhrase = true; }
-        } else interim += text;
+        if (e.results[i].isFinal) turnBuffer = (turnBuffer + " " + text).trim();
+        else interim += text;
       }
+      liveInterim = interim;
       showLive(interim);
-      if (finishedByPhrase) endTurn();
+      // Safari 常常遲遲不把結果標記成「確定」（isFinal），有時候整段話從頭到尾都只停在
+      // 「暫時顯示」（interim）。所以同時也檢查「turnBuffer + 還沒確定的 interim」合在一起
+      // 有沒有講出「that's it」，不要只檢查已確定的 turnBuffer，不然會偵測不到。
+      if (!finishedByPhrase && FINISH_RE.test((turnBuffer + " " + interim).trim())){
+        finishedByPhrase = true; endTurn();
+      }
     };
     r.onerror = e => {
       if (e.error === "no-speech" || e.error === "aborted") return; // 常見狀況，交給 onend 自動重開
@@ -297,7 +301,7 @@ function renderApp(aiKey){
   }
 
   function startTurn(){
-    turnBuffer = ""; finishedByPhrase = false;
+    turnBuffer = ""; liveInterim = ""; finishedByPhrase = false;
     live.hidden = false; live.classList.add("empty"); live.textContent = "還沒說話…";
     turnCtrls.hidden = false;
     micBtn.classList.add("listening"); micBtn.classList.remove("busy");
@@ -312,7 +316,10 @@ function renderApp(aiKey){
   }
 
   async function endTurn(){
-    const said = turnBuffer.trim();
+    // 用「已確定的文字」加上「還沒確定、但畫面上已經看得到的文字」合起來當作這輪說的話——
+    // 不要只靠已確定的 turnBuffer，因為 Safari 常常遲遲不把話標記成「確定」，
+    // 尤其是手動按「這輪說完了」的當下，那句話很可能永遠停在「暫時顯示」階段。
+    const said = (turnBuffer + " " + liveInterim).replace(FINISH_RE, "").trim();
     stopRecognizer();
     turnCtrls.hidden = true;
     if (!said){ if (sessionOn) startTurn(); return; }
