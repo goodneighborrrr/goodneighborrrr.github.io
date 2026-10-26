@@ -6353,6 +6353,41 @@
       ],
       "note": "語塊：be subject to change（可能會變動，公告超常見）、be subject to approval（須經核准）、be subject to tax／a fee（須繳稅／付費）。subject to 後面接名詞。別搞混：submit to（服從、提交給）、object to（反對）。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-potassium",
+      "word": "potassium",
+      "pos": "名詞",
+      "meaning": "鉀（一種礦物質）",
+      "sentences": [
+        {
+          "en": "Bananas are rich in potassium, which helps the body control blood pressure and muscle movement.",
+          "zh": "香蕉富含鉀，可以幫助身體控制血壓和肌肉活動。"
+        },
+        {
+          "en": "Our new sports drink contains extra potassium to help athletes recover quickly after long workouts.",
+          "zh": "我們的新運動飲料額外添加了鉀，幫助運動員在長時間訓練後快速恢復。"
+        },
+        {
+          "en": "The doctor told Mr. Lee to eat more vegetables because his potassium levels were too low.",
+          "zh": "醫生要李先生多吃蔬菜，因為他的鉀含量太低。"
+        },
+        {
+          "en": "Each bottle lists the amount of potassium and sodium on the nutrition label on the back.",
+          "zh": "每瓶背面的營養標示上都有列出鉀和鈉的含量。"
+        },
+        {
+          "en": "Foods that are high in potassium, such as potatoes and spinach, are part of a healthy diet.",
+          "zh": "馬鈴薯、菠菜這類高鉀食物，是健康飲食的一部分。"
+        }
+      ],
+      "distractors": [
+        "podium",
+        "possum",
+        "pottery"
+      ],
+      "note": "語塊：rich in／high in potassium（富含鉀）、potassium levels（鉀含量）。營養標示常見礦物質：sodium（鈉）、calcium（鈣）、iron（鐵）、magnesium（鎂）。發音 puh-TAS-ee-um，重音在第二音節。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
