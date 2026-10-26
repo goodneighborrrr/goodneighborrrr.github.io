@@ -6213,6 +6213,41 @@
       ],
       "note": "語塊：be marketed to＋人（以……為行銷對象）、be marketed as＋賣點（主打是……）、market a product（推銷產品）。market 當名詞是「市場」，當動詞是「行銷、推銷」；marketing＝行銷（marketing department 行銷部）。⚠️ 和 marked（標記了）只差兩個字母。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-shareholder",
+      "word": "shareholder",
+      "pos": "名詞",
+      "meaning": "股東",
+      "sentences": [
+        {
+          "en": "As the company's largest shareholder, Mr. Wang has a strong influence on important business decisions.",
+          "zh": "王先生是公司最大的股東，對重要的商業決策很有影響力。"
+        },
+        {
+          "en": "Every shareholder will receive a copy of the annual report before the general meeting in June.",
+          "zh": "每位股東都會在六月的股東大會前收到一份年報。"
+        },
+        {
+          "en": "The CEO sent a letter to each shareholder explaining why profits fell during the last quarter.",
+          "zh": "執行長寄信給每位股東，說明上一季獲利下滑的原因。"
+        },
+        {
+          "en": "Ms. Chen became a major shareholder after buying ten percent of the company's stock last year.",
+          "zh": "陳小姐去年買下公司一成的股份後，成為主要股東。"
+        },
+        {
+          "en": "During the annual meeting, one shareholder asked the board to explain the high costs of the new factory.",
+          "zh": "年度大會上，一位股東要求董事會說明新工廠成本很高的原因。"
+        }
+      ],
+      "distractors": [
+        "shopkeeper",
+        "placeholder",
+        "bookkeeper"
+      ],
+      "note": "語塊：major／largest shareholder（大股東）、shareholders' meeting／annual general meeting（股東大會）、shareholder value（股東價值）。share（股份）＋holder（持有人）。同義詞 stockholder。容易搞混：stakeholder 是「利害關係人」，範圍更廣，員工、客戶、社區都算。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
