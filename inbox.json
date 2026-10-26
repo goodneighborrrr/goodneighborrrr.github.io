@@ -6108,6 +6108,41 @@
       ],
       "note": "語塊：without further ado, let's begin／please welcome…（不多說了，我們開始吧／讓我們歡迎……）。主持人、簡報開場最常用的一句話。ado 是古老的字，意思是「麻煩、囉嗦」，現在幾乎只出現在這個片語裡。發音 uh-DOO。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-culinary",
+      "word": "culinary",
+      "pos": "形容詞",
+      "meaning": "烹飪的；料理的；廚藝的",
+      "sentences": [
+        {
+          "en": "Ms. Huang studied at a famous culinary school in Paris before opening her own restaurant in Taipei.",
+          "zh": "黃小姐在台北開自己的餐廳前，曾在巴黎一所知名廚藝學校念書。"
+        },
+        {
+          "en": "Applicants for the chef position must have strong culinary skills and at least three years of experience.",
+          "zh": "應徵主廚職位的人必須有很好的廚藝，並有至少三年經驗。"
+        },
+        {
+          "en": "The hotel offers a culinary tour that lets guests taste traditional dishes at local night markets.",
+          "zh": "飯店提供美食導覽行程，讓房客在當地夜市品嚐傳統小吃。"
+        },
+        {
+          "en": "Our new cooking show will introduce viewers to the rich culinary traditions of different regions across Asia.",
+          "zh": "我們的新料理節目會帶觀眾認識亞洲各地豐富的飲食傳統。"
+        },
+        {
+          "en": "The city is hosting an international culinary festival featuring more than one hundred chefs from twenty countries.",
+          "zh": "市政府正在舉辦國際美食節，有來自二十個國家、一百多位主廚參加。"
+        }
+      ],
+      "distractors": [
+        "culpable",
+        "cellular",
+        "cylindrical"
+      ],
+      "note": "語塊：culinary skills（廚藝）、culinary school（廚藝學校）、culinary arts（烹飪藝術）、culinary tour（美食之旅）。culinary 比 cooking 正式，常出現在餐廳、飯店、觀光的介紹裡。發音 KUL-ih-nair-ee 或 KYOO-lih-nair-ee。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
