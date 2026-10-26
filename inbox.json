@@ -6178,6 +6178,41 @@
       ],
       "note": "語塊：distribute A to B（把 A 分發給 B）、distribute A among…（把 A 分給一群人）、distribute products（經銷產品）。dis（分開）＋tribute（給）＝分開給大家。名詞 distribution（分配；配送），經銷商是 distributor。和 disturb（打擾）只有開頭一樣，字根不同；contribute（貢獻）是同一個 -tribute 家族。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-marketed",
+      "word": "marketed",
+      "pos": "動詞",
+      "meaning": "行銷；推銷；推廣（market 的過去式／過去分詞）",
+      "sentences": [
+        {
+          "en": "The new sports drink will be marketed to professional athletes and people who exercise at the gym regularly.",
+          "zh": "這款新運動飲料會以職業運動員和常上健身房的人為行銷對象。"
+        },
+        {
+          "en": "The smartphone was marketed as the lightest model on the market, which helped boost sales.",
+          "zh": "這支手機主打市面上最輕的機型，幫助提升了銷量。"
+        },
+        {
+          "en": "Our skin care products are mainly marketed to young women between the ages of twenty and thirty.",
+          "zh": "我們的保養品主要是賣給二十到三十歲的年輕女性。"
+        },
+        {
+          "en": "The company marketed its new healthy snacks mainly through social media instead of traditional television advertisements.",
+          "zh": "公司主要透過社群媒體推廣新的健康零食，而不是傳統電視廣告。"
+        },
+        {
+          "en": "This laptop is marketed as an affordable option for students who need a computer for online classes.",
+          "zh": "這台筆電主打給需要上線上課程的學生，是平價的選擇。"
+        }
+      ],
+      "distractors": [
+        "marked",
+        "parked",
+        "masked"
+      ],
+      "note": "語塊：be marketed to＋人（以……為行銷對象）、be marketed as＋賣點（主打是……）、market a product（推銷產品）。market 當名詞是「市場」，當動詞是「行銷、推銷」；marketing＝行銷（marketing department 行銷部）。⚠️ 和 marked（標記了）只差兩個字母。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
