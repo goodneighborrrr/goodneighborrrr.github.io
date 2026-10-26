@@ -6248,6 +6248,41 @@
       ],
       "note": "語塊：major／largest shareholder（大股東）、shareholders' meeting／annual general meeting（股東大會）、shareholder value（股東價值）。share（股份）＋holder（持有人）。同義詞 stockholder。容易搞混：stakeholder 是「利害關係人」，範圍更廣，員工、客戶、社區都算。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-consume",
+      "word": "consume",
+      "pos": "動詞",
+      "meaning": "消耗（能源、時間）；食用；吃喝",
+      "sentences": [
+        {
+          "en": "The new printers consume far less electricity than the old models we used last year.",
+          "zh": "新的印表機比我們去年用的舊機型省電很多。"
+        },
+        {
+          "en": "Please consume the salad within two days of purchase and keep it in the refrigerator.",
+          "zh": "沙拉請在購買後兩天內食用，並放在冰箱冷藏。"
+        },
+        {
+          "en": "Long meetings that consume too much of the day can lower productivity across the entire department.",
+          "zh": "佔掉一整天太多時間的冗長會議，會降低整個部門的效率。"
+        },
+        {
+          "en": "Large trucks consume a lot of fuel, so the company is testing electric vehicles for local deliveries.",
+          "zh": "大卡車很耗油，所以公司正在測試用電動車做市區配送。"
+        },
+        {
+          "en": "Visitors are not allowed to consume food or drinks inside the museum's main exhibition halls or the library.",
+          "zh": "參觀者不可以在博物館主展廳或圖書館內飲食。"
+        }
+      ],
+      "distractors": [
+        "assume",
+        "resume",
+        "presume"
+      ],
+      "note": "語塊：consume energy／electricity／fuel（消耗能源／電／燃料）、consume time（花時間）、consume food or drinks（飲食，比 eat／drink 正式）、consume within … days（……天內食用）。名詞 consumption（消耗量），consumer（消費者）。長很像的字：assume（假設）、resume（恢復、重新開始）。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
