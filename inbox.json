@@ -5968,6 +5968,41 @@
       ],
       "note": "add up＝把數字加起來（add up the bill）。add up to＝總共是……：The costs add up to $500（費用總共 500 元）。口語 It doesn't add up 是「說不通、不合理」。相近：total（總計）、sum up（總結、合計）。",
       "addedAt": "2026-10-25"
+    },
+    {
+      "id": "20261026-marks",
+      "word": "marks",
+      "pos": "動詞",
+      "meaning": "標誌著；代表（某件事的開始、結束或重要時刻）；紀念",
+      "sentences": [
+        {
+          "en": "Today's workshop marks the first of five training sessions that will take place over the next two weeks.",
+          "zh": "今天的工作坊是接下來兩週五堂訓練課的第一堂。"
+        },
+        {
+          "en": "The opening of our Tokyo branch marks the beginning of the company's expansion into Japan.",
+          "zh": "東京分公司開幕，代表公司正式開始進軍日本。"
+        },
+        {
+          "en": "This year marks the twentieth anniversary of our successful partnership with the local technical university.",
+          "zh": "今年是我們和當地科技大學成功合作的二十週年。"
+        },
+        {
+          "en": "The new product launch marks an important step in our plan to reach younger customers.",
+          "zh": "新產品上市是我們爭取年輕客群計畫中重要的一步。"
+        },
+        {
+          "en": "Ms. Lin's promotion to director marks the end of her long career in the sales department.",
+          "zh": "林小姐升任總監，也代表她在業務部的漫長生涯畫下句點。"
+        }
+      ],
+      "distractors": [
+        "masks",
+        "parks",
+        "barks"
+      ],
+      "note": "語塊：mark the beginning／end of（標誌著……的開始／結束）、mark the first of（是……的第一個）、mark the anniversary（是……週年）。mark 當動詞是「標誌、代表某個重要時刻」，不是「做記號」而已。也常用 to mark the occasion（為了紀念這個時刻）。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
