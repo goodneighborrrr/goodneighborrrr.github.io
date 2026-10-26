@@ -6143,6 +6143,41 @@
       ],
       "note": "語塊：culinary skills（廚藝）、culinary school（廚藝學校）、culinary arts（烹飪藝術）、culinary tour（美食之旅）。culinary 比 cooking 正式，常出現在餐廳、飯店、觀光的介紹裡。發音 KUL-ih-nair-ee 或 KYOO-lih-nair-ee。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-distribute",
+      "word": "distribute",
+      "pos": "動詞",
+      "meaning": "分發；分配；（商品）經銷、配送",
+      "sentences": [
+        {
+          "en": "Please distribute the handouts to all participants before the morning training session begins at nine o'clock.",
+          "zh": "早上九點訓練課開始前，請把講義發給所有學員。"
+        },
+        {
+          "en": "The company will distribute its new energy drink to convenience stores across the country next month.",
+          "zh": "公司下個月會把新的能量飲料配送到全國的便利商店。"
+        },
+        {
+          "en": "Volunteers helped distribute free meals and bottled water among the families affected by last week's flooding.",
+          "zh": "志工幫忙把免費餐點和瓶裝水分送給上週水災受災的家庭。"
+        },
+        {
+          "en": "Our firm is looking for a reliable partner to distribute our products in Southeast Asia.",
+          "zh": "我們公司正在找可靠的夥伴，在東南亞經銷我們的產品。"
+        },
+        {
+          "en": "The manager decided to distribute the extra work equally among all members of the sales team.",
+          "zh": "經理決定把多出來的工作平均分配給業務團隊的每個人。"
+        }
+      ],
+      "distractors": [
+        "dispute",
+        "disrupt",
+        "attribute"
+      ],
+      "note": "語塊：distribute A to B（把 A 分發給 B）、distribute A among…（把 A 分給一群人）、distribute products（經銷產品）。dis（分開）＋tribute（給）＝分開給大家。名詞 distribution（分配；配送），經銷商是 distributor。和 disturb（打擾）只有開頭一樣，字根不同；contribute（貢獻）是同一個 -tribute 家族。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
