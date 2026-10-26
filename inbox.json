@@ -6283,6 +6283,41 @@
       ],
       "note": "語塊：consume energy／electricity／fuel（消耗能源／電／燃料）、consume time（花時間）、consume food or drinks（飲食，比 eat／drink 正式）、consume within … days（……天內食用）。名詞 consumption（消耗量），consumer（消費者）。長很像的字：assume（假設）、resume（恢復、重新開始）。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-baked-goods",
+      "word": "baked goods",
+      "pos": "名詞",
+      "meaning": "烘焙食品（麵包、蛋糕、餅乾等）",
+      "sentences": [
+        {
+          "en": "The bakery on Main Street sells fresh bread, cakes, and other baked goods every morning.",
+          "zh": "大街上的麵包店每天早上賣新鮮麵包、蛋糕和其他烘焙食品。"
+        },
+        {
+          "en": "All baked goods are made in our kitchen each morning and sold at half price after eight p.m.",
+          "zh": "所有烘焙食品都是每天早上在我們廚房現做，晚上八點後半價出售。"
+        },
+        {
+          "en": "The café's baked goods, such as muffins and cookies, are popular with office workers during breaks.",
+          "zh": "這家咖啡店的瑪芬、餅乾等烘焙點心，很受上班族休息時間歡迎。"
+        },
+        {
+          "en": "Please label any baked goods containing nuts so that customers with allergies can avoid them.",
+          "zh": "含有堅果的烘焙食品請貼上標示，讓會過敏的客人可以避開。"
+        },
+        {
+          "en": "Our hotel offers complimentary coffee and freshly baked goods in the main lobby every afternoon from three to five.",
+          "zh": "我們飯店每天下午三點到五點，在大廳免費提供咖啡和現烤點心。"
+        }
+      ],
+      "distractors": [
+        "dry goods",
+        "sporting goods",
+        "leather goods"
+      ],
+      "note": "語塊：freshly baked goods（現烤點心）、sell baked goods（賣烘焙食品）。baked（烤過的，bake 的過去分詞）＋goods（商品、貨品）。goods 永遠是複數，所以要說 baked goods，不說 a baked good。⚠️ 拼法：baked（烤的），不是 backed（被支持的）。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
