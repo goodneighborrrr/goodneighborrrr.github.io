@@ -6318,6 +6318,41 @@
       ],
       "note": "語塊：freshly baked goods（現烤點心）、sell baked goods（賣烘焙食品）。baked（烤過的，bake 的過去分詞）＋goods（商品、貨品）。goods 永遠是複數，所以要說 baked goods，不說 a baked good。⚠️ 拼法：baked（烤的），不是 backed（被支持的）。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-subject-to",
+      "word": "subject to",
+      "pos": "其他",
+      "meaning": "可能會（被改變、受影響）；須經過（批准）；須繳（稅）",
+      "sentences": [
+        {
+          "en": "All prices listed on our website are subject to change at any time without prior notice.",
+          "zh": "網站上的所有價格可能隨時調整，恕不另行通知。"
+        },
+        {
+          "en": "The tour schedule is subject to change depending on the weather conditions and traffic on the day of the trip.",
+          "zh": "行程可能依出發當天的天氣和交通狀況調整。"
+        },
+        {
+          "en": "Your loan application is subject to final approval by the bank's credit department within five business days.",
+          "zh": "您的貸款申請須經銀行授信部門在五個工作天內做最後核准。"
+        },
+        {
+          "en": "Imported goods are subject to a ten percent tax when they arrive at the port.",
+          "zh": "進口貨物抵達港口時，須課徵百分之十的稅。"
+        },
+        {
+          "en": "The amount of each ingredient is subject to change if the recipe is adjusted for larger groups.",
+          "zh": "如果食譜調整成大份量，每種材料的用量都可能會改變。"
+        }
+      ],
+      "distractors": [
+        "object to",
+        "subscribe to",
+        "submit to"
+      ],
+      "note": "語塊：be subject to change（可能會變動，公告超常見）、be subject to approval（須經核准）、be subject to tax／a fee（須繳稅／付費）。subject to 後面接名詞。別搞混：submit to（服從、提交給）、object to（反對）。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
