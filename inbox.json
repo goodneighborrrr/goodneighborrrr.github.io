@@ -6038,6 +6038,76 @@
       ],
       "note": "語塊：be renowned for（以……聞名）、world-renowned（世界知名的）、internationally renowned（國際知名的）。同義詞 famous、well-known，renowned 比較正式、帶有「因為很優秀而有名」的感覺。和你學過的 prominent（地位高、顯眼）、notable（值得一提）很像。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-outlets",
+      "word": "outlets",
+      "pos": "名詞",
+      "meaning": "插座；門市、銷售點；（媒體）管道（outlet 的複數）",
+      "sentences": [
+        {
+          "en": "Each meeting room has several power outlets, so attendees can charge their laptops during the session.",
+          "zh": "每間會議室都有好幾個插座，與會者開會時可以幫筆電充電。"
+        },
+        {
+          "en": "The company plans to open fifty new retail outlets across Southeast Asia over the next three years.",
+          "zh": "公司計畫在未來三年內，在東南亞開五十家新的零售門市。"
+        },
+        {
+          "en": "Several major news outlets reported on the merger between the two airlines before it was officially announced.",
+          "zh": "在正式宣布前，好幾家主要新聞媒體就已經報導了兩家航空公司合併的消息。"
+        },
+        {
+          "en": "Our products are now sold through more than two hundred outlets, including supermarkets and convenience stores.",
+          "zh": "我們的產品現在在兩百多個銷售點販售，包括超市和便利商店。"
+        },
+        {
+          "en": "Please do not plug heaters into the outlets near the sink, as this can be dangerous.",
+          "zh": "請不要把暖氣機插在水槽附近的插座，這樣很危險。"
+        }
+      ],
+      "distractors": [
+        "outlines",
+        "outfits",
+        "outings"
+      ],
+      "note": "語塊：power outlet（電源插座）、retail outlet（零售門市）、news／media outlet（新聞媒體）。outlet 原本是「出口」，所以電流的出口＝插座、商品的出口＝銷售點、新聞的出口＝媒體。outlet mall／outlet store 是「暢貨中心、過季折扣店」。",
+      "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-without-further-ado",
+      "word": "without further ado",
+      "pos": "其他",
+      "meaning": "閒話少說；不多說了；那麼就直接開始",
+      "sentences": [
+        {
+          "en": "Without further ado, please welcome our keynote speaker for this year's conference, Ms. Lisa Chen.",
+          "zh": "閒話不多說，讓我們歡迎今年研討會的主講人，陳麗莎小姐。"
+        },
+        {
+          "en": "We have a lot to cover today, so without further ado, let's begin the first presentation.",
+          "zh": "今天要講的內容很多，所以不多說了，我們開始第一場簡報。"
+        },
+        {
+          "en": "The host thanked the sponsors and then, without further ado, announced the winner of the sales award.",
+          "zh": "主持人感謝贊助商之後，就直接宣布了業績獎得主。"
+        },
+        {
+          "en": "Since everyone has arrived, I would like to start the monthly sales meeting without further ado.",
+          "zh": "既然大家都到了，我們就直接開始每月業務會議吧。"
+        },
+        {
+          "en": "Without further ado, let me introduce the newest member of our marketing team, Mr. David Wu.",
+          "zh": "話不多說，讓我介紹行銷團隊的新成員，吳大衛先生。"
+        }
+      ],
+      "distractors": [
+        "without fail",
+        "without notice",
+        "without exception"
+      ],
+      "note": "語塊：without further ado, let's begin／please welcome…（不多說了，我們開始吧／讓我們歡迎……）。主持人、簡報開場最常用的一句話。ado 是古老的字，意思是「麻煩、囉嗦」，現在幾乎只出現在這個片語裡。發音 uh-DOO。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
