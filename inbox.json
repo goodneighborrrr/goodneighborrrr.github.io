@@ -6003,6 +6003,41 @@
       ],
       "note": "語塊：mark the beginning／end of（標誌著……的開始／結束）、mark the first of（是……的第一個）、mark the anniversary（是……週年）。mark 當動詞是「標誌、代表某個重要時刻」，不是「做記號」而已。也常用 to mark the occasion（為了紀念這個時刻）。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261026-renowned",
+      "word": "renowned",
+      "pos": "形容詞",
+      "meaning": "著名的；有名望的",
+      "sentences": [
+        {
+          "en": "The restaurant is renowned for its fresh seafood and has won several international cooking awards since it opened.",
+          "zh": "這家餐廳以新鮮海鮮聞名，開業以來拿過好幾個國際料理獎。"
+        },
+        {
+          "en": "Our keynote speaker is a world-renowned expert in artificial intelligence who has written three best-selling books.",
+          "zh": "我們的主講人是世界知名的人工智慧專家，寫過三本暢銷書。"
+        },
+        {
+          "en": "The new five-star hotel downtown was designed by an internationally renowned architect from Milan, Italy.",
+          "zh": "市中心這間新的五星級飯店，是由一位來自義大利米蘭的國際知名建築師設計的。"
+        },
+        {
+          "en": "Taiwan is renowned for its night markets, which attract millions of visitors from around the world every year.",
+          "zh": "台灣以夜市聞名，每年吸引數百萬來自世界各地的遊客。"
+        },
+        {
+          "en": "The company hired a renowned chef to create a special menu for its anniversary banquet.",
+          "zh": "公司請了一位知名主廚，為週年晚宴設計特別菜單。"
+        }
+      ],
+      "distractors": [
+        "renewed",
+        "renamed",
+        "resigned"
+      ],
+      "note": "語塊：be renowned for（以……聞名）、world-renowned（世界知名的）、internationally renowned（國際知名的）。同義詞 famous、well-known，renowned 比較正式、帶有「因為很優秀而有名」的感覺。和你學過的 prominent（地位高、顯眼）、notable（值得一提）很像。",
+      "addedAt": "2026-10-26"
     }
   ],
   "notes": [
