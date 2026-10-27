@@ -297,7 +297,7 @@ function normalizeWord(w){
     createdAt: w.createdAt || Date.now(),
     stats: Object.assign({ attempts:0, wrong:0, lastSeen:0 }, w.stats || {}),
     review: Object.assign({ active:false, streak:0, lastKey:"" }, w.review || {}),
-    learned: !!w.learned, learnedAt: w.learnedAt || 0,                                                    // 已學會：放到「已學會」單字庫，不再出題
+    learned: !!w.learned, learnedAt: w.learnedAt || 0, colloc: !!w.colloc,                                                    // 已學會：放到「已學會」單字庫，不再出題
     memo: Object.assign({ lastSentence:-1, lastPos:-1 }, w.memo || {}),
   };
 }
@@ -952,6 +952,10 @@ function openBank(){
         <div class="row"><button class="ghost" type="submit">儲存通行碼</button>${hasKey ? `<span class="tag">已設定</span>` : `<span class="tag plain">尚未設定</span>`}</div>
       </form>
       <div class="row" style="justify-content:space-between"><span style="font-size:13px;color:var(--muted)">已登入：${escapeHtml(auth.currentUser?.email || "")}</span><button class="ghost" id="logout">登出</button></div>
+      <div class="stack" id="collocBox" style="gap:6px">
+        <div class="row" style="justify-content:space-between;align-items:center"><span style="font-size:14px">幫舊單字補上慣用語塊</span><button class="ghost" id="collocBtn" type="button">開始</button></div>
+        <p class="note" id="collocMsg" style="margin:0;font-size:13px;color:var(--muted)"></p>
+      </div>
       <a class="linkbtn" href="speaking/" style="justify-self:start">前往英語口說練習 →</a>
     </section>`);
   bankOpen = true;
@@ -1014,6 +1018,22 @@ function openBank(){
   }
   draw();
   panel.querySelectorAll(".tabs button").forEach(t => t.onclick = () => { if (bankTab !== t.dataset.tab){ bankTab = t.dataset.tab; openBank(); } });
+  const collocMsg = $("#collocMsg"), collocBtn = $("#collocBtn");
+  const left = Store.words.filter(needsColloc).length;
+  collocMsg.textContent = left ? `還有 ${left} 個字沒有語塊。按「開始」會用 AI 幫每個字找出常用語塊，並把考題句子換成用到語塊的句子（大約每 5 個字 10 秒，可以隨時中斷，下次再按會接著做）。` : "所有單字都已經有語塊了 👍";
+  collocBtn.disabled = !left || collocRunning;
+  if (collocRunning) collocBtn.textContent = "處理中…";
+  collocBtn.onclick = () => {
+    if (!Store.settings.aiKey) return toast("要先在上面設定 AI 通行碼");
+    collocBtn.disabled = true; collocBtn.textContent = "處理中…";
+    upgradeCollocations(p => {
+      const box = document.getElementById("collocMsg"), b = document.getElementById("collocBtn");
+      const msg = p.error ? `已完成 ${p.done} 個。${p.error}` : p.finished ? `完成！已幫 ${p.done} 個字加上語塊${p.skipped ? `，有 ${p.skipped} 個 AI 寫得不合格先跳過，可以再按一次重試` : ""}。` : `處理中：${p.done + p.skipped} / ${p.total}…（請先不要關掉 App）`;
+      if (box) box.textContent = msg;
+      if (b && (p.error || p.finished)){ b.disabled = !Store.words.some(needsColloc); b.textContent = "繼續"; }
+      if (p.finished || p.error) toast(p.error ? "語塊更新暫停了" : `已幫 ${p.done} 個字加上語塊`);
+    });
+  };
   $("#bankSearch").oninput = e => { bankQuery = e.target.value; draw(); };
   $("#keyForm").addEventListener("submit", async e => {
     e.preventDefault();
@@ -1076,7 +1096,8 @@ Return ONLY a JSON array with one object per target word, in the same order, eac
  "meaning": "Traditional Chinese (Taiwan) meaning, short, separate senses with ；",
  "sentences": [5 items of {"en": "a business/office TOEIC-style English sentence, 15-28 words, containing the exact target word string exactly once, same spelling and form", "zh": "natural Traditional Chinese (Taiwan) translation"}],
  "distractors": [3 English words with the same part of speech that look or sound similar to the target word but do NOT fit any of its sentences],
- "note": "Traditional Chinese (Taiwan), 1-2 short sentences: common synonyms or easily confused words and how they differ (e.g. different sentence pattern), or empty string if nothing useful"}`;
+ "note": "Traditional Chinese (Taiwan). Start with 語塊：then 1-3 of the most common collocations of the word, each followed by its Chinese meaning in full-width brackets, separated by 、, ending with 。 (e.g. 語塊：take responsibility for（為……負責）、sense of responsibility（責任感）。). Then optionally 1-2 short sentences about common synonyms or easily confused words and how they differ."}
+At least 3 of the 5 sentences must use those collocations.`;
     let arr = await this.call(prompt);
     if (!Array.isArray(arr)) arr = Array.isArray(arr?.words) ? arr.words : [arr];
     const out = {};
@@ -1088,6 +1109,19 @@ Return ONLY a JSON array with one object per target word, in the same order, eac
     }
     return out;
   },
+  // 幫已經在單字庫的字補上「慣用語塊」，並重寫出題句子（每句都用到語塊）
+  async collocateMany(list){
+    const prompt = `You are improving TOEIC Part 5 practice questions for a Taiwanese learner. For each target word, find its 1-3 most common collocations (慣用語塊) and rewrite the practice sentences so they use them.
+Target words (keep the exact spelling and form): ${JSON.stringify(list.map(w => ({ word: w.word, pos: w.pos, meaning: w.meaning })))}
+Return ONLY a JSON array with one object per target word, in the same order:
+{"word": the target word exactly as given,
+ "collocations": [1-3 items of {"en": "the collocation, e.g. take responsibility for", "zh": "short Traditional Chinese (Taiwan) meaning"}],
+ "sentences": [5 items of {"en": "a business/office TOEIC-style English sentence, 15-28 words, containing the exact target word string exactly once (same spelling and form), and using one of the collocations", "zh": "natural Traditional Chinese (Taiwan) translation"}],
+ "distractors": [3 English words with the same part of speech that look or sound similar to the target word but do NOT fit any of the new sentences]}`;
+    let arr = await this.call(prompt);
+    if (!Array.isArray(arr)) arr = Array.isArray(arr?.words) ? arr.words : [arr];
+    return arr;
+  },
   async generate(word){
     const prompt = `You are writing TOEIC Part 5 practice questions for a Taiwanese learner.
 Target word: "${word}"
@@ -1096,7 +1130,8 @@ Return ONLY JSON with this shape:
  "meaning": "Traditional Chinese (Taiwan) meaning, short, separate senses with ；",
  "sentences": [5 items of {"en": "a business/office TOEIC-style English sentence, 15-28 words, containing the exact string \\"${word}\\" exactly once, same spelling and form", "zh": "natural Traditional Chinese (Taiwan) translation"}],
  "distractors": [3 English words with the same part of speech that look or sound similar to "${word}" but do NOT fit any of the sentences],
- "note": "Traditional Chinese (Taiwan), 1-2 short sentences: common synonyms or easily confused words and how they differ (e.g. different sentence pattern), or empty string if nothing useful"}`;
+ "note": "Traditional Chinese (Taiwan). Start with 語塊：then 1-3 of the most common collocations of the word, each followed by its Chinese meaning in full-width brackets, separated by 、, ending with 。 (e.g. 語塊：take responsibility for（為……負責）、sense of responsibility（責任感）。). Then optionally 1-2 short sentences about common synonyms or easily confused words and how they differ."}
+At least 3 of the 5 sentences must use those collocations.`;
     let j = await this.call(prompt);
     if (Array.isArray(j)) j = j[0] || {};
     const sentences = (j.sentences || []).filter(s => s && s.en && hasWord(s.en, word));
@@ -1131,6 +1166,43 @@ async function fillGloss(q){
     Store.saveSettings({ gloss: add });
     if (S.round[S.i] === q) render();
   } catch {}
+}
+
+/* ---------- 幫舊單字補上慣用語塊（用 AI，可以中斷後再繼續） ---------- */
+function needsColloc(w){ return !w.colloc && !/^\s*語塊：/.test(w.note || ""); }
+let collocRunning = false;
+async function upgradeCollocations(onProgress){
+  if (collocRunning) return;
+  collocRunning = true;
+  const todo = Store.words.filter(needsColloc).sort((a, b) => (a.learned - b.learned));   // 學習中的字先做
+  const total = todo.length; let done = 0, skipped = 0;
+  const wait = ms => new Promise(r => setTimeout(r, ms));
+  try {
+    for (let i = 0; i < todo.length; i += 5){
+      const part = todo.slice(i, i + 5);
+      let arr;
+      try { arr = await AI.collocateMany(part); }
+      catch (e){ onProgress({ done, skipped, total, error: e.userMessage || "AI 暫時沒辦法使用，請過幾分鐘再按一次（做好的字會保留）。" }); return; }
+      for (const w of part){
+        const j = arr.find(x => String(x?.word || "").trim().toLowerCase() === w.word.toLowerCase());
+        const cols = (j?.collocations || []).filter(c => c && c.en).slice(0, 3);
+        const once = t => (t.match(new RegExp(wordRe(w.word).source, "gi")) || []).length === 1;
+        const sentences = (j?.sentences || []).filter(x => x && x.en && once(x.en) && x.en.trim().split(/\s+/).length >= 10);
+        if (!cols.length || sentences.length < 3){ skipped++; continue; }
+        const head = "語塊：" + cols.map(c => `${String(c.en).trim()}${c.zh ? `（${String(c.zh).trim()}）` : ""}`).join("、") + "。";
+        w.note = (head + " " + String(w.note || "").replace(/^\s*語塊：[^。]*。\s*/, "")).trim();
+        w.sentences = sentences.map(x => ({ en: x.en, zh: x.zh || "" }));
+        const ds = (j.distractors || []).map(x => String(x).trim()).filter(x => x && x.toLowerCase() !== w.word.toLowerCase() && !w.sentences.some(t => hasWord(t.en, x)));
+        if (ds.length >= 3) w.distractors = ds.slice(0, 3);
+        w.colloc = true; w.memo.lastSentence = -1;
+        await Store.update(w);
+        done++;
+      }
+      onProgress({ done, skipped, total });
+      await wait(1500);                                                       // 不要太快，免得超過 AI 免費額度
+    }
+    onProgress({ done, skipped, total, finished: true });
+  } finally { collocRunning = false; }
 }
 
 /* ---------- Claude 收件匣：Claude 幫你寫好的單字放在 inbox.json ---------- */
