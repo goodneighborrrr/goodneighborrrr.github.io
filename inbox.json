@@ -6528,6 +6528,76 @@
       ],
       "note": "語塊：Korean／Japanese／American TV drama（韓劇／日劇／美劇）、star in a TV drama（主演電視劇）、binge-watch a TV drama（追劇、一次看很多集）。美式也常說 TV series 或 TV show；一集是 an episode，一季是 a season。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-branched-out",
+      "word": "branched out",
+      "pos": "片語動詞",
+      "meaning": "擴展（業務）；拓展到新領域（branch out 的過去式）",
+      "sentences": [
+        {
+          "en": "After ten years of selling shoes, the company branched out into handbags and other leather goods.",
+          "zh": "賣了十年的鞋子後，公司把業務擴展到手提包和其他皮件。"
+        },
+        {
+          "en": "The restaurant chain has branched out from Taiwanese food to offer Japanese and Korean dishes as well.",
+          "zh": "這家連鎖餐廳從台菜拓展到也提供日式和韓式料理。"
+        },
+        {
+          "en": "Ms. Lin started as a wedding photographer but later branched out into video production for businesses.",
+          "zh": "林小姐一開始是婚禮攝影師，後來拓展到幫企業拍影片。"
+        },
+        {
+          "en": "Our bakery branched out last year by opening three small cafés in local train stations.",
+          "zh": "我們麵包店去年拓展業務，在當地火車站開了三家小咖啡店。"
+        },
+        {
+          "en": "Having branched out from its original software business, the firm now also sells computers and tablets.",
+          "zh": "這家公司從原本的軟體業務擴展出去，現在也賣電腦和平板。"
+        }
+      ],
+      "distractors": [
+        "bailed out",
+        "broke out",
+        "burned out"
+      ],
+      "note": "語塊：branch out into＋新領域（擴展到……）、branch out from＋原本的領域（從……拓展出去）。branch 是「樹枝；分公司」，就像樹從主幹長出新的樹枝。別搞混：broke out（爆發）、burned out（累垮了）。",
+      "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-entitled",
+      "word": "entitled",
+      "pos": "形容詞",
+      "meaning": "有權（得到／做）的；（書、演講）標題為……的",
+      "sentences": [
+        {
+          "en": "All full-time employees are entitled to fifteen days of paid vacation each year, plus five additional sick days.",
+          "zh": "所有全職員工每年享有十五天特休，另外還有五天病假。"
+        },
+        {
+          "en": "Customers who spend over five hundred dollars are entitled to free delivery within the city.",
+          "zh": "消費超過五百元的顧客，市區內可享免運。"
+        },
+        {
+          "en": "Members of our loyalty program are entitled to a ten percent discount on all purchases.",
+          "zh": "我們會員計畫的會員，所有消費都享九折。"
+        },
+        {
+          "en": "Ms. Kim gave a presentation entitled \"Building Strong Customer Relationships\" at the annual sales conference in Seoul last week.",
+          "zh": "金小姐上週在首爾的年度業務大會上，發表了一場題為「建立穩固的客戶關係」的簡報。"
+        },
+        {
+          "en": "Passengers are entitled to a full refund if their flight is canceled by the airline.",
+          "zh": "如果班機被航空公司取消，乘客有權全額退款。"
+        }
+      ],
+      "distractors": [
+        "entertained",
+        "enlisted",
+        "encircled"
+      ],
+      "note": "語塊：be entitled to＋名詞（有權享有……）、be entitled to＋動詞（有權做……）、a book／presentation entitled…（標題為……的書／簡報）。動詞 entitle（給予權利；給……命名），名詞 entitlement（權利）。多益的福利、退款、會員公告超常見。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
