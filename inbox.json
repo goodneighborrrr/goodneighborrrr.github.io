@@ -6808,6 +6808,41 @@
       ],
       "note": "語塊：government official（政府官員）、senior official（高層官員）、former official（前官員）、city official（市府官員）。official 當形容詞是「正式的、官方的」（official website 官網、official announcement 正式公告）；當名詞是「官員」。別搞混 officer（軍官、警官；公司的高階主管）和 office（辦公室）。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-professionalism",
+      "word": "professionalism",
+      "pos": "名詞",
+      "meaning": "專業精神；專業表現；敬業態度",
+      "sentences": [
+        {
+          "en": "Our clients often say they appreciate the professionalism of our staff, especially their quick and polite responses.",
+          "zh": "客戶常說很欣賞我們員工的專業，特別是他們回覆又快又有禮貌。"
+        },
+        {
+          "en": "We can always rely on their professionalism, even when deadlines are very tight and the work is difficult.",
+          "zh": "即使期限很趕、工作很難，我們也總是可以信賴他們的專業。"
+        },
+        {
+          "en": "The hotel manager praised the team for their professionalism and patience during the very busy holiday season.",
+          "zh": "飯店經理稱讚團隊在忙碌的假期旺季中表現專業又有耐心。"
+        },
+        {
+          "en": "Dressing neatly and arriving on time are simple ways to show professionalism at a job interview.",
+          "zh": "穿著整齊、準時到，是面試時展現專業的簡單方法。"
+        },
+        {
+          "en": "Customers often judge a company's professionalism by how quickly it answers emails and phone calls.",
+          "zh": "顧客常常用回信和接電話的速度，來判斷一家公司夠不夠專業。"
+        }
+      ],
+      "distractors": [
+        "professional",
+        "professor",
+        "procession"
+      ],
+      "note": "語塊：rely on someone's professionalism（信賴某人的專業）、show／demonstrate professionalism（展現專業）、a high level of professionalism（高度專業）。⚠️ 多益常考詞性：their／his 後面要接名詞 professionalism；professional 是形容詞（a professional attitude）或「專業人士」（a professional）。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
