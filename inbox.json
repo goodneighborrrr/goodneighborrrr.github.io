@@ -6773,6 +6773,41 @@
       ],
       "note": "語塊：historic monument（歷史古蹟）、a monument to＋人（紀念……的碑）、build／erect a monument（立紀念碑）。形容詞 monumental（巨大的、意義重大的）。拼法：mo-nu-ment（中間是 nu），別寫成 momument；和 moment（時刻）只差一點。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-official",
+      "word": "official",
+      "pos": "名詞",
+      "meaning": "官員；公務員；（機構的）負責人員",
+      "sentences": [
+        {
+          "en": "A former government official will give a speech about trade policy at next week's business forum.",
+          "zh": "一位前政府官員將在下週的商業論壇上演講，談貿易政策。"
+        },
+        {
+          "en": "A senior official from the ministry met with local business owners to discuss the new tax rules.",
+          "zh": "部會的一位高層官員和當地企業主會面，討論新的稅法規定。"
+        },
+        {
+          "en": "According to a city official, the new subway line will open to passengers in December.",
+          "zh": "根據一位市府官員的說法，新的捷運線將在十二月開放乘客搭乘。"
+        },
+        {
+          "en": "The company hired a former official from the Ministry of Finance as its new legal adviser.",
+          "zh": "公司聘請一位前財政部官員擔任新的法律顧問。"
+        },
+        {
+          "en": "Every visitor must be accompanied by an official from the factory during the safety inspection.",
+          "zh": "安全檢查期間，每位訪客都必須由工廠的負責人員陪同。"
+        }
+      ],
+      "distractors": [
+        "office",
+        "offering",
+        "offspring"
+      ],
+      "note": "語塊：government official（政府官員）、senior official（高層官員）、former official（前官員）、city official（市府官員）。official 當形容詞是「正式的、官方的」（official website 官網、official announcement 正式公告）；當名詞是「官員」。別搞混 officer（軍官、警官；公司的高階主管）和 office（辦公室）。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
