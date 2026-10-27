@@ -6423,6 +6423,41 @@
       ],
       "note": "語塊：low in sodium／low-sodium（低鈉）、high in sodium（高鈉）、sodium intake（鈉攝取量）、sodium content（鈉含量）。鹽的化學名稱是 sodium chloride（氯化鈉）。和 potassium（鉀）常一起出現在營養標示上。發音 SO-dee-um。",
       "addedAt": "2026-10-26"
+    },
+    {
+      "id": "20261027-personality",
+      "word": "personality",
+      "pos": "名詞",
+      "meaning": "個性；性格；人格特質",
+      "sentences": [
+        {
+          "en": "Ms. Lin's friendly personality makes her a great fit for our busy customer service team.",
+          "zh": "林小姐個性親切，很適合我們忙碌的客服團隊。"
+        },
+        {
+          "en": "We are looking for a salesperson with an outgoing personality, a positive attitude, and strong communication skills.",
+          "zh": "我們在找個性外向、態度正面、溝通能力強的業務人員。"
+        },
+        {
+          "en": "The job interview included a short online test to identify each candidate's main personality traits and work style.",
+          "zh": "面試包含一個簡短的線上測驗，了解每位應徵者主要的人格特質和工作風格。"
+        },
+        {
+          "en": "Although he is very quiet, Mr. Park has a strong personality and is not afraid to share his opinions.",
+          "zh": "朴先生雖然很安靜，但個性很強，敢說出自己的意見。"
+        },
+        {
+          "en": "Many customers love the café because the owner's warm personality makes everyone feel welcome and relaxed.",
+          "zh": "很多客人喜歡這家咖啡店，因為老闆個性溫暖，讓大家覺得很自在。"
+        }
+      ],
+      "distractors": [
+        "personification",
+        "partiality",
+        "plurality"
+      ],
+      "note": "語塊：outgoing／friendly personality（外向／親切的個性）、strong personality（個性很強）、personality traits（人格特質）、a good fit for one's personality（適合某人的個性）。和 character 的差別：personality 偏「外在表現出來的個性」，character 偏「品格、道德」。別搞混 personnel（全體員工、人事）。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
