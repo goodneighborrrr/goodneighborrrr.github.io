@@ -6458,6 +6458,76 @@
       ],
       "note": "語塊：outgoing／friendly personality（外向／親切的個性）、strong personality（個性很強）、personality traits（人格特質）、a good fit for one's personality（適合某人的個性）。和 character 的差別：personality 偏「外在表現出來的個性」，character 偏「品格、道德」。別搞混 personnel（全體員工、人事）。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-interview",
+      "word": "interview",
+      "pos": "名詞",
+      "meaning": "面試；訪談；採訪",
+      "sentences": [
+        {
+          "en": "Please arrive fifteen minutes early for your job interview and bring a copy of your résumé.",
+          "zh": "面試請提早十五分鐘到，並帶一份履歷。"
+        },
+        {
+          "en": "The human resources manager will conduct the second interview with the top three candidates next week.",
+          "zh": "人資經理下週會和前三名應徵者進行第二輪面試。"
+        },
+        {
+          "en": "We would like to schedule an interview with you on Thursday afternoon at two o'clock.",
+          "zh": "我們想跟您約週四下午兩點面試。"
+        },
+        {
+          "en": "During the interview, Ms. Chen talked about her five years of experience in international sales.",
+          "zh": "面試時，陳小姐談到她五年的國際業務經驗。"
+        },
+        {
+          "en": "The newspaper published an interview with the company's founder about her plans for expansion overseas.",
+          "zh": "報紙刊登了一篇對公司創辦人的專訪，談她拓展海外的計畫。"
+        }
+      ],
+      "distractors": [
+        "interior",
+        "interval",
+        "interstate"
+      ],
+      "note": "語塊：job interview（工作面試）、have／attend an interview（去面試）、schedule an interview（安排面試）、conduct an interview（進行面試）、an interview with＋人（對某人的訪談）。interview 也可以當動詞：interview candidates（面試應徵者）。面試官 interviewer，被面試的人 interviewee。",
+      "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-tv-drama",
+      "word": "TV drama",
+      "pos": "名詞",
+      "meaning": "電視劇；連續劇",
+      "sentences": [
+        {
+          "en": "The popular Korean TV drama was filmed at several famous locations around Seoul last year.",
+          "zh": "那部很紅的韓劇去年在首爾幾個知名景點拍攝。"
+        },
+        {
+          "en": "Our company's new office appeared in a TV drama, which brought many curious visitors to the building.",
+          "zh": "我們公司的新辦公室出現在一部電視劇裡，吸引很多好奇的訪客來大樓參觀。"
+        },
+        {
+          "en": "The streaming service will release a new TV drama about life in a busy Taipei hospital next month.",
+          "zh": "這個串流平台下個月會推出一部關於台北忙碌醫院生活的新劇。"
+        },
+        {
+          "en": "Ms. Wu learned a lot of everyday English by watching an American TV drama with subtitles.",
+          "zh": "吳小姐靠看有字幕的美劇，學會了很多生活英文。"
+        },
+        {
+          "en": "The actor became famous after starring in a TV drama that was shown in more than twenty countries.",
+          "zh": "這位演員主演了一部在二十多個國家播出的電視劇後爆紅。"
+        }
+      ],
+      "distractors": [
+        "TV stand",
+        "TV dinner",
+        "TV license"
+      ],
+      "note": "語塊：Korean／Japanese／American TV drama（韓劇／日劇／美劇）、star in a TV drama（主演電視劇）、binge-watch a TV drama（追劇、一次看很多集）。美式也常說 TV series 或 TV show；一集是 an episode，一季是 a season。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
