@@ -6703,6 +6703,41 @@
       ],
       "note": "語塊：justify the cost／expense（說明費用是合理的）、justify a decision（為決定提出理由）、hard to justify（很難說得過去）。名詞 justification（正當理由），形容詞 justified（有道理的）。字根 just＝公正、合理，justify＝讓它變得合理。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-tribute",
+      "word": "tribute",
+      "pos": "名詞",
+      "meaning": "致敬；表揚；紀念",
+      "sentences": [
+        {
+          "en": "The company president paid tribute to the retiring employees for their many years of hard work.",
+          "zh": "公司總裁向即將退休的員工致敬，感謝他們多年來的辛勞。"
+        },
+        {
+          "en": "The concert was a tribute to the famous Taiwanese singer who passed away earlier last year.",
+          "zh": "這場音樂會是為了紀念去年初過世的知名台灣歌手。"
+        },
+        {
+          "en": "At the awards dinner, the CEO paid tribute to the volunteers who helped after the earthquake.",
+          "zh": "在頒獎晚宴上，執行長向地震後協助救災的志工致敬。"
+        },
+        {
+          "en": "The new library was named after the city's first mayor as a tribute to his public service.",
+          "zh": "新圖書館以第一任市長命名，紀念他對公眾的貢獻。"
+        },
+        {
+          "en": "Employees wore blue shirts in tribute to the company founder on the fiftieth anniversary of the firm.",
+          "zh": "公司五十週年時，員工穿藍色襯衫向創辦人致敬。"
+        }
+      ],
+      "distractors": [
+        "tribunal",
+        "tributary",
+        "trinket"
+      ],
+      "note": "語塊：pay tribute to＋人（向……致敬）、a tribute to＋人（獻給……的紀念）、in tribute to（為了紀念……）。字根 tribute＝給（獻給某人），和 contribute、distribute 同一家族。tribute band 是「致敬樂團」，專門翻唱某個知名樂團的歌。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
