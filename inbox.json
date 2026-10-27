@@ -6738,6 +6738,41 @@
       ],
       "note": "語塊：pay tribute to＋人（向……致敬）、a tribute to＋人（獻給……的紀念）、in tribute to（為了紀念……）。字根 tribute＝給（獻給某人），和 contribute、distribute 同一家族。tribute band 是「致敬樂團」，專門翻唱某個知名樂團的歌。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-monument",
+      "word": "monument",
+      "pos": "名詞",
+      "meaning": "紀念碑；紀念建築；歷史古蹟",
+      "sentences": [
+        {
+          "en": "Thousands of tourists visit the historic monument in the old city center every summer to take photos.",
+          "zh": "每年夏天都有成千上萬的遊客到老城區的歷史古蹟拍照。"
+        },
+        {
+          "en": "The town built a stone monument to honor the workers who helped build the railway.",
+          "zh": "小鎮立了一座石碑，紀念協助建造鐵路的工人。"
+        },
+        {
+          "en": "Our hotel is just a five-minute walk from the national monument and the main shopping street.",
+          "zh": "我們飯店走路五分鐘就到國家紀念碑和主要的購物街。"
+        },
+        {
+          "en": "A monument to the company's founder stands in front of the headquarters building in Taipei.",
+          "zh": "台北總部大樓前立著一座紀念公司創辦人的紀念碑。"
+        },
+        {
+          "en": "The city government plans to repair the old monument before the tourist season begins next spring.",
+          "zh": "市政府計畫在明年春天觀光旺季開始前修復這座老古蹟。"
+        }
+      ],
+      "distractors": [
+        "moment",
+        "momentum",
+        "monotony"
+      ],
+      "note": "語塊：historic monument（歷史古蹟）、a monument to＋人（紀念……的碑）、build／erect a monument（立紀念碑）。形容詞 monumental（巨大的、意義重大的）。拼法：mo-nu-ment（中間是 nu），別寫成 momument；和 moment（時刻）只差一點。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
