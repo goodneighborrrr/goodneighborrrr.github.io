@@ -6878,6 +6878,41 @@
       ],
       "note": "語塊：travel itinerary（旅遊行程表）、a detailed itinerary（詳細行程）、plan／finalize an itinerary（規劃／確定行程）、The itinerary includes…（行程包括……）。和 schedule 的差別：schedule 是一般的時間表；itinerary 專指旅行或出差的路線和行程。發音 ai-TIN-uh-rair-ee。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-diameter",
+      "word": "diameter",
+      "pos": "名詞",
+      "meaning": "直徑",
+      "sentences": [
+        {
+          "en": "The new pizza pans are thirty centimeters in diameter, which is perfect for family-size orders.",
+          "zh": "新的披薩烤盤直徑三十公分，很適合家庭號的訂單。"
+        },
+        {
+          "en": "Please measure the diameter of each pipe before ordering any replacement parts from our main supplier.",
+          "zh": "向我們的主要供應商訂替換零件前，請先量好每根水管的直徑。"
+        },
+        {
+          "en": "The company makes metal wheels that are about fifty centimeters in diameter for delivery carts.",
+          "zh": "這家公司生產直徑大約五十公分的金屬輪子，用在送貨推車上。"
+        },
+        {
+          "en": "The diameter of the round meeting table is two meters, so it can seat up to ten people.",
+          "zh": "圓形會議桌的直徑是兩公尺，最多可以坐十個人。"
+        },
+        {
+          "en": "Our engineers increased the diameter of the cooling fan to make the machine run more quietly.",
+          "zh": "我們的工程師加大了散熱風扇的直徑，讓機器運轉得更安靜。"
+        }
+      ],
+      "distractors": [
+        "thermometer",
+        "diagram",
+        "dilemma"
+      ],
+      "note": "語塊：… centimeters in diameter（直徑……公分）、the diameter of＋東西（……的直徑）。相關字：radius（半徑）、circumference（圓周）、perimeter（周長）。dia＝穿過，meter＝測量 → 穿過圓心量的長度。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
