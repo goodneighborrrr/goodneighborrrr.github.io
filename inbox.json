@@ -6843,6 +6843,41 @@
       ],
       "note": "語塊：rely on someone's professionalism（信賴某人的專業）、show／demonstrate professionalism（展現專業）、a high level of professionalism（高度專業）。⚠️ 多益常考詞性：their／his 後面要接名詞 professionalism；professional 是形容詞（a professional attitude）或「專業人士」（a professional）。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-itinerary",
+      "word": "itinerary",
+      "pos": "名詞",
+      "meaning": "行程表；旅行計畫",
+      "sentences": [
+        {
+          "en": "Please check the travel itinerary carefully and let us know if you need to change any flight times.",
+          "zh": "請仔細確認旅遊行程表，如果需要改任何航班時間請告訴我們。"
+        },
+        {
+          "en": "The tour company sent each guest a detailed itinerary listing all hotels, meals, and activities for the trip.",
+          "zh": "旅行社寄給每位旅客一份詳細行程表，列出這趟旅程所有的飯店、餐點和活動。"
+        },
+        {
+          "en": "Our assistant will finalize the itinerary for the sales trip to Japan by Friday afternoon.",
+          "zh": "我們的助理會在週五下午前確定日本業務出差的行程。"
+        },
+        {
+          "en": "The itinerary includes a factory visit in Osaka and a meeting with clients in Tokyo.",
+          "zh": "行程包括參觀大阪的工廠，以及和東京的客戶開會。"
+        },
+        {
+          "en": "Due to the typhoon, the airline had to change the itinerary for all passengers flying to Okinawa.",
+          "zh": "因為颱風，航空公司必須更改所有飛往沖繩旅客的行程。"
+        }
+      ],
+      "distractors": [
+        "itinerant",
+        "interior",
+        "literacy"
+      ],
+      "note": "語塊：travel itinerary（旅遊行程表）、a detailed itinerary（詳細行程）、plan／finalize an itinerary（規劃／確定行程）、The itinerary includes…（行程包括……）。和 schedule 的差別：schedule 是一般的時間表；itinerary 專指旅行或出差的路線和行程。發音 ai-TIN-uh-rair-ee。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
