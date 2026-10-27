@@ -6633,6 +6633,41 @@
       ],
       "note": "語塊：a pioneer in／of＋領域（……的先驅）、pioneering work（開創性的工作）。pioneer 也可以當動詞：pioneer a new technology（率先開發新技術）。發音 pai-uh-NEER，重音在最後。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-imply",
+      "word": "imply",
+      "pos": "動詞",
+      "meaning": "暗示；意味著（沒有直接說出來）",
+      "sentences": [
+        {
+          "en": "The manager's comments seemed to imply that the project would be delayed until next year.",
+          "zh": "經理的話似乎暗示這個專案會延到明年。"
+        },
+        {
+          "en": "A small drop in sales does not necessarily imply that customers are unhappy with our products.",
+          "zh": "業績小幅下滑，不一定代表顧客對我們的產品不滿意。"
+        },
+        {
+          "en": "Her silence during the meeting may imply that she does not agree with the new plan.",
+          "zh": "她在會議上不說話，可能暗示她不同意新計畫。"
+        },
+        {
+          "en": "The report did not directly say the factory would close, but it seemed to imply it.",
+          "zh": "報告沒有直接說工廠會關，但看起來是在暗示這件事。"
+        },
+        {
+          "en": "Low prices do not always imply low quality, so please read the product reviews carefully.",
+          "zh": "價格低不一定代表品質差，所以請仔細看商品評論。"
+        }
+      ],
+      "distractors": [
+        "employ",
+        "impose",
+        "multiply"
+      ],
+      "note": "語塊：imply that＋句子（暗示……）、seem to imply（似乎在暗示）、not necessarily imply（不一定代表）。名詞 implication（含意；影響）。⚠️ 別搞混：implement（執行、實施）長得像但意思完全不同；infer 是「推論出」，說話的人 imply，聽的人 infer。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
