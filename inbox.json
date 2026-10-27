@@ -6668,6 +6668,41 @@
       ],
       "note": "語塊：imply that＋句子（暗示……）、seem to imply（似乎在暗示）、not necessarily imply（不一定代表）。名詞 implication（含意；影響）。⚠️ 別搞混：implement（執行、實施）長得像但意思完全不同；infer 是「推論出」，說話的人 imply，聽的人 infer。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261027-justify",
+      "word": "justify",
+      "pos": "動詞",
+      "meaning": "證明……是合理的；為……辯護；說明理由",
+      "sentences": [
+        {
+          "en": "The manager had to justify the high cost of the new software to the board of directors.",
+          "zh": "經理必須向董事會說明，新軟體這麼貴是合理的。"
+        },
+        {
+          "en": "It is hard to justify spending so much money on advertising when sales are falling.",
+          "zh": "業績在下滑時，很難說服大家花這麼多錢打廣告是合理的。"
+        },
+        {
+          "en": "Please prepare a short report to justify your decision to hire two more temporary workers.",
+          "zh": "請準備一份簡短報告，說明你決定多請兩位臨時工的理由。"
+        },
+        {
+          "en": "The excellent results of the trial program justify expanding it to all of our stores next year.",
+          "zh": "試辦計畫的成果很好，證明明年擴大到所有門市是合理的。"
+        },
+        {
+          "en": "Can you justify the extra expense of first-class flight tickets for such a short two-hour business trip?",
+          "zh": "這麼短的兩小時出差，你能說明為什麼要多花錢買頭等艙機票嗎？"
+        }
+      ],
+      "distractors": [
+        "testify",
+        "gratify",
+        "fortify"
+      ],
+      "note": "語塊：justify the cost／expense（說明費用是合理的）、justify a decision（為決定提出理由）、hard to justify（很難說得過去）。名詞 justification（正當理由），形容詞 justified（有道理的）。字根 just＝公正、合理，justify＝讓它變得合理。",
+      "addedAt": "2026-10-27"
     }
   ],
   "notes": [
