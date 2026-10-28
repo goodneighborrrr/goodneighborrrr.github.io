@@ -7368,6 +7368,41 @@
       ],
       "note": "語塊：TV／radio commercial（電視／廣播廣告）、a part in a commercial（在廣告中的角色）、film／shoot a commercial（拍廣告）。和 advertisement 的差別：commercial 專指電視、廣播、影片的廣告；advertisement 範圍更廣，報紙、海報、網路廣告都算。commercial 當形容詞是「商業的」（commercial building 商業大樓）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-tablet",
+      "word": "tablet",
+      "pos": "名詞",
+      "meaning": "平板電腦；藥片、錠劑",
+      "sentences": [
+        {
+          "en": "Customers can place their orders on a tablet at each table instead of waiting for a server.",
+          "zh": "客人可以用每張桌上的平板點餐，不用等服務生。"
+        },
+        {
+          "en": "Every sales representative will receive a new tablet to show product videos and price lists to clients.",
+          "zh": "每位業務代表都會拿到一台新平板，用來給客戶看產品影片和價目表。"
+        },
+        {
+          "en": "Please take one tablet twice a day after meals for seven days, and drink plenty of water.",
+          "zh": "請連續七天，每天兩次飯後吃一顆藥，並多喝水。"
+        },
+        {
+          "en": "The hotel provides a tablet in each room so guests can order room service and book tours.",
+          "zh": "飯店每間房都有一台平板，房客可以點客房服務、預約導覽。"
+        },
+        {
+          "en": "Our new app works on both a smartphone and a tablet, so you can study anywhere.",
+          "zh": "我們的新 App 在手機和平板上都能用，隨時隨地都能讀書。"
+        }
+      ],
+      "distractors": [
+        "tabloid",
+        "toilet",
+        "ticket"
+      ],
+      "note": "語塊：on a tablet（在平板上）、tablet computer（平板電腦）、take a tablet（吃一顆藥）。tablet 有兩個意思：①平板電腦（像 iPad）②藥片、錠劑（＝pill）。長很像的字：tabloid（八卦小報）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
