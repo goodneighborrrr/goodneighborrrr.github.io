@@ -6983,6 +6983,41 @@
       ],
       "note": "語塊：attend a showing（參加放映會／看屋）、a special／private showing（特別／私人放映、看屋）、a house／property showing（看房子）。和 screening 很像（電影放映），showing 還可以用在房屋買賣和展覽。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-mortgage",
+      "word": "mortgage",
+      "pos": "名詞",
+      "meaning": "房屋貸款；房貸；抵押貸款",
+      "sentences": [
+        {
+          "en": "The young couple applied for a mortgage to buy their first apartment near the train station.",
+          "zh": "這對年輕夫妻申請房貸，要買他們在火車站附近的第一間公寓。"
+        },
+        {
+          "en": "Our bank offers low interest rates for customers who take out a mortgage before the end of the year.",
+          "zh": "年底前申辦房貸的客戶，我們銀行提供低利率。"
+        },
+        {
+          "en": "After twenty years of monthly payments, Mr. Lin finally paid off his mortgage last spring.",
+          "zh": "每個月繳了二十年，林先生終於在去年春天還清房貸。"
+        },
+        {
+          "en": "Rising interest rates have made mortgage payments more expensive for many families in the city.",
+          "zh": "利率上升讓這座城市很多家庭的房貸月付金變得更貴。"
+        },
+        {
+          "en": "Before applying, please prepare your salary records, since the bank will review them for the mortgage.",
+          "zh": "申請前請準備好薪資證明，因為銀行會審核這些資料來決定房貸。"
+        }
+      ],
+      "distractors": [
+        "mortar",
+        "morale",
+        "mileage"
+      ],
+      "note": "語塊：apply for a mortgage（申請房貸）、take out a mortgage（辦房貸）、pay off a mortgage（還清房貸）、mortgage payments（房貸月付）。⚠️ 發音：t 不發音，唸 MOR-gij。和 loan 的差別：loan 是一般貸款，mortgage 專指用房子抵押的貸款。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
