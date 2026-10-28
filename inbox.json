@@ -7543,6 +7543,41 @@
       ],
       "note": "語塊：auditing firm（會計師事務所、審計公司）、internal auditing（內部稽核）、the auditing process（審計流程）。動詞／名詞 audit（審計、查帳），做審計的人是 auditor（稽核員、審計師）。⚠️ 別和 audition（試鏡）搞混，兩個都來自 aud（聽）。美式口語 audit a class 是「旁聽一門課」。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-trim",
+      "word": "trim",
+      "pos": "動詞",
+      "meaning": "修剪；剪短；削減（成本、預算）；精簡",
+      "sentences": [
+        {
+          "en": "The gardener will trim the bushes in front of the office building every two weeks.",
+          "zh": "園丁每兩週會修剪辦公大樓前的灌木叢。"
+        },
+        {
+          "en": "To stay within budget, the company plans to trim travel costs by twenty percent next year.",
+          "zh": "為了不超出預算，公司計畫明年把差旅費削減兩成。"
+        },
+        {
+          "en": "Please trim the report to two pages so the directors can read it before the meeting.",
+          "zh": "請把報告精簡到兩頁，讓董事們在開會前看完。"
+        },
+        {
+          "en": "The hair salon offers a quick free service to trim customers' bangs between their regular appointments.",
+          "zh": "這家美髮店提供快速的免費修瀏海服務，客人在兩次預約之間都可以來。"
+        },
+        {
+          "en": "The restaurant decided to trim its menu and focus on its ten most popular dishes.",
+          "zh": "餐廳決定精簡菜單，專心做最受歡迎的十道菜。"
+        }
+      ],
+      "distractors": [
+        "trap",
+        "trip",
+        "tremble"
+      ],
+      "note": "語塊：trim costs／the budget（削減成本／預算）、trim the bushes／hedges（修剪灌木／樹籬）、trim your hair（修頭髮）、trim the menu／report（精簡菜單／報告）。和 cut 的差別：cut 可以剪很多；trim 是「稍微剪掉一點、修整」。商業上 trim costs 比 cut costs 語氣溫和。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
