@@ -7753,6 +7753,41 @@
       ],
       "note": "語塊：domestic flights（國內航班）、the domestic market（國內市場）、domestic travel（國內旅遊）。domestic 有兩個主要意思：①國內的（反義詞 international／overseas 國外的）②家庭的、家務的（domestic chores 家事）。多益最常考「國內的」。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-partially",
+      "word": "partially",
+      "pos": "副詞",
+      "meaning": "部分地；不完全地",
+      "sentences": [
+        {
+          "en": "The delay in shipping was partially caused by the heavy snow that closed several major roads last week.",
+          "zh": "出貨延誤有一部分是因為上週大雪封閉了好幾條主要道路。"
+        },
+        {
+          "en": "The new parking garage is partially funded by the city government, and the rest comes from private investors.",
+          "zh": "新的停車場部分由市政府出資，其餘來自民間投資人。"
+        },
+        {
+          "en": "The conference room will remain partially closed until the new lighting system is installed next Monday.",
+          "zh": "在下週一新照明系統裝好之前，會議室會維持部分關閉。"
+        },
+        {
+          "en": "The supplier admitted that it was partially responsible for the damaged goods and offered us a discount.",
+          "zh": "供應商承認貨物損壞他們要負部分責任，並給了我們折扣。"
+        },
+        {
+          "en": "The report was only partially completed when the manager asked the team to present their findings.",
+          "zh": "經理要團隊報告結果時，報告只完成了一部分。"
+        }
+      ],
+      "distractors": [
+        "particularly",
+        "properly",
+        "practically"
+      ],
+      "note": "語塊：be partially responsible for（要負部分責任）、partially caused by（部分是因為……）、partially funded by（部分由……出資）、partially completed（完成了一部分）。容易搞混：particularly（特別地）拼法很像但意思完全不同。partly 跟 partially 意思差不多，口語比較常用 partly。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
