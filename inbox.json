@@ -7263,6 +7263,41 @@
       ],
       "note": "語塊：be applied uniformly（一律適用）、spread uniformly（塗／分布得很均勻）、uniformly distributed（平均分布）。uni（一）＋form（形狀）＝都是同一個樣子；制服 uniform 就是「大家穿一樣」。同義詞：evenly（均勻地）、consistently（一致地）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-confidentiality",
+      "word": "confidentiality",
+      "pos": "名詞",
+      "meaning": "機密性；保密（義務）",
+      "sentences": [
+        {
+          "en": "All new employees must sign a confidentiality agreement before they are allowed to access any customer records.",
+          "zh": "所有新員工都必須先簽保密協議，才能查看任何客戶資料。"
+        },
+        {
+          "en": "Our law firm takes client confidentiality very seriously and never shares information with outside parties.",
+          "zh": "我們律師事務所非常重視客戶資料保密，從不把資訊透露給外部人士。"
+        },
+        {
+          "en": "To maintain confidentiality, please do not discuss the merger with anyone outside the project team.",
+          "zh": "為了保密，請不要和專案團隊以外的人談論合併的事。"
+        },
+        {
+          "en": "The hospital uses a secure system to protect patient confidentiality when sending medical reports to other doctors.",
+          "zh": "醫院把病歷寄給其他醫生時，會用安全的系統保護病人隱私。"
+        },
+        {
+          "en": "Because of confidentiality rules, the manager could not share the candidate's salary details with us.",
+          "zh": "因為保密規定，經理不能告訴我們應徵者的薪資細節。"
+        }
+      ],
+      "distractors": [
+        "conditionality",
+        "conformity",
+        "congeniality"
+      ],
+      "note": "語塊：confidentiality agreement（保密協議，也叫 NDA）、maintain／protect confidentiality（保密）、client／patient confidentiality（客戶／病人資料保密）。形容詞 confidential（機密的），例如 confidential documents（機密文件）。⚠️ 別和 confidence（信心）搞混。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
