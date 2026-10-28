@@ -7333,6 +7333,41 @@
       ],
       "note": "語塊：hold an audition（舉辦試鏡）、go to／attend an audition（去試鏡）、pass the audition（通過試鏡）、audition for＋角色（為……試鏡，這時 audition 是動詞）。字根 aud＝聽（audio、audience），原本是「表演給評審聽」。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-commercial",
+      "word": "commercial",
+      "pos": "名詞",
+      "meaning": "（電視、廣播的）廣告",
+      "sentences": [
+        {
+          "en": "The young actor got a small part in a commercial for a popular sports drink.",
+          "zh": "這位年輕演員在一支熱門運動飲料的廣告裡演了一個小角色。"
+        },
+        {
+          "en": "Our company spent over one million dollars to film a television commercial for the new car.",
+          "zh": "我們公司花了一百多萬元幫新車拍電視廣告。"
+        },
+        {
+          "en": "The new commercial will be shown on national television during the baseball finals next weekend.",
+          "zh": "新廣告下週末會在棒球總冠軍賽期間於全國電視播出。"
+        },
+        {
+          "en": "Many viewers remembered the funny commercial and shared it with their friends on social media.",
+          "zh": "很多觀眾記得那支好笑的廣告，還在社群媒體上分享給朋友。"
+        },
+        {
+          "en": "Ms. Wang was hired to write the script for a thirty-second radio commercial about the bank's new loans.",
+          "zh": "王小姐受聘為銀行新貸款方案寫一支三十秒廣播廣告的腳本。"
+        }
+      ],
+      "distractors": [
+        "commission",
+        "commuter",
+        "commotion"
+      ],
+      "note": "語塊：TV／radio commercial（電視／廣播廣告）、a part in a commercial（在廣告中的角色）、film／shoot a commercial（拍廣告）。和 advertisement 的差別：commercial 專指電視、廣播、影片的廣告；advertisement 範圍更廣，報紙、海報、網路廣告都算。commercial 當形容詞是「商業的」（commercial building 商業大樓）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
