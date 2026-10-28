@@ -7228,6 +7228,41 @@
       ],
       "note": "語塊：implement a plan／policy／system（執行計畫／實施政策／導入系統）、implement changes（落實改變）、fully implement（完全落實）。名詞 implementation（實施、執行）。⚠️ 別和 imply（暗示）搞混。同義詞 carry out（執行），implement 比較正式，多益和公司文件很常見。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-uniformly",
+      "word": "uniformly",
+      "pos": "副詞",
+      "meaning": "一致地；統一地；均勻地",
+      "sentences": [
+        {
+          "en": "The new dress code will be applied uniformly to all employees, including managers and part-time staff.",
+          "zh": "新的服裝規定會一律適用於所有員工，包括主管和兼職人員。"
+        },
+        {
+          "en": "Please spread the glue uniformly across the entire surface before attaching the wooden panels to the wall.",
+          "zh": "把木板貼到牆上之前，請把膠均勻地塗滿整個表面。"
+        },
+        {
+          "en": "The heater is designed to warm the whole room uniformly, so no corner feels cold.",
+          "zh": "這台暖氣機的設計能讓整個房間均勻變暖，每個角落都不會冷。"
+        },
+        {
+          "en": "Discounts must be offered uniformly in every branch across the country to avoid confusing our customers.",
+          "zh": "全國每家分店的折扣都必須一致，以免讓顧客搞混。"
+        },
+        {
+          "en": "The workers painted the walls uniformly so that the color looked the same from every angle.",
+          "zh": "工人把牆壁漆得很均勻，從每個角度看顏色都一樣。"
+        }
+      ],
+      "distractors": [
+        "unfortunately",
+        "uncomfortably",
+        "unbearably"
+      ],
+      "note": "語塊：be applied uniformly（一律適用）、spread uniformly（塗／分布得很均勻）、uniformly distributed（平均分布）。uni（一）＋form（形狀）＝都是同一個樣子；制服 uniform 就是「大家穿一樣」。同義詞：evenly（均勻地）、consistently（一致地）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
