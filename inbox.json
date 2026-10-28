@@ -6913,6 +6913,41 @@
       ],
       "note": "語塊：… centimeters in diameter（直徑……公分）、the diameter of＋東西（……的直徑）。相關字：radius（半徑）、circumference（圓周）、perimeter（周長）。dia＝穿過，meter＝測量 → 穿過圓心量的長度。",
       "addedAt": "2026-10-27"
+    },
+    {
+      "id": "20261028-warn",
+      "word": "warn",
+      "pos": "動詞",
+      "meaning": "警告；提醒（注意危險或問題）",
+      "sentences": [
+        {
+          "en": "Please warn new employees about the wet floor near the kitchen entrance before they start work.",
+          "zh": "新員工開始上班前，請提醒他們廚房入口附近地板很濕。"
+        },
+        {
+          "en": "The manager asked us to warn customers that the store will close early on Friday.",
+          "zh": "經理請我們提醒顧客，店週五會提早關門。"
+        },
+        {
+          "en": "Signs at the factory warn visitors not to touch any machines without a staff member present.",
+          "zh": "工廠裡的告示警告訪客，沒有員工在場時不要碰任何機器。"
+        },
+        {
+          "en": "Our system will automatically warn you of any unusual or suspicious activity on your online bank account.",
+          "zh": "我們的系統會在你的網路銀行帳戶有異常或可疑活動時自動警告你。"
+        },
+        {
+          "en": "Experts warn that rising shipping costs could increase the price of imported goods next year.",
+          "zh": "專家警告，運費上漲可能讓明年進口商品的價格上升。"
+        }
+      ],
+      "distractors": [
+        "warm",
+        "earn",
+        "wander"
+      ],
+      "note": "語塊：warn＋人＋about／of＋事情（提醒某人注意……）、warn＋人＋(not) to＋動詞（警告某人（不要）做……）、warn that＋句子（警告說……）。名詞 warning（警告），例如 a warning sign（警告標誌）。發音 [wɔrn]，跟 worn（穿過的）一樣，和 warm（溫暖的）不同。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
