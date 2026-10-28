@@ -7788,6 +7788,41 @@
       ],
       "note": "語塊：be partially responsible for（要負部分責任）、partially caused by（部分是因為……）、partially funded by（部分由……出資）、partially completed（完成了一部分）。容易搞混：particularly（特別地）拼法很像但意思完全不同。partly 跟 partially 意思差不多，口語比較常用 partly。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-airfares",
+      "word": "airfares",
+      "pos": "名詞",
+      "meaning": "機票價格；飛機票價",
+      "sentences": [
+        {
+          "en": "Many travelers book their tickets early because airfares usually rise sharply during the holiday season.",
+          "zh": "很多旅客提早訂票，因為假期期間機票價格通常會大漲。"
+        },
+        {
+          "en": "The travel agency compares airfares from several airlines to find the cheapest option for our sales team.",
+          "zh": "旅行社會比較好幾家航空公司的票價，幫我們業務團隊找最便宜的選擇。"
+        },
+        {
+          "en": "Higher fuel costs have pushed up airfares on most international routes since the beginning of the year.",
+          "zh": "從年初開始，燃料成本上升已經讓大多數國際航線的機票價格上漲。"
+        },
+        {
+          "en": "Our company will cover airfares and hotel costs for all employees attending the conference in Tokyo.",
+          "zh": "公司會負擔所有參加東京會議員工的機票和飯店費用。"
+        },
+        {
+          "en": "Because of strong competition between budget carriers, airfares to Bangkok have dropped noticeably this month.",
+          "zh": "因為廉價航空之間競爭激烈，這個月飛曼谷的機票價格明顯下降了。"
+        }
+      ],
+      "distractors": [
+        "airports",
+        "airlines",
+        "affairs"
+      ],
+      "note": "語塊：compare airfares（比較機票價格）、airfares rise／drop（機票漲價／降價）、cover airfares（負擔機票費用）。airfare 是「機票的價錢」，不是機票本身；機票本身是 plane ticket。fare 是交通工具的「票價」，例如 bus fare（公車票價）、taxi fare（計程車費）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
