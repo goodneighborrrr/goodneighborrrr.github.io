@@ -7053,6 +7053,41 @@
       ],
       "note": "語塊：given this turn of events（考慮到情勢的轉變）、in a surprising／an unexpected turn of events（出乎意料地）、a sudden turn of events（突然的變化）。turn＝轉彎，事情突然「轉彎」，往意想不到的方向發展。注意 events 要用複數。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-cut-out",
+      "word": "cut out",
+      "pos": "片語動詞",
+      "meaning": "（訊號、聲音、引擎）突然中斷、斷掉；戒掉（某種食物）；剪下",
+      "sentences": [
+        {
+          "en": "My phone signal tends to cut out whenever I take the train through the tunnel near the station.",
+          "zh": "每次搭火車經過車站附近的隧道，我的手機訊號就容易斷掉。"
+        },
+        {
+          "en": "The sound began to cut out during the video conference, so we had to call the client back.",
+          "zh": "視訊會議時聲音開始斷斷續續，所以我們只好再回撥給客戶。"
+        },
+        {
+          "en": "The engine of the delivery truck suddenly cut out on the highway, causing a long delay.",
+          "zh": "送貨卡車的引擎在高速公路上突然熄火，造成很長的延誤。"
+        },
+        {
+          "en": "The doctor advised Mr. Chen to cut out sugary drinks to improve his health and lose weight.",
+          "zh": "醫生建議陳先生戒掉含糖飲料，改善健康也減重。"
+        },
+        {
+          "en": "If the Wi-Fi connection continues to cut out, please contact our technical support team for help.",
+          "zh": "如果無線網路還是一直斷線，請聯絡我們的技術支援團隊。"
+        }
+      ],
+      "distractors": [
+        "carry out",
+        "check out",
+        "stand out"
+      ],
+      "note": "語塊：the signal／sound／connection cuts out（訊號／聲音／連線斷掉）、the engine cuts out（引擎熄火）、cut out sugar／junk food（戒掉糖／垃圾食物）。和 cut off 很像：cut off 是「被切斷」（The call was cut off），cut out 常指「自己時有時無、斷斷續續」。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
