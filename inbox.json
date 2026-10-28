@@ -7193,6 +7193,41 @@
       ],
       "note": "語塊：an unexpected complication（意外的問題）、a complication arises（出現問題）、cause／create complications（造成麻煩）、complications from surgery（手術併發症）。動詞 complicate（使複雜），形容詞 complicated（複雜的）。長很像的字：compilation（彙編）、compliment（讚美）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-implement",
+      "word": "implement",
+      "pos": "動詞",
+      "meaning": "執行；實施；落實（計畫、政策、系統）",
+      "sentences": [
+        {
+          "en": "The company will implement a new security system in all of its offices next month.",
+          "zh": "公司下個月會在所有辦公室導入新的保全系統。"
+        },
+        {
+          "en": "It took the team six months to fully implement the changes recommended by the consultants.",
+          "zh": "團隊花了六個月才完全落實顧問建議的改變。"
+        },
+        {
+          "en": "The government plans to implement a new policy to reduce plastic waste in restaurants and convenience stores.",
+          "zh": "政府計畫實施新政策，減少餐廳和便利商店的塑膠垃圾。"
+        },
+        {
+          "en": "Before we implement the new schedule, please collect feedback from all of the employees involved.",
+          "zh": "在實施新班表之前，請先收集所有相關員工的意見。"
+        },
+        {
+          "en": "The manager asked Ms. Wu to implement the marketing plan as soon as the budget was approved.",
+          "zh": "經理請吳小姐在預算一核准就馬上執行行銷計畫。"
+        }
+      ],
+      "distractors": [
+        "implicate",
+        "impersonate",
+        "imprison"
+      ],
+      "note": "語塊：implement a plan／policy／system（執行計畫／實施政策／導入系統）、implement changes（落實改變）、fully implement（完全落實）。名詞 implementation（實施、執行）。⚠️ 別和 imply（暗示）搞混。同義詞 carry out（執行），implement 比較正式，多益和公司文件很常見。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
