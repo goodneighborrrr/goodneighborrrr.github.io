@@ -7018,6 +7018,41 @@
       ],
       "note": "語塊：apply for a mortgage（申請房貸）、take out a mortgage（辦房貸）、pay off a mortgage（還清房貸）、mortgage payments（房貸月付）。⚠️ 發音：t 不發音，唸 MOR-gij。和 loan 的差別：loan 是一般貸款，mortgage 專指用房子抵押的貸款。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-turn-of-events",
+      "word": "turn of events",
+      "pos": "其他",
+      "meaning": "情勢的轉變；事情的（意外）發展",
+      "sentences": [
+        {
+          "en": "Given this turn of events, the company has decided to delay the opening of its new store.",
+          "zh": "考慮到情勢的轉變，公司決定延後新店開幕。"
+        },
+        {
+          "en": "In a surprising turn of events, the smaller firm won the contract over its biggest rival.",
+          "zh": "出乎意料的是，這家較小的公司打敗最大的對手拿下合約。"
+        },
+        {
+          "en": "The sudden turn of events forced the airline to cancel all flights to the island.",
+          "zh": "突如其來的變化，迫使航空公司取消所有飛往這座島的班機。"
+        },
+        {
+          "en": "Nobody expected this turn of events when the construction project first started two years ago in March.",
+          "zh": "兩年前三月工程剛開始時，沒有人料到事情會這樣發展。"
+        },
+        {
+          "en": "After an unexpected turn of events, the CEO announced that she would retire at the end of the month.",
+          "zh": "在一連串意外的變化之後，執行長宣布她將在月底退休。"
+        }
+      ],
+      "distractors": [
+        "turn of phrase",
+        "turn of mind",
+        "term of office"
+      ],
+      "note": "語塊：given this turn of events（考慮到情勢的轉變）、in a surprising／an unexpected turn of events（出乎意料地）、a sudden turn of events（突然的變化）。turn＝轉彎，事情突然「轉彎」，往意想不到的方向發展。注意 events 要用複數。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
