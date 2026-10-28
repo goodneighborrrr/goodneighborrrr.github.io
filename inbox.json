@@ -7403,6 +7403,41 @@
       ],
       "note": "語塊：on a tablet（在平板上）、tablet computer（平板電腦）、take a tablet（吃一顆藥）。tablet 有兩個意思：①平板電腦（像 iPad）②藥片、錠劑（＝pill）。長很像的字：tabloid（八卦小報）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-air",
+      "word": "air",
+      "pos": "動詞",
+      "meaning": "（電視、廣播）播出；播放",
+      "sentences": [
+        {
+          "en": "The television station will air the new commercial during the evening news starting next Monday.",
+          "zh": "電視台從下週一開始，會在晚間新聞時段播出新廣告。"
+        },
+        {
+          "en": "The company plans to air its holiday advertisement on three major television channels throughout December.",
+          "zh": "公司計畫整個十二月在三家主要電視台播出節慶廣告。"
+        },
+        {
+          "en": "Due to the typhoon coverage, the network decided not to air the cooking show this week.",
+          "zh": "因為颱風新聞報導，電視台決定這週不播出料理節目。"
+        },
+        {
+          "en": "Radio stations across the country will air the president's important speech live at nine on Friday morning.",
+          "zh": "全國的廣播電台會在週五早上九點現場播出總統的重要演說。"
+        },
+        {
+          "en": "We need final approval from the client before we can air the thirty-second commercial on television.",
+          "zh": "我們要先拿到客戶的最後核准，才能在電視上播出這支三十秒廣告。"
+        }
+      ],
+      "distractors": [
+        "aim",
+        "err",
+        "pair"
+      ],
+      "note": "語塊：air a commercial／show（播出廣告／節目）、be aired on TV（在電視上播出）、air live（現場直播）。air 名詞是「空氣」，當動詞是「播出」，因為節目是透過電波「放到空中」傳出去。on air＝正在播出中。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
