@@ -7438,6 +7438,41 @@
       ],
       "note": "語塊：air a commercial／show（播出廣告／節目）、be aired on TV（在電視上播出）、air live（現場直播）。air 名詞是「空氣」，當動詞是「播出」，因為節目是透過電波「放到空中」傳出去。on air＝正在播出中。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-paraphrasing",
+      "word": "paraphrasing",
+      "pos": "名詞",
+      "meaning": "換句話說；改寫（用自己的話重新表達）",
+      "sentences": [
+        {
+          "en": "Good paraphrasing skills help students and office workers explain difficult ideas clearly in their own words.",
+          "zh": "好的改寫能力，能幫學生和上班族用自己的話把難懂的概念說清楚。"
+        },
+        {
+          "en": "By paraphrasing the customer's complaint, the agent showed that she had listened carefully and understood the problem.",
+          "zh": "客服人員把顧客的抱怨用自己的話重說一遍，表示她有仔細聽、也了解問題。"
+        },
+        {
+          "en": "The training course includes a short lesson on paraphrasing so that reports do not copy other sources.",
+          "zh": "訓練課程有一堂簡短的改寫課，避免報告直接抄別人的內容。"
+        },
+        {
+          "en": "Simple paraphrasing is not enough; you must also include the original source in your reference list.",
+          "zh": "光是改寫還不夠，你也必須在參考資料裡列出原本的出處。"
+        },
+        {
+          "en": "Our editor is very good at paraphrasing long technical documents into short and easy summaries for clients.",
+          "zh": "我們的編輯很擅長把冗長的技術文件改寫成簡短好懂的摘要給客戶。"
+        }
+      ],
+      "distractors": [
+        "paragraphing",
+        "parachuting",
+        "parading"
+      ],
+      "note": "語塊：paraphrasing skills（改寫能力）、by paraphrasing＋內容（透過換句話說）、paraphrase in your own words（用自己的話說）。動詞 paraphrase（改寫、換句話說）。para（旁邊）＋phrase（說法）＝換個說法。多益閱讀和聽力很常考「換句話說」：答案常常是原文的 paraphrase，不會一字不差。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
