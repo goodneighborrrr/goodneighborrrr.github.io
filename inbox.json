@@ -7578,6 +7578,146 @@
       ],
       "note": "語塊：trim costs／the budget（削減成本／預算）、trim the bushes／hedges（修剪灌木／樹籬）、trim your hair（修頭髮）、trim the menu／report（精簡菜單／報告）。和 cut 的差別：cut 可以剪很多；trim 是「稍微剪掉一點、修整」。商業上 trim costs 比 cut costs 語氣溫和。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-slump",
+      "word": "slump",
+      "pos": "名詞",
+      "meaning": "（銷售、經濟的）衰退；低迷；（表現）低潮",
+      "sentences": [
+        {
+          "en": "After a prolonged slump in sales, the electronics company finally reported a small profit this quarter.",
+          "zh": "經過長期的銷售低迷，這家電子公司這一季終於有了小額獲利。"
+        },
+        {
+          "en": "The housing market has been in a slump for almost two years because of high interest rates.",
+          "zh": "因為利率很高，房市已經低迷將近兩年了。"
+        },
+        {
+          "en": "Tourism in the region suffered a sharp slump after the airport was closed for repairs.",
+          "zh": "機場關閉整修後，這個地區的觀光業大幅衰退。"
+        },
+        {
+          "en": "Many small shops struggled to survive the economic slump that followed the closure of three large factories in town.",
+          "zh": "鎮上三間大工廠關閉後經濟衰退，很多小店都很難撐下去。"
+        },
+        {
+          "en": "The coach believes the team will recover from its slump once the injured players return.",
+          "zh": "教練相信受傷的球員回來後，球隊就能走出低潮。"
+        }
+      ],
+      "distractors": [
+        "stump",
+        "lump",
+        "slurp"
+      ],
+      "note": "語塊：prolonged slump（長期低迷）、sales slump（銷售下滑）、economic slump（經濟衰退）、in a slump（處於低潮）、recover from a slump（走出低潮）。slump 也可以當動詞：Sales slumped（銷量大跌）。相近：decline（下降）、recession（經濟衰退，比較正式、規模大）。",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-prolonged",
+      "word": "prolonged",
+      "pos": "形容詞",
+      "meaning": "長期的；持續很久的；延長的",
+      "sentences": [
+        {
+          "en": "The prolonged heat wave caused electricity demand across the city to reach a record high last week.",
+          "zh": "持續很久的熱浪，讓全市上週的用電量創下新高。"
+        },
+        {
+          "en": "After a prolonged period of negotiations, the two companies finally agreed on the terms of the merger.",
+          "zh": "經過很長一段時間的談判，兩家公司終於談妥合併條件。"
+        },
+        {
+          "en": "Prolonged use of the machine without breaks may cause it to overheat and stop working.",
+          "zh": "機器長時間連續使用不休息，可能會過熱而停止運作。"
+        },
+        {
+          "en": "The airline apologized for the prolonged delay and offered every passenger a free meal voucher.",
+          "zh": "航空公司為長時間的延誤道歉，並給每位乘客一張免費餐券。"
+        },
+        {
+          "en": "Doctors warn that prolonged exposure to loud noise in factories can slowly damage workers' hearing over time.",
+          "zh": "醫生警告，在工廠長期暴露在噪音中，會慢慢傷害工人的聽力。"
+        }
+      ],
+      "distractors": [
+        "prolific",
+        "propelled",
+        "provoked"
+      ],
+      "note": "語塊：a prolonged period（很長一段時間）、prolonged slump（長期低迷）、prolonged delay（長時間延誤）、prolonged exposure／use（長期暴露／使用）。動詞 prolong（延長）。pro（往前）＋long（長）＝拉長。和 long 的差別：prolonged 強調「比預期或正常的更久」，常帶負面感覺。",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-pileup",
+      "word": "pileup",
+      "pos": "名詞",
+      "meaning": "連環車禍；（工作、東西的）堆積",
+      "sentences": [
+        {
+          "en": "A ten-car pileup on the highway this morning caused long delays for commuters heading into the city.",
+          "zh": "今天早上高速公路發生十車連環車禍，讓進城的通勤族塞了很久。"
+        },
+        {
+          "en": "Heavy fog was the main cause of the multi-car pileup near the airport exit last night.",
+          "zh": "昨晚機場出口附近的連環車禍，主要原因是濃霧。"
+        },
+        {
+          "en": "Because of the holiday, there was a pileup of orders that took our warehouse staff three days to process.",
+          "zh": "因為連假，訂單堆積如山，倉庫員工花了三天才處理完。"
+        },
+        {
+          "en": "Drivers are advised to slow down in rainy weather to avoid a dangerous pileup on the freeway.",
+          "zh": "建議駕駛下雨天減速，避免在高速公路發生危險的連環車禍。"
+        },
+        {
+          "en": "The pileup of unanswered emails grew quickly while Mr. Lin was on vacation for two weeks.",
+          "zh": "林先生休假兩週期間，沒回的電子郵件很快就堆成一大堆。"
+        }
+      ],
+      "distractors": [
+        "pinup",
+        "popup",
+        "pillow"
+      ],
+      "note": "語塊：a multi-car／ten-car pileup（多車／十車連環車禍）、a pileup on the highway（高速公路連環撞）、a pileup of work／orders（工作／訂單堆積）。來自片語 pile up（堆起來）。也可以寫成 pile-up。",
+      "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-offset",
+      "word": "offset",
+      "pos": "動詞",
+      "meaning": "抵銷；彌補；（用……）平衡",
+      "sentences": [
+        {
+          "en": "The company raised its prices slightly to offset the higher cost of raw materials this year.",
+          "zh": "公司稍微調漲價格，來抵銷今年原料成本的上漲。"
+        },
+        {
+          "en": "Strong online sales helped offset the losses caused by the closure of two physical stores downtown.",
+          "zh": "網路銷售很好，幫忙彌補了市區兩家實體店關閉造成的損失。"
+        },
+        {
+          "en": "The higher rent was partly offset by savings on electricity in the new energy-efficient office.",
+          "zh": "新的節能辦公室省下的電費，抵銷了一部分較高的房租。"
+        },
+        {
+          "en": "Our airline lets passengers pay a small fee to offset the carbon emissions from their flights.",
+          "zh": "我們航空公司讓乘客付一點費用，來抵銷飛行產生的碳排放。"
+        },
+        {
+          "en": "The bonus is meant to offset the extra hours that employees worked during the busy holiday season.",
+          "zh": "這筆獎金是為了補償員工在忙碌的假期旺季多工作的時數。"
+        }
+      ],
+      "distractors": [
+        "upset",
+        "offend",
+        "outfit"
+      ],
+      "note": "語塊：offset the cost(s)／losses（抵銷成本／損失）、be offset by＋東西（被……抵銷）、offset carbon emissions（碳抵銷）。三態都一樣：offset–offset–offset。同義詞：make up for、compensate for（補償）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
