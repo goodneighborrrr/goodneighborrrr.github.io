@@ -7088,6 +7088,41 @@
       ],
       "note": "語塊：the signal／sound／connection cuts out（訊號／聲音／連線斷掉）、the engine cuts out（引擎熄火）、cut out sugar／junk food（戒掉糖／垃圾食物）。和 cut off 很像：cut off 是「被切斷」（The call was cut off），cut out 常指「自己時有時無、斷斷續續」。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-along-those-lines",
+      "word": "along those lines",
+      "pos": "其他",
+      "meaning": "類似那樣的；差不多那個意思；那一類的",
+      "sentences": [
+        {
+          "en": "We need a catchy slogan, something like \"Fresh Every Day\" or something along those lines.",
+          "zh": "我們需要一句好記的標語，像「天天新鮮」，或類似那樣的。"
+        },
+        {
+          "en": "The client wants a modern logo with blue and green colors, or something along those lines.",
+          "zh": "客戶想要一個藍綠色的現代感標誌，或差不多那種感覺的。"
+        },
+        {
+          "en": "Ms. Lee suggested offering free delivery or a small gift, or anything else along those lines.",
+          "zh": "李小姐建議提供免運或小禮物，或其他類似的東西。"
+        },
+        {
+          "en": "If you have any other ideas along those lines, please share them at Friday's marketing meeting.",
+          "zh": "如果你有其他類似的點子，請在週五的行銷會議上分享。"
+        },
+        {
+          "en": "The manager said the budget might be cut by ten percent, or something along those lines.",
+          "zh": "經理說預算可能會砍一成左右，大概是那樣。"
+        }
+      ],
+      "distractors": [
+        "on the line",
+        "out of line",
+        "between the lines"
+      ],
+      "note": "語塊：something along those lines（類似那樣的東西）、or something along those lines（……之類的，放句尾）、ideas along those lines（類似的點子）。口語超常用，說話時不確定細節、只是舉個例子時用。也可以說 along these lines（類似這樣的）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
