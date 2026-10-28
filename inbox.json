@@ -7508,6 +7508,41 @@
       ],
       "note": "語塊：university／high school diploma（大學／高中畢業證書）、receive a diploma（拿到畢業證書）、hold a diploma in＋科目（有……的文憑）。和 degree 的差別：degree 是「學位」本身（bachelor's degree 學士、master's degree 碩士），diploma 是證明你畢業的那張「證書」。doctorate 是博士學位。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-auditing",
+      "word": "auditing",
+      "pos": "名詞",
+      "meaning": "審計；查帳；稽核",
+      "sentences": [
+        {
+          "en": "The company hired an independent auditing firm to review its financial records for the past three years.",
+          "zh": "公司聘請一家獨立的會計師事務所，審核過去三年的財務紀錄。"
+        },
+        {
+          "en": "Internal auditing helps managers find mistakes in company spending before they become serious financial problems.",
+          "zh": "內部稽核能幫主管在公司支出的錯誤變成嚴重財務問題之前就發現。"
+        },
+        {
+          "en": "Ms. Kao has more than ten years of experience in auditing and accounting for large banks.",
+          "zh": "高小姐有十多年替大型銀行做審計和會計的經驗。"
+        },
+        {
+          "en": "The auditing process usually takes about four weeks and requires full access to all sales records.",
+          "zh": "審計流程通常大約需要四週，而且要能查看所有銷售紀錄。"
+        },
+        {
+          "en": "All branches must follow the new auditing standards that were introduced by the head office in January.",
+          "zh": "所有分公司都必須遵守總公司一月推出的新稽核標準。"
+        }
+      ],
+      "distractors": [
+        "auditioning",
+        "awaiting",
+        "adapting"
+      ],
+      "note": "語塊：auditing firm（會計師事務所、審計公司）、internal auditing（內部稽核）、the auditing process（審計流程）。動詞／名詞 audit（審計、查帳），做審計的人是 auditor（稽核員、審計師）。⚠️ 別和 audition（試鏡）搞混，兩個都來自 aud（聽）。美式口語 audit a class 是「旁聽一門課」。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
