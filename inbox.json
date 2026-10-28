@@ -7158,6 +7158,41 @@
       ],
       "note": "語塊：street vendor（路邊攤販）、food vendor（小吃攤）、software vendor（軟體廠商）、choose a vendor（選定廠商）。和 supplier 很像：supplier 偏「供應原料、貨物給公司的人」，vendor 範圍更廣，路邊賣東西的小販也算。動詞 vend＝販賣，vending machine＝自動販賣機。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-complication",
+      "word": "complication",
+      "pos": "名詞",
+      "meaning": "複雜的情況；（意外的）問題；（醫學）併發症",
+      "sentences": [
+        {
+          "en": "The project was delayed because of an unexpected complication with the building permit for the new warehouse.",
+          "zh": "因為新倉庫的建築許可出了意外的問題，專案延誤了。"
+        },
+        {
+          "en": "The surgery went smoothly, and the doctor said there was no sign of any complication afterward.",
+          "zh": "手術很順利，醫生說之後沒有任何併發症的跡象。"
+        },
+        {
+          "en": "Bad weather added another complication to the already difficult task of delivering supplies to the island.",
+          "zh": "把物資送到島上本來就很難，壞天氣又讓情況更複雜。"
+        },
+        {
+          "en": "If any complication arises during the software installation, please call our technical support team immediately.",
+          "zh": "安裝軟體時如果發生任何問題，請立刻打電話給我們的技術支援團隊。"
+        },
+        {
+          "en": "Changing suppliers at the last minute could create a serious complication for our production schedule.",
+          "zh": "最後一刻更換供應商，可能會讓我們的生產時程出大問題。"
+        }
+      ],
+      "distractors": [
+        "compilation",
+        "complexion",
+        "compliment"
+      ],
+      "note": "語塊：an unexpected complication（意外的問題）、a complication arises（出現問題）、cause／create complications（造成麻煩）、complications from surgery（手術併發症）。動詞 complicate（使複雜），形容詞 complicated（複雜的）。長很像的字：compilation（彙編）、compliment（讚美）。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
