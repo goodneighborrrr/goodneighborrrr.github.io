@@ -7298,6 +7298,41 @@
       ],
       "note": "語塊：confidentiality agreement（保密協議，也叫 NDA）、maintain／protect confidentiality（保密）、client／patient confidentiality（客戶／病人資料保密）。形容詞 confidential（機密的），例如 confidential documents（機密文件）。⚠️ 別和 confidence（信心）搞混。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-audition",
+      "word": "audition",
+      "pos": "名詞",
+      "meaning": "試鏡；試演；（樂團、表演的）甄選",
+      "sentences": [
+        {
+          "en": "More than three hundred singers attended the open audition for the new television talent show last Saturday.",
+          "zh": "上週六有三百多位歌手參加了新電視選秀節目的公開試鏡。"
+        },
+        {
+          "en": "She practiced every evening for two months before her final audition for the national symphony orchestra.",
+          "zh": "她在國家交響樂團最後一輪甄選前，每天晚上練習了兩個月。"
+        },
+        {
+          "en": "The theater company will hold an audition next Monday to find actors for its holiday musical.",
+          "zh": "劇團下週一會舉辦試鏡，為節慶音樂劇找演員。"
+        },
+        {
+          "en": "Applicants who pass the first audition will be invited to perform again in front of the director.",
+          "zh": "通過第一輪試鏡的人，會被邀請在導演面前再表演一次。"
+        },
+        {
+          "en": "Please bring a recent photo and your résumé when you arrive for the audition at nine o'clock.",
+          "zh": "九點來試鏡時，請帶一張近照和你的履歷。"
+        }
+      ],
+      "distractors": [
+        "addition",
+        "edition",
+        "ambition"
+      ],
+      "note": "語塊：hold an audition（舉辦試鏡）、go to／attend an audition（去試鏡）、pass the audition（通過試鏡）、audition for＋角色（為……試鏡，這時 audition 是動詞）。字根 aud＝聽（audio、audience），原本是「表演給評審聽」。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
