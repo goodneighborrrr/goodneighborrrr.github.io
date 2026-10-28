@@ -7123,6 +7123,41 @@
       ],
       "note": "語塊：something along those lines（類似那樣的東西）、or something along those lines（……之類的，放句尾）、ideas along those lines（類似的點子）。口語超常用，說話時不確定細節、只是舉個例子時用。也可以說 along these lines（類似這樣的）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-vendor",
+      "word": "vendor",
+      "pos": "名詞",
+      "meaning": "小販；攤販；供應商；廠商",
+      "sentences": [
+        {
+          "en": "A street vendor near the station sells hot sweet potatoes and fresh juice every morning.",
+          "zh": "車站附近有個攤販每天早上賣烤地瓜和新鮮果汁。"
+        },
+        {
+          "en": "The company is looking for a reliable software vendor to update its online ordering system.",
+          "zh": "公司正在找一家可靠的軟體廠商，來更新網路訂購系統。"
+        },
+        {
+          "en": "Each food vendor at the night market must have a valid license from the city government.",
+          "zh": "夜市的每個小吃攤販都必須有市政府核發的有效執照。"
+        },
+        {
+          "en": "Please compare the prices from at least three suppliers before choosing a vendor for the office chairs.",
+          "zh": "選定辦公椅的廠商前，請先比較至少三家供應商的價格。"
+        },
+        {
+          "en": "The festival organizers will charge each vendor a small fee to set up a booth in the park.",
+          "zh": "活動主辦單位會向每個攤商收一點費用，讓他們在公園擺攤。"
+        }
+      ],
+      "distractors": [
+        "venture",
+        "vendetta",
+        "fender"
+      ],
+      "note": "語塊：street vendor（路邊攤販）、food vendor（小吃攤）、software vendor（軟體廠商）、choose a vendor（選定廠商）。和 supplier 很像：supplier 偏「供應原料、貨物給公司的人」，vendor 範圍更廣，路邊賣東西的小販也算。動詞 vend＝販賣，vending machine＝自動販賣機。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
