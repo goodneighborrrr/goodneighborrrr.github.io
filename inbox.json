@@ -6948,6 +6948,41 @@
       ],
       "note": "語塊：warn＋人＋about／of＋事情（提醒某人注意……）、warn＋人＋(not) to＋動詞（警告某人（不要）做……）、warn that＋句子（警告說……）。名詞 warning（警告），例如 a warning sign（警告標誌）。發音 [wɔrn]，跟 worn（穿過的）一樣，和 warm（溫暖的）不同。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-showing",
+      "word": "showing",
+      "pos": "名詞",
+      "meaning": "（電影的）放映；（展覽的）展出；（房屋的）看屋",
+      "sentences": [
+        {
+          "en": "More than two hundred guests attended a special showing of the new film at the downtown theater.",
+          "zh": "兩百多位來賓參加了市中心戲院這部新電影的特別放映會。"
+        },
+        {
+          "en": "The real estate agent arranged a private showing of the apartment for the young couple on Saturday.",
+          "zh": "房仲週六幫這對年輕夫妻安排私人看屋。"
+        },
+        {
+          "en": "The museum offers a free showing of the documentary every Sunday afternoon in the main hall.",
+          "zh": "博物館每週日下午在大廳免費播放這部紀錄片。"
+        },
+        {
+          "en": "After the first showing sold out, the theater added three more screenings for the weekend.",
+          "zh": "第一場放映賣光後，戲院週末又加開了三場。"
+        },
+        {
+          "en": "Please arrive early for the house showing because the owners will leave at four o'clock.",
+          "zh": "看屋請提早到，因為屋主四點就要離開。"
+        }
+      ],
+      "distractors": [
+        "shading",
+        "shipping",
+        "shoving"
+      ],
+      "note": "語塊：attend a showing（參加放映會／看屋）、a special／private showing（特別／私人放映、看屋）、a house／property showing（看房子）。和 screening 很像（電影放映），showing 還可以用在房屋買賣和展覽。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
