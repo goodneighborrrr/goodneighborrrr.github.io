@@ -7718,6 +7718,41 @@
       ],
       "note": "語塊：offset the cost(s)／losses（抵銷成本／損失）、be offset by＋東西（被……抵銷）、offset carbon emissions（碳抵銷）。三態都一樣：offset–offset–offset。同義詞：make up for、compensate for（補償）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-domestic",
+      "word": "domestic",
+      "pos": "形容詞",
+      "meaning": "國內的；家庭的；家務的",
+      "sentences": [
+        {
+          "en": "Our airline offers several domestic flights every day between Taipei and Kaohsiung for business travelers.",
+          "zh": "我們航空公司每天都有好幾班台北和高雄之間的國內航班，供商務旅客搭乘。"
+        },
+        {
+          "en": "The company plans to expand into overseas markets after strong growth in the domestic market last year.",
+          "zh": "公司去年在國內市場成長強勁，之後打算擴展到海外市場。"
+        },
+        {
+          "en": "Rising fuel prices have made domestic travel more expensive for families during the summer holidays.",
+          "zh": "油價上漲讓家庭在暑假期間的國內旅遊變得更貴。"
+        },
+        {
+          "en": "Most of our raw materials come from domestic suppliers, which helps us keep shipping costs low.",
+          "zh": "我們大部分的原料來自國內供應商，這幫助我們壓低運費。"
+        },
+        {
+          "en": "The new hotel provides domestic help, such as cleaning and laundry, for guests who stay longer than a week.",
+          "zh": "新飯店為住超過一週的客人提供家務服務，像是打掃和洗衣。"
+        }
+      ],
+      "distractors": [
+        "dramatic",
+        "democratic",
+        "dynamic"
+      ],
+      "note": "語塊：domestic flights（國內航班）、the domestic market（國內市場）、domestic travel（國內旅遊）。domestic 有兩個主要意思：①國內的（反義詞 international／overseas 國外的）②家庭的、家務的（domestic chores 家事）。多益最常考「國內的」。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
