@@ -7473,6 +7473,41 @@
       ],
       "note": "語塊：paraphrasing skills（改寫能力）、by paraphrasing＋內容（透過換句話說）、paraphrase in your own words（用自己的話說）。動詞 paraphrase（改寫、換句話說）。para（旁邊）＋phrase（說法）＝換個說法。多益閱讀和聽力很常考「換句話說」：答案常常是原文的 paraphrase，不會一字不差。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261028-diploma",
+      "word": "diploma",
+      "pos": "名詞",
+      "meaning": "畢業證書；文憑",
+      "sentences": [
+        {
+          "en": "Applicants must have a university diploma and at least two years of experience in sales.",
+          "zh": "應徵者必須有大學文憑，並有至少兩年業務經驗。"
+        },
+        {
+          "en": "She received her high school diploma at the age of seventeen and then moved to Taipei.",
+          "zh": "她十七歲拿到高中畢業證書，之後搬到台北。"
+        },
+        {
+          "en": "Please bring a copy of your diploma and your passport to the job interview on Monday.",
+          "zh": "週一面試時，請帶畢業證書影本和護照。"
+        },
+        {
+          "en": "Mr. Lin holds a diploma in hotel management from a well-known hospitality school in Switzerland.",
+          "zh": "林先生有瑞士一所知名餐旅學校的飯店管理文憑。"
+        },
+        {
+          "en": "The university will mail each graduate's diploma within six weeks after the graduation ceremony in June.",
+          "zh": "大學會在六月畢業典禮後六週內，把畢業證書寄給每位畢業生。"
+        }
+      ],
+      "distractors": [
+        "diplomat",
+        "dilemma",
+        "diorama"
+      ],
+      "note": "語塊：university／high school diploma（大學／高中畢業證書）、receive a diploma（拿到畢業證書）、hold a diploma in＋科目（有……的文憑）。和 degree 的差別：degree 是「學位」本身（bachelor's degree 學士、master's degree 碩士），diploma 是證明你畢業的那張「證書」。doctorate 是博士學位。",
+      "addedAt": "2026-10-28"
     }
   ],
   "notes": [
