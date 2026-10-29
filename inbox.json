@@ -7928,6 +7928,41 @@
       ],
       "note": "語塊：if applicable（如果適用的話；如有的話）、be applicable to（適用於……）、applicable taxes／fees（相關的稅金／費用）。表格上常看到 if applicable，意思是「有的話才填，沒有就不用填」。和 available（可用的、有空的）不一樣：applicable 是「規定或條件適用」。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-scale",
+      "word": "scale",
+      "pos": "名詞",
+      "meaning": "等級；規模；比例；秤",
+      "sentences": [
+        {
+          "en": "New employees will be paid according to the following pay scale, which is based on experience and education.",
+          "zh": "新進員工會依照以下的薪資等級表支薪，依據經驗和學歷而定。"
+        },
+        {
+          "en": "The company reviews its pay scale every year to make sure salaries remain competitive in the industry.",
+          "zh": "公司每年都會檢討薪資級距，確保薪水在業界保有競爭力。"
+        },
+        {
+          "en": "Our factory plans to increase production on a large scale once the new machines arrive in March.",
+          "zh": "新機器三月到貨後，我們工廠打算大規模增加產量。"
+        },
+        {
+          "en": "Customers were asked to rate the service on a scale of one to ten after their hotel stay.",
+          "zh": "顧客退房後被請求用一到十分來評分服務。"
+        },
+        {
+          "en": "Because of budget limits, the marketing team decided to scale back the advertising campaign this quarter.",
+          "zh": "因為預算有限，行銷團隊決定這一季縮減廣告活動的規模。"
+        }
+      ],
+      "distractors": [
+        "scene",
+        "shade",
+        "scope"
+      ],
+      "note": "語塊：pay scale／salary scale（薪資等級表）、on a large scale（大規模地）、on a scale of 1 to 10（用1到10分來評）、scale back（縮減規模）。scale 還有「體重計、秤」的意思（bathroom scale）。和 scope（範圍）不同：scale 是「規模、等級」，scope 是「涵蓋的範圍」。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
