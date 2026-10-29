@@ -7963,6 +7963,76 @@
       ],
       "note": "語塊：pay scale／salary scale（薪資等級表）、on a large scale（大規模地）、on a scale of 1 to 10（用1到10分來評）、scale back（縮減規模）。scale 還有「體重計、秤」的意思（bathroom scale）。和 scope（範圍）不同：scale 是「規模、等級」，scope 是「涵蓋的範圍」。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-issues",
+      "word": "issues",
+      "pos": "名詞",
+      "meaning": "（雜誌、報紙的）期；問題；議題",
+      "sentences": [
+        {
+          "en": "A one-year subscription to our business magazine includes twelve issues delivered directly to your office.",
+          "zh": "我們商業雜誌的一年訂閱包含十二期，直接寄到你的辦公室。"
+        },
+        {
+          "en": "Subscribers can also read all the back issues of the magazine on our website at no extra charge.",
+          "zh": "訂閱者也可以免費在網路上閱讀雜誌的過期刊物。"
+        },
+        {
+          "en": "The technical support team quickly resolved the issues that customers reported with the new software update.",
+          "zh": "技術支援團隊很快就解決了顧客回報的新軟體更新問題。"
+        },
+        {
+          "en": "Please contact the human resources department if you have any issues with your monthly paycheck.",
+          "zh": "如果你的月薪有任何問題，請聯絡人資部門。"
+        },
+        {
+          "en": "The upcoming issues of the newsletter will focus on ways to reduce energy use in the office.",
+          "zh": "接下來幾期的電子報會著重在辦公室節能的方法。"
+        }
+      ],
+      "distractors": [
+        "tissues",
+        "assets",
+        "items"
+      ],
+      "note": "語塊：12 issues（12期）、back issues（過期刊物）、resolve issues（解決問題）、have issues with（……有問題）。issue 在雜誌、報紙情境是「期」，例如 the latest issue（最新一期）；在辦公室情境常是「問題、議題」，比 problem 委婉。也可以當動詞：issue a statement（發表聲明）、issue a refund（核發退款）。",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-annually",
+      "word": "annually",
+      "pos": "副詞",
+      "meaning": "每年；一年一次地",
+      "sentences": [
+        {
+          "en": "Subscriptions to the design magazine cost sixty dollars and include twelve issues annually, delivered by mail.",
+          "zh": "設計雜誌的訂閱費用是六十元，每年有十二期，用郵寄送達。"
+        },
+        {
+          "en": "The company holds its shareholder meeting annually in the main conference hall at its headquarters.",
+          "zh": "公司每年在總部的大會議廳召開一次股東大會。"
+        },
+        {
+          "en": "Employee performance is reviewed annually, and salary increases are based on the results of the review.",
+          "zh": "員工表現每年考核一次，加薪是根據考核結果決定的。"
+        },
+        {
+          "en": "The award is presented annually to the sales representative with the highest customer satisfaction rating.",
+          "zh": "這個獎每年頒給顧客滿意度最高的業務代表。"
+        },
+        {
+          "en": "Our software license must be renewed annually, so please remind the IT department before December.",
+          "zh": "我們的軟體授權每年都要續約，所以請在十二月前提醒資訊部門。"
+        }
+      ],
+      "distractors": [
+        "actually",
+        "anxiously",
+        "manually"
+      ],
+      "note": "語塊：twelve issues annually（每年十二期）、be reviewed annually（每年考核一次）、be renewed annually（每年續約）、be held annually（每年舉辦）。形容詞是 annual（每年的），例如 annual report（年報）。類似：monthly（每月）、weekly（每週）、quarterly（每季）。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
