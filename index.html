@@ -319,13 +319,36 @@ function splitTop(t, seps){
   if (cur.trim()) out.push(cur.trim());
   return out;
 }
-function noteHtml(note){
+// 語塊有沒有出現在這一題的句子裡（容許動詞變化、冠詞、中間隔幾個字）
+const COLLOC_SKIP = new Set(["be","a","an","the","sb","sth","someone","something","one's","your","his","her","their","its","my","our","東西","人"]);
+function collocInSentence(c, sentence){
+  const whole = c.replace(/[（(][^）)]*[）)]/g, " ").split(/[／\/]/).map(x => x.trim()).filter(Boolean);
+  if (whole.length > 1 && whole.every(x => x.split(/\s+/).length >= 2) && whole.some(x => collocMatch(x, sentence))) return true;
+  return collocMatch(c, sentence);
+}
+function collocMatch(c, sentence){
+  const en = c.replace(/[（(][^）)]*[）)]/g, " ").replace(/＋\S*/g, " ").replace(/\+\S*/g, " ").replace(/…+|\.{3}/g, " ");
+  const toks = en.trim().split(/\s+/).map(t => t.toLowerCase().split(/[／\/]/).map(x => x.replace(/[^a-z0-9'-]/g, "")).filter(Boolean))
+    .filter(alts => alts.length && !alts.every(a => COLLOC_SKIP.has(a)));
+  if (!toks.length) return false;
+  const words = String(sentence).toLowerCase().split(/[^a-z0-9'-]+/).filter(Boolean);
+  const same = (w, a) => { if (w === a) return true; const n = Math.max(3, a.length - 2); if (a.length < 4) return false; let k = 0; while (k < w.length && k < a.length && w[k] === a[k]) k++; return k >= Math.min(a.length, n); };
+  const tryFrom = (ti, wi, first) => {
+    if (ti === toks.length) return true;
+    const lim = first ? words.length : Math.min(words.length, wi + 4);
+    for (let j = wi; j < lim; j++) if (toks[ti].some(a => same(words[j], a)) && tryFrom(ti + 1, j + 1, false)) return true;
+    return false;
+  };
+  return tryFrom(0, 0, true);
+}
+function noteHtml(note, sentence){
   let t = String(note).trim(), coll = [];
   const m = t.match(/^語塊[：:]/);
   if (m){
     t = t.slice(m[0].length);
     const parts = splitTop(t, "。"); const head = parts.shift() || "";
     coll = splitTop(head, "、；;");
+    if (sentence != null) coll = coll.filter(c => collocInSentence(c, sentence));
     t = parts.join("。");
   }
   const rest = splitTop(t, "。\n").map(x => x.replace(/^[①②③④⑤]\s*/, ""));
@@ -623,7 +646,7 @@ function renderQuestion(){
       <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
       ${q.sentence.zh ? `<div class="zh">${escapeHtml(q.sentence.zh)}</div>` : ""}
-      ${w.note ? `<div class="wnote">${noteHtml(w.note)}</div>` : ""}
+      ${(nh => nh ? `<div class="wnote">${nh}</div>` : "")(w.note ? noteHtml(w.note, q.sentence.en) : "")}
       ${!ok && !q.disputed ? `<button class="linkish" id="dispute">我選的 ${escapeHtml(q.options[q.picked])} 放進句子也對？按這裡算我對</button>` : ""}
     </section>
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
