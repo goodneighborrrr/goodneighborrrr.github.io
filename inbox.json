@@ -8348,6 +8348,41 @@
       ],
       "note": "語塊：the fall／spring semester（秋季／春季學期）、this／next semester（這／下學期）、study abroad for a semester（出國讀一學期）。semester 是一年分兩段的「學期」；term 也可以指學期，但更廣，也能指任期、條款。別跟 seminar（研討會）搞混，開頭很像但意思不同。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-pavilion",
+      "word": "pavilion",
+      "pos": "名詞",
+      "meaning": "展覽館；（博覽會的）國家館；涼亭",
+      "sentences": [
+        {
+          "en": "More than fifty companies will display their latest products in the exhibition pavilion at next month's trade fair.",
+          "zh": "下個月的商展上，超過五十家公司會在展覽館展示他們的最新產品。"
+        },
+        {
+          "en": "The Japanese pavilion attracted the largest number of visitors at the international food expo held in Taipei last weekend.",
+          "zh": "上週末在台北舉辦的國際食品博覽會上，日本館吸引了最多參觀者。"
+        },
+        {
+          "en": "The company picnic will be held in the park pavilion, so employees do not need to worry about rain.",
+          "zh": "公司野餐會在公園的涼亭舉行，所以員工不用擔心下雨。"
+        },
+        {
+          "en": "Visitors can pick up free maps and brochures at the information desk inside the main pavilion.",
+          "zh": "參觀者可以在主展館裡的服務台拿免費地圖和簡介手冊。"
+        },
+        {
+          "en": "The city council approved a plan to build a new pavilion for outdoor concerts near the river.",
+          "zh": "市議會核准在河邊蓋一座新的戶外音樂會場館。"
+        }
+      ],
+      "distractors": [
+        "platform",
+        "pathway",
+        "pedestal"
+      ],
+      "note": "語塊：exhibition pavilion（展覽館）、the Japanese／Taiwan pavilion（日本館／台灣館，指國家館）、park pavilion（公園涼亭）。pavilion 有兩種常見意思：①博覽會或展覽裡的「展館」 ②公園裡有屋頂、沒有牆的「涼亭」。和 booth（攤位）不同：booth 是一家公司的小攤位，pavilion 是一整座館或一大區。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
