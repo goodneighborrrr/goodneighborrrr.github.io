@@ -8033,6 +8033,41 @@
       ],
       "note": "語塊：twelve issues annually（每年十二期）、be reviewed annually（每年考核一次）、be renewed annually（每年續約）、be held annually（每年舉辦）。形容詞是 annual（每年的），例如 annual report（年報）。類似：monthly（每月）、weekly（每週）、quarterly（每季）。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-unsolicited",
+      "word": "unsolicited",
+      "pos": "形容詞",
+      "meaning": "未經請求的；主動提供的；不請自來的",
+      "sentences": [
+        {
+          "en": "Our email system automatically moves unsolicited emails from unknown senders into a separate spam folder.",
+          "zh": "我們的電子郵件系統會自動把陌生寄件人主動寄來的信件移到垃圾郵件匣。"
+        },
+        {
+          "en": "The magazine does not accept unsolicited manuscripts, so writers must first send a short proposal to the editor.",
+          "zh": "這本雜誌不接受未經邀約的投稿，所以作者必須先寄簡短的提案給編輯。"
+        },
+        {
+          "en": "Employees should not give unsolicited advice to clients about matters outside their own area of expertise.",
+          "zh": "員工不應該在自己專業以外的事情上，主動給客戶沒被要求的建議。"
+        },
+        {
+          "en": "The company received several unsolicited job applications after its new office opened in the business district.",
+          "zh": "公司在商業區開了新辦公室後，收到好幾份主動投遞的求職申請。"
+        },
+        {
+          "en": "Customers can call this number if they wish to stop receiving unsolicited calls from our marketing department.",
+          "zh": "如果顧客不想再接到我們行銷部門主動打去的電話，可以撥打這支電話。"
+        }
+      ],
+      "distractors": [
+        "unsettled",
+        "unlimited",
+        "unsatisfied"
+      ],
+      "note": "語塊：unsolicited emails／calls（垃圾信件／推銷電話）、unsolicited advice（沒人要求的建議）、unsolicited manuscripts／applications（主動投稿／主動投遞的履歷）。un（不）＋solicited（被請求的）＝沒人請你、自己主動來的。動詞 solicit 是「請求、徵求」，例如 solicit feedback（徵求意見）。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
