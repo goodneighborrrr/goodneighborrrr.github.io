@@ -8208,6 +8208,111 @@
       ],
       "note": "語塊：patent an invention／apply for a patent on an invention（為發明申請專利）、bring an invention to market（把發明推向市場）、the invention of＋東西（……的發明）。動詞 invent（發明），發明家是 inventor。別跟 investigation（調查）搞混：兩個都是 inv 開頭、-tion 結尾，investigation 比較長，開頭是 invest（投資）。也小心 innovation（創新），指新的做法或改良，不一定是新東西。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-prerequisites",
+      "word": "prerequisites",
+      "pos": "名詞",
+      "meaning": "先決條件；必要條件；先修課程",
+      "sentences": [
+        {
+          "en": "Applicants must meet all the prerequisites for the position, including three years of sales experience.",
+          "zh": "應徵者必須符合這個職位的所有先決條件，包括三年的業務經驗。"
+        },
+        {
+          "en": "Before enrolling in the advanced accounting course, employees must first complete the prerequisites offered on our website.",
+          "zh": "員工在報名進階會計課程之前，必須先完成線上提供的先修課程。"
+        },
+        {
+          "en": "A valid driver's license and a clean driving record are prerequisites for the delivery driver job.",
+          "zh": "有效的駕照和良好的駕駛紀錄，是送貨司機這份工作的必要條件。"
+        },
+        {
+          "en": "The manager explained that strong communication skills are among the key prerequisites for promotion to team leader.",
+          "zh": "經理解釋，良好的溝通能力是升任組長的主要先決條件之一。"
+        },
+        {
+          "en": "Please review the prerequisites listed on the training website before you register for any workshops next month.",
+          "zh": "下個月報名任何工作坊之前，請先看一下培訓網站上列出的先決條件。"
+        }
+      ],
+      "distractors": [
+        "perspectives",
+        "preferences",
+        "precautions"
+      ],
+      "note": "語塊：meet the prerequisites（符合先決條件）、complete the prerequisites（完成先修課程）、be a prerequisite for（是……的必要條件）。pre（之前）＋requisite（必需的）＝事先必須具備的東西。和 requirement（要求、條件）意思接近，prerequisite 特別強調「做某件事之前就要先有」。別跟 preference（偏好）、precaution（預防措施）搞混。",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-cutting-edge",
+      "word": "cutting-edge",
+      "pos": "形容詞",
+      "meaning": "最先進的；尖端的",
+      "sentences": [
+        {
+          "en": "Our research center uses cutting-edge technology to test new medical devices before they reach the market.",
+          "zh": "我們的研究中心用最先進的技術，在新醫療器材上市前進行測試。"
+        },
+        {
+          "en": "The company hired several engineers to help develop cutting-edge products for the growing electric car market.",
+          "zh": "公司聘了好幾位工程師，幫忙為成長中的電動車市場開發尖端產品。"
+        },
+        {
+          "en": "Visitors to the trade show were impressed by the cutting-edge design of the new smartphone models.",
+          "zh": "參觀商展的人對新款智慧型手機最新穎的設計印象深刻。"
+        },
+        {
+          "en": "The university is proud of its cutting-edge research in renewable energy and has received many international awards.",
+          "zh": "這所大學以它在再生能源方面的尖端研究為傲，也得過很多國際獎項。"
+        },
+        {
+          "en": "To stay competitive, the factory replaced its old machines with cutting-edge equipment from a German supplier.",
+          "zh": "為了保持競爭力，工廠用德國供應商的最先進設備取代了舊機器。"
+        }
+      ],
+      "distractors": [
+        "long-standing",
+        "well-known",
+        "top-down"
+      ],
+      "note": "語塊：cutting-edge technology（最先進的技術）、cutting-edge research（尖端研究）、cutting-edge products／equipment／design（最新的產品／設備／設計）。字面是「切割的刀鋒」，刀最前面的那一點＝走在最前面。同義詞：state-of-the-art、advanced、the latest。也可以當名詞：at the cutting edge of（站在……的最前線）。",
+      "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-curriculum",
+      "word": "curriculum",
+      "pos": "名詞",
+      "meaning": "課程（整體的課程內容、課綱）",
+      "sentences": [
+        {
+          "en": "The training center updated its curriculum to include more courses on digital marketing and data analysis.",
+          "zh": "訓練中心更新了課程內容，加入更多數位行銷和資料分析的課。"
+        },
+        {
+          "en": "New employees follow a two-week curriculum that covers company policies, safety rules, and customer service.",
+          "zh": "新進員工要上兩週的課程，內容包括公司政策、安全規定和客戶服務。"
+        },
+        {
+          "en": "The school plans to design a new curriculum focused on practical business English for working adults.",
+          "zh": "學校打算設計一套新的課程，專門給上班族學實用的商業英文。"
+        },
+        {
+          "en": "Teachers were invited to share their ideas before the curriculum for next year was finalized.",
+          "zh": "在明年的課程確定之前，老師們受邀分享他們的想法。"
+        },
+        {
+          "en": "A strong language program is an important part of the curriculum at many international schools in Taipei.",
+          "zh": "在台北的許多國際學校，扎實的語言課程是整體課程中很重要的一部分。"
+        }
+      ],
+      "distractors": [
+        "criterion",
+        "calendar",
+        "category"
+      ],
+      "note": "語塊：update the curriculum（更新課程）、design／develop a curriculum（設計課程）、part of the curriculum（課程的一部分）。curriculum 是「整套課程」，course 是「其中一門課」。複數是 curricula 或 curriculums。別跟 curriculum vitae（CV，履歷）搞混，雖然開頭一樣，但 CV 是履歷。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
