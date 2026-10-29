@@ -7823,6 +7823,41 @@
       ],
       "note": "語塊：compare airfares（比較機票價格）、airfares rise／drop（機票漲價／降價）、cover airfares（負擔機票費用）。airfare 是「機票的價錢」，不是機票本身；機票本身是 plane ticket。fare 是交通工具的「票價」，例如 bus fare（公車票價）、taxi fare（計程車費）。",
       "addedAt": "2026-10-28"
+    },
+    {
+      "id": "20261029-patent",
+      "word": "patent",
+      "pos": "名詞",
+      "meaning": "專利；（patent leather）漆皮",
+      "sentences": [
+        {
+          "en": "All staff at the front desk are required to wear black patent leather shoes as part of the hotel uniform.",
+          "zh": "飯店櫃台所有員工都必須穿黑色漆皮鞋，這是制服的一部分。"
+        },
+        {
+          "en": "The store displayed a new line of patent leather handbags near the entrance to attract holiday shoppers.",
+          "zh": "店家在入口附近展示新系列的漆皮手提包，吸引假期購物的顧客。"
+        },
+        {
+          "en": "Our engineering team decided to apply for a patent on the new battery design before showing it to investors.",
+          "zh": "我們的工程團隊決定在給投資人看之前，先為新的電池設計申請專利。"
+        },
+        {
+          "en": "The company currently holds a patent for the cooling technology used in most of its laptops.",
+          "zh": "公司目前擁有大部分筆電使用的散熱技術專利。"
+        },
+        {
+          "en": "The government granted the startup a patent last month, which will protect its invention for twenty years.",
+          "zh": "政府上個月核准了這家新創公司的專利，能保護它的發明二十年。"
+        }
+      ],
+      "distractors": [
+        "potent",
+        "parent",
+        "patient"
+      ],
+      "note": "語塊：patent leather（漆皮，表面亮亮的皮革）、apply for a patent（申請專利）、hold a patent（擁有專利）。patent 最常見的意思是「專利」；patent leather 是固定說法，指亮面漆皮。小心拼法很像的 patient（病人；有耐心的）和 parent（父母）。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
