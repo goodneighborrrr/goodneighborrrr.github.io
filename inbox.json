@@ -7858,6 +7858,41 @@
       ],
       "note": "語塊：patent leather（漆皮，表面亮亮的皮革）、apply for a patent（申請專利）、hold a patent（擁有專利）。patent 最常見的意思是「專利」；patent leather 是固定說法，指亮面漆皮。小心拼法很像的 patient（病人；有耐心的）和 parent（父母）。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-submissions",
+      "word": "submissions",
+      "pos": "名詞",
+      "meaning": "提交的文件；投稿；申請件",
+      "sentences": [
+        {
+          "en": "The committee will accept submissions for the annual design contest until the end of next month.",
+          "zh": "委員會會收年度設計比賽的投稿，收到下個月底為止。"
+        },
+        {
+          "en": "All submissions must include a short summary and the applicant's contact information on the first page.",
+          "zh": "所有提交的文件第一頁都必須附上簡短摘要和申請人的聯絡資料。"
+        },
+        {
+          "en": "The deadline for submissions has been extended by one week because of problems with the online system.",
+          "zh": "因為線上系統出了問題，提交截止日延後了一週。"
+        },
+        {
+          "en": "We received more than two hundred submissions for the new logo after announcing the competition on social media.",
+          "zh": "在社群媒體上宣布比賽後，我們收到超過兩百件新標誌的投稿。"
+        },
+        {
+          "en": "The editors review all submissions carefully and will contact the selected writers by email next Friday.",
+          "zh": "編輯會仔細審閱所有投稿，並在下週五用電子郵件聯絡入選的作者。"
+        }
+      ],
+      "distractors": [
+        "permissions",
+        "commissions",
+        "admissions"
+      ],
+      "note": "語塊：accept submissions（接受投稿／提交）、the deadline for submissions（提交截止日）、receive submissions（收到投稿）。動詞是 submit（提交），例如 submit a report（交報告）。容易搞混：commission（佣金）、admission（入場；入學）、permission（許可），字尾一樣但意思不同。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
