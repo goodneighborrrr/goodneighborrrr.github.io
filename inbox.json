@@ -7893,6 +7893,41 @@
       ],
       "note": "語塊：accept submissions（接受投稿／提交）、the deadline for submissions（提交截止日）、receive submissions（收到投稿）。動詞是 submit（提交），例如 submit a report（交報告）。容易搞混：commission（佣金）、admission（入場；入學）、permission（許可），字尾一樣但意思不同。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-applicable",
+      "word": "applicable",
+      "pos": "形容詞",
+      "meaning": "適用的；合適的",
+      "sentences": [
+        {
+          "en": "Please include your previous work experience and any professional licenses, if applicable, in the application form.",
+          "zh": "請在申請表上填寫你過去的工作經驗，如果有的話，也附上專業證照。"
+        },
+        {
+          "en": "The new safety rules are applicable to all employees who work in the warehouse or loading area.",
+          "zh": "新的安全規定適用於所有在倉庫或裝卸區工作的員工。"
+        },
+        {
+          "en": "Please attach a copy of your university diploma, if applicable, when you send us your résumé next week.",
+          "zh": "下週寄履歷給我們時，如果有的話，請附上大學畢業證書影本。"
+        },
+        {
+          "en": "Customers must pay all applicable taxes and fees when they purchase products from our online store.",
+          "zh": "顧客在我們網路商店購買商品時，必須支付所有適用的稅金。"
+        },
+        {
+          "en": "The manager explained that the travel policy is not applicable to short trips within the city.",
+          "zh": "經理解釋，差旅規定不適用於市區內的短程出差。"
+        }
+      ],
+      "distractors": [
+        "available",
+        "capable",
+        "approachable"
+      ],
+      "note": "語塊：if applicable（如果適用的話；如有的話）、be applicable to（適用於……）、applicable taxes／fees（相關的稅金／費用）。表格上常看到 if applicable，意思是「有的話才填，沒有就不用填」。和 available（可用的、有空的）不一樣：applicable 是「規定或條件適用」。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
