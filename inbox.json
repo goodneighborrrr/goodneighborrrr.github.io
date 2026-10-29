@@ -8138,6 +8138,41 @@
       ],
       "note": "語塊：payment will be remitted（款項將會匯出）、remit payment（匯款；付款）、be remitted to＋帳戶／對象（匯給……）。原形是 remit（匯款、繳納），名詞 remittance（匯款）。比 pay 或 send money 更正式，常出現在發票和合約上。容易搞混：admitted（承認了）、permitted（允許了）、omitted（省略了）。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-wired",
+      "word": "wired",
+      "pos": "動詞",
+      "meaning": "電匯（wire 的過去式／過去分詞）；接上電線",
+      "sentences": [
+        {
+          "en": "A payment of nine hundred dollars can be wired to your account as soon as the contract is signed.",
+          "zh": "合約一簽好，九百元的款項就可以電匯到你的帳戶。"
+        },
+        {
+          "en": "The client wired the money to our company account last Friday, so the order can be shipped today.",
+          "zh": "客戶上週五把錢電匯到我們公司帳戶了，所以訂單今天就能出貨。"
+        },
+        {
+          "en": "Your salary will be wired directly to your bank account on the last business day of each month.",
+          "zh": "你的薪水會在每個月最後一個工作天直接匯入你的銀行帳戶。"
+        },
+        {
+          "en": "The deposit must be wired to the hotel at least two weeks before the conference begins.",
+          "zh": "訂金必須在會議開始前至少兩週匯給飯店。"
+        },
+        {
+          "en": "Please call the finance office to confirm that the funds were wired to the correct account number.",
+          "zh": "請打電話給財務辦公室，確認款項有匯到正確的帳號。"
+        }
+      ],
+      "distractors": [
+        "hired",
+        "wiped",
+        "fired"
+      ],
+      "note": "語塊：be wired to your account（電匯到你的帳戶）、wire money／funds（電匯金錢／款項）、wire transfer（電匯）。wire 原本是「電線」，當動詞是「透過銀行電匯」。和 remit 意思很接近：remit 是「付款、匯款」的正式說法，wire 特別指「銀行電匯」。wired 也可以指「接好電線的」或口語「很亢奮的」。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
