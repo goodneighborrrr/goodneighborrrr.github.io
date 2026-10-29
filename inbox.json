@@ -8068,6 +8068,41 @@
       ],
       "note": "語塊：unsolicited emails／calls（垃圾信件／推銷電話）、unsolicited advice（沒人要求的建議）、unsolicited manuscripts／applications（主動投稿／主動投遞的履歷）。un（不）＋solicited（被請求的）＝沒人請你、自己主動來的。動詞 solicit 是「請求、徵求」，例如 solicit feedback（徵求意見）。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-revision",
+      "word": "revision",
+      "pos": "名詞",
+      "meaning": "修改；修訂；修訂版",
+      "sentences": [
+        {
+          "en": "The client requested a revision to the contract because the delivery date was listed incorrectly.",
+          "zh": "客戶要求修改合約，因為交貨日期寫錯了。"
+        },
+        {
+          "en": "The design team made a minor revision to the logo after receiving feedback from the marketing director.",
+          "zh": "設計團隊收到行銷總監的意見後，對標誌做了小幅修改。"
+        },
+        {
+          "en": "The budget proposal is still under revision and will be sent to the board of directors next week.",
+          "zh": "預算提案還在修改中，下週會送交董事會。"
+        },
+        {
+          "en": "Each revision of the user manual must be approved by the quality control manager before it is printed.",
+          "zh": "使用手冊每次修訂都必須經過品管經理核准才能印刷。"
+        },
+        {
+          "en": "After a careful revision of last year's sales figures, the accountant found several small errors in the report.",
+          "zh": "仔細重新檢查去年的銷售數字後，會計發現報告裡有幾個小錯誤。"
+        }
+      ],
+      "distractors": [
+        "division",
+        "provision",
+        "vision"
+      ],
+      "note": "語塊：make a revision to（對……做修改）、request a revision（要求修改）、under revision（修改中）、minor／major revision（小幅／大幅修改）。動詞是 revise（修改、修訂）。容易搞混：provision（提供；條款）、division（部門；分配）拼法很像但意思不同。英式英文的 revision 也有「複習（考試）」的意思。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
