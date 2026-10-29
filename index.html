@@ -109,6 +109,10 @@ main{padding-block:20px 48px}
 .zh{font-size:14px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px}
 .wnote{font-size:14px;line-height:1.7;background:var(--leaf-wash);color:var(--ink);border-radius:10px;padding:10px 12px;white-space:pre-line}
 .wnote b{color:var(--leaf-ink)}
+.wnote .nh{font-weight:700;color:var(--leaf-ink);margin-top:2px}
+.wnote ul{margin:2px 0 4px;padding-left:20px;white-space:normal}
+.wnote li{margin:2px 0}
+.wnote li .en{font-weight:600}
 .linkish{justify-self:start;border:0;background:none;padding:4px 0;color:var(--muted);font-size:13px;text-decoration:underline;text-underline-offset:3px;text-align:left}
 .linkish:hover{color:var(--ink)}
 .primary{width:100%;margin-top:16px;height:50px;border-radius:25px;border:0;background:var(--leaf);color:#fff;font-weight:700;font-size:16px;letter-spacing:.04em}
@@ -303,6 +307,32 @@ function normalizeWord(w){
 }
 
 /* ---------- 句子挖空 ---------- */
+// 備註排成條列：「語塊：A（..）、B（..）。」每個語塊一行，其餘每句一行（括號裡的、和。不切）
+function splitTop(t, seps){
+  const out = []; let depth = 0, cur = "";
+  for (const ch of t){
+    if ("（(「".includes(ch)) depth++;
+    else if ("）)」".includes(ch)) depth = Math.max(0, depth - 1);
+    if (!depth && seps.includes(ch)){ if (cur.trim()) out.push(cur.trim()); cur = ""; continue; }
+    cur += ch;
+  }
+  if (cur.trim()) out.push(cur.trim());
+  return out;
+}
+function noteHtml(note){
+  let t = String(note).trim(), coll = [];
+  const m = t.match(/^語塊[：:]/);
+  if (m){
+    t = t.slice(m[0].length);
+    const parts = splitTop(t, "。"); const head = parts.shift() || "";
+    coll = splitTop(head, "、；;");
+    t = parts.join("。");
+  }
+  const rest = splitTop(t, "。\n").map(x => x.replace(/^[①②③④⑤]\s*/, ""));
+  const li = x => { const k = x.search(/[（(]/); return k > 0 ? `<li><span class="en" lang="en">${escapeHtml(x.slice(0, k))}</span>${escapeHtml(x.slice(k))}</li>` : `<li>${escapeHtml(x)}</li>`; };
+  return (coll.length ? `<div class="nh">🧩 語塊</div><ul>${coll.map(li).join("")}</ul>` : "")
+       + (rest.length ? `<div class="nh">💡 備註</div><ul>${rest.map(x => `<li>${escapeHtml(x)}</li>`).join("")}</ul>` : "");
+}
 function escapeHtml(s){ return String(s).replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c])); }
 function escapeRe(s){ return s.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"); }
 function wordRe(word){ return new RegExp(`(^|[^A-Za-z])(${escapeRe(word)})(?![A-Za-z])`, "i"); }
@@ -593,7 +623,7 @@ function renderQuestion(){
       <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
       ${q.sentence.zh ? `<div class="zh">${escapeHtml(q.sentence.zh)}</div>` : ""}
-      ${w.note ? `<div class="wnote"><b>備註</b>　${escapeHtml(w.note)}</div>` : ""}
+      ${w.note ? `<div class="wnote">${noteHtml(w.note)}</div>` : ""}
       ${!ok && !q.disputed ? `<button class="linkish" id="dispute">我選的 ${escapeHtml(q.options[q.picked])} 放進句子也對？按這裡算我對</button>` : ""}
     </section>
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
