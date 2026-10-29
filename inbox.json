@@ -8313,6 +8313,41 @@
       ],
       "note": "語塊：update the curriculum（更新課程）、design／develop a curriculum（設計課程）、part of the curriculum（課程的一部分）。curriculum 是「整套課程」，course 是「其中一門課」。複數是 curricula 或 curriculums。別跟 curriculum vitae（CV，履歷）搞混，雖然開頭一樣，但 CV 是履歷。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-semester",
+      "word": "semester",
+      "pos": "名詞",
+      "meaning": "學期",
+      "sentences": [
+        {
+          "en": "Registration for courses in the fall semester will open online on the first Monday of August.",
+          "zh": "秋季學期的課程報名，會在八月第一個星期一開放線上登記。"
+        },
+        {
+          "en": "The company offers to pay half of the tuition for employees who take evening classes this semester.",
+          "zh": "這學期上夜間課程的員工，公司願意負擔一半的學費。"
+        },
+        {
+          "en": "Several local businesses will hire students as interns during the spring semester to help with marketing projects.",
+          "zh": "春季學期期間，好幾家本地企業會聘學生當實習生，協助行銷專案。"
+        },
+        {
+          "en": "Ms. Chen will teach two business English courses at the university at the end of the semester.",
+          "zh": "陳小姐學期末會在大學教兩門商業英文課。"
+        },
+        {
+          "en": "Students who study abroad for a semester often find it easier to get jobs at international companies.",
+          "zh": "出國讀一學期的學生，通常比較容易找到國際公司的工作。"
+        }
+      ],
+      "distractors": [
+        "seminar",
+        "sequence",
+        "session"
+      ],
+      "note": "語塊：the fall／spring semester（秋季／春季學期）、this／next semester（這／下學期）、study abroad for a semester（出國讀一學期）。semester 是一年分兩段的「學期」；term 也可以指學期，但更廣，也能指任期、條款。別跟 seminar（研討會）搞混，開頭很像但意思不同。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
