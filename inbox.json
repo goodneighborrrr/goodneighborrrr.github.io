@@ -8173,6 +8173,41 @@
       ],
       "note": "語塊：be wired to your account（電匯到你的帳戶）、wire money／funds（電匯金錢／款項）、wire transfer（電匯）。wire 原本是「電線」，當動詞是「透過銀行電匯」。和 remit 意思很接近：remit 是「付款、匯款」的正式說法，wire 特別指「銀行電匯」。wired 也可以指「接好電線的」或口語「很亢奮的」。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261029-invention",
+      "word": "invention",
+      "pos": "名詞",
+      "meaning": "發明；發明物",
+      "sentences": [
+        {
+          "en": "The engineer applied for a patent on her invention before presenting it at the technology fair.",
+          "zh": "工程師在科技展上發表她的發明之前，先申請了專利。"
+        },
+        {
+          "en": "The company plans to bring the new invention to market by the end of next year.",
+          "zh": "公司打算在明年底前把這項新發明推向市場。"
+        },
+        {
+          "en": "Many of the most useful office tools began as a simple invention by an ordinary employee.",
+          "zh": "很多最好用的辦公室工具，一開始都是普通員工的一個簡單發明。"
+        },
+        {
+          "en": "The judges at the contest praised the student's invention for its practical design and low production cost.",
+          "zh": "評審稱讚這位學生的發明設計實用、生產成本又低。"
+        },
+        {
+          "en": "The museum's new exhibit shows how the invention of the telephone changed the way businesses communicate.",
+          "zh": "博物館的新展覽介紹電話的發明如何改變了企業溝通的方式。"
+        }
+      ],
+      "distractors": [
+        "intention",
+        "inspection",
+        "invitation"
+      ],
+      "note": "語塊：patent an invention／apply for a patent on an invention（為發明申請專利）、bring an invention to market（把發明推向市場）、the invention of＋東西（……的發明）。動詞 invent（發明），發明家是 inventor。別跟 investigation（調查）搞混：兩個都是 inv 開頭、-tion 結尾，investigation 比較長，開頭是 invest（投資）。也小心 innovation（創新），指新的做法或改良，不一定是新東西。",
+      "addedAt": "2026-10-29"
     }
   ],
   "notes": [
