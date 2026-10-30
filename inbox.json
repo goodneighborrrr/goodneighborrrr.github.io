@@ -8453,6 +8453,41 @@
       ],
       "note": "語塊：paint with watercolors（用水彩畫畫）、an exhibition of watercolors（水彩畫展）、a collection of watercolors（一系列水彩畫）。watercolors 有兩個意思：①水彩顏料 ②水彩畫（作品）。英式拼法是 watercolours。類似：oil painting（油畫）、sketch（素描）。",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "20261030-shares",
+      "word": "shares",
+      "pos": "名詞",
+      "meaning": "股份；股票；（分到的）一份",
+      "sentences": [
+        {
+          "en": "Many investors started buying shares in the electric car company after it announced record profits.",
+          "zh": "這家電動車公司宣布創紀錄的獲利後，很多投資人開始買它的股票。"
+        },
+        {
+          "en": "Employees who have worked here for five years can buy shares at a discount through the company program.",
+          "zh": "在這裡工作滿五年的員工，可以透過公司的方案用優惠價買股票。"
+        },
+        {
+          "en": "The founder sold half of his shares last year to raise money for a new business in Japan.",
+          "zh": "創辦人去年賣掉一半的股份，籌錢在日本開新事業。"
+        },
+        {
+          "en": "The price of shares in the airline rose sharply after the government lifted travel restrictions.",
+          "zh": "政府解除旅遊限制後，這家航空公司的股價大幅上漲。"
+        },
+        {
+          "en": "Each of the three partners owns equal shares of the restaurant and makes decisions together every month.",
+          "zh": "三位合夥人各擁有這家餐廳相同的股份，每個月一起做決定。"
+        }
+      ],
+      "distractors": [
+        "shapes",
+        "shores",
+        "shades"
+      ],
+      "note": "語塊：buy／sell shares（買／賣股票）、shares in＋公司（……公司的股票）、the price of shares／share price（股價）。share 當名詞是「股份、股票」，也有「一份、分擔的部分」的意思（a fair share 應得的一份）；當動詞是「分享」。和 stock 的差別：stock 泛指股票（不可數），shares 是一股一股可以數的。持有股票的人叫 shareholder。",
+      "addedAt": "2026-10-30"
     }
   ],
   "notes": [
