@@ -8383,6 +8383,41 @@
       ],
       "note": "語塊：exhibition pavilion（展覽館）、the Japanese／Taiwan pavilion（日本館／台灣館，指國家館）、park pavilion（公園涼亭）。pavilion 有兩種常見意思：①博覽會或展覽裡的「展館」 ②公園裡有屋頂、沒有牆的「涼亭」。和 booth（攤位）不同：booth 是一家公司的小攤位，pavilion 是一整座館或一大區。",
       "addedAt": "2026-10-29"
+    },
+    {
+      "id": "20261030-featured",
+      "word": "featured",
+      "pos": "動詞",
+      "meaning": "被報導；被特別介紹；以……為特色（feature 的過去式／過去分詞）",
+      "sentences": [
+        {
+          "en": "This is the first time our bakery has been featured in a national food magazine.",
+          "zh": "這是我們麵包店第一次被全國性的美食雜誌報導。"
+        },
+        {
+          "en": "The young designer was featured on a popular morning TV show after winning the international competition.",
+          "zh": "這位年輕設計師在國際比賽得獎後，登上了一個熱門的晨間電視節目。"
+        },
+        {
+          "en": "Our new product line will be featured prominently at the front of every store during the holiday season.",
+          "zh": "假期期間，我們的新產品系列會被擺在每家店最前面最顯眼的位置。"
+        },
+        {
+          "en": "The museum's latest exhibition featured paintings by several local artists who had never shown their work before.",
+          "zh": "博物館最新的展覽展出了幾位從沒公開作品的本地藝術家的畫作。"
+        },
+        {
+          "en": "Several of our employees were featured in the company newsletter for their excellent customer service this year.",
+          "zh": "我們有好幾位員工因為今年客戶服務表現優秀，被刊登在公司電子報上。"
+        }
+      ],
+      "distractors": [
+        "favored",
+        "fostered",
+        "factored"
+      ],
+      "note": "語塊：be featured in＋雜誌／報紙（被……報導、刊登）、be featured on＋電視節目／網站（登上……）、be featured prominently（被放在顯眼位置）。feature 當動詞是「以……為特色；特別介紹、報導」，當名詞是「特色、功能」（a new feature 新功能）。介系詞：雜誌、報紙、電子報用 in；電視、網站、節目用 on。",
+      "addedAt": "2026-10-30"
     }
   ],
   "notes": [
