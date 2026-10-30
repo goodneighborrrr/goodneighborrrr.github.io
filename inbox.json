@@ -8418,6 +8418,41 @@
       ],
       "note": "語塊：be featured in＋雜誌／報紙（被……報導、刊登）、be featured on＋電視節目／網站（登上……）、be featured prominently（被放在顯眼位置）。feature 當動詞是「以……為特色；特別介紹、報導」，當名詞是「特色、功能」（a new feature 新功能）。介系詞：雜誌、報紙、電子報用 in；電視、網站、節目用 on。",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "20261030-watercolors",
+      "word": "watercolors",
+      "pos": "名詞",
+      "meaning": "水彩畫；水彩顏料",
+      "sentences": [
+        {
+          "en": "The gallery will display a collection of watercolors painted by local artists throughout the month of December.",
+          "zh": "藝廊整個十二月會展出一系列本地藝術家畫的水彩畫。"
+        },
+        {
+          "en": "The hotel lobby is decorated with soft watercolors of mountains and lakes from around Taiwan.",
+          "zh": "飯店大廳掛著台灣各地山景和湖景的柔和水彩畫。"
+        },
+        {
+          "en": "Participants in the weekend workshop will learn how to paint with watercolors using simple brushes and paper.",
+          "zh": "週末工作坊的學員會學習用簡單的畫筆和紙來畫水彩。"
+        },
+        {
+          "en": "All the watercolors in the exhibition are for sale, and the profits will be donated to a children's hospital.",
+          "zh": "展覽中所有的水彩畫都可以購買，收益會捐給一家兒童醫院。"
+        },
+        {
+          "en": "The art supply store offers a ten percent discount on watercolors and sketchbooks for students with a valid ID.",
+          "zh": "美術用品店為持有效證件的學生提供水彩顏料和素描本九折優惠。"
+        }
+      ],
+      "distractors": [
+        "watermarks",
+        "waterfalls",
+        "waterfronts"
+      ],
+      "note": "語塊：paint with watercolors（用水彩畫畫）、an exhibition of watercolors（水彩畫展）、a collection of watercolors（一系列水彩畫）。watercolors 有兩個意思：①水彩顏料 ②水彩畫（作品）。英式拼法是 watercolours。類似：oil painting（油畫）、sketch（素描）。",
+      "addedAt": "2026-10-30"
     }
   ],
   "notes": [
