@@ -8488,6 +8488,41 @@
       ],
       "note": "語塊：buy／sell shares（買／賣股票）、shares in＋公司（……公司的股票）、the price of shares／share price（股價）。share 當名詞是「股份、股票」，也有「一份、分擔的部分」的意思（a fair share 應得的一份）；當動詞是「分享」。和 stock 的差別：stock 泛指股票（不可數），shares 是一股一股可以數的。持有股票的人叫 shareholder。",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "20261030-certificate",
+      "word": "certificate",
+      "pos": "名詞",
+      "meaning": "證書；證明書；（gift certificate）禮券",
+      "sentences": [
+        {
+          "en": "Every customer who completes our online survey will receive a gift certificate worth twenty dollars.",
+          "zh": "每位填完我們線上問卷的顧客都會收到一張價值二十元的禮券。"
+        },
+        {
+          "en": "The restaurant gave us a gift certificate to apologize for the long wait on Friday night.",
+          "zh": "餐廳送我們一張禮券，為星期五晚上讓我們等很久道歉。"
+        },
+        {
+          "en": "Gift certificates can be redeemed at any of our stores, but each certificate must be used before the expiration date.",
+          "zh": "禮券可以在我們任何一家門市使用，但每張禮券都必須在到期日前用完。"
+        },
+        {
+          "en": "Participants who attend all five training sessions will be issued a certificate of completion by the human resources department.",
+          "zh": "參加全部五堂培訓課的學員，會由人資部門核發結業證書。"
+        },
+        {
+          "en": "Applicants must submit a copy of their teaching certificate along with their résumé before the end of the month.",
+          "zh": "應徵者必須在月底前，把教師證書影本連同履歷一起交出來。"
+        }
+      ],
+      "distractors": [
+        "candidate",
+        "celebrity",
+        "certainty"
+      ],
+      "note": "語塊：gift certificate（禮券）、redeem a gift certificate（使用禮券）、certificate of completion（結業證書）、be issued a certificate（被核發證書）。certificate 是「證書、證明文件」，gift certificate 是「禮券」，同義詞是 gift card、gift voucher。和 certification（認證、資格）不同：certificate 是那張紙，certification 是取得資格這件事。",
+      "addedAt": "2026-10-30"
     }
   ],
   "notes": [
