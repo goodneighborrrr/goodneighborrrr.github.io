@@ -8523,6 +8523,41 @@
       ],
       "note": "語塊：gift certificate（禮券）、redeem a gift certificate（使用禮券）、certificate of completion（結業證書）、be issued a certificate（被核發證書）。certificate 是「證書、證明文件」，gift certificate 是「禮券」，同義詞是 gift card、gift voucher。和 certification（認證、資格）不同：certificate 是那張紙，certification 是取得資格這件事。",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "20261030-retreat",
+      "word": "retreat",
+      "pos": "名詞",
+      "meaning": "（公司的）靜修營、研習營；休憩處；撤退",
+      "sentences": [
+        {
+          "en": "The management team will attend a three-day corporate retreat in the mountains to plan next year's strategy.",
+          "zh": "管理團隊會參加在山上舉辦的三天企業靜修營，規劃明年的策略。"
+        },
+        {
+          "en": "Last year's company retreat helped employees from different departments get to know each other better.",
+          "zh": "去年的公司員工旅遊活動，讓不同部門的員工更了解彼此。"
+        },
+        {
+          "en": "The resort has become a popular weekend retreat for busy professionals who want to escape the city.",
+          "zh": "這間度假村成了想逃離城市的忙碌上班族熱門的週末休憩地點。"
+        },
+        {
+          "en": "Our sales team is planning a two-day retreat to discuss new ways to reach customers overseas.",
+          "zh": "我們業務團隊正在規劃兩天的研習營，討論接觸海外客戶的新方法。"
+        },
+        {
+          "en": "The hotel offers a quiet retreat with yoga classes and healthy meals for guests who need to relax.",
+          "zh": "飯店為需要放鬆的客人提供安靜的休養行程，有瑜珈課和健康餐點。"
+        }
+      ],
+      "distractors": [
+        "receipt",
+        "request",
+        "retail"
+      ],
+      "note": "語塊：corporate／company retreat（公司的員工靜修營、外地研習）、a weekend retreat（週末休憩處）、go on a retreat（參加靜修／研習活動）。在多益裡，retreat 通常是公司帶員工到外地，一邊開會規劃、一邊放鬆交流的活動。原本意思是「撤退」，也可以當動詞：The army retreated（軍隊撤退）。",
+      "addedAt": "2026-10-30"
     }
   ],
   "notes": [
