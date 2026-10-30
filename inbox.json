@@ -8558,6 +8558,41 @@
       ],
       "note": "語塊：corporate／company retreat（公司的員工靜修營、外地研習）、a weekend retreat（週末休憩處）、go on a retreat（參加靜修／研習活動）。在多益裡，retreat 通常是公司帶員工到外地，一邊開會規劃、一邊放鬆交流的活動。原本意思是「撤退」，也可以當動詞：The army retreated（軍隊撤退）。",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "20261030-introduction",
+      "word": "introduction",
+      "pos": "名詞",
+      "meaning": "介紹；開場白；入門；引進",
+      "sentences": [
+        {
+          "en": "The radio host gave a short introduction to the interview before asking the chef about her new restaurant.",
+          "zh": "電台主持人在問主廚新餐廳的事之前，先為這段訪談做了簡短的開場介紹。"
+        },
+        {
+          "en": "This workshop offers a basic introduction to digital marketing for small business owners with no experience.",
+          "zh": "這個工作坊為沒有經驗的小企業老闆提供數位行銷的基礎入門。"
+        },
+        {
+          "en": "The introduction of the new scheduling software has saved our staff several hours every week.",
+          "zh": "新排班軟體的導入，讓我們的員工每週省下好幾個小時。"
+        },
+        {
+          "en": "After a brief introduction by the CEO, the head of research presented the results of the study.",
+          "zh": "執行長簡短開場致詞之後，研究主管報告了研究結果。"
+        },
+        {
+          "en": "Mr. Park asked his assistant to make an introduction between him and the new supplier at the trade fair.",
+          "zh": "朴先生請助理在商展上替他和新供應商介紹認識。"
+        }
+      ],
+      "distractors": [
+        "instruction",
+        "interruption",
+        "inspection"
+      ],
+      "note": "語塊：an introduction to＋東西（……的開場白；……入門）、make an introduction（幫人介紹認識）、the introduction of＋新東西（……的引進、推出）、a brief／short introduction（簡短的介紹）。動詞 introduce（介紹；引進）。別跟 instruction（指示、說明）搞混：introduction 是「介紹、開頭」，instruction 是「教你怎麼做」。",
+      "addedAt": "2026-10-30"
     }
   ],
   "notes": [
