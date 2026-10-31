@@ -8768,6 +8768,41 @@
       ],
       "note": "語塊：timeslots remain open／available（時段還有空位）、book a timeslot（預約時段）、all timeslots are filled（時段全滿）。也常寫成兩個字 time slots，單數 timeslot／time slot。slot 本身是「時段；（放東西的）狹縫、投幣口」。和 timetable（時刻表、行程表）不同：timetable 是整張表，timeslot 是其中一格時段。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-mansion",
+      "word": "mansion",
+      "pos": "名詞",
+      "meaning": "豪宅；大宅邸",
+      "sentences": [
+        {
+          "en": "The historic mansion on the hill has been turned into a luxury hotel with twenty guest rooms.",
+          "zh": "山丘上的那棟歷史豪宅已經改建成有二十間客房的豪華飯店。"
+        },
+        {
+          "en": "Visitors can take a guided tour of the mansion and its gardens every Saturday morning.",
+          "zh": "每週六早上，參觀者可以跟著導覽參觀這棟豪宅和它的花園。"
+        },
+        {
+          "en": "The company held its anniversary dinner in an old mansion that is often rented for weddings and banquets.",
+          "zh": "公司在一棟常被租來辦婚禮和宴會的老豪宅舉辦週年晚宴。"
+        },
+        {
+          "en": "The real estate agent showed the wealthy buyer a large mansion with a swimming pool and a private garden.",
+          "zh": "房仲帶這位有錢的買家看了一棟有游泳池和私人花園的大豪宅。"
+        },
+        {
+          "en": "After the renovation is complete, the old mansion will reopen to the public as a museum of local history.",
+          "zh": "整修完成後，這棟老宅會改成地方歷史博物館，重新對外開放。"
+        }
+      ],
+      "distractors": [
+        "mention",
+        "motion",
+        "pension"
+      ],
+      "note": "語塊：a historic mansion（歷史豪宅）、a tour of the mansion（參觀豪宅）、a luxury mansion（豪華宅邸）。mansion 是很大、很豪華的獨棟房子。注意：英文的 mansion 不是中文說的「大樓公寓」（那是 apartment building／condo），雖然日文的マンション指公寓。別跟 mention（提到）搞混。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
