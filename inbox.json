@@ -8978,6 +8978,41 @@
       ],
       "note": "語塊：take (down) the minutes（做會議記錄）、the minutes of the meeting（會議記錄）、according to the minutes（根據會議記錄）、review the minutes（審閱會議記錄）。在會議情境，minutes 是「會議記錄」，一定用複數，不是「分鐘」。做記錄的人叫 minute-taker 或 note-taker。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-opera",
+      "word": "opera",
+      "pos": "名詞",
+      "meaning": "歌劇",
+      "sentences": [
+        {
+          "en": "The company bought tickets to the opera for its top sales representatives as a reward for reaching their targets.",
+          "zh": "公司買了歌劇票給業績最好的業務代表，獎勵他們達成目標。"
+        },
+        {
+          "en": "The new opera house downtown will host performances by famous international singers starting early next spring.",
+          "zh": "市中心新的歌劇院明年春天起會有國際歌手的演出。"
+        },
+        {
+          "en": "Guests staying at our hotel can receive a discount on tickets to the opera at the city theater.",
+          "zh": "住我們飯店的客人，可以用優惠價買市立劇院的歌劇票。"
+        },
+        {
+          "en": "After dinner, the clients were taken to see a famous Italian opera that lasted almost three hours.",
+          "zh": "晚餐後，客戶被帶去看了一齣將近三小時的著名義大利歌劇。"
+        },
+        {
+          "en": "The local opera company is looking for volunteers to help sell tickets and greet guests at the entrance.",
+          "zh": "本地歌劇團正在找志工幫忙賣票，並在入口接待來賓。"
+        }
+      ],
+      "distractors": [
+        "option",
+        "orbit",
+        "operator"
+      ],
+      "note": "語塊：go to the opera（去看歌劇）、an opera house（歌劇院）、an opera company（歌劇團）、an opera singer（歌劇演員）。和 musical（音樂劇）不同：opera 幾乎全部用唱的，常是古典音樂；musical 有唱也有對話，比較流行。soap opera 是「肥皂劇、連續劇」。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
