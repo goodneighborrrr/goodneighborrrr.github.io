@@ -8768,6 +8768,41 @@
       ],
       "note": "語塊：be excluded from（被排除在……之外）、feel excluded（覺得被排擠、被冷落）、taxes excluded（不含稅）。動詞 exclude（排除；不包括），反義詞 include（包括）。形容詞 exclusive（獨家的；專屬的）。別跟 exceeded（超過了）搞混。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-timeslots",
+      "word": "timeslots",
+      "pos": "名詞",
+      "meaning": "時段；（預約的）時間格",
+      "sentences": [
+        {
+          "en": "Various timeslots remain open for next week's training sessions, so please sign up on the company website.",
+          "zh": "下週的培訓課程還有好幾個時段空著，請到公司網站報名。"
+        },
+        {
+          "en": "Patients can book available timeslots online instead of calling the clinic during busy morning hours.",
+          "zh": "病患可以在網路上預約空的時段，不用在忙碌的早上打電話到診所。"
+        },
+        {
+          "en": "All the afternoon timeslots for the job interviews were filled within two hours of the announcement.",
+          "zh": "面試的所有下午時段，在公告後兩小時內就全部額滿了。"
+        },
+        {
+          "en": "The radio station sells advertising timeslots during the morning news at a higher price than in the evening.",
+          "zh": "電台早上新聞時段的廣告時段，賣得比晚上貴。"
+        },
+        {
+          "en": "Customers who choose evening delivery timeslots may have to pay an additional fee of five dollars.",
+          "zh": "選擇晚上配送時段的顧客，可能要多付五元費用。"
+        }
+      ],
+      "distractors": [
+        "timelines",
+        "timetables",
+        "headlines"
+      ],
+      "note": "語塊：timeslots remain open／available（時段還有空位）、book a timeslot（預約時段）、all timeslots are filled（時段全滿）。也常寫成兩個字 time slots，單數 timeslot／time slot。slot 本身是「時段；（放東西的）狹縫、投幣口」。和 timetable（時刻表、行程表）不同：timetable 是整張表，timeslot 是其中一格時段。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
