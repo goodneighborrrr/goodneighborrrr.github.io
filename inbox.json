@@ -8593,6 +8593,41 @@
       ],
       "note": "語塊：an introduction to＋東西（……的開場白；……入門）、make an introduction（幫人介紹認識）、the introduction of＋新東西（……的引進、推出）、a brief／short introduction（簡短的介紹）。動詞 introduce（介紹；引進）。別跟 instruction（指示、說明）搞混：introduction 是「介紹、開頭」，instruction 是「教你怎麼做」。",
       "addedAt": "2026-10-30"
+    },
+    {
+      "id": "20261031-shift",
+      "word": "shift",
+      "pos": "名詞",
+      "meaning": "輪班；（一段）班；轉變",
+      "sentences": [
+        {
+          "en": "Please check the safety equipment carefully before you start your shift at the factory each morning.",
+          "zh": "每天早上在工廠開始上班前，請仔細檢查安全設備。"
+        },
+        {
+          "en": "Nurses who work the night shift receive extra pay and two additional days off each month.",
+          "zh": "上夜班的護理師每個月有額外津貼和多兩天休假。"
+        },
+        {
+          "en": "Mr. Lee asked a coworker to cover his shift on Friday so he could attend his daughter's graduation.",
+          "zh": "李先生請同事星期五幫他代班，這樣他才能去參加女兒的畢業典禮。"
+        },
+        {
+          "en": "The restaurant hired three part-time workers to help during the busy lunch shift on weekends.",
+          "zh": "餐廳請了三位兼職人員，幫忙週末忙碌的午餐時段。"
+        },
+        {
+          "en": "Employees must sign in at the front desk at the end of every shift so managers can track working hours.",
+          "zh": "員工每次下班時都必須在櫃台簽到，讓經理可以記錄工時。"
+        }
+      ],
+      "distractors": [
+        "shelf",
+        "shade",
+        "sheet"
+      ],
+      "note": "語塊：start／finish your shift（開始／結束輪班）、the night／day shift（夜班／日班）、cover someone's shift（幫某人代班）、work the morning shift（上早班）。shift 是「輪班的一段工作時間」。也可以當動詞或名詞指「轉變、移動」：a shift in strategy（策略的轉變）、shift the meeting to Monday（把會議改到星期一）。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
