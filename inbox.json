@@ -8628,6 +8628,76 @@
       ],
       "note": "語塊：start／finish your shift（開始／結束輪班）、the night／day shift（夜班／日班）、cover someone's shift（幫某人代班）、work the morning shift（上早班）。shift 是「輪班的一段工作時間」。也可以當動詞或名詞指「轉變、移動」：a shift in strategy（策略的轉變）、shift the meeting to Monday（把會議改到星期一）。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-sirloin",
+      "word": "sirloin",
+      "pos": "名詞",
+      "meaning": "沙朗（牛肉部位）",
+      "sentences": [
+        {
+          "en": "This weekend only, all sirloin steaks in the meat department are half off for members of our rewards program.",
+          "zh": "僅限本週末，肉品區所有沙朗牛排對會員計畫的會員半價優惠。"
+        },
+        {
+          "en": "The chef recommends ordering the grilled sirloin with roasted vegetables and a glass of red wine.",
+          "zh": "主廚推薦點炭烤沙朗搭配烤蔬菜和一杯紅酒。"
+        },
+        {
+          "en": "Our butcher cuts each sirloin steak by hand to make sure every piece is the same thickness.",
+          "zh": "我們的肉販每塊沙朗牛排都是手工切的，確保每塊厚度都一樣。"
+        },
+        {
+          "en": "The banquet menu includes a choice of sirloin, salmon, or a vegetarian pasta dish for each guest.",
+          "zh": "宴會菜單讓每位客人從沙朗、鮭魚或素食義大利麵中選一道。"
+        },
+        {
+          "en": "Customers can save up to ten dollars when they buy two packages of sirloin at the same time.",
+          "zh": "顧客同時買兩盒沙朗最多可以省十元。"
+        }
+      ],
+      "distractors": [
+        "siren",
+        "sermon",
+        "serial"
+      ],
+      "note": "語塊：sirloin steak（沙朗牛排）、grilled sirloin（炭烤沙朗）、a cut of sirloin（一塊沙朗）。其他常見牛排部位：tenderloin／filet mignon（菲力）、rib-eye（肋眼）、T-bone（丁骨）。",
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-half-off",
+      "word": "half off",
+      "pos": "其他",
+      "meaning": "半價；打五折",
+      "sentences": [
+        {
+          "en": "All sirloin steaks are half off this weekend, so the supermarket expects the meat section to be very busy.",
+          "zh": "這週末所有沙朗牛排半價，所以超市預計肉品區會很忙。"
+        },
+        {
+          "en": "Customers who show their membership card can get winter jackets at half off until the end of the month.",
+          "zh": "出示會員卡的顧客，到月底前可以用半價買冬季外套。"
+        },
+        {
+          "en": "The bookstore is offering half off all travel guides to celebrate the opening of its second location.",
+          "zh": "書店為了慶祝第二家分店開幕，所有旅遊指南都打五折。"
+        },
+        {
+          "en": "Tickets for the afternoon show are half off for students and senior citizens with a valid ID.",
+          "zh": "下午場的票，學生和年長者持有效證件可享半價。"
+        },
+        {
+          "en": "Because the shipment arrived damaged, the supplier agreed to give us half off our next order of printer paper.",
+          "zh": "因為送來的貨有損壞，供應商同意下一筆印表機紙的訂單給我們打五折。"
+        }
+      ],
+      "distractors": [
+        "halfway",
+        "half time",
+        "half empty"
+      ],
+      "note": "語塊：be half off（半價）、get＋東西＋at half off（用半價買到）、offer half off＋東西（某東西打五折）。off 在這裡是「減掉、折扣」：20% off（打八折）、$10 off（折十元）。同義：half price、50% off。注意：中文的「八折」英文是 20% off（減掉 20%）。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
