@@ -8803,6 +8803,111 @@
       ],
       "note": "語塊：a historic mansion（歷史豪宅）、a tour of the mansion（參觀豪宅）、a luxury mansion（豪華宅邸）。mansion 是很大、很豪華的獨棟房子。注意：英文的 mansion 不是中文說的「大樓公寓」（那是 apartment building／condo），雖然日文的マンション指公寓。別跟 mention（提到）搞混。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-patio",
+      "word": "patio",
+      "pos": "名詞",
+      "meaning": "露台；（地面層的）戶外平台",
+      "sentences": [
+        {
+          "en": "Each ground-floor room features a walk-out patio with direct access to the hotel's swimming pool.",
+          "zh": "每間一樓的房間都有可以直接走出去的露台，直通飯店游泳池。"
+        },
+        {
+          "en": "Guests can enjoy breakfast on the patio while looking out over the garden and the lake.",
+          "zh": "客人可以在露台上吃早餐，同時欣賞花園和湖景。"
+        },
+        {
+          "en": "The restaurant added an outdoor patio last spring so customers could dine outside in warm weather.",
+          "zh": "餐廳去年春天增加了戶外露台，讓客人天氣暖和時可以在外面用餐。"
+        },
+        {
+          "en": "The apartment comes with a private patio, which is perfect for small dinner parties with friends.",
+          "zh": "這間公寓附有私人露台，很適合跟朋友辦小型晚餐聚會。"
+        },
+        {
+          "en": "Workers will repair the stone floor of the patio before the company barbecue next Saturday.",
+          "zh": "工人會在下週六公司烤肉活動前，修好露台的石頭地板。"
+        }
+      ],
+      "distractors": [
+        "portal",
+        "pantry",
+        "plaza"
+      ],
+      "note": "語塊：a walk-out patio（可以直接從房間走出去的露台）、an outdoor patio（戶外露台）、a private patio（私人露台）、on the patio（在露台上，用 on）。和 balcony（陽台）的差別：patio 在地面層，通常鋪石頭或磚；balcony 在樓上，從牆壁突出去，有欄杆。",
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-balcony",
+      "word": "balcony",
+      "pos": "名詞",
+      "meaning": "陽台；（劇院的）樓座",
+      "sentences": [
+        {
+          "en": "Every room on the upper floors has a private balcony with a beautiful view of the ocean.",
+          "zh": "高樓層的每間房都有私人陽台，可以欣賞美麗的海景。"
+        },
+        {
+          "en": "Guests are reminded not to hang towels or clothes over the balcony railing for safety reasons.",
+          "zh": "為了安全，提醒房客不要把毛巾或衣服掛在陽台欄杆上。"
+        },
+        {
+          "en": "We booked a room with a balcony so that we could enjoy coffee outside every morning.",
+          "zh": "我們訂了有陽台的房間，這樣每天早上就能在外面喝咖啡。"
+        },
+        {
+          "en": "Smoking is not allowed inside the hotel rooms, but guests may smoke outside on the balcony.",
+          "zh": "飯店房間內禁止吸菸，但房客可以到外面陽台抽菸。"
+        },
+        {
+          "en": "Tickets for seats in the theater balcony are cheaper, but the view of the stage is still excellent.",
+          "zh": "劇院樓座的票比較便宜，但看舞台的視野還是很好。"
+        }
+      ],
+      "distractors": [
+        "bakery",
+        "battery",
+        "gallery"
+      ],
+      "note": "語塊：a private balcony（私人陽台）、a room with a balcony（有陽台的房間）、on the balcony（在陽台上，用 on）、a balcony with a sea view（有海景的陽台）。和 patio（露台）的差別：balcony 在樓上、有欄杆；patio 在地面層。另外 terrace 通常比 balcony 大，可以是屋頂或大型平台。",
+      "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-whirlpool",
+      "word": "whirlpool",
+      "pos": "名詞",
+      "meaning": "按摩浴缸；漩渦",
+      "sentences": [
+        {
+          "en": "The executive suite includes a large whirlpool bath where guests can relax after a long day of meetings.",
+          "zh": "行政套房有一個大型按摩浴缸，讓客人在一整天的會議後放鬆。"
+        },
+        {
+          "en": "The fitness center on the third floor has a sauna, an indoor pool, and a whirlpool for hotel guests.",
+          "zh": "三樓的健身中心有三溫暖、室內游泳池和按摩池，供飯店房客使用。"
+        },
+        {
+          "en": "For safety reasons, children under twelve may not use the whirlpool without an adult present.",
+          "zh": "為了安全，十二歲以下的孩童沒有大人陪同不能使用按摩池。"
+        },
+        {
+          "en": "The whirlpool will be closed for cleaning every Monday morning from eight to ten o'clock.",
+          "zh": "按摩池每週一早上八點到十點會關閉清潔。"
+        },
+        {
+          "en": "Many guests choose the honeymoon package because the room comes with a private whirlpool tub on the balcony.",
+          "zh": "很多客人選蜜月方案，因為房間的陽台上附有私人按摩浴缸。"
+        }
+      ],
+      "distractors": [
+        "warehouse",
+        "wardrobe",
+        "waterway"
+      ],
+      "note": "語塊：a whirlpool bath／tub（按摩浴缸）、a private whirlpool（私人按摩池）、sauna and whirlpool（三溫暖和按摩池）。whirl（旋轉）＋pool（池）＝水會轉圈噴的池子，也可以指河海裡的「漩渦」。同義詞：Jacuzzi（品牌名，常當一般名詞用）、hot tub（熱水按摩池）。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
