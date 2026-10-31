@@ -8617,8 +8617,8 @@
           "zh": "餐廳請了三位兼職人員，幫忙週末忙碌的午餐時段。"
         },
         {
-          "en": "Employees must sign in at the front desk at the end of every shift so managers can track working hours.",
-          "zh": "員工每次下班時都必須在櫃台簽到，讓經理可以記錄工時。"
+          "en": "Employees must sign out at the front desk at the end of every shift so managers can track working hours.",
+          "zh": "員工每次下班時都必須在櫃台簽退，讓經理可以記錄工時。"
         }
       ],
       "distractors": [
