@@ -8733,6 +8733,41 @@
       ],
       "note": "語塊：great deals on＋東西（……很划算的優惠）、special deals（特別優惠）、package deals（套裝優惠）、close a deal（談成交易）。deal 有兩個常見意思：①划算的價格、優惠（a good deal 很划算）②交易、生意（make a deal 達成協議）。也可以當動詞：deal with（處理）。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-throughout",
+      "word": "throughout",
+      "pos": "介系詞",
+      "meaning": "在整個……期間；遍及……各處",
+      "sentences": [
+        {
+          "en": "If anyone has time throughout the afternoon, please help the new staff organize the products in the storage room.",
+          "zh": "下午任何時間如果有人有空，請幫新同事整理倉庫裡的商品。"
+        },
+        {
+          "en": "Light refreshments will be served in the lobby throughout the day for all conference participants.",
+          "zh": "整天都會在大廳為所有與會者提供點心。"
+        },
+        {
+          "en": "The company has opened more than twenty branch offices throughout Asia over the past ten years.",
+          "zh": "過去十年，公司在亞洲各地開了二十多間分公司。"
+        },
+        {
+          "en": "Prices at the café will remain the same throughout the year, even though the cost of coffee beans has risen.",
+          "zh": "雖然咖啡豆成本上漲，咖啡店整年的價格都會維持不變。"
+        },
+        {
+          "en": "Ms. Wang stayed calm and answered every question clearly throughout the long interview with the hiring committee.",
+          "zh": "在與招聘委員會的長時間面試中，王小姐自始至終都保持冷靜，清楚回答每個問題。"
+        }
+      ],
+      "distractors": [
+        "although",
+        "thorough",
+        "whereas"
+      ],
+      "note": "語塊：throughout the day／afternoon（一整天／整個下午）、throughout the year（一整年）、throughout＋地方（遍布……各地，例如 throughout Asia）。throughout 強調「從頭到尾、每個地方都」。別跟 thorough（徹底的、仔細的，形容詞）和 through（穿過、透過）搞混。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
