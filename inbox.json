@@ -8698,6 +8698,41 @@
       ],
       "note": "語塊：be half off（半價）、get＋東西＋at half off（用半價買到）、offer half off＋東西（某東西打五折）。off 在這裡是「減掉、折扣」：20% off（打八折）、$10 off（折十元）。同義：half price、50% off。注意：中文的「八折」英文是 20% off（減掉 20%）。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-deals",
+      "word": "deals",
+      "pos": "名詞",
+      "meaning": "優惠；划算的價格；交易",
+      "sentences": [
+        {
+          "en": "Store managers should speak with customers to explain the weekly deals in their specific sections of the supermarket.",
+          "zh": "門市經理應該和顧客聊聊，說明超市各自負責區域的每週優惠。"
+        },
+        {
+          "en": "Shoppers can find great deals on kitchen appliances during our annual year-end sale next month.",
+          "zh": "下個月的年終特賣，顧客可以買到很划算的廚房家電。"
+        },
+        {
+          "en": "Sign up for our newsletter to receive special deals and discount codes directly in your inbox.",
+          "zh": "訂閱我們的電子報，就能直接在信箱收到特別優惠和折扣碼。"
+        },
+        {
+          "en": "The travel agency offers several package deals that include airfare, hotel rooms, and guided tours of the city.",
+          "zh": "旅行社提供好幾種套裝優惠，包含機票、飯店房間和市區導覽行程。"
+        },
+        {
+          "en": "Our sales team closed three major deals with overseas clients this quarter, which raised our revenue significantly.",
+          "zh": "我們業務團隊這一季和海外客戶談成了三筆大交易，讓營收大幅增加。"
+        }
+      ],
+      "distractors": [
+        "deeds",
+        "dials",
+        "diets"
+      ],
+      "note": "語塊：great deals on＋東西（……很划算的優惠）、special deals（特別優惠）、package deals（套裝優惠）、close a deal（談成交易）。deal 有兩個常見意思：①划算的價格、優惠（a good deal 很划算）②交易、生意（make a deal 達成協議）。也可以當動詞：deal with（處理）。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
