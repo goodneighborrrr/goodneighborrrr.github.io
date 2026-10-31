@@ -8943,6 +8943,41 @@
       ],
       "note": "語塊：in someone's absence／in the absence of someone（某人不在的時候）、during someone's absence（某人不在期間）、a leave of absence（休假、留職停薪）、the absence of＋東西（缺少……）。形容詞 absent（缺席的）。反義詞 presence（出席、在場）。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-minutes",
+      "word": "minutes",
+      "pos": "名詞",
+      "meaning": "會議記錄；分鐘",
+      "sentences": [
+        {
+          "en": "Ms. Huang will be responsible for taking down the minutes of the meeting and sending them to all department heads.",
+          "zh": "黃小姐會負責做會議記錄，並寄給所有部門主管。"
+        },
+        {
+          "en": "Please review the minutes from last week's board meeting before we discuss the new budget today.",
+          "zh": "今天討論新預算之前，請先看一下上週董事會的會議記錄。"
+        },
+        {
+          "en": "The secretary distributed copies of the minutes so that employees who missed the meeting could catch up.",
+          "zh": "秘書發了會議記錄的影本，讓沒參加會議的員工能跟上進度。"
+        },
+        {
+          "en": "According to the minutes, the committee agreed to postpone the product launch until early next spring.",
+          "zh": "根據會議記錄，委員會同意把產品上市延到明年初春。"
+        },
+        {
+          "en": "Anyone who notices a mistake in the minutes should contact the meeting organizer by Friday afternoon.",
+          "zh": "任何人發現會議記錄有錯誤，請在星期五下午前聯絡會議主辦人。"
+        }
+      ],
+      "distractors": [
+        "moments",
+        "measures",
+        "motions"
+      ],
+      "note": "語塊：take (down) the minutes（做會議記錄）、the minutes of the meeting（會議記錄）、according to the minutes（根據會議記錄）、review the minutes（審閱會議記錄）。在會議情境，minutes 是「會議記錄」，一定用複數，不是「分鐘」。做記錄的人叫 minute-taker 或 note-taker。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
