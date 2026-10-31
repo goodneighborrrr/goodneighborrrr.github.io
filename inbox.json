@@ -8735,41 +8735,6 @@
       "addedAt": "2026-10-31"
     },
     {
-      "id": "20261031-excluded",
-      "word": "excluded",
-      "pos": "動詞",
-      "meaning": "排除；不包括（exclude 的過去式／過去分詞）",
-      "sentences": [
-        {
-          "en": "Numerous people were excluded from the survey results because they did not answer all of the questions.",
-          "zh": "很多人被排除在調查結果之外，因為他們沒有回答所有問題。"
-        },
-        {
-          "en": "Taxes and delivery fees are excluded from the prices shown on our website and will be added at checkout.",
-          "zh": "我們網站上顯示的價格不含稅金和運費，結帳時才會加上去。"
-        },
-        {
-          "en": "Several part-time workers felt excluded from the decision because the managers did not ask for their opinions.",
-          "zh": "好幾位兼職員工覺得被排除在決策之外，因為經理們沒有問他們的意見。"
-        },
-        {
-          "en": "Sale items are excluded from our return policy, so please check each product carefully before you pay.",
-          "zh": "特價商品不適用我們的退貨規定，所以付款前請仔細檢查每件商品。"
-        },
-        {
-          "en": "The final report excluded data from the Tokyo office because the numbers had not been confirmed yet.",
-          "zh": "最終報告沒有納入東京辦公室的資料，因為數字還沒確認。"
-        }
-      ],
-      "distractors": [
-        "exceeded",
-        "expanded",
-        "exposed"
-      ],
-      "note": "語塊：be excluded from（被排除在……之外）、feel excluded（覺得被排擠、被冷落）、taxes excluded（不含稅）。動詞 exclude（排除；不包括），反義詞 include（包括）。形容詞 exclusive（獨家的；專屬的）。別跟 exceeded（超過了）搞混。",
-      "addedAt": "2026-10-31"
-    },
-    {
       "id": "20261031-timeslots",
       "word": "timeslots",
       "pos": "名詞",
