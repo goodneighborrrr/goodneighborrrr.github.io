@@ -8908,6 +8908,41 @@
       ],
       "note": "語塊：a whirlpool bath／tub（按摩浴缸）、a private whirlpool（私人按摩池）、sauna and whirlpool（三溫暖和按摩池）。whirl（旋轉）＋pool（池）＝水會轉圈噴的池子，也可以指河海裡的「漩渦」。同義詞：Jacuzzi（品牌名，常當一般名詞用）、hot tub（熱水按摩池）。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261031-absence",
+      "word": "absence",
+      "pos": "名詞",
+      "meaning": "不在；缺席；缺少",
+      "sentences": [
+        {
+          "en": "In Mr. Chen's absence, his assistant will answer all questions about the project and approve small expenses.",
+          "zh": "陳先生不在的期間，他的助理會回答所有專案相關的問題，並核准小額支出。"
+        },
+        {
+          "en": "Ms. Lin was asked to lead the weekly meeting during the manager's absence on a business trip to Japan.",
+          "zh": "經理去日本出差不在的期間，林小姐被請來主持每週會議。"
+        },
+        {
+          "en": "Employees who need a leave of absence for more than two weeks must submit a request to human resources.",
+          "zh": "需要請假超過兩週的員工，必須向人資部門提出申請。"
+        },
+        {
+          "en": "Several customers complained about the absence of clear instructions in the user manual for the new printer.",
+          "zh": "好幾位顧客抱怨新印表機的使用手冊缺少清楚的說明。"
+        },
+        {
+          "en": "Frequent absence from work without a good reason may affect an employee's annual performance review.",
+          "zh": "沒有正當理由經常缺勤，可能會影響員工的年度考績。"
+        }
+      ],
+      "distractors": [
+        "presence",
+        "patience",
+        "absorption"
+      ],
+      "note": "語塊：in someone's absence／in the absence of someone（某人不在的時候）、during someone's absence（某人不在期間）、a leave of absence（休假、留職停薪）、the absence of＋東西（缺少……）。形容詞 absent（缺席的）。反義詞 presence（出席、在場）。",
+      "addedAt": "2026-10-31"
     }
   ],
   "notes": [
