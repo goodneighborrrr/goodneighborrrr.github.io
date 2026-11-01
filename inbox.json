@@ -9083,6 +9083,111 @@
       ],
       "note": "語塊：carbon dioxide（二氧化碳，CO₂）、carbon dioxide emissions（二氧化碳排放）、reduce／cut carbon dioxide（減少二氧化碳）。di（二）＋oxide（氧化物）＝二氧化物。相關：carbon footprint（碳足跡）、greenhouse gas（溫室氣體）、oxygen（氧氣）。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-emissions",
+      "word": "emissions",
+      "pos": "名詞",
+      "meaning": "排放；排放物（尤其是廢氣）",
+      "sentences": [
+        {
+          "en": "Most carbon emissions in the region are produced by burning fossil fuels in power plants and vehicles.",
+          "zh": "這個地區大部分的碳排放，都是發電廠和車輛燃燒化石燃料產生的。"
+        },
+        {
+          "en": "The energy company promised its shareholders that it would reduce its emissions by half before the year 2035.",
+          "zh": "這家能源公司向股東承諾，會在 2035 年前把排放量減半。"
+        },
+        {
+          "en": "New government rules require all delivery trucks to meet stricter emissions standards starting next January.",
+          "zh": "政府新規定要求所有貨車從明年一月起符合更嚴格的排放標準。"
+        },
+        {
+          "en": "Switching to solar panels helped the factory cut its greenhouse gas emissions by twenty percent last year.",
+          "zh": "改用太陽能板讓工廠去年的溫室氣體排放減少了兩成。"
+        },
+        {
+          "en": "Customers can check the emissions of each car model on our website before visiting the showroom.",
+          "zh": "顧客可以在去展示中心之前，先在我們網站上查每款車的排放量。"
+        }
+      ],
+      "distractors": [
+        "missions",
+        "admissions",
+        "omissions"
+      ],
+      "note": "語塊：carbon emissions（碳排放）、reduce／cut emissions（減少排放）、emissions standards（排放標準）、greenhouse gas emissions（溫室氣體排放）。動詞 emit（排放、發出）。別跟 missions（任務）、admissions（入場、入學）、omissions（遺漏）搞混，字尾都一樣。",
+      "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-fossil-fuels",
+      "word": "fossil fuels",
+      "pos": "名詞",
+      "meaning": "化石燃料（煤、石油、天然氣）",
+      "sentences": [
+        {
+          "en": "Many countries are trying to reduce their dependence on fossil fuels by investing in wind and solar power.",
+          "zh": "許多國家正投資風力和太陽能發電，試著減少對化石燃料的依賴。"
+        },
+        {
+          "en": "Emissions from burning fossil fuels are one of the main causes of air pollution in large cities.",
+          "zh": "燃燒化石燃料產生的排放，是大城市空氣污染的主要原因之一。"
+        },
+        {
+          "en": "The airline announced it will replace some fossil fuels with cleaner fuel made from used cooking oil.",
+          "zh": "航空公司宣布會用廢食用油做的較乾淨燃料，取代部分化石燃料。"
+        },
+        {
+          "en": "Rising prices for fossil fuels have made electric cars more attractive to many drivers this year.",
+          "zh": "化石燃料價格上漲，讓電動車今年對很多駕駛更有吸引力。"
+        },
+        {
+          "en": "The new factory runs entirely on renewable energy and does not burn any fossil fuels at all.",
+          "zh": "新工廠完全使用再生能源，完全不燃燒任何化石燃料。"
+        }
+      ],
+      "distractors": [
+        "fossil records",
+        "fuel cells",
+        "solar panels"
+      ],
+      "note": "語塊：burn fossil fuels（燃燒化石燃料）、dependence on fossil fuels（對化石燃料的依賴）、replace fossil fuels（取代化石燃料）。fossil（化石）＋fuels（燃料）。常見的化石燃料：coal（煤）、oil（石油）、natural gas（天然氣）。相反的是 renewable energy（再生能源）。",
+      "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-extent",
+      "word": "extent",
+      "pos": "名詞",
+      "meaning": "程度；範圍",
+      "sentences": [
+        {
+          "en": "To some extent, the drop in sales was caused by the rainy weather during the holiday season.",
+          "zh": "某種程度上，銷售下滑是假期期間下雨造成的。"
+        },
+        {
+          "en": "Engineers are still trying to determine the full extent of the damage after the fire in the warehouse.",
+          "zh": "倉庫火災後，工程師還在試著確認損失的全部範圍。"
+        },
+        {
+          "en": "The manager was surprised by the extent to which customers relied on the online chat service.",
+          "zh": "經理很驚訝顧客依賴線上客服的程度。"
+        },
+        {
+          "en": "To a large extent, the success of the project depended on the hard work of the design team.",
+          "zh": "專案的成功很大程度上是靠設計團隊的努力。"
+        },
+        {
+          "en": "The report explains the extent of the company's investment in renewable energy over the past five years.",
+          "zh": "報告說明了公司過去五年投資再生能源的程度。"
+        }
+      ],
+      "distractors": [
+        "extend",
+        "extant",
+        "intent"
+      ],
+      "note": "語塊：to some extent（某種程度上）、to a large／great extent（很大程度上）、the full extent of（……的全部範圍、嚴重程度）、the extent to which（……的程度）。別跟動詞 extend（延長、延伸）搞混，拼法只差一個字母（-ent 名詞／-end 動詞）。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
