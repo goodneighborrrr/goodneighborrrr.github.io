@@ -9188,6 +9188,41 @@
       ],
       "note": "語塊：to some extent（某種程度上）、to a large／great extent（很大程度上）、the full extent of（……的全部範圍、嚴重程度）、the extent to which（……的程度）。別跟動詞 extend（延長、延伸）搞混，拼法只差一個字母（-ent 名詞／-end 動詞）。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-atmosphere",
+      "word": "atmosphere",
+      "pos": "名詞",
+      "meaning": "氣氛；氛圍；大氣（層）",
+      "sentences": [
+        {
+          "en": "The new café downtown has a relaxed atmosphere that attracts many freelancers who work on their laptops.",
+          "zh": "市中心那家新咖啡店氣氛很輕鬆，吸引很多帶筆電工作的自由工作者。"
+        },
+        {
+          "en": "Our manager works hard to create a friendly atmosphere where employees feel comfortable sharing new ideas.",
+          "zh": "我們經理很努力營造友善的氣氛，讓員工能自在地分享新點子。"
+        },
+        {
+          "en": "Factories and cars that burn fossil fuels release large amounts of carbon dioxide into the atmosphere every year.",
+          "zh": "燃燒化石燃料的工廠和汽車，每年都把大量二氧化碳排放到大氣中。"
+        },
+        {
+          "en": "Guests praised the hotel restaurant for its warm atmosphere and excellent service during the holiday dinner.",
+          "zh": "客人稱讚飯店餐廳在節日晚宴時氣氛溫馨、服務很好。"
+        },
+        {
+          "en": "The atmosphere in the office became tense as the deadline for the big project got closer.",
+          "zh": "隨著大專案的截止日越來越近，辦公室的氣氛變得很緊繃。"
+        }
+      ],
+      "distractors": [
+        "hemisphere",
+        "attendance",
+        "admission"
+      ],
+      "note": "語塊：a relaxed／friendly／warm atmosphere（輕鬆／友善／溫馨的氣氛）、create an atmosphere（營造氣氛）、into the atmosphere（排到大氣中）。atmosphere 有兩個意思：①氣氛、氛圍（餐廳、辦公室）②大氣層（地球外面那層空氣）。形容詞 atmospheric（大氣的；有氣氛的）。口語也常用 vibe 表示氣氛。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
