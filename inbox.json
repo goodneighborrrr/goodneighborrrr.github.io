@@ -9048,6 +9048,41 @@
       ],
       "note": "語塊：launch a new product（推出新產品）、launch a campaign（展開活動）、launch an investigation（展開調查）、be officially launched（正式推出）。launch 是「推出、發起、開始」，原本是「發射（火箭）」。名詞也是 launch：a product launch（產品發表會）。注意拼法是 launch，不是 lauch。和 release（發行，常用在電影、音樂）意思接近。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-dioxide",
+      "word": "dioxide",
+      "pos": "名詞",
+      "meaning": "二氧化物（carbon dioxide 二氧化碳）",
+      "sentences": [
+        {
+          "en": "The factory installed new filters last year to reduce its carbon dioxide emissions by thirty percent.",
+          "zh": "工廠去年裝了新的過濾器，把二氧化碳排放量減少了三成。"
+        },
+        {
+          "en": "Our electric delivery trucks help the company lower the amount of carbon dioxide it releases into the air.",
+          "zh": "我們的電動貨車幫助公司降低排放到空氣中的二氧化碳量。"
+        },
+        {
+          "en": "Plants in the office absorb carbon dioxide and can make the air feel fresher for employees.",
+          "zh": "辦公室裡的植物會吸收二氧化碳，能讓員工覺得空氣比較清新。"
+        },
+        {
+          "en": "The government plans to charge companies a fee for every ton of carbon dioxide they produce.",
+          "zh": "政府打算對企業每生產一噸二氧化碳就收取一筆費用。"
+        },
+        {
+          "en": "A sensor in the meeting room warns staff when the level of carbon dioxide becomes too high.",
+          "zh": "會議室裡的感測器會在二氧化碳濃度太高時警告員工。"
+        }
+      ],
+      "distractors": [
+        "dialect",
+        "divide",
+        "diploma"
+      ],
+      "note": "語塊：carbon dioxide（二氧化碳，CO₂）、carbon dioxide emissions（二氧化碳排放）、reduce／cut carbon dioxide（減少二氧化碳）。di（二）＋oxide（氧化物）＝二氧化物。相關：carbon footprint（碳足跡）、greenhouse gas（溫室氣體）、oxygen（氧氣）。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
