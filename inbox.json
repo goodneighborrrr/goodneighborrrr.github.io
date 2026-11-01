@@ -9258,6 +9258,41 @@
       ],
       "note": "語塊：the cultivation of trees／crops（種植樹木／農作物）、rice／tea cultivation（種稻／種茶）、land under cultivation（耕地）。動詞 cultivate（種植；培養、經營），例如 cultivate relationships with clients（經營客戶關係）。和 agriculture（農業，整個產業）不同：cultivation 是「種植、栽培」這個動作。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-publicize",
+      "word": "publicize",
+      "pos": "動詞",
+      "meaning": "宣傳；公布；使大眾知道",
+      "sentences": [
+        {
+          "en": "The marketing department will use social media to publicize the grand opening of our new store in Taichung.",
+          "zh": "行銷部門會用社群媒體宣傳我們台中新店的盛大開幕。"
+        },
+        {
+          "en": "We hired a local agency to help publicize the charity concert and increase ticket sales.",
+          "zh": "我們請了一家本地廣告公司，幫忙宣傳慈善音樂會、提高門票銷量。"
+        },
+        {
+          "en": "The city plans to publicize the new recycling rules through posters, radio ads, and community meetings.",
+          "zh": "市政府打算透過海報、廣播廣告和社區會議，宣傳新的回收規定。"
+        },
+        {
+          "en": "Small businesses often publicize special events on their websites because it costs much less than television advertising.",
+          "zh": "小商家常在自己的網站宣傳特別活動，因為比電視廣告便宜很多。"
+        },
+        {
+          "en": "The company decided not to publicize the details of the agreement until both sides had signed the contract.",
+          "zh": "公司決定在雙方簽約之前，先不公開協議的細節。"
+        }
+      ],
+      "distractors": [
+        "publish",
+        "privatize",
+        "polarize"
+      ],
+      "note": "語塊：publicize an event（宣傳活動）、publicize the opening（宣傳開幕）、widely publicized（廣為宣傳的）。名詞 publicity（宣傳；知名度）。和 publish（出版、發表）不同：publish 是「把書、文章印出來或貼出來」，publicize 是「讓很多人知道」。同義詞：promote、advertise。英式拼法是 publicise。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
