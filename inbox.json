@@ -9013,6 +9013,41 @@
       ],
       "note": "語塊：go to the opera（去看歌劇）、an opera house（歌劇院）、an opera company（歌劇團）、an opera singer（歌劇演員）。和 musical（音樂劇）不同：opera 幾乎全部用唱的，常是古典音樂；musical 有唱也有對話，比較流行。soap opera 是「肥皂劇、連續劇」。",
       "addedAt": "2026-10-31"
+    },
+    {
+      "id": "20261101-launched",
+      "word": "launched",
+      "pos": "動詞",
+      "meaning": "推出；發起；展開（launch 的過去式／過去分詞）",
+      "sentences": [
+        {
+          "en": "The mobile application was launched last month and has already been downloaded more than fifty thousand times.",
+          "zh": "這個手機應用程式上個月推出，已經被下載超過五萬次了。"
+        },
+        {
+          "en": "Our company launched a new product line of eco-friendly cleaning supplies at the trade fair in Taipei.",
+          "zh": "我們公司在台北的商展上推出了一系列新的環保清潔用品。"
+        },
+        {
+          "en": "The marketing team launched an advertising campaign on social media last week to attract younger customers.",
+          "zh": "行銷團隊上週在社群媒體上展開廣告活動，吸引年輕顧客。"
+        },
+        {
+          "en": "The city government launched an investigation into the cause of the power outage that affected thousands of homes.",
+          "zh": "市政府針對影響數千戶的停電原因展開調查。"
+        },
+        {
+          "en": "The sports drink was officially launched in Japan after two years of research and testing.",
+          "zh": "這款運動飲料經過兩年研發和測試後，正式在日本上市。"
+        }
+      ],
+      "distractors": [
+        "lunched",
+        "laundered",
+        "landed"
+      ],
+      "note": "語塊：launch a new product（推出新產品）、launch a campaign（展開活動）、launch an investigation（展開調查）、be officially launched（正式推出）。launch 是「推出、發起、開始」，原本是「發射（火箭）」。名詞也是 launch：a product launch（產品發表會）。注意拼法是 launch，不是 lauch。和 release（發行，常用在電影、音樂）意思接近。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
