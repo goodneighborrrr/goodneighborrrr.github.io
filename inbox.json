@@ -9328,6 +9328,41 @@
       ],
       "note": "語塊：amateur photographers／athletes（業餘攝影師／運動員）、an amateur group／team（業餘團體／隊伍）、look amateur（看起來不專業）。amateur 是「業餘的」，反義詞是 professional（專業的、職業的）。可以當名詞：He is an amateur.（他是業餘的）。也可以帶負面意思：「外行、不專業」。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-pamphlet",
+      "word": "pamphlet",
+      "pos": "名詞",
+      "meaning": "小冊子；手冊",
+      "sentences": [
+        {
+          "en": "Visitors can pick up a free pamphlet about the museum's history at the information desk near the entrance.",
+          "zh": "參觀者可以在入口附近的服務台拿一本介紹博物館歷史的免費小冊子。"
+        },
+        {
+          "en": "The health department distributed a pamphlet explaining how to prevent the flu during the winter months.",
+          "zh": "衛生局發了一本小冊子，說明冬天如何預防流感。"
+        },
+        {
+          "en": "Please read the safety pamphlet carefully before you operate any of the machines in the factory.",
+          "zh": "操作工廠裡任何機器之前，請仔細閱讀安全手冊。"
+        },
+        {
+          "en": "Our marketing team designed a colorful pamphlet to introduce the new apartment buildings to potential buyers.",
+          "zh": "我們行銷團隊設計了一本彩色小冊子，向潛在買家介紹新的公寓大樓。"
+        },
+        {
+          "en": "Each new employee receives a short pamphlet that explains the company's rules about vacation and sick leave.",
+          "zh": "每位新員工都會拿到一本簡短的小冊子，說明公司休假和病假的規定。"
+        }
+      ],
+      "distractors": [
+        "pavement",
+        "payment",
+        "pendant"
+      ],
+      "note": "語塊：a free pamphlet（免費小冊子）、distribute a pamphlet（發小冊子）、a safety／information pamphlet（安全／資訊手冊）、pick up a pamphlet（拿一本小冊子）。pamphlet 是幾頁訂在一起、介紹或說明某件事的小冊子。相近：brochure（宣傳型錄，比較精美、常用在商品和旅遊）、leaflet／flyer（只有一張的傳單）、handout（會議或課堂發的講義）。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
