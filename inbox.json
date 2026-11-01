@@ -9293,6 +9293,41 @@
       ],
       "note": "語塊：publicize an event（宣傳活動）、publicize the opening（宣傳開幕）、widely publicized（廣為宣傳的）。名詞 publicity（宣傳；知名度）。和 publish（出版、發表）不同：publish 是「把書、文章印出來或貼出來」，publicize 是「讓很多人知道」。同義詞：promote、advertise。英式拼法是 publicise。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-amateur",
+      "word": "amateur",
+      "pos": "形容詞",
+      "meaning": "業餘的；外行的；不專業的",
+      "sentences": [
+        {
+          "en": "The photography contest is open to amateur photographers who have never sold their work professionally.",
+          "zh": "這個攝影比賽開放給從沒專業賣過作品的業餘攝影師參加。"
+        },
+        {
+          "en": "Many amateur athletes from local companies will take part in the charity marathon next Sunday.",
+          "zh": "很多來自本地公司的業餘運動員，下週日會參加慈善馬拉松。"
+        },
+        {
+          "en": "The community center offers weekly classes for amateur painters who want to improve their watercolor skills.",
+          "zh": "社區中心為想精進水彩技巧的業餘畫家，每週開課。"
+        },
+        {
+          "en": "Although the band started as an amateur group playing in coffee shops, it now performs at large concert halls.",
+          "zh": "雖然這個樂團一開始只是在咖啡店表演的業餘團體，現在已經在大型音樂廳演出。"
+        },
+        {
+          "en": "Several customers complained that the website looked amateur and did not match the quality of our products.",
+          "zh": "好幾位顧客抱怨網站看起來很不專業，跟我們產品的品質不相符。"
+        }
+      ],
+      "distractors": [
+        "amiable",
+        "ambitious",
+        "ample"
+      ],
+      "note": "語塊：amateur photographers／athletes（業餘攝影師／運動員）、an amateur group／team（業餘團體／隊伍）、look amateur（看起來不專業）。amateur 是「業餘的」，反義詞是 professional（專業的、職業的）。可以當名詞：He is an amateur.（他是業餘的）。也可以帶負面意思：「外行、不專業」。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
