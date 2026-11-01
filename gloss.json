@@ -804,6 +804,9 @@
   "intent": "意圖",
   "hemisphere": "半球",
   "attendance": "出席；出席人數",
-  "admission": "入場；入學許可"
+  "admission": "入場；入學許可",
+  "civilization": "文明",
+  "circulation": "循環；發行量",
+  "calculation": "計算"
  }
 }

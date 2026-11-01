@@ -9223,6 +9223,41 @@
       ],
       "note": "語塊：a relaxed／friendly／warm atmosphere（輕鬆／友善／溫馨的氣氛）、create an atmosphere（營造氣氛）、into the atmosphere（排到大氣中）。atmosphere 有兩個意思：①氣氛、氛圍（餐廳、辦公室）②大氣層（地球外面那層空氣）。形容詞 atmospheric（大氣的；有氣氛的）。口語也常用 vibe 表示氣氛。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261101-cultivation",
+      "word": "cultivation",
+      "pos": "名詞",
+      "meaning": "種植；栽培；培養",
+      "sentences": [
+        {
+          "en": "The cultivation of trees along the highway helps absorb carbon dioxide and reduce noise for nearby residents.",
+          "zh": "在高速公路旁種植樹木，有助吸收二氧化碳，也能幫附近居民減少噪音。"
+        },
+        {
+          "en": "The tea company has been involved in the cultivation of high-quality tea leaves in the mountains for fifty years.",
+          "zh": "這家茶葉公司在山上種植高品質茶葉已經五十年了。"
+        },
+        {
+          "en": "Rice cultivation requires a large amount of water, so farmers in the region are testing new irrigation methods.",
+          "zh": "種稻需要大量的水，所以這個地區的農民正在測試新的灌溉方法。"
+        },
+        {
+          "en": "The government offers financial support to farmers who switch to the cultivation of organic vegetables.",
+          "zh": "政府提供資金補助給改種有機蔬菜的農民。"
+        },
+        {
+          "en": "Strong relationships with clients require careful cultivation over many years, according to our sales director.",
+          "zh": "我們業務總監說，和客戶的良好關係需要多年細心經營。"
+        }
+      ],
+      "distractors": [
+        "civilization",
+        "circulation",
+        "calculation"
+      ],
+      "note": "語塊：the cultivation of trees／crops（種植樹木／農作物）、rice／tea cultivation（種稻／種茶）、land under cultivation（耕地）。動詞 cultivate（種植；培養、經營），例如 cultivate relationships with clients（經營客戶關係）。和 agriculture（農業，整個產業）不同：cultivation 是「種植、栽培」這個動作。",
+      "addedAt": "2026-11-01"
     }
   ],
   "notes": [
