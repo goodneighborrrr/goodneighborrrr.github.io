@@ -9643,6 +9643,41 @@
       ],
       "note": "語塊：an edgy style／look（前衛、有個性的風格）、too edgy（太大膽、太敢）、feel edgy（覺得緊張、焦躁）。edgy 有兩個意思：①前衛、大膽、敢挑戰規範的（時尚、廣告、音樂常用，通常是稱讚）②緊張不安的（同 nervous）。來自 edge（邊緣）→ 走在邊緣、不走一般路線。和 cutting-edge（最先進的，指科技）不同。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-current",
+      "word": "current",
+      "pos": "形容詞",
+      "meaning": "目前的；現行的；時下流行的",
+      "sentences": [
+        {
+          "en": "The singer's style feels very current, so many young fans copy her clothes and hairstyles.",
+          "zh": "這位歌手的風格很跟得上潮流，所以很多年輕粉絲模仿她的穿著和髮型。"
+        },
+        {
+          "en": "Please make sure your contact information is current so that our staff can reach you in an emergency.",
+          "zh": "請確認你的聯絡資料是最新的，讓我們員工在緊急時能聯絡到你。"
+        },
+        {
+          "en": "Under current rules, employees must work for six months before they can take paid vacation.",
+          "zh": "依照現行規定，員工必須工作滿六個月才能請帶薪假。"
+        },
+        {
+          "en": "Our current office is too small, so the company plans to move to a larger building next year.",
+          "zh": "我們目前的辦公室太小了，所以公司打算明年搬到更大的大樓。"
+        },
+        {
+          "en": "The magazine hires young writers to keep its articles about fashion and music current and interesting.",
+          "zh": "雜誌聘用年輕作者，讓時尚和音樂的文章保持新潮又有趣。"
+        }
+      ],
+      "distractors": [
+        "constant",
+        "cursory",
+        "coherent"
+      ],
+      "note": "語塊：very current（很新潮、很跟得上流行）、current rules／policy（現行規定／政策）、our current office（我們目前的辦公室）、keep＋東西＋current（保持最新）。current 最常見是「目前的、現在的」，形容風格或東西時是「時下流行的、很新潮的」。副詞 currently（目前）。當名詞是「水流；電流」。拼法很像的 currant 是「醋栗（一種水果乾）」。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
