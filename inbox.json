@@ -9678,6 +9678,41 @@
       ],
       "note": "語塊：very current（很新潮、很跟得上流行）、current rules／policy（現行規定／政策）、our current office（我們目前的辦公室）、keep＋東西＋current（保持最新）。current 最常見是「目前的、現在的」，形容風格或東西時是「時下流行的、很新潮的」。副詞 currently（目前）。當名詞是「水流；電流」。拼法很像的 currant 是「醋栗（一種水果乾）」。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-illustration",
+      "word": "illustration",
+      "pos": "名詞",
+      "meaning": "插圖；圖解；例證",
+      "sentences": [
+        {
+          "en": "The children's book contains a colorful illustration on every page to help young readers follow the story.",
+          "zh": "這本童書每一頁都有彩色插圖，幫助小讀者跟上故事。"
+        },
+        {
+          "en": "The magazine hired a freelance artist to draw the cover illustration for its special holiday issue.",
+          "zh": "雜誌請了一位自由接案的畫家，為假期特刊畫封面插圖。"
+        },
+        {
+          "en": "As an illustration of our growth, the company opened twelve new stores in Asia last year.",
+          "zh": "舉例說明我們的成長：公司去年在亞洲開了十二家新店。"
+        },
+        {
+          "en": "The instruction manual includes a clear illustration showing how to connect the printer to the computer.",
+          "zh": "使用說明書附了一張清楚的圖解，說明怎麼把印表機接到電腦。"
+        },
+        {
+          "en": "Ms. Kim studied illustration at an art school in Seoul before joining our design department.",
+          "zh": "金小姐加入我們設計部之前，在首爾的藝術學校讀插畫。"
+        }
+      ],
+      "distractors": [
+        "installation",
+        "illusion",
+        "inflation"
+      ],
+      "note": "語塊：a cover illustration（封面插圖）、a colorful illustration（彩色插圖）、as an illustration of（舉例說明……）、study illustration（學插畫）。illustration 有兩個意思：①插圖、圖解 ②例子、例證。動詞 illustrate（畫插圖；用例子說明），畫插畫的人叫 illustrator。別跟 illusion（錯覺）、installation（安裝）搞混。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
