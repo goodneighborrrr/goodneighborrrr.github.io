@@ -9433,6 +9433,111 @@
       ],
       "note": "語塊：vacuum the carpets（用吸塵器吸地毯）、replace the carpets（換地毯）、clean the carpets（清潔地毯）、handmade carpets（手工地毯）。carpet 通常鋪滿整個地板、固定住；rug 是比較小、可以移動的小地毯。red carpet 是「紅地毯；隆重的接待」。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-accessibility",
+      "word": "accessibility",
+      "pos": "名詞",
+      "meaning": "無障礙；方便使用、進入的程度",
+      "sentences": [
+        {
+          "en": "The new office was designed to meet the accessibility requirements of workers with disabilities, including wide doors and ramps.",
+          "zh": "新辦公室的設計符合身障員工的無障礙需求，包括寬門和坡道。"
+        },
+        {
+          "en": "The company hired a consultant to improve the accessibility of its website for users with poor eyesight.",
+          "zh": "公司請了顧問，為視力不好的使用者改善網站的無障礙設計。"
+        },
+        {
+          "en": "Before choosing a venue for the conference, the organizers checked its accessibility for guests in wheelchairs.",
+          "zh": "主辦單位在選會議場地前，先確認了輪椅來賓進出是否方便。"
+        },
+        {
+          "en": "The city council approved funding to improve accessibility at all subway stations over the next three years.",
+          "zh": "市議會核准了經費，在未來三年改善所有捷運站的無障礙設施。"
+        },
+        {
+          "en": "Good accessibility to public transportation is one reason many businesses choose to rent offices in this area.",
+          "zh": "交通便利、容易搭大眾運輸，是很多公司選擇在這區租辦公室的原因之一。"
+        }
+      ],
+      "distractors": [
+        "accountability",
+        "availability",
+        "acceptability"
+      ],
+      "note": "語塊：accessibility requirements（無障礙需求、規定）、improve accessibility（改善無障礙設施／便利性）、accessibility for＋人（對……的方便程度）。形容詞 accessible（可進入的；方便使用的），例如 wheelchair accessible（輪椅可通行）。別跟 availability（是否有空、可取得）搞混：accessibility 是「好不好進去、好不好用」，availability 是「有沒有、空不空」。",
+      "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-disabilities",
+      "word": "disabilities",
+      "pos": "名詞",
+      "meaning": "身心障礙；殘疾",
+      "sentences": [
+        {
+          "en": "The training program was created to help people with disabilities find stable jobs in the hotel industry.",
+          "zh": "這個培訓計畫是為了幫助身心障礙者在飯店業找到穩定的工作。"
+        },
+        {
+          "en": "Our company provides special equipment, such as adjustable desks and screen readers, for employees with disabilities.",
+          "zh": "我們公司為身心障礙員工提供特殊設備，例如可調整高度的書桌和螢幕報讀軟體。"
+        },
+        {
+          "en": "The law requires public buildings to be designed so that visitors with physical disabilities can enter easily.",
+          "zh": "法律規定公共建築的設計，要讓有肢體障礙的訪客能輕鬆進入。"
+        },
+        {
+          "en": "Several companies in the region won awards this year for hiring and supporting workers with disabilities.",
+          "zh": "這個地區有好幾家公司今年因為聘用和支持身障員工而得獎。"
+        },
+        {
+          "en": "The science museum offers free guided tours for children with learning disabilities every Saturday morning.",
+          "zh": "科學博物館每週六早上為有學習障礙的孩童提供免費導覽。"
+        }
+      ],
+      "distractors": [
+        "abilities",
+        "facilities",
+        "liabilities"
+      ],
+      "note": "語塊：people／workers with disabilities（身心障礙者／身障員工）、physical disabilities（肢體障礙）、learning disabilities（學習障礙）。單數 disability；dis（不）＋ability（能力）。形容詞 disabled（身障的），但現在比較有禮貌的說法是 people with disabilities，把「人」放前面。別跟 abilities（能力）、facilities（設施）搞混。",
+      "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-disabled",
+      "word": "disabled",
+      "pos": "形容詞",
+      "meaning": "身心障礙的；（機器、功能）停用的",
+      "sentences": [
+        {
+          "en": "The building has wide elevators and ramps so that disabled workers can move easily between floors.",
+          "zh": "大樓有寬敞的電梯和坡道，讓身障員工可以輕鬆在樓層間移動。"
+        },
+        {
+          "en": "Several parking spaces near the entrance are reserved for disabled drivers and their family members.",
+          "zh": "入口附近有好幾個停車位保留給身障駕駛及其家人。"
+        },
+        {
+          "en": "The government offers tax benefits to companies that hire disabled employees and provide them with proper training.",
+          "zh": "政府提供稅務優惠給聘用身障員工並提供適當訓練的公司。"
+        },
+        {
+          "en": "The online payment function has been temporarily disabled while our technicians fix a security problem.",
+          "zh": "技術人員修復安全問題期間，線上付款功能暫時停用。"
+        },
+        {
+          "en": "Please make sure the alarm is disabled before you open the back door of the store in the morning.",
+          "zh": "早上打開店後門之前，請確認警報已經解除。"
+        }
+      ],
+      "distractors": [
+        "disguised",
+        "dissolved",
+        "disposed"
+      ],
+      "note": "語塊：disabled workers／employees（身障員工）、disabled parking（身障停車位）、be temporarily disabled（暫時停用）。和 people with disabilities 意思一樣，但現在比較有禮貌的說法是把「人」放前面：workers with disabilities。disabled 也可以指機器或功能「被關掉、停用」，例如 The account has been disabled.（帳號已被停用）。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
