@@ -9433,6 +9433,41 @@
       ],
       "note": "語塊：a pottery／photography exhibit（陶藝展／攝影展）、a new／special exhibit（新展覽／特展）、an interactive exhibit（互動展覽）、on exhibit（展出中）。exhibit 也可以當動詞「展出」：The gallery will exhibit her paintings.（藝廊會展出她的畫）。和 exhibition 的差別：exhibition 通常是整個大型展覽，exhibit 可以指一個展覽或其中一件展品；美式英文常用 exhibit 指展覽。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-carpets",
+      "word": "carpets",
+      "pos": "名詞",
+      "meaning": "地毯",
+      "sentences": [
+        {
+          "en": "Cleaning crews will vacuum the carpets in all meeting rooms on Friday evening after the staff have gone home.",
+          "zh": "星期五晚上員工下班後，清潔人員會幫所有會議室的地毯吸塵。"
+        },
+        {
+          "en": "The hotel replaced the old carpets in every guest room as part of its renovation project last year.",
+          "zh": "飯店去年整修時，把每間客房的舊地毯都換掉了。"
+        },
+        {
+          "en": "The store sells handmade carpets from Turkey and Iran in a wide range of colors and sizes.",
+          "zh": "這家店販售從土耳其和伊朗來的手工地毯，有各種顏色和尺寸。"
+        },
+        {
+          "en": "Please do not bring drinks into the lobby, because the new carpets are expensive and difficult to clean.",
+          "zh": "請不要帶飲料進大廳，因為新地毯很貴又很難清潔。"
+        },
+        {
+          "en": "A professional company will come next week to deep clean the carpets on the second and third floors.",
+          "zh": "下週會有專業公司來深層清潔二樓和三樓的地毯。"
+        }
+      ],
+      "distractors": [
+        "carports",
+        "cabinets",
+        "cartons"
+      ],
+      "note": "語塊：vacuum the carpets（用吸塵器吸地毯）、replace the carpets（換地毯）、clean the carpets（清潔地毯）、handmade carpets（手工地毯）。carpet 通常鋪滿整個地板、固定住；rug 是比較小、可以移動的小地毯。red carpet 是「紅地毯；隆重的接待」。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
