@@ -9363,6 +9363,76 @@
       ],
       "note": "語塊：a free pamphlet（免費小冊子）、distribute a pamphlet（發小冊子）、a safety／information pamphlet（安全／資訊手冊）、pick up a pamphlet（拿一本小冊子）。pamphlet 是幾頁訂在一起、介紹或說明某件事的小冊子。相近：brochure（宣傳型錄，比較精美、常用在商品和旅遊）、leaflet／flyer（只有一張的傳單）、handout（會議或課堂發的講義）。",
       "addedAt": "2026-11-01"
+    },
+    {
+      "id": "20261102-pottery",
+      "word": "pottery",
+      "pos": "名詞",
+      "meaning": "陶器；陶藝",
+      "sentences": [
+        {
+          "en": "The art center will hold a pottery exhibit featuring bowls and vases made by local artists next month.",
+          "zh": "藝術中心下個月會舉辦陶藝展，展出本地藝術家做的碗和花瓶。"
+        },
+        {
+          "en": "Employees can sign up for a pottery class on Friday evenings as part of the company's wellness program.",
+          "zh": "員工可以報名週五晚上的陶藝課，這是公司健康計畫的一部分。"
+        },
+        {
+          "en": "The gift shop sells handmade pottery and other traditional crafts from villages across the island.",
+          "zh": "禮品店販售手工陶器和來自全島各村莊的其他傳統工藝品。"
+        },
+        {
+          "en": "Visitors to the factory can watch skilled workers make pottery by hand on a spinning wheel.",
+          "zh": "參觀工廠的人可以看技術熟練的工人用轉盤手工做陶器。"
+        },
+        {
+          "en": "Please handle the pottery carefully when unpacking the boxes, because some pieces are very old and fragile.",
+          "zh": "拆箱時請小心拿這些陶器，因為有些作品非常古老又易碎。"
+        }
+      ],
+      "distractors": [
+        "poetry",
+        "property",
+        "potency"
+      ],
+      "note": "語塊：a pottery exhibit／exhibition（陶藝展）、a pottery class（陶藝課）、handmade pottery（手工陶器）、make pottery（做陶器）。pot（壺、罐）→ pottery（陶器）、potter（陶藝家）。別跟 poetry（詩）搞混，拼法很像。相關：ceramics（陶瓷，比較正式）、porcelain（瓷器）。",
+      "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-exhibit",
+      "word": "exhibit",
+      "pos": "名詞",
+      "meaning": "展覽；展覽品",
+      "sentences": [
+        {
+          "en": "The museum's new exhibit on ancient pottery will open to the public on the first Saturday of December.",
+          "zh": "博物館關於古代陶器的新展覽，會在十二月第一個星期六對外開放。"
+        },
+        {
+          "en": "Thousands of visitors came to see the photography exhibit during its first weekend at the city gallery.",
+          "zh": "攝影展在市立美術館的第一個週末，就有幾千名參觀者來看。"
+        },
+        {
+          "en": "Please do not touch any exhibit in this room, as many of the items are more than a hundred years old.",
+          "zh": "請不要觸碰這個展間裡的任何展品，因為很多物品都有一百多年歷史了。"
+        },
+        {
+          "en": "The science center is planning an interactive exhibit where children can learn about renewable energy.",
+          "zh": "科學中心正在規劃一個互動展覽，讓孩子學習再生能源。"
+        },
+        {
+          "en": "Admission to the special exhibit costs an additional five dollars, but students can enter for free on Mondays.",
+          "zh": "特展門票要另外加五元，但學生星期一可以免費入場。"
+        }
+      ],
+      "distractors": [
+        "exit",
+        "excerpt",
+        "exhaust"
+      ],
+      "note": "語塊：a pottery／photography exhibit（陶藝展／攝影展）、a new／special exhibit（新展覽／特展）、an interactive exhibit（互動展覽）、on exhibit（展出中）。exhibit 也可以當動詞「展出」：The gallery will exhibit her paintings.（藝廊會展出她的畫）。和 exhibition 的差別：exhibition 通常是整個大型展覽，exhibit 可以指一個展覽或其中一件展品；美式英文常用 exhibit 指展覽。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
