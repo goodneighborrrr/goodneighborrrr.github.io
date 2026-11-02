@@ -9608,6 +9608,41 @@
       ],
       "note": "語塊：a pop sensation（爆紅的流行歌手）、an overnight sensation（一夜爆紅的人或東西）、cause／create a sensation（引起轟動）、a burning／tingling sensation（灼熱／刺痛的感覺）。sensation 有兩個意思：①轟動、爆紅的人事物 ②（身體上的）感覺。形容詞 sensational（轟動的；極好的）。和 feeling 的差別：sensation 多指身體感官的感覺，feeling 也能指情緒。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-edgy",
+      "word": "edgy",
+      "pos": "形容詞",
+      "meaning": "前衛的；大膽有個性的；緊張不安的",
+      "sentences": [
+        {
+          "en": "The pop sensation is known for her edgy style, bold hairstyles, and unusual music videos.",
+          "zh": "這位爆紅的流行歌手以前衛的風格、大膽的髮型和特別的音樂影片出名。"
+        },
+        {
+          "en": "The fashion brand hired a young designer to give its clothing line a more edgy look.",
+          "zh": "這個時尚品牌請了一位年輕設計師，讓服裝系列看起來更前衛。"
+        },
+        {
+          "en": "Some loyal customers felt the new advertising campaign was too edgy for a family restaurant like ours.",
+          "zh": "有些老顧客覺得新的廣告活動對我們這種家庭餐廳來說太大膽了。"
+        },
+        {
+          "en": "Everyone in the office felt a little edgy while waiting for the results of the company merger.",
+          "zh": "辦公室裡每個人在等公司合併結果時，都有點緊張不安。"
+        },
+        {
+          "en": "The magazine wants to attract younger readers with edgy articles about music, art, and street culture.",
+          "zh": "雜誌想用關於音樂、藝術和街頭文化的前衛文章吸引年輕讀者。"
+        }
+      ],
+      "distractors": [
+        "eager",
+        "early",
+        "easy"
+      ],
+      "note": "語塊：an edgy style／look（前衛、有個性的風格）、too edgy（太大膽、太敢）、feel edgy（覺得緊張、焦躁）。edgy 有兩個意思：①前衛、大膽、敢挑戰規範的（時尚、廣告、音樂常用，通常是稱讚）②緊張不安的（同 nervous）。來自 edge（邊緣）→ 走在邊緣、不走一般路線。和 cutting-edge（最先進的，指科技）不同。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
