@@ -9573,6 +9573,41 @@
       ],
       "note": "語塊：pension payment（退休金給付）、pension plan／system（退休金計畫／制度）、live on a pension（靠退休金生活）、be eligible for a pension（有資格領退休金）。pension 是退休後定期領的錢。相關：retirement（退休）、retiree（退休人員）、pensioner（領退休金的人）。在歐洲 pension 也可以指小旅館、民宿。別跟 tension（緊張）、mansion（豪宅）搞混。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-sensation",
+      "word": "sensation",
+      "pos": "名詞",
+      "meaning": "轟動；爆紅的人事物；（身體的）感覺",
+      "sentences": [
+        {
+          "en": "The young pop sensation will perform at the opening ceremony of the new shopping mall next Saturday.",
+          "zh": "這位爆紅的年輕流行歌手，下週六會在新購物中心的開幕典禮上表演。"
+        },
+        {
+          "en": "The small bakery became an overnight sensation after a famous food blogger posted a video about its cakes.",
+          "zh": "一位知名美食部落客發了蛋糕影片後，這家小麵包店一夜爆紅。"
+        },
+        {
+          "en": "The company's new folding phone caused a sensation at the technology fair in Berlin last month.",
+          "zh": "公司的新款摺疊手機上個月在柏林科技展上引起轟動。"
+        },
+        {
+          "en": "Some patients feel a slight burning sensation in their eyes for a few minutes after using the drops.",
+          "zh": "有些病患用了眼藥水後，眼睛會有幾分鐘輕微的灼熱感。"
+        },
+        {
+          "en": "The music festival organizers hope to invite the Korean dance sensation to headline next year's event.",
+          "zh": "音樂節主辦單位希望邀請這位爆紅的韓國舞蹈明星擔任明年活動的壓軸。"
+        }
+      ],
+      "distractors": [
+        "situation",
+        "station",
+        "sanction"
+      ],
+      "note": "語塊：a pop sensation（爆紅的流行歌手）、an overnight sensation（一夜爆紅的人或東西）、cause／create a sensation（引起轟動）、a burning／tingling sensation（灼熱／刺痛的感覺）。sensation 有兩個意思：①轟動、爆紅的人事物 ②（身體上的）感覺。形容詞 sensational（轟動的；極好的）。和 feeling 的差別：sensation 多指身體感官的感覺，feeling 也能指情緒。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
