@@ -9400,41 +9400,6 @@
       "addedAt": "2026-11-02"
     },
     {
-      "id": "20261102-exhibit",
-      "word": "exhibit",
-      "pos": "名詞",
-      "meaning": "展覽；展覽品",
-      "sentences": [
-        {
-          "en": "The museum's new exhibit on ancient pottery will open to the public on the first Saturday of December.",
-          "zh": "博物館關於古代陶器的新展覽，會在十二月第一個星期六對外開放。"
-        },
-        {
-          "en": "Thousands of visitors came to see the photography exhibit during its first weekend at the city gallery.",
-          "zh": "攝影展在市立美術館的第一個週末，就有幾千名參觀者來看。"
-        },
-        {
-          "en": "Please do not touch any exhibit in this room, as many of the items are more than a hundred years old.",
-          "zh": "請不要觸碰這個展間裡的任何展品，因為很多物品都有一百多年歷史了。"
-        },
-        {
-          "en": "The science center is planning an interactive exhibit where children can learn about renewable energy.",
-          "zh": "科學中心正在規劃一個互動展覽，讓孩子學習再生能源。"
-        },
-        {
-          "en": "Admission to the special exhibit costs an additional five dollars, but students can enter for free on Mondays.",
-          "zh": "特展門票要另外加五元，但學生星期一可以免費入場。"
-        }
-      ],
-      "distractors": [
-        "exit",
-        "excerpt",
-        "exhaust"
-      ],
-      "note": "語塊：a pottery／photography exhibit（陶藝展／攝影展）、a new／special exhibit（新展覽／特展）、an interactive exhibit（互動展覽）、on exhibit（展出中）。exhibit 也可以當動詞「展出」：The gallery will exhibit her paintings.（藝廊會展出她的畫）。和 exhibition 的差別：exhibition 通常是整個大型展覽，exhibit 可以指一個展覽或其中一件展品；美式英文常用 exhibit 指展覽。",
-      "addedAt": "2026-11-02"
-    },
-    {
       "id": "20261102-carpets",
       "word": "carpets",
       "pos": "名詞",
