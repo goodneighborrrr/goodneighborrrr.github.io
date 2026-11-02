@@ -9538,6 +9538,41 @@
       ],
       "note": "語塊：disabled workers／employees（身障員工）、disabled parking（身障停車位）、be temporarily disabled（暫時停用）。和 people with disabilities 意思一樣，但現在比較有禮貌的說法是把「人」放前面：workers with disabilities。disabled 也可以指機器或功能「被關掉、停用」，例如 The account has been disabled.（帳號已被停用）。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261102-pension",
+      "word": "pension",
+      "pos": "名詞",
+      "meaning": "退休金；養老金",
+      "sentences": [
+        {
+          "en": "Retired employees will receive their monthly pension payment directly in their bank accounts on the fifth of each month.",
+          "zh": "退休員工每個月五號會直接在銀行帳戶收到每月退休金。"
+        },
+        {
+          "en": "The company contributes six percent of each worker's salary to a pension plan every month.",
+          "zh": "公司每個月都會提撥每位員工薪水的百分之六到退休金計畫。"
+        },
+        {
+          "en": "Mr. Wu decided to retire early and live on his pension after working at the bank for thirty years.",
+          "zh": "吳先生在銀行工作三十年後，決定提早退休，靠退休金生活。"
+        },
+        {
+          "en": "Employees who leave the company before five years of service may not be eligible for the full pension.",
+          "zh": "服務未滿五年就離職的員工，可能無法領取全額退休金。"
+        },
+        {
+          "en": "The government announced changes to the pension system that will affect workers who retire after 2030.",
+          "zh": "政府宣布退休金制度的改變，會影響 2030 年後退休的勞工。"
+        }
+      ],
+      "distractors": [
+        "pendant",
+        "tension",
+        "mansion"
+      ],
+      "note": "語塊：pension payment（退休金給付）、pension plan／system（退休金計畫／制度）、live on a pension（靠退休金生活）、be eligible for a pension（有資格領退休金）。pension 是退休後定期領的錢。相關：retirement（退休）、retiree（退休人員）、pensioner（領退休金的人）。在歐洲 pension 也可以指小旅館、民宿。別跟 tension（緊張）、mansion（豪宅）搞混。",
+      "addedAt": "2026-11-02"
     }
   ],
   "notes": [
