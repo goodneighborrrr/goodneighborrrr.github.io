@@ -9713,6 +9713,41 @@
       ],
       "note": "語塊：a cover illustration（封面插圖）、a colorful illustration（彩色插圖）、as an illustration of（舉例說明……）、study illustration（學插畫）。illustration 有兩個意思：①插圖、圖解 ②例子、例證。動詞 illustrate（畫插圖；用例子說明），畫插畫的人叫 illustrator。別跟 illusion（錯覺）、installation（安裝）搞混。",
       "addedAt": "2026-11-02"
+    },
+    {
+      "id": "20261103-pledge",
+      "word": "pledge",
+      "pos": "動詞",
+      "meaning": "承諾；保證；（名詞）誓約、承諾",
+      "sentences": [
+        {
+          "en": "Several major companies pledge to reduce their carbon emissions by half within the next ten years.",
+          "zh": "好幾家大企業承諾在未來十年內把碳排放減半。"
+        },
+        {
+          "en": "The new mayor made a pledge to build more affordable housing for young families in the city.",
+          "zh": "新市長承諾要為市內的年輕家庭蓋更多平價住宅。"
+        },
+        {
+          "en": "Our employees pledge to donate one day of their salary to the children's hospital every December.",
+          "zh": "我們的員工承諾每年十二月捐出一天的薪水給兒童醫院。"
+        },
+        {
+          "en": "The CEO kept his pledge to give every employee a bonus if the company reached its sales target.",
+          "zh": "執行長信守承諾，公司達到業績目標後給每位員工發了獎金。"
+        },
+        {
+          "en": "Customers who sign the online pledge to recycle their old phones will receive a ten percent discount.",
+          "zh": "在網路上簽署承諾回收舊手機的顧客，可以享九折優惠。"
+        }
+      ],
+      "distractors": [
+        "plead",
+        "plunge",
+        "please"
+      ],
+      "note": "語塊：pledge to＋動詞（承諾要……）、make a pledge（做出承諾）、keep a pledge（信守承諾）、sign a pledge（簽署承諾書）。pledge 可以當動詞也可以當名詞。和 promise 意思接近，但 pledge 比較正式、公開，常用在企業、政府、捐款。同義詞：commit to、vow。",
+      "addedAt": "2026-11-03"
     }
   ],
   "notes": [
