@@ -46,6 +46,12 @@
 
 `speaking/` 這個資料夾是另一個小功能：用瀏覽器內建的語音功能陪主人練習英文口說，說完一輪後請 Gemini 糾正、接著聊。細節、重要決定（為什麼沒有用 Firebase Cloud Function）跟已知的 iPhone 限制，都寫在 `speaking/CLAUDE.md`，改這個功能前先看那份。
 
+## 其他帳號（例如主人的女朋友）
+
+- 別人可以用自己的信箱在同一個 App 註冊登入，單字庫、答題紀錄、設定都和主人分開（照帳號存）。
+- `inbox.json` 只會匯入主人的帳號（`OWNER_EMAIL`）。其他帳號第一次登入時，會匯入一次 `starter.json`（主人的起始單字庫；沒有這個檔就改用 `inbox.json`），之後就不再讀，各自獨立。
+- `starter.json` 由主人在 App「單字庫 → 設定 → 匯出單字庫」產生，傳給 Claude 後放到兩個空間的根目錄。
+
 ## 其他
 
 - 不公開的備份空間是 `goodneighborrrr/eq-vocab-app`，App 的檔案兩邊要保持一致。

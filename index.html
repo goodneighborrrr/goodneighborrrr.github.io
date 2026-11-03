@@ -234,6 +234,7 @@ const firebaseConfig = {
   appId: "1:927137297068:web:5c37615ddf1ebd825da509",
 };
 const OWNER_EMAIL = "shihchun7644@gmail.com";
+const isOwner = () => (auth.currentUser?.email || "").toLowerCase() === OWNER_EMAIL;
 
 const fbApp = initializeApp(firebaseConfig);
 const auth = getAuth(fbApp);
@@ -712,12 +713,13 @@ function authMessage(code){
     "auth/operation-not-allowed": "目前不開放建立新帳號。",
   })[code] || "登入時發生問題，請再試一次。";
 }
+function lastEmail(){ try { return localStorage.getItem("eqLastEmail") || ""; } catch { return ""; } }
 function renderLogin(mode = "login", note = ""){
   const isNew = mode === "new";
   main.innerHTML = `
     <div class="empty" style="padding-bottom:12px"><img src="icons/icon-180.png?v=4" alt=""><h2>EQ 單字刷題</h2><p>${isNew ? "第一次使用：幫這個 App 設一組密碼" : "登入你的單字庫"}</p></div>
     <form class="stack" id="loginForm" autocomplete="on" style="max-width:420px;margin:0 auto">
-      <label class="f" for="lgEmail">信箱<input type="text" id="lgEmail" inputmode="email" autocomplete="username" autocapitalize="off" spellcheck="false" value="${OWNER_EMAIL}"></label>
+      <label class="f" for="lgEmail">信箱<input type="text" id="lgEmail" inputmode="email" autocomplete="username" autocapitalize="off" spellcheck="false" value="${isNew ? "" : escapeHtml(lastEmail())}"></label>
       <label class="f" for="lgPass">${isNew ? "設定密碼（至少 6 個字）" : "密碼"}<input type="password" id="lgPass" autocomplete="${isNew ? "new-password" : "current-password"}" required></label>
       ${isNew ? `<label class="f" for="lgPass2">再輸入一次密碼<input type="password" id="lgPass2" autocomplete="new-password" required></label>` : ""}
       <div id="lgMsg">${note ? `<p class="note">${escapeHtml(note)}</p>` : ""}</div>
@@ -740,7 +742,7 @@ function renderLogin(mode = "login", note = ""){
     const email = $("#lgEmail").value.trim(), pass = $("#lgPass").value;
     if (isNew && pass !== $("#lgPass2").value) return msg("兩次輸入的密碼不一樣。");
     $("#lgGo").disabled = true;
-    try { isNew ? await createUserWithEmailAndPassword(auth, email, pass) : await signInWithEmailAndPassword(auth, email, pass); }
+    try { isNew ? await createUserWithEmailAndPassword(auth, email, pass) : await signInWithEmailAndPassword(auth, email, pass); try { localStorage.setItem("eqLastEmail", email); } catch {} }
     catch (err){ msg(authMessage(err.code)); $("#lgGo").disabled = false; }
   });
 }
@@ -1009,6 +1011,10 @@ function openBank(){
         <div class="row" style="justify-content:space-between;align-items:center"><span style="font-size:14px">幫舊單字補上慣用語塊</span><button class="ghost" id="collocBtn" type="button">開始</button></div>
         <p class="note" id="collocMsg" style="margin:0;font-size:13px;color:var(--muted)"></p>
       </div>
+      ${isOwner() ? `<div class="stack" style="gap:6px">
+        <div class="row" style="justify-content:space-between;align-items:center"><span style="font-size:14px">匯出單字庫（做成別人的起始單字）</span><button class="ghost" id="exportBtn" type="button">匯出</button></div>
+        <p class="note" style="margin:0;font-size:13px;color:var(--muted)">會產生一個檔案（只有單字、意思、例句、備註，不含你的答題紀錄）。把檔案傳給 Claude，新帳號第一次登入時就會自動放進這些字。</p>
+      </div>` : ""}
       <a class="linkbtn" href="speaking/" style="justify-self:start">前往英語口說練習 →</a>
     </section>`);
   bankOpen = true;
@@ -1071,6 +1077,17 @@ function openBank(){
   }
   draw();
   panel.querySelectorAll(".tabs button").forEach(t => t.onclick = () => { if (bankTab !== t.dataset.tab){ bankTab = t.dataset.tab; openBank(); } });
+  const exBtn = $("#exportBtn");
+  if (exBtn) exBtn.onclick = async () => {
+    const words = Store.words.filter(w => w.word && w.sentences.length).map(w => ({ id: "s-" + w.id, word: w.word, pos: w.pos, meaning: w.meaning, sentences: w.sentences, distractors: w.distractors, note: w.note, addedAt: new Date(w.createdAt || Date.now()).toISOString().slice(0, 10) }));
+    const text = JSON.stringify({ note: "EQ 起始單字庫（由主人匯出）", exportedAt: new Date().toISOString().slice(0, 10), words });
+    const file = new File([text], "starter.json", { type: "application/json" });
+    try {
+      if (navigator.canShare && navigator.canShare({ files: [file] })){ await navigator.share({ files: [file], title: "starter.json" }); return; }
+    } catch (e){ if (e && e.name === "AbortError") return; }
+    const a = document.createElement("a"); a.href = URL.createObjectURL(file); a.download = "starter.json"; document.body.appendChild(a); a.click(); a.remove();
+    toast(`已匯出 ${words.length} 個字`);
+  };
   const collocMsg = $("#collocMsg"), collocBtn = $("#collocBtn");
   const left = Store.words.filter(needsColloc).length;
   collocMsg.textContent = left ? `還有 ${left} 個字沒有語塊。按「開始」會用 AI 幫每個字找出常用語塊，並把考題句子換成用到語塊的句子（大約每 5 個字 10 秒，可以隨時中斷，下次再按會接著做）。` : "所有單字都已經有語塊了 👍";
@@ -1265,32 +1282,39 @@ async function importInbox({ quiet = false } = {}){
   importing = true;
   loadGloss();
   try {
-    const res = await fetch(`inbox.json?t=${Date.now()}`, { cache: "no-store" });
+    // 收件匣只給主人；其他帳號第一次登入時，匯入一次主人的起始單字庫（starter.json），之後就各自獨立
+    const owner = isOwner();
+    if (!owner && Store.settings.starterDone) return;
+    let res = await fetch(`${owner ? "inbox" : "starter"}.json?t=${Date.now()}`, { cache: "no-store" });
+    if (!owner && !res.ok) res = await fetch(`inbox.json?t=${Date.now()}`, { cache: "no-store" });
     if (!res.ok) return;
     const data = await res.json();
+    if (!owner) data.notes = [];
     const done = new Set(Store.settings.imported || []);
-    const fresh = (data.words || []).filter(e => e && e.id && e.word && !done.has(e.id));
+    const fresh = (data.words || []).map((e, i) => e && !e.id ? { ...e, id: "s-" + i } : e).filter(e => e && e.id && e.word && !done.has(e.id));
     const notes = (data.notes || []).filter(n => n && n.id && n.word && n.note && !done.has(n.id));
     if (!fresh.length && !notes.length) return;
-    const added = [];
+    const added = [], pending = [];
     for (const e of fresh){
       const exists = Store.words.some(w => w.word.toLowerCase() === String(e.word).toLowerCase());
       const sentences = (e.sentences || []).filter(s => s && s.en && hasWord(s.en, e.word));
       if (!exists && sentences.length){
-        await Store.add(normalizeWord({ id: "c-" + e.id, word: e.word, pos: POS_LIST.includes(e.pos) ? e.pos : "其他", meaning: e.meaning || "", sentences, distractors: e.distractors || [], note: String(e.note || ""), source: "claude", createdAt: Date.parse(e.addedAt) || Date.now() }));
+        pending.push(Store.add(normalizeWord({ id: "c-" + e.id, word: e.word, pos: POS_LIST.includes(e.pos) ? e.pos : "其他", meaning: e.meaning || "", sentences, distractors: e.distractors || [], note: String(e.note || ""), source: "claude", createdAt: Date.parse(e.addedAt) || Date.now() })));
         added.push(e.word);
+        if (pending.length >= 50) { await Promise.all(pending); pending.length = 0; }
       }
     }
+    await Promise.all(pending);
     // 補備註：Claude 幫已經在單字庫的字補上同義詞或用法提醒（每筆只套用一次）
     for (const n of notes){
       const w = Store.words.find(x => x.word.toLowerCase() === String(n.word).toLowerCase());
       if (w && w.note !== n.note){ w.note = n.note; await Store.update(w); }
     }
     const ids = [...fresh.map(e => e.id), ...notes.map(n => n.id)];
-    await Store.saveSettings({ imported: arrayUnion(...ids) });
-    Store.settings.imported = [...done, ...ids];
+    if (!owner){ await Store.saveSettings({ starterDone: true }); Store.settings.starterDone = true; }
+    else { await Store.saveSettings({ imported: arrayUnion(...ids) }); Store.settings.imported = [...done, ...ids]; }
     if (added.length){
-      toast(`已加入 Claude 幫你寫好的 ${added.length} 個新字`);
+      toast(owner ? `已加入 Claude 幫你寫好的 ${added.length} 個新字` : `已放入 ${added.length} 個起始單字，開始練習吧！`);
       if (!S.round.length || S.i >= S.round.length) newRound(); else updateCount();
     }
   } catch (e) { if (!quiet) console.warn("inbox", e); }
