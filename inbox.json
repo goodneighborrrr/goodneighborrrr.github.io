@@ -9783,6 +9783,41 @@
       ],
       "note": "語塊：a workshop facilitator（工作坊引導師）、act as (the) facilitator（擔任引導人）、an experienced facilitator（有經驗的引導師）。facilitator 是帶領討論、讓會議或課程順利進行的人，不一定是老師，重點是引導大家參與。動詞 facilitate（促進、使……容易）。別跟 facility（設施）、faculty（全體教職員）搞混。相近：moderator（主持人，常用在座談、論壇）。",
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "20261103-incorporate",
+      "word": "incorporate",
+      "pos": "動詞",
+      "meaning": "把……納入；包含；結合",
+      "sentences": [
+        {
+          "en": "This year's company party will incorporate live music, a magic show, and a short awards ceremony.",
+          "zh": "今年的公司派對會加入現場音樂、魔術表演和簡短的頒獎典禮。"
+        },
+        {
+          "en": "The designers plan to incorporate feedback from customers into the next version of the mobile app.",
+          "zh": "設計師打算把顧客的意見納入下一版手機應用程式。"
+        },
+        {
+          "en": "The new office building will incorporate solar panels on the roof to reduce electricity costs.",
+          "zh": "新的辦公大樓會在屋頂裝太陽能板，以降低電費。"
+        },
+        {
+          "en": "Our chef likes to incorporate local ingredients, such as Taiwanese tea and fresh fruit, into every dessert.",
+          "zh": "我們的主廚喜歡在每道甜點裡加入在地食材，像是台灣茶和新鮮水果。"
+        },
+        {
+          "en": "The training course will incorporate several role-playing exercises to help sales staff practice speaking with clients.",
+          "zh": "培訓課程會加入好幾個角色扮演練習，幫助業務人員練習跟客戶對話。"
+        }
+      ],
+      "distractors": [
+        "cooperate",
+        "corporate",
+        "incriminate"
+      ],
+      "note": "語塊：incorporate A into B（把 A 納入 B）、incorporate feedback／suggestions（採納意見／建議）、incorporate live music（加入現場音樂）。incorporate 是「把某樣東西加進來、變成整體的一部分」。同義詞：include、integrate。它也可以指「成立公司」，所以公司名後面常看到 Inc.（＝Incorporated，股份有限公司）。別跟 cooperate（合作）、corporate（公司的）搞混。",
+      "addedAt": "2026-11-03"
     }
   ],
   "notes": [
