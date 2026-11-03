@@ -9748,6 +9748,41 @@
       ],
       "note": "語塊：pledge to＋動詞（承諾要……）、make a pledge（做出承諾）、keep a pledge（信守承諾）、sign a pledge（簽署承諾書）。pledge 可以當動詞也可以當名詞。和 promise 意思接近，但 pledge 比較正式、公開，常用在企業、政府、捐款。同義詞：commit to、vow。",
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "20261103-facilitator",
+      "word": "facilitator",
+      "pos": "名詞",
+      "meaning": "引導師；（會議、課程的）主持引導人；促進者",
+      "sentences": [
+        {
+          "en": "The workshop facilitator asked each participant to share one challenge they face when dealing with difficult customers.",
+          "zh": "工作坊引導師請每位學員分享一個面對難搞客戶時遇到的挑戰。"
+        },
+        {
+          "en": "We hired an experienced facilitator to lead the two-day strategy meeting for our management team.",
+          "zh": "我們請了一位有經驗的引導師，帶領管理團隊為期兩天的策略會議。"
+        },
+        {
+          "en": "A good facilitator makes sure that everyone has a chance to speak and that the discussion stays on topic.",
+          "zh": "好的主持引導者會確保每個人都有機會發言，討論也不會離題。"
+        },
+        {
+          "en": "Ms. Chen will act as the facilitator for next week's training session on time management.",
+          "zh": "陳小姐會擔任下週時間管理培訓課程的引導人。"
+        },
+        {
+          "en": "The facilitator divided the employees into small groups and gave each group a different problem to solve.",
+          "zh": "引導師把員工分成小組，給每組不同的問題去解決。"
+        }
+      ],
+      "distractors": [
+        "facility",
+        "faculty",
+        "fabricator"
+      ],
+      "note": "語塊：a workshop facilitator（工作坊引導師）、act as (the) facilitator（擔任引導人）、an experienced facilitator（有經驗的引導師）。facilitator 是帶領討論、讓會議或課程順利進行的人，不一定是老師，重點是引導大家參與。動詞 facilitate（促進、使……容易）。別跟 facility（設施）、faculty（全體教職員）搞混。相近：moderator（主持人，常用在座談、論壇）。",
+      "addedAt": "2026-11-03"
     }
   ],
   "notes": [
