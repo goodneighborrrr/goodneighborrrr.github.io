@@ -189,6 +189,15 @@ textarea{resize:vertical;min-height:72px;line-height:1.5}
 .meter i{display:block;height:100%;background:var(--wrong)}
 .chips{display:flex;gap:6px;flex-wrap:wrap}
 .toast button{margin-left:12px;border:0;background:none;color:var(--leaf);font-weight:700;font-size:14px;padding:0}
+.yay{position:fixed;inset:0;z-index:70;display:flex;align-items:center;justify-content:center;background:rgba(0,0,0,.35);animation:yayfade .25s ease}
+.yay .card{background:var(--card);color:var(--ink);border-radius:20px;padding:26px 30px;text-align:center;box-shadow:0 10px 40px rgba(0,0,0,.25);animation:yaypop .45s cubic-bezier(.2,1.4,.4,1)}
+.yay .big{font-size:30px;font-weight:800;margin-bottom:6px}
+.yay .sub{font-size:20px;font-weight:700}
+.yay .hearts{font-size:30px;margin-top:10px;letter-spacing:6px}
+.yay .w{font-size:14px;color:var(--muted);margin-top:10px}
+@keyframes yaypop{0%{transform:scale(.5);opacity:0}100%{transform:scale(1);opacity:1}}
+@keyframes yayfade{from{opacity:0}to{opacity:1}}
+@media (prefers-reduced-motion: reduce){.yay,.yay .card{animation:none}}
 .toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:10px 18px;border-radius:999px;font-size:14px;z-index:60;max-width:calc(100% - 32px);text-align:center;animation:rise .2s ease}
 .signed-out .barrow > *, .signed-out .progress{visibility:hidden}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
@@ -666,7 +675,7 @@ function answer(k){
   if (!q || q.picked >= 0) return;
   q.picked = k;
   const w = wordById(q.id);
-  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); q.learnedNow = recordAnswer(w, k === q.correct); }
+  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); q.learnedNow = recordAnswer(w, k === q.correct); if (q.learnedNow) celebrate(w.word); }
   render();
   const btn = $("#next"); if (btn) btn.focus({preventScroll:true});
 }
@@ -680,7 +689,7 @@ function disputeAnswer(){
   Store.settings.noPair = [...list];
   Store.saveSettings({ noPair: arrayUnion(pairKey(w.word, other)) });
   if (q.before){ w.stats = q.before.stats; w.review = q.before.review; }
-  q.learnedNow = recordAnswer(w, true);
+  q.learnedNow = recordAnswer(w, true); if (q.learnedNow) celebrate(w.word);
   toast(`已記下：${w.word} 和 ${other} 以後不會出在同一題，這題算你對`);
   render();
 }
@@ -769,6 +778,15 @@ function closeSheet(){
 }
 sheet.addEventListener("click", e => { if (e.target === sheet) closeSheet(); });
 
+function celebrate(word){
+  const el = document.createElement("div");
+  el.className = "yay"; el.setAttribute("role", "status");
+  el.innerHTML = `<div class="card"><div class="big">學會了！</div><div class="sub">你好強喔</div><div class="hearts">❤️💜💛</div><div class="w">${escapeHtml(word)} 已經連續答對 ${MASTER_RUN} 次，移到「已學會」</div></div>`;
+  const close = () => { el.remove(); clearTimeout(t); };
+  el.onclick = close;
+  const t = setTimeout(close, 2600);
+  document.body.appendChild(el);
+}
 function toast(msg, action){
   const t = document.createElement("div"); t.className = "toast"; t.textContent = msg;
   if (action){ const b = document.createElement("button"); b.textContent = action.label; b.onclick = () => { t.remove(); action.run(); }; t.appendChild(b); }
