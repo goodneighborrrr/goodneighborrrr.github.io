@@ -9855,38 +9855,38 @@
       "addedAt": "2026-11-04"
     },
     {
-      "id": "20261104-premise",
-      "word": "premise",
+      "id": "20261104-premises",
+      "word": "premises",
       "pos": "名詞",
-      "meaning": "前提；假設；（故事的）設定",
+      "meaning": "（建築物及其土地的）場所；營業處所；店內",
       "sentences": [
         {
-          "en": "The marketing plan is based on the premise that younger customers prefer to shop on their phones.",
-          "zh": "這份行銷計畫的前提是：年輕顧客比較喜歡用手機購物。"
+          "en": "Smoking is strictly prohibited anywhere on the premises, including the parking lot and the outdoor seating area.",
+          "zh": "場內任何地方都嚴格禁止吸菸，包括停車場和戶外座位區。"
         },
         {
-          "en": "The basic premise of the new training program is that employees learn best by practicing with real clients.",
-          "zh": "新培訓計畫的基本前提是：員工透過跟真實客戶練習學得最好。"
+          "en": "All visitors must sign in at the front desk and wear a badge while they are on the premises.",
+          "zh": "所有訪客都必須在櫃台登記，並在公司範圍內配戴識別證。"
         },
         {
-          "en": "Several board members questioned the premise of the report because the sales data was more than three years old.",
-          "zh": "好幾位董事質疑這份報告的前提，因為銷售資料已經超過三年了。"
+          "en": "Pets are not allowed on the premises, except for service dogs that help guests with disabilities.",
+          "zh": "場內禁止攜帶寵物，但協助身障客人的服務犬除外。"
         },
         {
-          "en": "The movie has a simple premise, but the strong acting and beautiful music made it a big success.",
-          "zh": "這部電影的設定很簡單，但精彩的演技和優美的音樂讓它大獲成功。"
+          "en": "The restaurant has a small bakery on the premises, so all the bread is made fresh every morning.",
+          "zh": "餐廳裡面有一間小烘焙坊，所以所有麵包每天早上都是現做的。"
         },
         {
-          "en": "Our budget was built on the premise that the price of raw materials would stay the same all year.",
-          "zh": "我們的預算是建立在原料價格整年不變的前提上。"
+          "en": "Security cameras will be installed throughout the premises to protect the company's equipment at night.",
+          "zh": "整個場所都會裝上監視器，在晚上保護公司的設備。"
         }
       ],
       "distractors": [
-        "promise",
-        "premium",
-        "precinct"
+        "promises",
+        "premiums",
+        "precincts"
       ],
-      "note": "語塊：on the premise that＋句子（在……的前提下）、the basic premise of（……的基本前提）、question the premise（質疑前提）。premise 單數是「前提、假設、（故事的）設定」。注意：複數 premises 在多益常是另一個意思「場所、營業處所、建築物和土地」，例如 on the premises（在店內／在公司範圍內）、No smoking on the premises.（場內禁菸）。別跟 promise（承諾）搞混。",
+      "note": "語塊：on the premises（在場所內；在店內／公司範圍內）、off the premises（在場所外）、throughout the premises（整個場所）、leave the premises（離開場所）。premises 是「建築物連同它的土地、營業場所」，這個意思永遠用複數。單數 premise 是另一個意思「前提、假設」。別跟 promises（承諾）搞混。",
       "addedAt": "2026-11-04"
     }
   ],
