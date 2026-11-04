@@ -9958,6 +9958,41 @@
       ],
       "note": "語塊：a tourist attraction（觀光景點）、the main attraction（主要景點；最吸引人的地方）、local attractions（當地景點）、a major attraction（一大吸引力）。attraction 有兩個意思：①景點、遊樂設施（遊樂園裡的設施也叫 attraction）②吸引力。動詞 attract（吸引），形容詞 attractive（有吸引力的）。別跟 attention（注意力）、attendance（出席）搞混。",
       "addedAt": "2026-11-04"
+    },
+    {
+      "id": "20261104-enrollment",
+      "word": "enrollment",
+      "pos": "名詞",
+      "meaning": "報名；註冊；登記；報名人數",
+      "sentences": [
+        {
+          "en": "Enrollment in the company's English training program has doubled since managers started offering it during work hours.",
+          "zh": "經理開始在上班時間開課後，公司英文培訓課程的報名人數增加了一倍。"
+        },
+        {
+          "en": "The deadline for enrollment in the new health insurance plan is the last Friday of this month.",
+          "zh": "新健康保險方案的登記截止日是這個月的最後一個星期五。"
+        },
+        {
+          "en": "Online enrollment for the spring semester will open on January fifth and close two weeks later.",
+          "zh": "春季學期的線上註冊會在一月五日開放，兩週後截止。"
+        },
+        {
+          "en": "Because of low enrollment, the evening photography class was canceled and students received a full refund.",
+          "zh": "因為報名人數太少，晚間攝影課取消了，學生拿到全額退款。"
+        },
+        {
+          "en": "Employees can complete the enrollment form on the HR website or pick up a paper copy at the front desk.",
+          "zh": "員工可以在人資網站填報名表，或到櫃台拿紙本。"
+        }
+      ],
+      "distractors": [
+        "environment",
+        "engagement",
+        "endorsement"
+      ],
+      "note": "語塊：enrollment in＋課程／方案（報名、登記參加……）、the deadline for enrollment（報名截止日）、online enrollment（線上報名）、low／high enrollment（報名人數少／多）、an enrollment form（報名表）。動詞 enroll in（報名、註冊）。英式拼法是 enrolment（一個 l）。和 registration 意思接近，enrollment 常用在課程、學校、保險方案。",
+      "addedAt": "2026-11-04"
     }
   ],
   "notes": [
