@@ -383,7 +383,7 @@ function levelOf(w){
   // 舊資料：沒答錯過就當作有一點熟，答錯過就從 0 開始
   return w.stats.attempts && !w.stats.wrong ? Math.min(w.stats.attempts, 2) : 0;
 }
-/* 連續答對次數（答錯歸零）；連續答對 3 次就算熟了，排到最後面才考 */
+/* 連續答對次數（答錯歸零）；連續答對 3 次就自動移到「已學會」，不再出題 */
 const MASTER_RUN = 3;
 function runOf(w){ return typeof w.stats.run === "number" ? w.stats.run : levelOf(w); }
 function mastered(w){ return runOf(w) >= MASTER_RUN && !w.review.active; }
@@ -510,7 +510,10 @@ function recordAnswer(w, ok){
     w.review.streak++; w.review.lastKey = key;                              // 每天最多算一次
     if (w.review.streak >= STREAK_TO_CLEAR){ w.review.active = false; w.review.streak = 0; }
   }
+  let nowLearned = false;
+  if (ok && w.stats.run >= MASTER_RUN && !w.learned){ w.learned = true; w.learnedAt = Date.now(); nowLearned = true; }   // 連續答對 3 次 → 自動移到「已學會」
   Store.update(w);
+  return nowLearned;
 }
 
 /* ---------- 畫面狀態 ---------- */
@@ -644,6 +647,7 @@ function renderQuestion(){
     ${answered ? `
     <section class="feedback">
       <div class="verdict ${ok || q.disputed ? "ok" : "no"}">${ok ? "答對了！" : q.disputed ? `算你對！(${LETTERS[q.picked]}) 放進句子也說得通` : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
+      ${q.learnedNow ? `<p class="note" style="margin:6px 0 0">🎉 這個字已經連續答對 ${MASTER_RUN} 次，自動移到「已學會」了</p>` : ""}
       <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
       ${q.sentence.zh ? `<div class="zh">${escapeHtml(q.sentence.zh)}</div>` : ""}
@@ -662,7 +666,7 @@ function answer(k){
   if (!q || q.picked >= 0) return;
   q.picked = k;
   const w = wordById(q.id);
-  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); recordAnswer(w, k === q.correct); }
+  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); q.learnedNow = recordAnswer(w, k === q.correct); }
   render();
   const btn = $("#next"); if (btn) btn.focus({preventScroll:true});
 }
@@ -676,7 +680,7 @@ function disputeAnswer(){
   Store.settings.noPair = [...list];
   Store.saveSettings({ noPair: arrayUnion(pairKey(w.word, other)) });
   if (q.before){ w.stats = q.before.stats; w.review = q.before.review; }
-  recordAnswer(w, true);
+  q.learnedNow = recordAnswer(w, true);
   toast(`已記下：${w.word} 和 ${other} 以後不會出在同一題，這題算你對`);
   render();
 }
@@ -872,7 +876,7 @@ function openEditor(w, { isNew = false, aiNote = "" } = {}){
         <input type="text" id="e_dis" class="en" value="${escapeHtml(w.distractors.join(", "))}" placeholder="例如 favorite, faithful, flexible"></label>
       <label class="f" for="e_note">備註（同義詞、容易搞混的字、用法提醒；答完題目時會顯示在最下面）
         <textarea id="e_note" placeholder="例如：類似 make，但句型要加 to：prompt + 人 + to + 動詞" style="min-height:64px">${escapeHtml(w.note || "")}</textarea></label>
-      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.stats.attempts ? (mastered(w) ? `。已經連續答對 ${runOf(w)} 次，排在最後面才考` : `。連續答對 ${runOf(w)} 次（滿 ${MASTER_RUN} 次就排到最後面），大約隔 ${gapOf(w)} 天再考`) : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
+      ${!isNew ? `<p class="note">作答 ${w.stats.attempts} 次，答錯 ${w.stats.wrong} 次${r !== null ? `，錯誤率 ${r}%` : ""}${w.stats.attempts ? (mastered(w) ? `。已經連續答對 ${runOf(w)} 次，排在最後面才考` : `。連續答對 ${runOf(w)} 次（滿 ${MASTER_RUN} 次就自動移到「已學會」），大約隔 ${gapOf(w)} 天再考`) : ""}${w.review.active ? `。複習中：已連續答對 ${w.review.streak}/${STREAK_TO_CLEAR} 天` : ""}${w.source === "claude" ? "。這個字是 Claude 幫你加的" : w.source === "import" ? "。這個字是貼上匯入的" : ""}</p>` : ""}
       <div id="editMsg"></div>
       <button class="primary" type="submit">儲存</button>
       ${!isNew ? `<div class="row" style="justify-content:center"><button type="button" class="ghost danger" id="delWord">刪除這個單字</button></div>` : ""}
@@ -1036,7 +1040,7 @@ function openBank(){
     panel.querySelectorAll(".delbtn").forEach(d => d.onclick = () => {
       const w = wordById(d.dataset.del); if (!w) return;
       const setLearned = on => {
-        w.learned = on; w.learnedAt = on ? Date.now() : 0; Store.update(w);
+        w.learned = on; w.learnedAt = on ? Date.now() : 0; if (!on) w.stats.run = 0; Store.update(w);
         if (on) S.round = S.round.filter((q, k) => q.id !== w.id || k < S.i);   // 這一回後面不再考
         const i = list.indexOf(w);
         if (on === learnedTab){ if (i < 0) list.push(w); } else if (i >= 0) list.splice(i, 1);
@@ -1321,6 +1325,16 @@ async function importInbox({ quiet = false } = {}){
   finally { importing = false; }
 }
 
+/* 一次性：以前已經連續答對 3 次以上的字，也移到「已學會」 */
+async function autoLearnOld(){
+  if (Store.settings.autoLearnDone) return;
+  const old = Store.words.filter(w => !w.learned && w.stats.attempts && runOf(w) >= MASTER_RUN);
+  const t = Date.now();
+  await Promise.all(old.map(w => { w.learned = true; w.learnedAt = t; return Store.update(w); }));
+  await Store.saveSettings({ autoLearnDone: true }); Store.settings.autoLearnDone = true;
+  if (old.length) toast(`有 ${old.length} 個字已經連續答對 ${MASTER_RUN} 次，移到「已學會」了`);
+}
+
 /* ---------- 按鈕與鍵盤 ---------- */
 $("#btnAdd").onclick = openAdd;
 $("#btnBank").onclick = openBank;
@@ -1360,7 +1374,7 @@ onAuthStateChanged(auth, user => {
   closeSheet();
   if (!user){ Store.stop(); S.round = []; setSignedIn(false); updateCount(); setProgress(); renderLogin(); return; }
   setSignedIn(true);
-  Store.start(user.uid, async () => { await importInbox({ quiet: true }); newRound(); });
+  Store.start(user.uid, async () => { await autoLearnOld(); await importInbox({ quiet: true }); newRound(); });
   render();
   if (TEST_MODE) toast("測試模式：「隔天」改成「1 分鐘後」");
 });
