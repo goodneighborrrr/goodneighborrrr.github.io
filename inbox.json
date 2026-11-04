@@ -9923,6 +9923,41 @@
       ],
       "note": "語塊：admission fee（入場費）、free admission（免費入場）、admission to＋地方／學校（進入……；入學）、guarantee admission（保證入場）。admission 有三個意思：①入場（多益最常考）②入學、錄取 ③承認（an admission of guilt 認罪）。動詞 admit（准許進入；承認）。別跟 permission（許可）、commission（佣金）、submission（提交）搞混，字尾一樣。",
       "addedAt": "2026-11-04"
+    },
+    {
+      "id": "20261104-attraction",
+      "word": "attraction",
+      "pos": "名詞",
+      "meaning": "景點；遊樂設施；吸引力",
+      "sentences": [
+        {
+          "en": "For many visitors from Japan, the night market is the most popular tourist attraction in Taipei.",
+          "zh": "對很多日本遊客來說，夜市是台北最受歡迎的觀光景點。"
+        },
+        {
+          "en": "Admission to the water park's newest attraction is eight dollars on top of the regular entrance fee.",
+          "zh": "水上樂園最新設施的入場費是八元，要另外加在一般門票之外。"
+        },
+        {
+          "en": "The giant Ferris wheel has become the main attraction of the riverside park since it opened last summer.",
+          "zh": "巨型摩天輪去年夏天開幕後，就成了河濱公園的主要景點。"
+        },
+        {
+          "en": "Free parking is a major attraction for shoppers who visit the outlet mall on weekends.",
+          "zh": "免費停車對週末來暢貨中心購物的人來說是一大吸引力。"
+        },
+        {
+          "en": "If guests have a free afternoon, the hotel concierge can recommend a local attraction and book tickets for them.",
+          "zh": "如果客人下午有空，飯店禮賓人員可以推薦一個當地景點，並幫他們訂票。"
+        }
+      ],
+      "distractors": [
+        "attention",
+        "attendance",
+        "abstraction"
+      ],
+      "note": "語塊：a tourist attraction（觀光景點）、the main attraction（主要景點；最吸引人的地方）、local attractions（當地景點）、a major attraction（一大吸引力）。attraction 有兩個意思：①景點、遊樂設施（遊樂園裡的設施也叫 attraction）②吸引力。動詞 attract（吸引），形容詞 attractive（有吸引力的）。別跟 attention（注意力）、attendance（出席）搞混。",
+      "addedAt": "2026-11-04"
     }
   ],
   "notes": [
