@@ -9818,6 +9818,41 @@
       ],
       "note": "語塊：incorporate A into B（把 A 納入 B）、incorporate feedback／suggestions（採納意見／建議）、incorporate live music（加入現場音樂）。incorporate 是「把某樣東西加進來、變成整體的一部分」。同義詞：include、integrate。它也可以指「成立公司」，所以公司名後面常看到 Inc.（＝Incorporated，股份有限公司）。別跟 cooperate（合作）、corporate（公司的）搞混。",
       "addedAt": "2026-11-03"
+    },
+    {
+      "id": "20261104-delightful",
+      "word": "delightful",
+      "pos": "形容詞",
+      "meaning": "令人愉快的；討喜的；宜人的",
+      "sentences": [
+        {
+          "en": "Our guests had a delightful evening at the rooftop restaurant, where they enjoyed live music and a beautiful sunset.",
+          "zh": "我們的客人在屋頂餐廳度過了愉快的夜晚，欣賞現場音樂和美麗的夕陽。"
+        },
+        {
+          "en": "The hotel staff were absolutely delightful and helped us plan every day of our trip to Kyoto.",
+          "zh": "飯店員工非常親切討喜，幫我們規劃了京都之旅的每一天。"
+        },
+        {
+          "en": "Thank you for the delightful gift basket, which arrived just in time for our team's holiday party.",
+          "zh": "謝謝你送的令人開心的禮物籃，剛好趕上我們團隊的節日派對。"
+        },
+        {
+          "en": "Visitors will find the small museum a delightful place to spend a quiet afternoon away from the crowds.",
+          "zh": "參觀者會發現這間小博物館是遠離人潮、度過安靜下午的好地方。"
+        },
+        {
+          "en": "The new café serves delightful homemade cakes, so it has quickly become popular with office workers nearby.",
+          "zh": "新咖啡店供應很美味的手工蛋糕，所以很快就受到附近上班族歡迎。"
+        }
+      ],
+      "distractors": [
+        "delighted",
+        "dutiful",
+        "doubtful"
+      ],
+      "note": "語塊：a delightful evening／day（愉快的夜晚／一天）、absolutely delightful（非常令人愉快、討喜）、a delightful place（令人開心的地方）。delightful 形容「事物或人讓人開心」；delighted 是「人感到開心」：I was delighted.（我很高興）。同義詞：lovely、pleasant、charming。反義詞 dreadful（糟透的）。",
+      "addedAt": "2026-11-04"
     }
   ],
   "notes": [
