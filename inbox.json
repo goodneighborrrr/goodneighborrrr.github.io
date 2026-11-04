@@ -9888,6 +9888,41 @@
       ],
       "note": "語塊：on the premises（在場所內；在店內／公司範圍內）、off the premises（在場所外）、throughout the premises（整個場所）、leave the premises（離開場所）。premises 是「建築物連同它的土地、營業場所」，這個意思永遠用複數。單數 premise 是另一個意思「前提、假設」。別跟 promises（承諾）搞混。",
       "addedAt": "2026-11-04"
+    },
+    {
+      "id": "20261104-admission",
+      "word": "admission",
+      "pos": "名詞",
+      "meaning": "入場；入場費；入學許可；承認",
+      "sentences": [
+        {
+          "en": "Admission to the art museum is free for children under twelve and senior citizens on weekdays.",
+          "zh": "平日十二歲以下孩童和年長者可以免費進入美術館。"
+        },
+        {
+          "en": "The admission fee for the trade fair includes a printed guide and a free cup of coffee.",
+          "zh": "商展的入場費包含一本印刷導覽手冊和一杯免費咖啡。"
+        },
+        {
+          "en": "Tickets can be purchased at the door, but advance purchase guarantees admission to the popular evening show.",
+          "zh": "票可以在現場買，但提前購票才能保證進場看熱門的晚場表演。"
+        },
+        {
+          "en": "Applicants must submit two letters of recommendation to be considered for admission to the business program.",
+          "zh": "申請者必須繳交兩封推薦信，才會被考慮錄取這個商業課程。"
+        },
+        {
+          "en": "The manager's admission that the delivery schedule was unrealistic helped the team set a more reasonable deadline.",
+          "zh": "經理承認送貨時程不切實際，幫助團隊訂出更合理的截止日期。"
+        }
+      ],
+      "distractors": [
+        "permission",
+        "commission",
+        "submission"
+      ],
+      "note": "語塊：admission fee（入場費）、free admission（免費入場）、admission to＋地方／學校（進入……；入學）、guarantee admission（保證入場）。admission 有三個意思：①入場（多益最常考）②入學、錄取 ③承認（an admission of guilt 認罪）。動詞 admit（准許進入；承認）。別跟 permission（許可）、commission（佣金）、submission（提交）搞混，字尾一樣。",
+      "addedAt": "2026-11-04"
     }
   ],
   "notes": [
