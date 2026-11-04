@@ -9993,6 +9993,76 @@
       ],
       "note": "語塊：enrollment in＋課程／方案（報名、登記參加……）、the deadline for enrollment（報名截止日）、online enrollment（線上報名）、low／high enrollment（報名人數少／多）、an enrollment form（報名表）。動詞 enroll in（報名、註冊）。英式拼法是 enrolment（一個 l）。和 registration 意思接近，enrollment 常用在課程、學校、保險方案。",
       "addedAt": "2026-11-04"
+    },
+    {
+      "id": "20261104-undisclosed",
+      "word": "undisclosed",
+      "pos": "形容詞",
+      "meaning": "未公開的；不透露的",
+      "sentences": [
+        {
+          "en": "The newsletter was sent to undisclosed recipients, so no one could see the other customers' email addresses.",
+          "zh": "電子報是寄給不公開的收件人，所以沒有人能看到其他顧客的電子郵件地址。"
+        },
+        {
+          "en": "The tech company was sold to a large investment firm last month for an undisclosed amount.",
+          "zh": "這家科技公司上個月以未公開的金額賣給了一家大型投資公司。"
+        },
+        {
+          "en": "The famous singer is staying at an undisclosed location while she prepares for her world tour.",
+          "zh": "這位知名歌手在準備世界巡迴演出期間，住在一個不公開的地點。"
+        },
+        {
+          "en": "Two employees left the company for undisclosed reasons, and the manager refused to answer any questions about it.",
+          "zh": "兩位員工因為不透露的原因離職，經理拒絕回答任何相關問題。"
+        },
+        {
+          "en": "The contract includes an undisclosed bonus that will be paid if the project is finished ahead of schedule.",
+          "zh": "合約裡有一筆未公開的獎金，如果專案提前完成就會支付。"
+        }
+      ],
+      "distractors": [
+        "undisputed",
+        "unexpected",
+        "undecided"
+      ],
+      "note": "語塊：undisclosed recipients（不公開的收件人，密件副本寄出時會看到）、an undisclosed amount／sum（未公開的金額）、an undisclosed location（不公開的地點）、for undisclosed reasons（因為不透露的原因）。un（不）＋disclose（公開、透露）＋ed。動詞 disclose（揭露），名詞 disclosure（揭露、公開）。",
+      "addedAt": "2026-11-04"
+    },
+    {
+      "id": "20261104-recipients",
+      "word": "recipients",
+      "pos": "名詞",
+      "meaning": "收件人；接受者；得獎者",
+      "sentences": [
+        {
+          "en": "The email was sent to undisclosed recipients, so the list of names did not appear at the top of the message.",
+          "zh": "這封信是寄給不公開的收件人，所以收件人名單沒有出現在信件最上面。"
+        },
+        {
+          "en": "All recipients of the company newsletter can unsubscribe at any time by clicking the link at the bottom.",
+          "zh": "公司電子報的所有收件人，隨時都可以點最下面的連結取消訂閱。"
+        },
+        {
+          "en": "This year's award recipients will be honored at a dinner held at the Grand Hotel next Friday.",
+          "zh": "今年的得獎者會在下週五於圓山飯店舉辦的晚宴上受到表揚。"
+        },
+        {
+          "en": "Scholarship recipients must keep good grades and complete twenty hours of volunteer work each semester.",
+          "zh": "獎學金得主每學期必須保持好成績，並完成二十小時的志工服務。"
+        },
+        {
+          "en": "Please double-check the list of recipients before you send the contract to make sure no one is missing.",
+          "zh": "寄出合約前請再確認一次收件人名單，確保沒有漏掉任何人。"
+        }
+      ],
+      "distractors": [
+        "receipts",
+        "receptions",
+        "residents"
+      ],
+      "note": "語塊：undisclosed recipients（不公開的收件人）、award／scholarship recipients（得獎者／獎學金得主）、the list of recipients（收件人名單）、recipients of＋東西（……的接收者）。單數 recipient；動詞 receive（收到）。反義詞 sender（寄件人）。別跟 receipts（收據）、residents（居民）搞混。",
+      "addedAt": "2026-11-04"
     }
   ],
   "notes": [
