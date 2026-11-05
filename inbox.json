@@ -10168,6 +10168,41 @@
       ],
       "note": "語塊：outperform competitors／rivals（勝過競爭對手）、outperform the market（表現超越大盤）、outperform expectations（表現超出預期）。out（超過）＋perform（表現）＝表現得比……好。後面直接接被比較的對象，不用加 than。同義詞：beat、do better than、surpass。相似字：outnumber（數量上超過）、outlast（比……持久）。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-preference",
+      "word": "preference",
+      "pos": "名詞",
+      "meaning": "偏好；喜好；優先權",
+      "sentences": [
+        {
+          "en": "Please indicate your seating preference on the online form when you register for the company's annual dinner next month.",
+          "zh": "報名下個月的公司年度晚宴時，請在線上表單註明你的座位偏好。"
+        },
+        {
+          "en": "According to our latest survey, many customers have a strong preference for products that use eco-friendly packaging.",
+          "zh": "根據我們最新的調查，很多顧客非常偏好使用環保包裝的產品。"
+        },
+        {
+          "en": "The hotel staff asked each guest about their room preference, such as a high floor or a quiet area.",
+          "zh": "飯店員工詢問每位客人對房間的偏好，例如高樓層或安靜的區域。"
+        },
+        {
+          "en": "Applicants who speak both English and Japanese will be given preference for the customer service position.",
+          "zh": "會說英文和日文的應徵者，在客服職位上會被優先考慮。"
+        },
+        {
+          "en": "Our survey shows that younger employees have a clear preference for flexible working hours over a higher salary.",
+          "zh": "我們的調查顯示，年輕員工明顯比較偏好彈性工時，而不是更高的薪水。"
+        }
+      ],
+      "distractors": [
+        "reference",
+        "conference",
+        "presence"
+      ],
+      "note": "語塊：have a preference for（偏好……）、a strong／clear preference（強烈／明顯的偏好）、seating／room preference（座位／房間偏好）、be given preference（被優先考慮）。動詞 prefer A to B（比較喜歡 A 勝過 B）。形容詞 preferred（偏好的；優先的），例如 preferred qualifications（加分條件）。別跟 reference（參考；推薦人）搞混。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
