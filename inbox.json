@@ -10098,6 +10098,41 @@
       ],
       "note": "語塊：skilled tradespeople（有技術的技工）、local tradespeople（本地師傅）、hire tradespeople（請師傅）。tradespeople 是靠手藝技術工作的人，例如 electrician（電工）、plumber（水電工）、carpenter（木工）、welder（焊工）。單數 tradesperson。tradesmen 是舊說法（偏男性），現在常用 tradespeople。別跟 salespeople（業務員）搞混。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-apprentice",
+      "word": "apprentice",
+      "pos": "名詞",
+      "meaning": "學徒；見習生",
+      "sentences": [
+        {
+          "en": "Before opening his own furniture shop, Mr. Lin worked as an apprentice to a master carpenter for three years.",
+          "zh": "林先生開自己的家具店之前，跟著一位木工師傅當了三年學徒。"
+        },
+        {
+          "en": "The electrical company hires one new apprentice every spring and pays him or her while learning on the job.",
+          "zh": "電力公司每年春天招一名新學徒，在學徒邊做邊學的期間付薪水。"
+        },
+        {
+          "en": "Each apprentice is assigned a senior worker who teaches basic safety rules and the correct use of tools.",
+          "zh": "每位學徒都會分配一位資深員工，教他基本安全規定和正確使用工具。"
+        },
+        {
+          "en": "After finishing the two-year program, an apprentice can take an exam to become a licensed plumber.",
+          "zh": "完成兩年的課程後，學徒可以參加考試，成為有執照的水電工。"
+        },
+        {
+          "en": "The bakery is looking for a young apprentice who is willing to start work at five o'clock every morning.",
+          "zh": "麵包店正在找一位願意每天早上五點開始工作的年輕學徒。"
+        }
+      ],
+      "distractors": [
+        "appliance",
+        "apparatus",
+        "applicant"
+      ],
+      "note": "語塊：work as an apprentice（當學徒）、an apprentice to＋師傅（某師傅的學徒）、a young／new apprentice（年輕／新進學徒）。名詞 apprenticeship（學徒期、學徒制度）：complete an apprenticeship（完成學徒訓練）。相對的是 master（師傅）或 senior worker（資深員工）。相近：trainee（受訓人員）、intern（實習生，常指學生）。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
