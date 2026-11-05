@@ -10203,6 +10203,41 @@
       ],
       "note": "語塊：have a preference for（偏好……）、a strong／clear preference（強烈／明顯的偏好）、seating／room preference（座位／房間偏好）、be given preference（被優先考慮）。動詞 prefer A to B（比較喜歡 A 勝過 B）。形容詞 preferred（偏好的；優先的），例如 preferred qualifications（加分條件）。別跟 reference（參考；推薦人）搞混。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-parcel",
+      "word": "parcel",
+      "pos": "名詞",
+      "meaning": "包裹；（一塊）土地",
+      "sentences": [
+        {
+          "en": "If you are not at home, the delivery driver will leave the parcel with the building's security guard.",
+          "zh": "如果你不在家，送貨員會把包裹交給大樓警衛。"
+        },
+        {
+          "en": "Customers can track their parcel online by entering the order number on our shipping website.",
+          "zh": "顧客可以在我們的物流網站輸入訂單編號，在線上追蹤包裹。"
+        },
+        {
+          "en": "Please make sure the parcel is wrapped securely before you send it to our overseas office.",
+          "zh": "把包裹寄到我們海外辦公室之前，請確認包得很牢固。"
+        },
+        {
+          "en": "The receptionist signed for a large parcel that arrived for the marketing department this morning.",
+          "zh": "今天早上櫃台人員幫行銷部簽收了一個大包裹。"
+        },
+        {
+          "en": "The new parcel delivery service promises to deliver all orders within twenty-four hours in major cities.",
+          "zh": "新的包裹配送服務保證在主要城市二十四小時內送達所有訂單。"
+        }
+      ],
+      "distractors": [
+        "particle",
+        "partial",
+        "pastel"
+      ],
+      "note": "語塊：deliver a parcel（送包裹）、track a parcel（追蹤包裹）、sign for a parcel（簽收包裹）、parcel delivery service（包裹配送服務）。parcel 是英式常用說法，美式比較常說 package，意思一樣。另外 a parcel of land 是「一塊土地」。別跟 particle（微粒）搞混。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
