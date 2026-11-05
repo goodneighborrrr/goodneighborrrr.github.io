@@ -10273,6 +10273,146 @@
       ],
       "note": "語塊：faulty wiring（線路故障）、a faulty product／part（有瑕疵的產品／零件）、faulty data（錯誤的資料）。faulty 是「有毛病、有缺陷、運作不正常的」，來自 fault（缺點；過錯）。同義詞：defective（有缺陷的，比較正式）、broken（壞掉的）。和 false（錯誤的、假的）不同：faulty 強調東西「有毛病」。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-cited",
+      "word": "cited",
+      "pos": "動詞",
+      "meaning": "提出（問題、理由）；引用（cite 的過去式／過去分詞）",
+      "sentences": [
+        {
+          "en": "In your email, you cited an issue with the coffee machine's grinder that prevents it from working properly.",
+          "zh": "你在電子郵件中提到咖啡機的研磨器有問題，導致它無法正常運作。"
+        },
+        {
+          "en": "Many employees cited long working hours as the main reason for leaving the company last year.",
+          "zh": "很多員工提到工時太長是他們去年離職的主要原因。"
+        },
+        {
+          "en": "The manager cited rising fuel costs when she explained why delivery fees would increase next month.",
+          "zh": "經理在解釋下個月運費為什麼會調漲時，提到了燃料成本上升。"
+        },
+        {
+          "en": "The final report cited several recent studies showing that short breaks during the day improve employee productivity.",
+          "zh": "最終報告引用了好幾份近期研究，顯示白天短暫休息能提升員工的工作效率。"
+        },
+        {
+          "en": "Customers who cancelled their subscriptions this year most often cited high prices and slow customer service as reasons.",
+          "zh": "今年取消訂閱的顧客，最常提到的原因是價格太高和客服太慢。"
+        }
+      ],
+      "distractors": [
+        "sighted",
+        "seated",
+        "sited"
+      ],
+      "note": "語塊：cite an issue／a problem（提出某個問題）、cite＋原因＋as the reason（提到……是原因）、cite a study（引用研究）。cite 是「（正式地）提到、舉出、引用」，常用在客訴回覆、報告。名詞 citation（引用；（法院的）傳票、罰單）。發音和 sight（看見）、site（地點）一樣，要靠拼法分辨。",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-grinder",
+      "word": "grinder",
+      "pos": "名詞",
+      "meaning": "研磨機；磨豆機",
+      "sentences": [
+        {
+          "en": "You cited an issue with the coffee machine's grinder that prevents you from making fine grounds.",
+          "zh": "你提到咖啡機的磨豆器有問題，讓你無法磨出細的咖啡粉。"
+        },
+        {
+          "en": "Our café uses a professional coffee grinder so that every cup tastes fresh and strong.",
+          "zh": "我們咖啡店使用專業的磨豆機，讓每一杯都喝起來新鮮又濃郁。"
+        },
+        {
+          "en": "If the grinder makes a loud noise, please turn off the machine and contact our customer service team.",
+          "zh": "如果研磨器發出很大的聲音，請關掉機器並聯絡我們的客服團隊。"
+        },
+        {
+          "en": "The warranty covers repairs to the grinder and the water tank for two years after purchase.",
+          "zh": "保固涵蓋購買後兩年內研磨器和水箱的維修。"
+        },
+        {
+          "en": "The kitchen staff clean the meat grinder carefully at the end of every shift to keep it safe to use.",
+          "zh": "廚房員工每班結束時都會仔細清潔絞肉機，確保使用安全。"
+        }
+      ],
+      "distractors": [
+        "grander",
+        "glider",
+        "printer"
+      ],
+      "note": "語塊：a coffee grinder（磨豆機）、an issue with the grinder（研磨器有問題）、a meat grinder（絞肉機）。動詞 grind（磨碎），三態 grind–ground–ground。grind 也有口語意思「辛苦重複的工作」：the daily grind（每天單調辛苦的工作）。",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-grounds",
+      "word": "grounds",
+      "pos": "名詞",
+      "meaning": "（咖啡）渣、粉；場地；理由",
+      "sentences": [
+        {
+          "en": "The coffee machine cannot make fine grounds because there is a problem with its grinder.",
+          "zh": "咖啡機磨不出細的咖啡粉，因為它的研磨器有問題。"
+        },
+        {
+          "en": "Please empty the coffee grounds from the machine at the end of each day to keep it clean.",
+          "zh": "每天結束時請把機器裡的咖啡渣倒掉，保持清潔。"
+        },
+        {
+          "en": "Used coffee grounds can be collected and given to local farmers to use in their gardens.",
+          "zh": "用過的咖啡渣可以收集起來送給當地農民，用在他們的園子裡。"
+        },
+        {
+          "en": "Visitors are not allowed to smoke anywhere on the hotel grounds, including the garden and parking area.",
+          "zh": "訪客不可以在飯店範圍內任何地方吸菸，包括花園和停車區。"
+        },
+        {
+          "en": "The employee was dismissed on the grounds that he had repeatedly shared confidential information with competitors.",
+          "zh": "這名員工被解雇的理由是他多次把機密資訊洩漏給競爭對手。"
+        }
+      ],
+      "distractors": [
+        "grounders",
+        "grouches",
+        "groans"
+      ],
+      "note": "語塊：coffee grounds（咖啡粉、咖啡渣）、fine／coarse grounds（細／粗的咖啡粉）、on the hotel／school grounds（在飯店／學校範圍內）、on the grounds that＋句子（以……為理由）。grounds 有三個意思：①咖啡渣、咖啡粉 ②（建築物周圍的）場地、範圍 ③理由、根據。和 premises（營業場所）意思接近，但 grounds 偏指建築物外面的土地、庭院。",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-cord",
+      "word": "cord",
+      "pos": "名詞",
+      "meaning": "電線；繩子",
+      "sentences": [
+        {
+          "en": "Please unplug the power cord before you clean the coffee machine or replace any of its parts.",
+          "zh": "清潔咖啡機或更換任何零件之前，請先拔掉電源線。"
+        },
+        {
+          "en": "The heater stopped working because the power cord was damaged when someone moved the desk.",
+          "zh": "電暖器不能用了，因為有人搬桌子時壓壞了電源線。"
+        },
+        {
+          "en": "For safety reasons, do not run an extension cord under carpets or across busy hallways.",
+          "zh": "為了安全，不要把延長線放在地毯下面或橫跨人來人往的走廊。"
+        },
+        {
+          "en": "The new vacuum cleaner has a long cord, so you can clean the whole room without changing outlets.",
+          "zh": "新的吸塵器電線很長，所以不用換插座就能把整個房間吸乾淨。"
+        },
+        {
+          "en": "Each laptop comes with a charging cord and a two-year warranty that covers most repairs.",
+          "zh": "每台筆電都附一條充電線，還有涵蓋大部分維修的兩年保固。"
+        }
+      ],
+      "distractors": [
+        "chord",
+        "card",
+        "core"
+      ],
+      "note": "語塊：a power cord（電源線）、an extension cord（延長線）、a charging cord（充電線）、unplug the cord（拔掉電線）。cord 是比較粗的線或繩子；cable 通常指傳輸用的線（網路線、電視線），口語上兩個常混用。cordless 是「無線的」：a cordless vacuum（無線吸塵器）。發音和 chord（和弦）一樣。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
