@@ -10413,6 +10413,41 @@
       ],
       "note": "語塊：a power cord（電源線）、an extension cord（延長線）、a charging cord（充電線）、unplug the cord（拔掉電線）。cord 是比較粗的線或繩子；cable 通常指傳輸用的線（網路線、電視線），口語上兩個常混用。cordless 是「無線的」：a cordless vacuum（無線吸塵器）。發音和 chord（和弦）一樣。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-franchise",
+      "word": "franchise",
+      "pos": "名詞",
+      "meaning": "加盟；加盟店；特許經營權",
+      "sentences": [
+        {
+          "en": "Our company plans to open a new local franchise in Taichung next year to reach more customers.",
+          "zh": "我們公司打算明年在台中開一間新的在地加盟店，接觸更多客戶。"
+        },
+        {
+          "en": "Before you buy a franchise, you should carefully review the contract and understand all the monthly fees involved.",
+          "zh": "在你買下一間加盟店之前，應該仔細看過合約，了解每個月要付的各種費用。"
+        },
+        {
+          "en": "The franchise owner decided to renovate the store after noticing a steady drop in weekend customer traffic.",
+          "zh": "這位加盟店老闆注意到週末來客數持續下滑後，決定重新裝潢店面。"
+        },
+        {
+          "en": "New owners must pay an initial franchise fee before opening their doors to the public.",
+          "zh": "新的加盟主在對外營業前，必須先支付一筆加盟金。"
+        },
+        {
+          "en": "The franchise has grown rapidly since it started offering online ordering and delivery services nationwide.",
+          "zh": "自從開始提供全國線上訂購和外送服務後，這個加盟品牌就快速成長。"
+        }
+      ],
+      "distractors": [
+        "franchisee",
+        "enterprise",
+        "disguise"
+      ],
+      "note": "語塊：buy a franchise（買下一間加盟店）、franchise owner（加盟店老闆／加盟主）、franchise fee（加盟金）。franchise（名詞）＝加盟這個品牌／生意本身；franchisee（名詞）＝加盟主這個「人」。容易搞混：franchise 是制度或店面，franchisee 是簽約經營的那個人。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
