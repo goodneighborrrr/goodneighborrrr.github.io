@@ -10133,6 +10133,41 @@
       ],
       "note": "語塊：work as an apprentice（當學徒）、an apprentice to＋師傅（某師傅的學徒）、a young／new apprentice（年輕／新進學徒）。名詞 apprenticeship（學徒期、學徒制度）：complete an apprenticeship（完成學徒訓練）。相對的是 master（師傅）或 senior worker（資深員工）。相近：trainee（受訓人員）、intern（實習生，常指學生）。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-outperform",
+      "word": "outperform",
+      "pos": "動詞",
+      "meaning": "表現得比……好；勝過；超越",
+      "sentences": [
+        {
+          "en": "Our new smartphone is expected to outperform its competitors in battery life and camera quality.",
+          "zh": "我們的新手機預計在電池續航和相機畫質上會勝過競爭對手。"
+        },
+        {
+          "en": "In recent years, small online shops often outperform large department stores during the holiday shopping season.",
+          "zh": "近年來在假期購物季，小型網路商店常常表現得比大型百貨公司好。"
+        },
+        {
+          "en": "The manager praised the sales team for helping the Taichung branch outperform all the other branches this year.",
+          "zh": "經理稱讚業務團隊，讓台中分公司今年的表現超越其他所有分公司。"
+        },
+        {
+          "en": "Analysts believe the company's shares will continue to outperform the market over the next few months.",
+          "zh": "分析師認為這家公司的股票在接下來幾個月會繼續跑贏大盤。"
+        },
+        {
+          "en": "New employees who receive proper training usually outperform those who are left to learn on their own.",
+          "zh": "有接受適當訓練的新員工，表現通常比讓他們自己摸索的人好。"
+        }
+      ],
+      "distractors": [
+        "outsource",
+        "overflow",
+        "overlook"
+      ],
+      "note": "語塊：outperform competitors／rivals（勝過競爭對手）、outperform the market（表現超越大盤）、outperform expectations（表現超出預期）。out（超過）＋perform（表現）＝表現得比……好。後面直接接被比較的對象，不用加 than。同義詞：beat、do better than、surpass。相似字：outnumber（數量上超過）、outlast（比……持久）。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
