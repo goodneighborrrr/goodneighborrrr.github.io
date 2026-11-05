@@ -10238,6 +10238,41 @@
       ],
       "note": "語塊：deliver a parcel（送包裹）、track a parcel（追蹤包裹）、sign for a parcel（簽收包裹）、parcel delivery service（包裹配送服務）。parcel 是英式常用說法，美式比較常說 package，意思一樣。另外 a parcel of land 是「一塊土地」。別跟 particle（微粒）搞混。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261105-faulty",
+      "word": "faulty",
+      "pos": "形容詞",
+      "meaning": "有瑕疵的；故障的；錯誤的",
+      "sentences": [
+        {
+          "en": "Investigators believe that faulty wiring in the kitchen caused the small fire at the restaurant last night.",
+          "zh": "調查人員認為，餐廳昨晚的小火災是廚房線路故障引起的。"
+        },
+        {
+          "en": "Customers who receive a faulty product can return it within thirty days for a full refund.",
+          "zh": "收到有瑕疵產品的顧客，可以在三十天內退貨並全額退款。"
+        },
+        {
+          "en": "The printer kept jamming because of a faulty part, so the technician replaced it this morning.",
+          "zh": "印表機一直卡紙是因為有個零件壞了，所以技術人員今天早上把它換掉。"
+        },
+        {
+          "en": "The company recalled ten thousand electric heaters last month after discovering that some of them had faulty switches.",
+          "zh": "公司上個月發現部分電暖器的開關有問題後，召回了一萬台。"
+        },
+        {
+          "en": "The report was rejected by the board because it was based on faulty data from an old survey.",
+          "zh": "這份報告被董事會退回，因為它根據的是舊調查的錯誤資料。"
+        }
+      ],
+      "distractors": [
+        "fruitful",
+        "faithful",
+        "fluffy"
+      ],
+      "note": "語塊：faulty wiring（線路故障）、a faulty product／part（有瑕疵的產品／零件）、faulty data（錯誤的資料）。faulty 是「有毛病、有缺陷、運作不正常的」，來自 fault（缺點；過錯）。同義詞：defective（有缺陷的，比較正式）、broken（壞掉的）。和 false（錯誤的、假的）不同：faulty 強調東西「有毛病」。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
