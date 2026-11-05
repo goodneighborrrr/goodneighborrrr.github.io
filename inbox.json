@@ -10063,6 +10063,41 @@
       ],
       "note": "語塊：undisclosed recipients（不公開的收件人）、award／scholarship recipients（得獎者／獎學金得主）、the list of recipients（收件人名單）、recipients of＋東西（……的接收者）。單數 recipient；動詞 receive（收到）。反義詞 sender（寄件人）。別跟 receipts（收據）、residents（居民）搞混。",
       "addedAt": "2026-11-04"
+    },
+    {
+      "id": "20261105-tradespeople",
+      "word": "tradespeople",
+      "pos": "名詞",
+      "meaning": "技工；工匠；（有手藝的）師傅",
+      "sentences": [
+        {
+          "en": "The construction company is hiring skilled tradespeople, such as electricians, plumbers, and carpenters, for its new projects.",
+          "zh": "建設公司正在招募有技術的技工，像是電工、水電工和木工，參與新的工程。"
+        },
+        {
+          "en": "Many young people are training to become tradespeople because these jobs are stable and pay well.",
+          "zh": "很多年輕人正在受訓成為技工，因為這些工作穩定、薪水也不錯。"
+        },
+        {
+          "en": "Local tradespeople will begin repairing the roof and windows of the community center next Monday.",
+          "zh": "本地的師傅下週一會開始修理社區中心的屋頂和窗戶。"
+        },
+        {
+          "en": "The hardware store offers a special discount card for professional tradespeople who buy materials in large amounts.",
+          "zh": "五金行為大量購買材料的專業技工提供特別折扣卡。"
+        },
+        {
+          "en": "Homeowners should always ask tradespeople for a written estimate before any renovation work in the house begins.",
+          "zh": "屋主在任何裝修工作開始前，都應該請師傅提供書面估價。"
+        }
+      ],
+      "distractors": [
+        "laypeople",
+        "townspeople",
+        "spokespeople"
+      ],
+      "note": "語塊：skilled tradespeople（有技術的技工）、local tradespeople（本地師傅）、hire tradespeople（請師傅）。tradespeople 是靠手藝技術工作的人，例如 electrician（電工）、plumber（水電工）、carpenter（木工）、welder（焊工）。單數 tradesperson。tradesmen 是舊說法（偏男性），現在常用 tradespeople。別跟 salespeople（業務員）搞混。",
+      "addedAt": "2026-11-05"
     }
   ],
   "notes": [
