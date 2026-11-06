@@ -10752,8 +10752,8 @@
           "zh": "會員可以透過我們的學習網站，免費使用數百堂線上商業課程。"
         },
         {
-          "en": "For security reasons, only the IT manager can access the customer database from outside the office.",
-          "zh": "為了安全，只有資訊部經理可以從辦公室外登入客戶資料庫。"
+          "en": "For security reasons, only the IT manager has access to the customer database from outside the office.",
+          "zh": "為了安全，只有資訊部經理能從辦公室外存取客戶資料庫。"
         }
       ],
       "distractors": [
