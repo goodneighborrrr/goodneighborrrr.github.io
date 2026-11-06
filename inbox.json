@@ -10763,6 +10763,41 @@
       ],
       "note": "語塊：have access to（可以使用、可以進入）、free access to（免費使用）、give someone access to（讓某人可以使用）、access＋系統／帳號（當動詞，登入、進入）。access 當名詞後面要接 to：access to the gym；當動詞後面直接接東西，不加 to：access your account。和 use 的差別：access 強調「有權利、有辦法進去或使用」。形容詞 accessible（可進入的）。別跟 excess（過量）、assess（評估）搞混。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-mascot",
+      "word": "mascot",
+      "pos": "名詞",
+      "meaning": "吉祥物",
+      "sentences": [
+        {
+          "en": "The company introduced a cute bear as its new mascot to attract more young customers to its stores.",
+          "zh": "公司推出一隻可愛的熊當新吉祥物，吸引更多年輕顧客到店裡。"
+        },
+        {
+          "en": "Children lined up to take photos with the team mascot before the baseball game started.",
+          "zh": "棒球比賽開始前，小朋友排隊和球隊吉祥物拍照。"
+        },
+        {
+          "en": "The city held a design contest to choose an official mascot for next year's international food festival.",
+          "zh": "市政府舉辦設計比賽，為明年的國際美食節選出官方吉祥物。"
+        },
+        {
+          "en": "Our marketing team plans to print the mascot on shopping bags, cups, and other small gifts.",
+          "zh": "我們行銷團隊打算把吉祥物印在購物袋、杯子和其他小禮物上。"
+        },
+        {
+          "en": "Kumamon, the famous mascot of a Japanese city, has helped bring millions of tourists to the region.",
+          "zh": "日本某城市的知名吉祥物熊本熊，幫這個地區帶來了數百萬名觀光客。"
+        }
+      ],
+      "distractors": [
+        "mask",
+        "mattress",
+        "mosquito"
+      ],
+      "note": "語塊：a team mascot（球隊吉祥物）、an official mascot（官方吉祥物）、a company／brand mascot（公司／品牌吉祥物）。mascot 是代表球隊、公司、活動或城市，並帶來好運、吸引注意的角色，常常有人穿著布偶裝出現。台灣例子：各縣市的吉祥物、運動賽事的吉祥物。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
