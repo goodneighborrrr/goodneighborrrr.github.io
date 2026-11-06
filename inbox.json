@@ -10623,6 +10623,41 @@
       ],
       "note": "語塊：the adjacent gardens／room／building（旁邊的花園／房間／大樓）、be adjacent to（緊鄰……、在……旁邊）。adjacent 是「緊鄰的、就在旁邊的」，比 nearby（附近的）更近，通常是貼著或只隔一點點。同義：next to、neighboring。別跟 adequate（足夠的）搞混。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-accommodate",
+      "word": "accommodate",
+      "pos": "動詞",
+      "meaning": "容納；配合、通融；提供住宿",
+      "sentences": [
+        {
+          "en": "The new conference hall can accommodate up to five hundred guests, making it ideal for large business events.",
+          "zh": "新的會議廳最多可以容納五百位來賓，非常適合大型商務活動。"
+        },
+        {
+          "en": "The hotel staff did their best to accommodate our request for a quiet room on a high floor.",
+          "zh": "飯店員工盡力滿足我們想要高樓層安靜房間的要求。"
+        },
+        {
+          "en": "Our restaurant is happy to accommodate guests with food allergies if they tell us in advance.",
+          "zh": "如果客人事先告知，我們餐廳很樂意配合有食物過敏的客人。"
+        },
+        {
+          "en": "The company changed its work schedule to accommodate employees who need to pick up their children from school.",
+          "zh": "公司調整了工作時間，配合需要接小孩放學的員工。"
+        },
+        {
+          "en": "The airline could not accommodate all the passengers on the next flight, so some had to wait until the morning.",
+          "zh": "航空公司沒辦法讓所有乘客都搭下一班飛機，所以有些人得等到早上。"
+        }
+      ],
+      "distractors": [
+        "accumulate",
+        "accompany",
+        "acknowledge"
+      ],
+      "note": "語塊：accommodate up to＋人數（最多容納……人）、accommodate a request（配合、滿足要求）、accommodate guests／employees（配合客人／員工的需要）。accommodate 有兩個意思：①容納（房間、場地裝得下多少人）②配合、通融（滿足別人的需要）。名詞 accommodation（住宿；配合），訂房網站常看到。拼法注意：兩個 c、兩個 m。別跟 accompany（陪同）、accumulate（累積）搞混。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
