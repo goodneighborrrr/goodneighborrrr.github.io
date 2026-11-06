@@ -10448,6 +10448,41 @@
       ],
       "note": "語塊：buy a franchise（買下一間加盟店）、franchise owner（加盟店老闆／加盟主）、franchise fee（加盟金）。franchise（名詞）＝加盟這個品牌／生意本身；franchisee（名詞）＝加盟主這個「人」。容易搞混：franchise 是制度或店面，franchisee 是簽約經營的那個人。",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "20261106-reserve",
+      "word": "reserve",
+      "pos": "名詞",
+      "meaning": "保護區；儲備；（動詞）預訂、保留",
+      "sentences": [
+        {
+          "en": "Visitors to the Blue Mountain Animal Reserve can see deer, eagles, and wild horses in their natural habitat.",
+          "zh": "到藍山動物保護區的遊客，可以看到鹿、老鷹和野馬在牠們的自然棲地生活。"
+        },
+        {
+          "en": "The company organized a volunteer day at the nature reserve to help plant trees along the river.",
+          "zh": "公司在自然保護區辦了一天志工活動，幫忙沿著河岸種樹。"
+        },
+        {
+          "en": "Hunting and fishing are strictly prohibited anywhere inside the wildlife reserve to protect endangered species.",
+          "zh": "為了保護瀕危物種，野生動物保護區內任何地方都嚴格禁止打獵和釣魚。"
+        },
+        {
+          "en": "The government plans to expand the forest reserve by two thousand hectares over the next five years.",
+          "zh": "政府打算在未來五年把森林保護區擴大兩千公頃。"
+        },
+        {
+          "en": "Guided tours of the reserve leave from the visitor center every morning at nine o'clock.",
+          "zh": "保護區的導覽行程每天早上九點從遊客中心出發。"
+        }
+      ],
+      "distractors": [
+        "reverse",
+        "residue",
+        "resume"
+      ],
+      "note": "語塊：a nature reserve（自然保護區）、a wildlife／animal reserve（野生動物保護區）、a forest reserve（森林保護區）。reserve 當名詞是「保護區」，也可以是「儲備」：cash reserves（現金儲備）。當動詞是「預訂；保留」：reserve a table（訂位）、All rights reserved（版權所有）。名詞 reservation（預訂）。同義：preserve（保護區）、sanctuary（庇護所）。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
