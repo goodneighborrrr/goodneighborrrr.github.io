@@ -10654,9 +10654,44 @@
       "distractors": [
         "accumulate",
         "accompany",
-        "acknowledge"
+        "accelerate"
       ],
       "note": "語塊：accommodate up to＋人數（最多容納……人）、accommodate a request（配合、滿足要求）、accommodate guests／employees（配合客人／員工的需要）。accommodate 有兩個意思：①容納（房間、場地裝得下多少人）②配合、通融（滿足別人的需要）。名詞 accommodation（住宿；配合），訂房網站常看到。拼法注意：兩個 c、兩個 m。別跟 accompany（陪同）、accumulate（累積）搞混。",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-gourmet",
+      "word": "gourmet",
+      "pos": "形容詞",
+      "meaning": "（食物）精緻的、高級的；（名詞）美食家",
+      "sentences": [
+        {
+          "en": "The hotel's rooftop restaurant offers a gourmet dinner menu prepared by a famous French chef.",
+          "zh": "飯店的屋頂餐廳提供由知名法國主廚準備的精緻晚餐菜單。"
+        },
+        {
+          "en": "The new supermarket has a gourmet food section that sells imported cheese, olive oil, and chocolate.",
+          "zh": "新超市有一區高級食品，販售進口起司、橄欖油和巧克力。"
+        },
+        {
+          "en": "For the holiday party, the company ordered gourmet sandwiches and desserts from a local bakery.",
+          "zh": "公司為節日派對向本地一家烘焙坊訂了精緻的三明治和甜點。"
+        },
+        {
+          "en": "Several gourmet food trucks will park near the stadium during the music festival this weekend.",
+          "zh": "這週末音樂節期間，好幾台美食餐車會停在體育館附近。"
+        },
+        {
+          "en": "The cooking class teaches beginners how to make simple gourmet meals at home in under thirty minutes.",
+          "zh": "這堂烹飪課教初學者在三十分鐘內在家做出簡單的精緻料理。"
+        }
+      ],
+      "distractors": [
+        "garment",
+        "government",
+        "guardian"
+      ],
+      "note": "語塊：a gourmet dinner／meal（精緻的晚餐／料理）、gourmet food（高級食品、美食）、a gourmet restaurant（高級餐廳）、gourmet coffee（精品咖啡）。gourmet 是法文來的字，t 不發音，念 [ˋgʊrme]。當形容詞是「精緻高級的（食物）」，當名詞是「美食家」。和 culinary（烹飪的）不同：culinary 指「料理這件事」，gourmet 指「高級的食物」。",
       "addedAt": "2026-11-06"
     }
   ],
