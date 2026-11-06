@@ -696,6 +696,7 @@ function disputeAnswer(){
 function next(){ S.i++; render(); window.scrollTo({top:0, behavior:"smooth"}); }
 
 function renderResults(){
+  if (!S.round._cheered){ S.round._cheered = true; cheerRound(); }   // 每做完一回跳出鼓勵
   const right = S.round.filter(q => q.picked === q.correct).length;
   const wrongs = S.round.filter(q => q.picked !== q.correct).map(q => wordById(q.id)).filter(Boolean);
   main.innerHTML = `
@@ -778,6 +779,18 @@ function closeSheet(){
 }
 sheet.addEventListener("click", e => { if (e.target === sheet) closeSheet(); });
 
+function popCard(html, ms = 3000){
+  const el = document.createElement("div");
+  el.className = "yay"; el.setAttribute("role", "status");
+  el.innerHTML = `<div class="card">${html}</div>`;
+  const close = () => { el.remove(); clearTimeout(t); };
+  el.onclick = close;
+  const t = setTimeout(close, ms);
+  document.body.appendChild(el);
+}
+function cheerRound(){
+  popCard(`<div class="big" lang="en" style="font-size:24px">I am proud of my progress.</div><div class="sub" lang="en" style="font-size:22px">I am the best!</div><div class="hearts">💜❤️💜</div>`, 3500);
+}
 function celebrate(word){
   const el = document.createElement("div");
   el.className = "yay"; el.setAttribute("role", "status");
