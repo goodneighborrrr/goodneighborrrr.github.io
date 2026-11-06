@@ -10553,6 +10553,76 @@
       ],
       "note": "語塊：antique furniture（古董家具）、an antique shop／store（古董店）、an antique dealer（古董商）。antique 通常指一百年左右以上、有收藏價值的老東西；也可以當名詞：collect antiques（收藏古董）。和 ancient（古代的，指幾千年前）、vintage（復古的、有年代感的，常用在衣服、紅酒、二手貨）不同。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-stroll",
+      "word": "stroll",
+      "pos": "動詞",
+      "meaning": "散步；悠閒地走",
+      "sentences": [
+        {
+          "en": "After the museum tour, visitors are welcome to stroll through the adjacent gardens and enjoy the flowers.",
+          "zh": "參觀完博物館後，歡迎遊客到旁邊的花園散步、欣賞花朵。"
+        },
+        {
+          "en": "Many office workers stroll along the river during their lunch break when the weather is nice.",
+          "zh": "天氣好的時候，很多上班族會在午休時沿著河邊散步。"
+        },
+        {
+          "en": "Guests can stroll around the night market after dinner, since it is only five minutes from the hotel.",
+          "zh": "客人晚餐後可以去夜市逛逛，因為離飯店只有五分鐘。"
+        },
+        {
+          "en": "Our tour group plans to stroll through the old town tomorrow morning before the crowds of tourists arrive.",
+          "zh": "我們旅行團打算明天早上在大批觀光客到之前，去老城區散步。"
+        },
+        {
+          "en": "The new walking path allows residents to stroll safely from the train station to the park.",
+          "zh": "新的步道讓居民可以安全地從火車站散步到公園。"
+        }
+      ],
+      "distractors": [
+        "stride",
+        "stall",
+        "scroll"
+      ],
+      "note": "語塊：stroll through the gardens（在花園裡散步）、stroll along the river／beach（沿著河邊／海邊散步）、stroll around＋地方（在……四處逛逛）、take a stroll（去散散步，名詞用法）。stroll 是「慢慢地、悠閒地走」，比 walk 更放鬆。相近：wander（漫無目的地走）、hike（健行）。別跟 scroll（滑手機、捲動）搞混。",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-adjacent",
+      "word": "adjacent",
+      "pos": "形容詞",
+      "meaning": "鄰近的；相鄰的；隔壁的",
+      "sentences": [
+        {
+          "en": "After the museum tour, visitors are welcome to relax and stroll through the adjacent gardens until closing time.",
+          "zh": "參觀完博物館後，歡迎遊客到旁邊的花園放鬆散步，直到閉館。"
+        },
+        {
+          "en": "The conference will take place in the hotel ballroom, and lunch will be served in the adjacent room.",
+          "zh": "會議會在飯店宴會廳舉行，午餐則在隔壁的房間供應。"
+        },
+        {
+          "en": "Our new office is adjacent to the train station, so commuting will be much easier for most employees.",
+          "zh": "我們的新辦公室就在火車站旁邊，所以對大部分員工來說通勤會方便很多。"
+        },
+        {
+          "en": "The company bought the adjacent building last year because it needed to expand its warehouse space quickly.",
+          "zh": "公司去年買下隔壁的大樓，因為需要快速擴大倉庫空間。"
+        },
+        {
+          "en": "Guests staying in adjacent rooms can request a connecting door when they book their stay online.",
+          "zh": "住在相鄰房間的客人，線上訂房時可以要求有連通門。"
+        }
+      ],
+      "distractors": [
+        "adequate",
+        "adjustable",
+        "absent"
+      ],
+      "note": "語塊：the adjacent gardens／room／building（旁邊的花園／房間／大樓）、be adjacent to（緊鄰……、在……旁邊）。adjacent 是「緊鄰的、就在旁邊的」，比 nearby（附近的）更近，通常是貼著或只隔一點點。同義：next to、neighboring。別跟 adequate（足夠的）搞混。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
