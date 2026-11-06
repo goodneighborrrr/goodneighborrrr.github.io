@@ -10728,6 +10728,41 @@
       ],
       "note": "語塊：process a rental（辦理租借）、process a refund／payment（辦理退款／付款）、process an order（處理訂單）、process an application（審理申請）。process 當動詞是「照流程辦理、處理（手續）」，比 do 或 handle 更有「跑流程」的感覺；當名詞是「過程、流程」：the application process（申請流程）。別跟 proceed（繼續進行）搞混：proceed to the gate（前往登機口）。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-access",
+      "word": "access",
+      "pos": "名詞",
+      "meaning": "使用權；進入；（動詞）進入、登入",
+      "sentences": [
+        {
+          "en": "Family members enjoy free parking and discounted meals, not to mention access to our large indoor playground.",
+          "zh": "家庭會員享有免費停車和餐點折扣，更不用說還能使用我們的大型室內遊樂場。"
+        },
+        {
+          "en": "All hotel guests have access to the fitness center and swimming pool from six in the morning until ten at night.",
+          "zh": "所有房客從早上六點到晚上十點都可以使用健身中心和游泳池。"
+        },
+        {
+          "en": "New employees will receive a card that gives them access to the office building on weekends.",
+          "zh": "新員工會拿到一張卡，週末也能進入辦公大樓。"
+        },
+        {
+          "en": "Members can get free access to hundreds of online business courses through our learning website.",
+          "zh": "會員可以透過我們的學習網站，免費使用數百堂線上商業課程。"
+        },
+        {
+          "en": "For security reasons, only the IT manager can access the customer database from outside the office.",
+          "zh": "為了安全，只有資訊部經理可以從辦公室外登入客戶資料庫。"
+        }
+      ],
+      "distractors": [
+        "excess",
+        "assess",
+        "process"
+      ],
+      "note": "語塊：have access to（可以使用、可以進入）、free access to（免費使用）、give someone access to（讓某人可以使用）、access＋系統／帳號（當動詞，登入、進入）。access 當名詞後面要接 to：access to the gym；當動詞後面直接接東西，不加 to：access your account。和 use 的差別：access 強調「有權利、有辦法進去或使用」。形容詞 accessible（可進入的）。別跟 excess（過量）、assess（評估）搞混。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
