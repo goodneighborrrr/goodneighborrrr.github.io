@@ -10483,6 +10483,76 @@
       ],
       "note": "語塊：a nature reserve（自然保護區）、a wildlife／animal reserve（野生動物保護區）、a forest reserve（森林保護區）。reserve 當名詞是「保護區」，也可以是「儲備」：cash reserves（現金儲備）。當動詞是「預訂；保留」：reserve a table（訂位）、All rights reserved（版權所有）。名詞 reservation（預訂）。同義：preserve（保護區）、sanctuary（庇護所）。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-colonial",
+      "word": "colonial",
+      "pos": "形容詞",
+      "meaning": "殖民的；殖民時期的",
+      "sentences": [
+        {
+          "en": "The hotel is located in a beautiful colonial building that was built more than a hundred years ago.",
+          "zh": "這間飯店位在一棟一百多年前蓋的美麗殖民時期建築裡。"
+        },
+        {
+          "en": "Tourists can join a walking tour of the old town to learn about its colonial history.",
+          "zh": "遊客可以參加老城區的步行導覽，了解它的殖民歷史。"
+        },
+        {
+          "en": "Many restaurants in the area serve dishes that mix local flavors with recipes from the colonial period.",
+          "zh": "這一帶很多餐廳的菜色，融合了當地口味和殖民時期的食譜。"
+        },
+        {
+          "en": "The city government spent three years and millions of dollars restoring the colonial architecture along the waterfront.",
+          "zh": "市政府花了三年和數百萬元，修復濱水區一帶的殖民時期建築。"
+        },
+        {
+          "en": "The museum's new exhibition shows furniture and clothing from the colonial era in Southeast Asia.",
+          "zh": "博物館的新展覽展出東南亞殖民時代的家具和服飾。"
+        }
+      ],
+      "distractors": [
+        "colossal",
+        "cordial",
+        "communal"
+      ],
+      "note": "語塊：a colonial building（殖民時期建築）、colonial architecture（殖民風格建築）、colonial history（殖民歷史）、the colonial period／era（殖民時期）。colonial 是「殖民的、殖民時期的」，來自 colony（殖民地）。台灣常見的例子：淡水紅毛城、台南安平古堡附近的老建築。別跟 colossal（巨大的）搞混。",
+      "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-antique",
+      "word": "antique",
+      "pos": "形容詞",
+      "meaning": "古董的；古老而珍貴的；（名詞）古董",
+      "sentences": [
+        {
+          "en": "The hotel lobby is decorated with antique furniture that the owner collected from Europe over many years.",
+          "zh": "飯店大廳擺著老闆多年來從歐洲收集的古董家具。"
+        },
+        {
+          "en": "Visitors can find old maps, coins, and clocks at the antique shop near the colonial church.",
+          "zh": "遊客可以在殖民時期教堂附近的古董店找到舊地圖、錢幣和時鐘。"
+        },
+        {
+          "en": "An antique dealer offered to buy the old wooden desk for much more than the family expected.",
+          "zh": "一位古董商出價要買那張老木桌，價錢比那家人預期的高很多。"
+        },
+        {
+          "en": "The museum will hold a special exhibition of antique jewelry from the nineteenth century next spring.",
+          "zh": "博物館明年春天會舉辦十九世紀古董珠寶特展。"
+        },
+        {
+          "en": "Please handle the antique vase carefully, because it is very fragile and cannot be replaced.",
+          "zh": "請小心拿那個古董花瓶，因為它非常易碎，而且無法取代。"
+        }
+      ],
+      "distractors": [
+        "antisocial",
+        "annual",
+        "acute"
+      ],
+      "note": "語塊：antique furniture（古董家具）、an antique shop／store（古董店）、an antique dealer（古董商）。antique 通常指一百年左右以上、有收藏價值的老東西；也可以當名詞：collect antiques（收藏古董）。和 ancient（古代的，指幾千年前）、vintage（復古的、有年代感的，常用在衣服、紅酒、二手貨）不同。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
