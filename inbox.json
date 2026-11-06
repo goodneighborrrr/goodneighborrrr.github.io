@@ -10693,6 +10693,41 @@
       ],
       "note": "語塊：a gourmet dinner／meal（精緻的晚餐／料理）、gourmet food（高級食品、美食）、a gourmet restaurant（高級餐廳）、gourmet coffee（精品咖啡）。gourmet 是法文來的字，t 不發音，念 [ˋgʊrme]。當形容詞是「精緻高級的（食物）」，當名詞是「美食家」。和 culinary（烹飪的）不同：culinary 指「料理這件事」，gourmet 指「高級的食物」。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261106-process",
+      "word": "process",
+      "pos": "動詞",
+      "meaning": "辦理；處理（手續、訂單等）；（名詞）過程、流程",
+      "sentences": [
+        {
+          "en": "After you create an account on our website, you can then process a rental directly without calling the office.",
+          "zh": "在我們網站建立帳號後，你就可以直接辦理租借，不用打電話到辦公室。"
+        },
+        {
+          "en": "Our customer service team usually needs three to five business days to process a refund.",
+          "zh": "我們的客服團隊通常需要三到五個工作天來辦理退款。"
+        },
+        {
+          "en": "The warehouse hired ten extra workers to process the large number of online orders during the holiday season.",
+          "zh": "倉庫多請了十位員工，處理假期期間大量的網路訂單。"
+        },
+        {
+          "en": "The bank will process your loan application and contact you by email within one week.",
+          "zh": "銀行會審理你的貸款申請，並在一週內用電子郵件聯絡你。"
+        },
+        {
+          "en": "Please wait while the system tries to process your payment, and do not close this page.",
+          "zh": "系統正在處理你的付款，請稍候，不要關閉這個頁面。"
+        }
+      ],
+      "distractors": [
+        "proceed",
+        "protest",
+        "produce"
+      ],
+      "note": "語塊：process a rental（辦理租借）、process a refund／payment（辦理退款／付款）、process an order（處理訂單）、process an application（審理申請）。process 當動詞是「照流程辦理、處理（手續）」，比 do 或 handle 更有「跑流程」的感覺；當名詞是「過程、流程」：the application process（申請流程）。別跟 proceed（繼續進行）搞混：proceed to the gate（前往登機口）。",
+      "addedAt": "2026-11-06"
     }
   ],
   "notes": [
