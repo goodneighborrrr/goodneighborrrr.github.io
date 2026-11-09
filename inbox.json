@@ -42438,6 +42438,706 @@
       ],
       "note": "語塊：can afford to（負擔得起做……）、cannot afford（負擔不起）。afford 常和 can / cannot 連用；affordable 是形容詞「負擔得起的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-business-trip",
+      "word": "business trip",
+      "pos": "名詞",
+      "meaning": "出差",
+      "sentences": [
+        {
+          "en": "Mr. Kim will go on a business trip to Singapore next week to meet with several new clients.",
+          "zh": "金先生下週會去新加坡出差，和幾位新客戶見面。"
+        },
+        {
+          "en": "Ms. Lee is on a business trip this week, so please send any urgent questions to her assistant.",
+          "zh": "李小姐這週在出差，所以有任何緊急問題請寄給她的助理。"
+        },
+        {
+          "en": "The company will pay for your hotel and meals while you are on a business trip abroad.",
+          "zh": "你在國外出差期間，公司會負擔飯店和餐費。"
+        },
+        {
+          "en": "Please keep all of your receipts from the business trip so that you can request reimbursement.",
+          "zh": "請保留出差的所有收據，以便申請報銷。"
+        },
+        {
+          "en": "The manager had to cancel her business trip to London because of the strike at the airport.",
+          "zh": "因為機場罷工，經理只好取消她去倫敦的出差。"
+        }
+      ],
+      "distractors": [
+        "business card",
+        "business day",
+        "field trip"
+      ],
+      "note": "語塊：go on a business trip（去出差）、be on a business trip（出差中）。business trip 是「因公出差」；vacation 是「度假」；travel 是「旅行」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-manage",
+      "word": "manage",
+      "pos": "動詞",
+      "meaning": "管理；設法做到",
+      "sentences": [
+        {
+          "en": "Ms. Park was hired to manage a team of ten engineers at the new research center in Seoul.",
+          "zh": "朴小姐受聘管理首爾新研究中心的一個十人工程師團隊。"
+        },
+        {
+          "en": "Despite the heavy snow, the delivery driver hopes to manage to deliver all of the packages on time today.",
+          "zh": "儘管下大雪，送貨司機希望今天還是能設法準時送完所有包裹。"
+        },
+        {
+          "en": "The workshop teaches employees how to manage time more effectively when they have many tasks.",
+          "zh": "工作坊教員工在工作很多時如何更有效地管理時間。"
+        },
+        {
+          "en": "It is not easy to manage a restaurant, especially when several staff members are absent at once.",
+          "zh": "經營一家餐廳不容易，尤其是好幾位員工同時缺勤的時候。"
+        },
+        {
+          "en": "The new software will help us manage our customers' orders and track every delivery to their homes.",
+          "zh": "新軟體將幫助我們管理顧客的訂單並追蹤每一筆配送。"
+        }
+      ],
+      "distractors": [
+        "manager",
+        "manual",
+        "manipulate"
+      ],
+      "note": "語塊：manage a team（管理團隊）、manage to（設法做到）、manage time（管理時間）。manage 可以是「管理」，也可以是 manage to do「設法做成」；management 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-promotional",
+      "word": "promotional",
+      "pos": "形容詞",
+      "meaning": "促銷的；宣傳的",
+      "sentences": [
+        {
+          "en": "The marketing team prepared promotional materials, such as posters and brochures, for the trade show.",
+          "zh": "行銷團隊為商展準備了海報和小冊子等宣傳資料。"
+        },
+        {
+          "en": "Customers who sign up this month can take advantage of a special promotional offer of twenty percent off.",
+          "zh": "這個月註冊的顧客可以享有八折的特別促銷優惠。"
+        },
+        {
+          "en": "The store will hold a promotional event on Saturday, where customers can try the new coffee for free.",
+          "zh": "那家店週六會舉辦宣傳活動，顧客可以免費試喝新咖啡。"
+        },
+        {
+          "en": "The company spent a large amount of money on promotional videos for its new line of sports shoes.",
+          "zh": "公司在新系列運動鞋的宣傳影片上花了大筆錢。"
+        },
+        {
+          "en": "Please send the promotional materials to every store before the start of the holiday sale.",
+          "zh": "請在節慶特賣開始前，把宣傳資料寄到每家門市。"
+        }
+      ],
+      "distractors": [
+        "professional",
+        "proportional",
+        "provisional"
+      ],
+      "note": "語塊：promotional materials（宣傳資料）、promotional offer（促銷優惠）、promotional event（宣傳活動）。promotional 是形容詞；promotion 是名詞「促銷；升遷」；promote 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-popular-with",
+      "word": "popular with",
+      "pos": "其他",
+      "meaning": "受……歡迎",
+      "sentences": [
+        {
+          "en": "The new café near the university has become very popular with students because of its low prices.",
+          "zh": "大學附近的新咖啡廳因為價格便宜，很受學生歡迎。"
+        },
+        {
+          "en": "The beach resort is popular with families who want a quiet vacation away from the busy city.",
+          "zh": "那個海灘度假村很受想遠離喧囂城市、安靜度假的家庭歡迎。"
+        },
+        {
+          "en": "Our new app has been popular with older customers because it is very simple to use.",
+          "zh": "我們的新 App 很受年長顧客歡迎，因為它非常容易使用。"
+        },
+        {
+          "en": "The night market is popular with tourists, especially those who want to try traditional food.",
+          "zh": "夜市很受觀光客歡迎，尤其是想嚐傳統食物的人。"
+        },
+        {
+          "en": "The manager is popular with her team because she always listens to their ideas and concerns.",
+          "zh": "那位經理很受團隊歡迎，因為她總是聆聽大家的想法和擔憂。"
+        }
+      ],
+      "distractors": [
+        "famous for",
+        "familiar with",
+        "pleased with"
+      ],
+      "note": "語塊：be popular with（受……歡迎）。be popular with + 人（受某群人歡迎）；be popular among 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-realize",
+      "word": "realize",
+      "pos": "動詞",
+      "meaning": "了解到；實現",
+      "sentences": [
+        {
+          "en": "I did not realize that the meeting had been moved to Thursday until I received your email.",
+          "zh": "直到收到你的郵件，我才發現會議改到週四了。"
+        },
+        {
+          "en": "After many years of hard work, Ms. Lee was able to realize her dream of opening her own restaurant.",
+          "zh": "經過多年努力，李小姐終於實現了開自己餐廳的夢想。"
+        },
+        {
+          "en": "Many people do not realize how much energy they can save by turning off lights when they leave a room.",
+          "zh": "很多人沒意識到離開房間時關燈能省多少電。"
+        },
+        {
+          "en": "The company hopes to realize its goal of becoming the market leader in electric bicycles.",
+          "zh": "公司希望實現成為電動自行車市場領導者的目標。"
+        },
+        {
+          "en": "When the manager began to realize that sales were falling, she decided to change the strategy.",
+          "zh": "經理開始意識到銷售在下滑時，決定改變策略。"
+        }
+      ],
+      "distractors": [
+        "realist",
+        "reduce",
+        "release"
+      ],
+      "note": "語塊：realize that（意識到……）、realize a goal（實現目標）、realize a dream（實現夢想）。realize 可以是「意識到」或「實現（目標）」；realization 是名詞；英式拼法 realise。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-detail",
+      "word": "detail",
+      "pos": "名詞",
+      "meaning": "細節",
+      "sentences": [
+        {
+          "en": "The manager explained the new procedure in detail so that everyone understood what to do.",
+          "zh": "經理詳細說明了新程序，讓每個人都知道該怎麼做。"
+        },
+        {
+          "en": "We are looking for someone who pays attention to detail and can check financial reports carefully.",
+          "zh": "我們在找一位注重細節、能仔細檢查財務報告的人。"
+        },
+        {
+          "en": "Please contact our office if you would like to discuss the project in detail before signing the contract.",
+          "zh": "如果你想在簽約前詳細討論專案，請聯絡我們的辦公室。"
+        },
+        {
+          "en": "Every detail of the wedding was planned carefully, from the flowers on the tables to the music.",
+          "zh": "婚禮的每一個細節都經過仔細規劃，從花到音樂都是。"
+        },
+        {
+          "en": "The designer's attention to detail is the reason why her work is so popular with clients.",
+          "zh": "那位設計師對細節的注重是她的作品這麼受客戶歡迎的原因。"
+        }
+      ],
+      "distractors": [
+        "retail",
+        "derail",
+        "detain"
+      ],
+      "note": "語塊：in detail（詳細地）、details of（……的細節）、pay attention to detail（注重細節）。detail 是「細節」；detailed 是形容詞「詳細的」；details 常用複數。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consensus",
+      "word": "consensus",
+      "pos": "名詞",
+      "meaning": "共識",
+      "sentences": [
+        {
+          "en": "After two hours of discussion, the committee was able to reach a consensus on the new budget.",
+          "zh": "經過兩小時的討論，委員會對新預算達成了共識。"
+        },
+        {
+          "en": "The general consensus among experts is that electric cars will become cheaper over the next ten years.",
+          "zh": "專家之間的普遍共識是電動車在未來十年會變得更便宜。"
+        },
+        {
+          "en": "It was difficult to reach a consensus because each department wanted to spend more money.",
+          "zh": "很難達成共識，因為每個部門都想花更多錢。"
+        },
+        {
+          "en": "There is a general consensus that the new office is much better than the old one.",
+          "zh": "大家普遍認為新辦公室比舊的好很多。"
+        },
+        {
+          "en": "The manager hopes the team will reach a consensus about the design before the client meeting.",
+          "zh": "經理希望團隊在和客戶開會之前對設計達成共識。"
+        }
+      ],
+      "distractors": [
+        "census",
+        "consent",
+        "conscience"
+      ],
+      "note": "語塊：reach a consensus（達成共識）、general consensus（普遍共識）。consensus 是「大家都同意的意見」；agreement 意思接近；census 是「人口普查」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-forgo",
+      "word": "forgo",
+      "pos": "動詞",
+      "meaning": "放棄；放棄享受",
+      "sentences": [
+        {
+          "en": "Many employees agreed to forgo a bonus this year so that the company would not have to lay off staff.",
+          "zh": "很多員工同意今年放棄獎金，讓公司不用裁員。"
+        },
+        {
+          "en": "Ms. Lee decided to forgo the opportunity to work abroad because she wanted to stay near her family.",
+          "zh": "李小姐決定放棄出國工作的機會，因為她想留在家人身邊。"
+        },
+        {
+          "en": "Travelers who forgo the hotel breakfast can receive a discount of fifteen dollars per night.",
+          "zh": "不吃飯店早餐的旅客每晚可以獲得十五美元的折扣。"
+        },
+        {
+          "en": "The company chose to forgo a large advertising campaign and spend the money on training instead.",
+          "zh": "公司選擇放棄大型廣告活動，改把錢花在訓練上。"
+        },
+        {
+          "en": "Some customers are willing to forgo free delivery if they can receive their orders more quickly.",
+          "zh": "有些顧客如果能更快收到訂單，願意放棄免運費。"
+        }
+      ],
+      "distractors": [
+        "forget",
+        "forge",
+        "forward"
+      ],
+      "note": "語塊：forgo a bonus（放棄獎金）、forgo the opportunity（放棄機會）、forgo free delivery（放棄免運）、forgo the hotel breakfast（不吃飯店早餐）。forgo 是「主動不要、放棄」；give up 意思接近；forego 是另一種拼法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expand",
+      "word": "expand",
+      "pos": "動詞",
+      "meaning": "擴大；擴展",
+      "sentences": [
+        {
+          "en": "The company plans to expand into South America by opening ten new stores over the next three years.",
+          "zh": "公司計畫在未來三年開十家新店，拓展到南美市場。"
+        },
+        {
+          "en": "The owners want to expand the business by adding a second restaurant in the city center.",
+          "zh": "老闆們想在市中心開第二家餐廳，擴大事業。"
+        },
+        {
+          "en": "The store will expand the range of products it sells by adding furniture and home decorations.",
+          "zh": "那家店會增加家具和居家裝飾，擴大販售產品的範圍。"
+        },
+        {
+          "en": "The airport will expand its terminal so that it can handle more passengers during the holiday season.",
+          "zh": "機場將擴建航廈，讓它在節慶期間能處理更多旅客。"
+        },
+        {
+          "en": "The university hopes to expand its research program by hiring twenty new professors next year.",
+          "zh": "那所大學希望明年聘用二十位新教授，擴大研究計畫。"
+        }
+      ],
+      "distractors": [
+        "expend",
+        "extend",
+        "expound"
+      ],
+      "note": "語塊：expand into（拓展到……）、expand the business（擴大事業）、expand the range of（擴大……的範圍）。expand 是「變大、擴大」；expansion 是名詞；extend 是「延長」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-differentiate",
+      "word": "differentiate",
+      "pos": "動詞",
+      "meaning": "區分；使有差異",
+      "sentences": [
+        {
+          "en": "The company uses bright colors in its packaging to differentiate its products from those of competitors.",
+          "zh": "公司在包裝上使用鮮豔的顏色，讓產品和競爭對手的做出區隔。"
+        },
+        {
+          "en": "It can be difficult for customers to differentiate between the two models because they look so similar.",
+          "zh": "顧客可能很難分辨這兩款機型，因為它們看起來很像。"
+        },
+        {
+          "en": "Good customer service is one way that small shops can differentiate themselves from large chains.",
+          "zh": "好的客服是小店和大型連鎖店做出區隔的方法之一。"
+        },
+        {
+          "en": "The training teaches staff how to differentiate between serious complaints and simple questions from customers.",
+          "zh": "訓練教員工如何區分嚴重的投訴和簡單的問題。"
+        },
+        {
+          "en": "To differentiate our hotel from others in the area, we offer free bicycles and cooking classes.",
+          "zh": "為了和這一帶其他飯店做出區隔，我們提供免費腳踏車和烹飪課。"
+        }
+      ],
+      "distractors": [
+        "different",
+        "deteriorate",
+        "deviate"
+      ],
+      "note": "語塊：differentiate between（區分……）、differentiate from（和……區隔）。differentiate 是「分辨不同」或「做出差異」；distinguish 意思接近；difference 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-malfunctioning",
+      "word": "malfunctioning",
+      "pos": "形容詞",
+      "meaning": "故障的；運作不正常的",
+      "sentences": [
+        {
+          "en": "Please report any malfunctioning equipment in the gym to the front desk so that it can be repaired.",
+          "zh": "健身房裡有任何故障的設備，請通報櫃台以便維修。"
+        },
+        {
+          "en": "The delay was caused by a malfunctioning machine on the production line, which was fixed in an hour.",
+          "zh": "延誤是生產線上一台故障的機器造成的，一小時內就修好了。"
+        },
+        {
+          "en": "The technician replaced the malfunctioning part, and the office printer is now working perfectly again.",
+          "zh": "技師更換了故障的零件，印表機現在又運作得很好了。"
+        },
+        {
+          "en": "A malfunctioning elevator in the building caused many employees to arrive late for the meeting.",
+          "zh": "大樓裡一台故障的電梯讓很多員工開會遲到。"
+        },
+        {
+          "en": "Customers who receive a malfunctioning product can return it for a full refund within thirty days.",
+          "zh": "收到故障產品的顧客可以在三十天內退貨並全額退款。"
+        }
+      ],
+      "distractors": [
+        "functioning",
+        "malnourished",
+        "manufacturing"
+      ],
+      "note": "語塊：malfunctioning equipment（故障的設備）、a malfunctioning machine（故障的機器）、the malfunctioning part（故障的零件）、a malfunctioning product（故障的產品）、malfunctioning elevator（故障的電梯）。malfunctioning 是「運作出問題的」；malfunction 可以當名詞或動詞「故障」；broken 是「壞掉的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-board",
+      "word": "board",
+      "pos": "動詞",
+      "meaning": "登上（交通工具）",
+      "sentences": [
+        {
+          "en": "Passengers may board the plane thirty minutes before the departure time shown on their tickets.",
+          "zh": "乘客可以在機票上標示的出發時間前三十分鐘登機。"
+        },
+        {
+          "en": "Please have your boarding pass and passport ready when you go to the gate to board the plane.",
+          "zh": "到登機門登機時，請準備好你的登機證和護照。"
+        },
+        {
+          "en": "Travelers must board the train at least five minutes before it leaves, as the doors close automatically.",
+          "zh": "旅客必須在火車開動前至少五分鐘上車，因為車門會自動關閉。"
+        },
+        {
+          "en": "Passengers with young children will be invited to board first so that they have time to find their seats.",
+          "zh": "帶著幼童的乘客會先被請上機，讓他們有時間找座位。"
+        },
+        {
+          "en": "The ship will board passengers at the port from ten o'clock until noon on Saturday morning.",
+          "zh": "那艘船週六上午十點到中午會在港口讓乘客登船。"
+        }
+      ],
+      "distractors": [
+        "broad",
+        "bored",
+        "abroad"
+      ],
+      "note": "語塊：board a plane（登機）、board a train（上火車）、boarding pass（登機證）。board 當動詞是「上（飛機、船、車）」；當名詞是「董事會；板子」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-arrange",
+      "word": "arrange",
+      "pos": "動詞",
+      "meaning": "安排；整理",
+      "sentences": [
+        {
+          "en": "Could you arrange a meeting with the clients for next Tuesday afternoon at their office?",
+          "zh": "你可以安排下週二下午在客戶辦公室和他們開會嗎？"
+        },
+        {
+          "en": "The hotel can arrange transportation from the airport if you send us your flight details in advance.",
+          "zh": "如果你事先寄航班資料給我們，飯店可以安排機場接送。"
+        },
+        {
+          "en": "The company will arrange for a technician to visit your home and install the new air conditioner.",
+          "zh": "公司會安排技師到你家安裝新冷氣。"
+        },
+        {
+          "en": "Please arrange the chairs in rows before the presentation begins in the large conference room.",
+          "zh": "簡報在會議室開始前，請把椅子排成一排一排。"
+        },
+        {
+          "en": "The travel agency can arrange a tour of the old city that includes lunch at a traditional restaurant.",
+          "zh": "旅行社可以安排一趟包含傳統餐廳午餐的老城區導覽。"
+        }
+      ],
+      "distractors": [
+        "arrest",
+        "derange",
+        "range"
+      ],
+      "note": "語塊：arrange a meeting（安排會議）、arrange for（安排……）、arrange transportation（安排交通）。arrange 是「事先安排」；arrangement 是名詞；organize 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-seek",
+      "word": "seek",
+      "pos": "動詞",
+      "meaning": "尋求；尋找",
+      "sentences": [
+        {
+          "en": "Employees who are having problems at work should seek advice from their manager or human resources.",
+          "zh": "工作上遇到問題的員工應該向經理或人資部尋求建議。"
+        },
+        {
+          "en": "Many graduates seek employment in large cities because there are many more job opportunities there.",
+          "zh": "很多畢業生到大城市求職，因為那裡機會比較多。"
+        },
+        {
+          "en": "If you feel stressed or tired for a long time, it is important to seek help from a doctor.",
+          "zh": "如果你長時間感到壓力大或疲倦，尋求醫生的協助很重要。"
+        },
+        {
+          "en": "The company will seek help from investors who can help it build a new factory in Southeast Asia.",
+          "zh": "公司將向能幫助它在東南亞建新工廠的投資人尋求協助。"
+        },
+        {
+          "en": "Small business owners can seek advice from experts at the city's business center for free.",
+          "zh": "小企業老闆可以在市政府的商業中心免費向專家尋求建議。"
+        }
+      ],
+      "distractors": [
+        "seem",
+        "sake",
+        "soak"
+      ],
+      "note": "語塊：seek advice（尋求建議）、seek employment（求職）、seek help（尋求協助）。seek 比 look for 正式；過去式和過去分詞是 sought。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-understanding",
+      "word": "understanding",
+      "pos": "名詞",
+      "meaning": "理解；諒解；共識",
+      "sentences": [
+        {
+          "en": "Thank you for your understanding while we repair the elevators in the building this weekend.",
+          "zh": "這個週末我們維修大樓電梯期間，感謝您的諒解。"
+        },
+        {
+          "en": "Applicants should have a good understanding of accounting software and basic tax rules for small businesses.",
+          "zh": "應徵者應對會計軟體和基本稅務規定有很好的了解。"
+        },
+        {
+          "en": "The two companies reached an understanding about the price after several weeks of long discussion.",
+          "zh": "經過幾週的討論，兩家公司對價格達成了協議。"
+        },
+        {
+          "en": "The training program is designed to give new employees a better understanding of our products.",
+          "zh": "訓練計畫的目的是讓新員工更了解我們的產品。"
+        },
+        {
+          "en": "We apologize for the delay and thank you for your understanding during this busy period.",
+          "zh": "我們為延誤致歉，並感謝您在這段忙碌期間的諒解。"
+        }
+      ],
+      "distractors": [
+        "undertaking",
+        "underlining",
+        "understating"
+      ],
+      "note": "語塊：thank you for your understanding（感謝您的諒解）、a good understanding of（對……有很好的了解）、reach an understanding（達成協議）。understanding 是名詞「理解」，也可以當形容詞「體諒的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-substance",
+      "word": "substance",
+      "pos": "名詞",
+      "meaning": "物質；實質內容",
+      "sentences": [
+        {
+          "en": "Workers must wear gloves when they handle any harmful substance in the laboratory or the factory.",
+          "zh": "工作人員在實驗室處理任何有害物質時都必須戴手套。"
+        },
+        {
+          "en": "The factory was fined for allowing a chemical substance to flow into the river near the town.",
+          "zh": "那座工廠因為讓一種化學物質流進鎮上附近的河川而被罰款。"
+        },
+        {
+          "en": "The report was long, but it seemed to lack substance and did not offer any new ideas.",
+          "zh": "那份報告很長，但似乎缺乏實質內容，也沒有提出任何新想法。"
+        },
+        {
+          "en": "Please store every chemical substance in the locked cabinet and label it clearly with its name.",
+          "zh": "請把每一種化學物質存放在上鎖的櫃子裡，並清楚標上名稱。"
+        },
+        {
+          "en": "Scientists found a harmful substance in the water, so residents were told not to drink it.",
+          "zh": "科學家在水中發現一種有害物質，所以居民被告知不要飲用。"
+        }
+      ],
+      "distractors": [
+        "substitute",
+        "subsidy",
+        "sustenance"
+      ],
+      "note": "語塊：harmful substance（有害物質）、chemical substance（化學物質）、lack substance（缺乏實質內容）。substance 可以是「物質」或「內容的實質」；substantial 是形容詞「大量的；實質的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-substantial",
+      "word": "substantial",
+      "pos": "形容詞",
+      "meaning": "大量的；可觀的；實質的",
+      "sentences": [
+        {
+          "en": "The company reported a substantial increase in profits after it began selling its products online.",
+          "zh": "公司開始在網路上販售產品後，獲利大幅增加。"
+        },
+        {
+          "en": "The new factory will require a substantial amount of money, so the company will borrow from the bank.",
+          "zh": "新工廠需要相當大筆的資金，所以公司會向銀行借款。"
+        },
+        {
+          "en": "The manager made substantial changes to the plan after listening to feedback from the team.",
+          "zh": "經理聽取團隊的意見後，對計畫做了重大修改。"
+        },
+        {
+          "en": "There has been a substantial increase in the number of tourists visiting the island this year.",
+          "zh": "今年造訪那座島的觀光客人數大幅增加。"
+        },
+        {
+          "en": "Renovating the old hotel will take a substantial amount of time, so it will be closed for a year.",
+          "zh": "翻修那家老飯店需要相當長的時間，所以會停業一年。"
+        }
+      ],
+      "distractors": [
+        "substantive",
+        "subsequent",
+        "subservient"
+      ],
+      "note": "語塊：substantial increase（大幅增加）、substantial amount（相當大的數量）、substantial changes（重大改變）。substantial 是「數量或程度很大的」；considerable 意思接近；substance 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occupy",
+      "word": "occupy",
+      "pos": "動詞",
+      "meaning": "佔用；佔據；使忙碌",
+      "sentences": [
+        {
+          "en": "The new company will occupy the entire tenth floor of the office building starting next month.",
+          "zh": "新公司從下個月起將佔用辦公大樓的整個十樓。"
+        },
+        {
+          "en": "The new furniture will occupy a space that was used for storage, so please move the boxes today.",
+          "zh": "新家具會佔用原本用來存放東西的空間，所以請今天把箱子搬走。"
+        },
+        {
+          "en": "Large machines occupy most of the space in the factory, so there is little room for storage.",
+          "zh": "大型機器佔用了工廠大部分的空間，所以幾乎沒有存放的地方。"
+        },
+        {
+          "en": "Mr. Kim will occupy the position of director until a permanent replacement is found later this year.",
+          "zh": "在找到正式接替者之前，金先生會擔任總監一職。"
+        },
+        {
+          "en": "Restaurants that occupy a space in the shopping center must pay rent as well as a monthly maintenance fee.",
+          "zh": "在購物中心佔用空間的餐廳必須繳房租以及每月管理費。"
+        }
+      ],
+      "distractors": [
+        "occur",
+        "copy",
+        "employ"
+      ],
+      "note": "語塊：occupy a space（佔用空間）、occupy most of（佔用大部分的……）、occupy a position（擔任職位）。occupy 是「佔據（空間、時間）」；occupied 是「有人的、被佔用的」；occupation 是「職業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-a-great-deal-of",
+      "word": "a great deal of",
+      "pos": "其他",
+      "meaning": "大量的",
+      "sentences": [
+        {
+          "en": "The team spent a great deal of time preparing for the presentation, and the clients were impressed.",
+          "zh": "團隊花了很多時間準備簡報，客戶印象很深刻。"
+        },
+        {
+          "en": "The company invested a great deal of money in new technology to make its factory more efficient.",
+          "zh": "公司投資了大筆金錢在新科技上，讓工廠更有效率。"
+        },
+        {
+          "en": "Organizing an international conference requires a great deal of planning and careful communication with every speaker.",
+          "zh": "籌辦國際研討會需要大量的規劃和仔細的溝通。"
+        },
+        {
+          "en": "Ms. Park has a great deal of experience in marketing, so she was chosen to lead the new campaign.",
+          "zh": "朴小姐在行銷方面經驗豐富，所以被選來帶領新的活動。"
+        },
+        {
+          "en": "The new law has caused a great deal of confusion among small business owners in the region.",
+          "zh": "新法律在該地區的小企業老闆之間造成很大的困惑。"
+        }
+      ],
+      "distractors": [
+        "a great many",
+        "a good deal",
+        "a deal of"
+      ],
+      "note": "語塊：a great deal of time（很多時間）、a great deal of money（很多錢）、a great deal of experience（豐富的經驗）、a great deal of planning（大量的規劃）。a great deal of 後面接不可數名詞（time、money、work）；a large number of 接可數名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dedicate",
+      "word": "dedicate",
+      "pos": "動詞",
+      "meaning": "奉獻；致力於；把……獻給",
+      "sentences": [
+        {
+          "en": "Ms. Ruiz decided to dedicate herself to helping children in rural areas after she retired from the bank.",
+          "zh": "Ruiz 小姐從銀行退休後，決定致力於幫助鄉村地區的孩子。"
+        },
+        {
+          "en": "Managers should dedicate time to meeting with each member of their team at least once a month.",
+          "zh": "經理應該每個月至少花時間和每位組員見一次面。"
+        },
+        {
+          "en": "The company will dedicate one floor of the new building to research and the development of new products.",
+          "zh": "公司將把新大樓的一層樓專門用來做研究和開發新產品。"
+        },
+        {
+          "en": "The author chose to dedicate the book to her parents, who encouraged her to become a writer.",
+          "zh": "那位作家選擇把書獻給鼓勵她成為作家的父母。"
+        },
+        {
+          "en": "Many volunteers dedicate their weekends to cleaning the beaches and parks in the city every month.",
+          "zh": "很多志工把週末時間奉獻給清理城市的海灘和公園。"
+        }
+      ],
+      "distractors": [
+        "delegate",
+        "medicate",
+        "deduct"
+      ],
+      "note": "語塊：dedicate oneself to（致力於……）、dedicate time to（把時間用在……）、be dedicated to（專門用於）。dedicate 是「把時間、精力奉獻給」；dedication 是名詞；devote 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
