@@ -198,9 +198,10 @@ textarea{resize:vertical;min-height:72px;line-height:1.5}
 @keyframes yaypop{0%{transform:scale(.5);opacity:0}100%{transform:scale(1);opacity:1}}
 @keyframes yayfade{from{opacity:0}to{opacity:1}}
 @media (prefers-reduced-motion: reduce){.yay,.yay .card{animation:none}}
-.cheer{display:inline-block;animation:cheerpop .4s cubic-bezier(.2,1.5,.4,1)}
-@keyframes cheerpop{0%{transform:scale(.6);opacity:0}100%{transform:scale(1);opacity:1}}
-@media (prefers-reduced-motion: reduce){.cheer{animation:none}}
+.banner{position:fixed;left:50%;top:calc(14px + env(safe-area-inset-top,0px));transform:translateX(-50%);z-index:75;background:var(--card);color:var(--ink);border:1px solid var(--line);border-radius:16px;padding:12px 20px;font-size:17px;font-weight:700;box-shadow:0 8px 28px rgba(0,0,0,.18);pointer-events:none;white-space:nowrap;animation:bannerin .35s cubic-bezier(.2,1.3,.4,1), bannerout .3s ease 1.5s forwards}
+@keyframes bannerin{from{transform:translate(-50%,-140%);opacity:0}to{transform:translate(-50%,0);opacity:1}}
+@keyframes bannerout{to{transform:translate(-50%,-140%);opacity:0}}
+@media (prefers-reduced-motion: reduce){.banner{animation:bannerout .3s ease 1.5s forwards}}
 .toast{position:fixed;left:50%;bottom:calc(24px + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--ink);color:var(--paper);padding:10px 18px;border-radius:999px;font-size:14px;z-index:60;max-width:calc(100% - 32px);text-align:center;animation:rise .2s ease}
 .signed-out .barrow > *, .signed-out .progress{visibility:hidden}
 @media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
@@ -658,7 +659,7 @@ function renderQuestion(){
     }).join("")}</ul>
     ${answered ? `
     <section class="feedback">
-      <div class="verdict ${ok || q.disputed ? "ok" : "no"}">${ok ? `<span lang="en" class="cheer">Congratulations! Let’s go! 🙌</span>` : q.disputed ? `算你對！(${LETTERS[q.picked]}) 放進句子也說得通` : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
+      <div class="verdict ${ok || q.disputed ? "ok" : "no"}">${ok ? "答對了！" : q.disputed ? `算你對！(${LETTERS[q.picked]}) 放進句子也說得通` : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
       ${q.learnedNow ? `<p class="note" style="margin:6px 0 0">🎉 這個字已經連續答對 ${MASTER_RUN} 次，自動移到「已學會」了</p>` : ""}
       <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
@@ -678,7 +679,7 @@ function answer(k){
   if (!q || q.picked >= 0) return;
   q.picked = k;
   const w = wordById(q.id);
-  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); q.learnedNow = recordAnswer(w, k === q.correct); if (q.learnedNow) celebrate(w.word); }
+  if (w){ q.before = JSON.parse(JSON.stringify({ stats: w.stats, review: w.review })); q.learnedNow = recordAnswer(w, k === q.correct); if (q.learnedNow) celebrate(w.word); else if (k === q.correct) banner("Congratulations! Let’s go! 🙌"); }
   render();
   const btn = $("#next"); if (btn) btn.focus({preventScroll:true});
 }
@@ -782,6 +783,13 @@ function closeSheet(){
 }
 sheet.addEventListener("click", e => { if (e.target === sheet) closeSheet(); });
 
+function banner(text){
+  document.querySelectorAll(".banner").forEach(b => b.remove());
+  const el = document.createElement("div");
+  el.className = "banner"; el.setAttribute("role", "status"); el.lang = "en"; el.textContent = text;
+  document.body.appendChild(el);
+  setTimeout(() => el.remove(), 1900);
+}
 function popCard(html, ms = 3000){
   const el = document.createElement("div");
   el.className = "yay"; el.setAttribute("role", "status");
