@@ -35473,6 +35473,706 @@
       ],
       "note": "語塊：open a regional office（設立區域辦公室）、work at the regional office（在區域辦公室工作）、sent to the regional office（寄到區域辦公室）、share one regional office（共用一個區域辦公室）。regional office 負責一個地區的業務；head office 是「總公司」；branch office 是「分公司」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-allowance",
+      "word": "allowance",
+      "pos": "名詞",
+      "meaning": "津貼；零用錢；限額",
+      "sentences": [
+        {
+          "en": "Employees who travel for work receive a daily travel allowance for meals and local transportation.",
+          "zh": "因公出差的員工每天都有餐費和當地交通的差旅津貼。"
+        },
+        {
+          "en": "The job offer includes a housing allowance, which helps new staff pay rent in the expensive city.",
+          "zh": "這份工作提供住房津貼，幫助新員工支付昂貴城市的房租。"
+        },
+        {
+          "en": "The baggage allowance for international flights is two pieces of luggage per passenger in economy class.",
+          "zh": "國際航班的行李限額是每位乘客兩件。"
+        },
+        {
+          "en": "The company increased the travel allowance this year because hotel prices have risen in many countries.",
+          "zh": "因為很多國家的飯店價格上漲，公司今年調高了差旅津貼。"
+        },
+        {
+          "en": "Please check the baggage allowance on your ticket before you pack for your trip to Europe.",
+          "zh": "為歐洲之旅打包前，請先確認機票上的行李限額。"
+        }
+      ],
+      "distractors": [
+        "alliance",
+        "allegiance",
+        "appliance"
+      ],
+      "note": "語塊：travel allowance（差旅津貼）、housing allowance（住房津貼）、baggage allowance（行李限額）。allowance 是「固定給的一筆錢」或「允許的量」；allow 是動詞「允許」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sales-representative",
+      "word": "sales representative",
+      "pos": "名詞",
+      "meaning": "業務代表",
+      "sentences": [
+        {
+          "en": "A sales representative will contact you within two days to discuss the price of the equipment.",
+          "zh": "業務代表會在兩天內聯絡你，討論設備的價格。"
+        },
+        {
+          "en": "Mr. Diaz works as a sales representative for a company that sells office furniture to large businesses.",
+          "zh": "Diaz 先生是一家把辦公家具賣給大企業的公司的業務代表。"
+        },
+        {
+          "en": "If you would like a demonstration of the software, please contact a sales representative by phone.",
+          "zh": "如果你想看軟體示範，請打電話聯絡業務代表。"
+        },
+        {
+          "en": "Each sales representative is responsible for about fifty clients in a particular area of the country.",
+          "zh": "每位業務代表負責國內某個特定地區的大約五十位客戶。"
+        },
+        {
+          "en": "The company is hiring a sales representative who can speak Japanese and travel to Asia regularly.",
+          "zh": "公司正在招聘一位會說日文、能定期到亞洲出差的業務代表。"
+        }
+      ],
+      "distractors": [
+        "customer representative",
+        "sales associate",
+        "sales manager"
+      ],
+      "note": "語塊：sales representative for（……的業務代表）、contact a sales representative（聯絡業務代表）。sales representative 常縮寫成 sales rep；salesperson 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-the-field",
+      "word": "in the field",
+      "pos": "其他",
+      "meaning": "在該領域；在現場",
+      "sentences": [
+        {
+          "en": "Applicants should have at least five years of experience in the field of marketing or advertising.",
+          "zh": "應徵者應該在行銷或廣告領域至少有五年的經驗。"
+        },
+        {
+          "en": "Our technicians spend most of their time working in the field, repairing machines at customers' factories.",
+          "zh": "我們的技師大部分時間都在現場工作，到客戶的工廠修理機器。"
+        },
+        {
+          "en": "Dr. Chen is an expert in the field of renewable energy and has written several books on the subject.",
+          "zh": "陳博士是再生能源領域的專家，寫過好幾本相關的書。"
+        },
+        {
+          "en": "The research team will collect data in the field for three months before writing its final report.",
+          "zh": "研究團隊會在實地收集三個月的資料，再撰寫最終報告。"
+        },
+        {
+          "en": "The conference brings together leading experts in the field to share their latest research and ideas.",
+          "zh": "研討會聚集該領域的頂尖專家，分享他們最新的研究。"
+        }
+      ],
+      "distractors": [
+        "in the end",
+        "in the long run",
+        "on the field"
+      ],
+      "note": "語塊：experience in the field（該領域的經驗）、work in the field（在現場工作）、expert in the field（該領域的專家）。in the field 可以是「在某個專業領域」，也可以是「在外面實地（不在辦公室）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expense",
+      "word": "expense",
+      "pos": "名詞",
+      "meaning": "費用；開支",
+      "sentences": [
+        {
+          "en": "Please keep all of your receipts so that the company can pay you back for every travel expense.",
+          "zh": "請保留所有收據，讓公司能償還你每一筆差旅費。"
+        },
+        {
+          "en": "Employees who want to attend the conference at their own expense must still ask their manager first.",
+          "zh": "想自費參加研討會的員工仍須先詢問經理。"
+        },
+        {
+          "en": "The company will cover the expense of moving for staff who transfer to the new office in another city.",
+          "zh": "公司會負擔調到其他城市新辦公室的員工的搬家費用。"
+        },
+        {
+          "en": "Rent is the largest expense for most small restaurants located in the busy downtown area.",
+          "zh": "對大部分位於市中心的小餐廳來說，房租是最大的開支。"
+        },
+        {
+          "en": "To reduce expense, the office now prints documents only when it is absolutely necessary for meetings.",
+          "zh": "為了減少開支，辦公室現在只在絕對必要時才列印文件。"
+        }
+      ],
+      "distractors": [
+        "expanse",
+        "expertise",
+        "suspense"
+      ],
+      "note": "語塊：travel expense（差旅費）、at one's own expense（自費）、cover the expense（負擔費用）。expense 是「花費」；expenses 常指「（公司的）各項開支」；expensive 是「昂貴的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incomplete",
+      "word": "incomplete",
+      "pos": "形容詞",
+      "meaning": "不完整的；未完成的",
+      "sentences": [
+        {
+          "en": "An incomplete application will not be accepted, so please fill out every part of the form.",
+          "zh": "不完整的申請不會被受理，所以請填寫表格的每一個部分。"
+        },
+        {
+          "en": "The report was based on incomplete information, so the manager asked the team to collect more data.",
+          "zh": "那份報告是根據不完整的資訊寫的，所以經理要求團隊收集更多資料。"
+        },
+        {
+          "en": "The construction of the bridge is still incomplete because of a shortage of steel and workers.",
+          "zh": "因為鋼材和工人短缺，橋樑的工程仍未完成。"
+        },
+        {
+          "en": "If your order is incomplete when it arrives, please contact us and we will send the missing items.",
+          "zh": "如果你的訂單到貨時不完整，請聯絡我們，我們會寄出缺少的品項。"
+        },
+        {
+          "en": "The editor returned the article because it was incomplete and did not include any interviews.",
+          "zh": "編輯退回了那篇文章，因為內容不完整，沒有任何訪談。"
+        }
+      ],
+      "distractors": [
+        "incompetent",
+        "inconvenient",
+        "incorrect"
+      ],
+      "note": "語塊：incomplete application（不完整的申請）、incomplete information（不完整的資訊）、still incomplete（仍未完成）、be incomplete（不完整）。incomplete 是「缺了一部分」；complete 是「完整的」；unfinished 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-infrastructure",
+      "word": "infrastructure",
+      "pos": "名詞",
+      "meaning": "基礎建設",
+      "sentences": [
+        {
+          "en": "The government plans to invest in infrastructure such as roads, bridges, and railways next year.",
+          "zh": "政府計畫明年投資道路、橋樑和鐵路等基礎建設。"
+        },
+        {
+          "en": "Many companies choose to build factories in areas with good transportation infrastructure and many skilled workers.",
+          "zh": "很多公司選擇在交通基礎建設完善的地區設廠。"
+        },
+        {
+          "en": "The city's old public infrastructure needs to be repaired, especially the water pipes under the streets.",
+          "zh": "城市老舊的公共基礎建設需要修繕，尤其是街道下方的水管。"
+        },
+        {
+          "en": "Investing in infrastructure creates jobs and helps the economy grow in the long term for everyone.",
+          "zh": "投資基礎建設能創造工作，長期幫助經濟成長。"
+        },
+        {
+          "en": "The new airport is part of a large project to improve the transportation infrastructure of the region.",
+          "zh": "新機場是改善該地區交通基礎建設的大型計畫的一部分。"
+        }
+      ],
+      "distractors": [
+        "superstructure",
+        "architecture",
+        "agriculture"
+      ],
+      "note": "語塊：public infrastructure（公共基礎建設）、invest in infrastructure（投資基礎建設）、transportation infrastructure（交通基礎建設）。infrastructure 指道路、橋樑、水電等「基礎設施」；不可數名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unmatched",
+      "word": "unmatched",
+      "pos": "形容詞",
+      "meaning": "無與倫比的；無法匹敵的",
+      "sentences": [
+        {
+          "en": "The hotel is famous for its unmatched service, and many guests return to stay there every year.",
+          "zh": "那家飯店以無可比擬的服務聞名，很多客人每年都會再回來住。"
+        },
+        {
+          "en": "Our furniture is made by hand and offers unmatched quality at a very reasonable price for families.",
+          "zh": "我們的家具是手工製作的，以合理的價格提供無與倫比的品質。"
+        },
+        {
+          "en": "The view from the top of the tower is unmatched, especially when the sun is setting over the sea.",
+          "zh": "從塔頂看出去的景色無與倫比，尤其是夕陽落在海面的時候。"
+        },
+        {
+          "en": "The company's experience in building bridges is unmatched by any other firm in the country.",
+          "zh": "那家公司建造橋樑的經驗在國內無人能比。"
+        },
+        {
+          "en": "Customers choose our cameras because of their unmatched quality and long-lasting batteries for long trips abroad.",
+          "zh": "顧客選擇我們的相機，是因為它們無與倫比的品質和持久的電池。"
+        }
+      ],
+      "distractors": [
+        "unmarked",
+        "mismatched",
+        "unattached"
+      ],
+      "note": "語塊：unmatched quality（無與倫比的品質）、unmatched service（無可比擬的服務）。unmatched 是「沒有對手、最好的」；unrivaled、unparalleled 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-registration-form",
+      "word": "registration form",
+      "pos": "名詞",
+      "meaning": "報名表；登記表",
+      "sentences": [
+        {
+          "en": "Please fill out a registration form at the front desk before you attend your first class at the gym.",
+          "zh": "第一次上健身房課程之前，請在櫃台填寫報名表。"
+        },
+        {
+          "en": "The online registration form for the conference will close at midnight on Friday this week.",
+          "zh": "研討會的線上報名表將在週五午夜截止。"
+        },
+        {
+          "en": "Each participant must complete a registration form and pay the fee before the workshop begins.",
+          "zh": "每位參加者都必須在工作坊開始前填好報名表並繳費。"
+        },
+        {
+          "en": "The registration form asks for your name, address, and the name of your emergency contact.",
+          "zh": "報名表要填你的姓名、地址和緊急聯絡人的名字。"
+        },
+        {
+          "en": "If you have any problems with the online registration form, please call our office for help.",
+          "zh": "如果你填線上報名表有任何問題，請打電話到我們辦公室尋求協助。"
+        }
+      ],
+      "distractors": [
+        "application form",
+        "order form",
+        "tax form"
+      ],
+      "note": "語塊：fill out a registration form（填寫報名表）、online registration form（線上報名表）。registration 是「報名、註冊」；register 是動詞；application form 是「申請表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-power-supply",
+      "word": "power supply",
+      "pos": "名詞",
+      "meaning": "電力供應；電源",
+      "sentences": [
+        {
+          "en": "The factory needs a stable power supply to keep its machines running twenty-four hours a day.",
+          "zh": "工廠需要穩定的電力供應，讓機器二十四小時運轉。"
+        },
+        {
+          "en": "The storm damaged the power supply to several neighborhoods, and repairs will take two days.",
+          "zh": "暴風雨損壞了好幾個社區的電力供應，維修要兩天。"
+        },
+        {
+          "en": "The technician replaced the power supply unit in the computer, and now it works perfectly.",
+          "zh": "技師更換了電腦的電源供應器，現在運作得很完美。"
+        },
+        {
+          "en": "Hospitals have emergency generators in case the main power supply fails during a storm or earthquake.",
+          "zh": "醫院有緊急發電機，以防暴風雨期間主電力供應中斷。"
+        },
+        {
+          "en": "The new solar panels will provide a stable power supply for the village, which often had blackouts.",
+          "zh": "新的太陽能板會為那個常常停電的村莊提供穩定的電力供應。"
+        }
+      ],
+      "distractors": [
+        "power outage",
+        "power plant",
+        "water supply"
+      ],
+      "note": "語塊：stable power supply（穩定的電力供應）、power supply unit（電源供應器）。power supply 可以指「電力供應」或電腦的「電源供應器」；power outage 是「停電」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appliance",
+      "word": "appliance",
+      "pos": "名詞",
+      "meaning": "家電；器具",
+      "sentences": [
+        {
+          "en": "The store sells every household appliance you need, from washing machines to small coffee makers.",
+          "zh": "那家店販售你需要的每一種家用電器，從洗衣機到咖啡機都有。"
+        },
+        {
+          "en": "Our new kitchen appliance line includes ovens, refrigerators, and dishwashers that save energy and water.",
+          "zh": "我們新的廚房家電系列包括節能的烤箱、冰箱和洗碗機。"
+        },
+        {
+          "en": "Please unplug every electrical appliance in the office before you leave for the long holiday.",
+          "zh": "放長假離開辦公室之前，請拔掉辦公室每一台電器的插頭。"
+        },
+        {
+          "en": "The apartment comes with a new kitchen appliance package that includes a stove and a microwave.",
+          "zh": "那間公寓附有一套新的廚房家電，包括爐子和微波爐。"
+        },
+        {
+          "en": "Customers can recycle an old household appliance at the store when they buy a new one.",
+          "zh": "顧客買新家電時，可以在店裡回收舊的家用電器。"
+        }
+      ],
+      "distractors": [
+        "application",
+        "alliance",
+        "allowance"
+      ],
+      "note": "語塊：household appliance（家用電器）、kitchen appliance（廚房家電）、electrical appliance（電器）。appliance 是「家用電器」；常用複數 appliances；application 是「申請；應用程式」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-place-an-order",
+      "word": "place an order",
+      "pos": "片語動詞",
+      "meaning": "下訂單",
+      "sentences": [
+        {
+          "en": "Customers can place an order online or by phone, and most items will be delivered within two days.",
+          "zh": "顧客可以線上或打電話下訂單，大部分商品兩天內送達。"
+        },
+        {
+          "en": "The restaurant needs to place an order for more vegetables before the weekend, when it is busiest.",
+          "zh": "餐廳需要在最忙的週末之前訂購更多蔬菜。"
+        },
+        {
+          "en": "If you place an order before noon, it will be shipped from our warehouse on the same day.",
+          "zh": "如果你中午前下單，貨會在當天從我們倉庫寄出。"
+        },
+        {
+          "en": "Please place an order for printer paper because we only have a few boxes left in the supply room.",
+          "zh": "請訂購印表機用紙，因為儲藏室只剩幾箱了。"
+        },
+        {
+          "en": "Members who place an order online this week will receive a free gift with their purchase.",
+          "zh": "這週在網路上下單的會員購物會得到一份免費禮物。"
+        }
+      ],
+      "distractors": [
+        "place an ad",
+        "take an order",
+        "place a call"
+      ],
+      "note": "語塊：place an order for（訂購……）、place an order online（線上下單）。place an order 是「下訂單」；make an order 較少用；cancel an order 是「取消訂單」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-business-day",
+      "word": "business day",
+      "pos": "名詞",
+      "meaning": "工作天；營業日",
+      "sentences": [
+        {
+          "en": "Orders placed on Saturday or Sunday will be shipped from our warehouse on the next business day.",
+          "zh": "週六或週日下的訂單會在下一個工作天從我們倉庫出貨。"
+        },
+        {
+          "en": "Our customer service team will reply to every email within one business day of receiving it.",
+          "zh": "我們的客服團隊會在收到每封電子郵件後一個工作天內回覆。"
+        },
+        {
+          "en": "Applications received after the last business day of the month will be reviewed in the following month.",
+          "zh": "月底最後一個工作天之後收到的申請會在下個月審核。"
+        },
+        {
+          "en": "Salaries are paid into employees' bank accounts on the last business day of every month.",
+          "zh": "薪水會在每個月最後一個工作天匯入員工的銀行帳戶。"
+        },
+        {
+          "en": "If you report a problem with your bill before noon, we will fix it by the end of the business day.",
+          "zh": "如果你在中午前回報帳單的問題，我們會在當天營業結束前修正。"
+        }
+      ],
+      "distractors": [
+        "business hours",
+        "business trip",
+        "holiday"
+      ],
+      "note": "語塊：the next business day（下一個工作天）、within one business day（一個工作天內）、the last business day（最後一個工作天）。business day 指週一到週五（不含假日），常用複數 business days；working day 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inquiry",
+      "word": "inquiry",
+      "pos": "名詞",
+      "meaning": "詢問；調查",
+      "sentences": [
+        {
+          "en": "Thank you for your inquiry about our services, and we will send you a price list by email today.",
+          "zh": "感謝您詢問我們的服務，我們今天會寄價目表給您。"
+        },
+        {
+          "en": "If you would like to make an inquiry about your order, please include your order number.",
+          "zh": "如果你想詢問訂單的事，請附上訂單編號。"
+        },
+        {
+          "en": "In response to your inquiry, the hotel still has several rooms available for the dates you requested.",
+          "zh": "回覆您的詢問，飯店在您要求的日期仍有幾間空房。"
+        },
+        {
+          "en": "The company received an inquiry about its products from a large supermarket chain in Japan.",
+          "zh": "公司收到日本一家大型連鎖超市對其產品的詢問。"
+        },
+        {
+          "en": "Every customer inquiry is answered by a member of our team within twenty-four hours, even on weekends.",
+          "zh": "每一則顧客詢問都會在二十四小時內由我們團隊的成員回覆。"
+        }
+      ],
+      "distractors": [
+        "injury",
+        "inquire",
+        "enquiry"
+      ],
+      "note": "語塊：make an inquiry（詢問）、in response to your inquiry（回覆您的詢問）、an inquiry about（關於……的詢問）。inquiry 是「詢問」，英式拼法 enquiry；inquire 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interior",
+      "word": "interior",
+      "pos": "名詞",
+      "meaning": "內部；室內",
+      "sentences": [
+        {
+          "en": "The hotel hired a famous designer to update the interior of its restaurant and lobby.",
+          "zh": "飯店請了一位知名設計師翻新餐廳和大廳的內部。"
+        },
+        {
+          "en": "Ms. Park studied interior design and now plans offices for large technology companies in the city.",
+          "zh": "朴小姐讀室內設計，現在為科技公司規劃辦公室。"
+        },
+        {
+          "en": "The interior of the new car is spacious and comfortable, with leather seats and a large screen.",
+          "zh": "新車內部寬敞舒適，有皮椅和大螢幕。"
+        },
+        {
+          "en": "We are looking for an interior designer who can make our small office feel bright and open.",
+          "zh": "我們在找一位能讓我們小辦公室感覺明亮開闊的室內設計師。"
+        },
+        {
+          "en": "The interior of the old theater was restored to look exactly as it did one hundred years ago.",
+          "zh": "老劇院的內部被修復成和一百年前一模一樣。"
+        }
+      ],
+      "distractors": [
+        "inferior",
+        "exterior",
+        "interval"
+      ],
+      "note": "語塊：interior design（室內設計）、interior of（……的內部）、interior designer（室內設計師）。interior 是「裡面」；exterior 是「外面」；inferior 是「較差的」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overall",
+      "word": "overall",
+      "pos": "形容詞",
+      "meaning": "全面的；整體的",
+      "sentences": [
+        {
+          "en": "The overall cost of the project was lower than expected because the team found cheaper materials.",
+          "zh": "專案的總成本比預期低，因為團隊找到更便宜的材料。"
+        },
+        {
+          "en": "The manager was pleased with the overall performance of the sales team during the third quarter.",
+          "zh": "經理對業務團隊第三季的整體表現很滿意。"
+        },
+        {
+          "en": "The survey showed that overall satisfaction among guests has increased since the hotel was renovated.",
+          "zh": "調查顯示，飯店翻修後房客的整體滿意度提高了。"
+        },
+        {
+          "en": "Overall, the conference was a success, although some participants wanted more time for questions and discussion.",
+          "zh": "整體而言，研討會很成功，雖然有些與會者希望有更多提問時間。"
+        },
+        {
+          "en": "The overall performance of the new software is much better than the old version, especially its speed.",
+          "zh": "新軟體的整體表現比舊版好很多，尤其是速度。"
+        }
+      ],
+      "distractors": [
+        "overhaul",
+        "overload",
+        "overflow"
+      ],
+      "note": "語塊：overall cost（總成本）、overall performance（整體表現）、overall satisfaction（整體滿意度）。overall 可以當形容詞或副詞（Overall, ... 整體而言）；overalls 是「吊帶褲」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-efficiency",
+      "word": "efficiency",
+      "pos": "名詞",
+      "meaning": "效率",
+      "sentences": [
+        {
+          "en": "The new software will improve efficiency by allowing staff to share files instantly with each other.",
+          "zh": "新軟體讓員工能立即分享檔案，將提高效率。"
+        },
+        {
+          "en": "The company replaced its old lights to increase energy efficiency and reduce its monthly electricity costs.",
+          "zh": "公司更換舊燈，以提升能源效率並降低電費。"
+        },
+        {
+          "en": "The factory hired a consultant to find ways to increase efficiency on the production line.",
+          "zh": "工廠聘請一位顧問，尋找提高生產線效率的方法。"
+        },
+        {
+          "en": "Energy efficiency is an important factor for customers who are buying new air conditioners or heaters.",
+          "zh": "能源效率對購買新冷氣的顧客來說是重要的考量因素。"
+        },
+        {
+          "en": "Working from home has helped some employees improve efficiency because there are fewer interruptions at home.",
+          "zh": "在家工作幫助一些員工提高效率，因為干擾比較少。"
+        }
+      ],
+      "distractors": [
+        "efficacy",
+        "deficiency",
+        "proficiency"
+      ],
+      "note": "語塊：improve efficiency（提高效率）、energy efficiency（能源效率）、increase efficiency（增加效率）。efficiency 是名詞；efficient 是形容詞「有效率的」；effectiveness 是「有效性」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chief-executive",
+      "word": "chief executive",
+      "pos": "名詞",
+      "meaning": "執行長；最高主管",
+      "sentences": [
+        {
+          "en": "The chief executive announced that the company will open twenty new stores in Asia next year.",
+          "zh": "執行長宣布公司明年將在亞洲開設二十家新店。"
+        },
+        {
+          "en": "Ms. Lopez was appointed as chief executive officer after working at the company for fifteen years.",
+          "zh": "Lopez 小姐在公司工作十五年後被任命為執行長。"
+        },
+        {
+          "en": "The board of directors will appoint a chief executive to replace Mr. Kim, who is retiring in June.",
+          "zh": "董事會將任命一位執行長接替六月退休的金先生。"
+        },
+        {
+          "en": "The chief executive gave a speech to all employees about the company's plans for the future.",
+          "zh": "執行長向全體員工發表了關於公司未來計畫的演講。"
+        },
+        {
+          "en": "Reporters asked the chief executive officer several questions about the merger at the press conference.",
+          "zh": "記者在記者會上問了執行長好幾個關於合併的問題。"
+        }
+      ],
+      "distractors": [
+        "chief editor",
+        "chief engineer",
+        "chief of staff"
+      ],
+      "note": "語塊：chief executive officer（執行長，CEO）、appoint a chief executive（任命執行長）。chief executive 常寫成 CEO；chief financial officer（CFO）是「財務長」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-grab-attention",
+      "word": "grab attention",
+      "pos": "片語動詞",
+      "meaning": "吸引注意",
+      "sentences": [
+        {
+          "en": "The bright colors of the poster are designed to grab attention from people walking past the store.",
+          "zh": "海報鮮豔的顏色是為了吸引經過店門口行人的注意。"
+        },
+        {
+          "en": "A short and surprising title can help grab attention and make readers want to read the whole article.",
+          "zh": "簡短又驚人的標題能幫忙吸引注意，讓讀者想讀完整篇文章。"
+        },
+        {
+          "en": "Many companies hire famous actors for their advertisements because they want to grab attention on social media.",
+          "zh": "很多公司請知名演員拍廣告，因為想在社群媒體上吸引注意。"
+        },
+        {
+          "en": "The first few seconds of a video are important because you need to grab attention quickly.",
+          "zh": "影片的前幾秒很重要，因為你需要快速吸引注意。"
+        },
+        {
+          "en": "The speaker began with a surprising story to grab attention before explaining the main points of her talk.",
+          "zh": "講者先以一個驚人的故事吸引注意，再說明演講的重點。"
+        }
+      ],
+      "distractors": [
+        "pay attention",
+        "draw attention",
+        "get attention"
+      ],
+      "note": "語塊：grab attention quickly（快速吸引注意）、help grab attention（幫忙吸引注意）、want to grab attention（想吸引注意）、designed to grab attention（為了吸引注意而設計）。grab attention 比 attract attention 更口語；也常說 grab sb's attention（吸引某人的注意）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stimulate",
+      "word": "stimulate",
+      "pos": "動詞",
+      "meaning": "刺激；激發",
+      "sentences": [
+        {
+          "en": "The government lowered taxes to stimulate the economy after a long period of slow growth.",
+          "zh": "經過一段緩慢成長期後，政府減稅以刺激經濟。"
+        },
+        {
+          "en": "The store offered big discounts to stimulate demand for winter clothing before the season ended.",
+          "zh": "那家店在季末前大打折，刺激冬季服飾的需求。"
+        },
+        {
+          "en": "The museum's new interactive exhibit is designed to stimulate interest in science among young children.",
+          "zh": "博物館新的互動展覽是為了激發幼童對科學的興趣。"
+        },
+        {
+          "en": "Building new roads and bridges can stimulate the economy by creating jobs for many workers.",
+          "zh": "興建新道路和橋樑能為很多工人創造工作，進而刺激經濟。"
+        },
+        {
+          "en": "Free samples are a good way to stimulate demand for a new product that customers do not know yet.",
+          "zh": "免費試用品是刺激顧客還不認識的新產品需求的好方法。"
+        }
+      ],
+      "distractors": [
+        "simulate",
+        "stipulate",
+        "estimate"
+      ],
+      "note": "語塊：stimulate the economy（刺激經濟）、stimulate demand（刺激需求）、stimulate interest（激發興趣）。stimulate 是「促使更活躍」；stimulus 是名詞「刺激」；simulate 是「模擬」，少了 t。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dedication",
+      "word": "dedication",
+      "pos": "名詞",
+      "meaning": "奉獻；投入",
+      "sentences": [
+        {
+          "en": "The manager thanked the staff for their hard work and dedication during the busy holiday season.",
+          "zh": "經理感謝員工在忙碌節慶期間的努力與奉獻。"
+        },
+        {
+          "en": "Ms. Grant received an award for her dedication to improving the lives of children in the city.",
+          "zh": "Grant 小姐因致力改善城市兒童的生活而獲獎。"
+        },
+        {
+          "en": "The success of the project was the result of the team's dedication and careful planning.",
+          "zh": "專案的成功是團隊投入和周詳規劃的結果。"
+        },
+        {
+          "en": "Doctors and nurses showed great dedication to their patients during the difficult and busy winter months.",
+          "zh": "醫生和護士在艱難的冬季對病人展現了極大的奉獻。"
+        },
+        {
+          "en": "The company values dedication to customer service, so it rewards employees who receive good reviews.",
+          "zh": "公司重視對客服的投入，所以會獎勵獲得好評的員工。"
+        }
+      ],
+      "distractors": [
+        "medication",
+        "indication",
+        "education"
+      ],
+      "note": "語塊：dedication to（對……的投入）、hard work and dedication（努力與奉獻）。dedication 是名詞；dedicate 是動詞「奉獻」；dedicated 是形容詞「敬業的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
