@@ -11148,6 +11148,1056 @@
       ],
       "note": "語塊：relieve pain（舒緩疼痛）、relieve stress（紓解壓力）、relieve traffic congestion（紓解交通壅塞）、relieve the pressure on（減輕……的壓力）。relieve 是「減輕、舒緩（不舒服或壓力）」。形容詞 relieved（鬆了一口氣的）：I was relieved to hear the news.；名詞 relief（解脫；救濟）。別跟 relive（重新經歷）搞混。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keen",
+      "word": "keen",
+      "pos": "形容詞",
+      "meaning": "熱衷的；渴望的；敏銳的",
+      "sentences": [
+        {
+          "en": "The new marketing director is keen to expand our presence in Southeast Asian markets by the end of next year.",
+          "zh": "新的行銷總監很想在明年底前擴大我們在東南亞市場的版圖。"
+        },
+        {
+          "en": "Several board members have shown a keen interest in the proposed merger with the regional logistics firm.",
+          "zh": "幾位董事對與那家區域物流公司的合併提案表現出濃厚的興趣。"
+        },
+        {
+          "en": "Ms. Patel is keen on attending the trade fair in Frankfurt so that she can meet potential suppliers in person.",
+          "zh": "Patel 小姐很想參加法蘭克福的商展，好親自認識潛在的供應商。"
+        },
+        {
+          "en": "Our recruiters are looking for applicants with a keen eye for detail and strong written communication skills.",
+          "zh": "我們的招募人員在找對細節很敏銳、書面溝通能力又強的應徵者。"
+        },
+        {
+          "en": "Because the staff were keen to learn the new accounting software, the training session was fully booked within a day.",
+          "zh": "因為員工都很想學新的會計軟體，訓練課程一天之內就額滿了。"
+        }
+      ],
+      "distractors": [
+        "kind",
+        "keep",
+        "key"
+      ],
+      "note": "語塊：be keen to（很想做）、be keen on（熱衷於）、keen interest（濃厚興趣）。keen 和 eager 都表示「渴望」，keen 還可以表示「敏銳的」（a keen eye for detail）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bookkeeper",
+      "word": "bookkeeper",
+      "pos": "名詞",
+      "meaning": "簿記員；記帳員",
+      "sentences": [
+        {
+          "en": "The bakery decided to hire a bookkeeper because the owner no longer had enough time to track daily expenses.",
+          "zh": "那家麵包店決定僱用一位記帳員，因為老闆已經沒有足夠時間記每天的開銷。"
+        },
+        {
+          "en": "Before joining our finance team, Mr. Lin worked as a bookkeeper for a small construction company in Taichung.",
+          "zh": "林先生加入我們財務團隊之前，在台中一家小營造公司擔任記帳員。"
+        },
+        {
+          "en": "Our part-time bookkeeper updates the expense records every Friday afternoon before the office closes for the weekend.",
+          "zh": "我們的兼職記帳員每週五下午、辦公室週末關門前更新支出紀錄。"
+        },
+        {
+          "en": "Many small businesses hire a bookkeeper to make sure that all invoices and receipts are recorded accurately.",
+          "zh": "很多小公司會僱用記帳員，確保所有發票和收據都記錄正確。"
+        },
+        {
+          "en": "Applicants who wish to work as a bookkeeper at our firm must be familiar with basic accounting software.",
+          "zh": "想在我們公司擔任記帳員的應徵者，必須熟悉基本的會計軟體。"
+        }
+      ],
+      "distractors": [
+        "bookmark",
+        "bookcase",
+        "bookstore"
+      ],
+      "note": "語塊：hire a bookkeeper（僱用記帳員）、work as a bookkeeper（擔任記帳員）。bookkeeper 負責日常記帳；accountant（會計師）層級較高，負責報表分析與稅務。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-difficulties",
+      "word": "difficulties",
+      "pos": "名詞",
+      "meaning": "困難；難題（複數）",
+      "sentences": [
+        {
+          "en": "We would like to apologize to all viewers who experienced difficulties streaming the live broadcast last night.",
+          "zh": "我們要向昨晚收看直播時遇到困難的所有觀眾致歉。"
+        },
+        {
+          "en": "Due to unexpected technical difficulties, the online registration system will be unavailable until noon on Tuesday.",
+          "zh": "由於意外的技術問題，線上報名系統到週二中午前都無法使用。"
+        },
+        {
+          "en": "The company faced serious financial difficulties after it lost its largest client at the beginning of last year.",
+          "zh": "那家公司去年初失去最大客戶後，面臨嚴重的財務困難。"
+        },
+        {
+          "en": "If you experience difficulties logging in to your account, please contact the IT help desk at extension 204.",
+          "zh": "如果你登入帳號時遇到困難，請撥分機 204 聯絡資訊服務台。"
+        },
+        {
+          "en": "The airline offered free meal vouchers to passengers because of technical difficulties with the aircraft's engine.",
+          "zh": "因為飛機引擎出現技術問題，航空公司提供乘客免費餐券。"
+        }
+      ],
+      "distractors": [
+        "differences",
+        "directions",
+        "deliveries"
+      ],
+      "note": "語塊：experience difficulties（遇到困難）、technical difficulties（技術問題）、financial difficulties（財務困難）。difficulty 當「困難」時常用複數 difficulties；have difficulty (in) doing 則用單數，表示「做某事有困難」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cause",
+      "word": "cause",
+      "pos": "動詞",
+      "meaning": "造成；引起",
+      "sentences": [
+        {
+          "en": "Forecasters warn that the heavy snowfall could cause a delay of several hours for all outbound flights tomorrow.",
+          "zh": "氣象人員警告，大雪明天可能造成所有出境航班延誤好幾個小時。"
+        },
+        {
+          "en": "We sincerely apologize for any inconvenience this schedule change may cause our valued customers and partners.",
+          "zh": "對於這次時程變更可能為我們重要的顧客和夥伴帶來的任何不便，我們深感抱歉。"
+        },
+        {
+          "en": "Improper storage of these chemicals can cause damage to the sensitive equipment in the laboratory.",
+          "zh": "這些化學品存放不當，可能對實驗室裡精密的設備造成損害。"
+        },
+        {
+          "en": "The power outage will not cause a delay in shipping because the warehouse has its own backup generator.",
+          "zh": "停電不會造成出貨延誤，因為倉庫有自己的備用發電機。"
+        },
+        {
+          "en": "Road construction on Main Street is expected to cause inconvenience for many commuters throughout this week.",
+          "zh": "Main 街的道路施工預計這整週會為許多通勤族帶來不便。"
+        }
+      ],
+      "distractors": [
+        "case",
+        "caution",
+        "cease"
+      ],
+      "note": "語塊：cause a delay（造成延誤）、cause damage（造成損害）、cause inconvenience（造成不便）。cause 後面常接壞結果；result in 意思相近：The storm resulted in delays。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-blackout",
+      "word": "blackout",
+      "pos": "名詞",
+      "meaning": "停電；（消息）封鎖",
+      "sentences": [
+        {
+          "en": "The severe thunderstorm caused a blackout that shut down the factory for most of Thursday afternoon.",
+          "zh": "強烈雷雨造成停電，工廠週四下午大半時間都停工。"
+        },
+        {
+          "en": "During last week's citywide blackout, the hospital relied entirely on its emergency generators to keep operating.",
+          "zh": "上週全市停電期間，醫院完全靠緊急發電機維持運作。"
+        },
+        {
+          "en": "All employees should save their files regularly in case a blackout occurs in the middle of the workday.",
+          "zh": "所有員工都應該定期存檔，以防上班時間中途停電。"
+        },
+        {
+          "en": "The utility company promised to prevent another power blackout by upgrading its old equipment before summer.",
+          "zh": "電力公司承諾會在夏天前升級舊設備，避免再次停電。"
+        },
+        {
+          "en": "A brief power failure at the data center caused a blackout of our company website for about twenty minutes.",
+          "zh": "資料中心短暫的電力故障，讓我們公司網站中斷大約二十分鐘。"
+        }
+      ],
+      "distractors": [
+        "backup",
+        "blackboard",
+        "breakout"
+      ],
+      "note": "語塊：cause a blackout（造成停電）、a citywide blackout（全市停電）、a power blackout（停電）。blackout 指大範圍停電；power outage 意思相同，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unplug",
+      "word": "unplug",
+      "pos": "動詞",
+      "meaning": "拔掉插頭",
+      "sentences": [
+        {
+          "en": "Please remember to unplug the coffee machine before you leave the break room on Friday evening.",
+          "zh": "週五晚上離開茶水間前，請記得拔掉咖啡機的插頭。"
+        },
+        {
+          "en": "For safety reasons, technicians must always unplug the device before they open its plastic cover.",
+          "zh": "為了安全，技師打開塑膠外殼前一定要先拔掉裝置的插頭。"
+        },
+        {
+          "en": "If the printer stops responding, unplug the cord for thirty seconds and then turn the machine back on.",
+          "zh": "如果印表機沒有反應，把電線拔掉三十秒，再把機器重新打開。"
+        },
+        {
+          "en": "The instruction manual reminds users to unplug the space heater whenever it is not being used.",
+          "zh": "使用說明書提醒使用者，電暖器不用時都要拔掉插頭。"
+        },
+        {
+          "en": "Staff were asked to unplug the device in each meeting room to reduce electricity costs over the long holiday.",
+          "zh": "員工被要求在連假期間拔掉每間會議室設備的插頭，以減少電費。"
+        }
+      ],
+      "distractors": [
+        "unpack",
+        "unlock",
+        "unload"
+      ],
+      "note": "語塊：unplug the device（拔掉裝置插頭）、unplug the cord（拔掉電線）。unplug 是「拔插頭」；turn off 只是「關掉」，插頭還插著。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-effect",
+      "word": "effect",
+      "pos": "名詞",
+      "meaning": "影響；效果；（法規）生效",
+      "sentences": [
+        {
+          "en": "The new parking policy for employees and visitors will take effect on the first day of next month.",
+          "zh": "員工和訪客的新停車規定將在下個月一號生效。"
+        },
+        {
+          "en": "Rising fuel prices have had a significant effect on our overall shipping costs during this quarter.",
+          "zh": "油價上漲對我們這一季的整體運輸成本有很大的影響。"
+        },
+        {
+          "en": "The holiday discount program will remain in effect until the end of January for all registered members.",
+          "zh": "節慶折扣方案對所有註冊會員都會持續實施到一月底。"
+        },
+        {
+          "en": "Researchers at the institute are studying the effect of flexible working hours on employee productivity.",
+          "zh": "研究所的研究人員正在研究彈性工時對員工生產力的影響。"
+        },
+        {
+          "en": "Managers expect the revised training schedule to have a positive effect on customer satisfaction ratings.",
+          "zh": "經理們預期修改後的訓練時程會對顧客滿意度評分有正面影響。"
+        }
+      ],
+      "distractors": [
+        "affect",
+        "effort",
+        "efficiency"
+      ],
+      "note": "語塊：have an effect on（對……有影響）、take effect（生效）、in effect（實施中）。effect 是名詞「影響」；affect 是動詞「影響」。take effect 指法規、政策開始生效。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-affected",
+      "word": "affected",
+      "pos": "形容詞",
+      "meaning": "受影響的",
+      "sentences": [
+        {
+          "en": "All affected customers will receive a full refund to their credit cards within five business days.",
+          "zh": "所有受影響的顧客都會在五個工作天內收到退回信用卡的全額退款。"
+        },
+        {
+          "en": "Flights to the affected area have been suspended until the tropical storm passes later this week.",
+          "zh": "飛往受影響地區的航班暫停，直到熱帶風暴這週稍晚過去。"
+        },
+        {
+          "en": "Employees in the affected departments will be notified about the system upgrade by email this afternoon.",
+          "zh": "受影響部門的員工今天下午會收到系統升級的電子郵件通知。"
+        },
+        {
+          "en": "Only shipments from the northern warehouse were affected by the delays in deliveries last week.",
+          "zh": "上週的出貨延誤只影響到北區倉庫的貨物。"
+        },
+        {
+          "en": "The airline is offering hotel vouchers to affected passengers whose flights were canceled overnight because of the storm.",
+          "zh": "航空公司提供飯店住宿券給航班在夜間被取消的受影響乘客。"
+        }
+      ],
+      "distractors": [
+        "effective",
+        "affordable",
+        "assorted"
+      ],
+      "note": "語塊：affected area（受影響地區）、affected customers（受影響的顧客）、be affected by（受……影響）。affected 是「受影響的」；effective（有效的）長得像但意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-affection",
+      "word": "affection",
+      "pos": "名詞",
+      "meaning": "喜愛；感情",
+      "sentences": [
+        {
+          "en": "Many longtime customers have a deep affection for the bakery's original location on Fifth Avenue downtown.",
+          "zh": "很多老顧客對那家麵包店在市中心第五大道的原始店面有深厚的感情。"
+        },
+        {
+          "en": "The retiring manager will always be remembered with affection by everyone in the accounting department.",
+          "zh": "會計部的每個人都會一直深情地懷念那位退休的經理。"
+        },
+        {
+          "en": "Our founder had a special affection for handmade furniture, which inspired the company's first product line.",
+          "zh": "我們的創辦人特別喜愛手工家具，這啟發了公司的第一個產品系列。"
+        },
+        {
+          "en": "The staff spoke with affection about the old office building before the move to the new headquarters.",
+          "zh": "搬到新總部之前，員工們深情地談起那棟舊辦公大樓。"
+        },
+        {
+          "en": "Visitors often develop an affection for the small seaside town after attending its annual summer music festival.",
+          "zh": "遊客參加過那座海邊小鎮的年度夏季音樂節後，常常會喜歡上它。"
+        }
+      ],
+      "distractors": [
+        "affectation",
+        "infection",
+        "inflection"
+      ],
+      "note": "語塊：have an affection for（喜愛……）、deep affection（深厚的感情）、with affection（深情地）。affection 是「喜愛、感情」；affectation（做作）拼法很像，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-athletics",
+      "word": "athletics",
+      "pos": "名詞",
+      "meaning": "體育運動；田徑",
+      "sentences": [
+        {
+          "en": "The university plans to expand its athletics program by building a new indoor stadium near the main campus.",
+          "zh": "那所大學計畫在主校區附近蓋一座新室內體育館來擴大體育計畫。"
+        },
+        {
+          "en": "Ms. Grant was hired last spring to manage the athletics department's budget and travel schedules.",
+          "zh": "Grant 小姐去年春天受聘管理體育部門的預算和行程安排。"
+        },
+        {
+          "en": "Several local companies donated sports equipment this year to support the high school's athletics program.",
+          "zh": "幾家當地企業今年捐贈運動器材，支持那所高中的體育計畫。"
+        },
+        {
+          "en": "Our sportswear brand proudly sponsors several regional athletics competitions for young runners in the city every summer.",
+          "zh": "我們的運動服品牌每年夏天都很自豪地贊助好幾場給年輕跑者的地區田徑比賽。"
+        },
+        {
+          "en": "The new director of the athletics department will meet with all of the coaches on Monday morning.",
+          "zh": "體育部門的新主任週一上午會和所有教練開會。"
+        }
+      ],
+      "distractors": [
+        "aesthetics",
+        "arithmetic",
+        "ethics"
+      ],
+      "note": "語塊：athletics program（體育計畫）、athletics department（體育部門）。athletics 在美式英文指「各種體育運動」，英式英文多指「田徑」；athlete 是「運動員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reliable",
+      "word": "reliable",
+      "pos": "形容詞",
+      "meaning": "可靠的；可信賴的",
+      "sentences": [
+        {
+          "en": "We chose this courier company because it provides fast and reliable service at a very reasonable price.",
+          "zh": "我們選這家快遞公司，因為它以很合理的價格提供快速可靠的服務。"
+        },
+        {
+          "en": "The figures in the market report were based on data from a reliable source in the electronics industry.",
+          "zh": "市場報告裡的數字來自電子業一個可靠的來源。"
+        },
+        {
+          "en": "After many years of working together, Brenton Foods has become our most reliable supplier of fresh produce.",
+          "zh": "合作多年後，Brenton 食品已成為我們最可靠的新鮮蔬果供應商。"
+        },
+        {
+          "en": "Business travelers expect reliable internet access and a quiet workspace when they stay at our hotel.",
+          "zh": "商務旅客住我們飯店時，會期待有穩定可靠的網路和安靜的工作空間。"
+        },
+        {
+          "en": "The engineering team is currently looking for a reliable supplier of high-quality steel parts in Asia.",
+          "zh": "工程團隊目前正在亞洲尋找能提供高品質鋼製零件的可靠供應商。"
+        }
+      ],
+      "distractors": [
+        "reliant",
+        "relieved",
+        "relative"
+      ],
+      "note": "語塊：reliable source（可靠來源）、reliable service（可靠的服務）、reliable supplier（可靠的供應商）。reliable 是「可靠的」；reliant（依賴的）常用 be reliant on，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-marginal",
+      "word": "marginal",
+      "pos": "形容詞",
+      "meaning": "些微的；邊緣的",
+      "sentences": [
+        {
+          "en": "The company reported only a marginal increase in sales during the third quarter despite heavy advertising.",
+          "zh": "儘管大量打廣告，公司第三季的銷售只有些微增加。"
+        },
+        {
+          "en": "Upgrading the old servers produced a marginal improvement in speed, so the IT team recommended replacing them entirely.",
+          "zh": "升級舊伺服器只讓速度小幅改善，所以資訊團隊建議全部汰換。"
+        },
+        {
+          "en": "Because of rising material costs, the furniture maker now earns only a marginal profit on each dining table.",
+          "zh": "因為材料成本上漲，那家家具廠現在每張餐桌只賺到微薄的利潤。"
+        },
+        {
+          "en": "Analysts expect a marginal increase in interest rates that should have little effect on consumer spending.",
+          "zh": "分析師預期利率會些微上升，對消費支出應該影響不大。"
+        },
+        {
+          "en": "The survey showed a marginal improvement in employee satisfaction after the cafeteria was renovated last spring.",
+          "zh": "調查顯示，員工餐廳去年春天整修後，員工滿意度小幅改善。"
+        }
+      ],
+      "distractors": [
+        "marital",
+        "martial",
+        "mutual"
+      ],
+      "note": "語塊：marginal increase（些微增加）、marginal improvement（小幅改善）、marginal profit（微薄利潤）。marginal 指「很小的、不重要的」；minimal（極少的）意思接近，但 marginal 常用來說變化幅度。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-release",
+      "word": "release",
+      "pos": "動詞",
+      "meaning": "發布；發行；釋放",
+      "sentences": [
+        {
+          "en": "The smartphone manufacturer plans to release a new product line at the technology fair next month.",
+          "zh": "那家手機製造商計畫下個月在科技展推出新的產品線。"
+        },
+        {
+          "en": "The mayor's office will release a statement about the new transportation budget later this afternoon.",
+          "zh": "市長辦公室今天下午稍晚會針對新的交通預算發表聲明。"
+        },
+        {
+          "en": "The band is expected to release an album next spring after finishing its world tour in December.",
+          "zh": "那個樂團預計十二月結束世界巡演後，明年春天發行專輯。"
+        },
+        {
+          "en": "We cannot release any customer information to outside parties without written permission from the client.",
+          "zh": "沒有客戶的書面同意，我們不能把任何顧客資料提供給外部單位。"
+        },
+        {
+          "en": "The publisher decided to release the novel in both print and digital formats on the same day.",
+          "zh": "出版社決定在同一天以紙本和電子兩種形式發行那本小說。"
+        }
+      ],
+      "distractors": [
+        "relieve",
+        "relax",
+        "reveal"
+      ],
+      "note": "語塊：release a new product（推出新產品）、release a statement（發表聲明）、release an album（發行專輯）。release 常指「公開發布」；launch 多用於「推出新產品或活動」，兩者常可互換。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-historic-site",
+      "word": "historic site",
+      "pos": "名詞",
+      "meaning": "歷史古蹟",
+      "sentences": [
+        {
+          "en": "Our three-day tour package includes a guided visit to a historic site just outside the old city walls.",
+          "zh": "我們的三天行程套裝包含參觀舊城牆外一處古蹟的導覽。"
+        },
+        {
+          "en": "The city council approved additional funding to preserve the historic site near the central train station.",
+          "zh": "市議會核准追加經費，保存中央火車站附近的那處古蹟。"
+        },
+        {
+          "en": "Because the factory is located next to a historic site, any construction plans require special approval.",
+          "zh": "因為工廠就在古蹟旁邊，任何施工計畫都需要特別核准。"
+        },
+        {
+          "en": "Volunteers are needed to help clean the historic site before the anniversary celebration in October.",
+          "zh": "十月週年慶典前，需要志工幫忙清理那處古蹟。"
+        },
+        {
+          "en": "Tourists who visit the historic site are asked not to touch the ancient stone carvings on the walls.",
+          "zh": "參觀古蹟的遊客被要求不要觸摸牆上古老的石雕。"
+        }
+      ],
+      "distractors": [
+        "tourist trap",
+        "construction site",
+        "campsite"
+      ],
+      "note": "語塊：visit a historic site（參觀古蹟）、preserve a historic site（保存古蹟）。historic 是「有歷史意義的」；historical 是「歷史上的、跟歷史有關的」（historical records 歷史紀錄）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-even-numbered",
+      "word": "even-numbered",
+      "pos": "形容詞",
+      "meaning": "偶數的",
+      "sentences": [
+        {
+          "en": "Residents with even-numbered addresses may water their gardens only on Tuesdays, Thursdays, and Saturdays this summer.",
+          "zh": "門牌是偶數的居民，只能在週二、週四、週六替花園澆水。"
+        },
+        {
+          "en": "The elevators on the east side of the building stop only at even-numbered floors during peak hours.",
+          "zh": "大樓東側的電梯在尖峰時段只停偶數樓層。"
+        },
+        {
+          "en": "Workshops for new employees are held on even-numbered days throughout the month of September at the main office.",
+          "zh": "新進員工的研習在整個九月的偶數日舉行。"
+        },
+        {
+          "en": "Passengers seated in even-numbered rows will board the aircraft after those seated in odd-numbered rows.",
+          "zh": "坐在偶數排的乘客會在奇數排的乘客之後登機。"
+        },
+        {
+          "en": "Parking in the north lot is restricted to vehicles with even-numbered license plates on Mondays.",
+          "zh": "每週一，北側停車場只限偶數車牌的車輛停放。"
+        }
+      ],
+      "distractors": [
+        "odd-numbered",
+        "numbered",
+        "uneven"
+      ],
+      "note": "語塊：even-numbered days（偶數日）、even-numbered floors（偶數樓層）。even-numbered 是「偶數的」；odd-numbered 是「奇數的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-experiment",
+      "word": "experiment",
+      "pos": "名詞",
+      "meaning": "實驗",
+      "sentences": [
+        {
+          "en": "The research team will conduct an experiment to test the durability of the new plastic packaging.",
+          "zh": "研究團隊會進行一項實驗，測試新塑膠包裝的耐用度。"
+        },
+        {
+          "en": "Before launching the campaign nationwide, the marketing department carried out an experiment in two cities.",
+          "zh": "在全國推出廣告活動之前，行銷部先在兩個城市做了實驗。"
+        },
+        {
+          "en": "The results of the experiment suggest that customers prefer shorter product descriptions on our website.",
+          "zh": "實驗結果顯示，顧客比較喜歡我們網站上較短的產品說明。"
+        },
+        {
+          "en": "Scientists at the laboratory must record every step when they conduct an experiment with hazardous materials.",
+          "zh": "實驗室的科學家用危險物質做實驗時，必須記錄每一個步驟。"
+        },
+        {
+          "en": "The four-day workweek began as a small experiment but has now been adopted by the entire company.",
+          "zh": "每週上班四天一開始只是個小實驗，現在已經被全公司採用了。"
+        }
+      ],
+      "distractors": [
+        "experience",
+        "expertise",
+        "exponent"
+      ],
+      "note": "語塊：conduct an experiment（進行實驗）、carry out an experiment（做實驗）。experiment 是「實驗」；experience（經驗）拼法相近，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-normal",
+      "word": "normal",
+      "pos": "形容詞",
+      "meaning": "正常的；一般的",
+      "sentences": [
+        {
+          "en": "Customer service representatives are available by phone or email during normal business hours, Monday through Friday.",
+          "zh": "客服人員在週一到週五的正常營業時間可以電話聯絡。"
+        },
+        {
+          "en": "Train service is expected to return to normal by Wednesday after the damaged tracks are repaired.",
+          "zh": "受損的軌道修好後，火車服務預計週三恢復正常。"
+        },
+        {
+          "en": "The factory resumed normal operations only two days after the fire in the storage room was put out.",
+          "zh": "儲藏室的火撲滅後才兩天，工廠就恢復了正常運作。"
+        },
+        {
+          "en": "It is normal for new employees to feel a little nervous during their first week at the company.",
+          "zh": "新員工在公司的第一週有點緊張是很正常的。"
+        },
+        {
+          "en": "Shipping may take longer than normal during the holiday season, so please place your orders early.",
+          "zh": "節慶期間寄送可能比平常久，所以請提早下訂。"
+        }
+      ],
+      "distractors": [
+        "formal",
+        "nominal",
+        "neutral"
+      ],
+      "note": "語塊：normal business hours（正常營業時間）、return to normal（恢復正常）、normal operations（正常運作）。normal 是「正常的」；ordinary（普通的）偏「平凡」，normal 偏「符合常態」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-undetermined",
+      "word": "undetermined",
+      "pos": "形容詞",
+      "meaning": "未決定的；未確定的",
+      "sentences": [
+        {
+          "en": "The opening of the new branch has been postponed until an undetermined date because of permit issues.",
+          "zh": "新分店的開幕因為許可證問題，延到日期未定。"
+        },
+        {
+          "en": "The cause of the power failure at the plant remains undetermined, and engineers are still investigating.",
+          "zh": "工廠停電的原因仍未確定，工程師還在調查。"
+        },
+        {
+          "en": "The exact number of positions available at the new call center is still undetermined at this time.",
+          "zh": "新客服中心到底有幾個職缺，目前還沒確定。"
+        },
+        {
+          "en": "Several speakers have confirmed their attendance, but the location of the annual conference remains undetermined.",
+          "zh": "幾位講者已確認出席，但研討會的地點仍未確定。"
+        },
+        {
+          "en": "The concert will be rescheduled for an undetermined date once the stadium repairs are complete.",
+          "zh": "等體育場修繕完成，演唱會會改到一個還沒確定的日期。"
+        }
+      ],
+      "distractors": [
+        "undermined",
+        "unexpected",
+        "determined"
+      ],
+      "note": "語塊：at an undetermined date（日期未定）、remain undetermined（仍未確定）。undetermined 指「還沒決定」；undecided 偏指「人還沒做決定」，undetermined 多用在事情。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renowned-for",
+      "word": "renowned for",
+      "pos": "其他",
+      "meaning": "以……聞名",
+      "sentences": [
+        {
+          "en": "The hotel restaurant is renowned for its seafood dishes, which are prepared with locally caught fish.",
+          "zh": "那家飯店餐廳以海鮮料理聞名，用的都是當地捕撈的魚。"
+        },
+        {
+          "en": "Our consulting firm is renowned for helping small businesses grow quickly in highly competitive local markets.",
+          "zh": "我們的顧問公司以幫助小企業在競爭激烈的市場中快速成長而聞名。"
+        },
+        {
+          "en": "The region has long been renowned for its high-quality tea, which is exported to many countries.",
+          "zh": "那個地區長久以來就以高品質的茶葉聞名，外銷到許多國家。"
+        },
+        {
+          "en": "The guest speaker is an architect who is renowned for designing beautiful and energy-efficient office buildings.",
+          "zh": "這位演講嘉賓是一位以設計節能辦公大樓聞名的建築師。"
+        },
+        {
+          "en": "The small town is renowned for its annual jazz festival, which attracts thousands of visitors every summer.",
+          "zh": "那個小鎮以每年的爵士音樂節聞名，每年夏天吸引數千名遊客。"
+        }
+      ],
+      "distractors": [
+        "responsible for",
+        "renewed",
+        "reserved for"
+      ],
+      "note": "語塊：be renowned for（以……聞名）、internationally renowned（國際知名）。be renowned for 和 be famous for、be known for 意思相同，renowned 比較正式；別和 renewed（更新的）搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-innovative",
+      "word": "innovative",
+      "pos": "形容詞",
+      "meaning": "創新的",
+      "sentences": [
+        {
+          "en": "The architecture firm won an award for its innovative design of the new public library downtown.",
+          "zh": "那家建築事務所因市中心新公共圖書館的創新設計而獲獎。"
+        },
+        {
+          "en": "Our team is looking for an innovative approach to reduce packaging waste without raising costs.",
+          "zh": "我們團隊在找一個創新的做法，在不增加成本的情況下減少包裝廢棄物。"
+        },
+        {
+          "en": "The startup offers an innovative solution that helps restaurants manage their inventory through a mobile app.",
+          "zh": "那家新創公司提供一個創新的解決方案，用手機 App 幫餐廳管理庫存。"
+        },
+        {
+          "en": "Employees who suggest innovative ideas for improving efficiency will be recognized at the annual meeting.",
+          "zh": "提出創新點子改善效率的員工，會在年度大會上受到表揚。"
+        },
+        {
+          "en": "Investors were impressed by the innovative design of the electric bicycle presented at the trade show.",
+          "zh": "投資人對商展上展示的那款電動自行車的創新設計印象深刻。"
+        }
+      ],
+      "distractors": [
+        "innocent",
+        "informative",
+        "imitative"
+      ],
+      "note": "語塊：innovative design（創新的設計）、innovative approach（創新的做法）、innovative solution（創新的解決方案）。innovative 是「創新的」；innocent（無辜的）長得像，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-translate",
+      "word": "translate",
+      "pos": "動詞",
+      "meaning": "翻譯；轉化",
+      "sentences": [
+        {
+          "en": "We need someone who can translate the user manual into Spanish before the product launch in Mexico.",
+          "zh": "我們需要有人在墨西哥的產品發表前，把使用手冊翻譯成西班牙文。"
+        },
+        {
+          "en": "The agency will translate all of the contracts from Japanese so that our legal team can review them.",
+          "zh": "翻譯社會把所有合約從日文翻過來，讓我們的法務團隊審閱。"
+        },
+        {
+          "en": "Managers hope the new training program will translate into higher sales over the next few months.",
+          "zh": "經理們希望新的訓練計畫在接下來幾個月能轉化成更高的銷售額。"
+        },
+        {
+          "en": "Please ask the marketing department to translate the brochure before it is sent to our clients overseas.",
+          "zh": "請行銷部在小冊子寄給海外客戶之前先把它翻譯好。"
+        },
+        {
+          "en": "It can be difficult to translate certain expressions into English without losing their original meaning.",
+          "zh": "有些說法很難翻成英文又不失去原本的意思。"
+        }
+      ],
+      "distractors": [
+        "transfer",
+        "transmit",
+        "transform"
+      ],
+      "note": "語塊：translate into（翻譯成；轉化成）、translate from（從……翻譯）。translate 是「筆譯、把文字翻成另一種語言」；interpret 是「口譯」或「解讀」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interpret",
+      "word": "interpret",
+      "pos": "動詞",
+      "meaning": "口譯；解讀；詮釋",
+      "sentences": [
+        {
+          "en": "Ms. Kim was asked to interpret for the visiting delegation during the factory tour on Thursday.",
+          "zh": "Kim 小姐被請去在週四參觀工廠時替來訪的代表團口譯。"
+        },
+        {
+          "en": "Our analysts will interpret the data from the customer survey and present their findings next week.",
+          "zh": "我們的分析師會解讀顧客調查的資料，下週報告他們的發現。"
+        },
+        {
+          "en": "It is important to interpret the results of the study carefully before making any major decisions.",
+          "zh": "在做任何重大決定之前，仔細解讀研究結果是很重要的。"
+        },
+        {
+          "en": "The company hired a professional to interpret for the Korean investors at the shareholders' meeting.",
+          "zh": "公司聘請一位專業人員在股東大會上替韓國投資人口譯。"
+        },
+        {
+          "en": "Staff members sometimes interpret the dress code differently, so the human resources department issued clearer guidelines.",
+          "zh": "員工有時候對服裝規定的理解不一樣，所以人資部發布了更清楚的規範。"
+        }
+      ],
+      "distractors": [
+        "interrupt",
+        "interact",
+        "intercept"
+      ],
+      "note": "語塊：interpret for（替……口譯）、interpret the data（解讀資料）、interpret the results（解讀結果）。interpret 偏「口譯」或「解讀意思」；translate 偏「筆譯」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-abruptly",
+      "word": "abruptly",
+      "pos": "副詞",
+      "meaning": "突然地；唐突地",
+      "sentences": [
+        {
+          "en": "The video conference ended abruptly when the internet connection in the main office suddenly failed.",
+          "zh": "總公司的網路斷線時，視訊會議突然結束了。"
+        },
+        {
+          "en": "The production line stopped abruptly after a sensor detected a problem with one of the machines.",
+          "zh": "感應器偵測到其中一台機器有問題後，生產線突然停了下來。"
+        },
+        {
+          "en": "Weather conditions can change abruptly in the mountains, so hikers should always bring extra clothing.",
+          "zh": "山區的天氣可能突然改變，所以登山客應該多帶衣服。"
+        },
+        {
+          "en": "The manager abruptly canceled the afternoon meeting without giving any reason to the team or the clients.",
+          "zh": "經理突然取消下午的會議，沒有給團隊任何理由。"
+        },
+        {
+          "en": "Sales of the product stopped abruptly after a competitor released a cheaper model with similar features.",
+          "zh": "競爭對手推出功能相似又比較便宜的機型後，這個產品的銷售突然停滯。"
+        }
+      ],
+      "distractors": [
+        "absolutely",
+        "abundantly",
+        "accurately"
+      ],
+      "note": "語塊：end abruptly（突然結束）、stop abruptly（突然停止）、change abruptly（突然改變）。abruptly 和 suddenly 都是「突然」，abruptly 還帶有「令人措手不及、不禮貌」的感覺。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appreciative",
+      "word": "appreciative",
+      "pos": "形容詞",
+      "meaning": "感激的；欣賞的",
+      "sentences": [
+        {
+          "en": "We are very appreciative of your patience while our technicians repaired the elevator this morning.",
+          "zh": "今天早上我們的技師修理電梯時，非常感謝您的耐心。"
+        },
+        {
+          "en": "The pianist performed for an appreciative audience at the new community center on Saturday evening.",
+          "zh": "那位鋼琴家週六晚上在社區中心為一群懂得欣賞的觀眾演出。"
+        },
+        {
+          "en": "The board of directors is appreciative of the hard work that all employees put in this year.",
+          "zh": "董事會很感謝所有員工今年付出的努力。"
+        },
+        {
+          "en": "Customers were appreciative of the free shuttle service that the hotel offered to the airport.",
+          "zh": "顧客很感謝飯店提供的免費機場接駁服務。"
+        },
+        {
+          "en": "The speaker thanked the appreciative audience for their thoughtful questions at the end of the seminar.",
+          "zh": "講者在研討會結束時感謝懂得欣賞的聽眾提出了很有想法的問題。"
+        }
+      ],
+      "distractors": [
+        "appreciable",
+        "approximate",
+        "apprehensive"
+      ],
+      "note": "語塊：be appreciative of（感謝……）、appreciative audience（懂得欣賞的觀眾）。appreciative 用來形容人「心懷感激」；appreciable（可觀的、明顯的）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-budget",
+      "word": "budget",
+      "pos": "名詞",
+      "meaning": "預算",
+      "sentences": [
+        {
+          "en": "The renovation of the lobby was completed on time and within budget, which pleased the building owners.",
+          "zh": "大廳翻修準時完成而且沒超出預算，讓大樓業主很滿意。"
+        },
+        {
+          "en": "The marketing campaign went over budget because the company decided to add several television commercials.",
+          "zh": "行銷活動超出預算，因為公司決定加幾支電視廣告。"
+        },
+        {
+          "en": "The finance committee will approve the budget for next year's training programs at Friday's meeting.",
+          "zh": "財務委員會將在週五的會議上核准明年訓練計畫的預算。"
+        },
+        {
+          "en": "Department heads must submit their budget proposals to the accounting office by the end of the month.",
+          "zh": "部門主管必須在月底前把預算提案交給會計室。"
+        },
+        {
+          "en": "We were able to stay within budget by choosing a smaller venue for the annual awards dinner.",
+          "zh": "我們選了比較小的場地辦年度頒獎晚宴，所以能控制在預算內。"
+        }
+      ],
+      "distractors": [
+        "budge",
+        "bucket",
+        "badge"
+      ],
+      "note": "語塊：within budget（在預算內）、over budget（超出預算）、budget for（……的預算）。budget 是「預算」；budge（移動、讓步）少一個字母，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proposal",
+      "word": "proposal",
+      "pos": "名詞",
+      "meaning": "提案；建議",
+      "sentences": [
+        {
+          "en": "All applicants must submit a proposal describing their research plans by the fifteenth of March.",
+          "zh": "所有申請人都必須在三月十五日前提交一份描述研究計畫的提案。"
+        },
+        {
+          "en": "The city council voted to approve the proposal for a new bicycle lane along the river.",
+          "zh": "市議會投票核准沿著河邊新建自行車道的提案。"
+        },
+        {
+          "en": "The board decided to reject the proposal because the estimated costs were far higher than expected.",
+          "zh": "董事會決定否決那份提案，因為估計的成本比預期高出許多。"
+        },
+        {
+          "en": "Mr. Hassan will present his proposal for reorganizing the sales department at the next staff meeting.",
+          "zh": "Hassan 先生會在下次員工會議上報告他重組業務部的提案。"
+        },
+        {
+          "en": "After reviewing the budget carefully, the directors agreed to approve the proposal with minor changes.",
+          "zh": "仔細審閱預算後，董事們同意在小幅修改後核准那份提案。"
+        }
+      ],
+      "distractors": [
+        "purpose",
+        "disposal",
+        "proposition"
+      ],
+      "note": "語塊：submit a proposal（提交提案）、approve a proposal（核准提案）、reject a proposal（否決提案）。proposal 是名詞「提案」；propose 是動詞「提議」；purpose（目的）拼法相近，別搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-equipment",
+      "word": "equipment",
+      "pos": "名詞",
+      "meaning": "設備；器材（不可數）",
+      "sentences": [
+        {
+          "en": "The company spent a large portion of its budget on new office equipment such as printers and scanners.",
+          "zh": "公司把很大一部分預算花在印表機和掃描器等新的辦公設備上。"
+        },
+        {
+          "en": "Technicians will install equipment in the new laboratory over the weekend so it can open on Monday.",
+          "zh": "技師週末會在新實驗室安裝設備，讓它週一可以啟用。"
+        },
+        {
+          "en": "Every piece of equipment in the gym is inspected once a month to ensure that it is safe to use.",
+          "zh": "健身房裡的每一件器材每個月都會檢查一次，確保使用安全。"
+        },
+        {
+          "en": "Employees must return all borrowed camera equipment to the media room by five o'clock on Friday.",
+          "zh": "員工必須在週五五點前，把借用的所有相機器材歸還到媒體室。"
+        },
+        {
+          "en": "The hospital received a donation that will be used to purchase modern medical equipment for its clinics.",
+          "zh": "醫院收到一筆捐款，將用來為診所購買現代化的醫療設備。"
+        }
+      ],
+      "distractors": [
+        "equation",
+        "establishment",
+        "environment"
+      ],
+      "note": "語塊：office equipment（辦公設備）、install equipment（安裝設備）、a piece of equipment（一件設備）。equipment 是不可數名詞，不能加 s；要說「一件」用 a piece of equipment。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quite",
+      "word": "quite",
+      "pos": "副詞",
+      "meaning": "相當；十分",
+      "sentences": [
+        {
+          "en": "Quite a few customers have asked whether the store will be open on the national holiday.",
+          "zh": "相當多顧客問過店家在國定假日會不會營業。"
+        },
+        {
+          "en": "The new office is quite spacious compared to the small room we used to share downtown.",
+          "zh": "跟我們以前在市中心共用的小房間比起來，新辦公室相當寬敞。"
+        },
+        {
+          "en": "The report is not quite finished, so Ms. Lopez will send it to the clients tomorrow morning.",
+          "zh": "報告還沒完全完成，所以 Lopez 小姐明天早上才會寄給客戶。"
+        },
+        {
+          "en": "Our team spent quite a lot of time preparing for the presentation, and the clients were impressed.",
+          "zh": "我們團隊花了相當多時間準備簡報，客戶印象很深刻。"
+        },
+        {
+          "en": "The training session was quite helpful for new employees who had never used the software before.",
+          "zh": "這次訓練課程對以前沒用過這套軟體的新員工相當有幫助。"
+        }
+      ],
+      "distractors": [
+        "quiet",
+        "quit",
+        "quote"
+      ],
+      "note": "語塊：quite a few（相當多）、quite a lot（相當多）、not quite（不完全）。quite 是「相當」；quiet（安靜的）和 quit（放棄）拼法很像，要小心。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-choice",
+      "word": "choice",
+      "pos": "名詞",
+      "meaning": "選擇",
+      "sentences": [
+        {
+          "en": "Our restaurant offers a wide choice of vegetarian dishes in addition to the regular menu.",
+          "zh": "除了一般菜單之外，我們餐廳還提供多樣的素食料理選擇。"
+        },
+        {
+          "en": "Customers who cannot make a choice between the two models can test both in our showroom.",
+          "zh": "在兩種機型之間做不了選擇的顧客，可以在我們的展示間兩種都試試看。"
+        },
+        {
+          "en": "The hotel near the convention center was our first choice, but it was already fully booked.",
+          "zh": "會展中心附近那家飯店是我們的首選，但已經客滿了。"
+        },
+        {
+          "en": "Please make a choice from the three lunch options and inform the event coordinator by Wednesday.",
+          "zh": "請從三種午餐選項中做選擇，並在週三前通知活動負責人。"
+        },
+        {
+          "en": "The university bookstore provides a wide choice of textbooks, stationery, and computer accessories for students.",
+          "zh": "大學書店提供多樣的教科書、文具和電腦配件可以選。"
+        }
+      ],
+      "distractors": [
+        "chance",
+        "charge",
+        "check"
+      ],
+      "note": "語塊：make a choice（做選擇）、a wide choice of（多樣的選擇）、first choice（首選）。choice 是名詞；choose 是動詞「選擇」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reservation",
+      "word": "reservation",
+      "pos": "名詞",
+      "meaning": "預約；訂位",
+      "sentences": [
+        {
+          "en": "Guests who wish to dine at the rooftop restaurant should make a reservation at least two days in advance.",
+          "zh": "想在頂樓餐廳用餐的客人，至少要提前兩天訂位。"
+        },
+        {
+          "en": "Please call the front desk to confirm your reservation before you arrive at the hotel tonight.",
+          "zh": "今晚抵達飯店前，請打電話到櫃台確認您的預約。"
+        },
+        {
+          "en": "If you need to cancel a reservation, you must do so twenty-four hours before your scheduled appointment.",
+          "zh": "如果你需要取消預約，必須在預定時間的二十四小時前取消。"
+        },
+        {
+          "en": "Ms. Romero made a reservation for twelve people at the Italian restaurant across from our office.",
+          "zh": "Romero 小姐在我們辦公室對面的義大利餐廳訂了十二個人的位子。"
+        },
+        {
+          "en": "The travel agency will confirm your reservation by email once the payment has been received.",
+          "zh": "收到付款後，旅行社會用電子郵件確認您的預約。"
+        }
+      ],
+      "distractors": [
+        "conservation",
+        "preservation",
+        "observation"
+      ],
+      "note": "語塊：make a reservation（預約；訂位）、confirm a reservation（確認預約）、cancel a reservation（取消預約）。reservation 是「訂位、預約」；reserve 是動詞；conservation（保育）長得像，意思不同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
