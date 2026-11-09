@@ -16958,6 +16958,706 @@
       ],
       "note": "語塊：young entrepreneur（年輕創業家）、successful entrepreneur（成功的企業家）、become an entrepreneur（成為創業家）。entrepreneur 是「創業的人」；enterprise 是「企業」；entrepreneurial 是形容詞。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-creation",
+      "word": "creation",
+      "pos": "名詞",
+      "meaning": "創造；創立；作品",
+      "sentences": [
+        {
+          "en": "The new factory is expected to support job creation in a region where many people are unemployed.",
+          "zh": "新工廠預計會在許多人失業的地區帶動就業機會。"
+        },
+        {
+          "en": "The board approved the creation of a new department that will focus on online sales.",
+          "zh": "董事會核准成立一個專注於網路銷售的新部門。"
+        },
+        {
+          "en": "The chef's latest creation, a chocolate cake with sea salt, has become the restaurant's most popular dessert.",
+          "zh": "主廚最新的作品，海鹽巧克力蛋糕，已經成為餐廳最受歡迎的甜點。"
+        },
+        {
+          "en": "Government programs that encourage job creation often include special tax benefits for small and medium-sized businesses.",
+          "zh": "鼓勵創造就業的政府計畫通常包括給小企業的稅務優惠。"
+        },
+        {
+          "en": "Ms. Tran was responsible for the creation of the company's first online training program for new staff.",
+          "zh": "Tran 小姐負責建立公司第一套給新員工的線上訓練課程。"
+        }
+      ],
+      "distractors": [
+        "creativity",
+        "cremation",
+        "relation"
+      ],
+      "note": "語塊：job creation（創造就業）、the creation of（……的創立）。creation 是「創造（的行為或成果）」；creativity 是「創造力」；create 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-downturn",
+      "word": "downturn",
+      "pos": "名詞",
+      "meaning": "（經濟）衰退；下滑",
+      "sentences": [
+        {
+          "en": "Many companies stopped hiring new staff during the economic downturn that began two years ago.",
+          "zh": "兩年前開始的經濟衰退期間，很多公司停止招聘新人。"
+        },
+        {
+          "en": "The travel agency reported a downturn in bookings after several major airlines raised their ticket prices in May.",
+          "zh": "航空公司調漲票價後，旅行社回報訂位量下滑。"
+        },
+        {
+          "en": "Despite the economic downturn, the restaurant chain opened five new locations across the country last year.",
+          "zh": "儘管經濟衰退，那家連鎖餐廳去年還是開了五家新分店。"
+        },
+        {
+          "en": "A downturn in the housing market has caused furniture sales to decline throughout the region.",
+          "zh": "房市下滑導致整個地區的家具銷售下降。"
+        },
+        {
+          "en": "The company prepared for a possible downturn by reducing its debts and saving more cash.",
+          "zh": "公司藉由減少負債和存更多現金，為可能的景氣下滑做準備。"
+        }
+      ],
+      "distractors": [
+        "turnover",
+        "downtown",
+        "turnout"
+      ],
+      "note": "語塊：economic downturn（經濟衰退）、a downturn in（……的下滑）。downturn 是「景氣下滑」；recession 是「經濟衰退」，程度通常更嚴重。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-competitively",
+      "word": "competitively",
+      "pos": "副詞",
+      "meaning": "有競爭力地",
+      "sentences": [
+        {
+          "en": "Our new laptops are competitively priced and come with a free three-year warranty and technical support.",
+          "zh": "我們的新筆電價格具競爭力，還附免費三年保固。"
+        },
+        {
+          "en": "To survive in the market, small shops must be able to price their products competitively against those of large chains.",
+          "zh": "為了在市場上生存，小店必須能為產品訂出有競爭力的價格。"
+        },
+        {
+          "en": "The hotel's rooms are competitively priced compared to other hotels of the same size in the city center.",
+          "zh": "跟市中心其他飯店比起來，這家飯店的房價很有競爭力。"
+        },
+        {
+          "en": "The company has grown quickly because it offers high-quality services that are competitively priced for small businesses.",
+          "zh": "公司成長得很快，因為它提供價格有競爭力的高品質服務。"
+        },
+        {
+          "en": "All of the furniture in our catalog is competitively priced, and delivery is free for orders over $500.",
+          "zh": "我們目錄中的所有家具價格都很有競爭力，訂單滿五百美元免運費。"
+        }
+      ],
+      "distractors": [
+        "comparatively",
+        "cooperatively",
+        "comprehensively"
+      ],
+      "note": "語塊：competitively priced（價格具競爭力）、compete competitively（有競爭力地競爭）。competitively priced 是常見說法，表示「價格很有競爭力（不貴）」；competitive 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-achieve",
+      "word": "achieve",
+      "pos": "動詞",
+      "meaning": "達成；實現",
+      "sentences": [
+        {
+          "en": "The sales team worked extra hours in December to achieve its goal for the year.",
+          "zh": "業務團隊十二月加班，為了達成年度目標。"
+        },
+        {
+          "en": "The company was able to achieve success in the Asian market by working with local partners.",
+          "zh": "公司藉由和當地夥伴合作，在亞洲市場獲得成功。"
+        },
+        {
+          "en": "Our consultants help businesses achieve results by improving the way they train and manage their employees.",
+          "zh": "我們的顧問藉由改善企業管理員工的方式，幫助它們取得成果。"
+        },
+        {
+          "en": "To achieve a goal like this, every department must cooperate closely and share information regularly.",
+          "zh": "要達成這樣的目標，每個部門都必須合作並定期分享資訊。"
+        },
+        {
+          "en": "The new software helped the factory achieve results that were better than expected in its first year.",
+          "zh": "新軟體幫助工廠第一年就取得比預期更好的成果。"
+        }
+      ],
+      "distractors": [
+        "believe",
+        "relieve",
+        "archive"
+      ],
+      "note": "語塊：achieve a goal（達成目標）、achieve success（獲得成功）、achieve results（取得成果）。achieve 是「努力後達成」；reach 意思接近但較口語；名詞 achievement 是「成就」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-favorable",
+      "word": "favorable",
+      "pos": "形容詞",
+      "meaning": "有利的；贊同的；好評的",
+      "sentences": [
+        {
+          "en": "The new restaurant received a favorable review in the city's most popular food magazine last month.",
+          "zh": "新餐廳在城裡最受歡迎的美食雜誌上獲得好評。"
+        },
+        {
+          "en": "Weather conditions are favorable for the outdoor concert, so the event will take place as planned.",
+          "zh": "天氣條件對戶外音樂會有利，所以活動會照計畫舉行。"
+        },
+        {
+          "en": "The proposal received a favorable response from the board, and work will begin next month.",
+          "zh": "提案獲得董事會的正面回應，工作將在下個月開始。"
+        },
+        {
+          "en": "Low interest rates have created favorable conditions for people who want to buy their first home.",
+          "zh": "低利率為想買第一間房子的人創造了有利的條件。"
+        },
+        {
+          "en": "The company offers favorable terms to customers who agree to sign a two-year service contract.",
+          "zh": "公司提供優惠條件給同意簽兩年服務合約的顧客。"
+        }
+      ],
+      "distractors": [
+        "favorite",
+        "flavorful",
+        "formidable"
+      ],
+      "note": "語塊：favorable conditions（有利的條件）、favorable review（好評）、favorable response（正面回應）。favorable 是「有利、正面的」；favorite 是「最喜歡的」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outcome",
+      "word": "outcome",
+      "pos": "名詞",
+      "meaning": "結果；成果",
+      "sentences": [
+        {
+          "en": "The outcome of the negotiations will be announced at a press conference on Friday morning.",
+          "zh": "談判的結果將在週五早上的記者會上宣布。"
+        },
+        {
+          "en": "Both companies were pleased with the positive outcome of the meeting and agreed to work together.",
+          "zh": "兩家公司對會議的正面結果都很滿意，並同意合作。"
+        },
+        {
+          "en": "The final outcome of the project depends on whether we receive the necessary funding by June.",
+          "zh": "專案的最後結果取決於我們能否在六月前拿到必要的經費。"
+        },
+        {
+          "en": "Managers are waiting to learn the outcome of the customer survey before making any changes to the menu.",
+          "zh": "經理們在等顧客調查的結果出來，再決定菜單要不要改。"
+        },
+        {
+          "en": "We expect a positive outcome from the new training program, as employees have responded well so far.",
+          "zh": "我們預期新訓練計畫會有正面的成果，因為員工到目前為止反應很好。"
+        }
+      ],
+      "distractors": [
+        "income",
+        "outlet",
+        "output"
+      ],
+      "note": "語塊：the outcome of（……的結果）、a positive outcome（正面的結果）、the final outcome（最後結果）。outcome 是「最後的結果」；income 是「收入」，長得像但意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-environment",
+      "word": "environment",
+      "pos": "名詞",
+      "meaning": "環境；自然環境",
+      "sentences": [
+        {
+          "en": "The company tries to create a friendly work environment where employees feel comfortable sharing ideas.",
+          "zh": "公司努力營造友善的工作環境，讓員工能自在地分享想法。"
+        },
+        {
+          "en": "Customers are encouraged to bring their own bags to protect the environment and reduce plastic waste.",
+          "zh": "鼓勵顧客自備購物袋，保護環境並減少塑膠垃圾。"
+        },
+        {
+          "en": "The current business environment is very competitive, so we must find new ways to attract customers.",
+          "zh": "目前的商業環境競爭非常激烈，所以我們必須找新的方法吸引顧客。"
+        },
+        {
+          "en": "Our new packaging is made from recycled paper as part of our effort to protect the environment.",
+          "zh": "我們的新包裝用回收紙製成，這是我們保護環境努力的一部分。"
+        },
+        {
+          "en": "A quiet work environment is important for employees who need to concentrate on detailed tasks.",
+          "zh": "對需要專注於細節工作的員工來說，安靜的工作環境很重要。"
+        }
+      ],
+      "distractors": [
+        "environs",
+        "equipment",
+        "enrollment"
+      ],
+      "note": "語塊：work environment（工作環境）、protect the environment（保護環境）、business environment（商業環境）。environment 可以指「周遭環境」或「自然環境」；environmental 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-solid",
+      "word": "solid",
+      "pos": "形容詞",
+      "meaning": "穩固的；可靠的；實心的",
+      "sentences": [
+        {
+          "en": "The firm has built a solid reputation for providing excellent legal advice to small businesses.",
+          "zh": "那家事務所為小企業提供優質法律建議，建立了穩固的名聲。"
+        },
+        {
+          "en": "We are looking for a project manager with solid experience in the construction industry in Asia.",
+          "zh": "我們在找一位在營造業有紮實經驗的專案經理。"
+        },
+        {
+          "en": "All of the tables in our showroom are made of solid wood from sustainable forests.",
+          "zh": "我們展示間的所有桌子都是用永續林場的實木做的。"
+        },
+        {
+          "en": "The company reported solid growth in sales during the first half of the year, mainly in Europe.",
+          "zh": "公司上半年的銷售有穩健的成長。"
+        },
+        {
+          "en": "Applicants with solid experience in customer service will be given priority for the position in our Taipei office.",
+          "zh": "在客服方面有紮實經驗的應徵者將優先考慮。"
+        }
+      ],
+      "distractors": [
+        "solitary",
+        "stolid",
+        "sold"
+      ],
+      "note": "語塊：solid reputation（穩固的名聲）、solid experience（紮實的經驗）、solid wood（實木）。solid 可以指「堅固、可靠」，也可以指「實心的」（solid wood 實木）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spot",
+      "word": "spot",
+      "pos": "名詞",
+      "meaning": "地點；位置；（節目的）時段",
+      "sentences": [
+        {
+          "en": "Employees who arrive after nine o'clock often have trouble finding a parking spot near the office.",
+          "zh": "九點以後才到的員工常常很難在辦公室附近找到停車位。"
+        },
+        {
+          "en": "The old lighthouse has become a popular tourist spot since it was renovated last year.",
+          "zh": "那座舊燈塔去年整修後已經成為熱門的觀光景點。"
+        },
+        {
+          "en": "The manager offered the job to Ms. Varga on the spot because she was clearly the best candidate.",
+          "zh": "經理當場就錄取 Varga 小姐，因為她明顯是最好的候選人。"
+        },
+        {
+          "en": "The café is a great spot for business meetings because it is quiet and has free internet access.",
+          "zh": "那家咖啡廳是商務會面的好地點，因為很安靜又有免費網路。"
+        },
+        {
+          "en": "Visitors can reserve a parking spot online before they arrive at the stadium for the concert.",
+          "zh": "訪客可以在前往體育場看演唱會之前先在網路上預約停車位。"
+        }
+      ],
+      "distractors": [
+        "spit",
+        "slot",
+        "spout"
+      ],
+      "note": "語塊：parking spot（停車位）、tourist spot（觀光景點）、on the spot（當場）。spot 是「地點」；當動詞是「發現、認出」（spot a mistake 發現錯誤）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subsidy",
+      "word": "subsidy",
+      "pos": "名詞",
+      "meaning": "補助金；津貼",
+      "sentences": [
+        {
+          "en": "The farmers received a government subsidy to help them buy new equipment after the flood.",
+          "zh": "水災之後，農民獲得政府補助幫他們購買新設備。"
+        },
+        {
+          "en": "Companies that hire young workers can receive a subsidy of up to five thousand dollars per employee.",
+          "zh": "聘用年輕員工的公司每位員工最多可以獲得五千美元的補助。"
+        },
+        {
+          "en": "The company provides a housing subsidy for employees who move to the city for work.",
+          "zh": "公司為了工作搬到這座城市的員工提供住房補貼。"
+        },
+        {
+          "en": "Without a government subsidy, the small theater would not be able to continue operating for another year.",
+          "zh": "沒有政府補助，那間小劇場就無法繼續營運。"
+        },
+        {
+          "en": "The new program offers a subsidy to families who install solar panels on their homes.",
+          "zh": "新計畫為在家裡安裝太陽能板的家庭提供補助。"
+        }
+      ],
+      "distractors": [
+        "subsidiary",
+        "subsidence",
+        "subscription"
+      ],
+      "note": "語塊：government subsidy（政府補助）、receive a subsidy（獲得補助）、housing subsidy（住房補貼）。subsidy 是「政府或公司給的補助」；複數 subsidies；subsidiary 是「子公司」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-density",
+      "word": "density",
+      "pos": "名詞",
+      "meaning": "密度；稠密",
+      "sentences": [
+        {
+          "en": "The city has a very high population density, so most residents live in small apartments near the center.",
+          "zh": "這座城市的人口密度很高，所以大部分居民住在市中心附近的小公寓裡。"
+        },
+        {
+          "en": "Areas with high density of housing often need more public transportation and green spaces for residents.",
+          "zh": "住宅高密度的地區通常需要更多大眾運輸和綠地給居民使用。"
+        },
+        {
+          "en": "The report compares the population density of five major cities in Asia over the past twenty years.",
+          "zh": "報告比較了過去二十年亞洲五個大城市的人口密度。"
+        },
+        {
+          "en": "Planners must consider population density when deciding where to build new schools, parks, and hospitals.",
+          "zh": "規劃人員決定新學校和醫院要蓋在哪裡時，必須考慮人口密度。"
+        },
+        {
+          "en": "The new foam material has a high density, which makes the mattress firm and long-lasting for customers.",
+          "zh": "新的泡棉材料密度高，讓床墊對顧客來說又紮實又耐用。"
+        }
+      ],
+      "distractors": [
+        "destiny",
+        "intensity",
+        "identity"
+      ],
+      "note": "語塊：population density（人口密度）、high density（高密度）。density 是「密度」；dense 是形容詞「密集的」；destiny（命運）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-precaution",
+      "word": "precaution",
+      "pos": "名詞",
+      "meaning": "預防措施",
+      "sentences": [
+        {
+          "en": "As a precaution, all flights to the island were canceled until the storm had moved away from the coast.",
+          "zh": "作為預防，所有飛往那座島的航班都取消了，直到暴風雨離開海岸。"
+        },
+        {
+          "en": "Workers must follow every safety precaution listed in the manual when they operate heavy machines.",
+          "zh": "工人操作重型機械時，必須遵守手冊上列出的每一項安全預防措施。"
+        },
+        {
+          "en": "As a precaution, please save a copy of your files on an external drive before the system upgrade.",
+          "zh": "作為預防，系統升級前請把你的檔案存一份到外接硬碟。"
+        },
+        {
+          "en": "The hotel added extra security guards in the lobby as a precaution during the international conference.",
+          "zh": "國際研討會期間，飯店作為預防措施在大廳增派了保全。"
+        },
+        {
+          "en": "Wearing gloves is a simple safety precaution that can protect laboratory staff from dangerous chemicals.",
+          "zh": "戴手套是一個簡單的安全預防措施，可以保護實驗室人員不受危險化學品傷害。"
+        }
+      ],
+      "distractors": [
+        "caution",
+        "perception",
+        "prescription"
+      ],
+      "note": "語塊：take precautions（採取預防措施）、as a precaution（作為預防）、safety precaution（安全預防措施）。precaution 是「事先的防範」；caution 是「小心、警告」。常用 take precautions（複數）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convinced",
+      "word": "convinced",
+      "pos": "形容詞",
+      "meaning": "確信的；被說服的",
+      "sentences": [
+        {
+          "en": "The director is convinced that the new product will become our best-selling item by the end of the year.",
+          "zh": "主任確信這項新產品到年底會成為我們最暢銷的商品。"
+        },
+        {
+          "en": "After seeing the test results, the investors were fully convinced of the value of the new technology.",
+          "zh": "看過測試結果後，投資人完全相信這項新技術的價值。"
+        },
+        {
+          "en": "Ms. Ward was convinced that moving the store to a busier street would attract more customers.",
+          "zh": "Ward 小姐確信把店搬到比較熱鬧的街上會吸引更多顧客。"
+        },
+        {
+          "en": "The board was not convinced that the proposal could be completed within the planned budget and schedule.",
+          "zh": "董事會不相信那份提案能在規劃的預算和時程內完成。"
+        },
+        {
+          "en": "Many economists are convinced of the need to invest more in public transportation and clean energy.",
+          "zh": "很多經濟學家確信有必要在大眾運輸和潔淨能源上投入更多資金。"
+        }
+      ],
+      "distractors": [
+        "convincing",
+        "confined",
+        "concerned"
+      ],
+      "note": "語塊：be convinced that（確信……）、be convinced of（確信……）、fully convinced（完全相信）。convinced 是「確信的（人的感受）」；convincing 是「有說服力的（事物）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-council",
+      "word": "council",
+      "pos": "名詞",
+      "meaning": "議會；委員會",
+      "sentences": [
+        {
+          "en": "The city council approved the plan to build a new bicycle path along the river last Tuesday.",
+          "zh": "市議會上週二核准了沿著河邊興建新自行車道的計畫。"
+        },
+        {
+          "en": "Residents are invited to share their opinions at the next council meeting, which will be held at city hall.",
+          "zh": "歡迎居民在下一次議會會議上分享意見，會議將在市政廳舉行。"
+        },
+        {
+          "en": "A council member visited the neighborhood to listen to complaints about noise from the construction site.",
+          "zh": "一位議員到社區聽取居民對工地噪音的抱怨。"
+        },
+        {
+          "en": "The proposal to raise parking fees will be discussed by the city council at the end of the month.",
+          "zh": "調漲停車費的提案將在月底由市議會討論。"
+        },
+        {
+          "en": "The arts council provides funding to local theaters and music groups that perform in public schools.",
+          "zh": "藝術委員會為到公立學校演出的地方劇團和音樂團體提供經費。"
+        }
+      ],
+      "distractors": [
+        "counsel",
+        "consul",
+        "cancel"
+      ],
+      "note": "語塊：city council（市議會）、council meeting（議會會議）、council member（議員）。council 是「議會、委員會」；counsel 是「建議；律師」，發音一樣但意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-investment",
+      "word": "investment",
+      "pos": "名詞",
+      "meaning": "投資",
+      "sentences": [
+        {
+          "en": "The company plans to make an investment of five million dollars in new equipment for its factories.",
+          "zh": "公司計畫投資五百萬美元替工廠購買新設備。"
+        },
+        {
+          "en": "Before buying the software, managers wanted to know the expected return on investment over three years.",
+          "zh": "購買軟體前，經理們想知道三年內預期的投資報酬。"
+        },
+        {
+          "en": "The government lowered taxes in order to attract more foreign investment in the technology sector.",
+          "zh": "政府調降稅率，以吸引更多外國投資進入科技業。"
+        },
+        {
+          "en": "Training employees is a long-term investment that helps companies keep their best and most experienced workers.",
+          "zh": "訓練員工是一項長期投資，能幫助公司留住最好的員工。"
+        },
+        {
+          "en": "Buying energy-efficient machines was a smart investment that has greatly reduced our monthly electricity bills.",
+          "zh": "買節能機器是一項聰明的投資，大大降低了我們的電費。"
+        }
+      ],
+      "distractors": [
+        "investigation",
+        "investor",
+        "involvement"
+      ],
+      "note": "語塊：make an investment（投資）、return on investment（投資報酬）、foreign investment（外國投資）。investment 是名詞；invest 是動詞（invest in）；investigation（調查）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-restore",
+      "word": "restore",
+      "pos": "動詞",
+      "meaning": "恢復；修復",
+      "sentences": [
+        {
+          "en": "Technicians are working hard to restore power to the neighborhoods that were affected by the storm.",
+          "zh": "技師們正在努力為受暴風雨影響的社區恢復供電。"
+        },
+        {
+          "en": "The internet provider expects to restore service to all customers by tomorrow morning at the latest.",
+          "zh": "網路業者預計最晚明天早上會恢復所有用戶的服務。"
+        },
+        {
+          "en": "The city hired experts to restore the old theater, which was built more than one hundred years ago.",
+          "zh": "市政府聘請專家修復那座一百多年前建造的老劇院。"
+        },
+        {
+          "en": "If you accidentally delete a file, the IT department can restore it from the backup server.",
+          "zh": "如果你不小心刪掉檔案，資訊部可以從備份伺服器把它還原。"
+        },
+        {
+          "en": "The new manager hopes to restore customer confidence after the problems with last year's product.",
+          "zh": "新經理希望在去年產品出問題之後，恢復顧客的信心。"
+        }
+      ],
+      "distractors": [
+        "restock",
+        "restrict",
+        "resort"
+      ],
+      "note": "語塊：restore power（恢復供電）、restore service（恢復服務）、restore a building（修復建築）。restore 是「讓東西回到原本的狀態」；store 是「儲存」；restore 也用在電腦「還原」檔案。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incompatibility",
+      "word": "incompatibility",
+      "pos": "名詞",
+      "meaning": "不相容；不相配",
+      "sentences": [
+        {
+          "en": "The update was delayed because of an incompatibility between the new software and older computers.",
+          "zh": "更新延後了，因為新軟體和舊電腦之間不相容。"
+        },
+        {
+          "en": "Several users reported problems caused by software incompatibility after they installed the latest version of the program.",
+          "zh": "好幾位使用者回報安裝最新版本後，因軟體不相容而出現問題。"
+        },
+        {
+          "en": "The engineers solved the incompatibility between the two systems by writing a small connecting program.",
+          "zh": "工程師寫了一個小的連接程式，解決了兩個系統之間的不相容問題。"
+        },
+        {
+          "en": "Customers should check for any incompatibility with their devices before purchasing the new wireless charger online.",
+          "zh": "顧客在購買新充電器之前，應該確認和自己的裝置是否有不相容的問題。"
+        },
+        {
+          "en": "The merger was canceled because of an incompatibility between the management styles of the two companies.",
+          "zh": "合併被取消了，因為兩家公司的管理風格不相合。"
+        }
+      ],
+      "distractors": [
+        "inability",
+        "incapability",
+        "inconvenience"
+      ],
+      "note": "語塊：software incompatibility（軟體不相容）、incompatibility between（……之間的不相容）。incompatibility 是名詞；形容詞 incompatible（不相容的）常用 be incompatible with。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-urgency",
+      "word": "urgency",
+      "pos": "名詞",
+      "meaning": "緊急；迫切",
+      "sentences": [
+        {
+          "en": "The manager spoke with a sense of urgency about the need to finish the report before the deadline.",
+          "zh": "經理帶著緊迫感談到必須在截止日前完成報告。"
+        },
+        {
+          "en": "Repairing the broken air conditioner in the server room should be treated as a matter of urgency.",
+          "zh": "修理機房壞掉的冷氣應該被當作緊急事項處理。"
+        },
+        {
+          "en": "The government acted with urgency to provide food and water to the families affected by the flood.",
+          "zh": "政府緊急行動，為受水災影響的家庭提供食物和水。"
+        },
+        {
+          "en": "There was a sense of urgency in the office as the team prepared for the visit from the important client.",
+          "zh": "團隊為重要客戶來訪做準備時，辦公室裡瀰漫著緊迫感。"
+        },
+        {
+          "en": "The safety problem was reported as a matter of urgency, and the factory stopped production immediately.",
+          "zh": "安全問題被當作緊急事項通報，工廠立刻停止生產。"
+        }
+      ],
+      "distractors": [
+        "agency",
+        "currency",
+        "emergency"
+      ],
+      "note": "語塊：a sense of urgency（緊迫感）、a matter of urgency（緊急事項）、with urgency（緊急地）。urgency 是名詞；urgent 是形容詞「緊急的」；agency（代理機構）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-headquarters",
+      "word": "headquarters",
+      "pos": "名詞",
+      "meaning": "總部；總公司",
+      "sentences": [
+        {
+          "en": "The company headquarters will move from Taipei to Singapore at the beginning of next year.",
+          "zh": "公司總部明年初將從台北遷到新加坡。"
+        },
+        {
+          "en": "Visitors to the headquarters must sign in at the security desk and wear a visitor badge at all times.",
+          "zh": "到總部的訪客必須在保全櫃台登記，並隨時配戴訪客識別證。"
+        },
+        {
+          "en": "The firm opened its regional headquarters in Tokyo to manage its growing business in East Asia.",
+          "zh": "那家公司在東京設立區域總部，管理在東亞日益成長的業務。"
+        },
+        {
+          "en": "All department managers will travel to the headquarters in Chicago for the annual planning meeting.",
+          "zh": "所有部門經理都會到芝加哥的總部參加年度規劃會議。"
+        },
+        {
+          "en": "After the merger, the two companies decided to move headquarters to a new building near the airport.",
+          "zh": "合併之後，兩家公司決定把總部搬到機場附近的一棟新大樓。"
+        }
+      ],
+      "distractors": [
+        "head office",
+        "headlines",
+        "headphones"
+      ],
+      "note": "語塊：company headquarters（公司總部）、move headquarters（遷移總部）、regional headquarters（區域總部）。headquarters 結尾有 s，但可以當單數或複數用；常縮寫成 HQ。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-statistical",
+      "word": "statistical",
+      "pos": "形容詞",
+      "meaning": "統計的；統計學的",
+      "sentences": [
+        {
+          "en": "The research team used statistical analysis to find out which factors affect customer satisfaction the most.",
+          "zh": "研究團隊用統計分析找出哪些因素最影響顧客滿意度。"
+        },
+        {
+          "en": "The government publishes statistical data about employment, wages, and prices in each region every three months.",
+          "zh": "政府每三個月公布一次就業和薪資的統計資料。"
+        },
+        {
+          "en": "Ms. Ng has a strong background in statistical analysis, which makes her ideal for the research position.",
+          "zh": "吳小姐在統計分析方面有紮實的背景，非常適合這個研究職位。"
+        },
+        {
+          "en": "The report includes statistical data showing that online sales have grown by twenty percent each year.",
+          "zh": "報告包含統計資料，顯示網路銷售每年成長百分之二十。"
+        },
+        {
+          "en": "Our analysts will provide a statistical analysis of the survey results at the meeting next Thursday.",
+          "zh": "我們的分析師會在下週四的會議上提供調查結果的統計分析。"
+        }
+      ],
+      "distractors": [
+        "static",
+        "statuesque",
+        "strategical"
+      ],
+      "note": "語塊：statistical analysis（統計分析）、statistical data（統計資料）。statistical 是形容詞；statistics 是「統計數字；統計學」；statistician 是「統計學家」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
