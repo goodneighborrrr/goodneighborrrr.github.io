@@ -34773,6 +34773,706 @@
       ],
       "note": "語塊：prime location（黃金地段）、prime time（黃金時段）、prime example（最好的例子）。prime 是「最重要的、最好的」；primary 是「主要的；初級的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-constrained",
+      "word": "constrained",
+      "pos": "形容詞",
+      "meaning": "受限制的；拘束的",
+      "sentences": [
+        {
+          "en": "The project was constrained by a small budget, so the team had to find cheaper materials.",
+          "zh": "專案受限於很少的預算，所以團隊必須找更便宜的材料。"
+        },
+        {
+          "en": "Many small businesses are financially constrained and cannot afford to hire more staff this year.",
+          "zh": "很多小企業財務受限，今年無法負擔增聘人手。"
+        },
+        {
+          "en": "The design of the new office was constrained by the size and shape of the old building.",
+          "zh": "新辦公室的設計受到舊大樓大小和形狀的限制。"
+        },
+        {
+          "en": "Because we are constrained by time, we will discuss only the most important items at today's meeting.",
+          "zh": "因為時間有限，我們今天的會議只討論最重要的項目。"
+        },
+        {
+          "en": "Schools in rural areas are often constrained by a lack of teachers and modern equipment.",
+          "zh": "鄉村地區的學校常受限於缺乏老師和現代化設備。"
+        }
+      ],
+      "distractors": [
+        "constructed",
+        "contained",
+        "concerned"
+      ],
+      "note": "語塊：financially constrained（財務受限）、constrained by（受……限制）。constrained 是「被限制住的」；constraint 是名詞「限制」；restricted 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-genuine",
+      "word": "genuine",
+      "pos": "形容詞",
+      "meaning": "真正的；真誠的",
+      "sentences": [
+        {
+          "en": "The bag is made of genuine leather and comes with a two-year warranty from the manufacturer.",
+          "zh": "這個包包是真皮做的，還附有製造商兩年的保固。"
+        },
+        {
+          "en": "The interviewer could tell that the applicant had a genuine interest in working with children.",
+          "zh": "面試官看得出那位應徵者對和孩子一起工作有真正的興趣。"
+        },
+        {
+          "en": "The manager showed genuine concern for the employee who was injured and visited him in the hospital.",
+          "zh": "經理對那位受傷的員工表現出真誠的關心，還到醫院探望他。"
+        },
+        {
+          "en": "Customers should buy spare parts only from authorized dealers to make sure they are genuine.",
+          "zh": "顧客應該只向授權經銷商購買備用零件，確保它們是正品。"
+        },
+        {
+          "en": "The museum confirmed that the painting is genuine and was painted by the artist in the 1890s.",
+          "zh": "博物館確認那幅畫是真跡，由那位藝術家在 1890 年代所畫。"
+        }
+      ],
+      "distractors": [
+        "generous",
+        "genius",
+        "general"
+      ],
+      "note": "語塊：genuine leather（真皮）、genuine interest（真正的興趣）、genuine concern（真誠的關心）。genuine 是「真的、不是假的」；authentic 意思接近；fake 是「假的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reproduction",
+      "word": "reproduction",
+      "pos": "名詞",
+      "meaning": "複製品；繁殖",
+      "sentences": [
+        {
+          "en": "The painting in the hotel lobby is a reproduction of a famous work that is kept in a museum in Paris.",
+          "zh": "飯店大廳的那幅畫是巴黎一家博物館收藏的名畫的複製品。"
+        },
+        {
+          "en": "The gift shop sells a reproduction of every major painting in the museum's large collection at low prices.",
+          "zh": "禮品店販售博物館館藏中每幅重要畫作的複製品。"
+        },
+        {
+          "en": "The reproduction of documents without written permission from the author or the publisher is not allowed.",
+          "zh": "未經作者或出版社的書面許可，不得複製文件。"
+        },
+        {
+          "en": "Scientists are studying the reproduction of rare birds that live in the wetlands near the river.",
+          "zh": "科學家正在研究住在河邊濕地的稀有鳥類的繁殖。"
+        },
+        {
+          "en": "This chair is a reproduction of a classic design from the 1950s, and it costs much less than the original.",
+          "zh": "這張椅子是 1950 年代經典設計的複製品，價格比原版便宜很多。"
+        }
+      ],
+      "distractors": [
+        "production",
+        "reduction",
+        "introduction"
+      ],
+      "note": "語塊：a reproduction of（……的複製品）、reproduction of documents（文件複製）。reproduction 可以是「複製品」或生物「繁殖」；reproduce 是動詞；original 是「原作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nomination",
+      "word": "nomination",
+      "pos": "名詞",
+      "meaning": "提名",
+      "sentences": [
+        {
+          "en": "The film received a nomination for best picture at the international film festival this year.",
+          "zh": "那部電影今年在國際影展獲得最佳影片提名。"
+        },
+        {
+          "en": "Employees can submit a nomination for the annual award by sending an email to human resources.",
+          "zh": "員工可以寄電子郵件給人資部，提交年度獎項的提名。"
+        },
+        {
+          "en": "Ms. Lin was surprised to receive a nomination for employee of the year after only two years.",
+          "zh": "林小姐才到職兩年就獲得年度最佳員工提名，讓她很意外。"
+        },
+        {
+          "en": "The deadline for each nomination is the end of March, and the winners will be announced in May.",
+          "zh": "每項提名的截止日是三月底，得獎者將在五月公布。"
+        },
+        {
+          "en": "Mr. Kim decided to accept a nomination to become the new chairperson of the business association.",
+          "zh": "金先生決定接受提名，成為商業協會的新主席。"
+        }
+      ],
+      "distractors": [
+        "domination",
+        "denomination",
+        "termination"
+      ],
+      "note": "語塊：receive a nomination（獲得提名）、nomination for（……的提名）、accept a nomination（接受提名）。nomination 是名詞；nominate 是動詞「提名」；nominee 是「被提名人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-payroll",
+      "word": "payroll",
+      "pos": "名詞",
+      "meaning": "薪資名冊；薪資總額",
+      "sentences": [
+        {
+          "en": "The company has more than two thousand people on the payroll in its factories around the world.",
+          "zh": "那家公司在全球的工廠中有兩千多名員工。"
+        },
+        {
+          "en": "Please contact the payroll department if there is a mistake on your monthly pay slip.",
+          "zh": "如果你的每月薪資單有錯誤，請聯絡薪資部門。"
+        },
+        {
+          "en": "The new payroll system automatically calculates taxes and sends salaries to employees' bank accounts every month.",
+          "zh": "新的薪資系統會自動計算稅金，並把薪水匯到員工的銀行帳戶。"
+        },
+        {
+          "en": "Small businesses often hire an accountant to manage their payroll and other important financial matters.",
+          "zh": "小企業常常聘請會計師管理薪資和其他財務事項。"
+        },
+        {
+          "en": "The restaurant added ten new workers to the payroll before the busy summer season began.",
+          "zh": "忙碌的夏季開始前，那家餐廳新增了十名員工。"
+        }
+      ],
+      "distractors": [
+        "enroll",
+        "paycheck",
+        "patrol"
+      ],
+      "note": "語塊：on the payroll（受僱於）、payroll department（薪資部門）、payroll system（薪資系統）。payroll 是「公司付薪水的名單或總額」；salary 是個人的「薪水」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-maintenance-fee",
+      "word": "maintenance fee",
+      "pos": "名詞",
+      "meaning": "維護費；管理費",
+      "sentences": [
+        {
+          "en": "Residents of the apartment building pay a monthly maintenance fee for cleaning, repairs, and security.",
+          "zh": "公寓大樓的住戶每月要付清潔和保全的管理費。"
+        },
+        {
+          "en": "The bank charges a small maintenance fee if the balance in your account falls below one hundred dollars.",
+          "zh": "如果你帳戶的餘額低於一百美元，銀行會收取一小筆維護費。"
+        },
+        {
+          "en": "The software company offers free updates to customers in exchange for an annual maintenance fee.",
+          "zh": "那家軟體公司收取年度維護費，提供免費更新。"
+        },
+        {
+          "en": "The monthly maintenance fee will increase slightly next year because of higher costs for repairs.",
+          "zh": "因為維修成本增加，明年每月管理費會小幅調漲。"
+        },
+        {
+          "en": "Customers who buy the printer must pay an annual maintenance fee to receive regular service.",
+          "zh": "購買印表機的顧客必須付年度維護費，才能享有定期服務。"
+        }
+      ],
+      "distractors": [
+        "membership fee",
+        "admission fee",
+        "service fee"
+      ],
+      "note": "語塊：monthly maintenance fee（每月管理費）、annual maintenance fee（年度維護費）。maintenance 是「維修、保養」；fee 是「費用」；maintain 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-associated-with",
+      "word": "associated with",
+      "pos": "其他",
+      "meaning": "與……有關",
+      "sentences": [
+        {
+          "en": "There are some risks associated with investing in new technology, so we must plan carefully.",
+          "zh": "投資新科技有一些相關風險，所以我們必須仔細規劃。"
+        },
+        {
+          "en": "The brand is associated with high quality and excellent service in the minds of most customers.",
+          "zh": "在大多數顧客心中，那個品牌和高品質及優質服務連在一起。"
+        },
+        {
+          "en": "Please read about the costs associated with renting the hall before you sign the contract.",
+          "zh": "簽約前，請先看看租用會場的相關費用。"
+        },
+        {
+          "en": "Long working hours are often associated with stress and health problems among office workers in large cities.",
+          "zh": "長工時常常和上班族的壓力及健康問題有關。"
+        },
+        {
+          "en": "The company explained the risks associated with the new product before it was sold in stores.",
+          "zh": "公司在新產品於門市販售前說明了相關風險。"
+        }
+      ],
+      "distractors": [
+        "acquainted with",
+        "affiliated with",
+        "satisfied with"
+      ],
+      "note": "語塊：be associated with（和……有關）、risks associated with（與……相關的風險）。be associated with 是「和……有關聯」；be related to 意思接近；associate 是動詞「聯想」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quota",
+      "word": "quota",
+      "pos": "名詞",
+      "meaning": "配額；定額",
+      "sentences": [
+        {
+          "en": "Each member of the sales team must meet a quota of twenty new customers every month.",
+          "zh": "業務團隊的每位成員每個月都必須達成二十位新客戶的配額。"
+        },
+        {
+          "en": "Employees who reach their sales quota before the end of the quarter will receive a bonus.",
+          "zh": "在季末前達成業績配額的員工會獲得獎金。"
+        },
+        {
+          "en": "The government set an import quota to protect local farmers from cheap rice imported from abroad.",
+          "zh": "政府設定進口配額，保護在地農民不受便宜外國米的衝擊。"
+        },
+        {
+          "en": "The factory was unable to meet a quota for production because several machines broke down.",
+          "zh": "因為好幾台機器故障，工廠無法達成生產配額。"
+        },
+        {
+          "en": "The new sales quota is higher than last year's, but the manager believes the team can reach it.",
+          "zh": "新的業績配額比去年高，但經理相信團隊能達成。"
+        }
+      ],
+      "distractors": [
+        "quote",
+        "quotation",
+        "quorum"
+      ],
+      "note": "語塊：sales quota（業績配額）、meet a quota（達成配額）、import quota（進口配額）。quota 是「規定的數量」；quote 是「報價；引用」，只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-launch",
+      "word": "launch",
+      "pos": "動詞",
+      "meaning": "推出；發起",
+      "sentences": [
+        {
+          "en": "The company plans to launch a product for elderly customers that is easy to use and very affordable.",
+          "zh": "公司計畫推出一款容易使用又非常平價、給年長顧客的產品。"
+        },
+        {
+          "en": "The city will launch a campaign to encourage residents to recycle more of their household waste.",
+          "zh": "市政府將發起一項活動，鼓勵居民回收更多家庭垃圾。"
+        },
+        {
+          "en": "We will launch a website next month where customers can order our products and track their deliveries.",
+          "zh": "我們下個月會上線一個網站，讓顧客可以訂購產品並追蹤配送。"
+        },
+        {
+          "en": "The airline is expected to launch new routes to Southeast Asia at the beginning of next year.",
+          "zh": "那家航空公司預計明年初推出飛往東南亞的新航線。"
+        },
+        {
+          "en": "Before you launch a product, it is important to test it carefully and listen to feedback from customers.",
+          "zh": "推出產品之前，仔細測試並聽取顧客意見很重要。"
+        }
+      ],
+      "distractors": [
+        "lunch",
+        "latch",
+        "laundry"
+      ],
+      "note": "語塊：launch a product（推出產品）、launch a campaign（發起活動）、launch a website（上線網站）。launch 是「推出（新產品、活動）」；也可以當名詞「上市」；release 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decade",
+      "word": "decade",
+      "pos": "名詞",
+      "meaning": "十年",
+      "sentences": [
+        {
+          "en": "Online shopping has grown quickly over the past decade, and many stores now sell most items online.",
+          "zh": "網路購物在過去十年快速成長，很多店現在大部分商品都在網路上賣。"
+        },
+        {
+          "en": "Mr. Lopez has worked at the bank for a decade and knows almost every customer by name.",
+          "zh": "Lopez 先生在銀行工作十年了，幾乎叫得出每位顧客的名字。"
+        },
+        {
+          "en": "The company plans to open one hundred new stores across Asia during the next decade.",
+          "zh": "公司計畫在未來十年於亞洲各地開設一百家新店。"
+        },
+        {
+          "en": "The price of houses in the city has nearly doubled over the past decade because of strong demand.",
+          "zh": "因為需求強勁，城市的房價在過去十年將近翻倍。"
+        },
+        {
+          "en": "Experts believe that electric cars will become more common than gas cars within the next decade.",
+          "zh": "專家認為未來十年內電動車將比汽油車更普遍。"
+        }
+      ],
+      "distractors": [
+        "decay",
+        "decide",
+        "dedicate"
+      ],
+      "note": "語塊：over the past decade（過去十年）、for a decade（十年來）、the next decade（未來十年）。decade 是「十年」；century 是「一百年」；decay（腐爛）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-a-name",
+      "word": "make a name",
+      "pos": "片語動詞",
+      "meaning": "成名；打響名號",
+      "sentences": [
+        {
+          "en": "The young chef hopes to make a name for herself by opening a small restaurant in the city center.",
+          "zh": "那位年輕主廚希望在市中心開一家小餐廳，為自己打響名號。"
+        },
+        {
+          "en": "It can take many years for a new designer to make a name in the fashion industry.",
+          "zh": "新設計師可能要很多年才能在時尚界成名。"
+        },
+        {
+          "en": "The company was able to make a name for itself by offering excellent service at low prices.",
+          "zh": "那家公司以低價提供優質服務，成功打響了名號。"
+        },
+        {
+          "en": "Many young musicians move to large cities in order to make a name in the music business.",
+          "zh": "很多年輕音樂人搬到大城市，想在音樂界成名。"
+        },
+        {
+          "en": "The architect began to make a name for himself after he designed the new library downtown.",
+          "zh": "那位建築師設計了市中心的新圖書館後開始成名。"
+        }
+      ],
+      "distractors": [
+        "make a point",
+        "make a deal",
+        "make a living"
+      ],
+      "note": "語塊：make a name for oneself（為自己打響名號）、make a name in（在……領域成名）。make a name for oneself 是「讓自己出名」；become famous 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-direct-flight",
+      "word": "direct flight",
+      "pos": "名詞",
+      "meaning": "直飛航班",
+      "sentences": [
+        {
+          "en": "The airline will start offering a direct flight to Seoul from our city at the beginning of next year.",
+          "zh": "那家航空公司明年初將開始提供從我們城市直飛首爾的班機。"
+        },
+        {
+          "en": "Ms. Grant prefers to take a direct flight when she travels for business because it saves time.",
+          "zh": "Grant 小姐出差時比較喜歡搭直飛班機，因為比較省時間。"
+        },
+        {
+          "en": "There is no direct flight to the island, so passengers must change planes in the capital.",
+          "zh": "沒有直飛那座島的班機，所以乘客必須在首都轉機。"
+        },
+        {
+          "en": "A direct flight from Taipei to London takes about fourteen hours, which is much faster than flying through Dubai.",
+          "zh": "從台北直飛倫敦大約要十四小時，比經杜拜轉機快很多。"
+        },
+        {
+          "en": "The company will pay for a direct flight to the conference so that employees arrive rested.",
+          "zh": "公司會支付前往研討會的直飛機票，讓員工抵達時精神飽滿。"
+        }
+      ],
+      "distractors": [
+        "connecting flight",
+        "domestic flight",
+        "flight attendant"
+      ],
+      "note": "語塊：take a direct flight（搭直飛班機）、direct flight to（直飛……的班機）。direct flight 是「不用轉機的班機」；connecting flight 是「轉機航班」；nonstop flight 也是「直飛」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-capacity",
+      "word": "capacity",
+      "pos": "名詞",
+      "meaning": "容量；能力；職位",
+      "sentences": [
+        {
+          "en": "The new concert hall has a seating capacity of three thousand people and excellent sound.",
+          "zh": "新音樂廳有三千個座位，音響效果極佳。"
+        },
+        {
+          "en": "The factory is operating at full capacity in order to meet the strong demand for its products.",
+          "zh": "工廠正全力運轉，以滿足產品的強勁需求。"
+        },
+        {
+          "en": "In her capacity as team leader, Ms. Ito is responsible for checking the quality of every report.",
+          "zh": "以團隊領導的身分，伊藤小姐負責檢查每份報告的品質。"
+        },
+        {
+          "en": "The hotel was filled to capacity during the music festival, so many visitors stayed in nearby towns.",
+          "zh": "音樂節期間飯店全部客滿，所以很多訪客住在附近的城鎮。"
+        },
+        {
+          "en": "The company plans to increase the capacity of its warehouse by building a second floor next year.",
+          "zh": "公司計畫明年加蓋二樓，增加倉庫的容量。"
+        }
+      ],
+      "distractors": [
+        "capability",
+        "capital",
+        "captivity"
+      ],
+      "note": "語塊：seating capacity（座位數）、at full capacity（滿載；全力運轉）、in one's capacity as（以……的身分）。capacity 可以是「容量」、「生產能力」或「身分、職位」；capable 是「有能力的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-drastically",
+      "word": "drastically",
+      "pos": "副詞",
+      "meaning": "大幅地；激烈地",
+      "sentences": [
+        {
+          "en": "The new machines will drastically reduce the time it takes to produce each car at the factory.",
+          "zh": "新機器將大幅縮短工廠生產每輛車所需的時間。"
+        },
+        {
+          "en": "The way people shop has drastically changed since online stores and mobile apps became popular around the world.",
+          "zh": "自從網路商店流行以來，人們購物的方式劇烈改變。"
+        },
+        {
+          "en": "The price of the old computers dropped drastically after the new models were released in the spring.",
+          "zh": "新機型推出後，舊電腦的價格大幅下跌。"
+        },
+        {
+          "en": "The company plans to drastically reduce its use of plastic by changing the packaging of all its products.",
+          "zh": "公司計畫改變所有產品的包裝，大幅減少塑膠使用。"
+        },
+        {
+          "en": "The number of visitors to the museum increased drastically after the new exhibition opened in March.",
+          "zh": "三月新展覽開幕後，博物館的參觀人數大幅增加。"
+        }
+      ],
+      "distractors": [
+        "dramatically",
+        "directly",
+        "drably"
+      ],
+      "note": "語塊：drastically reduce（大幅減少）、drastically change（劇烈改變）、drastically increase（大幅增加）。drastically 是「變化非常大」；dramatically 意思接近；drastic 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-portfolio",
+      "word": "portfolio",
+      "pos": "名詞",
+      "meaning": "作品集；投資組合",
+      "sentences": [
+        {
+          "en": "Applicants for the designer position should send a portfolio of their recent work with their résumé.",
+          "zh": "應徵設計師職位的人應該隨履歷寄上近期作品的作品集。"
+        },
+        {
+          "en": "A financial advisor can help you build an investment portfolio that matches your goals and your income.",
+          "zh": "理財顧問可以幫你建立符合目標的投資組合。"
+        },
+        {
+          "en": "The company expanded its product portfolio by adding kitchen appliances, home furniture, and garden tools.",
+          "zh": "公司增加了廚房家電和居家家具，擴充產品組合。"
+        },
+        {
+          "en": "Ms. Lee showed the client her portfolio, which included designs for several famous hotels in Asia.",
+          "zh": "李小姐給客戶看她的作品集，裡面有好幾家知名飯店的設計。"
+        },
+        {
+          "en": "Experts recommend that you review your investment portfolio at least once a year with a professional.",
+          "zh": "專家建議至少每年檢視一次你的投資組合。"
+        }
+      ],
+      "distractors": [
+        "portion",
+        "portal",
+        "porthole"
+      ],
+      "note": "語塊：design portfolio（設計作品集）、investment portfolio（投資組合）、product portfolio（產品組合）。portfolio 可以是「作品集」或「投資組合」；briefcase 是「公事包」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consist-of",
+      "word": "consist of",
+      "pos": "片語動詞",
+      "meaning": "由……組成",
+      "sentences": [
+        {
+          "en": "The training program will consist of five workshops and a final test at the end of the month.",
+          "zh": "訓練計畫將由五場工作坊和月底的最後測驗組成。"
+        },
+        {
+          "en": "The committee will consist of ten members from different departments and offices of the company.",
+          "zh": "委員會將由公司不同部門的十位成員組成。"
+        },
+        {
+          "en": "The new menu will mainly consist of dishes made with fresh vegetables from local farms.",
+          "zh": "新菜單主要將由使用在地農場新鮮蔬菜做的料理組成。"
+        },
+        {
+          "en": "A typical day at the conference will consist of presentations in the morning and workshops in the afternoon.",
+          "zh": "研討會典型的一天會是上午簡報、下午工作坊。"
+        },
+        {
+          "en": "The tour package will consist of three nights at a hotel, two meals a day, and a local guide.",
+          "zh": "這個套裝行程包含三晚飯店住宿、一天兩餐和一位當地導遊。"
+        }
+      ],
+      "distractors": [
+        "consist in",
+        "insist on",
+        "persist in"
+      ],
+      "note": "語塊：consist of（由……構成）、mainly consist of（主要由……組成）。consist of 不用被動式（不能說 be consisted of）；be made up of 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-intriguing",
+      "word": "intriguing",
+      "pos": "形容詞",
+      "meaning": "引人入勝的；耐人尋味的",
+      "sentences": [
+        {
+          "en": "The speaker presented an intriguing idea about how cities could use rooftops to grow vegetables.",
+          "zh": "講者提出一個有趣的點子，說明城市如何利用屋頂種菜。"
+        },
+        {
+          "en": "The book raises an intriguing question about whether robots will replace workers in the future.",
+          "zh": "那本書提出一個耐人尋味的問題：機器人未來是否會取代工人。"
+        },
+        {
+          "en": "Many visitors find the museum's new exhibition about ancient trade routes across Asia very intriguing.",
+          "zh": "很多參觀者覺得博物館關於古代貿易路線的新展覽非常引人入勝。"
+        },
+        {
+          "en": "The designer's intriguing idea for the new logo was chosen by the board out of twenty proposals.",
+          "zh": "董事會從二十份提案中選中了那位設計師對新商標的有趣構想。"
+        },
+        {
+          "en": "The results of the survey were intriguing, as they showed that young people prefer printed books.",
+          "zh": "調查結果很耐人尋味，顯示年輕人比較喜歡紙本書。"
+        }
+      ],
+      "distractors": [
+        "intricate",
+        "interesting",
+        "intruding"
+      ],
+      "note": "語塊：intriguing idea（有趣的點子）、intriguing question（耐人尋味的問題）。intriguing 是「讓人好奇、很有意思」；interesting 意思接近但較普通。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-uncertain",
+      "word": "uncertain",
+      "pos": "形容詞",
+      "meaning": "不確定的",
+      "sentences": [
+        {
+          "en": "The date of the new store's opening remains uncertain because of problems with the building permit.",
+          "zh": "因為建築許可證的問題，新店的開幕日期仍不確定。"
+        },
+        {
+          "en": "Many workers feel worried about their uncertain future after the company announced its restructuring plan.",
+          "zh": "公司宣布重組計畫後，很多員工對不確定的未來感到擔心。"
+        },
+        {
+          "en": "If you are uncertain about any part of the contract, please ask our lawyer before you sign it.",
+          "zh": "如果你對合約的任何部分不確定，請在簽名前請教我們的律師。"
+        },
+        {
+          "en": "The economy is uncertain, so the company has decided to wait before hiring more staff.",
+          "zh": "經濟情況不確定，所以公司決定先等一等再增聘人手。"
+        },
+        {
+          "en": "The weather remains uncertain, so the organizers will decide on Friday whether the event will be held outdoors.",
+          "zh": "天氣仍不確定，所以主辦單位週五會決定活動是否在戶外舉行。"
+        }
+      ],
+      "distractors": [
+        "unconcerned",
+        "uncertified",
+        "unconscious"
+      ],
+      "note": "語塊：remain uncertain（仍不確定）、uncertain future（不確定的未來）、be uncertain about（對……不確定）。uncertain 是「不確定」；certain 是「確定的」；uncertainty 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-house",
+      "word": "house",
+      "pos": "動詞",
+      "meaning": "容納；收藏；提供住處",
+      "sentences": [
+        {
+          "en": "The new building will house the company's research center as well as several meeting rooms.",
+          "zh": "新大樓將容納公司的研究中心和好幾間會議室。"
+        },
+        {
+          "en": "The museum will house a collection of more than five hundred paintings by local artists.",
+          "zh": "那座博物館將收藏五百多幅在地藝術家的畫作。"
+        },
+        {
+          "en": "The old factory was renovated to house offices, shops, and a small theater for local performances.",
+          "zh": "舊工廠經過整修，用來容納辦公室、商店和一間小劇場。"
+        },
+        {
+          "en": "The city built a new shelter to house families who lost their homes in the flood.",
+          "zh": "市政府蓋了一個新的收容所，安置在水災中失去家園的家庭。"
+        },
+        {
+          "en": "The library will house a special room for children with books, games, and comfortable chairs.",
+          "zh": "圖書館將設一間有書、遊戲和舒適椅子的兒童專屬房間。"
+        }
+      ],
+      "distractors": [
+        "horse",
+        "host",
+        "hose"
+      ],
+      "note": "語塊：house a collection（收藏）、house offices（容納辦公室）、be housed in（設在……）。house 當動詞（唸 /haʊz/）是「容納、安置」；當名詞是「房子」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regional-office",
+      "word": "regional office",
+      "pos": "名詞",
+      "meaning": "區域辦公室",
+      "sentences": [
+        {
+          "en": "The company plans to open a regional office in Singapore to manage its business in Southeast Asia.",
+          "zh": "公司計畫在新加坡設立區域辦公室，管理東南亞的業務。"
+        },
+        {
+          "en": "Ms. Patel works at the regional office in Chicago and travels to the head office twice a year.",
+          "zh": "Patel 小姐在芝加哥的區域辦公室工作，一年到總公司兩次。"
+        },
+        {
+          "en": "All requests for vacation should be sent to the regional office at least two weeks in advance.",
+          "zh": "所有休假申請都應該至少提前兩週寄到區域辦公室。"
+        },
+        {
+          "en": "The regional office is responsible for training staff at every store in the northern part of the country.",
+          "zh": "區域辦公室負責訓練國內北部每家門市的員工。"
+        },
+        {
+          "en": "After the merger, the two companies decided to share one regional office instead of having two.",
+          "zh": "合併之後，兩家公司決定共用一個區域辦公室，而不是兩個。"
+        }
+      ],
+      "distractors": [
+        "head office",
+        "branch office",
+        "box office"
+      ],
+      "note": "語塊：open a regional office（設立區域辦公室）、work at the regional office（在區域辦公室工作）、sent to the regional office（寄到區域辦公室）、share one regional office（共用一個區域辦公室）。regional office 負責一個地區的業務；head office 是「總公司」；branch office 是「分公司」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
