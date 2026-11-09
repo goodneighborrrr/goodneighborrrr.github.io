@@ -16258,6 +16258,706 @@
       ],
       "note": "語塊：stand out from（從……中脫穎而出）、stand out among（在……之中顯得突出）。stand out 是「特別顯眼」；outstanding 是形容詞「傑出的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-break-down",
+      "word": "break down",
+      "pos": "片語動詞",
+      "meaning": "故障；（談判）破裂；分解",
+      "sentences": [
+        {
+          "en": "Could you break down the cost of the project so that we can see how much each part will be?",
+          "zh": "你可以把專案的費用細分，讓我們看看每個部分要多少錢嗎？"
+        },
+        {
+          "en": "The delivery van tends to break down in cold weather, so we plan to replace it next year.",
+          "zh": "那台送貨車天冷時常常故障，所以我們打算明年換掉。"
+        },
+        {
+          "en": "If talks break down again, the two companies may have to settle the dispute in court.",
+          "zh": "如果談判再次破裂，兩家公司可能得上法院解決糾紛。"
+        },
+        {
+          "en": "The report will break down the cost of operating each store by rent, salaries, and utilities.",
+          "zh": "報告會把每家門市的營運成本按租金、薪水和水電細分。"
+        },
+        {
+          "en": "Please call our hotline immediately if your machine should break down during the warranty period.",
+          "zh": "如果你的機器在保固期間故障，請立刻打我們的專線。"
+        }
+      ],
+      "distractors": [
+        "break up",
+        "break into",
+        "break out"
+      ],
+      "note": "語塊：break down the cost（把費用細分）、talks break down（談判破裂）。break down 可以指機器「故障」、談判「破裂」，也可以指把資料「細分」；breakdown 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shut-down",
+      "word": "shut down",
+      "pos": "片語動詞",
+      "meaning": "關閉；停止運作",
+      "sentences": [
+        {
+          "en": "The company had to shut down the factory for a week to repair the damage caused by the flood.",
+          "zh": "公司因為要修復水災造成的損壞，只好關閉工廠一週。"
+        },
+        {
+          "en": "The IT team will shut down the system at midnight on Friday in order to install the new software.",
+          "zh": "資訊團隊會在週五午夜關閉系統，安裝新軟體。"
+        },
+        {
+          "en": "The museum will temporarily shut down its east wing while workers replace the old air conditioning system.",
+          "zh": "工人更換舊空調系統期間，博物館會暫時關閉東翼。"
+        },
+        {
+          "en": "Please save your work and shut down your computer before you leave the office this evening.",
+          "zh": "今晚離開辦公室前，請存好檔案並關掉電腦。"
+        },
+        {
+          "en": "Officials decided to shut down the highway for several hours after a truck accident blocked all lanes.",
+          "zh": "一起卡車事故擋住所有車道後，官員決定封閉公路好幾個小時。"
+        }
+      ],
+      "distractors": [
+        "shut up",
+        "shut out",
+        "slow down"
+      ],
+      "note": "語塊：shut down the factory（關閉工廠）、shut down the system（關閉系統）、temporarily shut down（暫時關閉）。shut down 是「關閉、停止運作」；close down 也可以表示「歇業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recruiter",
+      "word": "recruiter",
+      "pos": "名詞",
+      "meaning": "招募人員；獵人頭",
+      "sentences": [
+        {
+          "en": "A recruiter from the bank will visit the university next week to talk with students about job openings.",
+          "zh": "那家銀行的一位招募人員下週會到大學和學生談職缺。"
+        },
+        {
+          "en": "If you are interested in working overseas, you can contact a recruiter who specializes in international positions.",
+          "zh": "如果你有興趣到海外工作，可以聯絡一位專門做國際職缺的招募人員。"
+        },
+        {
+          "en": "The job recruiter called Ms. Moreno to schedule a second interview with the marketing director.",
+          "zh": "招募人員打電話給 Moreno 小姐，安排她和行銷總監進行第二次面試。"
+        },
+        {
+          "en": "Our company hired an experienced recruiter to help us find qualified engineers for the new project.",
+          "zh": "我們公司聘請了一位有經驗的招募人員，幫我們找新專案需要的合格工程師。"
+        },
+        {
+          "en": "Every recruiter at the job fair was looking for candidates with strong computer and language skills.",
+          "zh": "就業博覽會上的每一位招募人員都在找電腦能力強的應徵者。"
+        }
+      ],
+      "distractors": [
+        "recruitment",
+        "recreation",
+        "researcher"
+      ],
+      "note": "語塊：job recruiter（招募人員）、contact a recruiter（聯絡招募人員）。recruiter 是「招募人員」；recruit 是動詞「招募」或名詞「新進人員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-redeem",
+      "word": "redeem",
+      "pos": "動詞",
+      "meaning": "兌換；贖回",
+      "sentences": [
+        {
+          "en": "Customers can redeem a coupon for a free coffee at any of our locations until the end of March.",
+          "zh": "顧客在三月底前可以在我們任何一家分店用優惠券換一杯免費咖啡。"
+        },
+        {
+          "en": "Members can redeem points for hotel stays, flights, and gift cards through our mobile app.",
+          "zh": "會員可以透過我們的 App 用點數兌換飯店住宿、機票和禮物卡。"
+        },
+        {
+          "en": "Gift certificates cannot be redeemed for cash, but you can redeem them for any item in the store.",
+          "zh": "禮券不能換現金，但可以在店內兌換任何商品。"
+        },
+        {
+          "en": "To redeem your voucher, simply show the barcode to the cashier when you pay for your meal.",
+          "zh": "要使用你的抵用券，結帳時只要把條碼給收銀員看就好。"
+        },
+        {
+          "en": "Passengers who redeem points for a flight must book their tickets at least two weeks in advance.",
+          "zh": "用點數兌換機票的乘客，必須至少提前兩週訂票。"
+        }
+      ],
+      "distractors": [
+        "redeemable",
+        "deem",
+        "remedy"
+      ],
+      "note": "語塊：redeem a coupon（使用優惠券）、redeem points（兌換點數）、redeem for（兌換成）。redeem 是「用點數、優惠券換東西」；名詞是 redemption。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-redemption",
+      "word": "redemption",
+      "pos": "名詞",
+      "meaning": "兌換；贖回",
+      "sentences": [
+        {
+          "en": "The redemption of points for free flights is not available during the busy holiday season.",
+          "zh": "節慶旺季期間不能用點數兌換免費機票。"
+        },
+        {
+          "en": "The redemption period for the gift vouchers ends on the last day of the year, so please use them soon.",
+          "zh": "禮券的兌換期限在年底最後一天結束，所以請盡快使用。"
+        },
+        {
+          "en": "Customers can check the redemption status of their rewards by logging in to their online account.",
+          "zh": "顧客可以登入線上帳戶查詢獎勵的兌換狀態。"
+        },
+        {
+          "en": "The store changed its policy so that the redemption of coupons is limited to one per customer.",
+          "zh": "店家修改了規定，每位顧客只能兌換一張優惠券。"
+        },
+        {
+          "en": "Please contact customer service if you have any problems with the redemption of points on our website.",
+          "zh": "如果你在我們網站上兌換點數有任何問題，請聯絡客服。"
+        }
+      ],
+      "distractors": [
+        "reduction",
+        "resumption",
+        "redistribution"
+      ],
+      "note": "語塊：redemption of points（點數兌換）、redemption period（兌換期限）。redemption 是名詞，動詞是 redeem；常見於「點數、優惠券的兌換」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exempt",
+      "word": "exempt",
+      "pos": "形容詞",
+      "meaning": "被豁免的；免除的",
+      "sentences": [
+        {
+          "en": "Small businesses with fewer than ten employees are exempt from the new reporting requirements announced last month.",
+          "zh": "員工少於十人的小企業不受新的申報規定約束。"
+        },
+        {
+          "en": "Donations to the children's hospital are tax-exempt, so donors can deduct them from their income.",
+          "zh": "捐給兒童醫院的錢是免稅的，捐款人可以從收入中扣除。"
+        },
+        {
+          "en": "Senior managers are exempt from the training sessions because they have already completed the course.",
+          "zh": "高階經理不用參加訓練課程，因為他們已經上過了。"
+        },
+        {
+          "en": "Certain medical supplies are exempt from import taxes under the new trade agreement signed this year.",
+          "zh": "根據新的貿易協定，某些醫療用品免繳進口稅。"
+        },
+        {
+          "en": "Visitors from member countries are exempt from visa requirements for stays of up to ninety days.",
+          "zh": "來自會員國的訪客停留九十天以內免簽證。"
+        }
+      ],
+      "distractors": [
+        "except",
+        "exempted",
+        "attempt"
+      ],
+      "note": "語塊：be exempt from（免除……）、tax-exempt（免稅的）。be exempt from 是「不用做／不用付」；exemption 是名詞「豁免」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-struggling",
+      "word": "struggling",
+      "pos": "形容詞",
+      "meaning": "苦苦掙扎的；經營困難的",
+      "sentences": [
+        {
+          "en": "The new CEO was hired to help the struggling company return to profit within two years.",
+          "zh": "新執行長受聘幫助這家經營困難的公司在兩年內轉虧為盈。"
+        },
+        {
+          "en": "Many small shops are struggling to pay their rent because the number of tourists has decreased.",
+          "zh": "因為觀光客減少，很多小店都很難付出房租。"
+        },
+        {
+          "en": "The government introduced new programs to support the struggling economy after several large factory closures.",
+          "zh": "工廠關閉後，政府推出新計畫支持不景氣的經濟。"
+        },
+        {
+          "en": "The struggling restaurant decided to change its menu and lower its prices to attract more customers.",
+          "zh": "那家經營困難的餐廳決定更換菜單並降價，吸引更多顧客。"
+        },
+        {
+          "en": "Volunteers offer free tutoring to struggling students at the local community center every Tuesday evening.",
+          "zh": "志工每週二晚上在社區中心為課業吃力的學生提供免費輔導。"
+        }
+      ],
+      "distractors": [
+        "strolling",
+        "smuggling",
+        "stuttering"
+      ],
+      "note": "語塊：struggling company（經營困難的公司）、struggling economy（不景氣的經濟）、struggling to（努力想要……）。struggling 是「努力掙扎、處境困難」；struggle 是動詞或名詞「奮鬥」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-option",
+      "word": "option",
+      "pos": "名詞",
+      "meaning": "選擇；選項",
+      "sentences": [
+        {
+          "en": "Employees have the option of working from home two days a week if their manager approves.",
+          "zh": "如果經理同意，員工可以選擇一週在家工作兩天。"
+        },
+        {
+          "en": "Our online store now offers a new payment option that allows customers to pay with their mobile phones.",
+          "zh": "我們的網路商店現在提供一種新的付款方式，讓顧客可以用手機付款。"
+        },
+        {
+          "en": "After comparing several suppliers, the team decided that the local company was the best option.",
+          "zh": "比較了幾家供應商後，團隊認為當地那家公司是最好的選擇。"
+        },
+        {
+          "en": "Passengers have the option of upgrading to business class for an additional fee at the check-in counter.",
+          "zh": "乘客可以在報到櫃台付額外費用選擇升等商務艙。"
+        },
+        {
+          "en": "Taking the train is the best option for travelers who want to avoid heavy traffic during rush hour.",
+          "zh": "對想避開尖峰時段塞車的旅客來說，搭火車是最好的選擇。"
+        }
+      ],
+      "distractors": [
+        "opinion",
+        "operation",
+        "caption"
+      ],
+      "note": "語塊：have the option of（可以選擇……）、payment option（付款方式）、the best option（最好的選擇）。option 是「可以選的選項」；optional 是形容詞「可選擇的、非必要的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-discuss",
+      "word": "discuss",
+      "pos": "動詞",
+      "meaning": "討論",
+      "sentences": [
+        {
+          "en": "The two companies will meet next Monday to discuss the details of the new partnership agreement.",
+          "zh": "兩家公司下週一會見面討論新合作協議的細節。"
+        },
+        {
+          "en": "Please discuss your vacation plans with your supervisor before you book any flights or hotels.",
+          "zh": "訂任何機票或飯店之前，請先和你的主管討論休假計畫。"
+        },
+        {
+          "en": "The board members agreed to discuss the matter further at their next meeting in December.",
+          "zh": "董事們同意在十二月的下次會議上進一步討論這件事。"
+        },
+        {
+          "en": "Ms. Lin would like to discuss the budget with the finance team before the proposal is submitted.",
+          "zh": "林小姐想在提案送出前和財務團隊討論預算。"
+        },
+        {
+          "en": "We have scheduled a call for Thursday afternoon to discuss the details of your order.",
+          "zh": "我們安排了週四下午的電話，討論您訂單的細節。"
+        }
+      ],
+      "distractors": [
+        "disgust",
+        "dismiss",
+        "disguise"
+      ],
+      "note": "語塊：discuss the details（討論細節）、discuss with（和……討論）、discuss the matter（討論這件事）。discuss 是及物動詞，後面直接接受詞，不加 about（discuss the plan，不是 discuss about the plan）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-challenging",
+      "word": "challenging",
+      "pos": "形容詞",
+      "meaning": "有挑戰性的；困難的",
+      "sentences": [
+        {
+          "en": "Organizing an international conference in only three months was a challenging task for the small team.",
+          "zh": "在短短三個月內籌辦國際研討會，對這個小團隊來說是一項艱鉅的任務。"
+        },
+        {
+          "en": "Despite a challenging year, the company managed to increase its profits by five percent compared to last year.",
+          "zh": "儘管經歷了艱難的一年，公司仍設法讓獲利增加百分之五。"
+        },
+        {
+          "en": "We are looking for candidates who enjoy working in a challenging environment with tight deadlines.",
+          "zh": "我們在找喜歡在截止期限緊、有挑戰性的環境中工作的應徵者。"
+        },
+        {
+          "en": "Learning to use the new accounting software was challenging at first, but most employees now find it easy.",
+          "zh": "一開始學用新的會計軟體很有挑戰性，但現在大部分員工都覺得很容易。"
+        },
+        {
+          "en": "The hiking trail is quite challenging, so visitors should bring plenty of water and wear proper shoes.",
+          "zh": "那條步道相當有挑戰性，所以遊客應該帶足夠的水並穿合適的鞋子。"
+        }
+      ],
+      "distractors": [
+        "challenged",
+        "changing",
+        "charming"
+      ],
+      "note": "語塊：challenging task（艱鉅的任務）、challenging environment（有挑戰性的環境）、challenging year（艱難的一年）。challenging 是「有挑戰性但值得做」；difficult 只是「困難」。challenged 是「有障礙的；受到挑戰的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legitimate",
+      "word": "legitimate",
+      "pos": "形容詞",
+      "meaning": "合法的；正當的；合理的",
+      "sentences": [
+        {
+          "en": "Employees who miss work without a legitimate reason may receive a written warning from human resources.",
+          "zh": "沒有正當理由缺勤的員工可能會收到人資部的書面警告。"
+        },
+        {
+          "en": "Before signing the contract, we checked that the supplier was a legitimate business with a valid license.",
+          "zh": "簽約之前，我們確認了供應商是有有效執照的合法商家。"
+        },
+        {
+          "en": "Residents raised a legitimate concern about the increase in traffic that the new mall would bring.",
+          "zh": "居民提出合理的擔憂，認為新購物中心會帶來更多車流。"
+        },
+        {
+          "en": "Customers should only download the software from our official website to make sure it is legitimate.",
+          "zh": "顧客應該只從我們的官方網站下載軟體，確保它是正版的。"
+        },
+        {
+          "en": "The manager agreed that the team had a legitimate reason for asking to extend the project deadline.",
+          "zh": "經理同意團隊要求延長專案期限是有正當理由的。"
+        }
+      ],
+      "distractors": [
+        "legislative",
+        "intimate",
+        "estimate"
+      ],
+      "note": "語塊：legitimate business（合法的生意）、legitimate reason（正當理由）、legitimate concern（合理的擔憂）。legitimate 是「合法、正當的」；legal 只強調「合法」，legitimate 還帶「合理、站得住腳」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cut-into",
+      "word": "cut into",
+      "pos": "片語動詞",
+      "meaning": "侵蝕；減少（利潤、時間）",
+      "sentences": [
+        {
+          "en": "Rising fuel prices continue to cut into profits for airlines and shipping companies around the world.",
+          "zh": "油價上漲持續侵蝕全世界航空公司和航運公司的利潤。"
+        },
+        {
+          "en": "Long meetings can cut into the time that employees need to complete their daily tasks.",
+          "zh": "冗長的會議會佔用員工完成日常工作所需的時間。"
+        },
+        {
+          "en": "The new competitor's low prices are beginning to cut into our share of the market for office furniture.",
+          "zh": "新競爭對手的低價開始侵蝕我們在辦公家具市場的佔有率。"
+        },
+        {
+          "en": "Higher rent will cut into profits for many small restaurants in the downtown area next year.",
+          "zh": "明年房租上漲會侵蝕市中心許多小餐廳的利潤。"
+        },
+        {
+          "en": "Frequent business trips started to cut into his time with his family, so he asked for a different role.",
+          "zh": "頻繁出差開始佔用他陪家人的時間，所以他要求換一個職位。"
+        }
+      ],
+      "distractors": [
+        "cut off",
+        "cut back",
+        "cut out"
+      ],
+      "note": "語塊：cut into profits（侵蝕利潤）、cut into one's time（佔用時間）。cut into 是「吃掉、減少一部分」；cut down on 是「減少（使用量）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-executive",
+      "word": "executive",
+      "pos": "名詞",
+      "meaning": "主管；高階經理",
+      "sentences": [
+        {
+          "en": "A senior executive from the head office will visit our branch next week to review its performance.",
+          "zh": "總公司的一位高階主管下週會來我們分行檢視績效。"
+        },
+        {
+          "en": "The chief executive announced that the company will open twenty new stores in Southeast Asia.",
+          "zh": "執行長宣布公司將在東南亞開設二十家新店。"
+        },
+        {
+          "en": "Mr. Kaplan was hired as a sales executive responsible for clients in the Middle East and Africa.",
+          "zh": "Kaplan 先生被聘為業務主管，負責中東和非洲的客戶。"
+        },
+        {
+          "en": "Every executive in the company is expected to attend the annual planning meeting in January.",
+          "zh": "公司每位主管都必須參加一月的年度規劃會議。"
+        },
+        {
+          "en": "The newspaper interviewed a senior executive about the bank's plans to reduce its number of branches.",
+          "zh": "報紙訪問了一位高階主管，談銀行減少分行數量的計畫。"
+        }
+      ],
+      "distractors": [
+        "executor",
+        "exclusive",
+        "expensive"
+      ],
+      "note": "語塊：senior executive（高階主管）、chief executive（執行長）、sales executive（業務主管）。executive 當名詞是「主管」；當形容詞是「行政的、高級的」（executive suite 行政套房）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regard",
+      "word": "regard",
+      "pos": "動詞",
+      "meaning": "把……視為；看待",
+      "sentences": [
+        {
+          "en": "Many experts regard the new smartphone as the best product the company has ever released.",
+          "zh": "很多專家把這支新手機視為公司推出過最好的產品。"
+        },
+        {
+          "en": "Most employees regard Ms. Fischer as a fair and supportive manager who listens to their ideas.",
+          "zh": "大部分員工都認為 Fischer 小姐是一位公平、支持部屬又願意聽想法的經理。"
+        },
+        {
+          "en": "The company does not regard working from home as a reward but as a normal part of the job.",
+          "zh": "公司並不把在家工作當作獎勵，而是當作工作的正常一部分。"
+        },
+        {
+          "en": "Investors regard the tourism industry as one of the most promising areas for growth in the region.",
+          "zh": "投資人把觀光業視為該地區最有成長潛力的產業之一。"
+        },
+        {
+          "en": "Customers regard our after-sales service as the main reason they continue to buy our products.",
+          "zh": "顧客把我們的售後服務視為他們持續購買我們產品的主要原因。"
+        }
+      ],
+      "distractors": [
+        "reward",
+        "regret",
+        "retard"
+      ],
+      "note": "語塊：regard as（把……視為）、be highly regarded（受到高度評價）。regard A as B 是「把 A 視為 B」；名詞 regard 有「關心、問候」：with regard to（關於）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-studio",
+      "word": "studio",
+      "pos": "名詞",
+      "meaning": "工作室；攝影棚；套房",
+      "sentences": [
+        {
+          "en": "The band spent three months in a recording studio in London working on their new album.",
+          "zh": "那個樂團在倫敦的一間錄音室待了三個月製作新專輯。"
+        },
+        {
+          "en": "Ms. Ruiz opened her own design studio after working for a large advertising agency for ten years.",
+          "zh": "Ruiz 小姐在大型廣告公司工作十年後，開了自己的設計工作室。"
+        },
+        {
+          "en": "The studio apartment is small but comfortable, and it is only a short walk from the subway station.",
+          "zh": "那間套房雖小但很舒適，離捷運站只要走一小段路。"
+        },
+        {
+          "en": "The television interview will be recorded at the television studio downtown on Wednesday afternoon at two.",
+          "zh": "電視訪問將在週三下午於市中心的攝影棚錄製。"
+        },
+        {
+          "en": "The yoga studio offers morning classes for office workers who want to exercise before work.",
+          "zh": "那間瑜伽教室為想在上班前運動的上班族開設晨間課程。"
+        }
+      ],
+      "distractors": [
+        "stadium",
+        "study",
+        "audio"
+      ],
+      "note": "語塊：recording studio（錄音室）、design studio（設計工作室）、studio apartment（套房）。studio 可以指「工作室、攝影棚」，在租屋時指「套房」（客廳臥室合一）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sequel",
+      "word": "sequel",
+      "pos": "名詞",
+      "meaning": "續集；後續",
+      "sentences": [
+        {
+          "en": "The movie studio plans to release a sequel to its popular animated film next summer.",
+          "zh": "那家電影公司計畫明年夏天推出熱門動畫電影的續集。"
+        },
+        {
+          "en": "Readers have been waiting for three years for a sequel to the best-selling mystery novel.",
+          "zh": "讀者等那本暢銷推理小說的續集已經等了三年。"
+        },
+        {
+          "en": "The sequel was even more successful than the original film and broke several box office records.",
+          "zh": "續集比原本的電影更成功，打破了好幾項票房紀錄。"
+        },
+        {
+          "en": "The game company will release a sequel that includes many new characters and greatly improved graphics.",
+          "zh": "那家遊戲公司將推出一款有新角色和更好畫面的續集。"
+        },
+        {
+          "en": "The author announced at the book fair that she is currently writing a sequel to her first novel.",
+          "zh": "那位作家在書展上宣布她正在寫第一本小說的續集。"
+        }
+      ],
+      "distractors": [
+        "sequence",
+        "series",
+        "equal"
+      ],
+      "note": "語塊：a sequel to（……的續集）、release a sequel（推出續集）。sequel 是電影、書的「續集」；prequel 是「前傳」；sequence 是「順序」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remarkable",
+      "word": "remarkable",
+      "pos": "形容詞",
+      "meaning": "非凡的；值得注意的",
+      "sentences": [
+        {
+          "en": "Increasing sales by forty percent in a single year is a remarkable achievement for such a small company.",
+          "zh": "一家這麼小的公司在一年內讓銷售增加四成，是非凡的成就。"
+        },
+        {
+          "en": "The new employees have made remarkable progress since they started the training program in September.",
+          "zh": "新員工從九月開始參加訓練計畫以來有了顯著的進步。"
+        },
+        {
+          "en": "The restaurant has enjoyed remarkable success since a famous food critic wrote about it last year.",
+          "zh": "自從一位知名美食評論家去年寫了那家餐廳後，它就獲得驚人的成功。"
+        },
+        {
+          "en": "The view from the top floor of the hotel is truly remarkable, especially at sunset.",
+          "zh": "從飯店頂樓看出去的景色真的很棒，尤其是夕陽西下的時候。"
+        },
+        {
+          "en": "The research team made remarkable progress in developing a battery that charges in only ten minutes.",
+          "zh": "研究團隊在開發只要十分鐘就能充飽的電池上有了顯著的進步。"
+        }
+      ],
+      "distractors": [
+        "remediable",
+        "removable",
+        "reliable"
+      ],
+      "note": "語塊：remarkable achievement（非凡的成就）、remarkable progress（顯著的進步）、remarkable success（驚人的成功）。remarkable 是「值得注意、了不起的」；remark 是「評論」，兩者意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-peace",
+      "word": "peace",
+      "pos": "名詞",
+      "meaning": "和平；安寧",
+      "sentences": [
+        {
+          "en": "Many guests choose our mountain resort because they want some peace and quiet away from the city.",
+          "zh": "很多客人選擇我們的山中度假村，因為他們想遠離城市，享受安靜。"
+        },
+        {
+          "en": "Our extended warranty gives customers peace of mind when they buy expensive electronic products such as laptops.",
+          "zh": "我們的延長保固讓顧客在購買昂貴的電子產品時更安心。"
+        },
+        {
+          "en": "The library has quiet study rooms where students can work in peace without being disturbed.",
+          "zh": "圖書館有安靜的自習室，學生可以在那裡不受打擾地專心讀書。"
+        },
+        {
+          "en": "Installing security cameras gave the shop owner peace of mind while she was away on vacation.",
+          "zh": "裝了監視器讓店主去度假時也很安心。"
+        },
+        {
+          "en": "The hotel's garden offers guests a place to enjoy peace and quiet after a busy day of meetings.",
+          "zh": "飯店的花園讓客人在忙碌開會的一天之後，有個享受安靜的地方。"
+        }
+      ],
+      "distractors": [
+        "piece",
+        "pace",
+        "place"
+      ],
+      "note": "語塊：peace and quiet（安靜）、peace of mind（安心）、in peace（安靜地）。peace 是「和平、平靜」；piece（一片）發音一樣，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inherent",
+      "word": "inherent",
+      "pos": "形容詞",
+      "meaning": "固有的；內在的",
+      "sentences": [
+        {
+          "en": "Investing in new technology always involves some inherent risk, so we must plan every step carefully.",
+          "zh": "投資新科技總是有一些固有的風險，所以我們必須仔細規劃。"
+        },
+        {
+          "en": "Delays are inherent in large construction projects, especially when the weather in the region is unpredictable.",
+          "zh": "大型工程本來就會有延誤，尤其是天氣難以預測的時候。"
+        },
+        {
+          "en": "The consultant explained the inherent risk of expanding into a market where we have no experience.",
+          "zh": "顧問說明了進入我們沒有經驗的市場本身固有的風險。"
+        },
+        {
+          "en": "Some noise is inherent in working at an open office, so headphones are provided for all employees.",
+          "zh": "在開放式辦公室工作本來就會有些噪音，所以公司提供耳機給所有員工。"
+        },
+        {
+          "en": "Every business plan contains some inherent risk, but careful market research can help reduce it significantly.",
+          "zh": "每份商業計畫都有一些固有的風險，但仔細的研究能幫助降低風險。"
+        }
+      ],
+      "distractors": [
+        "inherited",
+        "coherent",
+        "adherent"
+      ],
+      "note": "語塊：inherent risk（固有的風險）、be inherent in（是……本身固有的）。inherent 是「本來就有、與生俱來的」；inherit 是動詞「繼承」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entrepreneur",
+      "word": "entrepreneur",
+      "pos": "名詞",
+      "meaning": "企業家；創業家",
+      "sentences": [
+        {
+          "en": "The program provides free office space and advice to any young entrepreneur with a promising idea.",
+          "zh": "這個計畫為任何有好點子的年輕創業家提供免費辦公空間和建議。"
+        },
+        {
+          "en": "Mr. Adeyemi is a successful entrepreneur who started three technology companies before the age of forty.",
+          "zh": "Adeyemi 先生是一位成功的企業家，四十歲前就創辦了三家科技公司。"
+        },
+        {
+          "en": "Ms. Park left her job at the bank to become an entrepreneur and open a chain of coffee shops.",
+          "zh": "朴小姐辭去銀行的工作，成為創業家，開了一系列咖啡店。"
+        },
+        {
+          "en": "The speaker at the conference is a young entrepreneur who sells handmade wooden furniture online.",
+          "zh": "研討會的講者是一位在網路上賣手工家具的年輕創業家。"
+        },
+        {
+          "en": "The magazine named her the most successful entrepreneur of the year for her work in renewable energy.",
+          "zh": "雜誌因為她在再生能源方面的成就，把她選為年度最成功的企業家。"
+        }
+      ],
+      "distractors": [
+        "enterprise",
+        "entertainer",
+        "engineer"
+      ],
+      "note": "語塊：young entrepreneur（年輕創業家）、successful entrepreneur（成功的企業家）、become an entrepreneur（成為創業家）。entrepreneur 是「創業的人」；enterprise 是「企業」；entrepreneurial 是形容詞。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
