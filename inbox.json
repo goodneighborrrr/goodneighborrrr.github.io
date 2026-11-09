@@ -19758,6 +19758,706 @@
       ],
       "note": "語塊：nuclear power plant（核電廠）、solar power plant（太陽能發電廠）、build a power plant（興建發電廠）。plant 在這裡是「工廠」；power plant 也可以叫 power station。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reservoir",
+      "word": "reservoir",
+      "pos": "名詞",
+      "meaning": "水庫；蓄水池；儲藏",
+      "sentences": [
+        {
+          "en": "The water level in the reservoir has dropped because there has been very little rain this year.",
+          "zh": "因為今年雨很少，水庫的水位下降了。"
+        },
+        {
+          "en": "The city plans to build a new water reservoir to meet the needs of its growing population.",
+          "zh": "市政府計畫興建一座新水庫，滿足日益增加的人口需求。"
+        },
+        {
+          "en": "Visitors can walk or ride bicycles along the path that goes around the reservoir on weekends.",
+          "zh": "週末遊客可以沿著環繞水庫的步道散步或騎腳踏車。"
+        },
+        {
+          "en": "The university is a reservoir of talent that local technology companies rely on when hiring engineers.",
+          "zh": "那所大學是當地科技公司招聘工程師時所依賴的人才庫。"
+        },
+        {
+          "en": "Swimming is not allowed in the water reservoir because it supplies drinking water to the entire region.",
+          "zh": "水庫禁止游泳，因為它供應整個地區的飲用水。"
+        }
+      ],
+      "distractors": [
+        "reservation",
+        "reserve",
+        "receiver"
+      ],
+      "note": "語塊：water reservoir（水庫）、reservoir of（……的儲備）。reservoir 是「水庫」，也可以比喻「大量的儲備」（a reservoir of talent 人才庫）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-shape",
+      "word": "take shape",
+      "pos": "片語動詞",
+      "meaning": "成形；逐漸具體化",
+      "sentences": [
+        {
+          "en": "The new stadium has started to take shape, and the outside walls are almost finished.",
+          "zh": "新體育場已經開始成形，外牆幾乎完工了。"
+        },
+        {
+          "en": "Plans for the company's expansion into Europe will begin to take shape after the meeting with investors.",
+          "zh": "和投資人開會後，公司進軍歐洲的計畫將開始具體化。"
+        },
+        {
+          "en": "As the design of the website begins to take shape, the team will ask customers for their opinions.",
+          "zh": "網站設計開始成形時，團隊會徵詢顧客的意見。"
+        },
+        {
+          "en": "It may take several months for the ideas discussed at the workshop to take shape as real projects.",
+          "zh": "工作坊中討論的點子可能要幾個月才會成形為真正的專案。"
+        },
+        {
+          "en": "The new shopping district will take shape over the next three years as more stores and restaurants open.",
+          "zh": "隨著更多商店和餐廳開幕，新的購物區將在未來三年內逐漸成形。"
+        }
+      ],
+      "distractors": [
+        "take place",
+        "take part",
+        "take turns"
+      ],
+      "note": "語塊：begin to take shape（開始成形）、take shape as（成形為……）、take shape over（在……期間逐漸成形）。take shape 是「慢慢變得具體、成形」；take place 是「發生、舉行」，別搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-grade-point-average",
+      "word": "grade point average",
+      "pos": "名詞",
+      "meaning": "學業平均成績（GPA）",
+      "sentences": [
+        {
+          "en": "Applicants for the scholarship must have a grade point average of at least 3.5 out of 4.0.",
+          "zh": "獎學金申請人的平均成績必須至少達到 4.0 中的 3.5。"
+        },
+        {
+          "en": "The company prefers to hire graduates with a high grade point average and some work experience.",
+          "zh": "公司偏好聘用平均成績高、又有些工作經驗的畢業生。"
+        },
+        {
+          "en": "Students who fall below the minimum grade point average will not be allowed to join the exchange program.",
+          "zh": "低於最低平均成績的學生不能參加交換計畫。"
+        },
+        {
+          "en": "Ms. Lin included her grade point average on her résumé because it was one of the highest in her class.",
+          "zh": "林小姐在履歷上寫了她的平均成績，因為那是班上最高的之一。"
+        },
+        {
+          "en": "Some employers care more about practical skills than about a student's grade point average at university.",
+          "zh": "有些雇主比較在意實務技能，而不是學生的平均成績。"
+        }
+      ],
+      "distractors": [
+        "grade level",
+        "point of view",
+        "average income"
+      ],
+      "note": "語塊：a high grade point average（高 GPA）、minimum grade point average（最低平均成績）。grade point average 常縮寫為 GPA，是美國學校計算成績的方式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lodging",
+      "word": "lodging",
+      "pos": "名詞",
+      "meaning": "住宿；寄宿處",
+      "sentences": [
+        {
+          "en": "The company will cover food and lodging for all employees who attend the conference in Tokyo.",
+          "zh": "公司會負擔所有參加東京研討會員工的食宿。"
+        },
+        {
+          "en": "The farm offers simple lodging for volunteers who help with the harvest during the autumn.",
+          "zh": "那座農場為秋天幫忙收成的志工提供簡單的住宿。"
+        },
+        {
+          "en": "Please keep your receipts so that the company can reimburse your lodging expenses after the trip.",
+          "zh": "請保留收據，讓公司在出差後補助你的住宿費。"
+        },
+        {
+          "en": "The tour price includes lodging at four-star hotels, breakfast every day, and transportation between cities.",
+          "zh": "行程價格包含四星級飯店的住宿、每天早餐和城市間的交通。"
+        },
+        {
+          "en": "The town has limited lodging, so visitors to the festival should book their rooms several months ahead.",
+          "zh": "那個小鎮住宿有限，所以要參加慶典的遊客應該提前幾個月訂房。"
+        }
+      ],
+      "distractors": [
+        "logging",
+        "lounging",
+        "ledger"
+      ],
+      "note": "語塊：food and lodging（食宿）、provide lodging（提供住宿）、lodging expenses（住宿費）、limited lodging（住宿有限）。lodging 是「住宿」，常用在出差、旅遊；accommodation 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trust",
+      "word": "trust",
+      "pos": "動詞",
+      "meaning": "信任；相信",
+      "sentences": [
+        {
+          "en": "Customers trust our brand because we have provided reliable products for more than fifty years.",
+          "zh": "顧客信任我們的品牌，因為我們五十多年來一直提供可靠的產品。"
+        },
+        {
+          "en": "The manager will trust you with the important client account if you do well on this project.",
+          "zh": "如果你這個專案做得好，經理會把那個重要客戶交給你負責。"
+        },
+        {
+          "en": "We trust that you will find our services useful and look forward to working with you.",
+          "zh": "我們相信您會覺得我們的服務很有用，期待和您合作。"
+        },
+        {
+          "en": "It takes time for new employees to trust their colleagues and feel comfortable sharing ideas.",
+          "zh": "新員工需要時間才能信任同事，並自在地分享想法。"
+        },
+        {
+          "en": "Many people trust online reviews more than advertisements when they choose a restaurant or hotel.",
+          "zh": "很多人在選餐廳或飯店時，比較相信網路評論而不是廣告。"
+        }
+      ],
+      "distractors": [
+        "thrust",
+        "rust",
+        "truss"
+      ],
+      "note": "語塊：trust sb with sth（把某事託付給某人）、trust that（相信……）。trust 是「信任某人或某事」；believe 偏「相信某說法是真的」。名詞 trust 是「信任」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recruit",
+      "word": "recruit",
+      "pos": "動詞",
+      "meaning": "招募；招聘",
+      "sentences": [
+        {
+          "en": "The hotel needs to recruit staff quickly because the busy summer season begins in only one month.",
+          "zh": "飯店需要快速招募員工，因為忙碌的夏季再一個月就開始了。"
+        },
+        {
+          "en": "The charity plans to recruit volunteers from local schools to help clean the beach in September.",
+          "zh": "那個慈善團體計畫從當地學校招募志工，九月時幫忙清理海灘。"
+        },
+        {
+          "en": "Technology companies actively recruit graduates from the top engineering schools in the country every spring.",
+          "zh": "科技公司積極招募國內頂尖工程學院的畢業生。"
+        },
+        {
+          "en": "It has become more difficult to recruit staff with the right skills for our factory in the countryside.",
+          "zh": "要為我們鄉下的工廠招募具備合適技能的員工變得更困難了。"
+        },
+        {
+          "en": "The team will recruit two new designers to help with the growing number of projects this year.",
+          "zh": "團隊會招募兩名新設計師，協助處理今年越來越多的專案。"
+        }
+      ],
+      "distractors": [
+        "recruitment",
+        "rebuild",
+        "restrict"
+      ],
+      "note": "語塊：recruit staff（招募員工）、recruit volunteers（招募志工）、actively recruit（積極招募）。recruit 是動詞「招募」，也可以當名詞「新人」；recruiter 是「招募人員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-list",
+      "word": "list",
+      "pos": "動詞",
+      "meaning": "列出；列舉",
+      "sentences": [
+        {
+          "en": "Please list the items you need for the event and send them to the office manager by Friday.",
+          "zh": "請列出活動需要的物品，並在週五前寄給辦公室經理。"
+        },
+        {
+          "en": "The menu will list every ingredient used in each dish so that customers with allergies can choose safely.",
+          "zh": "菜單會列出每道菜使用的所有食材，讓過敏的顧客可以安心選擇。"
+        },
+        {
+          "en": "The new catalog will list the items in order of price, from the cheapest to the most expensive.",
+          "zh": "新目錄會依價格順序列出商品，從最便宜到最貴。"
+        },
+        {
+          "en": "The report will list the main reasons why customers stopped using our service last year.",
+          "zh": "報告會列出顧客去年停止使用我們服務的主要原因。"
+        },
+        {
+          "en": "Applicants should list their previous jobs in order, starting with the most recent position they held.",
+          "zh": "應徵者應該依序列出以前的工作，從最近的職位開始。"
+        }
+      ],
+      "distractors": [
+        "lift",
+        "lust",
+        "last"
+      ],
+      "note": "語塊：list the items（列出品項）、be listed on（被列在……上）、list in order（依序列出）。list 當動詞是「列出」；當名詞是「清單」。listing 是「列表；上市」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-code-of-conduct",
+      "word": "code of conduct",
+      "pos": "名詞",
+      "meaning": "行為準則",
+      "sentences": [
+        {
+          "en": "All new employees must read and sign the company's code of conduct during their first week.",
+          "zh": "所有新員工都必須在第一週閱讀並簽署公司的行為準則。"
+        },
+        {
+          "en": "Staff who violate the code of conduct may receive a warning or lose their jobs.",
+          "zh": "違反行為準則的員工可能會被警告或丟掉工作。"
+        },
+        {
+          "en": "Everyone at the conference is expected to follow the code of conduct and treat other attendees with respect.",
+          "zh": "研討會上的每個人都應該遵守行為準則，尊重其他與會者。"
+        },
+        {
+          "en": "The code of conduct explains how employees should behave when they meet with clients and suppliers.",
+          "zh": "行為準則說明員工和客戶及供應商見面時應該怎麼做。"
+        },
+        {
+          "en": "The company updated its code of conduct to include new rules about the use of social media.",
+          "zh": "公司更新了行為準則，加入關於使用社群媒體的新規定。"
+        }
+      ],
+      "distractors": [
+        "dress code",
+        "code of practice",
+        "area code"
+      ],
+      "note": "語塊：follow the code of conduct（遵守行為準則）、violate the code of conduct（違反行為準則）、the company's code of conduct（公司的行為準則）。code of conduct 是公司或組織的「行為守則」；dress code 是「服裝規定」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adhere-to",
+      "word": "adhere to",
+      "pos": "片語動詞",
+      "meaning": "遵守；堅持",
+      "sentences": [
+        {
+          "en": "All employees must adhere to the rules regarding safety equipment while they are in the factory.",
+          "zh": "所有員工在工廠內都必須遵守安全裝備的相關規定。"
+        },
+        {
+          "en": "Restaurants must strictly adhere to the guidelines for food storage set by the health department.",
+          "zh": "餐廳必須嚴格遵守衛生局制定的食物保存準則。"
+        },
+        {
+          "en": "Contractors who do not adhere to the guidelines may not be hired for future projects.",
+          "zh": "不遵守準則的承包商以後的專案可能不會被聘用。"
+        },
+        {
+          "en": "The company expects its suppliers to adhere to the same environmental standards that it follows.",
+          "zh": "公司期待供應商遵守和公司相同的環保標準。"
+        },
+        {
+          "en": "Pilots must strictly adhere to the procedures in the manual, especially during takeoff and landing.",
+          "zh": "飛行員必須嚴格遵守手冊上的程序，尤其是在起飛和降落時。"
+        }
+      ],
+      "distractors": [
+        "adapt to",
+        "add to",
+        "admit to"
+      ],
+      "note": "語塊：adhere to the rules（遵守規則）、adhere to the guidelines（遵守準則）、strictly adhere to（嚴格遵守）。adhere to 比 follow、stick to 正式；名詞是 adherence。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-temporary",
+      "word": "temporary",
+      "pos": "形容詞",
+      "meaning": "暫時的；臨時的",
+      "sentences": [
+        {
+          "en": "The store hired several temporary workers to help with the busy holiday shopping season in December.",
+          "zh": "那家店聘了好幾名臨時工協助節慶購物季。"
+        },
+        {
+          "en": "Ms. Rossi accepted a temporary position at the bank while she was looking for a full-time job.",
+          "zh": "Rossi 小姐在找全職工作期間接受了銀行的一個臨時職位。"
+        },
+        {
+          "en": "The museum announced the temporary closure of its west wing while the old roof is being repaired.",
+          "zh": "博物館宣布舊屋頂修繕期間，西翼將暫時關閉。"
+        },
+        {
+          "en": "The office will move to a temporary location downtown until the renovation is finished in March.",
+          "zh": "辦公室會暫時搬到市中心的地點，直到三月翻修完成。"
+        },
+        {
+          "en": "A temporary bridge was built so that cars could cross the river while the main bridge was closed.",
+          "zh": "為了讓車子在主橋封閉期間能過河，搭建了一座臨時橋。"
+        }
+      ],
+      "distractors": [
+        "contemporary",
+        "permanent",
+        "temperate"
+      ],
+      "note": "語塊：temporary position（臨時職位）、temporary closure（暫時關閉）、temporary worker（臨時工）。temporary 是「暫時的」；permanent 是「永久的」；contemporary（當代的）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-streamline",
+      "word": "streamline",
+      "pos": "動詞",
+      "meaning": "簡化；使有效率",
+      "sentences": [
+        {
+          "en": "The new software will help us streamline the process of ordering supplies for all of our stores.",
+          "zh": "新軟體會幫助我們簡化所有門市訂購用品的流程。"
+        },
+        {
+          "en": "The company plans to streamline operations by combining the sales and marketing departments next year.",
+          "zh": "公司計畫明年合併業務部和行銷部來精簡營運。"
+        },
+        {
+          "en": "To streamline the process of hiring, applicants can now upload their documents directly to our website.",
+          "zh": "為了簡化招聘流程，應徵者現在可以直接把文件上傳到我們網站。"
+        },
+        {
+          "en": "The consultant recommended several ways to streamline operations at the warehouse and reduce delays in shipping.",
+          "zh": "顧問建議了幾種精簡倉庫營運、減少延誤的方法。"
+        },
+        {
+          "en": "The bank hopes to streamline the loan application so that customers receive an answer within one day.",
+          "zh": "銀行希望簡化貸款申請流程，讓顧客在一天內得到答覆。"
+        }
+      ],
+      "distractors": [
+        "stream",
+        "strengthen",
+        "straighten"
+      ],
+      "note": "語塊：streamline the process（簡化流程）、streamline operations（精簡營運）。streamline 是「讓流程更簡單、更有效率」；simplify 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-navigate",
+      "word": "navigate",
+      "pos": "動詞",
+      "meaning": "導航；操作瀏覽；應付",
+      "sentences": [
+        {
+          "en": "Our new website is much easier to navigate, so customers can find products in just a few clicks.",
+          "zh": "我們的新網站更容易瀏覽，顧客點幾下就能找到產品。"
+        },
+        {
+          "en": "Visitors can use the free app to navigate through the large museum and find each exhibit quickly.",
+          "zh": "訪客可以用免費 App 在大型博物館中導覽，快速找到每個展品。"
+        },
+        {
+          "en": "The training session will teach new employees how to navigate the company's online system for booking meeting rooms.",
+          "zh": "訓練課程會教新員工如何操作公司的線上系統。"
+        },
+        {
+          "en": "Small businesses often hire accountants to help them navigate the complicated tax rules each year.",
+          "zh": "小公司常常聘請會計師幫他們應付每年複雜的稅務規定。"
+        },
+        {
+          "en": "The map in the lobby helps guests navigate through the hotel, which has three separate buildings.",
+          "zh": "大廳的地圖幫助客人在有三棟獨立建築的飯店裡找路。"
+        }
+      ],
+      "distractors": [
+        "negotiate",
+        "nominate",
+        "narrate"
+      ],
+      "note": "語塊：navigate the website（瀏覽網站）、navigate through（穿過……）、easy to navigate（容易使用）。navigate 原本是「導航」，也用在「操作網站」或「應付困難」；navigation 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-raise",
+      "word": "raise",
+      "pos": "動詞",
+      "meaning": "提高；籌募；提出",
+      "sentences": [
+        {
+          "en": "The coffee chain will raise prices by ten percent next month because of the rising cost of coffee beans.",
+          "zh": "因為咖啡豆成本上升，那家咖啡連鎖店下個月將漲價一成。"
+        },
+        {
+          "en": "The charity event helped raise money for several children's hospitals in the region last year.",
+          "zh": "那場慈善活動幫該地區的兒童醫院募到了錢。"
+        },
+        {
+          "en": "If you would like to raise a question during the meeting, please wait until the presentation is finished.",
+          "zh": "如果你想在會議中提出問題，請等簡報結束後再提。"
+        },
+        {
+          "en": "The school plans to raise funds to build a new library by holding a concert in the spring.",
+          "zh": "學校計畫在春天舉辦音樂會，為興建新圖書館籌募經費。"
+        },
+        {
+          "en": "Several employees decided to raise a question about the new vacation policy at the staff meeting.",
+          "zh": "幾位員工決定在員工會議上對新的休假規定提出問題。"
+        }
+      ],
+      "distractors": [
+        "rise",
+        "arise",
+        "praise"
+      ],
+      "note": "語塊：raise prices（漲價）、raise money（募款）、raise a question（提出問題）。raise 是及物動詞「把……提高」；rise 是不及物動詞「（自己）上升」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-result",
+      "word": "result",
+      "pos": "名詞",
+      "meaning": "結果；成果",
+      "sentences": [
+        {
+          "en": "The storm damaged several roads, and as a result, many employees could not get to work on time.",
+          "zh": "暴風雨損壞了幾條道路，因此很多員工無法準時上班。"
+        },
+        {
+          "en": "As a result of the new marketing campaign, online sales increased by thirty percent in two months.",
+          "zh": "由於新的行銷活動，網路銷售在兩個月內增加了三成。"
+        },
+        {
+          "en": "The result of the customer survey will be shared with all department managers next week.",
+          "zh": "顧客調查的結果會在下週分享給所有部門經理。"
+        },
+        {
+          "en": "The delay was the result of a problem with the computer system at the shipping company.",
+          "zh": "延誤是貨運公司電腦系統出問題的結果。"
+        },
+        {
+          "en": "Our profits fell last quarter as a result of higher material costs and lower demand.",
+          "zh": "由於材料成本上升和需求下降，我們上一季的獲利下滑。"
+        }
+      ],
+      "distractors": [
+        "insult",
+        "resort",
+        "result from"
+      ],
+      "note": "語塊：as a result（因此）、as a result of（由於……）、the result of（……的結果）。as a result 放句首表示「因此」；result in 是動詞片語「導致」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-work",
+      "word": "work",
+      "pos": "名詞",
+      "meaning": "工作；作品",
+      "sentences": [
+        {
+          "en": "Employees are not allowed to use their personal phones for long periods while they are at work.",
+          "zh": "員工在工作中不可以長時間使用私人手機。"
+        },
+        {
+          "en": "Please check your work schedule for next month, which has been posted on the bulletin board.",
+          "zh": "請查看下個月的工作時程表，已經貼在公告欄上了。"
+        },
+        {
+          "en": "The painting in the hotel lobby is a work of art by a famous local artist from the nineteenth century.",
+          "zh": "飯店大廳的那幅畫是一位十九世紀當地知名藝術家的作品。"
+        },
+        {
+          "en": "Ms. Kim has a lot of work to finish before the end of the quarter, so she will stay late this week.",
+          "zh": "金小姐在季末前有很多工作要完成，所以這週會留得比較晚。"
+        },
+        {
+          "en": "Changes to your work schedule must be approved by your supervisor at least one week in advance.",
+          "zh": "工作時程的更改必須至少提前一週經主管核准。"
+        }
+      ],
+      "distractors": [
+        "word",
+        "worth",
+        "walk"
+      ],
+      "note": "語塊：at work（在工作中）、work schedule（工作時程）、a work of art（藝術作品）。work 當「工作」時是不可數名詞（a lot of work）；當「作品」時可數（works of art）。job 是可數的「一份工作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-order",
+      "word": "order",
+      "pos": "名詞",
+      "meaning": "訂單；順序；命令",
+      "sentences": [
+        {
+          "en": "Customers can place an order online or by phone, and most items will be delivered within two days.",
+          "zh": "顧客可以在網路上或打電話下訂單，大部分商品兩天內送達。"
+        },
+        {
+          "en": "The elevator on the east side of the building is out of order, so please use the stairs today.",
+          "zh": "大樓東側的電梯故障了，所以今天請走樓梯。"
+        },
+        {
+          "en": "In order to reduce waste, the cafeteria no longer provides plastic forks, spoons, or cups to employees.",
+          "zh": "為了減少浪費，員工餐廳不再提供塑膠叉子和湯匙。"
+        },
+        {
+          "en": "If you place an order of more than one hundred dollars, shipping will be free of charge.",
+          "zh": "如果你下單超過一百美元，就免運費。"
+        },
+        {
+          "en": "The documents should be arranged in order of date, with the most recent ones on top.",
+          "zh": "文件應該按日期順序排列，最新的放在最上面。"
+        }
+      ],
+      "distractors": [
+        "odor",
+        "border",
+        "older"
+      ],
+      "note": "語塊：place an order（下訂單）、in order to（為了）、out of order（故障）。order 可以指「訂單」、「順序」或「命令」；out of order 是「故障」；in order to 是「為了」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clearly",
+      "word": "clearly",
+      "pos": "副詞",
+      "meaning": "清楚地；顯然",
+      "sentences": [
+        {
+          "en": "The manager clearly explained the new procedures so that everyone on the team understood what to do.",
+          "zh": "經理清楚說明了新程序，讓每個人都知道該怎麼做。"
+        },
+        {
+          "en": "All emergency exits in the building are clearly marked with green signs above the doors.",
+          "zh": "大樓所有的緊急出口都在門上方用綠色標誌清楚標示。"
+        },
+        {
+          "en": "The contract should clearly state the price, the delivery date, and the terms of payment.",
+          "zh": "合約應明確寫出價格、交貨日期和付款條件。"
+        },
+        {
+          "en": "The new product was clearly a success, as it sold out within the first week of its launch.",
+          "zh": "新產品顯然很成功，上市第一週就賣光了。"
+        },
+        {
+          "en": "Please write your name and address clearly on the form so that we can send you the package.",
+          "zh": "請在表格上清楚寫下你的姓名和地址，讓我們可以把包裹寄給你。"
+        }
+      ],
+      "distractors": [
+        "cleverly",
+        "closely",
+        "cleanly"
+      ],
+      "note": "語塊：clearly explain（清楚說明）、clearly marked（標示清楚）、clearly state（明確表示）。clearly 可以是「清楚地」，也可以表示「顯然」；clarity 是名詞「清晰」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-package",
+      "word": "package",
+      "pos": "名詞",
+      "meaning": "包裹；套裝方案",
+      "sentences": [
+        {
+          "en": "The courier will deliver a package to your office between ten and twelve o'clock tomorrow morning.",
+          "zh": "快遞明天早上十點到十二點之間會送一個包裹到你的辦公室。"
+        },
+        {
+          "en": "The travel agency is offering a vacation package that includes flights, hotels, and meals for one price.",
+          "zh": "旅行社推出一個度假套裝行程，一個價格就包含機票、飯店和餐點。"
+        },
+        {
+          "en": "The company's benefits package includes health insurance, paid vacation, and a generous retirement plan for all staff.",
+          "zh": "公司的福利方案包括健康保險、帶薪休假和退休金計畫。"
+        },
+        {
+          "en": "If you are not at home, the driver will leave the package with a neighbor or at the post office.",
+          "zh": "如果你不在家，司機會把包裹交給鄰居或留在郵局。"
+        },
+        {
+          "en": "Our hotel offers a special package for couples that includes dinner and a spa treatment.",
+          "zh": "我們飯店提供情侶專屬套裝方案，包含晚餐和一次水療。"
+        }
+      ],
+      "distractors": [
+        "packaging",
+        "passage",
+        "pancake"
+      ],
+      "note": "語塊：deliver a package（遞送包裹）、vacation package（度假套裝行程）、benefits package（福利方案）。package 可以是「包裹」，也可以是「套裝方案」；packaging 是「包裝（材料）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hasten",
+      "word": "hasten",
+      "pos": "動詞",
+      "meaning": "加速；催促",
+      "sentences": [
+        {
+          "en": "The new machines will hasten the process of packaging and shipping our products to customers.",
+          "zh": "新機器會加速我們包裝和寄送產品給顧客的流程。"
+        },
+        {
+          "en": "The manager praised the team's work but hastened to add that there was still a lot to do, so we must hasten our efforts.",
+          "zh": "經理稱讚了團隊的工作，但趕緊補充說還有很多事要做，所以我們必須加快腳步。"
+        },
+        {
+          "en": "Hiring more staff could hasten the completion of the project, but it would also increase costs.",
+          "zh": "增聘人手可以加快專案完成，但也會增加成本。"
+        },
+        {
+          "en": "The government hopes the new law will hasten the development of clean energy across the country.",
+          "zh": "政府希望新法律能加速全國潔淨能源的發展。"
+        },
+        {
+          "en": "To hasten the process, please send all of the required documents by email rather than by mail.",
+          "zh": "為了加快流程，請用電子郵件而不是郵寄方式傳送所有必要文件。"
+        }
+      ],
+      "distractors": [
+        "harden",
+        "fasten",
+        "listen"
+      ],
+      "note": "語塊：hasten the process（加速流程）、hasten to add（趕緊補充）。hasten 比 speed up、hurry 正式；haste 是名詞「匆忙」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contract",
+      "word": "contract",
+      "pos": "名詞",
+      "meaning": "合約",
+      "sentences": [
+        {
+          "en": "The two companies will sign a contract next week to work together on the new shopping center.",
+          "zh": "兩家公司下週會簽約，合作興建新的購物中心。"
+        },
+        {
+          "en": "The cleaning company hopes to renew its contract with the hospital for another three years.",
+          "zh": "那家清潔公司希望和醫院再續約三年。"
+        },
+        {
+          "en": "Please read the terms of the contract carefully before you sign it and return it to our office.",
+          "zh": "簽名並寄回我們辦公室之前，請仔細閱讀合約條款。"
+        },
+        {
+          "en": "The supplier broke the contract by delivering the parts two months later than the agreed date.",
+          "zh": "供應商比約定日期晚兩個月交付零件，違反了合約。"
+        },
+        {
+          "en": "Ms. Ortiz was offered a one-year contract with the option to renew it if her performance is good.",
+          "zh": "Ortiz 小姐獲得一份一年的合約，如果表現好可以選擇續約。"
+        }
+      ],
+      "distractors": [
+        "contact",
+        "contrast",
+        "contradict"
+      ],
+      "note": "語塊：sign a contract（簽約）、renew a contract（續約）、terms of the contract（合約條款）。contract 當名詞重音在前（CON-tract）是「合約」；當動詞重音在後（con-TRACT）是「收縮；感染」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
