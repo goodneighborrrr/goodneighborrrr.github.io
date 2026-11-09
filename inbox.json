@@ -10798,6 +10798,41 @@
       ],
       "note": "語塊：a team mascot（球隊吉祥物）、an official mascot（官方吉祥物）、a company／brand mascot（公司／品牌吉祥物）。mascot 是代表球隊、公司、活動或城市，並帶來好運、吸引注意的角色，常常有人穿著布偶裝出現。台灣例子：各縣市的吉祥物、運動賽事的吉祥物。",
       "addedAt": "2026-11-06"
+    },
+    {
+      "id": "20261109-bout",
+      "word": "bout",
+      "pos": "名詞",
+      "meaning": "一陣；一段時間（不好的事發作）；（比賽）一回合",
+      "sentences": [
+        {
+          "en": "The outdoor concert was delayed for an hour because of a sudden bout of heavy rain in the afternoon.",
+          "zh": "因為下午突然一陣大雨，戶外音樂會延後了一小時。"
+        },
+        {
+          "en": "Another bout of heavy rain is expected this weekend, so the city has warned residents near the river.",
+          "zh": "預計這週末還會有一波大雨，所以市政府已經警告河邊的居民。"
+        },
+        {
+          "en": "Ms. Chen missed three days of work last week after a bad bout of the flu.",
+          "zh": "陳小姐上週得了一場嚴重的流感，請了三天假。"
+        },
+        {
+          "en": "After a short bout of hot weather in March, temperatures dropped again in early April.",
+          "zh": "三月短暫熱了一陣子之後，四月初氣溫又下降了。"
+        },
+        {
+          "en": "The factory suffered another bout of power outages, which delayed the shipment of several orders.",
+          "zh": "工廠又遭遇一波停電，延誤了好幾筆訂單的出貨。"
+        }
+      ],
+      "distractors": [
+        "boat",
+        "boot",
+        "beat"
+      ],
+      "note": "語塊：a bout of heavy rain（一陣大雨）、a bout of the flu（一場流感）、a short bout of（短暫的一陣……）、another bout of（又一波……）。bout 是「一陣子、一段時間」，通常指不好的事情發作一段時間，像天氣、生病、問題。也可以指拳擊、摔角的「一回合比賽」。同義：spell（一段時間）、episode（發作）。發音 [baʊt]，跟 about 的後半一樣。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
