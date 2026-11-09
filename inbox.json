@@ -11008,6 +11008,76 @@
       ],
       "note": "語塊：critical acclaim（影評、專家的一致好評）、win／gain acclaim（贏得讚譽）、international acclaim（國際讚譽）、be met with wide acclaim（廣受好評）。acclaim 是「（公開的）讚揚、好評」，比 praise 更正式、程度更強。形容詞 acclaimed（廣受好評的）：an acclaimed author（備受讚譽的作家）。別跟 exclaim（大叫、驚呼）、claim（聲稱）搞混。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chronic",
+      "word": "chronic",
+      "pos": "形容詞",
+      "meaning": "慢性的；長期的；長期存在的",
+      "sentences": [
+        {
+          "en": "The new clinic specializes in helping older patients who suffer from a chronic ailment such as diabetes.",
+          "zh": "新診所專門幫助患有糖尿病等慢性病的年長病患。"
+        },
+        {
+          "en": "Many office workers develop chronic back pain from sitting at their desks for long hours every day.",
+          "zh": "很多上班族因為每天長時間坐在桌前，得了慢性背痛。"
+        },
+        {
+          "en": "The city has suffered from a chronic shortage of affordable housing for more than ten years.",
+          "zh": "這座城市長期缺乏平價住宅，已經超過十年了。"
+        },
+        {
+          "en": "The factory's chronic delays in shipping have caused several important customers to look for other suppliers.",
+          "zh": "工廠長期出貨延誤，讓好幾個重要客戶開始找其他供應商。"
+        },
+        {
+          "en": "The company's new insurance plan covers regular checkups and medicine for employees with chronic illnesses.",
+          "zh": "公司新的保險方案涵蓋有慢性病的員工的定期檢查和藥物。"
+        }
+      ],
+      "distractors": [
+        "chromatic",
+        "comic",
+        "critic"
+      ],
+      "note": "語塊：a chronic ailment／illness／disease（慢性病）、chronic pain（慢性疼痛）、a chronic shortage of（長期缺乏……）、chronic delays／problems（長期延誤／問題）。chronic 是「長期、一直存在、好不了」，反義詞 acute（急性的、突然很嚴重的）。也可以用在問題上，不只是生病。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ailment",
+      "word": "ailment",
+      "pos": "名詞",
+      "meaning": "（不嚴重的）病痛；小病",
+      "sentences": [
+        {
+          "en": "The new clinic specializes in helping older patients who suffer from a chronic ailment such as diabetes.",
+          "zh": "新診所專門幫助患有糖尿病等慢性病的年長病患。"
+        },
+        {
+          "en": "For a common ailment like a cold or a headache, a pharmacist can usually give advice without a doctor's visit.",
+          "zh": "像感冒或頭痛這種常見小病，藥師通常就能提供建議，不用看醫生。"
+        },
+        {
+          "en": "The company's health program offers free massages to any employee who suffers from a back or neck ailment.",
+          "zh": "公司的健康計畫為有背部或頸部毛病的員工提供免費按摩。"
+        },
+        {
+          "en": "In many Asian countries, people drink traditional herbal tea to treat a minor ailment such as a sore throat.",
+          "zh": "在很多亞洲國家，人們會喝傳統草本茶來治療喉嚨痛之類的小毛病。"
+        },
+        {
+          "en": "The nurse asked each visitor about any ailment they had before allowing them to enter the patient's room.",
+          "zh": "護理師讓訪客進入病房前，先詢問每個人有沒有任何身體不適。"
+        }
+      ],
+      "distractors": [
+        "allotment",
+        "alignment",
+        "adornment"
+      ],
+      "note": "語塊：a chronic ailment（慢性病）、common／minor ailments（常見小病／小毛病）、suffer from an ailment（患有……病痛）。ailment 通常指不太嚴重但讓人不舒服的病痛。比較：disease（疾病，通常比較嚴重）、illness（生病，一般說法）、condition（病況、慢性狀況，比較委婉）。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
