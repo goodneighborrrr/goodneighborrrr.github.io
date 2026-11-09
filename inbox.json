@@ -10903,6 +10903,41 @@
       ],
       "note": "語塊：sign a petition（連署請願書）、start／launch a petition（發起連署）、submit a petition to（向……遞交請願書）、an online petition（線上連署）、a petition against＋東西（反對……的連署）。petition 是很多人簽名，正式要求政府或公司做某件事的文件。也可以當動詞：petition the government（向政府請願）。別跟 position（職位）、partition（隔板）搞混。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-complex",
+      "word": "complex",
+      "pos": "名詞",
+      "meaning": "（建築）綜合區、園區；社區；（形容詞）複雜的",
+      "sentences": [
+        {
+          "en": "The developer plans to build a large residential complex with three hundred apartments, a gym, and a swimming pool.",
+          "zh": "建商打算蓋一個大型住宅社區，有三百戶公寓、健身房和游泳池。"
+        },
+        {
+          "en": "Our company moved its headquarters to a new office complex near the airport last spring.",
+          "zh": "我們公司去年春天把總部搬到機場附近一個新的辦公園區。"
+        },
+        {
+          "en": "The sports complex includes two basketball courts, a running track, and an indoor ice rink.",
+          "zh": "這個運動中心包括兩座籃球場、一條跑道和一座室內溜冰場。"
+        },
+        {
+          "en": "Residents of the apartment complex can use the shared laundry room and parking lot for free.",
+          "zh": "這個公寓社區的住戶可以免費使用共用洗衣間和停車場。"
+        },
+        {
+          "en": "A new shopping complex with more than one hundred stores will open downtown next year.",
+          "zh": "一個有一百多家店的新購物中心明年會在市中心開幕。"
+        }
+      ],
+      "distractors": [
+        "context",
+        "compass",
+        "complaint"
+      ],
+      "note": "語塊：a residential complex（住宅社區、住宅群）、an apartment complex（公寓社區）、an office complex（辦公園區）、a sports／shopping complex（運動中心／購物中心）。complex 當名詞是「由好幾棟建築或設施組成的一整區」。當形容詞是「複雜的」（a complex problem 複雜的問題），意思完全不同。名詞 complexity（複雜性）。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
