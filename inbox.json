@@ -37573,6 +37573,706 @@
       ],
       "note": "語塊：research institute（研究所）、institute of technology（理工學院）。institute 是「研究或教育機構」；institution 是「機構；制度」，意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-corporation",
+      "word": "corporation",
+      "pos": "名詞",
+      "meaning": "公司；企業",
+      "sentences": [
+        {
+          "en": "Ms. Lee left her job at a large corporation to start her own small design company.",
+          "zh": "李小姐辭去大企業的工作，自己開了一家小設計公司。"
+        },
+        {
+          "en": "The multinational corporation has offices in more than forty countries and employs fifty thousand people.",
+          "zh": "那家跨國企業在四十多個國家設有辦公室，僱用五萬人。"
+        },
+        {
+          "en": "Many young people prefer to work for a small company rather than a large corporation.",
+          "zh": "很多年輕人比較喜歡在小公司工作，而不是大企業。"
+        },
+        {
+          "en": "The corporation announced plans to build a new research center near the university next year.",
+          "zh": "那家企業宣布明年要在大學附近興建新的研究中心。"
+        },
+        {
+          "en": "Working for a multinational corporation gives employees the chance to travel and learn about other cultures.",
+          "zh": "在跨國企業工作讓員工有機會出差並了解其他文化。"
+        }
+      ],
+      "distractors": [
+        "cooperation",
+        "coordination",
+        "incorporation"
+      ],
+      "note": "語塊：large corporation（大企業）、multinational corporation（跨國企業）。corporation 是「法人公司、大企業」；corporate 是形容詞「公司的」；cooperation 是「合作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deadline",
+      "word": "deadline",
+      "pos": "名詞",
+      "meaning": "截止日期",
+      "sentences": [
+        {
+          "en": "The team worked late every night this week in order to meet the deadline for the project.",
+          "zh": "團隊這週每晚都加班，為了趕上專案的截止日。"
+        },
+        {
+          "en": "If you miss the deadline, your application will not be considered for this year's program.",
+          "zh": "如果你錯過截止日，你的申請不會被列入今年的計畫考慮。"
+        },
+        {
+          "en": "The manager agreed to extend the deadline by one week because several team members were sick.",
+          "zh": "因為好幾位組員生病，經理同意把截止日延長一週。"
+        },
+        {
+          "en": "The deadline for submitting expense reports is the fifth day of every month at five o'clock.",
+          "zh": "提交支出報告的截止日是每個月五日。"
+        },
+        {
+          "en": "Please let me know as soon as possible if you think you will not be able to meet the deadline.",
+          "zh": "如果你覺得趕不上截止日，請盡快告訴我。"
+        }
+      ],
+      "distractors": [
+        "headline",
+        "dead end",
+        "guideline"
+      ],
+      "note": "語塊：meet the deadline（趕上截止日）、miss the deadline（錯過截止日）、extend the deadline（延長截止日）。deadline 是「最後期限」；due date 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-latest",
+      "word": "latest",
+      "pos": "形容詞",
+      "meaning": "最新的",
+      "sentences": [
+        {
+          "en": "Please download the latest version of the app to use the new features we have added.",
+          "zh": "請下載最新版本的 App，使用我們新增的功能。"
+        },
+        {
+          "en": "You can read the latest news about the company on our website or in the monthly newsletter.",
+          "zh": "你可以在我們網站或每月電子報上看到公司的最新消息。"
+        },
+        {
+          "en": "The new hospital uses the latest technology to treat patients more quickly and safely than before.",
+          "zh": "新醫院使用最新科技，更快速安全地治療病人。"
+        },
+        {
+          "en": "The store displays the latest fashion from Paris and Milan in its windows every season.",
+          "zh": "那家店每季都在櫥窗展示巴黎和米蘭的最新流行。"
+        },
+        {
+          "en": "The latest sales figures show that the new product has been very popular with young customers.",
+          "zh": "最新的銷售數字顯示新產品很受年輕顧客歡迎。"
+        }
+      ],
+      "distractors": [
+        "lately",
+        "lastly",
+        "least"
+      ],
+      "note": "語塊：the latest version（最新版本）、latest news（最新消息）、latest technology（最新科技）。latest 是「最新的」；last 是「最後的；上一個」；lately 是「最近」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tuition",
+      "word": "tuition",
+      "pos": "名詞",
+      "meaning": "學費；教學",
+      "sentences": [
+        {
+          "en": "The company will pay tuition for employees who want to study for a master's degree in business.",
+          "zh": "公司會為想攻讀企管碩士的員工支付學費。"
+        },
+        {
+          "en": "Many students work part-time in the evenings so that they can pay tuition and living costs.",
+          "zh": "很多學生晚上兼差，好支付學費和生活費。"
+        },
+        {
+          "en": "The university offers free tuition to students from low-income families who have excellent grades in high school.",
+          "zh": "那所大學為成績優秀的低收入家庭學生提供免學費。"
+        },
+        {
+          "en": "The cost of tuition has increased by ten percent this year, so many families are worried.",
+          "zh": "今年學費漲了一成，所以很多家庭很擔心。"
+        },
+        {
+          "en": "The scholarship covers tuition as well as the cost of books and housing for four years.",
+          "zh": "這份獎學金支付學費以及四年的書籍和住宿費用。"
+        }
+      ],
+      "distractors": [
+        "intuition",
+        "caution",
+        "nutrition"
+      ],
+      "note": "語塊：pay tuition（付學費）、tuition fees（學費）、free tuition（免學費）。tuition 是「學費」，也可以指「教學、輔導」；intuition 是「直覺」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-formerly",
+      "word": "formerly",
+      "pos": "副詞",
+      "meaning": "以前；從前",
+      "sentences": [
+        {
+          "en": "The museum, which was formerly a train station, now attracts thousands of visitors every month.",
+          "zh": "那座以前是火車站的博物館，現在每個月吸引數千名參觀者。"
+        },
+        {
+          "en": "The company, formerly known as Bright Foods, changed its name after it was bought by a larger firm.",
+          "zh": "那家公司以前叫做 Bright Foods，被一家更大的公司收購後改了名字。"
+        },
+        {
+          "en": "Ms. Park formerly worked as a teacher before she became the director of the education program.",
+          "zh": "朴小姐成為教育計畫的主任之前，以前是一名老師。"
+        },
+        {
+          "en": "The building was formerly used as a factory, but it has been turned into apartments and shops.",
+          "zh": "那棟建築以前是工廠，但已經改建成公寓和商店。"
+        },
+        {
+          "en": "The restaurant formerly known as Blue Garden reopened last month with a new menu and chef.",
+          "zh": "以前叫做 Blue Garden 的餐廳上個月重新開幕，有了新菜單和新主廚。"
+        }
+      ],
+      "distractors": [
+        "formally",
+        "normally",
+        "firmly"
+      ],
+      "note": "語塊：formerly known as（以前叫做……）、formerly used as（以前用作……）、formerly worked as（以前擔任……）。formerly 是「以前（現在不是了）」；formally 是「正式地」，很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-avoid",
+      "word": "avoid",
+      "pos": "動詞",
+      "meaning": "避免；避開",
+      "sentences": [
+        {
+          "en": "To avoid delays, please submit all of the required documents before the end of the week.",
+          "zh": "為了避免延誤，請在週末前提交所有必要文件。"
+        },
+        {
+          "en": "Many employees leave home early in the morning to avoid traffic on the busy highway into the city.",
+          "zh": "很多員工一大早出門，避開公路上的車潮。"
+        },
+        {
+          "en": "Please avoid using your phone during the meeting so that everyone can focus on the discussion.",
+          "zh": "開會時請避免使用手機，讓大家能專心討論。"
+        },
+        {
+          "en": "The company changed its shipping company in order to avoid delays during the busy holiday season.",
+          "zh": "公司換了貨運公司，以避免忙碌節慶期間的延誤。"
+        },
+        {
+          "en": "Travelers should avoid driving in the mountains during the storm because the roads may be dangerous.",
+          "zh": "暴風雨期間旅客應避免在山區開車，因為道路可能很危險。"
+        }
+      ],
+      "distractors": [
+        "devoid",
+        "void",
+        "afford"
+      ],
+      "note": "語塊：avoid doing（避免做……）、avoid delays（避免延誤）、avoid traffic（避開車潮）。avoid 後面接名詞或 V-ing（avoid making mistakes），不接 to do；avoidable 是「可避免的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attached",
+      "word": "attached",
+      "pos": "形容詞",
+      "meaning": "附加的；隨附的",
+      "sentences": [
+        {
+          "en": "Please find attached a copy of the contract, which you should sign and return by Friday.",
+          "zh": "隨信附上合約副本，請在週五前簽名寄回。"
+        },
+        {
+          "en": "The attached file contains the schedule for next week's training sessions and a map of the building.",
+          "zh": "附件檔案包含下週訓練課程的時程表和大樓地圖。"
+        },
+        {
+          "en": "Please fill out the attached form and send it back to the human resources department by email.",
+          "zh": "請填寫附件的表格，並用電子郵件寄回人資部。"
+        },
+        {
+          "en": "A small card with care instructions is attached to every piece of clothing in our store.",
+          "zh": "我們店裡每件衣服都附有一張寫著保養說明的小卡。"
+        },
+        {
+          "en": "I have reviewed the attached report, and I have a few questions about the figures on page five.",
+          "zh": "我看過附件的報告了，對第五頁的數字有幾個問題。"
+        }
+      ],
+      "distractors": [
+        "attacked",
+        "detached",
+        "attended"
+      ],
+      "note": "語塊：attached file（附件檔案）、please find attached（隨信附上）、attached to（附在……上）。attached 是「附上的」；attachment 是名詞「附件」；be attached to 也可以是「喜歡、依戀」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-envelope",
+      "word": "envelope",
+      "pos": "名詞",
+      "meaning": "信封",
+      "sentences": [
+        {
+          "en": "Please put the signed documents in the envelope and send them to our office by mail.",
+          "zh": "請把簽好的文件放進信封，郵寄到我們辦公室。"
+        },
+        {
+          "en": "Applicants should include a stamped envelope with their address so that we can return the documents.",
+          "zh": "申請人應附上一個寫好地址、貼好郵票的信封，讓我們把文件寄回。"
+        },
+        {
+          "en": "The results of the competition are in a sealed envelope that will be opened at the awards ceremony.",
+          "zh": "比賽結果裝在一個密封的信封裡，將在頒獎典禮上打開。"
+        },
+        {
+          "en": "The tickets will arrive in an envelope with the company's logo, so please check your mail carefully.",
+          "zh": "門票會裝在印有公司商標的信封裡寄出，所以請仔細查看你的信件。"
+        },
+        {
+          "en": "Please write the name of the department clearly on the envelope so that it reaches the right person.",
+          "zh": "請在信封上清楚寫上部門名稱，讓它送到對的人手上。"
+        }
+      ],
+      "distractors": [
+        "envelop",
+        "development",
+        "antelope"
+      ],
+      "note": "語塊：sealed envelope（密封的信封）、stamped envelope（貼好郵票的信封）、in an envelope（裝在信封裡）。envelope 是「信封」（名詞）；envelop（少一個 e）是動詞「包住」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-information-packet",
+      "word": "information packet",
+      "pos": "名詞",
+      "meaning": "資料袋；資訊手冊",
+      "sentences": [
+        {
+          "en": "All new employees will receive an information packet about the company's benefits on their first day.",
+          "zh": "所有新員工到職第一天都會收到一份關於公司福利的資料袋。"
+        },
+        {
+          "en": "The information packet includes a map of the campus, a list of courses, and the dates of important events.",
+          "zh": "資料袋裡有校園地圖、課程清單和重要活動的日期。"
+        },
+        {
+          "en": "Please read the information packet carefully before you attend the training session next Monday morning.",
+          "zh": "下週一參加訓練課程之前，請仔細閱讀資料袋。"
+        },
+        {
+          "en": "Visitors to the conference can pick up an information packet at the registration desk in the lobby.",
+          "zh": "研討會的訪客可以在大廳的報到處領取資料袋。"
+        },
+        {
+          "en": "The hotel sends an information packet to every guest by email one week before they arrive.",
+          "zh": "飯店會在每位客人抵達前一週，用電子郵件寄出一份資訊手冊。"
+        }
+      ],
+      "distractors": [
+        "information desk",
+        "information session",
+        "press packet"
+      ],
+      "note": "語塊：receive an information packet（收到資料袋）、information packet about（關於……的資料）。packet 是「一小包、一份資料」；package 是「包裹」；brochure 是「宣傳小冊子」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outline",
+      "word": "outline",
+      "pos": "名詞",
+      "meaning": "大綱；概要",
+      "sentences": [
+        {
+          "en": "Please send me an outline of your presentation by Friday so that I can give you some feedback.",
+          "zh": "請在週五前把你的簡報大綱寄給我，讓我給你一些意見。"
+        },
+        {
+          "en": "The manager gave an outline of the new project and explained what each team would be responsible for.",
+          "zh": "經理概述了新專案，並說明每個團隊要負責什麼。"
+        },
+        {
+          "en": "The course outline lists the topics that will be covered each week and the dates of the exams.",
+          "zh": "課程大綱列出每週要教的主題和考試日期。"
+        },
+        {
+          "en": "Before writing the report, it is helpful to prepare an outline of the main points you want to include.",
+          "zh": "寫報告之前，先準備一份你想涵蓋重點的大綱很有幫助。"
+        },
+        {
+          "en": "The director presented an outline of the budget for next year at the meeting on Wednesday.",
+          "zh": "總監在週三的會議上報告了明年預算的概要。"
+        }
+      ],
+      "distractors": [
+        "outlive",
+        "outlet",
+        "outlook"
+      ],
+      "note": "語塊：an outline of（……的大綱）、in outline（概略地）、give an outline（概述）。outline 可以當名詞「大綱」或動詞「概述」；summary 是「摘要」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-demonstrate",
+      "word": "demonstrate",
+      "pos": "動詞",
+      "meaning": "示範；證明；展示",
+      "sentences": [
+        {
+          "en": "The sales representative will demonstrate how to use the new coffee machine at the store on Saturday.",
+          "zh": "業務代表週六會在店裡示範如何使用新咖啡機。"
+        },
+        {
+          "en": "The results of the study demonstrate that regular exercise can improve productivity and happiness at work.",
+          "zh": "研究結果證明規律運動能提高工作效率。"
+        },
+        {
+          "en": "The company will demonstrate a product that can clean the air in a room in less than ten minutes.",
+          "zh": "公司將展示一款能在十分鐘內淨化房間空氣的產品。"
+        },
+        {
+          "en": "Applicants must demonstrate that they have at least three years of experience in customer service.",
+          "zh": "應徵者必須證明自己至少有三年的客服經驗。"
+        },
+        {
+          "en": "The chef will demonstrate how to prepare traditional dishes at the cooking class next week.",
+          "zh": "主廚下週會在烹飪課上示範如何做傳統料理。"
+        }
+      ],
+      "distractors": [
+        "demolish",
+        "demonstration",
+        "dominate"
+      ],
+      "note": "語塊：demonstrate how to（示範如何……）、demonstrate that（證明……）、demonstrate a product（展示產品）。demonstrate 是「示範、展示」；demonstration 是名詞「示範；示威」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-qualified",
+      "word": "qualified",
+      "pos": "形容詞",
+      "meaning": "合格的；有資格的",
+      "sentences": [
+        {
+          "en": "We are looking for a highly qualified engineer who can lead our new research team.",
+          "zh": "我們在找一位能帶領新研究團隊、非常合格的工程師。"
+        },
+        {
+          "en": "Ms. Ortiz is qualified for the position because she has a degree in finance and ten years of experience.",
+          "zh": "Ortiz 小姐有資格擔任這個職位，因為她有財務學位和十年經驗。"
+        },
+        {
+          "en": "Only a qualified candidate who speaks both English and Spanish will be invited for an interview.",
+          "zh": "只有同時會說英文和西班牙文的合格人選才會受邀面試。"
+        },
+        {
+          "en": "All of our teachers are highly qualified and have many years of experience working with young children.",
+          "zh": "我們所有老師都非常合格，而且有和幼童相處的經驗。"
+        },
+        {
+          "en": "The company needs to hire more qualified workers to operate the new machines in the factory.",
+          "zh": "公司需要聘用更多合格的工人來操作工廠的新機器。"
+        }
+      ],
+      "distractors": [
+        "quantified",
+        "qualitative",
+        "certified"
+      ],
+      "note": "語塊：highly qualified（非常合格的）、qualified for（有資格擔任……）、qualified candidate（合格的人選）。qualified 是「有資格、能力夠的」；qualify 是動詞「取得資格」；qualification 是「資格」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advisor",
+      "word": "advisor",
+      "pos": "名詞",
+      "meaning": "顧問",
+      "sentences": [
+        {
+          "en": "A financial advisor can help you plan for retirement and choose the right investments for your future.",
+          "zh": "理財顧問可以幫你規劃退休並選擇合適的投資。"
+        },
+        {
+          "en": "The company hired a legal advisor to review the contract before it was signed by both sides.",
+          "zh": "公司聘請一位法律顧問，在雙方簽約前審閱合約。"
+        },
+        {
+          "en": "Students should meet with their academic advisor at least once a semester to discuss their courses.",
+          "zh": "學生每學期至少應該和學業導師見一次面，討論修課。"
+        },
+        {
+          "en": "Ms. Kim works as a financial advisor at a bank and helps families save money for their children's education.",
+          "zh": "金小姐在銀行擔任理財顧問，幫助家庭為孩子的教育存錢。"
+        },
+        {
+          "en": "The president asked his advisor for an opinion before making a final decision about the new policy.",
+          "zh": "總裁在對新政策做最後決定之前，詢問了顧問的意見。"
+        }
+      ],
+      "distractors": [
+        "adviser",
+        "advocate",
+        "supervisor"
+      ],
+      "note": "語塊：financial advisor（理財顧問）、legal advisor（法律顧問）、academic advisor（學業導師）。advisor 也可以拼成 adviser；advise 是動詞「建議」；advice 是名詞「建議」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-knowledgeable",
+      "word": "knowledgeable",
+      "pos": "形容詞",
+      "meaning": "知識淵博的；很懂的",
+      "sentences": [
+        {
+          "en": "Our knowledgeable staff can help you choose the right computer for your work or studies.",
+          "zh": "我們專業的員工可以幫你挑選適合工作或課業的電腦。"
+        },
+        {
+          "en": "The tour guide was very knowledgeable about the history of the city and answered all of our questions.",
+          "zh": "導遊對這座城市的歷史非常了解，回答了我們所有的問題。"
+        },
+        {
+          "en": "We are looking for a sales associate who is knowledgeable about cameras, lenses, and photography.",
+          "zh": "我們在找一位對相機和攝影很懂的店員。"
+        },
+        {
+          "en": "Customers appreciate knowledgeable staff who can explain the differences between similar products clearly and quickly in the store.",
+          "zh": "顧客很欣賞能清楚說明產品差異的專業員工。"
+        },
+        {
+          "en": "The speaker is knowledgeable about renewable energy and has worked on several large projects in Asia.",
+          "zh": "講者對再生能源很了解，在亞洲參與過好幾個大型專案。"
+        }
+      ],
+      "distractors": [
+        "changeable",
+        "noticeable",
+        "fashionable"
+      ],
+      "note": "語塊：knowledgeable about（對……很了解）、knowledgeable staff（專業的員工）。knowledgeable 是「懂很多」；knowledge 是名詞「知識」；注意拼法有 e。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-honor",
+      "word": "honor",
+      "pos": "名詞",
+      "meaning": "榮幸；榮譽",
+      "sentences": [
+        {
+          "en": "A dinner will be held in honor of Mr. Brown, who is retiring after thirty years at the company.",
+          "zh": "將舉辦一場晚宴表揚在公司服務三十年後退休的 Brown 先生。"
+        },
+        {
+          "en": "It is an honor to welcome so many talented designers to our annual conference this year.",
+          "zh": "今年能歡迎這麼多優秀設計師參加我們的年度研討會，是我們的榮幸。"
+        },
+        {
+          "en": "Ms. Lee received an honor from the city for her work helping elderly residents in the neighborhood.",
+          "zh": "李小姐因為幫助社區年長居民，獲得市政府頒發的榮譽。"
+        },
+        {
+          "en": "The new library was named in honor of the author who donated money to build it.",
+          "zh": "新圖書館以捐款興建它的那位作家之名命名，以示紀念。"
+        },
+        {
+          "en": "It was a great honor to be chosen to represent our company at the international trade show.",
+          "zh": "被選為代表公司參加國際商展是一份很大的榮譽。"
+        }
+      ],
+      "distractors": [
+        "honest",
+        "humor",
+        "horror"
+      ],
+      "note": "語塊：in honor of（為了紀念、表揚……）、an honor to（……的榮幸）、receive an honor（獲得榮譽）。honor 是美式拼法，英式為 honour；honorable 是「光榮的」；honorary 是「名譽的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compatible-with",
+      "word": "compatible with",
+      "pos": "其他",
+      "meaning": "與……相容",
+      "sentences": [
+        {
+          "en": "The new printer is compatible with most computers and can also print directly from smartphones.",
+          "zh": "新印表機和大部分電腦相容，也可以直接從手機列印。"
+        },
+        {
+          "en": "Please check that the software is compatible with your operating system before you download it.",
+          "zh": "下載軟體之前，請確認它和你的作業系統相容。"
+        },
+        {
+          "en": "The charger is fully compatible with all of our phones, including the older models sold before 2020.",
+          "zh": "這個充電器和我們所有手機完全相容，包括舊機型。"
+        },
+        {
+          "en": "The new design must be compatible with the company's goal of reducing plastic waste in all of its products.",
+          "zh": "新設計必須符合公司減少塑膠垃圾的目標。"
+        },
+        {
+          "en": "Some customers complained that the new app was not compatible with their older tablets and phones.",
+          "zh": "有些顧客抱怨新 App 和他們的平板不相容。"
+        }
+      ],
+      "distractors": [
+        "comparable with",
+        "comfortable with",
+        "competitive with"
+      ],
+      "note": "語塊：be compatible with（和……相容）、fully compatible with（完全相容）。compatible 是「可以一起使用、相容的」；incompatible 是「不相容的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-blueprint",
+      "word": "blueprint",
+      "pos": "名詞",
+      "meaning": "藍圖；設計圖；計畫",
+      "sentences": [
+        {
+          "en": "The architect showed the client a blueprint of the new office building before construction began.",
+          "zh": "施工開始前，建築師給客戶看了新辦公大樓的設計圖。"
+        },
+        {
+          "en": "The report offers a blueprint for reducing traffic in the city over the next ten years.",
+          "zh": "報告提供了未來十年減少城市交通量的藍圖。"
+        },
+        {
+          "en": "Engineers must study the blueprint carefully before they start building the new bridge over the river.",
+          "zh": "工程師開始建造新橋之前，必須仔細研究設計圖。"
+        },
+        {
+          "en": "The new CEO presented a blueprint for the company's growth in Asia at the annual meeting.",
+          "zh": "新執行長在年度大會上提出公司在亞洲成長的藍圖。"
+        },
+        {
+          "en": "The blueprint of the house shows three bedrooms, two bathrooms, a large kitchen, and a garden.",
+          "zh": "那棟房子的設計圖顯示有三間臥室、兩間浴室和一個大廚房。"
+        }
+      ],
+      "distractors": [
+        "footprint",
+        "printout",
+        "fingerprint"
+      ],
+      "note": "語塊：a blueprint for（……的藍圖）、draw a blueprint（畫藍圖）。blueprint 原指「建築設計圖」，也可比喻「詳細的計畫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-postponement",
+      "word": "postponement",
+      "pos": "名詞",
+      "meaning": "延期",
+      "sentences": [
+        {
+          "en": "The organizers announced the postponement of the outdoor concert because of the heavy rain this weekend.",
+          "zh": "因為大雨，主辦單位宣布戶外音樂會延期。"
+        },
+        {
+          "en": "The postponement of the product launch will give the engineers more time to fix the problems.",
+          "zh": "產品延後上市會讓工程師有更多時間修正問題。"
+        },
+        {
+          "en": "We apologize for the postponement of the meeting and will let you know the new date soon.",
+          "zh": "我們為會議延期致歉，會盡快告知新的日期。"
+        },
+        {
+          "en": "The postponement of the construction project was caused by a shortage of materials and workers.",
+          "zh": "工程延期是材料短缺造成的。"
+        },
+        {
+          "en": "After the postponement, the conference will now take place in the first week of November.",
+          "zh": "延期之後，研討會現在將在十一月的第一週舉行。"
+        }
+      ],
+      "distractors": [
+        "appointment",
+        "postscript",
+        "opponent"
+      ],
+      "note": "語塊：the postponement of（……的延期）、announce a postponement（宣布延期）。postponement 是名詞；postpone 是動詞「延期」；cancellation 是「取消」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-draw-up",
+      "word": "draw up",
+      "pos": "片語動詞",
+      "meaning": "起草；擬定",
+      "sentences": [
+        {
+          "en": "The lawyer will draw up a contract for the two companies and send it to them next week.",
+          "zh": "律師會為兩家公司擬定合約，下週寄給他們。"
+        },
+        {
+          "en": "The committee was asked to draw up a plan to reduce energy use in all of the city's schools.",
+          "zh": "委員會被要求擬定一項減少市內所有學校用電的計畫。"
+        },
+        {
+          "en": "Before the event, please draw up a list of everyone who will need a hotel room.",
+          "zh": "活動之前，請列出所有需要飯店房間的人。"
+        },
+        {
+          "en": "The manager will draw up a schedule for the new employees' training during their first month.",
+          "zh": "經理會為新員工第一個月的訓練擬定時程表。"
+        },
+        {
+          "en": "It took the team two weeks to draw up a plan that everyone in the department agreed with.",
+          "zh": "團隊花了兩週才擬定出部門裡每個人都同意的計畫。"
+        }
+      ],
+      "distractors": [
+        "draw on",
+        "draw back",
+        "draw in"
+      ],
+      "note": "語塊：draw up a contract（擬定合約）、draw up a plan（擬定計畫）、draw up a list（列出清單）。draw up 是「寫出（正式文件）」；make up 是「編造；組成」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-diagram",
+      "word": "diagram",
+      "pos": "名詞",
+      "meaning": "圖表；示意圖",
+      "sentences": [
+        {
+          "en": "The diagram on page three shows how the different parts of the machine fit together.",
+          "zh": "第三頁的示意圖說明機器的各個零件如何組裝在一起。"
+        },
+        {
+          "en": "The teacher drew a diagram on the board to help the students understand how the system works.",
+          "zh": "老師在黑板上畫了一張圖，幫助學生了解系統如何運作。"
+        },
+        {
+          "en": "Please look at the diagram in the manual before you try to install the new shelves.",
+          "zh": "嘗試安裝新架子之前，請先看手冊裡的示意圖。"
+        },
+        {
+          "en": "The engineer used a simple diagram to explain the design of the bridge to the city council.",
+          "zh": "工程師用一張簡單的示意圖向市議會說明橋樑的設計。"
+        },
+        {
+          "en": "The diagram shows that most of the company's sales come from customers in Asia and Europe.",
+          "zh": "圖表顯示公司大部分的銷售來自亞洲的顧客。"
+        }
+      ],
+      "distractors": [
+        "diaphragm",
+        "dialogue",
+        "telegram"
+      ],
+      "note": "語塊：draw a diagram（畫圖表）、the diagram shows（圖表顯示）、the diagram in the manual（手冊裡的圖）、a simple diagram（簡單的圖）。diagram 是「說明用的圖」；chart 是「圖表（多為數字）」；graph 是「曲線圖」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
