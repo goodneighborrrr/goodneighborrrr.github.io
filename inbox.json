@@ -31273,6 +31273,706 @@
       ],
       "note": "語塊：depend on（依賴；取決於）、depend on the number of（取決於……的數量）。depend on 可以是「依靠」或「取決於」；dependent 是形容詞「依賴的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stun",
+      "word": "stun",
+      "pos": "動詞",
+      "meaning": "使震驚；使目瞪口呆",
+      "sentences": [
+        {
+          "en": "The singer's powerful voice will stun the audience at the concert hall on Saturday night.",
+          "zh": "那位歌手強大的歌聲將在週六晚上讓音樂廳的觀眾驚豔。"
+        },
+        {
+          "en": "The news of the merger seemed to stun investors, and the company's share price rose quickly.",
+          "zh": "合併的消息似乎讓投資人很震驚，公司股價迅速上漲。"
+        },
+        {
+          "en": "The beautiful view from the top of the mountain is sure to stun visitors who make the long hike.",
+          "zh": "山頂的美景一定會讓走完漫長健行的遊客驚嘆不已。"
+        },
+        {
+          "en": "The sudden resignation of the CEO did stun many employees, who had not expected any changes.",
+          "zh": "執行長突然辭職確實讓很多員工震驚，他們完全沒料到會有變動。"
+        },
+        {
+          "en": "The designer hopes the bright colors of the new collection will stun the fashion critics in Paris.",
+          "zh": "設計師希望新系列的鮮豔色彩能讓巴黎的時尚評論家驚豔。"
+        }
+      ],
+      "distractors": [
+        "stunt",
+        "stub",
+        "sun"
+      ],
+      "note": "語塊：stun the audience（讓觀眾驚豔）、be stunned by（被……震驚）。stun 是「讓人驚呆」；stunning 是形容詞「極美的；令人驚豔的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alike",
+      "word": "alike",
+      "pos": "副詞",
+      "meaning": "同樣地；相似地",
+      "sentences": [
+        {
+          "en": "The new park is popular with children and adults alike, especially on warm and sunny weekends.",
+          "zh": "新公園受到小孩和大人一致喜愛，尤其是溫暖的週末。"
+        },
+        {
+          "en": "The two models look alike, but the newer one has a larger screen and a longer battery life.",
+          "zh": "兩款機型看起來很像，但新款的螢幕比較大、電池續航也比較久。"
+        },
+        {
+          "en": "Customers and employees alike have praised the new design of the store for being bright and modern.",
+          "zh": "顧客和員工都稱讚新店面設計明亮又現代。"
+        },
+        {
+          "en": "The training program is useful for new and experienced workers alike because it covers the latest rules.",
+          "zh": "訓練計畫對新進和資深員工都很有用，因為它涵蓋最新的規定。"
+        },
+        {
+          "en": "Tourists and residents alike enjoy the night market, which offers food from many different countries.",
+          "zh": "觀光客和居民都喜歡那個夜市，那裡有很多不同國家的食物。"
+        }
+      ],
+      "distractors": [
+        "alive",
+        "alight",
+        "unlike"
+      ],
+      "note": "語塊：A and B alike（A 和 B 都）、look alike（看起來很像）。alike 常放在名詞後面（customers and staff alike）；like 是介系詞「像」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-likelihood",
+      "word": "likelihood",
+      "pos": "名詞",
+      "meaning": "可能性",
+      "sentences": [
+        {
+          "en": "Regular maintenance reduces the likelihood of the machines breaking down during busy periods such as the holiday season.",
+          "zh": "定期維修能降低機器在忙碌時段故障的可能性。"
+        },
+        {
+          "en": "In all likelihood, the new store will open in May, but the exact date has not been decided yet.",
+          "zh": "新店十之八九會在五月開幕，但確切日期還沒決定。"
+        },
+        {
+          "en": "Practicing your presentation several times will increase the likelihood of success at the meeting with the clients.",
+          "zh": "把簡報練習好幾次，會提高會議成功的可能性。"
+        },
+        {
+          "en": "The weather forecast says there is a high likelihood of rain on Saturday, so the picnic may be postponed.",
+          "zh": "天氣預報說週六很可能下雨，所以野餐可能會延期。"
+        },
+        {
+          "en": "Experts believe that the likelihood of another price increase this year is very low for most products.",
+          "zh": "專家認為今年再漲價的可能性很低。"
+        }
+      ],
+      "distractors": [
+        "livelihood",
+        "likeness",
+        "liability"
+      ],
+      "note": "語塊：the likelihood of（……的可能性）、in all likelihood（十之八九）、increase the likelihood（提高可能性）。likelihood 是「發生的可能性」；possibility、probability 意思接近；likely 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subjective",
+      "word": "subjective",
+      "pos": "形容詞",
+      "meaning": "主觀的",
+      "sentences": [
+        {
+          "en": "Taste in art is highly subjective, so not everyone will like the paintings in the new exhibition.",
+          "zh": "藝術品味非常主觀，所以不是每個人都會喜歡新展覽的畫作。"
+        },
+        {
+          "en": "The review was based on the writer's subjective opinion rather than on facts about the product.",
+          "zh": "那篇評論是根據作者的主觀意見，而不是產品的事實。"
+        },
+        {
+          "en": "Evaluating employees can be subjective, so the company uses clear goals and numbers to measure performance.",
+          "zh": "評估員工可能會很主觀，所以公司用明確的目標來衡量績效。"
+        },
+        {
+          "en": "The judges tried to avoid a subjective decision by using a scoring sheet for each design.",
+          "zh": "評審試著用每個設計的評分表，避免做出主觀的決定。"
+        },
+        {
+          "en": "Customer reviews are subjective, but they still help other people decide which hotel to choose.",
+          "zh": "顧客評論雖然主觀，但仍能幫助其他人決定要選哪家飯店。"
+        }
+      ],
+      "distractors": [
+        "objective",
+        "subject",
+        "substantive"
+      ],
+      "note": "語塊：subjective opinion（主觀意見）、highly subjective（非常主觀的）、subjective decision（主觀的決定）、can be subjective（可能很主觀）。subjective 是「主觀的、依個人感受」；objective 是相反詞「客觀的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-innovate",
+      "word": "innovate",
+      "pos": "動詞",
+      "meaning": "創新",
+      "sentences": [
+        {
+          "en": "Technology companies must continue to innovate if they want to stay ahead of their competitors.",
+          "zh": "科技公司如果想領先競爭對手，就必須持續創新。"
+        },
+        {
+          "en": "The startup hopes to innovate in the field of renewable energy by developing cheaper solar panels.",
+          "zh": "那家新創公司希望開發更便宜的太陽能板，在再生能源領域創新。"
+        },
+        {
+          "en": "Our company encourages employees to innovate by giving them time each week to work on new ideas.",
+          "zh": "我們公司鼓勵員工創新，每週給他們時間發展新點子。"
+        },
+        {
+          "en": "Small businesses often innovate faster than large companies because they can make decisions much more quickly.",
+          "zh": "小企業常常比大公司更快創新，因為它們能很快做決定。"
+        },
+        {
+          "en": "The restaurant continues to innovate in its menu, adding new dishes inspired by different countries.",
+          "zh": "那家餐廳的菜單持續創新，加入受各國啟發的新菜色。"
+        }
+      ],
+      "distractors": [
+        "renovate",
+        "inundate",
+        "innate"
+      ],
+      "note": "語塊：continue to innovate（持續創新）、innovate in（在……方面創新）。innovate 是動詞；innovation 是名詞「創新」；innovative 是形容詞「創新的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-competent",
+      "word": "competent",
+      "pos": "形容詞",
+      "meaning": "能幹的；有能力的",
+      "sentences": [
+        {
+          "en": "We are looking for a highly competent accountant who can manage the finances of several clients.",
+          "zh": "我們在找一位能管理好幾位客戶財務、非常能幹的會計師。"
+        },
+        {
+          "en": "Applicants must be competent in using spreadsheets and other basic office software used in the company.",
+          "zh": "應徵者必須能熟練使用試算表和其他基本辦公軟體。"
+        },
+        {
+          "en": "Ms. Grant is a competent manager who always finishes her projects on time and within budget.",
+          "zh": "Grant 小姐是一位能幹的經理，總是準時且在預算內完成專案。"
+        },
+        {
+          "en": "The training program helps new staff become competent in handling customer complaints by phone and email.",
+          "zh": "訓練計畫幫助新員工學會妥善處理顧客投訴。"
+        },
+        {
+          "en": "The hospital only hires highly competent nurses who have at least three years of experience.",
+          "zh": "醫院只聘用至少有三年經驗、非常能幹的護士。"
+        }
+      ],
+      "distractors": [
+        "competitive",
+        "complacent",
+        "compatible"
+      ],
+      "note": "語塊：highly competent（非常能幹的）、competent in（擅長……）。competent 是「有能力勝任」；competitive 是「有競爭力的」；competence 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legalize",
+      "word": "legalize",
+      "pos": "動詞",
+      "meaning": "使合法化",
+      "sentences": [
+        {
+          "en": "Some cities are discussing whether to legalize the use of electric scooters on sidewalks in the city center.",
+          "zh": "有些城市正在討論是否讓電動滑板車在人行道上行駛合法化。"
+        },
+        {
+          "en": "The government plans to legalize online gambling, but many citizens are strongly against the idea.",
+          "zh": "政府計畫讓網路賭博合法化，但很多民眾反對。"
+        },
+        {
+          "en": "The new law will legalize the sale of certain medicines in supermarkets instead of only in pharmacies.",
+          "zh": "新法律將使某些藥品在超市販售合法化，而不只限於藥局。"
+        },
+        {
+          "en": "Business owners asked the council to legalize outdoor seating for restaurants on the main street.",
+          "zh": "商家要求議會讓主要街道的餐廳戶外座位合法化。"
+        },
+        {
+          "en": "Several countries decided to legalize working from abroad for people who hold special work visas.",
+          "zh": "幾個國家決定讓持有特殊簽證的人從國外工作合法化。"
+        }
+      ],
+      "distractors": [
+        "legislate",
+        "localize",
+        "realize"
+      ],
+      "note": "語塊：legalize sth（使某事合法）。legalize 是「讓本來不合法的事變合法」；legal 是形容詞「合法的」；legislate 是「立法」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legally",
+      "word": "legally",
+      "pos": "副詞",
+      "meaning": "合法地；依法",
+      "sentences": [
+        {
+          "en": "Employers are legally required to give workers at least one full day off every week.",
+          "zh": "雇主依法必須讓員工每週至少休一天。"
+        },
+        {
+          "en": "Once both sides sign the document, the contract will be legally binding for both companies.",
+          "zh": "雙方一簽署文件，合約就具有法律效力。"
+        },
+        {
+          "en": "Restaurants are legally required to display information about the ingredients used in all of their dishes.",
+          "zh": "餐廳依法必須標示菜餚的成分資訊。"
+        },
+        {
+          "en": "You cannot legally drive in this country unless you have a valid license from your home country.",
+          "zh": "除非你有有效的駕照，否則不能在這個國家合法開車。"
+        },
+        {
+          "en": "The agreement is not legally binding, but both companies have promised to follow it carefully.",
+          "zh": "這份協議不具法律效力，但兩家公司都承諾會遵守。"
+        }
+      ],
+      "distractors": [
+        "legibly",
+        "loyally",
+        "lethally"
+      ],
+      "note": "語塊：legally required（依法要求的）、legally binding（具法律效力的）。legally 是「依照法律地」；illegally 是「違法地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-broker",
+      "word": "broker",
+      "pos": "名詞",
+      "meaning": "經紀人；仲介",
+      "sentences": [
+        {
+          "en": "The couple hired a real estate broker to help them find an apartment close to their offices.",
+          "zh": "那對夫妻請了一位房地產經紀人，幫他們找離辦公室近的公寓。"
+        },
+        {
+          "en": "An insurance broker can compare plans from several companies to find the best price for you.",
+          "zh": "保險經紀人可以比較好幾家公司的方案，幫你找到最好的價格。"
+        },
+        {
+          "en": "Mr. Diaz worked as a stock broker for ten years before he started his own investment company.",
+          "zh": "Diaz 先生當了十年股票經紀人，之後自己開了一家投資公司。"
+        },
+        {
+          "en": "The real estate broker showed us five office spaces in the business district on Tuesday.",
+          "zh": "房地產經紀人週二帶我們看了商業區的五個辦公空間。"
+        },
+        {
+          "en": "Our company works with an insurance broker who helps us choose health plans for our employees.",
+          "zh": "我們公司和一位保險經紀人合作，他幫我們為員工挑選健康保險方案。"
+        }
+      ],
+      "distractors": [
+        "broken",
+        "brother",
+        "breaker"
+      ],
+      "note": "語塊：real estate broker（房地產經紀人）、insurance broker（保險經紀人）、stock broker（股票經紀人）。broker 是「幫人買賣的中間人」；agent 意思接近；broken 是「壞掉的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reliability",
+      "word": "reliability",
+      "pos": "名詞",
+      "meaning": "可靠性；可信度",
+      "sentences": [
+        {
+          "en": "Customers choose our cars because of their reliability and the low cost of repairs over many years.",
+          "zh": "顧客選擇我們的車，是因為它們很可靠，維修費又低。"
+        },
+        {
+          "en": "The airline is known for reliability, and most of its flights arrive at their destination on time.",
+          "zh": "那家航空公司以可靠著稱，大部分航班都準時抵達目的地。"
+        },
+        {
+          "en": "Engineers tested the reliability of the new software for several weeks before it was released.",
+          "zh": "工程師在新軟體推出前測試了好幾週的可靠性。"
+        },
+        {
+          "en": "Some experts question the reliability of the survey because only one hundred people answered it.",
+          "zh": "有些專家質疑這份調查的可信度，因為只有一百個人回答。"
+        },
+        {
+          "en": "The reliability of our delivery service has improved since we hired more drivers last year.",
+          "zh": "自從去年增聘司機後，我們配送服務的可靠性提高了。"
+        }
+      ],
+      "distractors": [
+        "responsibility",
+        "liability",
+        "credibility"
+      ],
+      "note": "語塊：reliability of（……的可靠性）、known for reliability（以可靠著稱）。reliability 是名詞；reliable 是形容詞「可靠的」；rely 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unwilling",
+      "word": "unwilling",
+      "pos": "形容詞",
+      "meaning": "不願意的",
+      "sentences": [
+        {
+          "en": "Many customers are unwilling to pay extra for delivery, so the store decided to offer free shipping.",
+          "zh": "很多顧客不願意多付運費，所以那家店決定提供免運費。"
+        },
+        {
+          "en": "The supplier was unwilling to lower its prices, so we decided to look for another company.",
+          "zh": "供應商不願意降價，所以我們決定找另一家公司。"
+        },
+        {
+          "en": "Some employees are unwilling to work on weekends because they want to spend time with their families.",
+          "zh": "有些員工不願意週末上班，因為他們想陪家人。"
+        },
+        {
+          "en": "The landlord is unwilling to make repairs to the old building until the tenants pay their rent.",
+          "zh": "房東不願意修理那棟舊大樓，直到房客付清房租為止。"
+        },
+        {
+          "en": "The bank was unwilling to approve the loan because the company did not have a clear business plan.",
+          "zh": "銀行不願意核准貸款，因為那家公司沒有明確的營運計畫。"
+        }
+      ],
+      "distractors": [
+        "unwitting",
+        "unwelcome",
+        "unfilling"
+      ],
+      "note": "語塊：be unwilling to（不願意……）。be unwilling to + 原形動詞；reluctant 意思接近；willing 是「願意的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-strategy",
+      "word": "strategy",
+      "pos": "名詞",
+      "meaning": "策略；戰略",
+      "sentences": [
+        {
+          "en": "The new marketing strategy focuses on reaching young customers through social media and online videos.",
+          "zh": "新的行銷策略聚焦於透過社群媒體和網路影片接觸年輕顧客。"
+        },
+        {
+          "en": "The board asked the CEO to develop a strategy for expanding the company into South America.",
+          "zh": "董事會要求執行長制定一套把公司擴展到南美的策略。"
+        },
+        {
+          "en": "Our business strategy is to offer high-quality products at prices that most people can afford.",
+          "zh": "我們的經營策略是以大多數人負擔得起的價格提供高品質產品。"
+        },
+        {
+          "en": "The consultant helped the restaurant develop a strategy to attract more customers on weekday evenings.",
+          "zh": "顧問幫餐廳制定了一套在平日晚上吸引更多顧客的策略。"
+        },
+        {
+          "en": "Changing the marketing strategy helped the company increase its online sales by forty percent in one year.",
+          "zh": "改變行銷策略幫助公司把網路銷售提高了四成。"
+        }
+      ],
+      "distractors": [
+        "tragedy",
+        "statistic",
+        "stratum"
+      ],
+      "note": "語塊：marketing strategy（行銷策略）、business strategy（經營策略）、develop a strategy（制定策略）。strategy 是「整體的計畫方針」；tactic 是「具體戰術」；strategic 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mostly",
+      "word": "mostly",
+      "pos": "副詞",
+      "meaning": "大部分；主要地",
+      "sentences": [
+        {
+          "en": "The audience at the conference was mostly made up of engineers and managers from technology companies.",
+          "zh": "研討會的觀眾主要是科技公司的工程師和經理。"
+        },
+        {
+          "en": "Sales increased last year mostly because of the success of our new line of kitchen appliances.",
+          "zh": "去年銷售增加主要是因為新系列廚房家電很成功。"
+        },
+        {
+          "en": "The furniture in the hotel lobby is mostly made of wood that comes from local forests.",
+          "zh": "飯店大廳的家具大部分是用當地森林的木材做的。"
+        },
+        {
+          "en": "The weather this week will be mostly sunny, with a small chance of rain on Thursday afternoon.",
+          "zh": "這週天氣大多晴朗，週四下午有小機率下雨。"
+        },
+        {
+          "en": "Our customers are mostly young families who live in the apartments near the new shopping center.",
+          "zh": "我們的顧客大多是住在新購物中心附近公寓的年輕家庭。"
+        }
+      ],
+      "distractors": [
+        "mutually",
+        "monthly",
+        "modestly"
+      ],
+      "note": "語塊：mostly made of（主要由……製成）、mostly because（主要是因為）。mostly 是「大多、主要」；most 是「最多的」；almost 是「幾乎」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-award-winning",
+      "word": "award-winning",
+      "pos": "形容詞",
+      "meaning": "得獎的",
+      "sentences": [
+        {
+          "en": "The hotel restaurant is run by an award-winning chef who trained in France and Japan for many years.",
+          "zh": "那家飯店餐廳由一位在法國和日本受訓多年的得獎主廚經營。"
+        },
+        {
+          "en": "The new library has an award-winning design that uses natural light and recycled materials in creative ways.",
+          "zh": "新圖書館擁有一個運用自然光和回收材料的得獎設計。"
+        },
+        {
+          "en": "The award-winning film will be shown at the community center on Friday evening, and entry is free.",
+          "zh": "那部得獎電影週五晚上會在社區中心放映，免費入場。"
+        },
+        {
+          "en": "Our team includes several award-winning designers who have worked with famous brands around the world.",
+          "zh": "我們的團隊有好幾位和世界知名品牌合作過的得獎設計師。"
+        },
+        {
+          "en": "Visitors can enjoy an award-winning wine from the local vineyard during the tour of the region.",
+          "zh": "遊客在當地導覽行程中可以品嚐在地葡萄園的得獎葡萄酒。"
+        }
+      ],
+      "distractors": [
+        "money-saving",
+        "time-consuming",
+        "eye-catching"
+      ],
+      "note": "語塊：award-winning chef（得獎主廚）、award-winning design（得獎設計）、award-winning film（得獎電影）。award-winning 放在名詞前要加連字號；prize-winning 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-collecting",
+      "word": "collecting",
+      "pos": "名詞",
+      "meaning": "收集；收藏",
+      "sentences": [
+        {
+          "en": "Stamp collecting was a popular hobby in the past, but fewer young people do it now.",
+          "zh": "集郵在過去是很受歡迎的嗜好，但現在做的年輕人變少了。"
+        },
+        {
+          "en": "The research team spent six months collecting data from customers in five different cities across Asia.",
+          "zh": "研究團隊花了六個月從五個不同城市的顧客那裡收集資料。"
+        },
+        {
+          "en": "Volunteers will be collecting donations for the children's hospital at the entrance of the supermarket.",
+          "zh": "志工會在超市入口為兒童醫院募集捐款。"
+        },
+        {
+          "en": "Collecting customer feedback regularly helps the company improve its products and services for customers every year.",
+          "zh": "定期收集顧客意見有助於公司改善產品和服務。"
+        },
+        {
+          "en": "Mr. Lee became interested in collecting old cameras when he was a university student in Tokyo.",
+          "zh": "李先生大學時開始對收藏老相機產生興趣。"
+        }
+      ],
+      "distractors": [
+        "correcting",
+        "connecting",
+        "selecting"
+      ],
+      "note": "語塊：stamp collecting（集郵）、collecting data（收集資料）、collecting donations（募集捐款）。collecting 是「收集的動作或嗜好」；collection 是「收藏品」；collector 是「收藏家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compliance",
+      "word": "compliance",
+      "pos": "名詞",
+      "meaning": "遵守；合規",
+      "sentences": [
+        {
+          "en": "All of our products are made in compliance with international safety standards and local laws.",
+          "zh": "我們所有產品都依照國際安全標準製造。"
+        },
+        {
+          "en": "Inspectors will check the factory's compliance with the new environmental rules on Monday and Tuesday next week.",
+          "zh": "檢查員下週會檢查工廠是否遵守新的環保規定。"
+        },
+        {
+          "en": "Ms. Ahmed works in the compliance department and makes sure that the bank follows every law.",
+          "zh": "Ahmed 小姐在法遵部門工作，確保銀行遵守每一條法律。"
+        },
+        {
+          "en": "In compliance with the new law, restaurants must now display the calories of every dish on the menu.",
+          "zh": "為了遵照新法律，餐廳現在必須在菜單上標示每道菜的熱量。"
+        },
+        {
+          "en": "The company hired a lawyer to review its compliance with the tax rules in each country where it operates.",
+          "zh": "公司聘請律師檢查它在每個營運國家是否遵守稅務規定。"
+        }
+      ],
+      "distractors": [
+        "compliment",
+        "complaint",
+        "appliance"
+      ],
+      "note": "語塊：in compliance with（遵照……）、compliance with（對……的遵守）、compliance department（法遵部門）。compliance 是名詞；comply 是動詞（comply with）；compliant 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reform",
+      "word": "reform",
+      "pos": "名詞",
+      "meaning": "改革",
+      "sentences": [
+        {
+          "en": "The government announced a tax reform that will lower taxes for families with young children.",
+          "zh": "政府宣布一項稅制改革，將降低有幼童家庭的稅負。"
+        },
+        {
+          "en": "Many teachers support the education reform, which will reduce the number of exams that students take.",
+          "zh": "很多老師支持這項教育改革，它會減少學生要考的考試數量。"
+        },
+        {
+          "en": "The new CEO plans to introduce a reform of the company's structure to make decisions faster.",
+          "zh": "新執行長計畫推行公司結構改革，讓決策更快。"
+        },
+        {
+          "en": "Experts say that the tax reform will help small businesses grow and create more jobs.",
+          "zh": "專家說稅制改革會幫助小企業成長並創造更多工作。"
+        },
+        {
+          "en": "The health care reform will make it easier for elderly people to see a doctor near their homes.",
+          "zh": "醫療改革將讓年長者更容易在家附近看醫生。"
+        }
+      ],
+      "distractors": [
+        "inform",
+        "perform",
+        "deform"
+      ],
+      "note": "語塊：tax reform（稅制改革）、education reform（教育改革）、introduce reforms（推行改革）。reform 可以當名詞或動詞「改革」；inform（通知）和 perform（表演）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-critically",
+      "word": "critically",
+      "pos": "副詞",
+      "meaning": "嚴重地；評論上；批判性地",
+      "sentences": [
+        {
+          "en": "The critically acclaimed play will be performed at the city theater for two weeks in December.",
+          "zh": "那齣廣受好評的舞台劇十二月會在市立劇院演出兩週。"
+        },
+        {
+          "en": "It is critically important to test the software carefully before releasing it to all of our customers.",
+          "zh": "在把軟體推出給顧客之前仔細測試，是極為重要的。"
+        },
+        {
+          "en": "The course teaches students how to think critically about the information they read online every day.",
+          "zh": "這門課教學生如何批判性思考在網路上讀到的資訊。"
+        },
+        {
+          "en": "The patient was critically injured in the accident and was taken to the hospital by helicopter.",
+          "zh": "病人在意外中受重傷，被直升機送到醫院。"
+        },
+        {
+          "en": "The author's first novel was critically acclaimed and has been translated into more than twenty languages.",
+          "zh": "那位作家的第一本小說廣受好評，已被翻譯成二十種語言。"
+        }
+      ],
+      "distractors": [
+        "crucially",
+        "cordially",
+        "clinically"
+      ],
+      "note": "語塊：critically acclaimed（廣受好評的）、critically important（極為重要）、think critically（批判性思考）。critically acclaimed 是「受到評論家讚賞」；critical 是形容詞「關鍵的；批評的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acclaimed",
+      "word": "acclaimed",
+      "pos": "形容詞",
+      "meaning": "受讚譽的；著名的",
+      "sentences": [
+        {
+          "en": "The museum will host an exhibition of paintings by an internationally acclaimed artist from Mexico.",
+          "zh": "博物館將舉辦一位國際知名墨西哥藝術家的畫展。"
+        },
+        {
+          "en": "The highly acclaimed restaurant is fully booked for the next three months, so please reserve early.",
+          "zh": "那家備受讚譽的餐廳未來三個月都訂滿了，所以請提早預約。"
+        },
+        {
+          "en": "The film was critically acclaimed and won several awards at international film festivals last year.",
+          "zh": "那部電影廣受好評，去年在國際影展上贏得好幾個獎。"
+        },
+        {
+          "en": "Our guest speaker is an acclaimed author who has written several books about leadership and teamwork.",
+          "zh": "我們的演講嘉賓是一位寫過好幾本領導力書籍的知名作家。"
+        },
+        {
+          "en": "The internationally acclaimed orchestra will perform at the new concert hall downtown in early March.",
+          "zh": "那個國際知名的管弦樂團三月將在新音樂廳演出。"
+        }
+      ],
+      "distractors": [
+        "claimed",
+        "exclaimed",
+        "acquainted"
+      ],
+      "note": "語塊：critically acclaimed（廣受好評的）、internationally acclaimed（國際知名的）、highly acclaimed（備受讚譽的）。acclaimed 是「受到大家稱讚的」；acclaim 是名詞「讚譽」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-create",
+      "word": "create",
+      "pos": "動詞",
+      "meaning": "創造；建立",
+      "sentences": [
+        {
+          "en": "The new factory is expected to create jobs for more than five hundred people in the region.",
+          "zh": "新工廠預計會為該地區五百多人創造工作機會。"
+        },
+        {
+          "en": "We hired a designer to create a website that is easy for customers to use on their phones.",
+          "zh": "我們聘請一位設計師，建立一個顧客用手機也容易使用的網站。"
+        },
+        {
+          "en": "To use the online service, you will first need to create an account with your email address.",
+          "zh": "要使用線上服務，你得先用電子信箱建立一個帳號。"
+        },
+        {
+          "en": "The city hopes that the new park will create a pleasant space for families to relax on weekends.",
+          "zh": "市政府希望新公園能為家庭創造一個週末放鬆的舒適空間。"
+        },
+        {
+          "en": "Small businesses help create jobs and keep the local economy strong in many small towns.",
+          "zh": "小企業在許多小鎮幫助創造工作機會、維持地方經濟的活力。"
+        }
+      ],
+      "distractors": [
+        "cremate",
+        "crate",
+        "curate"
+      ],
+      "note": "語塊：create jobs（創造工作）、create a website（建立網站）、create an account（建立帳號）。create 是「創造」；creation 是名詞；creative 是形容詞「有創意的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
