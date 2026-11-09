@@ -36173,6 +36173,706 @@
       ],
       "note": "語塊：dedication to（對……的投入）、hard work and dedication（努力與奉獻）。dedication 是名詞；dedicate 是動詞「奉獻」；dedicated 是形容詞「敬業的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-loyalty",
+      "word": "loyalty",
+      "pos": "名詞",
+      "meaning": "忠誠；忠實度",
+      "sentences": [
+        {
+          "en": "The coffee shop started a loyalty program that gives customers a free drink after ten purchases.",
+          "zh": "那家咖啡店推出會員回饋計畫，顧客買十杯就送一杯。"
+        },
+        {
+          "en": "Good service and friendly staff are the best ways to build customer loyalty over many years.",
+          "zh": "優質的服務和親切的員工是多年來建立顧客忠誠度的最好方法。"
+        },
+        {
+          "en": "Please show your loyalty card to the cashier so that you can collect points for your purchase.",
+          "zh": "請把集點卡給收銀員看，這樣你購物就能集點。"
+        },
+        {
+          "en": "The company rewards loyalty by giving employees extra vacation days after ten years of service.",
+          "zh": "公司以額外假期獎勵忠誠，員工服務滿十年就能多放假。"
+        },
+        {
+          "en": "Many airlines have a loyalty program that allows frequent travelers to earn free flights and hotel stays.",
+          "zh": "很多航空公司都有會員回饋計畫，讓常搭飛機的旅客累積免費機票。"
+        }
+      ],
+      "distractors": [
+        "royalty",
+        "legality",
+        "locality"
+      ],
+      "note": "語塊：customer loyalty（顧客忠誠度）、loyalty program（會員回饋計畫）、loyalty card（集點卡）。loyalty 是名詞；loyal 是形容詞「忠誠的」；royalty（版稅；皇室）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-charity",
+      "word": "charity",
+      "pos": "名詞",
+      "meaning": "慈善團體；慈善",
+      "sentences": [
+        {
+          "en": "The company donates five percent of its profits to charity every year at the end of December.",
+          "zh": "公司每年十二月底都會把百分之五的利潤捐給慈善機構。"
+        },
+        {
+          "en": "Employees organized a charity event to raise money for several children's hospitals in the region.",
+          "zh": "員工籌辦了一場慈善活動，為該地區的兒童醫院募款。"
+        },
+        {
+          "en": "Runners in the city marathon can raise money for charity by asking friends to support them.",
+          "zh": "城市馬拉松的跑者可以請朋友支持，為慈善募款。"
+        },
+        {
+          "en": "The famous singer will perform at a charity event to help families who lost their homes in the flood.",
+          "zh": "那位知名歌手將在一場慈善活動中演出，幫助在水災中失去家園的家庭。"
+        },
+        {
+          "en": "Old clothes and books can be donated to charity at the collection box near the entrance.",
+          "zh": "舊衣服和書可以放在入口附近的回收箱捐給慈善機構。"
+        }
+      ],
+      "distractors": [
+        "clarity",
+        "chastity",
+        "rarity"
+      ],
+      "note": "語塊：donate to charity（捐給慈善機構）、charity event（慈善活動）、raise money for charity（為慈善募款）。charity 可以是「慈善機構」或「慈善行為」；charitable 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-benefit",
+      "word": "benefit",
+      "pos": "名詞",
+      "meaning": "好處；福利",
+      "sentences": [
+        {
+          "en": "One benefit of working from home is that employees do not have to spend time commuting.",
+          "zh": "在家工作的一個好處是員工不用花時間通勤。"
+        },
+        {
+          "en": "The main benefit of the new system is that customers can check their orders at any time on their phones.",
+          "zh": "新系統的主要好處是顧客可以隨時用手機查詢訂單。"
+        },
+        {
+          "en": "Small businesses will benefit from the new tax rules, which lower the cost of hiring young workers.",
+          "zh": "小企業將受惠於新的稅務規定，因為它降低了聘用年輕員工的成本。"
+        },
+        {
+          "en": "The benefit of buying in bulk is that the price per item is much lower than usual.",
+          "zh": "大量購買的好處是每件商品的價格比平常低很多。"
+        },
+        {
+          "en": "Students can benefit from the free tutoring program, which is offered every evening at the library.",
+          "zh": "學生可以從每晚在圖書館開設的免費輔導計畫中受益。"
+        }
+      ],
+      "distractors": [
+        "benefactor",
+        "beneficiary",
+        "bandit"
+      ],
+      "note": "語塊：the main benefit（主要好處）、the benefit of（……的好處）、benefit from（從……受益）。benefit 可以當名詞「好處、福利」或動詞（benefit from）；beneficial 是形容詞「有益的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shelter",
+      "word": "shelter",
+      "pos": "名詞",
+      "meaning": "收容所；庇護所",
+      "sentences": [
+        {
+          "en": "Volunteers at the animal shelter take care of dogs and cats until new families adopt them.",
+          "zh": "動物收容所的志工照顧貓狗，直到有新家庭領養牠們。"
+        },
+        {
+          "en": "The city opened a new homeless shelter that can provide beds and meals for one hundred people.",
+          "zh": "市政府開了一間新的遊民收容所，可以提供一百人的床位和餐點。"
+        },
+        {
+          "en": "During the storm, the school gym was used to provide shelter for families from the coast.",
+          "zh": "暴風雨期間，學校體育館被用來為沿海的家庭提供庇護。"
+        },
+        {
+          "en": "The company donated blankets and food to the homeless shelter before the cold winter began.",
+          "zh": "寒冬來臨前，公司捐了毯子和食物給遊民收容所。"
+        },
+        {
+          "en": "Many people adopt pets from the animal shelter instead of buying them from pet stores.",
+          "zh": "很多人從動物收容所領養寵物，而不是從寵物店購買。"
+        }
+      ],
+      "distractors": [
+        "shelf",
+        "helter-skelter",
+        "smelter"
+      ],
+      "note": "語塊：animal shelter（動物收容所）、homeless shelter（遊民收容所）、provide shelter（提供庇護）。shelter 是「遮蔽、躲避的地方」；當動詞是「保護、遮蔽」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-underprivileged",
+      "word": "underprivileged",
+      "pos": "形容詞",
+      "meaning": "弱勢的；貧困的",
+      "sentences": [
+        {
+          "en": "The charity provides free books and school supplies to underprivileged children who live in small villages in rural areas.",
+          "zh": "那個慈善團體為鄉村地區的弱勢兒童提供免費書籍和文具。"
+        },
+        {
+          "en": "The company offers scholarships to students from underprivileged families who want to study engineering at university.",
+          "zh": "公司提供獎學金給想讀工程、來自弱勢家庭的學生。"
+        },
+        {
+          "en": "Volunteers teach English to underprivileged children at the local community center every Saturday and Sunday morning.",
+          "zh": "志工每週六和週日早上在社區中心教弱勢兒童英文。"
+        },
+        {
+          "en": "The new program will help underprivileged families find safe and affordable housing in the city.",
+          "zh": "新計畫將幫助弱勢家庭在城裡找到安全又負擔得起的住處。"
+        },
+        {
+          "en": "Many underprivileged students cannot afford computers, so the public library lends laptops to them for free.",
+          "zh": "很多弱勢學生買不起電腦，所以圖書館免費出借筆電。"
+        }
+      ],
+      "distractors": [
+        "privileged",
+        "undeveloped",
+        "underpaid"
+      ],
+      "note": "語塊：underprivileged children（弱勢兒童）、underprivileged families（弱勢家庭）。underprivileged 是「缺少機會、經濟弱勢的」；disadvantaged 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-severance-package",
+      "word": "severance package",
+      "pos": "名詞",
+      "meaning": "資遣方案；離職補償",
+      "sentences": [
+        {
+          "en": "Employees who lose their jobs because of the restructuring will receive a severance package next month.",
+          "zh": "因重組而失去工作的員工會獲得資遣補償。"
+        },
+        {
+          "en": "The company offered a generous severance package that included six months of salary and health insurance.",
+          "zh": "公司提供了一份優渥的資遣方案，包括六個月的薪水。"
+        },
+        {
+          "en": "Mr. Hall used his severance package to start his own business after leaving the bank.",
+          "zh": "Hall 先生離開銀行後，用資遣補償自己創業。"
+        },
+        {
+          "en": "The union asked the company to improve the severance package for workers who have been there for many years.",
+          "zh": "工會要求公司為服務多年的員工改善資遣方案。"
+        },
+        {
+          "en": "A severance package usually depends on how long the employee has worked at the company.",
+          "zh": "資遣方案通常取決於員工在公司工作了多久。"
+        }
+      ],
+      "distractors": [
+        "benefits package",
+        "relocation package",
+        "vacation package"
+      ],
+      "note": "語塊：receive a severance package（獲得資遣補償）、generous severance package（優渥的資遣方案）、improve the severance package（改善資遣方案）、used his severance package（用了他的資遣補償）。severance 是「切斷、終止（僱傭關係）」；severance pay 是「資遣費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-employment",
+      "word": "employment",
+      "pos": "名詞",
+      "meaning": "就業；僱用；工作",
+      "sentences": [
+        {
+          "en": "The new factory will create employment opportunities for hundreds of people in the small town.",
+          "zh": "新工廠將為小鎮數百人創造就業機會。"
+        },
+        {
+          "en": "Many graduates seek employment in large cities, where salaries are usually higher than in small towns.",
+          "zh": "很多畢業生到大城市求職，因為那裡的薪水通常比較高。"
+        },
+        {
+          "en": "After working part-time for two years, Ms. Ruiz finally found full-time employment at a bank.",
+          "zh": "兼職工作兩年後，Ruiz 小姐終於在一家銀行找到全職工作。"
+        },
+        {
+          "en": "The government is working to increase employment opportunities for young people who live in rural areas.",
+          "zh": "政府正努力為鄉村地區的年輕人增加就業機會。"
+        },
+        {
+          "en": "Applicants must provide proof of their previous employment, such as a letter from a former employer.",
+          "zh": "應徵者必須提供以前的工作證明，例如前雇主的信。"
+        }
+      ],
+      "distractors": [
+        "enjoyment",
+        "deployment",
+        "implement"
+      ],
+      "note": "語塊：full-time employment（全職工作）、employment opportunities（就業機會）、seek employment（求職）。employment 是名詞；employ 是動詞「僱用」；unemployment 是「失業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accomplishment",
+      "word": "accomplishment",
+      "pos": "名詞",
+      "meaning": "成就；完成",
+      "sentences": [
+        {
+          "en": "Finishing the project two weeks early was a great accomplishment for such a small team.",
+          "zh": "提前兩週完成專案，對這麼小的團隊來說是很大的成就。"
+        },
+        {
+          "en": "Many employees feel a sense of accomplishment when they solve a difficult problem for a customer.",
+          "zh": "很多員工為顧客解決難題時會有成就感。"
+        },
+        {
+          "en": "The award recognizes the accomplishment of scientists who have made important discoveries in modern medicine.",
+          "zh": "這個獎項表彰在醫學上有重大發現的科學家的成就。"
+        },
+        {
+          "en": "Opening twenty stores in one year was the company's greatest accomplishment since it was founded.",
+          "zh": "一年內開二十家店是公司成立以來最大的成就。"
+        },
+        {
+          "en": "Completing a marathon gives runners a strong sense of accomplishment, even if they finish slowly.",
+          "zh": "跑完馬拉松會讓跑者有很強的成就感，即使跑得很慢。"
+        }
+      ],
+      "distractors": [
+        "accompaniment",
+        "accommodation",
+        "encouragement"
+      ],
+      "note": "語塊：a great accomplishment（很大的成就）、sense of accomplishment（成就感）。accomplishment 是名詞；accomplish 是動詞「完成」；achievement 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-output",
+      "word": "output",
+      "pos": "名詞",
+      "meaning": "產量；輸出",
+      "sentences": [
+        {
+          "en": "The factory plans to increase output by adding a second shift that will work at night.",
+          "zh": "工廠計畫加開夜班以增加產量。"
+        },
+        {
+          "en": "The total output of the farm this year was much higher than last year because of the good weather.",
+          "zh": "因為天氣好，農場今年的總產量比去年高很多。"
+        },
+        {
+          "en": "New machines have doubled the output of the factory without increasing the number of workers.",
+          "zh": "新機器讓工廠的產量翻倍，而不用增加工人數量。"
+        },
+        {
+          "en": "The country's output of rice fell last year because of a long period of dry weather.",
+          "zh": "由於長期乾旱，該國去年的稻米產量下降。"
+        },
+        {
+          "en": "The company hopes to increase output next year so that it can sell its products in more countries.",
+          "zh": "公司希望明年增加產量，好在更多國家販售產品。"
+        }
+      ],
+      "distractors": [
+        "outlet",
+        "outcome",
+        "outlook"
+      ],
+      "note": "語塊：increase output（增加產量）、total output（總產量）、output of（……的產量）。output 是「生產出來的量」；input 是「投入」；outcome 是「結果」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refinance",
+      "word": "refinance",
+      "pos": "動詞",
+      "meaning": "重新融資；轉貸",
+      "sentences": [
+        {
+          "en": "Many homeowners decided to refinance their mortgages when interest rates fell sharply at the end of last year.",
+          "zh": "去年利率下降時，很多屋主決定把房貸轉貸。"
+        },
+        {
+          "en": "The company plans to refinance a loan from the bank in order to reduce its monthly payments.",
+          "zh": "公司計畫向銀行轉貸，以減少每月還款金額。"
+        },
+        {
+          "en": "It may be a good idea to refinance your mortgage if you can get a lower interest rate.",
+          "zh": "如果你能拿到更低的利率，轉貸房貸可能是個好主意。"
+        },
+        {
+          "en": "The bank offers free advice to customers who want to refinance a loan for their car or house.",
+          "zh": "銀行為想轉貸汽車或房屋貸款的顧客提供免費建議。"
+        },
+        {
+          "en": "Before you refinance a mortgage, compare the fees and interest rates offered by several banks.",
+          "zh": "轉貸房貸之前，先比較好幾家銀行的手續費和利率。"
+        }
+      ],
+      "distractors": [
+        "refine",
+        "reference",
+        "finance"
+      ],
+      "note": "語塊：refinance a loan（轉貸）、refinance a mortgage（房貸轉貸）。refinance 是「用新的貸款還舊的貸款」，通常為了更低的利率；finance 是「資金；融資」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-abundance",
+      "word": "abundance",
+      "pos": "名詞",
+      "meaning": "豐富；充足",
+      "sentences": [
+        {
+          "en": "The region has an abundance of fresh fruit and vegetables, so many famous restaurants are located there.",
+          "zh": "那個地區有豐富的新鮮蔬果，所以很多知名餐廳都在那裡。"
+        },
+        {
+          "en": "The new office building has an abundance of natural light because of its large glass windows.",
+          "zh": "新辦公大樓因為有大玻璃窗，自然光非常充足。"
+        },
+        {
+          "en": "Fish were found in abundance in the lake before the factories began to pollute the water.",
+          "zh": "在工廠開始污染湖水之前，湖裡有大量的魚。"
+        },
+        {
+          "en": "The city offers an abundance of activities for tourists, including museums, parks, and night markets.",
+          "zh": "這座城市為觀光客提供大量的活動，包括博物館、公園和夜市。"
+        },
+        {
+          "en": "During the summer, the farmers' market has strawberries in abundance at very low prices every weekend.",
+          "zh": "夏天時，農夫市集有大量便宜的草莓。"
+        }
+      ],
+      "distractors": [
+        "attendance",
+        "avoidance",
+        "abeyance"
+      ],
+      "note": "語塊：an abundance of（大量的）、in abundance（大量地）。abundance 是名詞；abundant 是形容詞「豐富的」；plenty 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lasting",
+      "word": "lasting",
+      "pos": "形容詞",
+      "meaning": "持久的；長期的",
+      "sentences": [
+        {
+          "en": "The speaker made a lasting impression on the audience with her stories about starting a business.",
+          "zh": "講者分享創業故事，給聽眾留下深刻的印象。"
+        },
+        {
+          "en": "Experts warn that the oil spill could have a lasting effect on the fish and birds in the area.",
+          "zh": "專家警告，漏油可能對該地區的魚和鳥造成長期影響。"
+        },
+        {
+          "en": "Our new phone has a long-lasting battery that can be used for two days without charging.",
+          "zh": "我們的新手機有超耐用的電池，不充電可以用兩天。"
+        },
+        {
+          "en": "The training program had a lasting effect on the way managers communicate with their teams.",
+          "zh": "訓練計畫對經理和團隊溝通的方式產生了長期影響。"
+        },
+        {
+          "en": "Good customer service leaves a lasting impression and makes customers want to come back again.",
+          "zh": "好的客服會留下深刻的印象，讓顧客想再回來。"
+        }
+      ],
+      "distractors": [
+        "latest",
+        "tasting",
+        "fasting"
+      ],
+      "note": "語塊：lasting impression（深刻的印象）、lasting effect（長期影響）、long-lasting（耐久的）。lasting 是「能維持很久的」；last 當動詞是「持續」；temporary 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reassure",
+      "word": "reassure",
+      "pos": "動詞",
+      "meaning": "使放心；安撫",
+      "sentences": [
+        {
+          "en": "The CEO tried to reassure employees that no one would lose their job after the merger.",
+          "zh": "執行長試著向員工保證，合併後不會有人失業。"
+        },
+        {
+          "en": "The airline sent emails to reassure customers that their flights would not be affected by the strike.",
+          "zh": "航空公司寄電子郵件讓顧客放心，他們的航班不會受到罷工影響。"
+        },
+        {
+          "en": "The doctor will reassure patients before the surgery by explaining every step of the process.",
+          "zh": "醫生會在手術前解說每一個步驟，讓病人安心。"
+        },
+        {
+          "en": "The bank wanted to reassure customers that their personal information was safe after the system problem.",
+          "zh": "系統出問題後，銀行想讓顧客放心，他們的個人資料很安全。"
+        },
+        {
+          "en": "The manager called the client to reassure her that the order would arrive before the end of the week.",
+          "zh": "經理打電話給客戶，向她保證訂單會在週末前送達。"
+        }
+      ],
+      "distractors": [
+        "reassign",
+        "measure",
+        "treasure"
+      ],
+      "note": "語塊：reassure customers（讓顧客放心）、reassure sb that（向某人保證……）。reassure 是「讓人不再擔心」；assure 是「保證」；reassurance 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lay-off",
+      "word": "lay off",
+      "pos": "片語動詞",
+      "meaning": "裁員；資遣",
+      "sentences": [
+        {
+          "en": "The factory had to lay off two hundred workers after it lost its largest customer last year.",
+          "zh": "失去最大客戶後，工廠去年只好裁員兩百人。"
+        },
+        {
+          "en": "The company promised not to lay off any staff during the restructuring of the sales department.",
+          "zh": "公司承諾在業務部重組期間不會裁員。"
+        },
+        {
+          "en": "Many airlines were forced to lay off pilots and flight attendants when travel decreased sharply.",
+          "zh": "旅遊人數大幅減少時，很多航空公司被迫裁掉飛行員和空服員。"
+        },
+        {
+          "en": "Instead of deciding to lay off workers, the company reduced working hours for everyone by ten percent.",
+          "zh": "公司沒有決定裁員，而是把每個人的工時減少一成。"
+        },
+        {
+          "en": "The store may lay off some part-time employees after the busy holiday season ends in January.",
+          "zh": "一月忙碌的節慶季結束後，那家店可能會資遣一些兼職員工。"
+        }
+      ],
+      "distractors": [
+        "lay out",
+        "lay down",
+        "pay off"
+      ],
+      "note": "語塊：lay off workers（裁員）、lay off staff（裁減員工）、lay off employees（資遣員工）。lay off 是「因為公司原因讓員工離開」；fire 是「因為表現開除」；layoff 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-strategic",
+      "word": "strategic",
+      "pos": "形容詞",
+      "meaning": "策略性的；戰略上的",
+      "sentences": [
+        {
+          "en": "The board approved a strategic plan to expand the company into three new countries over five years.",
+          "zh": "董事會核准了一項策略計畫，在五年內把公司擴展到三個新國家。"
+        },
+        {
+          "en": "The warehouse is in a strategic location near the port and the highway, so goods can be shipped quickly.",
+          "zh": "倉庫位於靠近港口和公路的戰略位置，所以貨物能快速運送。"
+        },
+        {
+          "en": "The two companies became strategic partners in order to develop and sell electric cars together.",
+          "zh": "兩家公司成為策略夥伴，一起開發電動車。"
+        },
+        {
+          "en": "Hiring a marketing expert was a strategic decision that helped the company reach younger customers.",
+          "zh": "聘請行銷專家是一個策略性的決定，幫助公司接觸到更年輕的顧客。"
+        },
+        {
+          "en": "The new strategic plan focuses on online sales and reducing the number of physical stores.",
+          "zh": "新的策略計畫著重於網路銷售和減少實體店數量。"
+        }
+      ],
+      "distractors": [
+        "statistic",
+        "dramatic",
+        "systematic"
+      ],
+      "note": "語塊：strategic plan（策略計畫）、strategic location（戰略位置）、strategic partner（策略夥伴）。strategic 是形容詞；strategy 是名詞「策略」；strategically 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-switch-over",
+      "word": "switch over",
+      "pos": "片語動詞",
+      "meaning": "轉換；改用",
+      "sentences": [
+        {
+          "en": "The office will switch over to a new email system on Monday, so please save your messages before then.",
+          "zh": "辦公室週一將改用新的電子郵件系統，所以請在那之前存好你的郵件。"
+        },
+        {
+          "en": "Many families decided to switch over to solar power after the price of electricity increased.",
+          "zh": "電價上漲後，很多家庭決定改用太陽能。"
+        },
+        {
+          "en": "The factory plans to switch over to electric delivery trucks within the next three years.",
+          "zh": "工廠計畫在未來三年內改用電動送貨卡車。"
+        },
+        {
+          "en": "It took the bank several weeks to switch over from the old computer system to the new one.",
+          "zh": "銀行花了好幾週才從舊電腦系統轉換到新系統。"
+        },
+        {
+          "en": "Customers who want to switch over to our phone service can keep their old phone numbers.",
+          "zh": "想改用我們電話服務的顧客可以保留原本的電話號碼。"
+        }
+      ],
+      "distractors": [
+        "switch off",
+        "switch on",
+        "turn over"
+      ],
+      "note": "語塊：switch over to（改用……）。switch over to 是「從一種換到另一種」；switch to 意思相同；change over 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-sense",
+      "word": "make sense",
+      "pos": "片語動詞",
+      "meaning": "合理；說得通；理解",
+      "sentences": [
+        {
+          "en": "It would make sense to hire more staff before the busy holiday season begins next month.",
+          "zh": "在下個月忙碌的節慶季開始之前增聘人手是合理的。"
+        },
+        {
+          "en": "The instructions did not make sense to many customers, so the company rewrote them in simpler language.",
+          "zh": "說明對很多顧客來說看不懂，所以公司用更簡單的文字重寫。"
+        },
+        {
+          "en": "It took me a while to make sense of the new rules, but now I understand them well.",
+          "zh": "我花了一段時間才搞懂新規定，但現在已經很了解了。"
+        },
+        {
+          "en": "Does it make sense to buy a new printer, or should we repair the old one instead?",
+          "zh": "買新印表機合理嗎？還是應該修舊的就好？"
+        },
+        {
+          "en": "The plan will make sense to the board only if we can show how it will increase profits.",
+          "zh": "只有我們能說明它如何提高獲利，這個計畫對董事會來說才合理。"
+        }
+      ],
+      "distractors": [
+        "make use of",
+        "make fun of",
+        "make up"
+      ],
+      "note": "語塊：make sense to（對……來說合理）、it makes sense to（……是合理的）、make sense of（理解）。make sense 是「有道理」；make sense of 是「搞懂、理解」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-support",
+      "word": "support",
+      "pos": "名詞",
+      "meaning": "支持；支援",
+      "sentences": [
+        {
+          "en": "Please contact our technical support team if you have any problems installing the software on your computer.",
+          "zh": "如果你安裝軟體有任何問題，請聯絡我們的技術支援團隊。"
+        },
+        {
+          "en": "The new manager received strong support from the staff when she suggested more flexible hours.",
+          "zh": "新經理建議更彈性的工時時，獲得員工的強力支持。"
+        },
+        {
+          "en": "Customer support is available twenty-four hours a day by phone, email, and online chat on our website.",
+          "zh": "客戶支援全天二十四小時都可以透過電話、電子郵件和線上聊天聯繫。"
+        },
+        {
+          "en": "Many residents signed a letter in support of the plan to build a new park near the river.",
+          "zh": "很多居民簽了一封信，支持在河邊興建新公園的計畫。"
+        },
+        {
+          "en": "Thanks to the support of local businesses, the festival was able to offer free concerts this year.",
+          "zh": "多虧當地商家的支持，慶典今年能提供免費音樂會。"
+        }
+      ],
+      "distractors": [
+        "report",
+        "sport",
+        "import"
+      ],
+      "note": "語塊：technical support（技術支援）、customer support（客戶支援）、in support of（支持……）。support 可以當名詞或動詞；supporter 是「支持者」；supportive 是「支持的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-certify",
+      "word": "certify",
+      "pos": "動詞",
+      "meaning": "證明；認證",
+      "sentences": [
+        {
+          "en": "The inspector will certify that the building is safe before people are allowed to move in.",
+          "zh": "在人們被允許搬進去之前，檢查員會證明那棟建築是安全的。"
+        },
+        {
+          "en": "The doctor will certify that the employee was too ill to work during the last week of March.",
+          "zh": "醫生會證明那位員工三月最後一週病得太重無法上班。"
+        },
+        {
+          "en": "An independent company will certify that our coffee is grown on farms without any harmful chemicals.",
+          "zh": "一家獨立公司會證明我們的咖啡是在沒有有害化學物質的情況下種植的。"
+        },
+        {
+          "en": "Only trained technicians can certify that the elevators meet the government's safety standards for public buildings.",
+          "zh": "只有受過訓練的技師可以證明電梯符合政府的安全標準。"
+        },
+        {
+          "en": "The accountant must certify that the financial report is accurate before it is shared with investors.",
+          "zh": "財報分享給投資人之前，會計師必須證明它是準確的。"
+        }
+      ],
+      "distractors": [
+        "clarify",
+        "verify",
+        "signify"
+      ],
+      "note": "語塊：certify that（證明……）、be certified as（被認證為）。certify 是「正式證明」；certificate 是「證書」；certified 是形容詞「經認證的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regardless",
+      "word": "regardless",
+      "pos": "副詞",
+      "meaning": "不管；無論如何",
+      "sentences": [
+        {
+          "en": "All employees will receive the same bonus regardless of how long they have worked at the company.",
+          "zh": "不管在公司工作了多久，所有員工都會得到相同的獎金。"
+        },
+        {
+          "en": "The concert will take place regardless of the weather, so please bring an umbrella just in case.",
+          "zh": "不管天氣如何，演唱會都會舉行，所以請帶把傘以防萬一。"
+        },
+        {
+          "en": "Regardless of the price, customers are willing to buy products that are made with high quality.",
+          "zh": "不管價格如何，顧客都願意購買高品質的產品。"
+        },
+        {
+          "en": "The shop offers free delivery to every customer regardless of the size of the order.",
+          "zh": "不管訂單大小，那家店都為每位顧客提供免費配送。"
+        },
+        {
+          "en": "We will finish the project on time regardless of the problems we have had with our suppliers.",
+          "zh": "不管我們和供應商遇到什麼問題，我們都會準時完成專案。"
+        }
+      ],
+      "distractors": [
+        "regarding",
+        "careless",
+        "relentless"
+      ],
+      "note": "語塊：regardless of（不管……）。regardless of + 名詞，表示「不論」；irregardless 是錯誤用法。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
