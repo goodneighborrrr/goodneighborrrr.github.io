@@ -45938,6 +45938,706 @@
       ],
       "note": "語塊：receive funding（獲得資金）、government funding（政府經費）、lack of funding（資金不足）。funding 是「為計畫提供的資金」；fund 可以當名詞「基金」或動詞「資助」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incorporation",
+      "word": "incorporation",
+      "pos": "名詞",
+      "meaning": "納入；合併；公司成立",
+      "sentences": [
+        {
+          "en": "The incorporation of customer feedback into the new design helped make the product more popular.",
+          "zh": "把顧客意見納入新設計，幫助讓產品更受歡迎。"
+        },
+        {
+          "en": "The lawyer helped the two founders with the incorporation of their new company last spring.",
+          "zh": "律師去年春天協助兩位創辦人成立新公司。"
+        },
+        {
+          "en": "The incorporation of solar panels into the building's design will reduce its electricity costs every month.",
+          "zh": "把太陽能板納入大樓設計，將降低它的電費。"
+        },
+        {
+          "en": "Please keep a copy of the certificate of incorporation in a safe place, as you may need it for the bank.",
+          "zh": "請把公司設立證明的副本放在安全的地方，因為銀行可能會需要。"
+        },
+        {
+          "en": "The incorporation of new technology into the factory has made production much faster and safer.",
+          "zh": "把新科技導入工廠，讓生產變得更快更安全。"
+        }
+      ],
+      "distractors": [
+        "cooperation",
+        "corporation",
+        "interpretation"
+      ],
+      "note": "語塊：incorporation of（……的納入）、certificate of incorporation（公司設立證明）。incorporation 是「把……納入」或「成立公司」；incorporate 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assumption",
+      "word": "assumption",
+      "pos": "名詞",
+      "meaning": "假設；設想",
+      "sentences": [
+        {
+          "en": "The budget is based on the assumption that sales will increase by ten percent next year.",
+          "zh": "預算是基於明年銷售會增加一成的假設。"
+        },
+        {
+          "en": "Please do not make an assumption about what customers want without asking them first in a survey.",
+          "zh": "不要沒先問顧客就假設他們想要什麼。"
+        },
+        {
+          "en": "The plan was built on the assumption that the new factory would open in March, but it was delayed.",
+          "zh": "計畫是建立在新工廠三月開工的假設上，但工廠延後了。"
+        },
+        {
+          "en": "It is a common assumption that young people do not read books, but the survey shows otherwise.",
+          "zh": "一般常假設年輕人不讀書，但調查顯示並非如此。"
+        },
+        {
+          "en": "The manager made an assumption that everyone had read the report, but several people had not.",
+          "zh": "經理假設每個人都看過報告了，但好幾個人其實沒看。"
+        }
+      ],
+      "distractors": [
+        "consumption",
+        "resumption",
+        "presumption"
+      ],
+      "note": "語塊：make an assumption（做假設）、based on the assumption that（基於……的假設）、on the assumption that（在……的假設上）、a common assumption（常見的假設）。assumption 是名詞；assume 是動詞「假設；承擔」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-undergo",
+      "word": "undergo",
+      "pos": "動詞",
+      "meaning": "經歷；接受（治療、檢查）",
+      "sentences": [
+        {
+          "en": "Mr. Kim will undergo surgery on his knee next week and will return to work in one month.",
+          "zh": "金先生下週要接受膝蓋手術，一個月後回來上班。"
+        },
+        {
+          "en": "The company will undergo several changes after the merger, including a new name and logo.",
+          "zh": "合併之後，公司將經歷幾項改變，包括新名稱和新商標。"
+        },
+        {
+          "en": "All new pilots must undergo training for at least six months before they can fly passengers.",
+          "zh": "所有新飛行員都必須接受至少六個月的訓練才能載客。"
+        },
+        {
+          "en": "The old bridge will undergo repairs next summer, so drivers should use the highway instead.",
+          "zh": "舊橋明年夏天將進行修繕，所以駕駛應改走公路。"
+        },
+        {
+          "en": "Every product must undergo careful testing before it is sold in stores across the country.",
+          "zh": "每項產品在全國門市販售之前都必須經過仔細測試。"
+        }
+      ],
+      "distractors": [
+        "undertake",
+        "understand",
+        "underscore"
+      ],
+      "note": "語塊：undergo surgery（接受手術）、undergo changes（經歷改變）、undergo training（接受訓練）。undergo 比 go through、experience 正式；過去式 underwent、過去分詞 undergone。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reputation",
+      "word": "reputation",
+      "pos": "名詞",
+      "meaning": "名聲；聲譽",
+      "sentences": [
+        {
+          "en": "The hotel has a good reputation for its friendly staff and excellent breakfast every morning.",
+          "zh": "那家飯店以親切的員工和極佳的早餐享有好名聲。"
+        },
+        {
+          "en": "It took the company many years to build a reputation as a reliable supplier of quality products.",
+          "zh": "公司花了很多年才建立起可靠的優質產品供應商的名聲。"
+        },
+        {
+          "en": "The restaurant's reputation grew quickly after a famous food critic wrote about it in a magazine.",
+          "zh": "一位知名美食評論家在雜誌上寫了那家餐廳之後，它的名聲迅速擴大。"
+        },
+        {
+          "en": "The scandal damaged the bank's reputation, and many customers decided to move their money elsewhere.",
+          "zh": "那件醜聞損害了銀行的聲譽，很多顧客決定把錢轉到別處。"
+        },
+        {
+          "en": "Our firm has a reputation for finishing every project on time and within the agreed budget.",
+          "zh": "我們公司以每個專案都準時且在預算內完成而出名。"
+        }
+      ],
+      "distractors": [
+        "repetition",
+        "representation",
+        "reception"
+      ],
+      "note": "語塊：good reputation（好名聲）、build a reputation（建立名聲）、reputation for（以……出名）。reputation 是「別人對你的評價」；fame 是「名氣」；repetition 是「重複」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-excellent",
+      "word": "excellent",
+      "pos": "形容詞",
+      "meaning": "優秀的；極好的",
+      "sentences": [
+        {
+          "en": "The restaurant is famous for its excellent service and fresh seafood from the local market.",
+          "zh": "那家餐廳以極佳的服務和當地市場的新鮮海鮮聞名。"
+        },
+        {
+          "en": "The used car is in excellent condition and has been driven fewer than ten thousand kilometers.",
+          "zh": "那輛二手車狀況極佳，開了不到一萬公里。"
+        },
+        {
+          "en": "Ms. Park has excellent communication skills, which makes her perfect for the customer service position.",
+          "zh": "朴小姐溝通能力很好，非常適合客服這個職位。"
+        },
+        {
+          "en": "The hotel received excellent reviews from guests who praised the clean rooms and the quiet location.",
+          "zh": "飯店獲得房客極佳的評價，他們稱讚房間乾淨、地點安靜。"
+        },
+        {
+          "en": "The team did excellent work on the project, so the manager took everyone out to dinner.",
+          "zh": "團隊在專案上表現優秀，所以經理請大家吃晚餐。"
+        }
+      ],
+      "distractors": [
+        "excessive",
+        "existent",
+        "exceptional"
+      ],
+      "note": "語塊：excellent service（極佳的服務）、excellent condition（狀況極佳）、in excellent（極好的……）。excellent 是「非常好」；excel 是動詞「擅長」；excellence 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-introductory",
+      "word": "introductory",
+      "pos": "形容詞",
+      "meaning": "入門的；介紹性的；促銷的",
+      "sentences": [
+        {
+          "en": "The university offers an introductory course in programming for students who have no experience with computers.",
+          "zh": "那所大學為沒有經驗的學生開設程式設計入門課程。"
+        },
+        {
+          "en": "The new magazine is available at an introductory price of only two dollars for the first issue.",
+          "zh": "新雜誌第一期以只要兩美元的上市優惠價販售。"
+        },
+        {
+          "en": "Customers who sign up this month can take advantage of an introductory offer of fifty percent off.",
+          "zh": "這個月註冊的顧客可以享有五折的新品優惠。"
+        },
+        {
+          "en": "The introductory chapter of the book explains the main ideas that will be discussed in later chapters.",
+          "zh": "書的介紹章節說明了後面章節將討論的主要概念。"
+        },
+        {
+          "en": "New employees attend an introductory session on their first day to learn about the company's history.",
+          "zh": "新員工第一天參加一場介紹課程，了解公司的歷史。"
+        }
+      ],
+      "distractors": [
+        "introduction",
+        "intermediate",
+        "inflammatory"
+      ],
+      "note": "語塊：introductory course（入門課程）、introductory offer（新品優惠）、introductory price（上市優惠價）。introductory 是「入門、介紹用的」，也可以指新品上市的「試用優惠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accordingly",
+      "word": "accordingly",
+      "pos": "副詞",
+      "meaning": "相應地；因此",
+      "sentences": [
+        {
+          "en": "The weather forecast says it will rain tomorrow, so please dress accordingly for the outdoor event.",
+          "zh": "天氣預報說明天會下雨，所以請為戶外活動穿合適的衣服。"
+        },
+        {
+          "en": "The price of materials has risen, and we will adjust accordingly by changing our prices next month.",
+          "zh": "材料價格上漲了，我們會相應調整，下個月改變價格。"
+        },
+        {
+          "en": "The schedule has changed, so please plan accordingly and arrive at the airport two hours early.",
+          "zh": "時程表變了，所以請據此規劃，提前兩小時到機場。"
+        },
+        {
+          "en": "Employees who work overtime will be paid accordingly for the extra hours at the end of each month.",
+          "zh": "加班的員工會在每月底獲得相應的薪資。"
+        },
+        {
+          "en": "The meeting room is small, so please plan accordingly and bring only the documents you need.",
+          "zh": "會議室很小，所以請據此安排，只帶需要的文件。"
+        }
+      ],
+      "distractors": [
+        "according",
+        "accordion",
+        "cordially"
+      ],
+      "note": "語塊：act accordingly（相應地行動）、plan accordingly（據此規劃）、adjust accordingly（相應調整）、paid accordingly（獲得相應薪資）、dress accordingly（穿著合宜）。accordingly 是「根據情況做出相應的事」或「因此」；according to 是「根據」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conversion",
+      "word": "conversion",
+      "pos": "名詞",
+      "meaning": "轉換；改建",
+      "sentences": [
+        {
+          "en": "The conversion of the old factory into apartments will be finished by the end of next year.",
+          "zh": "舊工廠改建成公寓的工程將在明年底前完成。"
+        },
+        {
+          "en": "The bank charges a small fee for currency conversion when you use your card in other countries.",
+          "zh": "在其他國家用卡時，銀行會收一小筆貨幣兌換手續費。"
+        },
+        {
+          "en": "The website's conversion rate increased after the company made it easier for customers to pay.",
+          "zh": "公司讓顧客更容易付款後，網站的轉換率提高了。"
+        },
+        {
+          "en": "The conversion of the warehouse into a museum has brought many new visitors to the area.",
+          "zh": "倉庫改建成博物館後，為這一帶帶來了很多新遊客。"
+        },
+        {
+          "en": "The conversion of all files to the new system will take about three days to complete.",
+          "zh": "把所有檔案轉換到新系統大約需要三天才能完成。"
+        }
+      ],
+      "distractors": [
+        "conversation",
+        "conservation",
+        "confusion"
+      ],
+      "note": "語塊：conversion of（……的改建）、currency conversion（貨幣兌換）、conversion rate（轉換率）。conversion 是名詞；convert 是動詞「轉換；改建」；conversation 是「對話」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accumulation",
+      "word": "accumulation",
+      "pos": "名詞",
+      "meaning": "累積；堆積",
+      "sentences": [
+        {
+          "en": "The accumulation of snow on the roof caused damage to the old building last winter.",
+          "zh": "屋頂積雪造成那棟老建築去年冬天受損。"
+        },
+        {
+          "en": "The report studies the accumulation of wealth among families in different parts of the country.",
+          "zh": "報告研究國內不同地區家庭的財富累積。"
+        },
+        {
+          "en": "The accumulation of small mistakes over many months led to a large problem with the accounts.",
+          "zh": "好幾個月累積下來的小錯誤，導致帳目出現大問題。"
+        },
+        {
+          "en": "Regular cleaning prevents the accumulation of dust inside the machines, which can cause them to break.",
+          "zh": "定期清潔能防止機器內累積灰塵，那可能會讓機器故障。"
+        },
+        {
+          "en": "The accumulation of plastic waste in the ocean is a serious problem for fish and birds.",
+          "zh": "海洋中塑膠垃圾的累積對魚和鳥來說是嚴重的問題。"
+        }
+      ],
+      "distractors": [
+        "accommodation",
+        "acclimation",
+        "accusation"
+      ],
+      "note": "語塊：accumulation of（……的累積）、the accumulation of wealth（財富的累積）。accumulation 是名詞；accumulate 是動詞「累積」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decisive",
+      "word": "decisive",
+      "pos": "形容詞",
+      "meaning": "果斷的；決定性的",
+      "sentences": [
+        {
+          "en": "The government took decisive action to protect jobs during the long economic downturn last year.",
+          "zh": "政府在經濟衰退期間採取果斷行動保護就業。"
+        },
+        {
+          "en": "Price was the decisive factor when the company chose a supplier for its new product.",
+          "zh": "公司為新產品選擇供應商時，價格是決定性因素。"
+        },
+        {
+          "en": "Employees respect the CEO because she is a decisive leader who explains her decisions clearly.",
+          "zh": "員工很尊敬執行長，因為她是一位果斷又能清楚說明決定的領導者。"
+        },
+        {
+          "en": "The location of the hotel was the decisive factor in our decision to hold the conference there.",
+          "zh": "飯店的地點是我們決定在那裡辦研討會的決定性因素。"
+        },
+        {
+          "en": "Quick and decisive action by the staff prevented the fire from spreading to other parts of the building.",
+          "zh": "員工迅速果斷的行動，防止火勢蔓延到大樓其他地方。"
+        }
+      ],
+      "distractors": [
+        "decision",
+        "divisive",
+        "derisive"
+      ],
+      "note": "語塊：decisive action（果斷的行動）、decisive factor（決定性因素）、decisive leader（果斷的領導者）。decisive 是「能很快做決定的」或「決定性的」；decision 是名詞；indecisive 是「優柔寡斷的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resourceful",
+      "word": "resourceful",
+      "pos": "形容詞",
+      "meaning": "足智多謀的；機靈的",
+      "sentences": [
+        {
+          "en": "Ms. Lee is a resourceful employee who always finds a way to solve problems without spending much money.",
+          "zh": "李小姐是一位機靈的員工，總能找到不花大錢就解決問題的方法。"
+        },
+        {
+          "en": "The team was resourceful in finding cheaper materials when the price of steel increased suddenly.",
+          "zh": "鋼材價格突然上漲時，團隊很有辦法找到更便宜的材料。"
+        },
+        {
+          "en": "Small business owners must be resourceful because they often have limited budgets and few staff.",
+          "zh": "小企業老闆必須很有辦法，因為他們的預算常常有限、員工又少。"
+        },
+        {
+          "en": "The resourceful manager used old furniture from the warehouse to set up the new office quickly.",
+          "zh": "那位機靈的經理用倉庫裡的舊家具，很快就布置好新辦公室。"
+        },
+        {
+          "en": "We are looking for a resourceful assistant who can handle unexpected problems calmly and quickly.",
+          "zh": "我們在找一位能冷靜快速處理突發問題、機靈的助理。"
+        }
+      ],
+      "distractors": [
+        "resource",
+        "respectful",
+        "remorseful"
+      ],
+      "note": "語塊：a resourceful employee（機靈的員工）、resourceful in（在……方面很有辦法）。resourceful 是「遇到問題很有辦法解決的」；resource 是名詞「資源」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-redevelopment",
+      "word": "redevelopment",
+      "pos": "名詞",
+      "meaning": "重建；再開發",
+      "sentences": [
+        {
+          "en": "The redevelopment of the old harbor area will include new apartments, shops, and a large park.",
+          "zh": "舊港區的重建將包括新公寓、商店和一座大公園。"
+        },
+        {
+          "en": "The city council approved a redevelopment project that will turn the old factory into offices.",
+          "zh": "市議會核准了一項把舊工廠改建成辦公室的重建計畫。"
+        },
+        {
+          "en": "Urban redevelopment has made the downtown area more popular with young families and tourists from abroad.",
+          "zh": "都市再開發讓市中心更受年輕家庭和觀光客歡迎。"
+        },
+        {
+          "en": "Some residents are worried that the redevelopment of their neighborhood will make rents too expensive.",
+          "zh": "有些居民擔心社區的重建會讓房租變得太貴。"
+        },
+        {
+          "en": "The redevelopment project is expected to create hundreds of jobs over the next five years.",
+          "zh": "重建計畫預計在未來五年創造數百個工作機會。"
+        }
+      ],
+      "distractors": [
+        "development",
+        "renovation",
+        "reinforcement"
+      ],
+      "note": "語塊：urban redevelopment（都市再開發）、redevelopment project（重建計畫）、redevelopment of（……的重建）。redevelopment 是「把舊區域重新規劃建設」；development 是「開發；發展」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-receptive",
+      "word": "receptive",
+      "pos": "形容詞",
+      "meaning": "樂於接受的；接受度高的",
+      "sentences": [
+        {
+          "en": "The new manager is receptive to ideas from employees and often asks for their opinions.",
+          "zh": "新經理樂於接受員工的想法，常常徵詢他們的意見。"
+        },
+        {
+          "en": "Young customers are usually more receptive to new technology and online shopping than older customers.",
+          "zh": "年輕顧客通常比年長顧客更容易接受新科技。"
+        },
+        {
+          "en": "The speaker found a receptive audience among the students, who asked many interesting questions after the talk.",
+          "zh": "講者在學生中找到接受度很高的聽眾，他們問了很多有趣的問題。"
+        },
+        {
+          "en": "The board was receptive to the proposal and agreed to discuss it further at the next meeting.",
+          "zh": "董事會樂於接受那份提案，同意在下次會議進一步討論。"
+        },
+        {
+          "en": "Customers have been very receptive to the new menu, so the restaurant plans to keep it all year.",
+          "zh": "顧客對新菜單接受度很高，所以餐廳打算整年保留。"
+        }
+      ],
+      "distractors": [
+        "reception",
+        "deceptive",
+        "perceptive"
+      ],
+      "note": "語塊：receptive to（樂於接受……）、receptive audience（接受度高的觀眾）。receptive 是「願意聽取新想法的」；open to 意思接近；reception 是「接待；歡迎會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-emission",
+      "word": "emission",
+      "pos": "名詞",
+      "meaning": "排放；排放物",
+      "sentences": [
+        {
+          "en": "The company plans to reduce carbon emission from its factories by using solar power and wind energy.",
+          "zh": "公司計畫使用太陽能，減少工廠的碳排放。"
+        },
+        {
+          "en": "All new cars must meet strict emission standards before they can be sold in the country.",
+          "zh": "所有新車都必須符合嚴格的排放標準才能在國內販售。"
+        },
+        {
+          "en": "The government introduced new laws to limit the emission of harmful gases from power plants.",
+          "zh": "政府推出新法律，限制發電廠排放有害氣體。"
+        },
+        {
+          "en": "Electric buses produce no emission, so they help improve the air quality in the city center.",
+          "zh": "電動公車沒有排放，所以有助於改善市中心的空氣品質。"
+        },
+        {
+          "en": "The report shows that carbon emission from cars has increased because more people drive to work.",
+          "zh": "報告顯示汽車的碳排放增加了，因為更多人開車上班。"
+        }
+      ],
+      "distractors": [
+        "omission",
+        "mission",
+        "admission"
+      ],
+      "note": "語塊：carbon emission（碳排放）、reduce emissions（減少排放）、emission standards（排放標準）。emission 是「排放出來的氣體或物質」，常用複數 emissions；emit 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-responsible-for",
+      "word": "responsible for",
+      "pos": "其他",
+      "meaning": "負責；是……的原因",
+      "sentences": [
+        {
+          "en": "Ms. Park is responsible for training new employees and answering their questions during their first month.",
+          "zh": "朴小姐負責訓練新員工，並在他們第一個月回答問題。"
+        },
+        {
+          "en": "The bad weather was responsible for the delay of more than fifty flights at the airport yesterday.",
+          "zh": "壞天氣是昨天機場五十多個航班延誤的原因。"
+        },
+        {
+          "en": "Each department manager is responsible for preparing a budget for the next year by the end of October.",
+          "zh": "每位部門經理都負責在十月底前準備下一年的預算。"
+        },
+        {
+          "en": "The building manager is responsible for making sure that the fire exits are always clear.",
+          "zh": "大樓管理員負責確保逃生出口隨時保持暢通。"
+        },
+        {
+          "en": "The company is not responsible for any items that are lost or stolen in the parking lot.",
+          "zh": "公司對停車場內遺失或被竊的任何物品概不負責。"
+        }
+      ],
+      "distractors": [
+        "response to",
+        "respectful of",
+        "reasonable for"
+      ],
+      "note": "語塊：be responsible for（負責……）、responsible for the delay（造成延誤的原因）。be responsible for 後面接名詞或 V-ing；in charge of 意思接近；responsibility 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-analysis",
+      "word": "analysis",
+      "pos": "名詞",
+      "meaning": "分析",
+      "sentences": [
+        {
+          "en": "The marketing team will carry out an analysis of customer data to find out which products sell best.",
+          "zh": "行銷團隊將進行顧客資料分析，找出哪些產品賣得最好。"
+        },
+        {
+          "en": "The report includes a detailed analysis of the costs and benefits of moving the factory.",
+          "zh": "報告包含搬遷工廠成本和效益的詳細分析。"
+        },
+        {
+          "en": "Ms. Lin has strong skills in data analysis, which makes her an excellent candidate for the job.",
+          "zh": "林小姐的資料分析能力很強，讓她成為這份工作的優秀人選。"
+        },
+        {
+          "en": "According to the analysis, the new store could make a profit within its first two years.",
+          "zh": "根據分析，新店在頭兩年內就可能獲利。"
+        },
+        {
+          "en": "The company hired a consultant to carry out an analysis of its spending on travel and advertising.",
+          "zh": "公司聘請顧問分析它在差旅和廣告上的支出。"
+        }
+      ],
+      "distractors": [
+        "analyst",
+        "paralysis",
+        "synthesis"
+      ],
+      "note": "語塊：data analysis（資料分析）、carry out an analysis（進行分析）、detailed analysis（詳細的分析）。analysis 複數是 analyses；analyze 是動詞；analyst 是「分析師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-goods",
+      "word": "goods",
+      "pos": "名詞",
+      "meaning": "商品；貨物",
+      "sentences": [
+        {
+          "en": "The company ships goods from its warehouse to stores across the country early every morning.",
+          "zh": "公司每天早上從倉庫把貨物運到全國各地的門市。"
+        },
+        {
+          "en": "Prices for consumer goods such as food and clothing have risen sharply in many countries this year.",
+          "zh": "今年食物和服飾等消費品的價格大幅上漲。"
+        },
+        {
+          "en": "The new port will make it easier to export goods to countries in Asia and Europe.",
+          "zh": "新港口會讓出口貨物到亞洲和歐洲國家更容易。"
+        },
+        {
+          "en": "The tax applies to all goods and services sold in the country, including online purchases.",
+          "zh": "這項稅適用於國內銷售的所有商品和服務，包括網路購物。"
+        },
+        {
+          "en": "The truck was delayed at the border, so the goods did not arrive at the store until Friday.",
+          "zh": "卡車在邊境被耽擱，所以貨物直到週五才送到店裡。"
+        }
+      ],
+      "distractors": [
+        "woods",
+        "hoods",
+        "foods"
+      ],
+      "note": "語塊：consumer goods（消費品）、deliver goods（運送貨物）、goods and services（商品和服務）、ship goods（運送貨物）、export goods（出口貨物）。goods 一定是複數，指「商品、貨物」；good 單數是「好的；利益」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-seasonal",
+      "word": "seasonal",
+      "pos": "形容詞",
+      "meaning": "季節性的",
+      "sentences": [
+        {
+          "en": "The farm hires seasonal workers every autumn to help harvest the apples and pears in the valley.",
+          "zh": "農場每年秋天都會僱用季節性工人幫忙採收蘋果和梨子。"
+        },
+        {
+          "en": "The restaurant offers a seasonal menu that changes four times a year to use fresh local ingredients.",
+          "zh": "那家餐廳提供一年換四次的季節菜單，使用新鮮的在地食材。"
+        },
+        {
+          "en": "Hotels on the island depend on seasonal demand, so many of them close during the winter months.",
+          "zh": "島上的飯店依賴季節性的需求，所以很多在冬季月份歇業。"
+        },
+        {
+          "en": "The store hires seasonal staff in December because it is the busiest time of the year.",
+          "zh": "那家店在十二月僱用季節性員工，因為那是一年中最忙的時候。"
+        },
+        {
+          "en": "Sales of ice cream are highly seasonal, with most of the profit made during the summer.",
+          "zh": "冰淇淋的銷售季節性很強，大部分利潤都在夏天賺到。"
+        }
+      ],
+      "distractors": [
+        "reasonable",
+        "seasoned",
+        "sensational"
+      ],
+      "note": "語塊：seasonal workers（季節性員工）、seasonal menu（季節菜單）、seasonal demand（季節性需求）。seasonal 是「依季節而變的」；season 是名詞「季節」；seasoned 是「經驗豐富的；調味過的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contrary",
+      "word": "contrary",
+      "pos": "名詞",
+      "meaning": "相反",
+      "sentences": [
+        {
+          "en": "Contrary to what many people believe, the new software is very easy to learn and use.",
+          "zh": "和很多人以為的相反，新軟體非常容易學習和使用。"
+        },
+        {
+          "en": "The report did not show a drop in sales; on the contrary, sales increased by ten percent last year.",
+          "zh": "報告並沒有顯示銷售下滑；相反地，去年銷售增加了一成。"
+        },
+        {
+          "en": "Contrary to expectations, the small café made more money than the large restaurant next door.",
+          "zh": "和預期相反，那家小咖啡館賺得比隔壁的大餐廳還多。"
+        },
+        {
+          "en": "The manager was not angry about the mistake; on the contrary, she thanked the team for reporting it.",
+          "zh": "經理沒有對錯誤生氣；相反地，她感謝團隊回報問題。"
+        },
+        {
+          "en": "Contrary to the weather forecast, the sun came out in the afternoon, and the outdoor concert went ahead.",
+          "zh": "和天氣預報相反，下午出太陽了，戶外音樂會照常舉行。"
+        }
+      ],
+      "distractors": [
+        "contrast",
+        "country",
+        "contrarily"
+      ],
+      "note": "語塊：on the contrary（相反地）、contrary to（與……相反）。contrary to 是「和……相反」；on the contrary 用來否定前面的說法；opposite 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-moviegoer",
+      "word": "moviegoer",
+      "pos": "名詞",
+      "meaning": "看電影的人；影迷",
+      "sentences": [
+        {
+          "en": "The new theater offers comfortable seats and free snacks to attract every moviegoer in the neighborhood.",
+          "zh": "新電影院提供舒適的座位和免費點心，吸引附近的每一位影迷。"
+        },
+        {
+          "en": "Every moviegoer who buys a ticket this weekend will receive a free poster of the new film.",
+          "zh": "這個週末每位買票的觀眾都會得到一張新電影的免費海報。"
+        },
+        {
+          "en": "The film was popular with critics, but the average moviegoer found the story too long and slow.",
+          "zh": "那部電影很受評論家喜愛，但一般觀眾覺得故事太長又太慢。"
+        },
+        {
+          "en": "The theater changed its prices after a survey showed that the typical moviegoer wanted cheaper tickets.",
+          "zh": "調查顯示一般觀眾希望票價便宜一點後，電影院調整了價格。"
+        },
+        {
+          "en": "Many a moviegoer now prefers to watch films at home, so theaters are offering special events to attract them.",
+          "zh": "現在很多影迷比較喜歡在家看電影，所以電影院推出特別活動吸引他們。"
+        }
+      ],
+      "distractors": [
+        "moviemaker",
+        "theatergoer",
+        "goer"
+      ],
+      "note": "語塊：moviegoers（觀影民眾）。moviegoer 是「去電影院看電影的人」；audience 是「觀眾」；filmgoer 是英式說法。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
