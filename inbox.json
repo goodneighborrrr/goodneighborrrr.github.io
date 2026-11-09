@@ -19058,6 +19058,706 @@
       ],
       "note": "語塊：throughout the country（全國各地）、stores throughout the country（全國各地的門市）。throughout 是「遍及」；across the country、nationwide 意思相同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-the-number-of",
+      "word": "the number of",
+      "pos": "其他",
+      "meaning": "……的數量",
+      "sentences": [
+        {
+          "en": "The number of people who work from home has increased significantly over the past three years.",
+          "zh": "在家工作的人數在過去三年大幅增加。"
+        },
+        {
+          "en": "The museum hopes to increase the number of visitors by offering free admission on Sunday mornings.",
+          "zh": "博物館希望藉由週日早上免費入場來增加參觀人數。"
+        },
+        {
+          "en": "The hotel limits the number of guests who can use the swimming pool at the same time.",
+          "zh": "飯店限制同時使用游泳池的客人人數。"
+        },
+        {
+          "en": "The number of complaints about late deliveries dropped sharply after we hired a new shipping company.",
+          "zh": "我們換了新的貨運公司後，延遲送達的投訴數量大幅下降。"
+        },
+        {
+          "en": "The company plans to increase the number of employees in its research department by twenty percent.",
+          "zh": "公司計畫把研究部門的員工人數增加兩成。"
+        }
+      ],
+      "distractors": [
+        "a number of",
+        "the amount of",
+        "a variety of"
+      ],
+      "note": "語塊：the number of + 複數名詞（……的數量）、increase the number of（增加……的數量）。the number of 當主詞時動詞用單數（The number of visitors is…）；a number of 是「一些」，動詞用複數。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-version",
+      "word": "version",
+      "pos": "名詞",
+      "meaning": "版本",
+      "sentences": [
+        {
+          "en": "Please download the latest version of the software before attending the training session on Monday.",
+          "zh": "週一參加訓練課程前，請先下載最新版本的軟體。"
+        },
+        {
+          "en": "The publisher will release an updated version of the guidebook that includes new restaurants and hotels.",
+          "zh": "出版社會推出更新版的旅遊指南，收錄新的餐廳和飯店。"
+        },
+        {
+          "en": "Ms. Ochoa sent the final version of the contract to the client for signature yesterday afternoon.",
+          "zh": "Ochoa 小姐昨天下午把合約定稿寄給客戶簽名。"
+        },
+        {
+          "en": "The new version of the app allows users to pay their bills and check their balance in one place.",
+          "zh": "新版的 App 讓使用者可以在同一個地方繳帳單和查餘額。"
+        },
+        {
+          "en": "Customers who purchased the old model can upgrade to the latest version at a discounted price.",
+          "zh": "購買舊型號的顧客可以用優惠價升級到最新版本。"
+        }
+      ],
+      "distractors": [
+        "vision",
+        "revision",
+        "diversion"
+      ],
+      "note": "語塊：the latest version（最新版本）、an updated version（更新版）、the final version（定稿）。version 是「版本」；vision（視野；願景）和 virgin 長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-public-relations-department",
+      "word": "public relations department",
+      "pos": "名詞",
+      "meaning": "公關部",
+      "sentences": [
+        {
+          "en": "Reporters who have questions about the merger should contact the public relations department directly by email or phone.",
+          "zh": "對合併有疑問的記者應直接聯絡公關部。"
+        },
+        {
+          "en": "The public relations department will prepare a press release about the opening of the new factory.",
+          "zh": "公關部會準備一份關於新工廠開幕的新聞稿。"
+        },
+        {
+          "en": "Ms. Grant joined the public relations department after working as a journalist for several years.",
+          "zh": "Grant 小姐當了好幾年記者後加入了公關部。"
+        },
+        {
+          "en": "All interviews with the media must be approved by the public relations department in advance.",
+          "zh": "所有媒體採訪都必須事先經過公關部核准。"
+        },
+        {
+          "en": "The public relations department organized a charity event to improve the company's image in the community.",
+          "zh": "公關部籌辦了一場慈善活動，提升公司在社區的形象。"
+        }
+      ],
+      "distractors": [
+        "human resources department",
+        "accounting department",
+        "legal department"
+      ],
+      "note": "語塊：contact the public relations department（聯絡公關部）、the public relations department will（公關部將會……）、approved by the public relations department（經公關部核准）。public relations 常縮寫為 PR，負責公司對外的形象和媒體關係；human resources（人資）負責內部員工。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quality-goods",
+      "word": "quality goods",
+      "pos": "名詞",
+      "meaning": "優質商品",
+      "sentences": [
+        {
+          "en": "The store has a reputation for selling quality goods at prices that most families can afford.",
+          "zh": "那家店以販售大多數家庭負擔得起的優質商品出名。"
+        },
+        {
+          "en": "Customers are willing to pay more for quality goods that will last for many years.",
+          "zh": "顧客願意為能用很多年的優質商品付更多錢。"
+        },
+        {
+          "en": "Our online market connects local farmers and artists who produce quality goods with buyers around the world.",
+          "zh": "我們的網路市集把生產優質商品的在地農民和藝術家與世界各地的買家連結起來。"
+        },
+        {
+          "en": "The company's success is based on offering quality goods at low prices and providing excellent service.",
+          "zh": "公司的成功建立在以低價提供優質商品和優秀的服務上。"
+        },
+        {
+          "en": "The department store sells quality goods from famous brands as well as products made by local designers.",
+          "zh": "那家百貨公司販售知名品牌的優質商品，也賣在地設計師做的產品。"
+        }
+      ],
+      "distractors": [
+        "consumer goods",
+        "goods and services",
+        "quality control"
+      ],
+      "note": "語塊：sell quality goods（販售優質商品）、quality goods at low prices（價格實惠的優質商品）。quality 放在名詞前可以當形容詞「優質的」（quality service 優質服務）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-individualism",
+      "word": "individualism",
+      "pos": "名詞",
+      "meaning": "個人主義",
+      "sentences": [
+        {
+          "en": "The professor's lecture compared individualism in Western cultures with the importance of group values in Asian cultures.",
+          "zh": "教授的講座比較了西方文化中的個人主義和亞洲文化中的團體價值觀。"
+        },
+        {
+          "en": "Some companies value individualism and encourage employees to develop and share their own creative ideas.",
+          "zh": "有些公司重視個人主義，鼓勵員工發展自己的創意。"
+        },
+        {
+          "en": "The book explains how individualism has influenced the way people shop and spend their money.",
+          "zh": "那本書說明個人主義如何影響人們購物和花錢的方式。"
+        },
+        {
+          "en": "Advertisers often use the idea of individualism to sell products that help people express their personality.",
+          "zh": "廣告商常利用個人主義的概念，銷售能幫人表現個性的產品。"
+        },
+        {
+          "en": "Critics argue that too much individualism can make teamwork and communication in the office more difficult.",
+          "zh": "批評者認為，太強的個人主義會讓辦公室的團隊合作更困難。"
+        }
+      ],
+      "distractors": [
+        "individuality",
+        "idealism",
+        "industrialism"
+      ],
+      "note": "語塊：value individualism（重視個人主義）、individualism in（……中的個人主義）、too much individualism（過強的個人主義）。individualism 是「重視個人自由與獨立的想法」；collectivism（集體主義）是相反的概念；individuality 是「個性、特色」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-capitalism",
+      "word": "capitalism",
+      "pos": "名詞",
+      "meaning": "資本主義",
+      "sentences": [
+        {
+          "en": "The economics course examines how modern capitalism developed in Europe during the eighteenth and nineteenth centuries.",
+          "zh": "那門經濟學課程探討現代資本主義在十九世紀的歐洲如何發展。"
+        },
+        {
+          "en": "The documentary discusses the effects of global capitalism on small farmers and workers in developing countries.",
+          "zh": "那部紀錄片探討全球資本主義對開發中國家小農的影響。"
+        },
+        {
+          "en": "Many economists believe that capitalism encourages innovation because businesses must constantly compete with one another for customers.",
+          "zh": "很多經濟學家認為資本主義會鼓勵創新，因為企業必須爭取顧客。"
+        },
+        {
+          "en": "The author's new book offers a critical view of modern capitalism and its impact on the environment.",
+          "zh": "那位作者的新書對現代資本主義和它對環境的衝擊提出批判的觀點。"
+        },
+        {
+          "en": "Students in the seminar debated whether global capitalism has reduced or increased poverty around the world.",
+          "zh": "研討課的學生辯論全球資本主義是減少還是增加了世界各地的貧窮。"
+        }
+      ],
+      "distractors": [
+        "communism",
+        "socialism",
+        "criticism"
+      ],
+      "note": "語塊：global capitalism（全球資本主義）、modern capitalism（現代資本主義）。capitalism 是「資本主義」；capital 是「資本；首都」；capitalist 是「資本家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-eligibility",
+      "word": "eligibility",
+      "pos": "名詞",
+      "meaning": "資格；合格",
+      "sentences": [
+        {
+          "en": "Please read the eligibility requirements carefully before you apply for the university's new scholarship program.",
+          "zh": "申請獎學金計畫之前，請仔細閱讀資格條件。"
+        },
+        {
+          "en": "Customers can check eligibility for the discount by entering their membership number on our website.",
+          "zh": "顧客可以在我們網站上輸入會員編號確認是否有資格享有折扣。"
+        },
+        {
+          "en": "Employees must work for at least one year to meet the eligibility requirements for the bonus.",
+          "zh": "員工必須至少工作一年，才符合獲得獎金的資格條件。"
+        },
+        {
+          "en": "The human resources department will review each applicant's eligibility for the new management training program.",
+          "zh": "人資部會審核每位申請人參加訓練計畫的資格。"
+        },
+        {
+          "en": "If you are unsure about your eligibility, please contact our office by phone before you submit your application.",
+          "zh": "如果你不確定自己的資格，請在申請前聯絡我們辦公室確認。"
+        }
+      ],
+      "distractors": [
+        "legibility",
+        "ability",
+        "liability"
+      ],
+      "note": "語塊：eligibility requirements（資格條件）、check eligibility（確認資格）、eligibility for（……的資格）。eligibility 是名詞；形容詞 eligible 常用 be eligible for（有資格獲得）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proposed",
+      "word": "proposed",
+      "pos": "形容詞",
+      "meaning": "被提議的；擬議中的",
+      "sentences": [
+        {
+          "en": "The proposed plan to build a new airport has received strong support from local business owners.",
+          "zh": "興建新機場的提議計畫獲得當地商家的強烈支持。"
+        },
+        {
+          "en": "Employees will have a chance to comment on the proposed changes to the vacation policy next week.",
+          "zh": "員工下週有機會對休假規定的擬議變更發表意見。"
+        },
+        {
+          "en": "The city council will vote on the proposed budget for next year at its meeting on Thursday evening.",
+          "zh": "市議會將在週四晚上的會議上對明年的預算草案進行投票。"
+        },
+        {
+          "en": "Several residents spoke against the proposed shopping center because of concerns about traffic and noise.",
+          "zh": "好幾位居民因為擔心交通和噪音，發言反對擬議中的購物中心。"
+        },
+        {
+          "en": "The proposed changes to the website will make it easier for customers to find the products they need.",
+          "zh": "網站的擬議變更會讓顧客更容易找到需要的產品。"
+        }
+      ],
+      "distractors": [
+        "prepared",
+        "promised",
+        "posed"
+      ],
+      "note": "語塊：proposed plan（提議的計畫）、proposed changes（擬議的變更）、proposed budget（預算草案）。proposed 是「被提議、還沒決定的」；proposal 是名詞「提案」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-workstation",
+      "word": "workstation",
+      "pos": "名詞",
+      "meaning": "工作站；辦公座位",
+      "sentences": [
+        {
+          "en": "Each employee has an individual workstation with a desk, a computer, and an adjustable chair.",
+          "zh": "每位員工都有一個配有桌子、電腦和可調式椅子的個人工作區。"
+        },
+        {
+          "en": "Please clean your workstation before you leave on Friday, as the carpets will be replaced over the weekend.",
+          "zh": "週五離開前請整理你的辦公座位，因為週末要換地毯。"
+        },
+        {
+          "en": "The new office layout gives every workstation more natural light and a view of the garden.",
+          "zh": "新的辦公室配置讓每個工作座位都有更多自然光，也看得到花園。"
+        },
+        {
+          "en": "Technicians will visit each workstation on Tuesday to install the new security software on every computer.",
+          "zh": "技師週二會到每個辦公座位安裝新的資安軟體。"
+        },
+        {
+          "en": "Employees are not allowed to eat at their workstation, so please use the break room for meals.",
+          "zh": "員工不可以在座位上吃東西，所以用餐請到茶水間。"
+        }
+      ],
+      "distractors": [
+        "workshop",
+        "workforce",
+        "workload"
+      ],
+      "note": "語塊：individual workstation（個人工作區）、clean your workstation（整理辦公座位）、each workstation（每個辦公座位）。workstation 是「一個人的辦公位置（含桌子、電腦）」；workshop 是「工作坊；工廠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interaction",
+      "word": "interaction",
+      "pos": "名詞",
+      "meaning": "互動；交流",
+      "sentences": [
+        {
+          "en": "The training program teaches staff how to handle every customer interaction in a polite and helpful way.",
+          "zh": "訓練計畫教員工如何以禮貌又有幫助的方式處理每一次和顧客的互動。"
+        },
+        {
+          "en": "Many people prefer face-to-face interaction when they are discussing important business decisions with partners or clients.",
+          "zh": "很多人在討論重要的商業決策時比較喜歡面對面交流。"
+        },
+        {
+          "en": "The museum's new exhibit encourages interaction with the displays, so children can touch and play with them.",
+          "zh": "博物館的新展覽鼓勵和展品互動，所以孩子可以觸摸、玩這些展品。"
+        },
+        {
+          "en": "Working from home has reduced face-to-face interaction between employees who work in different departments of the company.",
+          "zh": "在家工作減少了不同部門員工之間的面對面交流。"
+        },
+        {
+          "en": "Our software records every customer interaction so that staff can see past questions and complaints.",
+          "zh": "我們的軟體記錄每一次和顧客的互動，讓員工可以看到過去的問題和投訴。"
+        }
+      ],
+      "distractors": [
+        "intersection",
+        "introduction",
+        "interruption"
+      ],
+      "note": "語塊：customer interaction（與顧客的互動）、face-to-face interaction（面對面交流）、interaction with（與……的互動）。interaction 是名詞；interact 是動詞（interact with）；interactive 是形容詞「互動式的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stick-to",
+      "word": "stick to",
+      "pos": "片語動詞",
+      "meaning": "堅持；遵守",
+      "sentences": [
+        {
+          "en": "If we stick to the plan, the new store should be ready to open by the end of October.",
+          "zh": "如果我們照計畫進行，新店應該在十月底前就能開幕。"
+        },
+        {
+          "en": "The project manager reminded everyone to stick to the budget because there is no extra money available.",
+          "zh": "專案經理提醒大家要守住預算，因為沒有額外的錢了。"
+        },
+        {
+          "en": "It is important to stick to the schedule so that the construction can be finished before winter.",
+          "zh": "按照時程進行很重要，這樣工程才能在冬天前完工。"
+        },
+        {
+          "en": "The company decided to stick to its original design even though some customers asked for changes.",
+          "zh": "儘管有些顧客要求修改，公司還是決定堅持原本的設計。"
+        },
+        {
+          "en": "Speakers at the conference are asked to stick to the time limit of twenty minutes per presentation.",
+          "zh": "研討會的講者被要求遵守每場簡報二十分鐘的時間限制。"
+        }
+      ],
+      "distractors": [
+        "stick out",
+        "stick with",
+        "stick up"
+      ],
+      "note": "語塊：stick to the plan（照計畫進行）、stick to the budget（守住預算）、stick to the schedule（按照時程）。stick to 是「不改變、堅守」；adhere to 意思接近但比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-approach",
+      "word": "approach",
+      "pos": "名詞",
+      "meaning": "方法；做法；接近",
+      "sentences": [
+        {
+          "en": "The company is taking a new approach to marketing by focusing on social media instead of television.",
+          "zh": "公司在行銷上採取新做法，把重點放在社群媒體而不是電視。"
+        },
+        {
+          "en": "Our approach to customer service is simple: listen carefully and solve problems as quickly as possible.",
+          "zh": "我們的客服做法很簡單：仔細聆聽，並且盡快解決問題。"
+        },
+        {
+          "en": "The manager decided to take a different approach after the first plan failed to increase sales.",
+          "zh": "第一個計畫沒能提升業績後，經理決定採取不同的做法。"
+        },
+        {
+          "en": "The consultant recommended a new approach to training that combines online lessons with practice in the office.",
+          "zh": "顧問推薦一種新的訓練方法，結合線上課程和辦公室實作。"
+        },
+        {
+          "en": "Many schools are adopting a more practical approach to teaching science, with more experiments in class.",
+          "zh": "很多學校採用更實際的科學教學方法，在課堂上做更多實驗。"
+        }
+      ],
+      "distractors": [
+        "reproach",
+        "appraisal",
+        "approval"
+      ],
+      "note": "語塊：a new approach（新做法）、approach to（……的方法）、take an approach（採取做法）。approach 當名詞是「方法」，後面接 to + 名詞或動名詞（approach to solving problems）；當動詞是「接近」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-epidemic",
+      "word": "epidemic",
+      "pos": "名詞",
+      "meaning": "流行病；（壞事的）蔓延",
+      "sentences": [
+        {
+          "en": "Hospitals in the city prepared extra beds during the flu epidemic that began in early winter.",
+          "zh": "初冬開始的流感疫情期間，城裡的醫院準備了額外的病床。"
+        },
+        {
+          "en": "The government launched a campaign to stop the epidemic from spreading to other parts of the country.",
+          "zh": "政府發起一項行動，阻止流行病擴散到國內其他地區。"
+        },
+        {
+          "en": "Some experts describe the rise in office workers with back pain as an epidemic of poor posture.",
+          "zh": "有些專家把背痛上班族增加的現象形容為姿勢不良的蔓延。"
+        },
+        {
+          "en": "Schools were closed for two weeks during the flu epidemic to protect students and teachers.",
+          "zh": "流感疫情期間學校停課兩週，以保護學生和老師。"
+        },
+        {
+          "en": "Doctors warn that obesity has become an epidemic in many countries where people rarely exercise.",
+          "zh": "醫生警告，在很多人很少運動的國家，肥胖已經成為一種流行病。"
+        }
+      ],
+      "distractors": [
+        "pandemic",
+        "academic",
+        "episode"
+      ],
+      "note": "語塊：flu epidemic（流感疫情）、an epidemic of（……的蔓延）。epidemic 是「地區性流行病」；pandemic 是「全球大流行」；endemic 是「地方性的（長期存在）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-over-the-counter",
+      "word": "over the counter",
+      "pos": "其他",
+      "meaning": "（藥）不需處方的；在櫃台",
+      "sentences": [
+        {
+          "en": "This pain medicine can be bought over the counter at any pharmacy without a prescription from a doctor.",
+          "zh": "這種止痛藥不需要醫生處方，在任何藥局都可以直接買到。"
+        },
+        {
+          "en": "Many cold medicines are sold over the counter, but you should still read the instructions carefully.",
+          "zh": "很多感冒藥不需處方就能買到，但你還是應該仔細閱讀說明。"
+        },
+        {
+          "en": "The pharmacist explained which allergy tablets are available over the counter and which require a prescription.",
+          "zh": "藥師說明了哪些過敏藥不需處方就能買、哪些需要處方。"
+        },
+        {
+          "en": "Some medicines that were once sold over the counter now require a doctor's approval because of safety concerns.",
+          "zh": "有些以前不需處方就能買的藥，因為安全考量現在需要醫生核准。"
+        },
+        {
+          "en": "Customers can buy vitamins over the counter at our store or order them online for home delivery.",
+          "zh": "顧客可以在我們店裡直接買維他命，或在網路上訂購宅配到府。"
+        }
+      ],
+      "distractors": [
+        "under the table",
+        "behind the scenes",
+        "on the house"
+      ],
+      "note": "語塊：over-the-counter medicine（成藥）、buy over the counter（不需處方即可購買）。over the counter（OTC）指藥局直接買得到的藥；prescription medicine 是「處方藥」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-medication",
+      "word": "medication",
+      "pos": "名詞",
+      "meaning": "藥物",
+      "sentences": [
+        {
+          "en": "Patients should tell the doctor about any medication they are currently taking before the surgery.",
+          "zh": "病人在手術前應該告訴醫生目前正在服用的任何藥物。"
+        },
+        {
+          "en": "The doctor decided to prescribe medication for the patient's high blood pressure after the checkup.",
+          "zh": "健康檢查後，醫生決定開藥治療那位病人的高血壓。"
+        },
+        {
+          "en": "Please take medication only as directed and contact the clinic if you notice any side effects.",
+          "zh": "請只依照指示服藥，如果發現任何副作用請聯絡診所。"
+        },
+        {
+          "en": "The pharmacy can deliver medication to elderly customers who are unable to visit the store in person.",
+          "zh": "藥局可以把藥送給無法親自到店的年長顧客。"
+        },
+        {
+          "en": "Some employees need to take medication during work hours, so a private room is available for them.",
+          "zh": "有些員工需要在上班時間服藥，所以公司為他們準備了一間私人房間。"
+        }
+      ],
+      "distractors": [
+        "meditation",
+        "dedication",
+        "mediation"
+      ],
+      "note": "語塊：take medication（服藥）、prescribe medication（開藥）、medication for（治療……的藥）。medication 和 medicine 都是「藥」；medication 比較正式，常指「正在服用的藥」；meditation（冥想）只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-middle-class",
+      "word": "middle class",
+      "pos": "名詞",
+      "meaning": "中產階級",
+      "sentences": [
+        {
+          "en": "The growing middle class in Southeast Asia has created a large market for cars and electronics.",
+          "zh": "東南亞日益成長的中產階級為汽車和電子產品創造了龐大的市場。"
+        },
+        {
+          "en": "The new housing project is designed for the middle class, with apartments that most families can afford.",
+          "zh": "新的住宅計畫是為中產階級設計的，公寓價格大多數家庭都負擔得起。"
+        },
+        {
+          "en": "Economists say that the middle class is spending more money on travel and education than before.",
+          "zh": "經濟學家說，中產階級花在旅遊和教育上的錢比以前更多。"
+        },
+        {
+          "en": "The government introduced tax benefits to support the middle class during the long economic downturn.",
+          "zh": "政府在經濟衰退期間推出稅務優惠來支持中產階級。"
+        },
+        {
+          "en": "Luxury brands are now targeting the growing middle class in China and India with more affordable products.",
+          "zh": "精品品牌現在用比較平價的產品瞄準中國和印度日益成長的中產階級。"
+        }
+      ],
+      "distractors": [
+        "working class",
+        "upper class",
+        "middle school"
+      ],
+      "note": "語塊：the growing middle class（日益成長的中產階級）、middle-class families（中產家庭）。middle class 是名詞；放在名詞前當形容詞時要加連字號：middle-class families。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-multinational",
+      "word": "multinational",
+      "pos": "形容詞",
+      "meaning": "跨國的",
+      "sentences": [
+        {
+          "en": "Ms. Hassan works for a multinational company with offices and factories in more than thirty countries.",
+          "zh": "Hassan 小姐在一家在三十多個國家設有辦公室的跨國公司工作。"
+        },
+        {
+          "en": "The multinational corporation plans to build its regional headquarters in Singapore at the beginning of next year.",
+          "zh": "那家跨國企業計畫明年在新加坡設立區域總部。"
+        },
+        {
+          "en": "Working for a multinational company gives employees the chance to travel and work with people from many cultures.",
+          "zh": "在跨國公司工作讓員工有機會出差，和來自許多文化的人共事。"
+        },
+        {
+          "en": "The government hopes that lower taxes will persuade at least one multinational company to build a factory in the region.",
+          "zh": "政府希望較低的稅率能說服至少一家跨國公司到這個地區設廠。"
+        },
+        {
+          "en": "The multinational team includes engineers from Japan, Germany, and Brazil who communicate with each other in English.",
+          "zh": "那個跨國團隊有來自日本、德國和巴西的工程師，他們用英文溝通。"
+        }
+      ],
+      "distractors": [
+        "multicultural",
+        "multiple",
+        "national"
+      ],
+      "note": "語塊：multinational company（跨國公司）、multinational corporation（跨國企業）。multinational 也可以當名詞，直接指「跨國公司」；international 是「國際的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-view",
+      "word": "view",
+      "pos": "名詞",
+      "meaning": "景色；看法；觀點",
+      "sentences": [
+        {
+          "en": "Every room on the top floor of the hotel has a beautiful view of the mountains and the lake.",
+          "zh": "飯店頂樓的每間房間都能看到美麗的山景和湖景。"
+        },
+        {
+          "en": "It is important to consider the customer's point of view when designing a new product.",
+          "zh": "設計新產品時，考慮顧客的觀點很重要。"
+        },
+        {
+          "en": "In my view, we should spend more of our budget on training rather than on advertising.",
+          "zh": "依我看，我們應該把更多預算花在訓練而不是廣告上。"
+        },
+        {
+          "en": "The restaurant on the twentieth floor offers a stunning view of the city, especially at night.",
+          "zh": "二十樓的餐廳可以看到城市的絕美景色，尤其是晚上。"
+        },
+        {
+          "en": "Guests who book a room with a view of the harbor must pay an extra twenty dollars per night.",
+          "zh": "預訂港景房的客人每晚要多付二十美元。"
+        }
+      ],
+      "distractors": [
+        "review",
+        "value",
+        "vow"
+      ],
+      "note": "語塊：a view of（……的景色）、point of view（觀點）、in my view（依我看）。view 可以是「景色」，也可以是「看法」；review 是「評論、審查」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disappear",
+      "word": "disappear",
+      "pos": "動詞",
+      "meaning": "消失；不見",
+      "sentences": [
+        {
+          "en": "Many small bookshops may disappear from the city center as more people buy books online.",
+          "zh": "隨著越來越多人在網路上買書，很多小書店可能會從市中心消失。"
+        },
+        {
+          "en": "Traditional crafts could slowly disappear if young people are not encouraged to learn them at school.",
+          "zh": "如果不鼓勵年輕人學習，傳統工藝可能會慢慢消失。"
+        },
+        {
+          "en": "The problem with the screen did not disappear after the update, so the technician replaced the part.",
+          "zh": "更新後螢幕的問題沒有消失，所以技師換掉了零件。"
+        },
+        {
+          "en": "The company hopes that the long lines at the counter will disappear once the new online system is introduced.",
+          "zh": "公司希望新的線上系統啟用後，櫃台前的長龍就會消失。"
+        },
+        {
+          "en": "Experts warn that some fish species could disappear from the lake because of pollution from factories.",
+          "zh": "專家警告，因為工廠的污染，有些魚類可能會從湖裡消失。"
+        }
+      ],
+      "distractors": [
+        "disappoint",
+        "disapprove",
+        "dispense"
+      ],
+      "note": "語塊：disappear from（從……消失）、slowly disappear（慢慢消失）。disappear 是「消失」；appear 是「出現」；disappoint（使失望）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-power-plant",
+      "word": "power plant",
+      "pos": "名詞",
+      "meaning": "發電廠",
+      "sentences": [
+        {
+          "en": "The government plans to build a power plant that will provide electricity to more than one million homes.",
+          "zh": "政府計畫興建一座能為一百多萬戶供電的發電廠。"
+        },
+        {
+          "en": "The new solar power plant in the desert is the largest of its kind in the country.",
+          "zh": "沙漠裡的新太陽能發電廠是國內同類型中最大的。"
+        },
+        {
+          "en": "Residents held a meeting to discuss their concerns about the nuclear power plant near the coast.",
+          "zh": "居民開會討論他們對海岸附近那座核電廠的擔憂。"
+        },
+        {
+          "en": "Engineers at the power plant work in shifts to make sure the machines run safely day and night.",
+          "zh": "發電廠的工程師輪班工作，確保機器日夜都安全運轉。"
+        },
+        {
+          "en": "The company won a contract to build a solar power plant that will reduce the city's use of coal.",
+          "zh": "那家公司拿到興建一座太陽能發電廠的合約，可以減少城市的燃煤使用。"
+        }
+      ],
+      "distractors": [
+        "production plant",
+        "power outage",
+        "power supply"
+      ],
+      "note": "語塊：nuclear power plant（核電廠）、solar power plant（太陽能發電廠）、build a power plant（興建發電廠）。plant 在這裡是「工廠」；power plant 也可以叫 power station。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
