@@ -36873,6 +36873,706 @@
       ],
       "note": "語塊：regardless of（不管……）。regardless of + 名詞，表示「不論」；irregardless 是錯誤用法。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-available",
+      "word": "available",
+      "pos": "形容詞",
+      "meaning": "可用的；有空的；可取得的",
+      "sentences": [
+        {
+          "en": "Tickets for the concert are available online and at the box office in front of the stadium.",
+          "zh": "演唱會門票可以在網路上和體育場前的售票處購買。"
+        },
+        {
+          "en": "Ms. Lee is not available for a meeting this afternoon, but she can meet you tomorrow morning.",
+          "zh": "李小姐今天下午沒空開會，但她明天早上可以和你見面。"
+        },
+        {
+          "en": "Free internet access is available to all guests in the hotel rooms and in the lobby.",
+          "zh": "所有房客在飯店房間和大廳都可以使用免費網路。"
+        },
+        {
+          "en": "Spare parts for this machine are readily available, so repairs can usually be done within a day.",
+          "zh": "這台機器的備用零件隨時都買得到，所以通常一天內就能修好。"
+        },
+        {
+          "en": "The new phone will be available in stores across the country starting next Friday morning.",
+          "zh": "新手機從下週五起將在全國各地的門市上市。"
+        }
+      ],
+      "distractors": [
+        "valuable",
+        "avoidable",
+        "inevitable"
+      ],
+      "note": "語塊：be available for（可以做……）、readily available（隨時可取得）、available to（提供給……）。available 可以形容東西「買得到、可使用」，也可以形容人「有空」；availability 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-valid",
+      "word": "valid",
+      "pos": "形容詞",
+      "meaning": "有效的；合理的",
+      "sentences": [
+        {
+          "en": "Please make sure that your passport is valid for at least six months before you travel abroad.",
+          "zh": "出國前請確認你的護照至少還有六個月效期。"
+        },
+        {
+          "en": "This coupon is valid for one free coffee and can be used at any of our stores until the end of May.",
+          "zh": "這張優惠券可以兌換一杯免費咖啡，五月底前在任何一家分店都能使用。"
+        },
+        {
+          "en": "Passengers without a valid ticket will be asked to pay a fine when they leave the train station.",
+          "zh": "沒有有效車票的乘客出火車站時會被要求支付罰款。"
+        },
+        {
+          "en": "Employees who are absent must give a valid reason, such as illness or a family emergency.",
+          "zh": "缺勤的員工必須提供合理的理由，例如生病或家庭緊急事故。"
+        },
+        {
+          "en": "The special offer is valid for new customers who sign up for the service before the end of the month.",
+          "zh": "這個特別優惠適用於月底前註冊服務的新顧客。"
+        }
+      ],
+      "distractors": [
+        "vivid",
+        "solid",
+        "valued"
+      ],
+      "note": "語塊：valid ticket（有效的票）、valid for（有效期……）、valid reason（合理的理由）。valid 是「有效、合法的」；invalid 是「無效的」；validity 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dietary-supplement",
+      "word": "dietary supplement",
+      "pos": "名詞",
+      "meaning": "膳食補充品；保健食品",
+      "sentences": [
+        {
+          "en": "Many people take a dietary supplement such as vitamin D during the long winter months.",
+          "zh": "很多人在冬天會服用維他命 D 之類的膳食補充品。"
+        },
+        {
+          "en": "Please ask your doctor before you take a dietary supplement, especially if you are taking other medicine.",
+          "zh": "服用保健食品之前請先問醫生，尤其是你正在吃其他藥的時候。"
+        },
+        {
+          "en": "The pharmacy sells every kind of dietary supplement, including fish oil, vitamins, and protein powder.",
+          "zh": "那家藥局販售各種保健食品，包括魚油、維他命和蛋白粉。"
+        },
+        {
+          "en": "The company was fined for making false claims about its dietary supplement in television advertisements.",
+          "zh": "那家公司因為在電視廣告中對保健食品做了不實宣傳而被罰款。"
+        },
+        {
+          "en": "A healthy diet is more important than any dietary supplement, according to most doctors and nutrition experts.",
+          "zh": "根據大多數醫生的說法，健康的飲食比任何保健食品都重要。"
+        }
+      ],
+      "distractors": [
+        "dietary fiber",
+        "food supplement",
+        "dietary restriction"
+      ],
+      "note": "語塊：take a dietary supplement（服用保健食品）、sell dietary supplements（販售保健食品）。dietary 是「飲食的」；supplement 是「補充品」；vitamin 是「維他命」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-physician",
+      "word": "physician",
+      "pos": "名詞",
+      "meaning": "醫師；內科醫生",
+      "sentences": [
+        {
+          "en": "Please consult a physician before you begin any new exercise program, especially if you have health problems.",
+          "zh": "開始任何新的運動計畫之前，請先請教醫師，尤其是你有健康問題的話。"
+        },
+        {
+          "en": "Our family physician recommended that I walk for thirty minutes every day to lower my blood pressure.",
+          "zh": "我們的家庭醫師建議我每天走路三十分鐘來降低血壓。"
+        },
+        {
+          "en": "The hospital is looking for an experienced physician to lead its new heart center in the east wing.",
+          "zh": "醫院在找一位有經驗的醫師帶領新的心臟中心。"
+        },
+        {
+          "en": "Patients should bring a list of their medications when they visit their family physician for a checkup.",
+          "zh": "病人去看家庭醫師時應該帶一份正在服用的藥物清單。"
+        },
+        {
+          "en": "The new clinic has three physicians, and each physician can see about thirty patients a day.",
+          "zh": "新診所有三位醫師，每位醫師一天大約可以看三十位病人。"
+        }
+      ],
+      "distractors": [
+        "physicist",
+        "physics",
+        "musician"
+      ],
+      "note": "語塊：family physician（家庭醫師）、consult a physician（請教醫師）。physician 是「醫師」，比 doctor 正式；physicist 是「物理學家」，很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-standing",
+      "word": "standing",
+      "pos": "名詞",
+      "meaning": "地位；名聲",
+      "sentences": [
+        {
+          "en": "Members in good standing can use the library's online services and borrow up to ten books.",
+          "zh": "信譽良好的會員可以使用圖書館的線上服務，並最多借十本書。"
+        },
+        {
+          "en": "The bank checks the financial standing of every company before it approves a large loan.",
+          "zh": "銀行在核准大筆貸款之前會檢查每家公司的財務狀況。"
+        },
+        {
+          "en": "The two companies have a long-standing relationship and have worked together for over twenty years.",
+          "zh": "兩家公司有長期的關係，合作超過二十年了。"
+        },
+        {
+          "en": "The scandal damaged the standing of the company among its loyal customers and investors around the world.",
+          "zh": "那件醜聞損害了公司在顧客和投資人之間的名聲。"
+        },
+        {
+          "en": "Only members in good standing are allowed to vote at the annual meeting of the association.",
+          "zh": "只有信譽良好的會員才可以在協會的年度大會上投票。"
+        }
+      ],
+      "distractors": [
+        "standard",
+        "stand",
+        "understanding"
+      ],
+      "note": "語塊：financial standing（財務狀況）、in good standing（信譽良好）、long-standing（長期的）。standing 是「地位、身分」；long-standing 是「存在已久的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-agree",
+      "word": "agree",
+      "pos": "動詞",
+      "meaning": "同意；意見一致",
+      "sentences": [
+        {
+          "en": "I agree with your idea, but we need to check whether we have enough money in the budget.",
+          "zh": "我同意你的想法，但我們需要確認預算夠不夠。"
+        },
+        {
+          "en": "The two companies were finally able to agree on a price for the land after several weeks of talks.",
+          "zh": "經過幾週的談判，兩家公司終於對土地價格達成共識。"
+        },
+        {
+          "en": "The supplier did not agree to the new terms, so we will continue to use the old contract.",
+          "zh": "供應商不同意新條款，所以我們會繼續使用舊合約。"
+        },
+        {
+          "en": "Most of the managers agree with the decision to move the office closer to the train station.",
+          "zh": "大部分經理都同意把辦公室搬到離火車站近一點的決定。"
+        },
+        {
+          "en": "The team members could not agree on a name for the new product, so they asked customers for ideas.",
+          "zh": "組員無法對新產品的名稱達成共識，所以他們向顧客徵求點子。"
+        }
+      ],
+      "distractors": [
+        "argue",
+        "degree",
+        "agreed"
+      ],
+      "note": "語塊：agree with（同意某人）、agree to（同意某事）、agree on（對……達成共識）。agree with + 人／意見；agree to + 計畫、條件；agree on + 共同決定的事。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lucrative",
+      "word": "lucrative",
+      "pos": "形容詞",
+      "meaning": "賺錢的；有利可圖的",
+      "sentences": [
+        {
+          "en": "The company signed a lucrative contract with the government to build three new bridges over the river.",
+          "zh": "那家公司和政府簽了一份利潤豐厚的合約，興建三座新橋。"
+        },
+        {
+          "en": "Online education has become a lucrative business, especially for courses in computer programming and design.",
+          "zh": "線上教育已經成為很賺錢的生意，尤其是程式設計和設計課程。"
+        },
+        {
+          "en": "Many companies want to enter the lucrative market for electric cars in Europe and Asia.",
+          "zh": "很多公司想進入歐洲和亞洲有利可圖的電動車市場。"
+        },
+        {
+          "en": "Ms. Park left her lucrative job at the bank in order to start a small bakery in her hometown.",
+          "zh": "朴小姐辭掉銀行的高薪工作，在家鄉開了一家小麵包店。"
+        },
+        {
+          "en": "Selling coffee to office workers turned out to be a lucrative business for the young entrepreneurs.",
+          "zh": "賣咖啡給上班族，結果對那些年輕創業家來說是一門很賺錢的生意。"
+        }
+      ],
+      "distractors": [
+        "luxurious",
+        "ludicrous",
+        "decorative"
+      ],
+      "note": "語塊：lucrative business（賺錢的生意）、lucrative contract（利潤豐厚的合約）、lucrative market（有利可圖的市場）。lucrative 是「能賺很多錢的」；profitable 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-candidate",
+      "word": "candidate",
+      "pos": "名詞",
+      "meaning": "候選人；應徵者",
+      "sentences": [
+        {
+          "en": "The ideal candidate will have at least five years of experience in sales and excellent communication skills.",
+          "zh": "理想人選需要至少五年業務經驗和優秀的溝通能力。"
+        },
+        {
+          "en": "The successful candidate will start work on the first of June and will be based in our Seoul office.",
+          "zh": "錄取者將在六月一日到職，並在我們的首爾辦公室上班。"
+        },
+        {
+          "en": "We interviewed every qualified candidate, but none of them could speak both Japanese and Korean.",
+          "zh": "我們面試了每位合格的應徵者，但沒有一位能同時說日文和韓文。"
+        },
+        {
+          "en": "Each candidate will be asked to give a short presentation about their previous work experience.",
+          "zh": "每位應徵者都會被要求做一個關於過去工作經驗的簡短報告。"
+        },
+        {
+          "en": "The committee will choose the successful candidate after the final round of interviews next Thursday afternoon.",
+          "zh": "委員會將在下週四最後一輪面試後選出錄取者。"
+        }
+      ],
+      "distractors": [
+        "candid",
+        "candle",
+        "applicant"
+      ],
+      "note": "語塊：ideal candidate（理想人選）、successful candidate（錄取者）、qualified candidate（合格的應徵者）。candidate 是「應徵者、候選人」；applicant 是「申請人」；candid 是「坦率的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-employed",
+      "word": "employed",
+      "pos": "形容詞",
+      "meaning": "受僱的；在職的",
+      "sentences": [
+        {
+          "en": "Ms. Ruiz has been employed by the bank for twelve years and now manages the customer service team.",
+          "zh": "Ruiz 小姐受僱於那家銀行十二年，現在管理客服團隊。"
+        },
+        {
+          "en": "Applicants who are currently employed should tell us when they would be able to start the new job.",
+          "zh": "目前在職的應徵者應告訴我們何時可以開始新工作。"
+        },
+        {
+          "en": "Many designers are self-employed and work with several different clients at the same time from home.",
+          "zh": "很多設計師是自營工作者，同時和好幾位不同的客戶合作。"
+        },
+        {
+          "en": "More than two thousand people are employed at the factory, which makes it the largest employer in town.",
+          "zh": "那座工廠僱用了兩千多人，是鎮上最大的雇主。"
+        },
+        {
+          "en": "The survey found that most people who are self-employed work longer hours than office workers.",
+          "zh": "調查發現，大部分自營工作者的工時比上班族長。"
+        }
+      ],
+      "distractors": [
+        "employer",
+        "enjoyed",
+        "deployed"
+      ],
+      "note": "語塊：be employed by（受僱於）、currently employed（目前在職）、self-employed（自營的）。employed 是「有工作的」；unemployed 是「失業的」；employ 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-include",
+      "word": "include",
+      "pos": "動詞",
+      "meaning": "包括；包含",
+      "sentences": [
+        {
+          "en": "The price of the hotel room does include breakfast and free use of the swimming pool.",
+          "zh": "飯店房價確實包含早餐和免費使用游泳池。"
+        },
+        {
+          "en": "Please include your order number in the email so that we can find your purchase quickly.",
+          "zh": "請在電子郵件中附上你的訂單編號，讓我們能快速找到你的購買紀錄。"
+        },
+        {
+          "en": "The tour will include visits to three museums and lunch at a traditional restaurant in the old town.",
+          "zh": "行程將包括參觀三間博物館，以及在一家傳統餐廳吃午餐。"
+        },
+        {
+          "en": "The report should include a summary of sales for each region and a plan for next year.",
+          "zh": "報告應該包括每個地區的銷售摘要和明年的計畫。"
+        },
+        {
+          "en": "The prices on our menu include tax, but a service charge of ten percent will be added to your bill.",
+          "zh": "我們菜單上的價格含稅，但帳單會另加一成服務費。"
+        }
+      ],
+      "distractors": [
+        "conclude",
+        "exclude",
+        "intrude"
+      ],
+      "note": "語塊：include tax（含稅）、be included in（被包含在）、including（包括）。include 是「包含」；exclude 是「排除」；inclusive 是形容詞「包含在內的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supplemental",
+      "word": "supplemental",
+      "pos": "形容詞",
+      "meaning": "補充的；額外的",
+      "sentences": [
+        {
+          "en": "Many teachers work during the summer to earn supplemental income for their families and pay for vacations.",
+          "zh": "很多老師暑假打工，為家裡賺額外收入。"
+        },
+        {
+          "en": "Please read the supplemental information attached to the email before the meeting with the clients on Thursday.",
+          "zh": "週四開會前，請先閱讀郵件附件的補充資料。"
+        },
+        {
+          "en": "Employees can buy supplemental insurance that covers dental care and eye examinations for their families.",
+          "zh": "員工可以購買涵蓋牙科和眼科檢查的附加保險。"
+        },
+        {
+          "en": "The teacher gave the students supplemental reading materials to help them prepare for the exam.",
+          "zh": "老師給學生補充閱讀資料，幫助他們準備考試。"
+        },
+        {
+          "en": "Renting out a room is a popular way for homeowners to earn supplemental income in the city.",
+          "zh": "在城裡出租一個房間，是屋主賺額外收入的熱門方式。"
+        }
+      ],
+      "distractors": [
+        "sentimental",
+        "fundamental",
+        "incremental"
+      ],
+      "note": "語塊：supplemental income（額外收入）、supplemental information（補充資料）、supplemental insurance（附加保險）。supplemental 和 supplementary 意思相同；supplement 是名詞「補充品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-publisher",
+      "word": "publisher",
+      "pos": "名詞",
+      "meaning": "出版社；出版商",
+      "sentences": [
+        {
+          "en": "The publisher plans to release the author's new novel in both print and digital formats next spring.",
+          "zh": "出版社計畫明年春天以紙本和電子形式發行那位作家的新小說。"
+        },
+        {
+          "en": "Ms. Ward sent her manuscript to several publishers, and one publisher offered her a contract.",
+          "zh": "Ward 小姐把原稿寄給好幾家出版社，其中一家提供她合約。"
+        },
+        {
+          "en": "The publisher of the magazine announced that it will stop printing paper copies at the end of the year.",
+          "zh": "那本雜誌的出版商宣布年底將停止印刷紙本。"
+        },
+        {
+          "en": "The book publisher is looking for an editor with experience in children's books and good design skills.",
+          "zh": "那家圖書出版社在找一位有童書經驗、設計能力也好的編輯。"
+        },
+        {
+          "en": "The publisher will hold a party to celebrate the success of the best-selling cookbook this year.",
+          "zh": "出版社將舉辦一場派對，慶祝那本暢銷食譜的成功。"
+        }
+      ],
+      "distractors": [
+        "publicist",
+        "publication",
+        "polisher"
+      ],
+      "note": "語塊：book publisher（圖書出版社）、the publisher of（……的出版商）。publisher 是「出版社」；publish 是動詞「出版」；publicist 是「公關人員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-automotive",
+      "word": "automotive",
+      "pos": "形容詞",
+      "meaning": "汽車的",
+      "sentences": [
+        {
+          "en": "The automotive industry is changing quickly as more and more companies begin to produce electric cars.",
+          "zh": "隨著越來越多公司開始生產電動車，汽車產業正快速改變。"
+        },
+        {
+          "en": "The factory produces automotive parts for several large car companies in Japan, Korea, and Germany.",
+          "zh": "那座工廠為日本和德國好幾家汽車公司生產汽車零件。"
+        },
+        {
+          "en": "Mr. Kim worked as an automotive engineer for fifteen years before he started teaching at the university.",
+          "zh": "金先生當了十五年汽車工程師，之後開始在大學教書。"
+        },
+        {
+          "en": "Many jobs in the region depend on the automotive industry, so the new factory is very important.",
+          "zh": "該地區很多工作都依賴汽車產業，所以新工廠非常重要。"
+        },
+        {
+          "en": "The store sells automotive parts and tools, and it also offers free advice to customers.",
+          "zh": "那家店販售汽車零件和工具，還為顧客提供免費建議。"
+        }
+      ],
+      "distractors": [
+        "automatic",
+        "automated",
+        "motivated"
+      ],
+      "note": "語塊：automotive industry（汽車產業）、automotive parts（汽車零件）、automotive engineer（汽車工程師）。automotive 是「和汽車有關的」；automatic 是「自動的」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exhibition",
+      "word": "exhibition",
+      "pos": "名詞",
+      "meaning": "展覽",
+      "sentences": [
+        {
+          "en": "The museum will hold an exhibition of modern paintings by young artists from across Asia this summer.",
+          "zh": "博物館今年夏天將舉辦一場來自亞洲各地年輕藝術家的現代畫展。"
+        },
+        {
+          "en": "The art exhibition attracted more than ten thousand visitors during its first week at the museum.",
+          "zh": "那場藝術展第一週就吸引了一萬多名參觀者。"
+        },
+        {
+          "en": "The famous paintings will be on exhibition at the city gallery until the end of March.",
+          "zh": "那些名畫將在市立美術館展出到三月底。"
+        },
+        {
+          "en": "Tickets for the art exhibition can be bought online or at the entrance of the museum.",
+          "zh": "藝術展的門票可以在網路上或博物館入口購買。"
+        },
+        {
+          "en": "The company will hold an exhibition of its new products for clients and reporters next month.",
+          "zh": "公司下個月將為客戶和記者舉辦一場新產品展覽。"
+        }
+      ],
+      "distractors": [
+        "exposition",
+        "expedition",
+        "exhaustion"
+      ],
+      "note": "語塊：art exhibition（藝術展）、hold an exhibition（舉辦展覽）、on exhibition（展出中）。exhibition 是「展覽」；exhibit 可以是動詞「展出」或名詞「展品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-advantage-of",
+      "word": "take advantage of",
+      "pos": "片語動詞",
+      "meaning": "利用；把握",
+      "sentences": [
+        {
+          "en": "Customers should take advantage of the offer on winter jackets, which ends this Sunday at midnight.",
+          "zh": "顧客應該把握冬季外套的優惠，這週日午夜就結束了。"
+        },
+        {
+          "en": "Many employees take advantage of the free gym in the office building during their lunch break.",
+          "zh": "很多員工利用午休時間使用辦公大樓的免費健身房。"
+        },
+        {
+          "en": "Ms. Lee decided to take advantage of the opportunity to work abroad for two years.",
+          "zh": "李小姐決定把握到國外工作兩年的機會。"
+        },
+        {
+          "en": "Visitors can take advantage of the free shuttle bus, which runs between the hotel and the beach.",
+          "zh": "遊客可以利用往返飯店和海灘的免費接駁車。"
+        },
+        {
+          "en": "Small businesses should take advantage of social media to reach new customers at a low cost.",
+          "zh": "小企業應該善用社群媒體，以低成本接觸新顧客。"
+        }
+      ],
+      "distractors": [
+        "take care of",
+        "take part in",
+        "make use of"
+      ],
+      "note": "語塊：take advantage of the opportunity（把握機會）、take advantage of the offer（利用優惠）、take advantage of the free（利用免費的……）、take advantage of social media（善用社群媒體）。take advantage of 是「好好利用」；也可以是「佔……便宜」（負面）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suitable",
+      "word": "suitable",
+      "pos": "形容詞",
+      "meaning": "合適的；適當的",
+      "sentences": [
+        {
+          "en": "This hotel is suitable for families because it has large rooms and a swimming pool for children.",
+          "zh": "這家飯店適合家庭入住，因為房間大，還有兒童游泳池。"
+        },
+        {
+          "en": "The company has not yet found a suitable candidate for the position of marketing director.",
+          "zh": "公司還沒找到行銷總監職位的合適人選。"
+        },
+        {
+          "en": "We need to find a suitable location for the new store that is close to public transportation.",
+          "zh": "我們需要為新店找一個靠近大眾運輸的合適地點。"
+        },
+        {
+          "en": "The training course is suitable for beginners who have never used the accounting software before.",
+          "zh": "這門訓練課程適合從沒用過這套軟體的初學者。"
+        },
+        {
+          "en": "Please wear clothing that is suitable for outdoor activities, as the tour includes a long walk.",
+          "zh": "請穿適合戶外活動的服裝，因為行程包含長時間步行。"
+        }
+      ],
+      "distractors": [
+        "suited",
+        "stable",
+        "sustainable"
+      ],
+      "note": "語塊：suitable for（適合……）、suitable candidate（合適的人選）、find a suitable（找到合適的……）。suitable 是「合適的」；appropriate 意思接近；suit 是動詞「適合」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-district",
+      "word": "district",
+      "pos": "名詞",
+      "meaning": "地區；區域",
+      "sentences": [
+        {
+          "en": "Our new office is located in the business district, just five minutes from the subway station.",
+          "zh": "我們的新辦公室位於商業區，離捷運站只要五分鐘。"
+        },
+        {
+          "en": "Many families move to this neighborhood because it is in the best school district in the city.",
+          "zh": "很多家庭搬到這個社區，因為它位在城裡最好的學區。"
+        },
+        {
+          "en": "The shopping district is very crowded on weekends, so we recommend visiting on a weekday morning.",
+          "zh": "購物區週末非常擁擠，所以我們建議平日早上去。"
+        },
+        {
+          "en": "The city plans to build a new park in the eastern district, where there is very little green space.",
+          "zh": "市政府計畫在綠地很少的東區興建一座新公園。"
+        },
+        {
+          "en": "Hotels in the business district are often fully booked during the week because of business travelers.",
+          "zh": "商業區的飯店平日常常因為商務旅客而客滿。"
+        }
+      ],
+      "distractors": [
+        "distinct",
+        "distract",
+        "restrict"
+      ],
+      "note": "語塊：business district（商業區）、school district（學區）、shopping district（購物區）。district 是「行政或功能上的區域」；region 是「較大的地區」；area 是一般說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dress-code",
+      "word": "dress code",
+      "pos": "名詞",
+      "meaning": "服裝規定",
+      "sentences": [
+        {
+          "en": "All employees must follow the dress code when they meet with clients at the office.",
+          "zh": "所有員工在辦公室和客戶見面時都必須遵守服裝規定。"
+        },
+        {
+          "en": "The company has a casual dress code on Fridays, so employees can wear jeans and sneakers.",
+          "zh": "公司週五採休閒服裝規定，員工可以穿牛仔褲和運動鞋。"
+        },
+        {
+          "en": "The restaurant has a strict dress code, and guests are not allowed to wear shorts or sandals.",
+          "zh": "那家餐廳有嚴格的服裝規定，客人不能穿短褲或涼鞋。"
+        },
+        {
+          "en": "New employees receive a handbook that explains the dress code and other rules of the company.",
+          "zh": "新員工會拿到一本說明服裝規定和公司其他規定的手冊。"
+        },
+        {
+          "en": "Please check the dress code on the invitation before you attend the awards dinner next week.",
+          "zh": "參加下週的頒獎晚宴之前，請先看邀請函上的服裝規定。"
+        }
+      ],
+      "distractors": [
+        "zip code",
+        "tax code",
+        "dress rehearsal"
+      ],
+      "note": "語塊：follow the dress code（遵守服裝規定）、casual dress code（休閒服裝規定）、strict dress code（嚴格的服裝規定）。dress code 是公司或場合的「穿著規範」；code of conduct 是「行為準則」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-certified",
+      "word": "certified",
+      "pos": "形容詞",
+      "meaning": "經認證的；有證照的",
+      "sentences": [
+        {
+          "en": "Our company only hires certified accountants who have passed the difficult national exam for accountants.",
+          "zh": "我們公司只聘用通過國家考試、有證照的會計師。"
+        },
+        {
+          "en": "All of the coffee sold in our stores is certified organic and comes from small farms in Colombia.",
+          "zh": "我們門市販售的所有咖啡都是經認證的有機咖啡，來自哥倫比亞的小農場。"
+        },
+        {
+          "en": "Important legal documents should be sent by certified mail so that you have proof of delivery.",
+          "zh": "重要的法律文件應該用雙掛號寄送，這樣你才有送達證明。"
+        },
+        {
+          "en": "The gym's personal trainers are all certified and have at least three years of experience.",
+          "zh": "健身房的私人教練都有證照，而且至少有三年的經驗。"
+        },
+        {
+          "en": "Please hire a certified electrician to install the new lights, as it can be dangerous to do it yourself.",
+          "zh": "請找有證照的電工安裝新燈，因為自己安裝可能很危險。"
+        }
+      ],
+      "distractors": [
+        "certain",
+        "clarified",
+        "verified"
+      ],
+      "note": "語塊：certified accountant（有證照的會計師）、certified organic（經認證的有機）、certified mail（雙掛號）。certified 是「經過正式認證的」；certify 是動詞；certificate 是「證書」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-institute",
+      "word": "institute",
+      "pos": "名詞",
+      "meaning": "研究所；學院；機構",
+      "sentences": [
+        {
+          "en": "Dr. Kim works at a research institute that studies new ways to produce clean energy.",
+          "zh": "金博士在一家研究潔淨能源新生產方式的研究所工作。"
+        },
+        {
+          "en": "Ms. Lin graduated from the institute of technology and now designs computer chips for a large company.",
+          "zh": "林小姐畢業於理工學院，現在為一家大公司設計電腦晶片。"
+        },
+        {
+          "en": "The research institute received a large grant from the government to study air pollution in cities.",
+          "zh": "那家研究所獲得政府一大筆補助，研究城市的空氣污染。"
+        },
+        {
+          "en": "The institute offers evening courses for adults who want to learn new skills for their careers.",
+          "zh": "那所學院為想學習職涯新技能的成人開設夜間課程。"
+        },
+        {
+          "en": "Scientists from the institute will present their findings at an international conference in Tokyo next month.",
+          "zh": "那家研究所的科學家下個月將在國際研討會上發表研究結果。"
+        }
+      ],
+      "distractors": [
+        "institution",
+        "substitute",
+        "constitute"
+      ],
+      "note": "語塊：research institute（研究所）、institute of technology（理工學院）。institute 是「研究或教育機構」；institution 是「機構；制度」，意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
