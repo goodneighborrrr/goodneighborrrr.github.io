@@ -39673,6 +39673,706 @@
       ],
       "note": "語塊：submit a resignation（提出辭呈）、letter of resignation（辭職信）、accept a resignation（接受辭職）。resignation 是名詞；resign 是動詞「辭職」；注意 resign 的 g 不發音，resignation 的 g 要發音。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expedite",
+      "word": "expedite",
+      "pos": "動詞",
+      "meaning": "加快；促進",
+      "sentences": [
+        {
+          "en": "For an additional fee, we can expedite delivery so that your order arrives the next day.",
+          "zh": "只要另外付費，我們可以加速送貨，讓你的訂單隔天就到。"
+        },
+        {
+          "en": "The new online system will expedite the process of approving loans for small and medium-sized businesses.",
+          "zh": "新的線上系統將加快核准小企業貸款的流程。"
+        },
+        {
+          "en": "Please call the supplier and ask whether they can expedite the order of spare parts this week.",
+          "zh": "請打給供應商，問他們這週能不能加急備用零件的訂單。"
+        },
+        {
+          "en": "To expedite the process, please send all of the required documents together in one email.",
+          "zh": "為了加快流程，請把所有必要文件用一封電子郵件一起寄出。"
+        },
+        {
+          "en": "The government hired more staff to expedite the processing of visa applications before the summer.",
+          "zh": "政府增聘人手，在夏天前加快簽證申請的處理。"
+        }
+      ],
+      "distractors": [
+        "expedition",
+        "expend",
+        "experiment"
+      ],
+      "note": "語塊：expedite the process（加快流程）、expedite delivery（加速送貨）、expedite an order（加急訂單）。expedite 比 speed up 正式；expedition 是「探險；遠征」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-provided",
+      "word": "provided",
+      "pos": "連接詞",
+      "meaning": "假如；只要",
+      "sentences": [
+        {
+          "en": "You can return the item for a full refund provided that you still have the original receipt.",
+          "zh": "只要你還有原始收據，就可以退貨並全額退款。"
+        },
+        {
+          "en": "Employees may work from home on Fridays provided that they finish all of their tasks on time.",
+          "zh": "只要員工準時完成所有工作，週五就可以在家工作。"
+        },
+        {
+          "en": "The outdoor concert will take place on Saturday provided that the weather is good in the afternoon.",
+          "zh": "只要天氣好，戶外音樂會將在週六舉行。"
+        },
+        {
+          "en": "We will deliver the furniture next week provided that you pay the remaining balance by Friday.",
+          "zh": "只要你在週五前付清餘款，我們下週就會送家具過去。"
+        },
+        {
+          "en": "Guests can check out late provided that they inform the front desk by nine o'clock in the morning.",
+          "zh": "只要客人早上九點前通知櫃台，就可以延遲退房。"
+        }
+      ],
+      "distractors": [
+        "provide",
+        "proved",
+        "providing"
+      ],
+      "note": "語塊：provided that（只要……）。provided (that) 和 as long as、if 意思接近，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-manufacture",
+      "word": "manufacture",
+      "pos": "動詞",
+      "meaning": "製造；生產",
+      "sentences": [
+        {
+          "en": "The company will manufacture its new electric cars at a factory in the southern part of the country.",
+          "zh": "公司將在國內南部的一座工廠製造新的電動車。"
+        },
+        {
+          "en": "Many companies manufacture goods in Asia because labor and materials are much less expensive there.",
+          "zh": "很多公司在亞洲製造商品，因為那裡的勞工和材料比較便宜。"
+        },
+        {
+          "en": "It takes about three hours to manufacture each bicycle, including painting and testing in the factory.",
+          "zh": "製造每台腳踏車大約需要三小時，包括上漆和測試。"
+        },
+        {
+          "en": "The factory plans to manufacture more face masks because demand has increased sharply this winter.",
+          "zh": "工廠計畫製造更多口罩，因為今年冬天需求急劇增加。"
+        },
+        {
+          "en": "Our furniture is designed in Italy, but we manufacture it in a factory near the port to save on shipping.",
+          "zh": "我們的家具在義大利設計，但為了節省運費，在港口附近的工廠製造。"
+        }
+      ],
+      "distractors": [
+        "manicure",
+        "manuscript",
+        "manipulate"
+      ],
+      "note": "語塊：manufacture goods（製造商品）、be manufactured in（在……製造）。manufacture 是「大量生產」；manufacturer 是「製造商」；manufacturing 是「製造業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-past",
+      "word": "past",
+      "pos": "形容詞",
+      "meaning": "過去的；剛過去的",
+      "sentences": [
+        {
+          "en": "Sales of electric bicycles have increased sharply over the past year in most large cities.",
+          "zh": "過去一年，大部分大城市的電動自行車銷售急劇增加。"
+        },
+        {
+          "en": "In the past, most people bought their groceries in small shops near their homes every day.",
+          "zh": "過去，大部分人每天在家附近的小店買雜貨。"
+        },
+        {
+          "en": "Based on past experience, we expect the store to be very busy during the first week of the sale.",
+          "zh": "根據過去的經驗，我們預期特賣第一週店裡會非常忙。"
+        },
+        {
+          "en": "The company has opened twenty new stores over the past five years, mostly in Southeast Asia.",
+          "zh": "公司過去五年開了二十家新店，大部分在東南亞。"
+        },
+        {
+          "en": "Our past experience with this supplier has been positive, so we will sign another contract with them.",
+          "zh": "我們過去和這家供應商的合作經驗很好，所以會再和他們簽一份合約。"
+        }
+      ],
+      "distractors": [
+        "passed",
+        "paste",
+        "pass"
+      ],
+      "note": "語塊：over the past year（過去一年）、in the past（過去）、past experience（過去的經驗）。past 可以是形容詞、名詞或介系詞（walk past 經過）；passed 是 pass 的過去式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disappointment",
+      "word": "disappointment",
+      "pos": "名詞",
+      "meaning": "失望；令人失望的事",
+      "sentences": [
+        {
+          "en": "To our disappointment, the concert was canceled because the singer became ill on the morning of the show.",
+          "zh": "令我們失望的是，演唱會因為歌手生病而取消了。"
+        },
+        {
+          "en": "Several customers expressed disappointment with the new design of the website, which is hard to use.",
+          "zh": "好幾位顧客對難用的新網站設計表達失望。"
+        },
+        {
+          "en": "The low sales of the new phone were a big disappointment for the company and its investors.",
+          "zh": "新手機的低銷量讓公司和投資人非常失望。"
+        },
+        {
+          "en": "The manager expressed disappointment that the project was not finished before the deadline in the contract.",
+          "zh": "經理對專案沒有在截止日前完成表達失望。"
+        },
+        {
+          "en": "To the disappointment of many fans, the team lost the final game by only one point.",
+          "zh": "令很多球迷失望的是，球隊在決賽中只差一分落敗。"
+        }
+      ],
+      "distractors": [
+        "appointment",
+        "displacement",
+        "disagreement"
+      ],
+      "note": "語塊：to one's disappointment（令某人失望的是）、express disappointment（表達失望）、a big disappointment（很大的失望）。disappointment 是名詞；disappoint 是動詞；disappointed 是「感到失望的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-record",
+      "word": "record",
+      "pos": "名詞",
+      "meaning": "紀錄；記錄",
+      "sentences": [
+        {
+          "en": "The company's sales reached a record high last year because of strong demand in Asia.",
+          "zh": "因為亞洲需求強勁，公司去年的銷售創下歷史新高。"
+        },
+        {
+          "en": "Please keep a record of all of your expenses during the business trip so that you can be paid back.",
+          "zh": "出差期間請記錄所有開支，這樣才能拿回墊付的錢。"
+        },
+        {
+          "en": "The runner was able to break a record that had lasted for more than twenty years.",
+          "zh": "那位跑者打破了一項維持二十多年的紀錄。"
+        },
+        {
+          "en": "Temperatures reached a record high this summer, and many people stayed inside during the afternoon.",
+          "zh": "今年夏天氣溫創下歷史新高，很多人下午都待在室內。"
+        },
+        {
+          "en": "The doctor will check your medical record before deciding which treatment is best for you.",
+          "zh": "醫生會先檢查你的病歷，再決定哪種治療最適合你。"
+        }
+      ],
+      "distractors": [
+        "recall",
+        "report",
+        "recover"
+      ],
+      "note": "語塊：break a record（打破紀錄）、keep a record of（記錄……）、record high（歷史新高）。record 當名詞（REC-ord）是「紀錄」；當動詞（re-CORD）是「記錄；錄音」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refuse",
+      "word": "refuse",
+      "pos": "動詞",
+      "meaning": "拒絕",
+      "sentences": [
+        {
+          "en": "The supplier may refuse to lower its prices, so we should look for other companies as well.",
+          "zh": "供應商可能會拒絕降價，所以我們也應該找找其他公司。"
+        },
+        {
+          "en": "Ms. Lee decided to refuse the offer from the bank because she wanted to stay in her hometown.",
+          "zh": "李小姐決定拒絕那家銀行的邀約，因為她想留在家鄉。"
+        },
+        {
+          "en": "The store has the right to refuse service to customers who do not follow the rules.",
+          "zh": "店家有權拒絕為不守規定的顧客服務。"
+        },
+        {
+          "en": "Some workers refuse to work on Sundays because they want to spend time with their families.",
+          "zh": "有些工人拒絕週日上班，因為想陪家人。"
+        },
+        {
+          "en": "The landlord did not refuse the request to keep a small dog in the apartment.",
+          "zh": "房東沒有拒絕在公寓裡養小狗的請求。"
+        }
+      ],
+      "distractors": [
+        "refute",
+        "refund",
+        "reuse"
+      ],
+      "note": "語塊：refuse to（拒絕做……）、refuse an offer（拒絕提議）。refuse to + 原形動詞；refusal 是名詞；reject、decline 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-house",
+      "word": "in-house",
+      "pos": "形容詞",
+      "meaning": "公司內部的",
+      "sentences": [
+        {
+          "en": "The company offers in-house training for new employees so that they can learn the software quickly.",
+          "zh": "公司為新員工提供內部訓練，讓他們能很快學會軟體。"
+        },
+        {
+          "en": "Instead of hiring an outside agency, we asked our in-house designer to create the new logo.",
+          "zh": "我們沒有請外面的公司，而是請公司內部的設計師設計新商標。"
+        },
+        {
+          "en": "Our in-house team of engineers can repair most machines quickly without help from outside companies.",
+          "zh": "我們的內部工程師團隊不需要外部公司幫忙，就能修好大部分機器。"
+        },
+        {
+          "en": "The hotel has an in-house restaurant that serves breakfast, lunch, and dinner to guests every day.",
+          "zh": "飯店有一家館內餐廳，每天供應早餐、午餐和晚餐。"
+        },
+        {
+          "en": "In-house training is usually cheaper than sending employees to courses at other locations or abroad.",
+          "zh": "內部訓練通常比送員工到其他地方上課便宜。"
+        }
+      ],
+      "distractors": [
+        "in-person",
+        "full-time",
+        "on-site"
+      ],
+      "note": "語塊：in-house training（內部訓練）、in-house designer（公司內部設計師）、in-house team（內部團隊）。in-house 是「公司自己內部的（不外包）」；outsource 是「外包」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-willing-to",
+      "word": "willing to",
+      "pos": "其他",
+      "meaning": "願意……",
+      "sentences": [
+        {
+          "en": "Many customers are willing to pay more for products that are made in an environmentally friendly way.",
+          "zh": "很多顧客願意為環保方式製造的產品多付錢。"
+        },
+        {
+          "en": "Applicants must be willing to travel abroad several times a year for business meetings with clients.",
+          "zh": "應徵者必須願意一年出國好幾次參加商務會議。"
+        },
+        {
+          "en": "The supplier is willing to lower its prices if we agree to sign a three-year contract.",
+          "zh": "如果我們同意簽三年合約，供應商願意降價。"
+        },
+        {
+          "en": "Are you willing to work on weekends during the busy holiday season at the end of next month?",
+          "zh": "你願意在下個月忙碌的節慶期間週末上班嗎？"
+        },
+        {
+          "en": "The landlord is willing to repair the kitchen before the new tenants move in next week.",
+          "zh": "房東願意在新房客下週搬進來之前修好廚房。"
+        }
+      ],
+      "distractors": [
+        "willingly",
+        "willful",
+        "wilting"
+      ],
+      "note": "語塊：be willing to（願意做……）。be willing to + 原形動詞；willingness 是名詞「意願」；unwilling 是「不願意的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supplementary",
+      "word": "supplementary",
+      "pos": "形容詞",
+      "meaning": "補充的；附加的",
+      "sentences": [
+        {
+          "en": "The teacher gave the students supplementary materials to help them prepare for the final exam.",
+          "zh": "老師給學生補充資料，幫助他們準備期末考。"
+        },
+        {
+          "en": "Please read the supplementary information on our website before you fill out the online application form.",
+          "zh": "填寫申請表之前，請先閱讀我們網站上的補充資訊。"
+        },
+        {
+          "en": "The book comes with supplementary materials, including videos and practice tests that you can use online.",
+          "zh": "那本書附有補充資料，包括網路上的影片和練習測驗。"
+        },
+        {
+          "en": "The report includes supplementary information about the cost of each part of the construction project.",
+          "zh": "報告包含專案每個部分成本的補充資訊。"
+        },
+        {
+          "en": "Supplementary lessons are offered on Saturday mornings for students who need extra help with math and science.",
+          "zh": "週六早上為需要額外幫助的學生開設補充課程。"
+        }
+      ],
+      "distractors": [
+        "complementary",
+        "complimentary",
+        "elementary"
+      ],
+      "note": "語塊：supplementary materials（補充資料）、supplementary information（補充資訊）。supplementary 和 supplemental 意思相同；supplement 是名詞「補充品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-committee",
+      "word": "committee",
+      "pos": "名詞",
+      "meaning": "委員會",
+      "sentences": [
+        {
+          "en": "The company will form a committee to plan the celebration of its fiftieth anniversary next year.",
+          "zh": "公司將成立一個委員會，籌劃明年的五十週年慶。"
+        },
+        {
+          "en": "Each committee member must read the proposal carefully before the important meeting on Thursday afternoon.",
+          "zh": "每位委員都必須在週四下午開會前仔細閱讀提案。"
+        },
+        {
+          "en": "The planning committee has chosen a hotel near the beach for the annual conference in September.",
+          "zh": "籌備委員會為九月的年度研討會選了一家海邊的飯店。"
+        },
+        {
+          "en": "The committee will review all of the applications and choose three candidates for the final interview.",
+          "zh": "委員會將審查所有申請，選出三位候選人參加最後面試。"
+        },
+        {
+          "en": "Ms. Park was elected as the head of the committee because of her experience in organizing events.",
+          "zh": "朴小姐因為有籌辦活動的經驗而被選為委員會主席。"
+        }
+      ],
+      "distractors": [
+        "commitment",
+        "community",
+        "commodity"
+      ],
+      "note": "語塊：form a committee（成立委員會）、committee member（委員）、planning committee（籌備委員會）。committee 是「委員會」；注意拼法雙 m、雙 t、雙 e；commitment 是「承諾」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-allocate",
+      "word": "allocate",
+      "pos": "動詞",
+      "meaning": "分配；撥出",
+      "sentences": [
+        {
+          "en": "The government will allocate funds to build new schools in rural areas over the next five years.",
+          "zh": "政府將在未來五年撥款在鄉村地區興建新學校。"
+        },
+        {
+          "en": "Managers must allocate resources carefully so that every project has enough staff, time, and money.",
+          "zh": "經理必須仔細分配資源，讓每個專案都有足夠的人力和資金。"
+        },
+        {
+          "en": "Please allocate time in your schedule next week for a short meeting with the new clients.",
+          "zh": "請在下週的行程中撥出時間，和新客戶開個簡短的會。"
+        },
+        {
+          "en": "The company decided to allocate more of its budget to online advertising and social media this year.",
+          "zh": "公司決定今年把更多預算撥給網路廣告。"
+        },
+        {
+          "en": "The city council will allocate funds for repairing the old roads in the northern district.",
+          "zh": "市議會將撥款修繕北區的老舊道路。"
+        }
+      ],
+      "distractors": [
+        "locate",
+        "relocate",
+        "advocate"
+      ],
+      "note": "語塊：allocate funds（撥款）、allocate resources（分配資源）、allocate time（分配時間）。allocate 是「把資源分給特定用途」；allocation 是名詞；assign 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prepare",
+      "word": "prepare",
+      "pos": "動詞",
+      "meaning": "準備",
+      "sentences": [
+        {
+          "en": "The team will prepare a report on the results of the survey and present it next Monday.",
+          "zh": "團隊會準備一份調查結果的報告，下週一報告。"
+        },
+        {
+          "en": "Stores are hiring extra staff to prepare for the busy holiday season in December and January.",
+          "zh": "商店正在增聘人手，準備十二月忙碌的節慶季。"
+        },
+        {
+          "en": "Please prepare a short presentation about your project for the team meeting on Friday morning.",
+          "zh": "請為週五早上的會議準備一份關於你專案的簡短簡報。"
+        },
+        {
+          "en": "The chef arrives at the restaurant at six o'clock every morning to prepare the food for lunch.",
+          "zh": "主廚每天早上六點到餐廳準備午餐的食物。"
+        },
+        {
+          "en": "Students should start to prepare for the final exam at least one month before the test date.",
+          "zh": "學生應該至少在考試日期前一個月開始準備期末考。"
+        }
+      ],
+      "distractors": [
+        "repair",
+        "compare",
+        "preparation"
+      ],
+      "note": "語塊：prepare for（為……做準備）、prepare a report（準備報告）、be prepared to（準備好……）。prepare for + 事件；prepare + 東西；be prepared to do 是「願意、準備好做」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-detailed",
+      "word": "detailed",
+      "pos": "形容詞",
+      "meaning": "詳細的",
+      "sentences": [
+        {
+          "en": "Please visit our website for detailed information about the prices and schedules of our tours.",
+          "zh": "請上我們網站查看行程價格和時間的詳細資訊。"
+        },
+        {
+          "en": "The manager asked for a detailed report on the costs of the project before the board meeting.",
+          "zh": "經理要求在董事會之前提交一份專案成本的詳細報告。"
+        },
+        {
+          "en": "The box includes detailed instructions that explain how to put the furniture together in ten easy steps.",
+          "zh": "盒子裡附有詳細說明，解釋如何組裝家具。"
+        },
+        {
+          "en": "The architect showed the client a detailed plan of the new building, including every room.",
+          "zh": "建築師給客戶看新大樓的詳細規劃，包括每一個房間。"
+        },
+        {
+          "en": "A detailed report about the accident will be sent to all employees by the end of the week.",
+          "zh": "一份關於事故的詳細報告會在週末前寄給所有員工。"
+        }
+      ],
+      "distractors": [
+        "derailed",
+        "detained",
+        "retailed"
+      ],
+      "note": "語塊：detailed information（詳細資訊）、detailed report（詳細報告）、detailed instructions（詳細說明）。detailed 是「很詳細的」；detail 是名詞「細節」；brief 是「簡短的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lawyer",
+      "word": "lawyer",
+      "pos": "名詞",
+      "meaning": "律師",
+      "sentences": [
+        {
+          "en": "Before signing the contract, it is a good idea to consult a lawyer who understands the industry.",
+          "zh": "簽合約之前，最好諮詢一位了解這個產業的律師。"
+        },
+        {
+          "en": "The company decided to hire a lawyer to help with the dispute over the land near the river.",
+          "zh": "公司決定請律師處理河邊土地的糾紛。"
+        },
+        {
+          "en": "Ms. Ahmed works as a corporate lawyer and helps large companies with mergers and contracts.",
+          "zh": "Ahmed 小姐是一位企業律師，協助公司處理合併和合約。"
+        },
+        {
+          "en": "The lawyer explained each part of the agreement to the clients before they signed it.",
+          "zh": "律師在客戶簽約前向他們說明協議的每一部分。"
+        },
+        {
+          "en": "If you have questions about the new law, you should consult a lawyer as soon as possible.",
+          "zh": "如果你對新法律有疑問，應該盡快諮詢律師。"
+        }
+      ],
+      "distractors": [
+        "layer",
+        "lower",
+        "liar"
+      ],
+      "note": "語塊：hire a lawyer（請律師）、consult a lawyer（諮詢律師）、corporate lawyer（企業律師）。lawyer 是「律師」；attorney 是美式說法；legal 是形容詞「法律的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legal",
+      "word": "legal",
+      "pos": "形容詞",
+      "meaning": "法律的；合法的",
+      "sentences": [
+        {
+          "en": "Please contact the legal department before you sign any contract with a new supplier or client.",
+          "zh": "和新供應商簽任何合約之前，請先聯絡法務部。"
+        },
+        {
+          "en": "Small businesses can receive free legal advice from the city's business center every Tuesday afternoon.",
+          "zh": "小企業每週二可以在市政府的商業中心獲得免費法律建議。"
+        },
+        {
+          "en": "Wearing a seat belt is a legal requirement for all passengers in the car, including those in the back.",
+          "zh": "車上所有乘客繫安全帶是法律規定，包括後座乘客。"
+        },
+        {
+          "en": "The company hired an outside firm to provide legal advice about the merger with its competitor.",
+          "zh": "公司聘請一家外部事務所，就和競爭對手合併一事提供法律建議。"
+        },
+        {
+          "en": "Before you open a restaurant, make sure you understand every legal requirement for food safety.",
+          "zh": "開餐廳之前，要確認你了解食品安全的每一項法律規定。"
+        }
+      ],
+      "distractors": [
+        "regal",
+        "loyal",
+        "legible"
+      ],
+      "note": "語塊：legal advice（法律建議）、legal department（法務部）、legal requirement（法律規定）。legal 是「和法律有關的、合法的」；illegal 是「違法的」；legally 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remind",
+      "word": "remind",
+      "pos": "動詞",
+      "meaning": "提醒",
+      "sentences": [
+        {
+          "en": "Please remind the staff to turn off the lights and lock the doors before they leave the office.",
+          "zh": "請提醒員工離開辦公室前關燈鎖門。"
+        },
+        {
+          "en": "The old photos in the hotel lobby remind guests of what the city looked like one hundred years ago.",
+          "zh": "飯店大廳的老照片讓客人想起這座城市一百年前的樣子。"
+        },
+        {
+          "en": "I would like to remind everyone that the meeting has been moved to Thursday at ten o'clock.",
+          "zh": "我想提醒大家，會議改到週四十點了。"
+        },
+        {
+          "en": "The app will remind users to take a break after they have been working for two hours.",
+          "zh": "這個 App 會在使用者工作兩小時後提醒他們休息。"
+        },
+        {
+          "en": "The manager sent an email to remind employees that they must submit their reports by Friday.",
+          "zh": "經理寄電子郵件提醒員工必須在週五前交報告。"
+        }
+      ],
+      "distractors": [
+        "remain",
+        "remand",
+        "remit"
+      ],
+      "note": "語塊：remind sb to（提醒某人做……）、remind sb of（讓某人想起）、remind sb that（提醒某人……）。remind sb to do 是「提醒某人去做」；remind sb of sth 是「讓某人想起某事」；reminder 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-determined",
+      "word": "determined",
+      "pos": "形容詞",
+      "meaning": "下定決心的；堅決的",
+      "sentences": [
+        {
+          "en": "The new manager is determined to make the store the most successful in the region.",
+          "zh": "新經理決心要讓那家店成為地區最成功的門市。"
+        },
+        {
+          "en": "Thanks to a determined effort by the whole team, the project was finished two weeks early.",
+          "zh": "多虧全體團隊堅決的努力，專案提前兩週完成。"
+        },
+        {
+          "en": "Ms. Ruiz was determined to pass the accounting exam, so she studied every evening for six months.",
+          "zh": "Ruiz 小姐決心要通過會計考試，所以六個月來每天晚上都在讀書。"
+        },
+        {
+          "en": "The city is determined to reduce air pollution by encouraging people to ride bicycles to work.",
+          "zh": "市政府決心藉由鼓勵民眾騎腳踏車上班來減少空氣污染。"
+        },
+        {
+          "en": "The company made a determined effort to improve customer service after receiving many complaints last year.",
+          "zh": "公司接到很多投訴後，下定決心努力改善客服。"
+        }
+      ],
+      "distractors": [
+        "determinate",
+        "terminated",
+        "detained"
+      ],
+      "note": "語塊：be determined to（決心……）、a determined effort（堅決的努力）。determined 是「意志堅定的」；determine 是動詞「決定」；determination 是名詞「決心」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-organize",
+      "word": "organize",
+      "pos": "動詞",
+      "meaning": "籌辦；組織；整理",
+      "sentences": [
+        {
+          "en": "Ms. Kim was asked to organize an event to celebrate the opening of the new office in Seoul.",
+          "zh": "金小姐被要求籌辦一場慶祝首爾新辦公室開幕的活動。"
+        },
+        {
+          "en": "Could you organize a meeting with the clients for next Tuesday afternoon at their office?",
+          "zh": "你可以安排下週二下午在客戶辦公室和他們開會嗎？"
+        },
+        {
+          "en": "The volunteers will organize the donated books by subject before they are given to the library.",
+          "zh": "志工會在把捐贈的書送到圖書館前，先按主題整理好。"
+        },
+        {
+          "en": "It takes a lot of planning to organize a conference where all of the sessions start and end on time.",
+          "zh": "要籌辦一場所有場次都準時開始和結束的研討會，需要很多規劃。"
+        },
+        {
+          "en": "The company hired a professional to organize the annual dinner for more than five hundred guests.",
+          "zh": "公司聘請專業人士籌辦有五百多位賓客的年度晚宴。"
+        }
+      ],
+      "distractors": [
+        "organism",
+        "agonize",
+        "recognize"
+      ],
+      "note": "語塊：organize an event（籌辦活動）、organize a meeting（安排會議）、organize a conference（籌辦研討會）。organize 是「安排、籌劃」；organization 是名詞「組織」；organizer 是「主辦人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-admire",
+      "word": "admire",
+      "pos": "動詞",
+      "meaning": "欽佩；欣賞",
+      "sentences": [
+        {
+          "en": "Many employees admire the CEO for her honesty and her ability to make difficult decisions.",
+          "zh": "很多員工欽佩執行長的誠實和她做艱難決定的能力。"
+        },
+        {
+          "en": "Visitors can admire the view of the mountains from the restaurant on the top floor of the hotel.",
+          "zh": "遊客可以從飯店頂樓的餐廳欣賞山景。"
+        },
+        {
+          "en": "I really admire the way you handled the angry customer during the busy lunch hour today.",
+          "zh": "我真的很佩服你今天在忙碌的午餐時間處理那位生氣顧客的方式。"
+        },
+        {
+          "en": "Tourists stop on the bridge to admire the old buildings along the river, especially at night.",
+          "zh": "遊客停在橋上欣賞河邊的老建築，尤其是晚上。"
+        },
+        {
+          "en": "The young designers admire the famous architect for her creative use of natural light and wood.",
+          "zh": "年輕設計師欽佩那位知名建築師對自然光和木材富有創意的運用。"
+        }
+      ],
+      "distractors": [
+        "admit",
+        "desire",
+        "acquire"
+      ],
+      "note": "語塊：admire sb for（因……欽佩某人）、admire the view（欣賞風景）。admire 是「很佩服、很欣賞」；admiration 是名詞；admirable 是「令人欽佩的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
