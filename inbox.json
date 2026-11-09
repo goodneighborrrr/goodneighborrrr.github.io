@@ -33373,6 +33373,706 @@
       ],
       "note": "語塊：with promptness（迅速地）、promptness in（在……方面的迅速）。promptness 是名詞；prompt 是形容詞「迅速的、準時的」；promptly 是副詞。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-progressive",
+      "word": "progressive",
+      "pos": "形容詞",
+      "meaning": "進步的；漸進的",
+      "sentences": [
+        {
+          "en": "The company is known for its progressive policies, such as flexible hours and long parental leave.",
+          "zh": "那家公司以進步的政策聞名，例如彈性工時和長期育嬰假。"
+        },
+        {
+          "en": "Many young people want to work for a progressive company that cares about the environment.",
+          "zh": "很多年輕人想在一家關心環境、觀念進步的公司工作。"
+        },
+        {
+          "en": "There has been a progressive increase in the number of customers who pay with their phones.",
+          "zh": "用手機付款的顧客人數逐步增加。"
+        },
+        {
+          "en": "The city has introduced several progressive ideas to make public transportation free for students and seniors.",
+          "zh": "市政府推出了幾個進步的構想，讓學生免費搭大眾運輸。"
+        },
+        {
+          "en": "The school's progressive approach to teaching encourages students to solve real problems in small groups.",
+          "zh": "那所學校進步的教學方式鼓勵學生分組解決真實的問題。"
+        }
+      ],
+      "distractors": [
+        "aggressive",
+        "impressive",
+        "possessive"
+      ],
+      "note": "語塊：progressive company（觀念進步的公司）、progressive policy（進步的政策）、progressive increase（逐步增加）。progressive 是「進步、開明的」或「逐步的」；progress 是名詞「進展」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-authorized",
+      "word": "authorized",
+      "pos": "形容詞",
+      "meaning": "經授權的；被批准的",
+      "sentences": [
+        {
+          "en": "Please buy spare parts only from an authorized dealer so that your warranty remains valid.",
+          "zh": "請只向授權經銷商購買備用零件，這樣保固才會有效。"
+        },
+        {
+          "en": "This area of the factory is for authorized personnel only, so visitors must stay in the lobby.",
+          "zh": "工廠這一區只限授權人員進入，所以訪客必須待在大廳。"
+        },
+        {
+          "en": "All payments over one thousand dollars must be authorized by the finance manager in advance.",
+          "zh": "所有超過一千美元的付款都必須事先經財務經理授權。"
+        },
+        {
+          "en": "The authorized dealer offers free maintenance for the first year after you buy a new car.",
+          "zh": "授權經銷商在你買新車後的第一年提供免費保養。"
+        },
+        {
+          "en": "Only authorized personnel may enter the server room, and every visit must be recorded in the logbook.",
+          "zh": "只有授權人員可以進入機房，每次進入都必須登記。"
+        }
+      ],
+      "distractors": [
+        "authored",
+        "organized",
+        "authentic"
+      ],
+      "note": "語塊：authorized dealer（授權經銷商）、authorized personnel（授權人員）、authorized by（經……授權）。authorized 是「有正式許可的」；unauthorized 是「未經授權的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spring-up",
+      "word": "spring up",
+      "pos": "片語動詞",
+      "meaning": "湧現；突然出現",
+      "sentences": [
+        {
+          "en": "Many new coffee shops have started to spring up near the university since the new campus opened.",
+          "zh": "自從新校區啟用後，大學附近開始冒出很多新咖啡店。"
+        },
+        {
+          "en": "Small technology companies continue to spring up all over the city because rent is cheaper here.",
+          "zh": "小型科技公司持續在城市各處冒出來，因為這裡房租比較便宜。"
+        },
+        {
+          "en": "After the new highway was built, hotels and restaurants started to spring up along the road.",
+          "zh": "新公路蓋好後，沿路開始出現飯店和餐廳。"
+        },
+        {
+          "en": "Online stores spring up every day, so it is important to make your business stand out.",
+          "zh": "網路商店每天都在冒出來，所以讓你的生意脫穎而出很重要。"
+        },
+        {
+          "en": "New apartment buildings spring up quickly in areas that are close to subway stations and schools.",
+          "zh": "靠近捷運站的地區很快就會蓋起新的公寓大樓。"
+        }
+      ],
+      "distractors": [
+        "spring for",
+        "bring up",
+        "speak up"
+      ],
+      "note": "語塊：spring up all over（到處冒出來）、start to spring up（開始冒出來）、spring up quickly（迅速出現）。spring up 是「迅速出現、冒出來」；過去式 sprang up；pop up 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-immediacy",
+      "word": "immediacy",
+      "pos": "名詞",
+      "meaning": "即時性；直接性",
+      "sentences": [
+        {
+          "en": "Many people prefer social media for news because of the immediacy of the information it provides.",
+          "zh": "很多人比較喜歡從社群媒體看新聞，因為它提供的資訊很即時。"
+        },
+        {
+          "en": "The immediacy of video calls allows teams in different countries to solve problems quickly and easily.",
+          "zh": "視訊通話的即時性讓不同國家的團隊能快速解決問題。"
+        },
+        {
+          "en": "Live broadcasts are popular with sports fans because of their immediacy and the excitement they create.",
+          "zh": "現場直播很受體育迷歡迎，因為它很即時又刺激。"
+        },
+        {
+          "en": "The immediacy of online shopping means that customers expect their orders to arrive within a day.",
+          "zh": "網路購物的即時性意味著顧客期待訂單在一天內送達。"
+        },
+        {
+          "en": "The report emphasized the immediacy of the problem and asked the board to take action this month.",
+          "zh": "報告強調了問題的急迫性，要求董事會這個月就採取行動。"
+        }
+      ],
+      "distractors": [
+        "intimacy",
+        "legacy",
+        "accuracy"
+      ],
+      "note": "語塊：the immediacy of（……的即時性）。immediacy 是名詞；immediate 是形容詞「立即的」；immediately 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-boost",
+      "word": "boost",
+      "pos": "動詞",
+      "meaning": "提升；促進",
+      "sentences": [
+        {
+          "en": "The company hopes the new advertising campaign will boost sales during the busy holiday season.",
+          "zh": "公司希望新的廣告活動能在節慶期間提升銷售。"
+        },
+        {
+          "en": "The government plans to lower taxes in order to boost the economy after a difficult year.",
+          "zh": "政府計畫減稅，在艱難的一年後振興經濟。"
+        },
+        {
+          "en": "The manager organized a team dinner to boost morale after the busy months of work.",
+          "zh": "經理在忙碌了好幾個月之後安排團隊聚餐，提振士氣。"
+        },
+        {
+          "en": "Free samples can boost sales of a new product because customers like to try things before buying.",
+          "zh": "免費試用品可以提升新產品的銷售，因為顧客喜歡先試再買。"
+        },
+        {
+          "en": "The new airport is expected to boost the economy of the region by attracting more tourists.",
+          "zh": "新機場預計會吸引更多觀光客，振興地區經濟。"
+        }
+      ],
+      "distractors": [
+        "boast",
+        "booth",
+        "roost"
+      ],
+      "note": "語塊：boost sales（提升銷售）、boost the economy（振興經濟）、boost morale（提振士氣）。boost 是「提高、推動」；increase 意思接近；當名詞是「推動力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-contrast",
+      "word": "in contrast",
+      "pos": "其他",
+      "meaning": "相比之下；相反地",
+      "sentences": [
+        {
+          "en": "Sales in Asia increased last year; in contrast, sales in Europe fell by ten percent.",
+          "zh": "去年亞洲的銷售增加了；相比之下，歐洲的銷售下降了一成。"
+        },
+        {
+          "en": "In contrast to the old office, the new one is bright, quiet, and close to the subway station.",
+          "zh": "和舊辦公室不同，新辦公室明亮、安靜，又離捷運站很近。"
+        },
+        {
+          "en": "The first hotel was expensive and noisy; in contrast, the second one was cheap and very comfortable.",
+          "zh": "第一家飯店又貴又吵；相比之下，第二家便宜又非常舒適。"
+        },
+        {
+          "en": "In contrast to many large companies, our firm allows employees to work from home every Friday.",
+          "zh": "和很多大公司不同，我們公司讓員工每週五在家工作。"
+        },
+        {
+          "en": "The weather in the north is cold and wet; in contrast, the south is warm and sunny most of the year.",
+          "zh": "北部天氣又冷又濕；相比之下，南部一年大部分時間都溫暖晴朗。"
+        }
+      ],
+      "distractors": [
+        "in comparison",
+        "in addition",
+        "in conclusion"
+      ],
+      "note": "語塊：in contrast to（和……形成對比）、by contrast（相比之下）。in contrast 放句首表示「相對地」；in contrast to / with + 名詞 是「和……相比」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-try-out",
+      "word": "try out",
+      "pos": "片語動詞",
+      "meaning": "試用；試驗",
+      "sentences": [
+        {
+          "en": "Customers can try out the new coffee machine at the store before they decide to buy it.",
+          "zh": "顧客可以在決定購買之前先在店裡試用新咖啡機。"
+        },
+        {
+          "en": "The company will try out the new software in one department before using it across the whole office.",
+          "zh": "公司會先在一個部門試用新軟體，再推廣到整個辦公室。"
+        },
+        {
+          "en": "Visitors are invited to try out the latest virtual reality games at the technology fair this weekend.",
+          "zh": "這個週末的科技展邀請訪客試玩最新的虛擬實境遊戲。"
+        },
+        {
+          "en": "The restaurant plans to try out several new dishes before adding them to the main menu.",
+          "zh": "那家餐廳打算先試推幾道新菜，再把它們加進主菜單。"
+        },
+        {
+          "en": "Students who want to try out for the school basketball team should attend the practice on Friday.",
+          "zh": "想參加學校籃球隊選拔的學生，應該參加週五的練習。"
+        }
+      ],
+      "distractors": [
+        "try on",
+        "try for",
+        "work out"
+      ],
+      "note": "語塊：try out a new product（試用新產品）、try out for（參加……選拔）。try out 是「試用、測試看看」；try on 是「試穿」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-equality",
+      "word": "equality",
+      "pos": "名詞",
+      "meaning": "平等",
+      "sentences": [
+        {
+          "en": "The company has introduced several new policies to promote gender equality in the workplace this year.",
+          "zh": "公司推出了好幾項新政策，促進職場的性別平等。"
+        },
+        {
+          "en": "Equality of opportunity means that every applicant should be judged only on their skills and experience.",
+          "zh": "機會均等意味著每位應徵者都應該只根據技能和經驗被評斷。"
+        },
+        {
+          "en": "The conference will discuss how businesses can promote equality and support workers from different backgrounds.",
+          "zh": "研討會將討論企業如何促進平等，並支持不同背景的員工。"
+        },
+        {
+          "en": "Many young employees say that gender equality is an important factor when they choose a company.",
+          "zh": "很多年輕員工說，性別平等是他們選擇公司時的重要因素。"
+        },
+        {
+          "en": "The new law was passed to protect equality of opportunity in education for children from poor families.",
+          "zh": "新法律的通過是為了保障貧困家庭孩子受教育的機會均等。"
+        }
+      ],
+      "distractors": [
+        "quality",
+        "equity",
+        "eventuality"
+      ],
+      "note": "語塊：gender equality（性別平等）、equality of opportunity（機會均等）、promote equality（促進平等）。equality 是名詞；equal 是形容詞「平等的」；quality（品質）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-equalize",
+      "word": "equalize",
+      "pos": "動詞",
+      "meaning": "使相等；使平衡",
+      "sentences": [
+        {
+          "en": "The company plans to equalize pay for men and women who do the same job by the end of the year.",
+          "zh": "公司計畫在年底前讓做相同工作的男女薪資平等。"
+        },
+        {
+          "en": "The government introduced new rules to equalize the price of electricity in rural and urban areas.",
+          "zh": "政府推出新規定，讓鄉村和城市地區的電價一致。"
+        },
+        {
+          "en": "The team scored a goal in the last minute to equalize the score and avoid losing the game.",
+          "zh": "球隊在最後一分鐘進球扳平比分，避免輸掉比賽。"
+        },
+        {
+          "en": "The new system will equalize the workload so that no employee has much more work than the others.",
+          "zh": "新系統會平衡工作量，讓沒有員工比其他人多很多工作。"
+        },
+        {
+          "en": "Experts believe that better schools in poor areas could help equalize opportunities for young people.",
+          "zh": "專家認為貧困地區有更好的學校，能幫助讓年輕人的機會更平等。"
+        }
+      ],
+      "distractors": [
+        "equalizer",
+        "equate",
+        "realize"
+      ],
+      "note": "語塊：equalize pay（讓薪資平等）、equalize the score（扳平比分）、equalize the workload（平衡工作量）、equalize the price（讓價格一致）、equalize opportunities（讓機會平等）。equalize 是「讓……變得一樣」；equal 是形容詞；equality 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-comment",
+      "word": "comment",
+      "pos": "名詞",
+      "meaning": "評論；意見",
+      "sentences": [
+        {
+          "en": "Please make a comment on the report if you think any of the figures are not correct.",
+          "zh": "如果你覺得報告中有任何數字不正確，請提出意見。"
+        },
+        {
+          "en": "When the reporter asked about the merger, the spokesperson simply replied with no comment and left the room.",
+          "zh": "記者問到合併時，發言人回答無可奉告。"
+        },
+        {
+          "en": "The manager thanked each employee who left a comment about how to improve the office.",
+          "zh": "經理感謝每一位留下改善辦公室意見的員工。"
+        },
+        {
+          "en": "Customers can leave a comment on our website to tell us what they think about our service.",
+          "zh": "顧客可以在我們網站上留言，告訴我們他們對我們服務的看法。"
+        },
+        {
+          "en": "The director's comment about the budget surprised several people at the meeting on Monday morning.",
+          "zh": "總監對預算的評論讓會議上好幾個人很意外。"
+        }
+      ],
+      "distractors": [
+        "commend",
+        "commit",
+        "cement"
+      ],
+      "note": "語塊：make a comment（發表評論）、no comment（無可奉告）、comments on（對……的意見）。comment 可以當名詞或動詞（comment on）；commentary 是「評論、解說」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-simplicity",
+      "word": "simplicity",
+      "pos": "名詞",
+      "meaning": "簡單；樸素",
+      "sentences": [
+        {
+          "en": "Many customers choose our phone because of the simplicity of its design and its easy menus.",
+          "zh": "很多顧客選擇我們的手機，是因為它設計簡單、選單容易操作。"
+        },
+        {
+          "en": "For simplicity, all prices in the report are shown in US dollars rather than in local currencies.",
+          "zh": "為了簡單起見，報告中所有價格都以美元表示，而不是當地貨幣。"
+        },
+        {
+          "en": "The restaurant is popular because of the simplicity of its menu, which has only ten dishes.",
+          "zh": "那家餐廳很受歡迎，因為它的菜單很簡單，只有十道菜。"
+        },
+        {
+          "en": "The architect is known for the simplicity of her buildings, which use clean lines and natural materials.",
+          "zh": "那位建築師以建築的簡約聞名，運用俐落的線條和天然材料。"
+        },
+        {
+          "en": "The simplicity of the online form means that most customers can complete it in less than five minutes.",
+          "zh": "線上表格很簡單，大部分顧客不到五分鐘就能填完。"
+        }
+      ],
+      "distractors": [
+        "simplify",
+        "sincerity",
+        "publicity"
+      ],
+      "note": "語塊：for simplicity（為了簡單起見）、the simplicity of（……的簡單）。simplicity 是名詞；simple 是形容詞；simplify 是動詞「簡化」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-restructuring",
+      "word": "restructuring",
+      "pos": "名詞",
+      "meaning": "重組；改組",
+      "sentences": [
+        {
+          "en": "The company announced a restructuring plan that will combine the sales and marketing departments next year.",
+          "zh": "公司宣布一項重組計畫，將合併業務部和行銷部。"
+        },
+        {
+          "en": "Several managers lost their positions during the company restructuring that took place in the spring.",
+          "zh": "去年春天公司重組期間，好幾位經理失去了職位。"
+        },
+        {
+          "en": "The bank will undergo restructuring next year in order to reduce costs and improve its online services.",
+          "zh": "那家銀行明年將進行重組，以降低成本並改善線上服務。"
+        },
+        {
+          "en": "Employees were worried about the restructuring, but the CEO promised that no one would lose their job.",
+          "zh": "員工擔心重組，但執行長承諾不會有人失業。"
+        },
+        {
+          "en": "The restructuring plan includes closing ten small branches and opening two large centers in the city.",
+          "zh": "重組計畫包括關閉十家小分行，並在市區開設兩個大型中心。"
+        }
+      ],
+      "distractors": [
+        "reconstruction",
+        "restriction",
+        "restoration"
+      ],
+      "note": "語塊：company restructuring（公司重組）、undergo restructuring（進行重組）、restructuring plan（重組計畫）。restructuring 是「重新調整組織架構」；restructure 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-eager-to",
+      "word": "eager to",
+      "pos": "其他",
+      "meaning": "渴望……；急著……",
+      "sentences": [
+        {
+          "en": "The new employees are eager to learn and have asked many questions during the training sessions.",
+          "zh": "新員工很渴望學習，在訓練課程中問了很多問題。"
+        },
+        {
+          "en": "Investors are eager to see the results of the company's new strategy at the end of the quarter.",
+          "zh": "投資人很想在季末看到公司新策略的成果。"
+        },
+        {
+          "en": "The team was eager to start the project, so they began working on it the day after it was approved.",
+          "zh": "團隊很急著開始專案，所以核准後隔天就開始動工。"
+        },
+        {
+          "en": "Many customers are eager to try the new restaurant, which has received excellent reviews online.",
+          "zh": "很多顧客很想去試那家在網路上獲得極佳評價的新餐廳。"
+        },
+        {
+          "en": "Ms. Ortiz is eager to learn more about marketing, so she signed up for an evening course at the university.",
+          "zh": "Ortiz 小姐很渴望多學行銷，所以報名了大學的夜間課程。"
+        }
+      ],
+      "distractors": [
+        "eager for",
+        "keen on",
+        "anxious about"
+      ],
+      "note": "語塊：be eager to（渴望做……）、eager to learn（渴望學習）。be eager to + 原形動詞；eager 和 keen 意思接近；eagerly 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-real-estate-agent",
+      "word": "real estate agent",
+      "pos": "名詞",
+      "meaning": "房仲；房地產經紀人",
+      "sentences": [
+        {
+          "en": "If you are looking for an apartment, a real estate agent can show you several options in one afternoon.",
+          "zh": "如果你在找公寓，房仲可以在一個下午帶你看好幾個選擇。"
+        },
+        {
+          "en": "Ms. Chen worked as a real estate agent for five years before she opened her own agency.",
+          "zh": "陳小姐當了五年房仲，之後開了自己的仲介公司。"
+        },
+        {
+          "en": "We decided to contact a real estate agent to help us find a larger office near the city center.",
+          "zh": "我們決定聯絡一位房仲，幫我們在市中心附近找更大的辦公室。"
+        },
+        {
+          "en": "The real estate agent said that prices in this neighborhood have risen by twenty percent in two years.",
+          "zh": "房仲說這一帶的房價兩年內漲了兩成。"
+        },
+        {
+          "en": "Before you sign a lease, ask the real estate agent to explain every part of the contract.",
+          "zh": "簽租約之前，請房仲解釋合約的每一個部分。"
+        }
+      ],
+      "distractors": [
+        "travel agent",
+        "estate tax",
+        "insurance agent"
+      ],
+      "note": "語塊：contact a real estate agent（聯絡房仲）、work as a real estate agent（擔任房仲）。real estate 是「房地產」；agent 是「代理人」；realtor 是美式說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scheduled-for",
+      "word": "scheduled for",
+      "pos": "其他",
+      "meaning": "預定於……",
+      "sentences": [
+        {
+          "en": "The meeting with the new clients is scheduled for Thursday afternoon at two o'clock in Room 5.",
+          "zh": "和新客戶的會議預定在週四下午兩點。"
+        },
+        {
+          "en": "The grand opening of the store is scheduled for the first weekend of December, just before the holidays.",
+          "zh": "那家店的盛大開幕預定在十二月的第一個週末。"
+        },
+        {
+          "en": "The repairs to the elevator are scheduled for Saturday morning, when the office will be closed.",
+          "zh": "電梯維修預定在週六早上，那時辦公室不上班。"
+        },
+        {
+          "en": "Your next appointment with the doctor is scheduled for the twentieth of March at ten in the morning.",
+          "zh": "你下次看診預定在三月二十日早上十點。"
+        },
+        {
+          "en": "The product launch was scheduled for June, but it has been postponed until the end of summer.",
+          "zh": "產品上市原本預定在六月，但已經延到夏末。"
+        }
+      ],
+      "distractors": [
+        "schedule to",
+        "designed for",
+        "intended for"
+      ],
+      "note": "語塊：be scheduled for（預定在……）、be scheduled to（預定做……）。be scheduled for + 時間；be scheduled to + 原形動詞；schedule 是「時程表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-extraction",
+      "word": "extraction",
+      "pos": "名詞",
+      "meaning": "提取；開採；拔（牙）",
+      "sentences": [
+        {
+          "en": "The government has introduced strict rules to protect the environment during oil extraction near the coast.",
+          "zh": "政府推出嚴格規定，在海岸附近開採石油時保護環境。"
+        },
+        {
+          "en": "The dentist said that a tooth extraction was necessary because the tooth was badly damaged.",
+          "zh": "牙醫說必須拔牙，因為那顆牙損壞得很嚴重。"
+        },
+        {
+          "en": "The new software makes data extraction from old files much faster and more accurate for our staff.",
+          "zh": "新軟體讓從舊檔案擷取資料變得更快、更準確。"
+        },
+        {
+          "en": "The company uses special machines for the extraction of oil from olives grown on local farms.",
+          "zh": "那家公司用特殊機器，從在地農場種的橄欖中提取油。"
+        },
+        {
+          "en": "Patients should not eat for two hours after a tooth extraction and should rest for the rest of the day.",
+          "zh": "病人拔牙後兩小時內不應進食，當天應該好好休息。"
+        }
+      ],
+      "distractors": [
+        "attraction",
+        "abstraction",
+        "distraction"
+      ],
+      "note": "語塊：oil extraction（石油開採）、tooth extraction（拔牙）、data extraction（資料擷取）。extraction 是名詞；extract 是動詞「提取」；extract 也可以當名詞「萃取物」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rental",
+      "word": "rental",
+      "pos": "名詞",
+      "meaning": "租賃；租金；出租物",
+      "sentences": [
+        {
+          "en": "The car rental office at the airport is open twenty-four hours a day for travelers.",
+          "zh": "機場的租車櫃台二十四小時為旅客開放。"
+        },
+        {
+          "en": "The rental fee for the conference hall includes chairs, tables, a projector, and free internet access.",
+          "zh": "會議廳的租金包含椅子、桌子和投影機。"
+        },
+        {
+          "en": "Please read the rental agreement carefully before you sign it and pay the deposit to the owner.",
+          "zh": "簽約並支付押金之前，請仔細閱讀租約。"
+        },
+        {
+          "en": "Bicycle rental is available at the park entrance, and helmets are provided free of charge.",
+          "zh": "公園入口有腳踏車出租，並免費提供安全帽。"
+        },
+        {
+          "en": "The rental agreement states that tenants must give two months' notice in writing before moving out.",
+          "zh": "租約規定房客搬走前必須提前兩個月通知。"
+        }
+      ],
+      "distractors": [
+        "dental",
+        "mental",
+        "rentable"
+      ],
+      "note": "語塊：car rental（租車）、rental fee（租金）、rental agreement（租約）。rental 是「出租、租金」；rent 可以是名詞「租金」或動詞「租」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deposit",
+      "word": "deposit",
+      "pos": "名詞",
+      "meaning": "押金；訂金；存款",
+      "sentences": [
+        {
+          "en": "Customers must pay a deposit of twenty percent when they order furniture from our store.",
+          "zh": "顧客在我們店訂購家具時必須先付兩成訂金。"
+        },
+        {
+          "en": "The landlord will return the security deposit if the apartment is clean and undamaged when you move out.",
+          "zh": "如果你搬走時公寓乾淨沒有損壞，房東會退還保證金。"
+        },
+        {
+          "en": "You can make a deposit at any of our branches or through the mobile app on your phone.",
+          "zh": "你可以在我們任何一家分行或透過手機 App 存款。"
+        },
+        {
+          "en": "The hotel requires a deposit for the first night when you make a reservation online.",
+          "zh": "在網路上訂房時，飯店要求先付第一晚的訂金。"
+        },
+        {
+          "en": "Please pay a deposit by Friday to confirm your place in the cooking class next month.",
+          "zh": "請在週五前付訂金，確認你下個月烹飪課的名額。"
+        }
+      ],
+      "distractors": [
+        "depot",
+        "despot",
+        "composite"
+      ],
+      "note": "語塊：pay a deposit（付押金）、security deposit（保證金）、make a deposit（存款）。deposit 可以是「押金、訂金」或銀行「存款」；當動詞是「存入」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-landlord",
+      "word": "landlord",
+      "pos": "名詞",
+      "meaning": "房東",
+      "sentences": [
+        {
+          "en": "If anything in the apartment is broken, please contact the landlord as soon as possible.",
+          "zh": "如果公寓裡有任何東西壞了，請盡快聯絡房東。"
+        },
+        {
+          "en": "The landlord agreed to repair the heating system before the cold weather begins next month.",
+          "zh": "房東同意在下個月天氣變冷之前修好暖氣系統。"
+        },
+        {
+          "en": "The contract explains the responsibilities of the landlord and the tenant in clear and simple language.",
+          "zh": "合約用清楚的文字說明房東和房客的責任。"
+        },
+        {
+          "en": "The landlord increased the rent by five percent, so several tenants decided to move out.",
+          "zh": "房東把房租調漲百分之五，所以有好幾位房客決定搬走。"
+        },
+        {
+          "en": "Our landlord lives in the building and is always happy to help when there is a problem.",
+          "zh": "我們的房東就住在大樓裡，有問題時總是很樂意幫忙。"
+        }
+      ],
+      "distractors": [
+        "landmark",
+        "landowner",
+        "landfill"
+      ],
+      "note": "語塊：contact the landlord（聯絡房東）、landlord and tenant（房東和房客）。landlord 是「把房子租出去的人」；tenant 是「房客」；landlady 是女性房東。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renewal",
+      "word": "renewal",
+      "pos": "名詞",
+      "meaning": "續約；更新；更新改造",
+      "sentences": [
+        {
+          "en": "The company is discussing the renewal of its contract with the cleaning service for another two years.",
+          "zh": "公司正在討論和清潔公司再續約兩年的事。"
+        },
+        {
+          "en": "Members will receive a reminder about membership renewal by email one month before their membership expires.",
+          "zh": "會員資格到期前一個月，會員會收到續約提醒。"
+        },
+        {
+          "en": "The city's urban renewal project will turn the old factory area into parks, shops, and apartments.",
+          "zh": "城市的都市更新計畫將把舊工廠區變成公園、商店和公寓。"
+        },
+        {
+          "en": "Please submit your passport renewal application at least three months before your planned trip abroad.",
+          "zh": "請在出國前至少三個月提出護照更新申請。"
+        },
+        {
+          "en": "The renewal of the lease will include a small increase in rent starting in January.",
+          "zh": "租約續約將從一月起小幅調漲房租。"
+        }
+      ],
+      "distractors": [
+        "removal",
+        "reversal",
+        "arrival"
+      ],
+      "note": "語塊：contract renewal（續約）、membership renewal（會員續約）、urban renewal（都市更新）。renewal 是名詞；renew 是動詞「續約；更新」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
