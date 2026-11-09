@@ -11078,6 +11078,76 @@
       ],
       "note": "語塊：a chronic ailment（慢性病）、common／minor ailments（常見小病／小毛病）、suffer from an ailment（患有……病痛）。ailment 通常指不太嚴重但讓人不舒服的病痛。比較：disease（疾病，通常比較嚴重）、illness（生病，一般說法）、condition（病況、慢性狀況，比較委婉）。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dispense",
+      "word": "dispense",
+      "pos": "動詞",
+      "meaning": "分發；配（藥）；（機器）提供、吐出",
+      "sentences": [
+        {
+          "en": "At our hospital, only licensed pharmacists are allowed to dispense prescription medicine to patients and their families.",
+          "zh": "在我們醫院，只有持有執照的藥師可以發放處方藥給病患和家屬。"
+        },
+        {
+          "en": "The new vending machine in the lobby can dispense hot and cold drinks as well as healthy snacks.",
+          "zh": "大廳的新販賣機可以提供冷熱飲料和健康零食。"
+        },
+        {
+          "en": "Our customer service staff are trained to dispense helpful advice to customers who have problems with their orders.",
+          "zh": "我們的客服人員受過訓練，能給訂單有問題的顧客提供有用的建議。"
+        },
+        {
+          "en": "The machine at the parking lot entrance will dispense a ticket when you press the green button.",
+          "zh": "按下綠色按鈕時，停車場入口的機器就會吐出一張票。"
+        },
+        {
+          "en": "The charity plans to dispense free meals to elderly residents in the neighborhood every Sunday.",
+          "zh": "慈善機構打算每週日發送免費餐點給社區的年長居民。"
+        }
+      ],
+      "distractors": [
+        "dispose",
+        "disperse",
+        "displace"
+      ],
+      "note": "語塊：dispense medicine（配藥、發藥）、dispense drinks／cash（提供飲料／吐出現金）、dispense advice（給予建議）、dispense with（省去、不需要……）。dispense 是「分發、提供（給需要的人）」，常用在藥局和機器。相關名詞：dispenser（給皂機、飲水機等自動出物的機器），例如 a soap dispenser（給皂機）、a water dispenser（飲水機）。別跟 dispose of（丟棄）、disperse（驅散）搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-relieve",
+      "word": "relieve",
+      "pos": "動詞",
+      "meaning": "減輕；舒緩；紓解",
+      "sentences": [
+        {
+          "en": "The pharmacist recommended a cream that can quickly relieve pain and swelling in the knees.",
+          "zh": "藥師推薦一種乳膏，可以很快舒緩膝蓋的疼痛和腫脹。"
+        },
+        {
+          "en": "Taking a short walk during lunch can help office workers relieve stress and feel more focused in the afternoon.",
+          "zh": "午餐時散步一下，可以幫上班族紓解壓力，下午更專心。"
+        },
+        {
+          "en": "The city plans to build a new bridge to relieve traffic congestion near the train station.",
+          "zh": "市政府打算蓋一座新橋，紓解火車站附近的交通壅塞。"
+        },
+        {
+          "en": "Two new staff members were hired to relieve the pressure on the busy customer service team.",
+          "zh": "公司請了兩位新員工，減輕忙碌的客服團隊的壓力。"
+        },
+        {
+          "en": "Many patients use this medicine to relieve the symptoms of a chronic ailment such as arthritis.",
+          "zh": "很多病患用這種藥來舒緩關節炎之類慢性病的症狀。"
+        }
+      ],
+      "distractors": [
+        "relive",
+        "retrieve",
+        "reveal"
+      ],
+      "note": "語塊：relieve pain（舒緩疼痛）、relieve stress（紓解壓力）、relieve traffic congestion（紓解交通壅塞）、relieve the pressure on（減輕……的壓力）。relieve 是「減輕、舒緩（不舒服或壓力）」。形容詞 relieved（鬆了一口氣的）：I was relieved to hear the news.；名詞 relief（解脫；救濟）。別跟 relive（重新經歷）搞混。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
