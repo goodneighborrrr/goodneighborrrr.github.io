@@ -21158,6 +21158,706 @@
       ],
       "note": "語塊：enforce the rules（執行規定）、enforce the law（執法）、strictly enforce（嚴格執行）。enforce 是「強制執行規定」；reinforce 是「加強」，意思不同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tax-code",
+      "word": "tax code",
+      "pos": "名詞",
+      "meaning": "稅法；稅務法規",
+      "sentences": [
+        {
+          "en": "The government is planning to change the tax code in order to support small and medium-sized businesses.",
+          "zh": "政府正計畫修改稅法，以支持中小企業。"
+        },
+        {
+          "en": "Under the tax code, donations to registered charities can be deducted from your yearly income.",
+          "zh": "根據稅法，捐給登記在案的慈善團體的錢可以從年收入中扣除。"
+        },
+        {
+          "en": "Our accountants follow every change in the tax code so that our clients never pay more than necessary.",
+          "zh": "我們的會計師會追蹤稅法的每一項變動，讓客戶不會多繳稅。"
+        },
+        {
+          "en": "Many business owners find the tax code very complicated and hire professionals to file their taxes.",
+          "zh": "很多老闆覺得稅法非常複雜，所以請專業人士幫他們報稅。"
+        },
+        {
+          "en": "Experts say the new tax code will make it easier for foreign companies to invest in the country.",
+          "zh": "專家說新稅法會讓外國公司更容易到國內投資。"
+        }
+      ],
+      "distractors": [
+        "tax return",
+        "dress code",
+        "zip code"
+      ],
+      "note": "語塊：change the tax code（修改稅法）、under the tax code（根據稅法）。tax code 是「整套稅務法規」；tax policy 是「稅收政策」；tax return 是「報稅單」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-planning",
+      "word": "planning",
+      "pos": "名詞",
+      "meaning": "規劃；計畫",
+      "sentences": [
+        {
+          "en": "Careful planning helped the team finish the large construction project on time and within budget.",
+          "zh": "周詳的規劃讓團隊準時且在預算內完成了這項大型工程。"
+        },
+        {
+          "en": "Ms. Watts runs a small business that specializes in event planning for weddings and company parties.",
+          "zh": "Watts 小姐經營一家專門規劃婚禮和公司派對的小公司。"
+        },
+        {
+          "en": "The new shopping center is still in the planning stage, so construction will not begin until next year.",
+          "zh": "新購物中心還在規劃階段，所以要到明年才會動工。"
+        },
+        {
+          "en": "Good planning is essential when you are organizing a conference with hundreds of guests from abroad.",
+          "zh": "籌辦一場有數百位海外來賓的研討會時，良好的規劃非常重要。"
+        },
+        {
+          "en": "The city's planning department will hold a public meeting to discuss the design of the new park.",
+          "zh": "市政府規劃部門將舉行公聽會，討論新公園的設計。"
+        }
+      ],
+      "distractors": [
+        "planting",
+        "planet",
+        "panning"
+      ],
+      "note": "語塊：careful planning（周詳的規劃）、event planning（活動規劃）、in the planning stage（在規劃階段）。planning 是「規劃的過程」；plan 是「計畫（本身）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pertinent",
+      "word": "pertinent",
+      "pos": "形容詞",
+      "meaning": "相關的；切題的",
+      "sentences": [
+        {
+          "en": "Please include all pertinent information, such as your order number, when you contact customer service.",
+          "zh": "聯絡客服時，請附上所有相關資訊，例如你的訂單編號。"
+        },
+        {
+          "en": "The lawyer asked only questions that were pertinent to the case and avoided personal topics.",
+          "zh": "律師只問了和案件相關的問題，避開了個人話題。"
+        },
+        {
+          "en": "The report contains pertinent information about the market that will help us decide where to expand.",
+          "zh": "報告包含市場的相關資訊，會幫助我們決定要往哪裡擴展。"
+        },
+        {
+          "en": "Comments that are not pertinent to the topic of the meeting should be discussed at another time.",
+          "zh": "和會議主題無關的意見應該另找時間討論。"
+        },
+        {
+          "en": "The manager reviewed all pertinent documents before making a final decision about the new contract.",
+          "zh": "經理在對新合約做最後決定之前，審閱了所有相關文件。"
+        }
+      ],
+      "distractors": [
+        "persistent",
+        "permanent",
+        "impertinent"
+      ],
+      "note": "語塊：pertinent information（相關資訊）、pertinent to（與……相關）。pertinent 和 relevant 意思相同，比較正式；impertinent 卻是「無禮的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conflict-resolution",
+      "word": "conflict resolution",
+      "pos": "名詞",
+      "meaning": "衝突解決",
+      "sentences": [
+        {
+          "en": "Managers should have strong conflict resolution skills so that they can handle disagreements on their teams.",
+          "zh": "經理應該具備很強的衝突解決能力，才能處理團隊中的意見分歧。"
+        },
+        {
+          "en": "The company offers conflict resolution training to help employees communicate better with one another at work.",
+          "zh": "公司提供衝突處理訓練，幫助員工彼此更好地溝通。"
+        },
+        {
+          "en": "Conflict resolution is an important part of the job for anyone who works in customer service.",
+          "zh": "對任何從事客服工作的人來說，解決衝突是工作中很重要的一部分。"
+        },
+        {
+          "en": "The workshop on conflict resolution taught us how to listen carefully and find solutions that everyone accepts.",
+          "zh": "衝突解決工作坊教我們如何仔細聆聽，找到大家都能接受的解決辦法。"
+        },
+        {
+          "en": "Ms. Ahmed was praised for her conflict resolution skills after she helped two departments agree on a plan.",
+          "zh": "Ahmed 小姐幫助兩個部門對一項計畫達成共識後，她解決衝突的能力受到稱讚。"
+        }
+      ],
+      "distractors": [
+        "problem solving",
+        "time management",
+        "customer satisfaction"
+      ],
+      "note": "語塊：conflict resolution skills（解決衝突的能力）、conflict resolution training（衝突處理訓練）。conflict resolution 是處理人際或團隊衝突的方法；resolution 也可以指「決議」或「新年新希望」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-director",
+      "word": "director",
+      "pos": "名詞",
+      "meaning": "主管；總監；導演；董事",
+      "sentences": [
+        {
+          "en": "The marketing director will present the results of the new advertising campaign at Friday's meeting.",
+          "zh": "行銷總監會在週五的會議上報告新廣告活動的成果。"
+        },
+        {
+          "en": "The managing director approved the plan to open three new branches in South America next year.",
+          "zh": "總經理核准了明年在南美洲開設三家新分行的計畫。"
+        },
+        {
+          "en": "Mr. Rossi was promoted to marketing director after working at the company for more than fifteen years.",
+          "zh": "Rossi 先生在公司工作十五年以上後被升為行銷總監。"
+        },
+        {
+          "en": "The film director spent two years making the documentary about small farms in the mountains.",
+          "zh": "那位電影導演花了兩年拍攝關於山區小農場的紀錄片。"
+        },
+        {
+          "en": "Each director is responsible for preparing the budget for his or her department before December.",
+          "zh": "每位主管都要在十二月前準備好自己部門的預算。"
+        }
+      ],
+      "distractors": [
+        "directory",
+        "direction",
+        "directive"
+      ],
+      "note": "語塊：marketing director（行銷總監）、managing director（總經理）、film director（電影導演）。director 可以是公司的「主管、總監」，也可以是電影「導演」；board of directors 是「董事會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-priority",
+      "word": "priority",
+      "pos": "名詞",
+      "meaning": "優先事項；優先權",
+      "sentences": [
+        {
+          "en": "Customer safety is our top priority, so every product is tested carefully before it is sold.",
+          "zh": "顧客安全是我們的首要之務，所以每項產品販售前都經過仔細測試。"
+        },
+        {
+          "en": "The hospital will give priority to patients who need urgent care when the waiting room is full.",
+          "zh": "候診室客滿時，醫院會優先處理需要緊急照護的病人。"
+        },
+        {
+          "en": "Reducing energy costs is a high priority for the company this year because electricity prices have risen.",
+          "zh": "因為電價上漲，降低能源成本是公司今年很重要的事。"
+        },
+        {
+          "en": "Members of our loyalty program will receive priority when booking tickets for the popular concert.",
+          "zh": "我們忠誠計畫的會員在訂購熱門演唱會門票時享有優先權。"
+        },
+        {
+          "en": "Finishing the report for the client is the top priority, so please postpone your other tasks until tomorrow.",
+          "zh": "完成給客戶的報告是首要之務，所以請把你其他的工作延到明天。"
+        }
+      ],
+      "distractors": [
+        "property",
+        "minority",
+        "majority"
+      ],
+      "note": "語塊：top priority（首要之務）、give priority to（優先處理）、a high priority（很重要的事）。priority 是「優先」；prioritize 是動詞「排優先順序」；prior 是形容詞「先前的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inspection",
+      "word": "inspection",
+      "pos": "名詞",
+      "meaning": "檢查；視察",
+      "sentences": [
+        {
+          "en": "The factory will close for one day next week so that officials can carry out a safety inspection.",
+          "zh": "工廠下週會停工一天，讓官員進行安全檢查。"
+        },
+        {
+          "en": "All restaurants must pass an inspection by the health department before they can open to the public.",
+          "zh": "所有餐廳在對外營業前都必須通過衛生局的檢查。"
+        },
+        {
+          "en": "The elevator in our building is checked carefully during a safety inspection every six months.",
+          "zh": "我們大樓的電梯每六個月會在安全檢查時檢查一次。"
+        },
+        {
+          "en": "The inspectors will carry out an inspection of the new bridge before it is opened to traffic.",
+          "zh": "新橋開放通車前，檢查員會對它進行檢查。"
+        },
+        {
+          "en": "The hotel was able to pass an inspection easily because the staff had cleaned every room carefully.",
+          "zh": "飯店輕鬆通過了檢查，因為員工把每個房間都仔細打掃過了。"
+        }
+      ],
+      "distractors": [
+        "inspiration",
+        "instruction",
+        "insertion"
+      ],
+      "note": "語塊：safety inspection（安全檢查）、pass an inspection（通過檢查）、carry out an inspection（進行檢查）。inspection 是名詞；inspect 是動詞；inspector 是「檢查員」；inspiration（靈感）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inefficiency",
+      "word": "inefficiency",
+      "pos": "名詞",
+      "meaning": "效率低下；無效率",
+      "sentences": [
+        {
+          "en": "The consultant was hired to find and reduce inefficiency in the company's ordering and delivery system.",
+          "zh": "顧問受聘找出並減少公司訂購系統中的效率低落問題。"
+        },
+        {
+          "en": "Inefficiency in the warehouse has caused many orders to be shipped much later than promised to customers.",
+          "zh": "倉庫的效率低落導致許多訂單比承諾的時間晚出貨。"
+        },
+        {
+          "en": "The manager believes that too many meetings are a major source of inefficiency in the office.",
+          "zh": "經理認為太多會議是辦公室效率低落的主要原因。"
+        },
+        {
+          "en": "Using old computers leads to inefficiency because employees must wait a long time for programs to open.",
+          "zh": "使用舊電腦會導致效率低落，因為員工必須等很久程式才會打開。"
+        },
+        {
+          "en": "The new software helped reduce inefficiency by automatically sending invoices and reminders to customers each month.",
+          "zh": "新軟體每個月自動寄發票給顧客，幫助減少效率低落。"
+        }
+      ],
+      "distractors": [
+        "insufficiency",
+        "efficiency",
+        "inconsistency"
+      ],
+      "note": "語塊：reduce inefficiency（減少效率低落）、inefficiency in（……方面的低效率）。inefficiency 是名詞；inefficient 是形容詞「沒效率的」；efficiency 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-maximize",
+      "word": "maximize",
+      "pos": "動詞",
+      "meaning": "使最大化",
+      "sentences": [
+        {
+          "en": "The new pricing strategy is designed to maximize profits during the busy holiday shopping season.",
+          "zh": "新的定價策略是為了在忙碌的節慶購物季讓利潤最大化。"
+        },
+        {
+          "en": "The factory changed its work schedule to maximize efficiency and reduce the time machines are not in use.",
+          "zh": "工廠調整工作時程，讓效率最大化，並減少機器閒置的時間。"
+        },
+        {
+          "en": "The designer used tall shelves and folding tables to maximize space in the small office.",
+          "zh": "設計師用高架子和折疊桌來充分利用小辦公室的空間。"
+        },
+        {
+          "en": "Companies that want to maximize profits must find ways to reduce costs without lowering quality.",
+          "zh": "想讓利潤最大化的公司必須找到在不降低品質的情況下降低成本的方法。"
+        },
+        {
+          "en": "To maximize space in the warehouse, boxes should be stacked carefully according to their size.",
+          "zh": "為了充分利用倉庫空間，箱子應該按大小仔細堆疊。"
+        }
+      ],
+      "distractors": [
+        "minimize",
+        "memorize",
+        "mobilize"
+      ],
+      "note": "語塊：maximize profits（使利潤最大化）、maximize efficiency（提高效率到最大）、maximize space（充分利用空間）。maximize 是「讓……最大」；minimize 是「讓……最小」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advisory",
+      "word": "advisory",
+      "pos": "形容詞",
+      "meaning": "諮詢的；顧問的",
+      "sentences": [
+        {
+          "en": "Dr. Kim was invited to join the advisory board of a company that develops medical equipment.",
+          "zh": "金博士受邀加入一家開發醫療設備公司的顧問委員會。"
+        },
+        {
+          "en": "The advisory committee will review the proposal and make recommendations to the city council next month.",
+          "zh": "諮詢委員會將審查提案，並向市議會提出建議。"
+        },
+        {
+          "en": "The government issued a travel advisory warning visitors to avoid the coast during the typhoon.",
+          "zh": "政府發布旅遊警示，提醒遊客颱風期間避開海岸地區。"
+        },
+        {
+          "en": "Members of the advisory board meet four times a year to discuss the company's long-term plans.",
+          "zh": "顧問委員會的成員一年開會四次，討論公司的長期計畫。"
+        },
+        {
+          "en": "The school formed an advisory committee of parents and teachers to improve its after-school programs.",
+          "zh": "學校成立了一個由家長和老師組成的諮詢委員會，改善課後課程。"
+        }
+      ],
+      "distractors": [
+        "adversary",
+        "advisable",
+        "adversity"
+      ],
+      "note": "語塊：advisory board（顧問委員會）、advisory committee（諮詢委員會）、travel advisory（旅遊警示）。advisory 是形容詞「諮詢的」，也可當名詞「警示、公告」；adviser / advisor 是「顧問（人）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entrant",
+      "word": "entrant",
+      "pos": "名詞",
+      "meaning": "參賽者；新進入者",
+      "sentences": [
+        {
+          "en": "Each entrant in the photography contest may submit up to three pictures of the city.",
+          "zh": "攝影比賽的每位參賽者最多可以提交三張城市的照片。"
+        },
+        {
+          "en": "The new entrant to the smartphone market is offering high-quality phones at very low prices.",
+          "zh": "那個手機市場的新進者以非常低的價格提供高品質手機。"
+        },
+        {
+          "en": "Every contest entrant will receive a free ticket to the awards ceremony and dinner in December.",
+          "zh": "每位參賽者都會獲得一張十二月頒獎典禮的免費門票。"
+        },
+        {
+          "en": "Large companies often lower their prices when a new entrant tries to take a share of the market.",
+          "zh": "當有新進者想搶佔市場時，大公司常常會降價。"
+        },
+        {
+          "en": "The judges will choose one entrant from each category to compete in the national final next spring.",
+          "zh": "評審會從每個類別選出一位參賽者，參加明年春天的全國決賽。"
+        }
+      ],
+      "distractors": [
+        "entrance",
+        "tenant",
+        "merchant"
+      ],
+      "note": "語塊：contest entrant（參賽者）、new entrant（新進者）、each entrant（每位參賽者）。entrant 是「參加比賽或進入市場的人／公司」；entrance 是「入口」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-personal",
+      "word": "personal",
+      "pos": "形容詞",
+      "meaning": "個人的；私人的",
+      "sentences": [
+        {
+          "en": "We will never share your personal information with other companies or individuals without your written permission.",
+          "zh": "未經你的同意，我們絕不會把你的個人資料提供給其他公司。"
+        },
+        {
+          "en": "Please take all of your personal belongings with you when you leave the train at the final station.",
+          "zh": "在終點站下車時，請帶好所有隨身物品。"
+        },
+        {
+          "en": "Company laptops are intended for work and should not be used for personal use during office hours.",
+          "zh": "公司的筆電是工作用的，上班時間不應該拿來做個人用途。"
+        },
+        {
+          "en": "Visitors may leave their personal belongings in the lockers near the entrance of the museum.",
+          "zh": "參觀者可以把隨身物品放在博物館入口附近的置物櫃。"
+        },
+        {
+          "en": "Employees can update their personal information, such as their home address and phone number, online at any time.",
+          "zh": "員工可以在網路上更新個人資料，例如地址和電話號碼。"
+        }
+      ],
+      "distractors": [
+        "personnel",
+        "personable",
+        "professional"
+      ],
+      "note": "語塊：personal information（個人資料）、personal belongings（隨身物品）、personal use（個人用途）。personal 是「個人的」；personnel（人員；人事）只差一點拼法，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disciplinary-action",
+      "word": "disciplinary action",
+      "pos": "名詞",
+      "meaning": "懲處；紀律處分",
+      "sentences": [
+        {
+          "en": "Employees who share confidential documents with outsiders may face serious disciplinary action from the company.",
+          "zh": "把機密文件分享給外人的員工可能會面臨公司的懲處。"
+        },
+        {
+          "en": "The manager will take disciplinary action against any staff member who repeatedly arrives late for work.",
+          "zh": "經理會對任何一再遲到的員工採取懲處。"
+        },
+        {
+          "en": "Before taking disciplinary action, the company will investigate the complaint and speak with everyone involved carefully and fairly.",
+          "zh": "在採取懲處之前，公司會仔細且公平地調查投訴。"
+        },
+        {
+          "en": "Workers who ignore safety rules in the factory will face disciplinary action, including possible dismissal.",
+          "zh": "在工廠忽視安全規定的工人會面臨懲處，可能包括解僱。"
+        },
+        {
+          "en": "The code of conduct explains when disciplinary action may be taken and how employees can appeal.",
+          "zh": "行為準則說明了什麼時候可能會懲處，以及員工可以怎麼申訴。"
+        }
+      ],
+      "distractors": [
+        "legal action",
+        "corrective action",
+        "direct action"
+      ],
+      "note": "語塊：face disciplinary action（面臨懲處）、take disciplinary action（採取懲處）。disciplinary 是「紀律的、懲戒的」；discipline 是「紀律；懲戒」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recyclable",
+      "word": "recyclable",
+      "pos": "形容詞",
+      "meaning": "可回收的",
+      "sentences": [
+        {
+          "en": "All of our coffee cups are made from recyclable materials and can be placed in the blue bins.",
+          "zh": "我們所有的咖啡杯都是用可回收材料做的，可以丟進藍色回收桶。"
+        },
+        {
+          "en": "The company switched to recyclable packaging to reduce the amount of plastic it sends to landfills.",
+          "zh": "公司改用可回收包裝，減少送到垃圾掩埋場的塑膠量。"
+        },
+        {
+          "en": "Our new water bottles are fully recyclable, so customers can return them to any of our stores.",
+          "zh": "我們的新水瓶完全可回收，顧客可以拿回我們任何一家門市。"
+        },
+        {
+          "en": "Please separate recyclable materials such as paper and glass from regular garbage in the break room.",
+          "zh": "在茶水間，請把紙和玻璃等可回收物和一般垃圾分開。"
+        },
+        {
+          "en": "Customers prefer products with recyclable packaging because they care deeply about protecting the environment for future generations.",
+          "zh": "顧客比較喜歡有可回收包裝的產品，因為他們在乎保護環境。"
+        }
+      ],
+      "distractors": [
+        "reusable",
+        "recycled",
+        "reliable"
+      ],
+      "note": "語塊：recyclable materials（可回收材料）、recyclable packaging（可回收包裝）、fully recyclable（完全可回收）。recyclable 是「可回收的」；recycled 是「回收再製的」；reusable 是「可重複使用的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appropriate",
+      "word": "appropriate",
+      "pos": "形容詞",
+      "meaning": "適當的；合適的",
+      "sentences": [
+        {
+          "en": "Please wear clothing that is appropriate for a business meeting when you visit the client's office.",
+          "zh": "拜訪客戶辦公室時，請穿適合商務會議的服裝。"
+        },
+        {
+          "en": "The manager will take appropriate action once she has reviewed all of the facts about the incident.",
+          "zh": "經理檢視完事件的所有事實後，會採取適當的行動。"
+        },
+        {
+          "en": "This movie is not appropriate for young children because it contains some violent scenes and strong language.",
+          "zh": "這部電影不適合年幼的孩子，因為有一些暴力場面。"
+        },
+        {
+          "en": "If appropriate, we will contact your previous employers to ask about your work experience and skills.",
+          "zh": "如果合適的話，我們會聯絡你以前的雇主，詢問你的工作經驗。"
+        },
+        {
+          "en": "The training course is appropriate for both new employees and staff who want to review the basics.",
+          "zh": "這門訓練課程適合新員工，也適合想複習基礎的員工。"
+        }
+      ],
+      "distractors": [
+        "approximate",
+        "appreciate",
+        "inappropriate"
+      ],
+      "note": "語塊：appropriate for（適合……）、appropriate action（適當的行動）、if appropriate（如果合適的話）。appropriate 是「適當、合適」；proper 意思接近；當動詞（a-PRO-pri-ate）是「撥款；挪用」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-separate",
+      "word": "separate",
+      "pos": "動詞",
+      "meaning": "分開；區分",
+      "sentences": [
+        {
+          "en": "Please separate paper from plastic when you throw away your trash in the office kitchen.",
+          "zh": "在辦公室廚房丟垃圾時，請把紙和塑膠分開。"
+        },
+        {
+          "en": "The trainer will separate the participants into small groups for the afternoon activity in the garden.",
+          "zh": "講師會把學員分成小組進行下午的活動。"
+        },
+        {
+          "en": "It is important to separate personal expenses from business expenses when you prepare your tax return.",
+          "zh": "準備報稅時，把個人開支和營業開支分開很重要。"
+        },
+        {
+          "en": "The factory uses machines to separate damaged products from good ones before they are packed.",
+          "zh": "工廠在包裝前用機器把損壞的產品和良品分開。"
+        },
+        {
+          "en": "The hotel will separate the large conference hall into three smaller rooms for the workshops.",
+          "zh": "飯店會把大型會議廳分成三個小房間舉辦工作坊。"
+        }
+      ],
+      "distractors": [
+        "operate",
+        "desperate",
+        "generate"
+      ],
+      "note": "語塊：separate A from B（把 A 和 B 分開）、separate into（分成）。separate 當動詞是「分開」，當形容詞是「分開的」；注意拼法是 sep-a-rate，不是 seperate。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rinse-out",
+      "word": "rinse out",
+      "pos": "片語動詞",
+      "meaning": "沖洗乾淨",
+      "sentences": [
+        {
+          "en": "Please rinse out the bottles and cans before you put them in the recycling bin.",
+          "zh": "把瓶子和罐子丟進回收桶之前，請先沖洗乾淨。"
+        },
+        {
+          "en": "Employees are asked to rinse out their coffee cups and place them in the dishwasher after use.",
+          "zh": "員工被要求使用後把咖啡杯沖乾淨，放進洗碗機。"
+        },
+        {
+          "en": "If the paint gets in your eyes, rinse out with water immediately and contact a doctor.",
+          "zh": "如果油漆跑進眼睛，請立刻用水沖洗並聯絡醫生。"
+        },
+        {
+          "en": "Before returning the rental equipment, please rinse out the containers so that no food remains inside.",
+          "zh": "歸還租借設備之前，請把容器沖洗乾淨，裡面不要留有食物。"
+        },
+        {
+          "en": "The instructions say to rinse out the coffee machine with clean water once a week to keep it working well.",
+          "zh": "說明書說每週要用清水沖洗咖啡機一次，讓它保持良好運作。"
+        }
+      ],
+      "distractors": [
+        "wipe off",
+        "wash up",
+        "rinse off"
+      ],
+      "note": "語塊：rinse out the container（把容器沖乾淨）、rinse out with water（用水沖洗）。rinse out 是「用清水沖洗（裡面）」；wash 是一般「清洗」；rinse 通常是洗完之後「沖掉」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-harmful",
+      "word": "harmful",
+      "pos": "形容詞",
+      "meaning": "有害的",
+      "sentences": [
+        {
+          "en": "Some cleaning products contain harmful chemicals, so please wear gloves and a mask when you use them.",
+          "zh": "有些清潔用品含有有害化學物質，所以使用時請戴手套。"
+        },
+        {
+          "en": "Spending too many hours in front of a screen can be harmful to your eyes and your sleep.",
+          "zh": "花太多時間盯著螢幕可能對你的眼睛和睡眠有害。"
+        },
+        {
+          "en": "The study examined the harmful effects of air pollution on children who live near busy roads.",
+          "zh": "那項研究探討空氣污染對住在交通繁忙道路旁兒童的有害影響。"
+        },
+        {
+          "en": "The factory stopped using paints that contained harmful chemicals after several workers complained of headaches.",
+          "zh": "工人抱怨頭痛後，工廠停止使用含有有害化學物質的油漆。"
+        },
+        {
+          "en": "Experts warn that plastic waste in the ocean is harmful to fish, birds, and other wildlife.",
+          "zh": "專家警告，海洋中的塑膠垃圾對魚類、鳥類和其他野生動物有害。"
+        }
+      ],
+      "distractors": [
+        "harmless",
+        "helpful",
+        "hopeful"
+      ],
+      "note": "語塊：harmful to（對……有害）、harmful chemicals（有害化學物質）、harmful effects（有害影響）。harmful 是「有害的」；harmless 是「無害的」；harm 是名詞或動詞「傷害」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cooperation",
+      "word": "cooperation",
+      "pos": "名詞",
+      "meaning": "合作；配合",
+      "sentences": [
+        {
+          "en": "The festival was organized in cooperation with local businesses and the city's tourism office this year.",
+          "zh": "這個慶典是和當地商家及市政府觀光處合作舉辦的。"
+        },
+        {
+          "en": "Thank you for your cooperation while we repair the elevators in the building this weekend.",
+          "zh": "這個週末我們維修大樓電梯期間，謝謝你的配合。"
+        },
+        {
+          "en": "Close cooperation between the design and sales teams helped us launch the product ahead of schedule.",
+          "zh": "設計和業務團隊的密切合作，幫助我們提前推出了產品。"
+        },
+        {
+          "en": "The research was carried out in cooperation with three large universities in Europe and Asia.",
+          "zh": "這項研究是和歐洲及亞洲的三所大學合作進行的。"
+        },
+        {
+          "en": "We appreciate your cooperation in keeping the office clean and quiet during regular working hours.",
+          "zh": "感謝你在上班時間配合保持辦公室整潔安靜。"
+        }
+      ],
+      "distractors": [
+        "corporation",
+        "operation",
+        "cooperative"
+      ],
+      "note": "語塊：in cooperation with（與……合作）、thank you for your cooperation（謝謝配合）、close cooperation（密切合作）。cooperation 是名詞；cooperate 是動詞；corporation（公司）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-come-up-with",
+      "word": "come up with",
+      "pos": "片語動詞",
+      "meaning": "想出；提出",
+      "sentences": [
+        {
+          "en": "The marketing team needs to come up with an idea for the new advertising campaign by Friday.",
+          "zh": "行銷團隊需要在週五前想出新廣告活動的點子。"
+        },
+        {
+          "en": "Engineers are working hard to come up with a solution to the problem with the factory's cooling system.",
+          "zh": "工程師正在努力想出解決工廠冷卻系統問題的辦法。"
+        },
+        {
+          "en": "The committee will come up with a plan to reduce traffic in the city center during the festival.",
+          "zh": "委員會會擬出一個在慶典期間減少市中心交通的計畫。"
+        },
+        {
+          "en": "Employees who come up with an idea that saves the company money will receive a special bonus.",
+          "zh": "想出能為公司省錢點子的員工會獲得一筆特別獎金。"
+        },
+        {
+          "en": "It took the designers several weeks to come up with a solution that satisfied both the client and the budget.",
+          "zh": "設計師花了好幾週才想出一個讓客戶和預算都滿意的解決辦法。"
+        }
+      ],
+      "distractors": [
+        "come across",
+        "come down with",
+        "catch up with"
+      ],
+      "note": "語塊：come up with an idea（想出點子）、come up with a solution（想出解決辦法）、come up with a plan（擬出計畫）。come up with 是「想出（點子、辦法）」；think of 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
