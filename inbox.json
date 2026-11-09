@@ -32673,6 +32673,706 @@
       ],
       "note": "語塊：go on strike for（為了……罷工）、threaten to go on strike（威脅要罷工）。go on strike 是「開始罷工」；be on strike 是「正在罷工」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quarter",
+      "word": "quarter",
+      "pos": "名詞",
+      "meaning": "季度；四分之一",
+      "sentences": [
+        {
+          "en": "Sales in the first quarter of the year were higher than expected because of the new product line.",
+          "zh": "因為新產品線，今年第一季的銷售比預期高。"
+        },
+        {
+          "en": "The company will announce its results for the third quarter at a press conference on Thursday.",
+          "zh": "公司將在週四的記者會上公布第三季的成績。"
+        },
+        {
+          "en": "About a quarter of our employees work from home at least two days a week.",
+          "zh": "我們大約四分之一的員工每週至少在家工作兩天。"
+        },
+        {
+          "en": "Profits fell in the last quarter because of rising costs for fuel and raw materials.",
+          "zh": "因為燃料和原料成本上漲，上一季的利潤下滑。"
+        },
+        {
+          "en": "The manager wants each team to set new sales goals before the start of the next quarter.",
+          "zh": "經理希望每個團隊在下一季開始前設定新的業績目標。"
+        }
+      ],
+      "distractors": [
+        "quartet",
+        "quarrel",
+        "charter"
+      ],
+      "note": "語塊：first quarter（第一季）、quarterly report（季報）、a quarter of（四分之一的）。quarter 是「一年的四分之一（季）」，也可以是「四分之一」；quarterly 是「每季的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enthusiastic",
+      "word": "enthusiastic",
+      "pos": "形容詞",
+      "meaning": "熱情的；熱衷的",
+      "sentences": [
+        {
+          "en": "The staff were enthusiastic about the new project and offered many creative ideas at the first meeting.",
+          "zh": "員工對新專案很熱衷，在第一次會議上提出了很多有創意的點子。"
+        },
+        {
+          "en": "The new menu received an enthusiastic response from customers, so the restaurant will keep it all year.",
+          "zh": "新菜單獲得顧客熱烈的反應，所以餐廳會整年都保留它。"
+        },
+        {
+          "en": "We are looking for enthusiastic people who enjoy working with children and have plenty of patience.",
+          "zh": "我們在找喜歡和孩子相處、又很有耐心的熱情人士。"
+        },
+        {
+          "en": "The audience gave the speaker an enthusiastic response at the end of her talk about clean energy.",
+          "zh": "聽眾在講者談潔淨能源的演講結束時給予熱烈的回應。"
+        },
+        {
+          "en": "Many young people are enthusiastic about starting their own businesses after they finish university or college.",
+          "zh": "很多年輕人對大學畢業後自己創業很熱衷。"
+        }
+      ],
+      "distractors": [
+        "energetic",
+        "sympathetic",
+        "emphatic"
+      ],
+      "note": "語塊：enthusiastic about（對……很熱衷）、enthusiastic response（熱烈的反應）。enthusiastic 是「充滿熱情的」；enthusiasm 是名詞「熱情」；eager 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-up-to-date",
+      "word": "up-to-date",
+      "pos": "形容詞",
+      "meaning": "最新的；與時俱進的",
+      "sentences": [
+        {
+          "en": "Please check our website for up-to-date information about flight times, gate changes, and delays at the airport.",
+          "zh": "請上我們網站查看航班時間和延誤的最新資訊。"
+        },
+        {
+          "en": "It is important to keep the customer database up-to-date so that we do not send letters to old addresses.",
+          "zh": "保持顧客資料庫是最新的很重要，這樣才不會把信寄到舊地址。"
+        },
+        {
+          "en": "The library provides up-to-date computers and free internet access for all of its members and visitors.",
+          "zh": "圖書館為所有會員提供最新的電腦和免費網路。"
+        },
+        {
+          "en": "Our sales team uses up-to-date software that shows the status of every order in real time.",
+          "zh": "我們的業務團隊使用最新的軟體，即時顯示每筆訂單的狀態。"
+        },
+        {
+          "en": "Employees must keep their skills up-to-date by attending at least one training course every year.",
+          "zh": "員工必須每年至少參加一門訓練課程，讓技能保持與時俱進。"
+        }
+      ],
+      "distractors": [
+        "out-of-date",
+        "state-of-the-art",
+        "one-of-a-kind"
+      ],
+      "note": "語塊：keep up-to-date（保持最新）、up-to-date information（最新資訊）。up-to-date 放在名詞前要加連字號；out-of-date 是「過時的」；也可以說 keep sb up to date（讓某人掌握最新消息）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-market-value",
+      "word": "market value",
+      "pos": "名詞",
+      "meaning": "市值；市場價值",
+      "sentences": [
+        {
+          "en": "The market value of the company has doubled since it launched its popular mobile app.",
+          "zh": "自從推出熱門 App 後，公司的市值翻了一倍。"
+        },
+        {
+          "en": "Before selling your house, you should ask an expert to estimate its current market value carefully.",
+          "zh": "賣房子之前，你應該請專家估算它的市場價值。"
+        },
+        {
+          "en": "The old painting turned out to have a market value of more than two million dollars.",
+          "zh": "那幅舊畫原來有超過兩百萬美元的市場價值。"
+        },
+        {
+          "en": "Investors were pleased with the increase in market value after the merger was announced last Monday.",
+          "zh": "宣布合併後，投資人對市值的增加感到滿意。"
+        },
+        {
+          "en": "The market value of used cars has risen sharply because new cars are difficult to buy.",
+          "zh": "因為新車很難買到，二手車的市場價值大幅上漲。"
+        }
+      ],
+      "distractors": [
+        "market share",
+        "face value",
+        "market research"
+      ],
+      "note": "語塊：the market value of（……的市值）、increase in market value（市值增加）。market value 是「在市場上能賣多少錢」；market share 是「市佔率」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aggressive",
+      "word": "aggressive",
+      "pos": "形容詞",
+      "meaning": "積極進取的；強勢的；具攻擊性的",
+      "sentences": [
+        {
+          "en": "The company's aggressive marketing campaign helped it become the market leader within only two years.",
+          "zh": "那家公司積極的行銷活動讓它在兩年內成為市場領導者。"
+        },
+        {
+          "en": "The startup has an aggressive growth plan that includes opening fifty new stores next year.",
+          "zh": "那家新創公司有一個快速擴張的計畫，包括明年開五十家新店。"
+        },
+        {
+          "en": "Small shops find it hard to survive when an aggressive competitor offers much lower prices.",
+          "zh": "當強勢的競爭對手提供低很多的價格時，小店很難生存。"
+        },
+        {
+          "en": "Some customers do not like aggressive sales methods, such as frequent phone calls and emails.",
+          "zh": "有些顧客不喜歡強勢的推銷方式，例如頻繁的電話和電子郵件。"
+        },
+        {
+          "en": "The board approved an aggressive plan to reduce costs by thirty percent over the next three years.",
+          "zh": "董事會核准了一個在未來三年削減三成成本的強勢計畫。"
+        }
+      ],
+      "distractors": [
+        "progressive",
+        "impressive",
+        "excessive"
+      ],
+      "note": "語塊：aggressive marketing（積極的行銷）、aggressive growth（快速擴張）、aggressive competitor（強勢的競爭對手）。aggressive 在商業上常指「積極、強勢」；也可以是「有攻擊性的」，看情境。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pull-ahead-of",
+      "word": "pull ahead of",
+      "pos": "片語動詞",
+      "meaning": "超越；領先",
+      "sentences": [
+        {
+          "en": "The company hopes its new electric car will help it pull ahead of competitors in the European market.",
+          "zh": "公司希望新電動車能幫助它在歐洲市場領先競爭對手。"
+        },
+        {
+          "en": "Our online sales began to pull ahead of store sales for the first time last year.",
+          "zh": "去年網路銷售首次開始超越門市銷售。"
+        },
+        {
+          "en": "With the new advertising campaign, the brand was able to pull ahead of its main rival.",
+          "zh": "有了新的廣告活動，那個品牌得以超越主要對手。"
+        },
+        {
+          "en": "The small airline managed to pull ahead of larger companies by offering cheaper tickets and better service.",
+          "zh": "那家小航空公司以更便宜的機票和更好的服務，成功超越了大公司。"
+        },
+        {
+          "en": "If we can reduce delivery times, we will pull ahead of competitors who take a week to ship orders.",
+          "zh": "如果我們能縮短配送時間，就能領先那些要一週才出貨的競爭對手。"
+        }
+      ],
+      "distractors": [
+        "pull out of",
+        "pull back from",
+        "pull up to"
+      ],
+      "note": "語塊：pull ahead of competitors（領先競爭對手）。pull ahead of 是「從後面追上並超過」；get ahead of 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cultural",
+      "word": "cultural",
+      "pos": "形容詞",
+      "meaning": "文化的",
+      "sentences": [
+        {
+          "en": "The city holds many cultural events, such as concerts and art exhibitions, throughout the summer.",
+          "zh": "這座城市整個夏天舉辦很多文化活動，例如音樂會和藝術展。"
+        },
+        {
+          "en": "The new cultural center will include a theater, a library, and space for community classes.",
+          "zh": "新的文化中心將包括劇院、圖書館和社區課程的空間。"
+        },
+        {
+          "en": "Managers who work abroad should learn about cultural differences in order to communicate well with local staff.",
+          "zh": "在國外工作的經理應該了解文化差異，才能好好溝通。"
+        },
+        {
+          "en": "The tourism office organizes cultural events to help visitors learn about local traditions and food.",
+          "zh": "觀光處舉辦文化活動，幫助遊客了解當地傳統。"
+        },
+        {
+          "en": "Training on cultural differences is provided to all employees who will work with clients overseas.",
+          "zh": "所有將和海外客戶合作的員工都會接受文化差異的訓練。"
+        }
+      ],
+      "distractors": [
+        "agricultural",
+        "natural",
+        "structural"
+      ],
+      "note": "語塊：cultural event（文化活動）、cultural center（文化中心）、cultural differences（文化差異）。cultural 是形容詞；culture 是名詞「文化」；agricultural 是「農業的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exposition",
+      "word": "exposition",
+      "pos": "名詞",
+      "meaning": "博覽會；展覽會",
+      "sentences": [
+        {
+          "en": "More than one hundred companies will display their products at the international exposition in Osaka.",
+          "zh": "一百多家公司將在大阪的國際博覽會上展示產品。"
+        },
+        {
+          "en": "The trade exposition attracts buyers from around the world who are looking for new suppliers.",
+          "zh": "那場商展吸引世界各地在找新供應商的買家。"
+        },
+        {
+          "en": "The city plans to hold an exposition next year to show its latest projects in clean energy.",
+          "zh": "市政府計畫明年舉辦一場博覽會，展示最新的潔淨能源計畫。"
+        },
+        {
+          "en": "Our booth at the trade exposition was very busy, and we met many potential customers.",
+          "zh": "我們在商展的攤位非常忙，認識了很多潛在顧客。"
+        },
+        {
+          "en": "Tickets for the international exposition can be purchased online or at the entrance on the day of the event.",
+          "zh": "國際博覽會的門票可以在網路上或活動當天在入口購買。"
+        }
+      ],
+      "distractors": [
+        "exhibition",
+        "expedition",
+        "exposure"
+      ],
+      "note": "語塊：international exposition（國際博覽會）、trade exposition（商展）、hold an exposition（舉辦博覽會）。exposition 是大型的「博覽會」，常縮寫成 expo；exhibition 是「展覽」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sizable",
+      "word": "sizable",
+      "pos": "形容詞",
+      "meaning": "相當大的",
+      "sentences": [
+        {
+          "en": "The company made a sizable donation to the local hospital to help it buy new equipment.",
+          "zh": "公司捐了一筆相當大的款項給當地醫院，幫它買新設備。"
+        },
+        {
+          "en": "There has been a sizable increase in the number of tourists visiting the island since the new airport opened.",
+          "zh": "自從新機場啟用後，造訪那座島的觀光客人數大幅增加。"
+        },
+        {
+          "en": "The restaurant earned a sizable profit in its first year, so the owner plans to open another location.",
+          "zh": "那家餐廳第一年就賺了可觀的利潤，所以老闆打算再開一家分店。"
+        },
+        {
+          "en": "A sizable amount of the budget will be used to train new employees in customer service.",
+          "zh": "預算中相當大的一部分會用來訓練新員工的客服能力。"
+        },
+        {
+          "en": "The new office is sizable, with enough space for two hundred employees and several meeting rooms.",
+          "zh": "新辦公室相當大，有足夠空間容納兩百名員工和好幾間會議室。"
+        }
+      ],
+      "distractors": [
+        "seizable",
+        "visible",
+        "suitable"
+      ],
+      "note": "語塊：sizable amount（相當大的數量）、sizable increase（大幅增加）、sizable profit（可觀的利潤）。sizable 是「相當大」；也可以拼成 sizeable；considerable 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-a-rush",
+      "word": "in a rush",
+      "pos": "其他",
+      "meaning": "匆忙地；趕時間",
+      "sentences": [
+        {
+          "en": "I am in a rush this morning, so could we discuss the report after lunch instead?",
+          "zh": "我今天早上在趕時間，我們可以改在午餐後討論報告嗎？"
+        },
+        {
+          "en": "Ms. Grant left the office in a rush because her flight to Tokyo was leaving in two hours.",
+          "zh": "Grant 小姐匆忙離開辦公室，因為她飛東京的班機兩小時後就要起飛。"
+        },
+        {
+          "en": "Customers who are in a rush can order their coffee through the app and pick it up at the counter.",
+          "zh": "趕時間的顧客可以用 App 點咖啡，再到櫃台取。"
+        },
+        {
+          "en": "The report was written in a rush, so it contained several mistakes that the manager had to correct.",
+          "zh": "那份報告寫得很匆忙，所以有好幾個錯誤需要經理修正。"
+        },
+        {
+          "en": "Please do not make important decisions in a rush, as it is better to take time to think carefully.",
+          "zh": "請不要匆忙做重要決定，花時間仔細思考比較好。"
+        }
+      ],
+      "distractors": [
+        "in a row",
+        "in a sense",
+        "in a way"
+      ],
+      "note": "語塊：be in a rush（在趕時間）、leave in a rush（匆忙離開）。in a rush 和 in a hurry 意思相同；rush 也可以當動詞「衝、趕」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-display",
+      "word": "display",
+      "pos": "名詞",
+      "meaning": "展示；陳列；顯示器",
+      "sentences": [
+        {
+          "en": "The museum's newest paintings are now on display in the gallery on the second floor.",
+          "zh": "博物館最新的畫作現在在二樓展廳展示中。"
+        },
+        {
+          "en": "The store changes its window display every season to show customers the latest fashion and colors.",
+          "zh": "那家店每季更換櫥窗展示，讓顧客看到最新的流行。"
+        },
+        {
+          "en": "The festival ended with a display of fireworks over the river that lasted for twenty minutes.",
+          "zh": "慶典以河上一場持續二十分鐘的煙火秀作結。"
+        },
+        {
+          "en": "Several new models of electric cars will be on display at the trade show next weekend.",
+          "zh": "下週末的商展將展示好幾款新電動車。"
+        },
+        {
+          "en": "The holiday window display attracted many people who stopped to take photos in front of the store.",
+          "zh": "節慶櫥窗展示吸引很多人停在店門口拍照。"
+        }
+      ],
+      "distractors": [
+        "deploy",
+        "dismay",
+        "disperse"
+      ],
+      "note": "語塊：on display（展示中）、window display（櫥窗展示）、display of（……的展示）。display 可以當名詞或動詞「展示」；exhibit 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suddenly",
+      "word": "suddenly",
+      "pos": "副詞",
+      "meaning": "突然地",
+      "sentences": [
+        {
+          "en": "The machine suddenly stopped working, so the technician had to check every part of it.",
+          "zh": "機器突然停止運作，所以技師得檢查它的每個零件。"
+        },
+        {
+          "en": "Sales of umbrellas suddenly increased when it started to rain heavily in the city in the afternoon.",
+          "zh": "下午開始下大雨時，雨傘的銷售突然增加。"
+        },
+        {
+          "en": "The lights in the conference room suddenly went out during the presentation on Thursday morning.",
+          "zh": "週四早上簡報時，會議室的燈突然熄了。"
+        },
+        {
+          "en": "The price of coffee beans suddenly rose last month because of bad weather in South America.",
+          "zh": "因為南美天氣不好，咖啡豆的價格上個月突然上漲。"
+        },
+        {
+          "en": "Our flight was suddenly canceled, so we had to stay at a hotel near the airport for one night.",
+          "zh": "我們的班機突然被取消，所以只好在機場附近的飯店住一晚。"
+        }
+      ],
+      "distractors": [
+        "sadly",
+        "sullenly",
+        "soundly"
+      ],
+      "note": "語塊：suddenly stop（突然停止）、suddenly increase（突然增加）、suddenly rise（突然上漲）、suddenly canceled（突然取消）。suddenly 和 all of a sudden 意思相同；abruptly 帶有「令人措手不及」的感覺。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appointment",
+      "word": "appointment",
+      "pos": "名詞",
+      "meaning": "約會；預約；任命",
+      "sentences": [
+        {
+          "en": "Please call the clinic to make an appointment if you would like to see a doctor this week.",
+          "zh": "如果你這週想看醫生，請打電話到診所預約。"
+        },
+        {
+          "en": "If you need to cancel an appointment, please tell us at least one day in advance.",
+          "zh": "如果你需要取消預約，請至少提前一天通知我們。"
+        },
+        {
+          "en": "The showroom is open by appointment only, so please contact us by phone before you visit.",
+          "zh": "展示間僅限預約參觀，所以來訪前請先聯絡我們。"
+        },
+        {
+          "en": "The board announced the appointment of Ms. Lin as the new director of the marketing department.",
+          "zh": "董事會宣布任命林小姐為行銷部的新總監。"
+        },
+        {
+          "en": "I have an appointment with the dentist at three o'clock, so I will leave the office a little early today.",
+          "zh": "我三點和牙醫有約，所以今天會早一點離開辦公室。"
+        }
+      ],
+      "distractors": [
+        "apartment",
+        "appointee",
+        "disappointment"
+      ],
+      "note": "語塊：make an appointment（預約）、cancel an appointment（取消預約）、by appointment only（僅限預約）。appointment 是「事先約好的見面」，例如看醫生；date 是「約會（情侶）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-investigate",
+      "word": "investigate",
+      "pos": "動詞",
+      "meaning": "調查",
+      "sentences": [
+        {
+          "en": "The airline will investigate the cause of the delay and report its findings next week.",
+          "zh": "航空公司會調查延誤的原因，下週公布調查結果。"
+        },
+        {
+          "en": "The manager promised to investigate the complaint and contact the customer by phone within two days.",
+          "zh": "經理承諾會調查投訴，並在兩天內聯絡顧客。"
+        },
+        {
+          "en": "The police will thoroughly investigate the accident that happened on the busy highway late last night.",
+          "zh": "警方將徹底調查昨晚在公路上發生的事故。"
+        },
+        {
+          "en": "A team of experts was hired to investigate why the new machines use so much electricity.",
+          "zh": "公司聘請一組專家調查新機器為什麼這麼耗電。"
+        },
+        {
+          "en": "We will investigate the problem with your account and send you an email with the results.",
+          "zh": "我們會調查你帳戶的問題，並寄電子郵件告訴你結果。"
+        }
+      ],
+      "distractors": [
+        "instigate",
+        "invigorate",
+        "navigate"
+      ],
+      "note": "語塊：investigate the cause（調查原因）、investigate a complaint（調查投訴）、thoroughly investigate（徹底調查）。investigate 是「深入調查」；investigation 是名詞；look into 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-draft",
+      "word": "draft",
+      "pos": "名詞",
+      "meaning": "草稿；初稿",
+      "sentences": [
+        {
+          "en": "Please send me the first draft of the report by Wednesday so that I have time to review it.",
+          "zh": "請在週三前把報告的初稿寄給我，讓我有時間審閱。"
+        },
+        {
+          "en": "The lawyer is preparing a draft of the contract, which will be sent to both companies next week.",
+          "zh": "律師正在準備合約的草稿，下週會寄給兩家公司。"
+        },
+        {
+          "en": "The final draft of the speech was much shorter than the first one, and it was easier to understand.",
+          "zh": "演講的定稿比初稿短很多，也更容易理解。"
+        },
+        {
+          "en": "After reading the first draft, the editor suggested several changes to make the article clearer.",
+          "zh": "讀完初稿後，編輯建議了幾處修改，讓文章更清楚。"
+        },
+        {
+          "en": "The marketing team will discuss the draft of the new advertisement at Friday's meeting with the client.",
+          "zh": "行銷團隊會在週五的會議上討論新廣告的草稿。"
+        }
+      ],
+      "distractors": [
+        "drift",
+        "graft",
+        "draught"
+      ],
+      "note": "語塊：first draft（初稿）、final draft（定稿）、draft of（……的草稿）。draft 可以當名詞「草稿」或動詞「起草」；drafting 是「起草、擬稿」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-check-into",
+      "word": "check into",
+      "pos": "片語動詞",
+      "meaning": "辦理入住；調查",
+      "sentences": [
+        {
+          "en": "Guests can check into the hotel any time after two o'clock in the afternoon on the day of arrival.",
+          "zh": "客人下午兩點以後隨時都可以入住飯店。"
+        },
+        {
+          "en": "After we check into the hotel, we will have dinner at the restaurant near the beach.",
+          "zh": "我們辦好飯店入住後，會到海邊附近的餐廳吃晚餐。"
+        },
+        {
+          "en": "The manager promised to check into the matter and find out why the package was delivered late.",
+          "zh": "經理承諾會調查這件事，找出包裹為什麼遲送。"
+        },
+        {
+          "en": "Please show your passport and credit card when you check into the hotel at the front desk.",
+          "zh": "在櫃台辦理飯店入住時，請出示護照和信用卡。"
+        },
+        {
+          "en": "The IT department will check into the problem with the printer and let you know when it is fixed.",
+          "zh": "資訊部會調查印表機的問題，修好時會通知你。"
+        }
+      ],
+      "distractors": [
+        "check out of",
+        "check up on",
+        "check over"
+      ],
+      "note": "語塊：check into a hotel（入住飯店）、check into the matter（調查此事）。check into 可以是「辦理入住」或「調查」（= look into）；check in 也是「報到、入住」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-amenity",
+      "word": "amenity",
+      "pos": "名詞",
+      "meaning": "便利設施",
+      "sentences": [
+        {
+          "en": "The most popular amenity at the hotel is the rooftop pool, which offers a view of the entire city.",
+          "zh": "飯店最受歡迎的設施是頂樓泳池，可以看到整座城市的景色。"
+        },
+        {
+          "en": "Each apartment comes with every modern amenity, including a dishwasher, a washing machine, and air conditioning.",
+          "zh": "每間公寓都配備各種現代化設施，包括洗碗機和冷氣。"
+        },
+        {
+          "en": "Free internet access is now considered a basic amenity that every hotel should provide to its guests.",
+          "zh": "免費網路現在被視為每家飯店都應該提供給客人的基本設施。"
+        },
+        {
+          "en": "The new office building has a fitness center, which is an amenity that many employees appreciate.",
+          "zh": "新辦公大樓有健身中心，這是很多員工都很喜歡的設施。"
+        },
+        {
+          "en": "The campsite does not offer any amenity except toilets, so visitors should bring their own food and water.",
+          "zh": "露營區除了廁所之外沒有任何設施，所以遊客應該自備食物和水。"
+        }
+      ],
+      "distractors": [
+        "amenable",
+        "enmity",
+        "identity"
+      ],
+      "note": "語塊：hotel amenity（飯店設施）、modern amenity（現代化設施）、basic amenity（基本設施）。amenity 常用複數 amenities，指「讓生活更方便舒適的設施」，例如泳池、健身房。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-comfortable",
+      "word": "comfortable",
+      "pos": "形容詞",
+      "meaning": "舒適的；自在的",
+      "sentences": [
+        {
+          "en": "The new office chairs are very comfortable and can be adjusted to fit each employee's height.",
+          "zh": "新的辦公椅非常舒適，還可以依每位員工的身高調整。"
+        },
+        {
+          "en": "We want every guest to feel comfortable and welcome as soon as they arrive at the hotel.",
+          "zh": "我們希望每位客人一抵達飯店就覺得自在又受歡迎。"
+        },
+        {
+          "en": "Some employees are not comfortable with speaking in front of large groups, so we offer training.",
+          "zh": "有些員工不太習慣在一大群人面前說話，所以我們提供訓練。"
+        },
+        {
+          "en": "The hotel rooms are small but comfortable, and they are located close to the train station.",
+          "zh": "飯店房間雖小但很舒適，而且離火車站很近。"
+        },
+        {
+          "en": "The airline has installed more comfortable seats in its business class for long international flights.",
+          "zh": "航空公司在商務艙為長途國際航班裝了更舒適的座椅。"
+        }
+      ],
+      "distractors": [
+        "comparable",
+        "convertible",
+        "combustible"
+      ],
+      "note": "語塊：comfortable chair（舒適的椅子）、feel comfortable（覺得自在）、comfortable with（對……感到放心）。comfortable 是「舒服的」；comfort 是名詞「舒適；安慰」；convenient 是「方便的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-power-outage",
+      "word": "power outage",
+      "pos": "名詞",
+      "meaning": "停電",
+      "sentences": [
+        {
+          "en": "The storm caused a power outage that affected thousands of homes in the northern part of the city.",
+          "zh": "暴風雨造成停電，影響了城市北部數千戶家庭。"
+        },
+        {
+          "en": "During the power outage, the hospital used its emergency generators to keep important machines running.",
+          "zh": "停電期間，醫院用緊急發電機讓重要的機器繼續運轉。"
+        },
+        {
+          "en": "Please save your work often, as a power outage could cause you to lose important files.",
+          "zh": "請經常存檔，因為停電可能會讓你遺失重要檔案。"
+        },
+        {
+          "en": "The factory had to stop production for several hours because of a power outage on Monday morning.",
+          "zh": "因為週一早上停電，工廠只好停產好幾個小時。"
+        },
+        {
+          "en": "The electricity company apologized for the power outage and said that it was caused by old equipment.",
+          "zh": "電力公司為停電道歉，並說那是老舊設備造成的。"
+        }
+      ],
+      "distractors": [
+        "power supply",
+        "power plant",
+        "power cord"
+      ],
+      "note": "語塊：cause a power outage（造成停電）、during the power outage（停電期間）。power outage 和 blackout、power failure 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-promptness",
+      "word": "promptness",
+      "pos": "名詞",
+      "meaning": "迅速；及時",
+      "sentences": [
+        {
+          "en": "Customers have praised the promptness of our delivery service, as most orders arrive the next day.",
+          "zh": "顧客稱讚我們配送服務很迅速，大部分訂單隔天就到。"
+        },
+        {
+          "en": "We appreciate your promptness in responding to our questions about the new contract with our company.",
+          "zh": "感謝你迅速回覆我們關於新合約的問題。"
+        },
+        {
+          "en": "The hotel is known for the promptness of its room service, which usually arrives within twenty minutes.",
+          "zh": "那家飯店以客房服務迅速著稱，通常二十分鐘內就送到。"
+        },
+        {
+          "en": "The manager thanked the technician for his promptness in repairing the air conditioner on such a hot day.",
+          "zh": "經理感謝技師在這麼熱的天迅速修好冷氣。"
+        },
+        {
+          "en": "Promptness in answering customer complaints is one of the most important parts of good service.",
+          "zh": "迅速回應顧客投訴是優質服務最重要的一環。"
+        }
+      ],
+      "distractors": [
+        "prompt",
+        "politeness",
+        "fondness"
+      ],
+      "note": "語塊：with promptness（迅速地）、promptness in（在……方面的迅速）。promptness 是名詞；prompt 是形容詞「迅速的、準時的」；promptly 是副詞。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
