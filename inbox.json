@@ -40373,6 +40373,706 @@
       ],
       "note": "語塊：admire sb for（因……欽佩某人）、admire the view（欣賞風景）。admire 是「很佩服、很欣賞」；admiration 是名詞；admirable 是「令人欽佩的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-linguistics",
+      "word": "linguistics",
+      "pos": "名詞",
+      "meaning": "語言學",
+      "sentences": [
+        {
+          "en": "Ms. Park studied linguistics at university and now works as a translator for an international company.",
+          "zh": "朴小姐大學讀語言學，現在在一家國際公司擔任翻譯。"
+        },
+        {
+          "en": "The professor of applied linguistics will give a talk on how children learn a second language.",
+          "zh": "應用語言學教授將演講談孩子如何學習第二語言。"
+        },
+        {
+          "en": "Students who study linguistics learn about the history and structure of many different languages around the world.",
+          "zh": "讀語言學的學生學習很多不同語言的歷史和結構。"
+        },
+        {
+          "en": "Her background in linguistics helped her design an app that teaches English to young learners.",
+          "zh": "她的語言學背景幫助她設計了一款教小朋友英文的 App。"
+        },
+        {
+          "en": "The university offers a master's degree in applied linguistics for people who want to teach languages.",
+          "zh": "那所大學為想教語言的人開設應用語言學碩士學位。"
+        }
+      ],
+      "distractors": [
+        "logistics",
+        "statistics",
+        "physics"
+      ],
+      "note": "語塊：study linguistics（研讀語言學）、applied linguistics（應用語言學）。linguistics 是學科名稱，結尾有 s 但當單數用；linguist 是「語言學家；通曉多種語言的人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inadvertently",
+      "word": "inadvertently",
+      "pos": "副詞",
+      "meaning": "不小心地；無意中",
+      "sentences": [
+        {
+          "en": "I inadvertently deleted the file, but the IT department was able to restore it from the backup.",
+          "zh": "我不小心刪了檔案，但資訊部從備份中救了回來。"
+        },
+        {
+          "en": "The assistant inadvertently sent the email to the wrong client, so she called him to apologize.",
+          "zh": "助理不小心把郵件寄錯客戶，所以打電話向他道歉。"
+        },
+        {
+          "en": "The company inadvertently printed the wrong price on the brochure and had to correct it later.",
+          "zh": "公司不小心在小冊子上印錯價格，後來只好更正。"
+        },
+        {
+          "en": "If you inadvertently share confidential information with others, please report it to your manager immediately.",
+          "zh": "如果你無意中把機密資訊分享給別人，請立刻向你的經理報告。"
+        },
+        {
+          "en": "The driver inadvertently left the package at the wrong address, but it was found the next day.",
+          "zh": "司機不小心把包裹放錯地址，但隔天就找到了。"
+        }
+      ],
+      "distractors": [
+        "intentionally",
+        "indefinitely",
+        "independently"
+      ],
+      "note": "語塊：inadvertently deleted（不小心刪除了）、inadvertently sent（誤寄了）、inadvertently printed（不小心印了）、inadvertently left（不小心留在）。inadvertently 是「不是故意的」；accidentally 意思接近；intentionally 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depending-on",
+      "word": "depending on",
+      "pos": "介系詞",
+      "meaning": "取決於；視……而定",
+      "sentences": [
+        {
+          "en": "The tour may be canceled depending on the weather, so please check our website on the morning of the trip.",
+          "zh": "行程可能視天氣取消，所以請在出發當天早上查看我們網站。"
+        },
+        {
+          "en": "The price of shipping will change depending on the size and weight of your package.",
+          "zh": "運費會依包裹的大小和重量而有所不同。"
+        },
+        {
+          "en": "Depending on the number of guests, the dinner will be held in the small room or the main hall.",
+          "zh": "視客人數量而定，晚宴會在小廳或大廳舉行。"
+        },
+        {
+          "en": "Salaries for the position will range from forty to fifty thousand dollars depending on experience.",
+          "zh": "這個職位的薪水視經驗而定，介於四萬到五萬美元之間。"
+        },
+        {
+          "en": "The trip from the airport takes between thirty and sixty minutes depending on the traffic.",
+          "zh": "從機場出發的車程視交通狀況需要三十到六十分鐘。"
+        }
+      ],
+      "distractors": [
+        "depend upon",
+        "based on",
+        "according to"
+      ],
+      "note": "語塊：depending on the weather（視天氣而定）、depending on the size（依大小而定）、depending on experience（視經驗而定）、depending on the traffic（視交通狀況而定）、depending on the number of（視……的數量而定）。depending on 後面接名詞，意思是「根據……而不同」；depend on 是動詞片語。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-foreman",
+      "word": "foreman",
+      "pos": "名詞",
+      "meaning": "工頭；領班",
+      "sentences": [
+        {
+          "en": "The foreman checks the work of every builder on the construction site before the end of each day.",
+          "zh": "領班每天收工前都會檢查工地每位工人的工作。"
+        },
+        {
+          "en": "Mr. Diaz worked as a construction foreman for ten years before he started his own building company.",
+          "zh": "Diaz 先生當了十年工地領班，之後自己開了營造公司。"
+        },
+        {
+          "en": "The factory foreman is responsible for making sure that workers follow all of the safety rules.",
+          "zh": "工廠領班負責確保工人遵守所有安全規定。"
+        },
+        {
+          "en": "If you have any questions about the job, please speak to the foreman at the entrance of the site.",
+          "zh": "如果你對工作有任何問題，請找工地入口的領班。"
+        },
+        {
+          "en": "The foreman told the workers to stop working because heavy rain was expected in the afternoon.",
+          "zh": "因為下午預計會下大雨，領班要工人停工。"
+        }
+      ],
+      "distractors": [
+        "foremost",
+        "freeman",
+        "fireman"
+      ],
+      "note": "語塊：construction foreman（工地領班）、factory foreman（工廠領班）。foreman 是「帶領工人的領班」；supervisor 意思接近；也可說 forewoman 或 supervisor。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-steel",
+      "word": "steel",
+      "pos": "名詞",
+      "meaning": "鋼；鋼鐵",
+      "sentences": [
+        {
+          "en": "The bridge is made of steel and concrete, so it can carry heavy trucks and buses safely.",
+          "zh": "那座橋是用鋼和混凝土建造的，所以可以安全承載重型卡車。"
+        },
+        {
+          "en": "The kitchen is equipped with stainless steel appliances that are easy to clean and very durable.",
+          "zh": "廚房配備容易清潔的不鏽鋼家電。"
+        },
+        {
+          "en": "The steel industry was once the largest employer in the city, but many factories have closed.",
+          "zh": "鋼鐵業曾經是城裡最大的雇主，但很多工廠已經關閉了。"
+        },
+        {
+          "en": "Rising prices for steel have increased the cost of building new apartments and offices in the city.",
+          "zh": "鋼材價格上漲，增加了興建新公寓和辦公室的成本。"
+        },
+        {
+          "en": "Steel production in the region has fallen because of lower demand from car manufacturers in Asia.",
+          "zh": "因為汽車製造商的需求降低，該地區的鋼鐵生產下滑。"
+        }
+      ],
+      "distractors": [
+        "steal",
+        "steam",
+        "stool"
+      ],
+      "note": "語塊：steel industry（鋼鐵業）、stainless steel（不鏽鋼）、steel production（鋼鐵生產）。steel 是「鋼」；steal（偷）發音一樣，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-admit",
+      "word": "admit",
+      "pos": "動詞",
+      "meaning": "承認；准許進入",
+      "sentences": [
+        {
+          "en": "The manager was willing to admit a mistake and apologized to the team for the confusion.",
+          "zh": "經理願意承認錯誤，並為造成的混亂向團隊道歉。"
+        },
+        {
+          "en": "The company had to admit that the new product was not as popular as it had hoped.",
+          "zh": "公司不得不承認新產品沒有它期望的那麼受歡迎。"
+        },
+        {
+          "en": "The museum will admit children under twelve for free on weekends during the long summer holiday.",
+          "zh": "博物館暑假週末讓十二歲以下兒童免費入場。"
+        },
+        {
+          "en": "The staff will admit only people with a ticket to the concert hall, so please bring yours with you.",
+          "zh": "工作人員只讓持票的人進入音樂廳，所以請帶著你的票。"
+        },
+        {
+          "en": "It is important to admit a mistake quickly so that the problem can be fixed before it gets worse.",
+          "zh": "快速承認錯誤很重要，這樣問題才能在惡化前被解決。"
+        }
+      ],
+      "distractors": [
+        "admire",
+        "omit",
+        "submit"
+      ],
+      "note": "語塊：admit a mistake（承認錯誤）、admit that（承認……）、be admitted to（被准許進入）。admit 有「承認」和「讓進入」兩個意思；admission 是名詞「入場；承認」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-focus-on",
+      "word": "focus on",
+      "pos": "片語動詞",
+      "meaning": "專注於；聚焦在",
+      "sentences": [
+        {
+          "en": "The company plans to focus on online sales and close some of its physical stores next year.",
+          "zh": "公司計畫專注於網路銷售，明年關閉部分實體店。"
+        },
+        {
+          "en": "Our restaurant will focus on quality rather than quantity, so the menu will have fewer dishes.",
+          "zh": "我們餐廳會注重品質而不是數量，所以菜單上的菜會比較少。"
+        },
+        {
+          "en": "Please turn off your phone during the meeting so that everyone can focus on the discussion.",
+          "zh": "開會時請關掉手機，讓大家能專注於討論。"
+        },
+        {
+          "en": "The new manager wants the team to focus on customers and respond to their emails more quickly.",
+          "zh": "新經理希望團隊以顧客為重，更快回覆他們的郵件。"
+        },
+        {
+          "en": "The workshop will focus on simple ways to reduce stress and improve productivity at work.",
+          "zh": "工作坊將聚焦在減輕壓力、提升工作效率的簡單方法。"
+        }
+      ],
+      "distractors": [
+        "focus in",
+        "count on",
+        "rely on"
+      ],
+      "note": "語塊：focus on customers（以顧客為重）、focus on quality（注重品質）、focus on the discussion（專注於討論）、focus on simple ways（聚焦在簡單的方法）。focus on 是「把注意力集中在……」；concentrate on 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trustworthy",
+      "word": "trustworthy",
+      "pos": "形容詞",
+      "meaning": "值得信賴的",
+      "sentences": [
+        {
+          "en": "Customers want to buy from a trustworthy company that keeps its promises and protects their data.",
+          "zh": "顧客想向信守承諾又保護資料、值得信賴的公司購買。"
+        },
+        {
+          "en": "Please make sure that the information in your report comes from a trustworthy source such as a government website.",
+          "zh": "請確認你報告中的資訊來自可信的來源。"
+        },
+        {
+          "en": "We are looking for a trustworthy person who can manage the store when the owner is away.",
+          "zh": "我們在找一位老闆不在時能管理店面、值得信賴的人。"
+        },
+        {
+          "en": "The bank has a reputation for being trustworthy, so many families keep their savings there.",
+          "zh": "那家銀行以值得信賴著稱，所以很多家庭把存款放在那裡。"
+        },
+        {
+          "en": "Online reviews are not always trustworthy, so it is a good idea to ask friends for advice too.",
+          "zh": "網路評論不一定可信，所以也問問朋友的建議是個好主意。"
+        }
+      ],
+      "distractors": [
+        "trusting",
+        "truthful",
+        "praiseworthy"
+      ],
+      "note": "語塊：trustworthy source（可信的來源）、trustworthy person（可靠的人）、trustworthy company（值得信賴的公司）、be trustworthy（值得信任）。trustworthy 是「可以信任的」；reliable 意思接近；trust 是名詞或動詞「信任」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-corporate",
+      "word": "corporate",
+      "pos": "形容詞",
+      "meaning": "公司的；企業的",
+      "sentences": [
+        {
+          "en": "The hotel has several meeting rooms that are often used for corporate events and conferences.",
+          "zh": "飯店有好幾間常用來辦公司活動和研討會的會議室。"
+        },
+        {
+          "en": "Many young workers say that a friendly corporate culture is more important than a high salary.",
+          "zh": "很多年輕員工說友善的企業文化比高薪更重要。"
+        },
+        {
+          "en": "Please send your application to our corporate office in New York rather than to a local store.",
+          "zh": "請把申請寄到我們紐約的公司總部，而不是當地門市。"
+        },
+        {
+          "en": "The new CEO wants to change the corporate culture so that employees feel free to share ideas.",
+          "zh": "新執行長想改變企業文化，讓員工能自在地分享想法。"
+        },
+        {
+          "en": "The restaurant offers special menus for corporate events, such as holiday parties and business lunches.",
+          "zh": "那家餐廳為公司活動提供特別菜單，例如節慶派對和商務午餐。"
+        }
+      ],
+      "distractors": [
+        "cooperate",
+        "corporal",
+        "incorporate"
+      ],
+      "note": "語塊：corporate office（公司總部）、corporate culture（企業文化）、corporate event（公司活動）。corporate 是「公司的」；corporation 是名詞「公司」；cooperate 是「合作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-charge",
+      "word": "charge",
+      "pos": "名詞",
+      "meaning": "費用；收費",
+      "sentences": [
+        {
+          "en": "Delivery is free of charge for all orders over fifty dollars placed on our website.",
+          "zh": "在我們網站上下單超過五十美元，送貨就免費。"
+        },
+        {
+          "en": "A service charge of ten percent will be added to your bill at the end of your meal.",
+          "zh": "用餐結束時，帳單會另加一成服務費。"
+        },
+        {
+          "en": "There is an extra charge for guests who want to check out of the hotel after noon.",
+          "zh": "想在中午之後退房的客人要額外付費。"
+        },
+        {
+          "en": "The museum offers guided tours free of charge every Saturday and Sunday morning at ten o'clock.",
+          "zh": "博物館每週六和週日早上提供免費導覽。"
+        },
+        {
+          "en": "Customers who choose same-day delivery must pay an extra charge of fifteen dollars per order.",
+          "zh": "選擇當日到貨的顧客必須額外支付十五美元。"
+        }
+      ],
+      "distractors": [
+        "change",
+        "chart",
+        "barge"
+      ],
+      "note": "語塊：free of charge（免費）、service charge（服務費）、extra charge（額外費用）。charge 可以當名詞「費用」或動詞「收費；充電」；in charge of 是「負責」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-limit",
+      "word": "limit",
+      "pos": "名詞",
+      "meaning": "限制；上限",
+      "sentences": [
+        {
+          "en": "Drivers must follow the speed limit near the school, especially when children are arriving in the morning.",
+          "zh": "駕駛在學校附近必須遵守速限，尤其是早上孩子到校的時候。"
+        },
+        {
+          "en": "Each speaker has a time limit of fifteen minutes, so please prepare a short presentation.",
+          "zh": "每位講者有十五分鐘的時間限制，所以請準備簡短的簡報。"
+        },
+        {
+          "en": "The store has placed a limit on the number of items that each customer can buy during the sale.",
+          "zh": "那家店對特賣期間每位顧客能買的商品數量設了上限。"
+        },
+        {
+          "en": "There is no limit to the number of times you can use the free shuttle bus during your stay.",
+          "zh": "住宿期間你搭免費接駁車的次數沒有限制。"
+        },
+        {
+          "en": "The new law sets a limit on how much rent landlords can increase each year.",
+          "zh": "新法律對房東每年能調漲多少房租設了上限。"
+        }
+      ],
+      "distractors": [
+        "limp",
+        "lime",
+        "limb"
+      ],
+      "note": "語塊：speed limit（速限）、time limit（時間限制）、a limit on（對……的限制）。limit 可以當名詞或動詞「限制」；limited 是形容詞「有限的」；limitation 是名詞「限制」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-when-it-comes-to",
+      "word": "when it comes to",
+      "pos": "其他",
+      "meaning": "說到……；在……方面",
+      "sentences": [
+        {
+          "en": "When it comes to customer service, our company is one of the best in the industry.",
+          "zh": "說到客服，我們公司是業界最好的之一。"
+        },
+        {
+          "en": "Ms. Park is very careful when it comes to checking the figures in financial reports.",
+          "zh": "說到檢查財報中的數字，朴小姐非常仔細。"
+        },
+        {
+          "en": "When it comes to choosing a hotel, most travelers care about the location, the price, and the reviews.",
+          "zh": "說到選飯店，大部分旅客在意的是地點和價格。"
+        },
+        {
+          "en": "The manager has a lot of experience when it comes to dealing with difficult clients.",
+          "zh": "說到應付難搞的客戶，那位經理經驗豐富。"
+        },
+        {
+          "en": "When it comes to saving money, buying in bulk is one of the easiest things that families can do.",
+          "zh": "說到省錢，大量購買是家庭最容易做到的事之一。"
+        }
+      ],
+      "distractors": [
+        "when it rains",
+        "as it comes",
+        "come to an end"
+      ],
+      "note": "語塊：when it comes to + 名詞／V-ing（說到……）。when it comes to 的 to 是介系詞，後面接名詞或 V-ing；in terms of 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-demanding",
+      "word": "demanding",
+      "pos": "形容詞",
+      "meaning": "要求高的；費力的",
+      "sentences": [
+        {
+          "en": "Working as a nurse is a demanding job that requires long hours and a lot of patience.",
+          "zh": "當護士是一份吃重的工作，需要長時間工作和很大的耐心。"
+        },
+        {
+          "en": "The hotel staff are trained to deal with demanding customers in a calm and polite way.",
+          "zh": "飯店員工受過訓練，以冷靜禮貌的方式應對要求高的顧客。"
+        },
+        {
+          "en": "Construction work is physically demanding, so workers take frequent short breaks during hot summer weather.",
+          "zh": "營造工作體力負擔大，所以天熱時工人會經常休息。"
+        },
+        {
+          "en": "The new position is more demanding than her old one, but it also comes with a higher salary.",
+          "zh": "新職位比她以前的工作更吃重，但薪水也比較高。"
+        },
+        {
+          "en": "Some clients are very demanding and expect replies to their emails within a few minutes.",
+          "zh": "有些客戶要求很高，期待電子郵件幾分鐘內就得到回覆。"
+        }
+      ],
+      "distractors": [
+        "demeaning",
+        "commanding",
+        "defending"
+      ],
+      "note": "語塊：demanding job（吃重的工作）、demanding customer（要求高的顧客）、physically demanding（體力負擔大）。demanding 是「需要很多時間、精力」或「要求很多的」；demand 是動詞或名詞「需求；要求」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occasional",
+      "word": "occasional",
+      "pos": "形容詞",
+      "meaning": "偶爾的；不定期的",
+      "sentences": [
+        {
+          "en": "The weather will be mostly sunny this weekend, with occasional rain in the late afternoon.",
+          "zh": "這個週末天氣大致晴朗，下午偶有陣雨。"
+        },
+        {
+          "en": "Passengers should expect occasional delays on the train line while the tracks are being repaired.",
+          "zh": "鐵軌維修期間，乘客應預期列車偶爾會有延誤。"
+        },
+        {
+          "en": "Ms. Lee works mostly from home but comes to the office on an occasional basis for meetings.",
+          "zh": "李小姐大部分在家工作，但偶爾會到辦公室開會。"
+        },
+        {
+          "en": "The job requires occasional travel to Japan and Korea, so applicants should have a valid passport.",
+          "zh": "這份工作偶爾需要到日本和韓國出差，所以應徵者應持有有效護照。"
+        },
+        {
+          "en": "Apart from an occasional complaint about the noise, customers have been happy with the new café.",
+          "zh": "除了偶爾有人抱怨噪音之外，顧客對新咖啡廳都很滿意。"
+        }
+      ],
+      "distractors": [
+        "occupational",
+        "exceptional",
+        "operational"
+      ],
+      "note": "語塊：occasional delays（偶爾的延誤）、occasional rain（偶有陣雨）、on an occasional basis（偶爾地）。occasional 是「偶爾發生的」；occasionally 是副詞「偶爾」；frequent 是「頻繁的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appointed",
+      "word": "appointed",
+      "pos": "形容詞",
+      "meaning": "被任命的；指定的",
+      "sentences": [
+        {
+          "en": "The newly appointed director will begin her work at the company on the first of next month.",
+          "zh": "新任總監將在下個月一號開始在公司工作。"
+        },
+        {
+          "en": "Mr. Kim was appointed as head of the marketing department after the previous manager retired.",
+          "zh": "前任經理退休後，金先生被任命為行銷部主管。"
+        },
+        {
+          "en": "Please arrive at the appointed time so that the interview can start without any delay.",
+          "zh": "請在約定時間抵達，讓面試可以準時開始。"
+        },
+        {
+          "en": "The newly appointed CEO plans to visit every branch of the bank during her first year.",
+          "zh": "新任執行長計畫在第一年走訪銀行的每一家分行。"
+        },
+        {
+          "en": "Ms. Ahmed was appointed as the company's first female chairperson in its long one-hundred-year history.",
+          "zh": "Ahmed 小姐被任命為公司百年歷史上第一位女性主席。"
+        }
+      ],
+      "distractors": [
+        "anointed",
+        "pointed",
+        "appealed"
+      ],
+      "note": "語塊：be appointed as（被任命為）、newly appointed（新任的）、at the appointed time（在約定時間）。appointed 是「被正式任命的」或「約定好的」；appoint 是動詞；appointment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chairman",
+      "word": "chairman",
+      "pos": "名詞",
+      "meaning": "主席；董事長",
+      "sentences": [
+        {
+          "en": "The chairman of the board will open the annual meeting with a short speech about last year's results.",
+          "zh": "董事長將以一段關於去年成果的簡短演講開啟年度大會。"
+        },
+        {
+          "en": "Mr. Lopez served as chairman of the association for ten years before he retired last spring.",
+          "zh": "Lopez 先生擔任協會主席十年，去年春天退休。"
+        },
+        {
+          "en": "The vice chairman will lead the meeting this week because the head of the board is traveling in Europe.",
+          "zh": "因為董事長這週在歐洲出差，會議將由副主席主持。"
+        },
+        {
+          "en": "The chairman thanked all of the employees for their hard work during a difficult year.",
+          "zh": "董事長感謝所有員工在艱難的一年中辛勤工作。"
+        },
+        {
+          "en": "Reporters asked the chairman several questions about the merger after the press conference on Monday.",
+          "zh": "記者會結束後，記者問了董事長好幾個關於合併的問題。"
+        }
+      ],
+      "distractors": [
+        "chairperson",
+        "chairwoman",
+        "chairlift"
+      ],
+      "note": "語塊：chairman of the board（董事長）、vice chairman（副主席）、the chairman thanked（主席感謝）、asked the chairman（問主席）。chairman 是「主席、董事長」；chairperson 是不分性別的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-after-all",
+      "word": "after all",
+      "pos": "其他",
+      "meaning": "畢竟；終究",
+      "sentences": [
+        {
+          "en": "We should invite Ms. Lee to the meeting; after all, she has the most experience with this client.",
+          "zh": "我們應該邀請李小姐來開會，畢竟她和這位客戶最有經驗。"
+        },
+        {
+          "en": "The concert was canceled because of the storm, but it took place the following week after all.",
+          "zh": "演唱會因為暴風雨取消了，但結果還是在下一週舉行了。"
+        },
+        {
+          "en": "Please be patient with new employees; after all, they have only been working here for a week.",
+          "zh": "請對新員工有耐心，畢竟他們才來這裡工作一週。"
+        },
+        {
+          "en": "The team thought the project would fail, but it was finished on time after all.",
+          "zh": "團隊原本以為專案會失敗，結果還是準時完成了。"
+        },
+        {
+          "en": "It makes sense to buy the more expensive printer; after all, it will last much longer than the cheap one.",
+          "zh": "買比較貴的印表機是合理的，畢竟它會比便宜的那台耐用很多。"
+        }
+      ],
+      "distractors": [
+        "at all",
+        "above all",
+        "first of all"
+      ],
+      "note": "語塊：after all（畢竟；到頭來）。after all 可以表示「畢竟（說明理由）」或「結果還是」；at last 是「終於」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inconvenience",
+      "word": "inconvenience",
+      "pos": "名詞",
+      "meaning": "不便；麻煩",
+      "sentences": [
+        {
+          "en": "We apologize for the inconvenience caused by the elevator repairs in our building this week.",
+          "zh": "我們為這週電梯維修造成的不便致歉。"
+        },
+        {
+          "en": "The road construction may cause inconvenience for drivers, so please use the highway if possible.",
+          "zh": "道路施工可能會為駕駛帶來不便，所以可以的話請走公路。"
+        },
+        {
+          "en": "The airline offered free meals to passengers to make up for the inconvenience of the long delay.",
+          "zh": "航空公司提供乘客免費餐點，彌補長時間延誤造成的不便。"
+        },
+        {
+          "en": "The workers will start early in the morning to minimize inconvenience to the people who live nearby.",
+          "zh": "工人會一大早開始施工，盡量減少對附近居民的不便。"
+        },
+        {
+          "en": "Thank you for your patience, and we are sorry for any inconvenience this change may cause.",
+          "zh": "謝謝您的耐心，對這次變更可能造成的任何不便深感抱歉。"
+        }
+      ],
+      "distractors": [
+        "convenience",
+        "incompetence",
+        "indifference"
+      ],
+      "note": "語塊：cause inconvenience（造成不便）、apologize for the inconvenience（為不便道歉）、minimize inconvenience（減少不便）。inconvenience 是名詞；inconvenient 是形容詞「不方便的」；convenience 是「便利」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-advance",
+      "word": "in advance",
+      "pos": "其他",
+      "meaning": "事先；預先",
+      "sentences": [
+        {
+          "en": "Please book your tickets in advance, as the concert is expected to sell out very quickly.",
+          "zh": "請事先訂票，因為演唱會預計很快就會賣光。"
+        },
+        {
+          "en": "Guests must pay in advance for the first night when they make a reservation online.",
+          "zh": "客人在網路上訂房時必須預先支付第一晚的費用。"
+        },
+        {
+          "en": "If you need to cancel your appointment, please let us know at least two days in advance.",
+          "zh": "如果你需要取消預約，請至少提前兩天告訴我們。"
+        },
+        {
+          "en": "It is a good idea to plan your vacation in advance so that you can find cheaper flights.",
+          "zh": "提早規劃假期是個好主意，這樣才能找到比較便宜的機票。"
+        },
+        {
+          "en": "The speaker sent her slides to the organizers in advance so that they could check them.",
+          "zh": "講者事先把投影片寄給主辦單位，讓他們可以檢查。"
+        }
+      ],
+      "distractors": [
+        "in addition",
+        "in fact",
+        "in time"
+      ],
+      "note": "語塊：book in advance（事先預訂）、pay in advance（預先付款）、two days in advance（提前兩天）。in advance 是「提前」；beforehand 意思接近；advance 是「前進；預付款」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-besides",
+      "word": "besides",
+      "pos": "副詞",
+      "meaning": "此外；而且",
+      "sentences": [
+        {
+          "en": "The hotel is close to the beach; besides, it offers a free breakfast to every guest.",
+          "zh": "那家飯店離海灘很近，而且每位客人都有免費早餐。"
+        },
+        {
+          "en": "I do not have time to attend the meeting today, and besides, I have already read the report.",
+          "zh": "我今天沒時間參加會議，而且我已經看過報告了。"
+        },
+        {
+          "en": "The new phone is cheaper than the old model; besides, its battery lasts much longer.",
+          "zh": "新手機比舊款便宜，而且電池續航更久。"
+        },
+        {
+          "en": "Besides that, the job offers flexible working hours and the option to work from home on Fridays.",
+          "zh": "除此之外，這份工作提供彈性工時，週五也可以選擇在家工作。"
+        },
+        {
+          "en": "The restaurant has excellent food; besides, the staff are friendly and the prices are reasonable.",
+          "zh": "那家餐廳的食物很好，此外，員工很親切，價格也合理。"
+        }
+      ],
+      "distractors": [
+        "beside",
+        "besiege",
+        "bestow"
+      ],
+      "note": "語塊：besides that（除此之外）、and besides（而且）、besides, the staff（而且員工……）。besides 當副詞是「而且、此外」；當介系詞是「除了……之外（還有）」；beside（沒有 s）是「在……旁邊」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
