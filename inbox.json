@@ -12198,6 +12198,671 @@
       ],
       "note": "語塊：make a reservation（預約；訂位）、confirm a reservation（確認預約）、cancel a reservation（取消預約）。reservation 是「訂位、預約」；reserve 是動詞；conservation（保育）長得像，意思不同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spacious",
+      "word": "spacious",
+      "pos": "形容詞",
+      "meaning": "寬敞的",
+      "sentences": [
+        {
+          "en": "Every guest at the resort stays in a spacious room with a private balcony overlooking the ocean.",
+          "zh": "度假村的每位客人都住在有私人陽台、可以看到海景的寬敞房間。"
+        },
+        {
+          "en": "After the merger, the company moved into a spacious office on the twentieth floor of the tower.",
+          "zh": "合併之後，公司搬進大樓二十樓一間寬敞的辦公室。"
+        },
+        {
+          "en": "The minivan has a spacious interior that can comfortably seat seven adults and their luggage.",
+          "zh": "那台休旅車內部空間寬敞，可以舒服地坐七個大人和他們的行李。"
+        },
+        {
+          "en": "The conference hall is spacious enough to hold more than five hundred participants at once.",
+          "zh": "會議廳夠寬敞，一次可以容納五百多位與會者。"
+        },
+        {
+          "en": "Employees enjoy eating lunch in the spacious cafeteria, which was renovated at the beginning of the year.",
+          "zh": "員工很喜歡在今年初整修過的寬敞員工餐廳吃午餐。"
+        }
+      ],
+      "distractors": [
+        "specious",
+        "special",
+        "precious"
+      ],
+      "note": "語塊：spacious room（寬敞的房間）、spacious office（寬敞的辦公室）、spacious interior（寬敞的內部空間）。spacious 是「空間大」；specious（似是而非的）只差一個字母，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lose-weight",
+      "word": "lose weight",
+      "pos": "其他",
+      "meaning": "減重；變瘦",
+      "sentences": [
+        {
+          "en": "The fitness center offers a twelve-week program designed to help members lose weight safely and keep it off.",
+          "zh": "健身中心提供一個為期十二週的課程，幫助會員安全地減重。"
+        },
+        {
+          "en": "Many employees who try to lose weight have joined the walking club that meets every lunch break.",
+          "zh": "很多想減重的員工加入了每天午休時間聚會的健走社。"
+        },
+        {
+          "en": "Our nutrition app helps users lose weight by tracking their meals and suggesting healthy recipes.",
+          "zh": "我們的營養 App 透過記錄餐點和推薦健康食譜來幫助使用者減重。"
+        },
+        {
+          "en": "The doctor advised Mr. Brooks to lose weight and exercise more often to reduce his blood pressure.",
+          "zh": "醫生建議 Brooks 先生減重並多運動，好降低血壓。"
+        },
+        {
+          "en": "Customers who want to lose weight can book a free consultation with one of our personal trainers.",
+          "zh": "想減重的顧客可以和我們的私人教練預約一次免費諮詢。"
+        }
+      ],
+      "distractors": [
+        "gain weight",
+        "lift weights",
+        "lose sleep"
+      ],
+      "note": "語塊：help sb lose weight（幫助某人減重）、try to lose weight（試著減重）。lose weight 是「減重」，相反是 gain weight（增重）；lose 別寫成 loose（鬆的）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-workout",
+      "word": "workout",
+      "pos": "名詞",
+      "meaning": "健身；鍛鍊",
+      "sentences": [
+        {
+          "en": "The gym's new class provides a full-body workout in just thirty minutes during the lunch hour.",
+          "zh": "健身房的新課程在午餐時間只要三十分鐘就能做完全身運動。"
+        },
+        {
+          "en": "Ms. Ortega starts every morning with a daily workout before she drives to the office.",
+          "zh": "Ortega 小姐每天早上開車上班前都會先做運動。"
+        },
+        {
+          "en": "Our trainers can design a workout routine that suits your schedule and your fitness goals.",
+          "zh": "我們的教練可以設計符合你的時間和健身目標的運動計畫。"
+        },
+        {
+          "en": "Members can book a workout session with a personal trainer through the fitness center's mobile app.",
+          "zh": "會員可以透過健身中心的 App 預約一堂私人教練課。"
+        },
+        {
+          "en": "Doctors recommend a short daily workout for office workers who spend most of the day sitting.",
+          "zh": "醫生建議整天大部分時間都坐著的上班族每天做一點運動。"
+        }
+      ],
+      "distractors": [
+        "walkout",
+        "checkout",
+        "layout"
+      ],
+      "note": "語塊：a daily workout（每天的運動）、a full-body workout（全身運動）、workout routine（健身習慣）。workout 是名詞「一次運動」；work out 兩個字是動詞片語「運動；解決」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-well-known",
+      "word": "well-known",
+      "pos": "形容詞",
+      "meaning": "有名的；眾所周知的",
+      "sentences": [
+        {
+          "en": "The company signed a contract with a well-known brand of sportswear to sponsor the marathon.",
+          "zh": "公司和一個知名運動服品牌簽約，贊助這場馬拉松。"
+        },
+        {
+          "en": "The keynote speech will be given by a well-known author who writes about leadership and management.",
+          "zh": "主題演講將由一位寫領導與管理的知名作家主講。"
+        },
+        {
+          "en": "The café is well-known for its homemade pastries, so it is usually crowded on weekend mornings.",
+          "zh": "那家咖啡廳以自製的糕點出名，所以週末早上通常很擠。"
+        },
+        {
+          "en": "Several well-known chefs will demonstrate their recipes at the outdoor food festival in the park next Saturday afternoon.",
+          "zh": "下週六下午的美食節，會有幾位知名主廚示範他們的食譜。"
+        },
+        {
+          "en": "The architect who designed the museum is well-known for using natural light in her buildings.",
+          "zh": "設計這座博物館的建築師以在建築裡運用自然光而聞名。"
+        }
+      ],
+      "distractors": [
+        "well-done",
+        "well-paid",
+        "well-off"
+      ],
+      "note": "語塊：well-known brand（知名品牌）、well-known for（以……出名）。well-known 和 famous 意思接近；well-known 放在名詞前要加連字號。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deliver",
+      "word": "deliver",
+      "pos": "動詞",
+      "meaning": "遞送；發表（演講）；實現",
+      "sentences": [
+        {
+          "en": "The CEO will deliver a speech about the company's future plans at the opening of the conference.",
+          "zh": "執行長會在研討會開幕時發表一場關於公司未來計畫的演講。"
+        },
+        {
+          "en": "We guarantee that we will deliver every order on time, or the shipping fee will be refunded.",
+          "zh": "我們保證每筆訂單都會準時送達，否則退還運費。"
+        },
+        {
+          "en": "The new sales manager is expected to deliver results within her first six months at the company.",
+          "zh": "新的業務經理預計在到職前六個月內交出成果。"
+        },
+        {
+          "en": "The furniture store can deliver your sofa on Saturday morning if you place the order today.",
+          "zh": "如果你今天下訂，家具店可以在週六早上把沙發送到。"
+        },
+        {
+          "en": "Ms. Chen was chosen to deliver a speech on behalf of all the employees at the retirement party.",
+          "zh": "陳小姐被選為代表全體員工在退休派對上致詞。"
+        }
+      ],
+      "distractors": [
+        "derive",
+        "depart",
+        "devote"
+      ],
+      "note": "語塊：deliver a speech（發表演講）、deliver on time（準時送達）、deliver results（交出成果）。deliver 除了「送貨」，也常用在 deliver a speech / presentation（發表演講、簡報）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vibration",
+      "word": "vibration",
+      "pos": "名詞",
+      "meaning": "震動",
+      "sentences": [
+        {
+          "en": "The new washing machine is designed to reduce vibration and noise during the spin cycle.",
+          "zh": "新的洗衣機設計成在脫水時能減少震動和噪音。"
+        },
+        {
+          "en": "Passengers reported a strong vibration in the cabin shortly after the aircraft took off from Seoul.",
+          "zh": "乘客反映飛機從首爾起飛後不久，機艙出現強烈震動。"
+        },
+        {
+          "en": "Heavy trucks on the highway can cause vibration that damages the windows of nearby houses.",
+          "zh": "高速公路上的大卡車可能造成震動，損壞附近房屋的窗戶。"
+        },
+        {
+          "en": "Engineers installed rubber pads under the machines to reduce vibration on the busy factory floor.",
+          "zh": "工程師在機器下面裝了橡膠墊，減少工廠地板的震動。"
+        },
+        {
+          "en": "If you notice any unusual vibration in the equipment, turn it off and contact the maintenance team.",
+          "zh": "如果你發現設備有任何異常震動，請關掉它並聯絡維修團隊。"
+        }
+      ],
+      "distractors": [
+        "variation",
+        "violation",
+        "vibrancy"
+      ],
+      "note": "語塊：reduce vibration（減少震動）、strong vibration（強烈震動）、cause vibration（造成震動）。vibration 是名詞「震動」，動詞是 vibrate；variation（變化）拼法相近，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clinic",
+      "word": "clinic",
+      "pos": "名詞",
+      "meaning": "診所",
+      "sentences": [
+        {
+          "en": "The company has opened a small medical clinic on the first floor for employees who feel unwell.",
+          "zh": "公司在一樓開了一間小診所，給身體不舒服的員工使用。"
+        },
+        {
+          "en": "Patients should arrive at the dental clinic fifteen minutes early to fill out the necessary forms.",
+          "zh": "病人應該提早十五分鐘到牙醫診所填寫必要的表格。"
+        },
+        {
+          "en": "Employees who need a flu shot can visit a clinic near the office during their lunch break.",
+          "zh": "需要打流感疫苗的員工可以利用午休時間去辦公室附近的診所。"
+        },
+        {
+          "en": "The new medical clinic will be open seven days a week, including evenings and national holidays.",
+          "zh": "新診所一週七天都看診，包括晚上和國定假日。"
+        },
+        {
+          "en": "Dr. Wong recently moved her dental clinic to a larger building closer to the subway station.",
+          "zh": "王醫師最近把她的牙醫診所搬到離捷運站更近、更大的大樓。"
+        }
+      ],
+      "distractors": [
+        "cynic",
+        "click",
+        "client"
+      ],
+      "note": "語塊：medical clinic（診所）、dental clinic（牙醫診所）、visit a clinic（去診所看病）。clinic 是「診所」；hospital 是「醫院」，規模比較大。clinical 是形容詞「臨床的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contraction",
+      "word": "contraction",
+      "pos": "名詞",
+      "meaning": "收縮；（經濟）緊縮",
+      "sentences": [
+        {
+          "en": "The massage chair uses gentle vibration to relax each muscle contraction in the back and shoulders.",
+          "zh": "按摩椅用輕微的震動來放鬆背部和肩膀每一次的肌肉收縮。"
+        },
+        {
+          "en": "Many small businesses closed during the period of economic contraction that followed the financial crisis.",
+          "zh": "金融危機後的經濟緊縮期間，許多小公司倒閉了。"
+        },
+        {
+          "en": "Physical therapists teach exercises that improve muscle contraction for elderly patients who are recovering from knee surgery.",
+          "zh": "物理治療師教膝蓋手術後復原中的病人可以改善肌肉收縮的運動。"
+        },
+        {
+          "en": "Analysts warn that a sharp drop in exports could lead to an economic contraction later this year.",
+          "zh": "分析師警告，出口大幅下滑可能導致今年稍晚經濟緊縮。"
+        },
+        {
+          "en": "The fitness tracker measures each muscle contraction to show users how hard they are working.",
+          "zh": "這款健身手環測量每次肌肉收縮，讓使用者知道自己有多用力。"
+        }
+      ],
+      "distractors": [
+        "contradiction",
+        "construction",
+        "contribution"
+      ],
+      "note": "語塊：muscle contraction（肌肉收縮）、economic contraction（經濟緊縮）。contraction 是「收縮」；contradiction（矛盾）只多兩個字母，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-blood-circulation",
+      "word": "blood circulation",
+      "pos": "名詞",
+      "meaning": "血液循環",
+      "sentences": [
+        {
+          "en": "Doctors say that standing up and stretching every hour can improve blood circulation for office workers.",
+          "zh": "醫生說，每小時起來伸展一下可以促進上班族的血液循環。"
+        },
+        {
+          "en": "The new massage chair is designed to improve blood circulation in the legs and lower back.",
+          "zh": "新款按摩椅設計來促進腿部和下背部的血液循環。"
+        },
+        {
+          "en": "People with poor blood circulation are advised to avoid sitting in one position for long periods.",
+          "zh": "血液循環不良的人被建議不要長時間維持同一個姿勢坐著。"
+        },
+        {
+          "en": "Regular exercise and a balanced diet are two simple ways to improve blood circulation and overall health.",
+          "zh": "規律運動和均衡飲食是促進血液循環和整體健康的兩個簡單方法。"
+        },
+        {
+          "en": "The spa offers a special treatment for customers who suffer from poor blood circulation in their feet.",
+          "zh": "水療中心為腳部血液循環不良的顧客提供特別療程。"
+        }
+      ],
+      "distractors": [
+        "blood pressure",
+        "blood type",
+        "air circulation"
+      ],
+      "note": "語塊：improve blood circulation（促進血液循環）、poor blood circulation（血液循環不良）。circulation 也可以指報紙雜誌的「發行量」（a daily circulation of 50,000）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-metabolism",
+      "word": "metabolism",
+      "pos": "名詞",
+      "meaning": "新陳代謝",
+      "sentences": [
+        {
+          "en": "The fitness magazine claims that drinking green tea in the morning can boost metabolism throughout the day.",
+          "zh": "那本健身雜誌宣稱早上喝綠茶可以提高一整天的新陳代謝。"
+        },
+        {
+          "en": "People with a slow metabolism may find it harder to lose weight even when they exercise regularly.",
+          "zh": "新陳代謝慢的人即使規律運動，也可能比較難減重。"
+        },
+        {
+          "en": "Our nutrition experts will explain how sleep and stress can affect your metabolism at Thursday's seminar.",
+          "zh": "我們的營養專家會在週四的講座說明睡眠和壓力會怎麼影響你的新陳代謝。"
+        },
+        {
+          "en": "The trainer recommended short, intense workouts to boost metabolism for members who have very busy work schedules.",
+          "zh": "教練建議行程忙碌的會員做短時間高強度的運動來提高新陳代謝。"
+        },
+        {
+          "en": "As people get older, a slow metabolism is common, so doctors recommend staying active every day.",
+          "zh": "人年紀越大，新陳代謝慢是常見的事，所以醫生建議每天保持活動。"
+        }
+      ],
+      "distractors": [
+        "mechanism",
+        "mechanics",
+        "magnetism"
+      ],
+      "note": "語塊：boost metabolism（提高新陳代謝）、slow metabolism（新陳代謝慢）。metabolism 是「新陳代謝」；形容詞是 metabolic（代謝的）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-elevate",
+      "word": "elevate",
+      "pos": "動詞",
+      "meaning": "提高；提升；抬高",
+      "sentences": [
+        {
+          "en": "The new training program is designed to elevate the level of customer service in all of our stores.",
+          "zh": "新的訓練計畫是為了提高我們所有門市的客服水準。"
+        },
+        {
+          "en": "After a long flight, passengers are advised to elevate their legs to improve blood circulation.",
+          "zh": "長途飛行後，建議乘客把腿抬高以促進血液循環。"
+        },
+        {
+          "en": "The restaurant hopes to elevate the level of its cooking by hiring a famous chef from Paris next year.",
+          "zh": "那家餐廳希望明年聘請一位巴黎的知名主廚來提升名聲。"
+        },
+        {
+          "en": "The designers used warm lighting and wooden furniture to elevate the overall look of the hotel lobby.",
+          "zh": "設計師用溫暖的燈光和木製家具提升飯店大廳的整體質感。"
+        },
+        {
+          "en": "Investing in staff education is one of the best ways to elevate the level of quality in a company.",
+          "zh": "投資員工教育是提高公司品質水準最好的方法之一。"
+        }
+      ],
+      "distractors": [
+        "elaborate",
+        "evaluate",
+        "eliminate"
+      ],
+      "note": "語塊：elevate the level of（提高……的水準）、elevate your legs（把腿抬高）。elevate 比 raise 正式；elevator（電梯）就是從這個字來的。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supervision",
+      "word": "supervision",
+      "pos": "名詞",
+      "meaning": "監督；管理",
+      "sentences": [
+        {
+          "en": "New employees will work under the supervision of a senior technician during their first three months.",
+          "zh": "新員工前三個月會在一位資深技師的監督下工作。"
+        },
+        {
+          "en": "The construction project requires close supervision because the building is located next to a busy school.",
+          "zh": "這個工程需要密切監督，因為大樓就在一所人很多的學校旁邊。"
+        },
+        {
+          "en": "All laboratory experiments must be carried out under the supervision of a qualified research scientist.",
+          "zh": "所有的實驗室實驗都必須在合格研究科學家的監督下進行。"
+        },
+        {
+          "en": "Interns at the law firm handle simple cases under the supervision of experienced attorneys in the main office.",
+          "zh": "律師事務所的實習生在資深律師的監督下處理簡單的案件。"
+        },
+        {
+          "en": "Young children may use the swimming pool only under close supervision by a parent or a lifeguard.",
+          "zh": "小孩子只有在父母或救生員密切看顧下才能使用游泳池。"
+        }
+      ],
+      "distractors": [
+        "supervisor",
+        "subscription",
+        "submission"
+      ],
+      "note": "語塊：under the supervision of（在……的監督下）、close supervision（密切監督）。supervision 是名詞；supervise 是動詞「監督」；supervisor 是「主管」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stamina",
+      "word": "stamina",
+      "pos": "名詞",
+      "meaning": "體力；耐力",
+      "sentences": [
+        {
+          "en": "Running three times a week is a good way to build stamina before the company marathon in May.",
+          "zh": "一週跑三次步是五月公司馬拉松前增強體力的好方法。"
+        },
+        {
+          "en": "Working long shifts at the hospital requires both physical stamina and a calm, patient personality.",
+          "zh": "在醫院上長班需要體力，也需要沉穩的個性。"
+        },
+        {
+          "en": "The coach designed a training plan to help the players build stamina during the off-season.",
+          "zh": "教練設計了一套訓練計畫，幫助球員在休賽季增強體力。"
+        },
+        {
+          "en": "Negotiating a complex contract for several days requires a great deal of mental stamina from the sales team.",
+          "zh": "連續好幾天談一份複雜的合約，需要業務團隊有很強的精神耐力。"
+        },
+        {
+          "en": "Tour guides need excellent physical stamina because they often walk for hours with large groups of visitors.",
+          "zh": "導遊需要很好的體力，因為他們常常帶著一大群遊客走好幾個小時。"
+        }
+      ],
+      "distractors": [
+        "stimulus",
+        "status",
+        "staple"
+      ],
+      "note": "語塊：build stamina（增強體力）、physical stamina（體力）、mental stamina（精神上的耐力）。stamina 是「耐力」；strength 偏「力氣」，stamina 偏「能撐多久」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-undertake",
+      "word": "undertake",
+      "pos": "動詞",
+      "meaning": "承擔；著手進行",
+      "sentences": [
+        {
+          "en": "The engineering firm agreed to undertake a project to rebuild the old bridge over the river.",
+          "zh": "那家工程公司同意承接重建河上那座舊橋的專案。"
+        },
+        {
+          "en": "The university will undertake research on how remote work affects employee health and productivity in large cities.",
+          "zh": "那所大學將進行研究，探討遠距工作如何影響員工健康和生產力。"
+        },
+        {
+          "en": "Ms. Davis was asked to undertake the task of organizing the company's twentieth anniversary celebration.",
+          "zh": "Davis 小姐被要求承擔籌辦公司二十週年慶的任務。"
+        },
+        {
+          "en": "Before you undertake a project of this size, make sure that you have enough staff and funding.",
+          "zh": "在承接這麼大規模的專案之前，要先確定你有足夠的人力和資金。"
+        },
+        {
+          "en": "Our consultants are qualified to undertake research in both the European and Asian markets for our clients.",
+          "zh": "我們的顧問有資格在歐洲和亞洲市場進行研究。"
+        }
+      ],
+      "distractors": [
+        "overtake",
+        "understate",
+        "underline"
+      ],
+      "note": "語塊：undertake a project（承接專案）、undertake research（進行研究）、undertake a task（承擔任務）。undertake 比 do 或 start 正式，常用在工作、研究、責任。undertaker 卻是「殯葬業者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keep-pace-with",
+      "word": "keep pace with",
+      "pos": "片語動詞",
+      "meaning": "跟上；並駕齊驅",
+      "sentences": [
+        {
+          "en": "The factory hired fifty new workers in order to keep pace with demand for its electric scooters.",
+          "zh": "工廠為了跟上電動機車的需求，新聘了五十名工人。"
+        },
+        {
+          "en": "It is difficult for small companies to keep pace with technology that changes so quickly every year.",
+          "zh": "小公司很難跟上每年變化這麼快的科技。"
+        },
+        {
+          "en": "Salaries at the firm have not been able to keep pace with the rising cost of living in the city.",
+          "zh": "那家公司的薪水一直跟不上城市生活成本的上漲。"
+        },
+        {
+          "en": "Our online store added more servers to keep pace with demand from the growing number of customers during the sale.",
+          "zh": "我們的網路商店增加了伺服器，以跟上特賣期間越來越多的顧客。"
+        },
+        {
+          "en": "Retailers must keep pace with changing consumer tastes if they want to remain competitive in the market.",
+          "zh": "零售商如果想在市場上保持競爭力，就必須跟上不斷變化的消費者喜好。"
+        }
+      ],
+      "distractors": [
+        "keep track of",
+        "keep in touch with",
+        "keep away from"
+      ],
+      "note": "語塊：keep pace with demand（跟上需求）、keep pace with technology（跟上科技）。keep pace with 和 keep up with 意思相近，都是「跟上」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-research",
+      "word": "research",
+      "pos": "名詞",
+      "meaning": "研究；調查",
+      "sentences": [
+        {
+          "en": "The company plans to conduct research on consumer habits before launching its new line of snacks.",
+          "zh": "公司在推出新的零食系列之前，計畫先研究消費者的習慣。"
+        },
+        {
+          "en": "According to our latest market research, young customers prefer to shop through mobile apps rather than visit physical stores.",
+          "zh": "根據我們最新的市場調查，年輕顧客比較喜歡用手機 App 購物。"
+        },
+        {
+          "en": "The firm spends about ten percent of its annual budget on research and development every year.",
+          "zh": "那家公司每年把大約百分之十的年度預算花在研發上。"
+        },
+        {
+          "en": "Dr. Simmons will present her research on renewable energy at the international conference in Berlin.",
+          "zh": "Simmons 博士會在柏林的國際研討會上發表她對再生能源的研究。"
+        },
+        {
+          "en": "Before opening a new branch, we always conduct research to understand the needs of local residents.",
+          "zh": "開新分店前，我們一定會先做研究，了解當地居民的需求。"
+        }
+      ],
+      "distractors": [
+        "resource",
+        "rehearsal",
+        "reservation"
+      ],
+      "note": "語塊：conduct research（進行研究）、market research（市場調查）、research and development（研發）。research 當名詞通常不可數，不加 s；「一項研究」可以說 a study。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-development",
+      "word": "development",
+      "pos": "名詞",
+      "meaning": "發展；開發；（新）建案",
+      "sentences": [
+        {
+          "en": "Ms. Walsh has been promoted to director of product development at our regional office in Singapore.",
+          "zh": "Walsh 小姐被升為我們新加坡辦公室的產品開發總監。"
+        },
+        {
+          "en": "The company encourages professional development by paying for employees to attend online courses in the evening.",
+          "zh": "公司透過替員工支付線上課程的費用，鼓勵職業發展。"
+        },
+        {
+          "en": "A new housing development with three hundred apartments is being built near the central train station.",
+          "zh": "火車站附近正在興建一個有三百戶公寓的新住宅建案。"
+        },
+        {
+          "en": "Funding for product development has increased significantly since the firm received a large investment last spring.",
+          "zh": "自從公司獲得一大筆投資後，產品開發的經費大幅增加。"
+        },
+        {
+          "en": "Workshops on leadership skills are part of the professional development program for all newly promoted managers.",
+          "zh": "領導技巧工作坊是新任經理職業發展計畫的一部分。"
+        }
+      ],
+      "distractors": [
+        "envelopment",
+        "deployment",
+        "department"
+      ],
+      "note": "語塊：product development（產品開發）、professional development（職業發展）、housing development（住宅建案）。development 可以是「發展」，也可以指「新建案」；developer 是「開發商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-steps",
+      "word": "take steps",
+      "pos": "片語動詞",
+      "meaning": "採取措施",
+      "sentences": [
+        {
+          "en": "The city government will take steps to reduce traffic congestion in the downtown area next year.",
+          "zh": "市政府明年會採取措施減少市中心的交通壅塞。"
+        },
+        {
+          "en": "Managers must take steps to ensure that all employees follow the new safety regulations in the warehouse.",
+          "zh": "經理必須採取措施，確保所有員工遵守新的安全規定。"
+        },
+        {
+          "en": "The airline promised to take steps to prevent similar delays from happening again in the future.",
+          "zh": "航空公司承諾會採取措施，避免以後再發生類似的延誤。"
+        },
+        {
+          "en": "We need to take steps to protect customer data after the recent problems with our online system.",
+          "zh": "在最近線上系統出問題之後，我們需要採取措施保護顧客資料。"
+        },
+        {
+          "en": "The hotel plans to take steps to lower its energy use, such as installing solar panels on the roof.",
+          "zh": "飯店計畫採取措施降低用電，例如在屋頂裝太陽能板。"
+        }
+      ],
+      "distractors": [
+        "take turns",
+        "take place",
+        "take notes"
+      ],
+      "note": "語塊：take steps to（採取措施去……）。take steps 和 take measures、take action 意思接近；後面接 to + 原形動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-based-in",
+      "word": "based in",
+      "pos": "其他",
+      "meaning": "總部設在；以……為據點",
+      "sentences": [
+        {
+          "en": "The software company is based in Seoul but has sales offices in Tokyo and Singapore.",
+          "zh": "那家軟體公司總部設在首爾，但在東京和新加坡都有業務辦公室。"
+        },
+        {
+          "en": "We are looking for a designer who is based in the Taipei area and can attend weekly meetings.",
+          "zh": "我們在找一位住在台北地區、可以參加每週會議的設計師。"
+        },
+        {
+          "en": "Ms. Ferrara works for a consulting firm based in Milan that specializes in fashion retail.",
+          "zh": "Ferrara 小姐在一家總部位於米蘭、專門做時尚零售的顧問公司工作。"
+        },
+        {
+          "en": "Although our team is based in London, most of our clients are located in North America.",
+          "zh": "雖然我們團隊在倫敦，但大部分客戶都在北美。"
+        },
+        {
+          "en": "The airline, which is based in Dubai, will add three new routes to Southeast Asia this summer.",
+          "zh": "這家總部在杜拜的航空公司今年夏天將新增三條飛往東南亞的航線。"
+        }
+      ],
+      "distractors": [
+        "based on",
+        "biased in",
+        "bathed in"
+      ],
+      "note": "語塊：be based in（總部設在……）、a company based in（總部在……的公司）。be based in 接地點；be based on 是「根據」，介系詞不同意思就不同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
