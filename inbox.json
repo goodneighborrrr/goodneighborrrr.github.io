@@ -13563,6 +13563,601 @@
       ],
       "note": "語塊：in response to（回應……）、receive a response（收到回覆）、a prompt response（迅速的回應）。response 是名詞；respond 是動詞（respond to）；responsible（負責的）長得像，意思不同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spare",
+      "word": "spare",
+      "pos": "形容詞",
+      "meaning": "備用的；多餘的；空閒的",
+      "sentences": [
+        {
+          "en": "The repair shop keeps a large supply of spare parts so that most machines can be fixed within a day.",
+          "zh": "修理店備有大量的備用零件，所以大部分機器一天內就能修好。"
+        },
+        {
+          "en": "Many employees use their spare time to take online courses that help them develop new professional skills.",
+          "zh": "很多員工利用空閒時間上線上課程，培養新的專業技能。"
+        },
+        {
+          "en": "The building manager keeps a spare key for every office in a locked cabinet near the front desk.",
+          "zh": "大樓管理員把每間辦公室的備用鑰匙鎖在櫃台附近的櫃子裡。"
+        },
+        {
+          "en": "If you have any spare time this afternoon, could you help us prepare the materials for tomorrow's workshop?",
+          "zh": "如果你今天下午有空，可以幫我們準備明天工作坊的資料嗎？"
+        },
+        {
+          "en": "The airline always carries spare parts for its aircraft in case of mechanical problems at smaller airports.",
+          "zh": "航空公司總是攜帶飛機的備用零件，以防在小機場遇到機械問題。"
+        }
+      ],
+      "distractors": [
+        "sparse",
+        "spark",
+        "space"
+      ],
+      "note": "語塊：spare parts（備用零件）、spare time（空閒時間）、spare key（備用鑰匙）。spare 當形容詞是「多出來、備用的」；當動詞可以表示「撥出（時間）」：Can you spare a few minutes?",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regular-customer",
+      "word": "regular customer",
+      "pos": "名詞",
+      "meaning": "常客；老顧客",
+      "sentences": [
+        {
+          "en": "Ms. Wang has been a regular customer of the bakery since it first opened on Elm Street ten years ago.",
+          "zh": "王小姐從那家麵包店十年前在 Elm 街開幕以來就一直是常客。"
+        },
+        {
+          "en": "Every regular customer receives a free cup of coffee after collecting ten stamps on a loyalty card.",
+          "zh": "每位常客在集點卡上集滿十個章，就可以得到一杯免費咖啡。"
+        },
+        {
+          "en": "The store plans to reward each regular customer with special discounts during its anniversary sale next month.",
+          "zh": "店家計畫在下個月的週年慶特賣期間，用特別折扣回饋每位常客。"
+        },
+        {
+          "en": "The waiter remembered that the regular customer always orders the same soup and a glass of iced tea.",
+          "zh": "服務生記得那位常客總是點同一道湯和一杯冰紅茶。"
+        },
+        {
+          "en": "Because Mr. Diaz is a regular customer of our hotel, he was upgraded to a suite at no extra charge.",
+          "zh": "因為 Diaz 先生是我們飯店的常客，他被免費升等到套房。"
+        }
+      ],
+      "distractors": [
+        "potential customer",
+        "regular basis",
+        "regular hours"
+      ],
+      "note": "語塊：a regular customer of（……的常客）、reward regular customers（回饋常客）。regular customer 和 loyal customer（忠實顧客）意思接近；regular 也可以單獨當名詞指「常客」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recipient",
+      "word": "recipient",
+      "pos": "名詞",
+      "meaning": "收件人；受獎者",
+      "sentences": [
+        {
+          "en": "The award recipient will be announced at the end of the annual dinner on Friday evening.",
+          "zh": "得獎者將在週五晚上年度晚宴的最後公布。"
+        },
+        {
+          "en": "If this email has reached you by mistake, please delete it and notify the intended recipient immediately.",
+          "zh": "如果你誤收了這封郵件，請刪除並立刻通知原本的收件人。"
+        },
+        {
+          "en": "Dr. Mendez was the recipient of a national prize for her research on clean energy last year.",
+          "zh": "Mendez 博士去年因為她在潔淨能源的研究獲得一項全國性的獎項。"
+        },
+        {
+          "en": "Each recipient of the scholarship must maintain good grades in order to keep receiving the funding.",
+          "zh": "每位獎學金得主必須維持好成績才能繼續拿到補助。"
+        },
+        {
+          "en": "Packages that cannot be delivered will be returned to the sender if the recipient is not at home.",
+          "zh": "如果收件人不在家，無法投遞的包裹會退回給寄件人。"
+        }
+      ],
+      "distractors": [
+        "receipt",
+        "recipe",
+        "receptionist"
+      ],
+      "note": "語塊：award recipient（得獎者）、the intended recipient（預定的收件人）、recipient of（……的接受者）。recipient 是「收到東西的人」；receipt（收據）和 recipe（食譜）長得像，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-critic",
+      "word": "critic",
+      "pos": "名詞",
+      "meaning": "評論家；批評者",
+      "sentences": [
+        {
+          "en": "A famous food critic visited the new restaurant last week and praised its creative seafood dishes.",
+          "zh": "一位知名美食評論家上週造訪那家新餐廳，稱讚它創意十足的海鮮料理。"
+        },
+        {
+          "en": "The movie received excellent reviews from almost every film critic who attended the festival in Venice.",
+          "zh": "那部電影獲得幾乎每位參加威尼斯影展的影評人的極佳評價。"
+        },
+        {
+          "en": "The gallery invited an art critic to give a short talk about the paintings at the opening reception.",
+          "zh": "藝廊邀請一位藝評家在開幕酒會上簡短介紹這些畫作。"
+        },
+        {
+          "en": "Even the toughest critic agreed that the new hotel offered excellent service at a reasonable price.",
+          "zh": "連最嚴格的評論家都同意，那家新飯店以合理的價格提供了優質服務。"
+        },
+        {
+          "en": "The magazine hired a well-known food critic to write a monthly column about local restaurants.",
+          "zh": "那本雜誌聘請一位知名美食評論家撰寫介紹在地餐廳的每月專欄。"
+        }
+      ],
+      "distractors": [
+        "criticism",
+        "clinic",
+        "cynic"
+      ],
+      "note": "語塊：food critic（美食評論家）、film critic（影評人）、art critic（藝評家）。critic 是「人」（評論家）；criticism 是「批評」；critique 是「評論文章」；critical 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enclose",
+      "word": "enclose",
+      "pos": "動詞",
+      "meaning": "附上；隨函附寄；圍住",
+      "sentences": [
+        {
+          "en": "Please enclose a copy of your receipt when you return the damaged item to our service center.",
+          "zh": "把損壞的商品退回我們的服務中心時，請附上收據的副本。"
+        },
+        {
+          "en": "Applicants should enclose a copy of their résumé and two letters of recommendation with the application form.",
+          "zh": "申請人應在申請表中附上履歷副本和兩封推薦信。"
+        },
+        {
+          "en": "I will enclose a copy of the signed contract so that you can keep it for your records.",
+          "zh": "我會附上一份已簽好的合約副本，讓你留存。"
+        },
+        {
+          "en": "We enclose a brochure that describes all of the services our firm offers to small businesses.",
+          "zh": "我們隨信附上一份手冊，介紹本公司為小企業提供的所有服務。"
+        },
+        {
+          "en": "The landlord plans to enclose the backyard with a wooden fence to give tenants more privacy.",
+          "zh": "房東計畫用木頭圍欄圍住後院，讓房客有更多隱私。"
+        }
+      ],
+      "distractors": [
+        "enclosure",
+        "include",
+        "disclose"
+      ],
+      "note": "語塊：enclose a copy of（附上……的副本）、please find enclosed（隨信附上……）。enclose 常用在商業書信「隨信附上」；attach 用在電子郵件「附加檔案」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-present",
+      "word": "present",
+      "pos": "動詞",
+      "meaning": "呈現；發表；頒發",
+      "sentences": [
+        {
+          "en": "The mayor will present an award to the volunteers who helped clean the city's parks this summer.",
+          "zh": "市長將頒獎給今年夏天幫忙清潔市內公園的志工。"
+        },
+        {
+          "en": "Ms. Ahmed is scheduled to present a proposal for a new customer loyalty program at Monday's meeting.",
+          "zh": "Ahmed 小姐預定在週一的會議上提出一個新的顧客忠誠計畫提案。"
+        },
+        {
+          "en": "The research team will present findings from the two-year study at a conference in Boston next month.",
+          "zh": "研究團隊下個月會在波士頓的研討會上報告那項兩年研究的結果。"
+        },
+        {
+          "en": "Visitors must present a valid photo ID at the front desk before they can enter the building.",
+          "zh": "訪客必須在櫃台出示有效的附照片證件才能進入大樓。"
+        },
+        {
+          "en": "Each team will have fifteen minutes to present its marketing plan to the board of directors.",
+          "zh": "每一組會有十五分鐘向董事會報告行銷計畫。"
+        }
+      ],
+      "distractors": [
+        "prevent",
+        "preset",
+        "resent"
+      ],
+      "note": "語塊：present an award（頒獎）、present a proposal（提出提案）、present findings（報告研究結果）。present 當動詞重音在後（pre-SENT），意思是「報告、頒發」；當名詞、形容詞重音在前（PRE-sent），是「禮物、現在的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remark",
+      "word": "remark",
+      "pos": "名詞",
+      "meaning": "評論；言論",
+      "sentences": [
+        {
+          "en": "The president of the association will make a brief remark before the first speaker takes the stage at nine.",
+          "zh": "協會理事長會在九點第一位講者上台前簡短致詞。"
+        },
+        {
+          "en": "The manager made a remark about the importance of teamwork before announcing the sales results.",
+          "zh": "經理在宣布業績之前發表了一段關於團隊合作重要性的評論。"
+        },
+        {
+          "en": "After a brief remark from the host, guests were invited to enjoy refreshments in the lobby outside the hall.",
+          "zh": "主持人簡短發言後，邀請來賓到會場外的大廳享用茶點。"
+        },
+        {
+          "en": "The CEO apologized for a careless remark that she had made during an interview with a local newspaper.",
+          "zh": "執行長為她接受地方報紙採訪時一句不小心的言論道歉。"
+        },
+        {
+          "en": "Please do not make a remark about the new product to reporters until the official announcement next week.",
+          "zh": "下週正式宣布之前，請不要對記者發表任何關於新產品的評論。"
+        }
+      ],
+      "distractors": [
+        "remake",
+        "remedy",
+        "reward"
+      ],
+      "note": "語塊：make a remark（發表評論）、a brief remark（簡短的發言）、a careless remark（隨口的一句話）。remark 是「簡短的評論」，comment 意思接近；複數常見於 opening remarks（開場致詞）。remarkable 是形容詞「非凡的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-account",
+      "word": "account",
+      "pos": "名詞",
+      "meaning": "帳戶；客戶；說明",
+      "sentences": [
+        {
+          "en": "New customers can open an account online in just a few minutes by entering their personal information.",
+          "zh": "新顧客只要輸入個人資料，幾分鐘內就能在網路上開戶。"
+        },
+        {
+          "en": "Your salary will be deposited directly into your bank account on the last business day of each month.",
+          "zh": "你的薪水會在每個月最後一個工作天直接存入你的銀行帳戶。"
+        },
+        {
+          "en": "When planning the budget, please take into account the rising cost of materials and shipping.",
+          "zh": "規劃預算時，請把材料和運費上漲列入考慮。"
+        },
+        {
+          "en": "Ms. Bianchi manages the firm's largest account, a supermarket chain with stores in five countries.",
+          "zh": "Bianchi 小姐負責公司最大的客戶，一家在五個國家都有門市的連鎖超市。"
+        },
+        {
+          "en": "Customers who open an account before the end of June will receive a gift card worth fifty dollars.",
+          "zh": "六月底前開戶的顧客可以拿到價值五十美元的禮物卡。"
+        }
+      ],
+      "distractors": [
+        "accent",
+        "amount",
+        "count"
+      ],
+      "note": "語塊：open an account（開戶）、bank account（銀行帳戶）、take into account（考慮到）。account 除了「帳戶」，也可以指「客戶」（a major account 大客戶）；take sth into account 是「把……列入考慮」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-confidential",
+      "word": "confidential",
+      "pos": "形容詞",
+      "meaning": "機密的",
+      "sentences": [
+        {
+          "en": "Employees must not share confidential information about clients with anyone outside the company, including family members and friends.",
+          "zh": "員工不得把客戶的機密資訊分享給公司以外的任何人。"
+        },
+        {
+          "en": "The details of the merger are strictly confidential until the official announcement at the press conference next Monday.",
+          "zh": "合併的細節在下週一正式宣布之前都是極機密。"
+        },
+        {
+          "en": "All salary information will be kept confidential and stored in a secure database in the human resources office.",
+          "zh": "所有薪資資料都會保密，存放在人資部的安全資料庫裡。"
+        },
+        {
+          "en": "Please shred any documents that contain confidential information before you throw them away at the end of the day.",
+          "zh": "任何含有機密資訊的文件，丟掉之前請先用碎紙機銷毀。"
+        },
+        {
+          "en": "The survey results will be kept confidential, so employees can share their honest opinions about management.",
+          "zh": "調查結果會保密，所以員工可以誠實分享對管理階層的看法。"
+        }
+      ],
+      "distractors": [
+        "confident",
+        "consequential",
+        "congenial"
+      ],
+      "note": "語塊：confidential information（機密資訊）、strictly confidential（極機密）、keep confidential（保密）。confidential 是「機密的」；confident（有信心的）少了 -ial，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conduct",
+      "word": "conduct",
+      "pos": "動詞",
+      "meaning": "進行；實施；指揮",
+      "sentences": [
+        {
+          "en": "The marketing team will conduct a survey to find out what customers think about our new packaging.",
+          "zh": "行銷團隊會進行一項調查，了解顧客對我們新包裝的看法。"
+        },
+        {
+          "en": "Ms. Novak will conduct an interview with each of the five candidates for the accounting position next week.",
+          "zh": "Novak 小姐下週會和會計職缺的五位候選人逐一面試。"
+        },
+        {
+          "en": "The university received a government grant to conduct research on the effects of air pollution on children.",
+          "zh": "那所大學獲得政府補助，研究空氣污染對兒童的影響。"
+        },
+        {
+          "en": "Inspectors will conduct a safety check of the entire factory before the new machines are put into use.",
+          "zh": "新機器啟用前，檢查員會對整座工廠進行安全檢查。"
+        },
+        {
+          "en": "We plan to conduct a survey of hotel guests to learn how we can improve our breakfast service.",
+          "zh": "我們打算對飯店房客進行調查，了解如何改善早餐服務。"
+        }
+      ],
+      "distractors": [
+        "construct",
+        "contact",
+        "deduct"
+      ],
+      "note": "語塊：conduct a survey（進行調查）、conduct an interview（進行面試）、conduct research（做研究）。conduct 當動詞是「進行（調查、面試、研究）」，比 do 正式；當名詞（CON-duct）是「行為」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hectic",
+      "word": "hectic",
+      "pos": "形容詞",
+      "meaning": "忙亂的；繁忙的",
+      "sentences": [
+        {
+          "en": "Despite her hectic schedule, the director always makes time to meet with new employees during their first week.",
+          "zh": "儘管行程很滿，主任總是會在新員工的第一週抽空和他們見面。"
+        },
+        {
+          "en": "After a hectic day of meetings, Mr. Park decided to finish the report at home in the evening.",
+          "zh": "開了一整天會、忙亂的一天之後，Park 先生決定晚上在家把報告寫完。"
+        },
+        {
+          "en": "The restaurant staff work at a hectic pace during the lunch hour, when hundreds of office workers come in.",
+          "zh": "午餐時間有數百名上班族湧入，餐廳員工以忙亂的步調工作。"
+        },
+        {
+          "en": "The weeks before the product launch were hectic, but the team managed to finish everything on time.",
+          "zh": "產品發表前的那幾週很忙亂，但團隊還是設法準時完成所有工作。"
+        },
+        {
+          "en": "Many employees find it hard to exercise regularly because of their hectic schedule during the busy season.",
+          "zh": "很多員工因為旺季行程繁忙，覺得很難規律運動。"
+        }
+      ],
+      "distractors": [
+        "heroic",
+        "hectare",
+        "electric"
+      ],
+      "note": "語塊：hectic schedule（繁忙的行程）、hectic day（忙碌的一天）、hectic pace（忙亂的步調）。hectic 是「忙到有點亂」；busy 只是「忙」，hectic 更強調匆忙混亂。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-submit",
+      "word": "submit",
+      "pos": "動詞",
+      "meaning": "提交；遞交",
+      "sentences": [
+        {
+          "en": "All department managers must submit a report on their quarterly expenses by the end of next week.",
+          "zh": "所有部門經理必須在下週結束前提交季度支出報告。"
+        },
+        {
+          "en": "Candidates who wish to submit an application for the internship should do so through our website.",
+          "zh": "想申請實習的人，應該透過我們的網站遞交申請。"
+        },
+        {
+          "en": "Please remember to submit your travel receipts by Friday so that the accounting team can process your refund.",
+          "zh": "請記得在週五前提交差旅收據，讓會計團隊處理你的退款。"
+        },
+        {
+          "en": "Researchers who want to present at the conference must submit an abstract of their paper by March tenth.",
+          "zh": "想在研討會發表的研究人員，必須在三月十日前提交論文摘要。"
+        },
+        {
+          "en": "The contractor was asked to submit a report explaining why the construction project was behind schedule.",
+          "zh": "承包商被要求提交一份報告，說明工程為什麼落後進度。"
+        }
+      ],
+      "distractors": [
+        "summit",
+        "subside",
+        "submerge"
+      ],
+      "note": "語塊：submit a report（提交報告）、submit an application（遞交申請）、submit by（在……之前提交）。submit 是「交出去給上級或單位審核」；hand in 意思接近但比較口語。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surcharge",
+      "word": "surcharge",
+      "pos": "名詞",
+      "meaning": "附加費；額外費用",
+      "sentences": [
+        {
+          "en": "The airline added a fuel surcharge to all international tickets because of the rising price of oil.",
+          "zh": "因為油價上漲，航空公司對所有國際機票加收燃油附加費。"
+        },
+        {
+          "en": "Restaurants in the area impose a surcharge of ten percent on all bills during national holidays.",
+          "zh": "這一帶的餐廳在國定假日對所有帳單加收一成的附加費。"
+        },
+        {
+          "en": "Customers who choose same-day delivery must pay a surcharge for the service in addition to the regular shipping fee.",
+          "zh": "選擇當日到貨的顧客，除了一般運費之外還要支付該服務的附加費。"
+        },
+        {
+          "en": "The hotel does not charge a surcharge for early check-in if rooms are available before noon.",
+          "zh": "如果中午前有空房，飯店不會因為提早入住而收附加費。"
+        },
+        {
+          "en": "The taxi company will impose a surcharge on rides that begin after midnight starting next month.",
+          "zh": "計程車公司從下個月起，會對午夜後開始的車程加收附加費。"
+        }
+      ],
+      "distractors": [
+        "discharge",
+        "recharge",
+        "sure change"
+      ],
+      "note": "語塊：fuel surcharge（燃油附加費）、impose a surcharge（加收附加費）、a surcharge for（……的附加費）。surcharge 是「在原價之外另加的費用」；extra charge 意思相同但比較口語。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-give-away",
+      "word": "give away",
+      "pos": "片語動詞",
+      "meaning": "贈送；洩露",
+      "sentences": [
+        {
+          "en": "The cosmetics company will give away free samples of its new face cream at the shopping mall this weekend.",
+          "zh": "那家化妝品公司這個週末會在購物中心發送新面霜的免費樣品。"
+        },
+        {
+          "en": "The radio station plans to give away prizes, including concert tickets, to listeners who call in on Friday.",
+          "zh": "電台打算在週五送出演唱會門票等獎品給打電話進來的聽眾。"
+        },
+        {
+          "en": "The bookstore decided to give away its old magazines to the public library instead of throwing them out.",
+          "zh": "書店決定把舊雜誌送給公立圖書館，而不是丟掉。"
+        },
+        {
+          "en": "To celebrate its tenth anniversary, the café will give away a free drink to the first fifty customers.",
+          "zh": "為了慶祝十週年，咖啡廳會送免費飲料給前五十位顧客。"
+        },
+        {
+          "en": "Please do not give away any details about the new product before the official launch event in May.",
+          "zh": "在五月正式發表會之前，請不要洩露任何新產品的細節。"
+        }
+      ],
+      "distractors": [
+        "give up",
+        "give in",
+        "give back"
+      ],
+      "note": "語塊：give away free samples（發送免費樣品）、give away prizes（送出獎品）、give away a free（免費送出一個……）。give away 是「免費送出」；give out 是「分發」；give up 是「放棄」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-locate",
+      "word": "locate",
+      "pos": "動詞",
+      "meaning": "找到……的位置；設立在",
+      "sentences": [
+        {
+          "en": "Technicians are still trying to locate the problem that caused the network to fail this morning.",
+          "zh": "技師們還在設法找出今天早上造成網路故障的問題。"
+        },
+        {
+          "en": "Engineers used special cameras to locate the source of the water leak behind the walls of the lobby.",
+          "zh": "工程師用特殊攝影機找出大廳牆後漏水的來源。"
+        },
+        {
+          "en": "Customers can use the map on our website to locate a store that carries the full range of our products.",
+          "zh": "顧客可以用我們網站上的地圖找到有販售全系列商品的門市。"
+        },
+        {
+          "en": "If you cannot locate your reservation number, please contact our customer service team for assistance.",
+          "zh": "如果你找不到你的訂位代號，請聯絡我們的客服團隊協助。"
+        },
+        {
+          "en": "The company decided to locate its new factory in a region where land and labor are less expensive.",
+          "zh": "公司決定把新工廠設在土地和勞工比較便宜的地區。"
+        }
+      ],
+      "distractors": [
+        "allocate",
+        "relocate",
+        "local"
+      ],
+      "note": "語塊：locate the problem（找出問題）、locate the source of（找出……的來源）、locate a store（找到門市）。locate 本身是「找出位置」；be located in / at 是「位於」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-confirm",
+      "word": "confirm",
+      "pos": "動詞",
+      "meaning": "確認；證實",
+      "sentences": [
+        {
+          "en": "Please call the restaurant before six o'clock to confirm your reservation for Saturday evening's dinner.",
+          "zh": "請在六點前打電話給餐廳，確認您週六晚上的訂位。"
+        },
+        {
+          "en": "The clinic will send a text message one day in advance to confirm your appointment with the doctor.",
+          "zh": "診所會在前一天傳簡訊確認您和醫生的約診。"
+        },
+        {
+          "en": "Could you please reply to this email to confirm receipt of the documents that we sent yesterday?",
+          "zh": "可以請你回覆這封郵件，確認收到我們昨天寄出的文件嗎？"
+        },
+        {
+          "en": "The supplier was unable to confirm the delivery date because the parts were still being manufactured.",
+          "zh": "供應商無法確認交貨日期，因為零件還在生產中。"
+        },
+        {
+          "en": "Before booking your flight, please confirm the dates of the conference with the event organizers.",
+          "zh": "訂機票之前，請先向活動主辦單位確認研討會的日期。"
+        }
+      ],
+      "distractors": [
+        "conform",
+        "confine",
+        "conflict"
+      ],
+      "note": "語塊：confirm a reservation（確認預約）、confirm an appointment（確認約診）、confirm receipt of（確認收到）。confirm 是「確認是真的或確定」；conform（遵守、符合）只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tenant",
+      "word": "tenant",
+      "pos": "名詞",
+      "meaning": "房客；承租人",
+      "sentences": [
+        {
+          "en": "The building owner hopes that the renovated lobby will help attract a new tenant for the empty top floor.",
+          "zh": "大樓業主希望翻新的大廳能為空著的頂樓吸引一位新房客。"
+        },
+        {
+          "en": "Each tenant is responsible for paying the electricity bill for his or her own apartment every month.",
+          "zh": "每位房客每個月都要自行支付自己公寓的電費。"
+        },
+        {
+          "en": "The landlord must give every tenant at least thirty days' notice before increasing the monthly rent.",
+          "zh": "房東在調漲月租前，必須給每位房客至少三十天的通知。"
+        },
+        {
+          "en": "A new tenant will move into the office space on the third floor at the beginning of next month.",
+          "zh": "下個月初會有一位新房客搬進三樓的辦公空間。"
+        },
+        {
+          "en": "The largest tenant of the shopping center is a supermarket that has been there for more than fifteen years.",
+          "zh": "那座購物中心最大的承租人是一家已經在那裡十五年以上的超市。"
+        }
+      ],
+      "distractors": [
+        "tenet",
+        "tenure",
+        "tendency"
+      ],
+      "note": "語塊：attract tenants（吸引房客）、a new tenant（新房客）、tenant of（……的承租人）。tenant 是「租房子的人」；landlord 是「房東」；tenet（信條）長得像。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
