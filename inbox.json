@@ -22558,6 +22558,706 @@
       ],
       "note": "語塊：a former co-worker（前同事）、get along with a co-worker（和同事相處融洽）、ask a co-worker（請同事幫忙）、from a co-worker（從同事那裡）。co-worker 和 colleague 都是「同事」；colleague 比較正式。也可以寫成 coworker。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transportation",
+      "word": "transportation",
+      "pos": "名詞",
+      "meaning": "交通；運輸",
+      "sentences": [
+        {
+          "en": "Employees are encouraged to use public transportation to get to work in order to reduce traffic downtown.",
+          "zh": "公司鼓勵員工搭大眾運輸上班，以減少市中心的交通量。"
+        },
+        {
+          "en": "Rising fuel prices have increased transportation costs for companies that ship products across the country.",
+          "zh": "油價上漲增加了在全國運送產品的公司的運輸成本。"
+        },
+        {
+          "en": "Bicycles have become a popular means of transportation in the city since the new bike lanes were built.",
+          "zh": "自從新的自行車道建好後，腳踏車已經成為城裡受歡迎的交通工具。"
+        },
+        {
+          "en": "The conference fee includes hotel rooms, meals, and transportation between the airport and the venue.",
+          "zh": "研討會費用包含飯店住宿、餐點，以及機場和會場之間的交通。"
+        },
+        {
+          "en": "The government will spend more money on public transportation, including new subway lines and electric buses.",
+          "zh": "政府將在大眾運輸上投入更多資金，包括新捷運線和電動公車。"
+        }
+      ],
+      "distractors": [
+        "transformation",
+        "translation",
+        "transplantation"
+      ],
+      "note": "語塊：public transportation（大眾運輸）、means of transportation（交通工具）、transportation costs（運輸成本）。transportation 是美式說法，英式多用 transport；commute 是「通勤」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-task-force",
+      "word": "task force",
+      "pos": "名詞",
+      "meaning": "專案小組；特別工作小組",
+      "sentences": [
+        {
+          "en": "The company decided to form a task force to find ways to reduce energy use in all of its buildings.",
+          "zh": "公司決定成立專案小組，找出降低所有建築物用電的方法。"
+        },
+        {
+          "en": "Ms. Kim was invited to join a task force that will plan the opening of our first store in Europe.",
+          "zh": "金小姐受邀加入一個專案小組，規劃我們在歐洲第一家店的開幕。"
+        },
+        {
+          "en": "The task force will present its recommendations to the board of directors at the end of the month.",
+          "zh": "專案小組會在月底向董事會提出建議。"
+        },
+        {
+          "en": "The city formed a task force of police officers and social workers to deal with problems in the downtown area.",
+          "zh": "市政府成立了一個由警察和社工組成的專案小組，處理市中心的問題。"
+        },
+        {
+          "en": "Members of the task force meet every Monday morning to share their progress and discuss the next steps.",
+          "zh": "專案小組成員每週一早上開會，分享進度並討論下一步。"
+        }
+      ],
+      "distractors": [
+        "work force",
+        "air force",
+        "task list"
+      ],
+      "note": "語塊：form a task force（成立專案小組）、join a task force（加入專案小組）。task force 是「為了特定任務臨時組成的小組」；committee 是「委員會」，通常比較長期。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-talented",
+      "word": "talented",
+      "pos": "形容詞",
+      "meaning": "有才華的",
+      "sentences": [
+        {
+          "en": "The architecture firm hired a talented designer who has won several international awards for her work.",
+          "zh": "那家建築事務所聘請了一位作品得過好幾個國際獎項的有才華設計師。"
+        },
+        {
+          "en": "The music school offers scholarships to highly talented students who cannot afford to pay the full tuition.",
+          "zh": "那所音樂學校提供獎學金給付不起全額學費、非常有天分的學生。"
+        },
+        {
+          "en": "The gallery is showing the paintings of several talented young artists from across the country this month.",
+          "zh": "藝廊這個月展出全國各地好幾位有才華的年輕藝術家的畫作。"
+        },
+        {
+          "en": "Our company is looking for talented engineers who enjoy solving difficult problems and working in teams.",
+          "zh": "我們公司在找喜歡解決難題、喜歡團隊合作的有才華工程師。"
+        },
+        {
+          "en": "The restaurant's success is largely due to its talented chef, who creates a new menu every season.",
+          "zh": "那家餐廳的成功主要歸功於它有才華的主廚，他每季都設計新菜單。"
+        }
+      ],
+      "distractors": [
+        "talkative",
+        "tainted",
+        "tolerated"
+      ],
+      "note": "語塊：talented designer（有才華的設計師）、highly talented（非常有天分的）、talented young（有才華的年輕……）。talented 是「有天分、有才能的」；gifted 意思接近；skilled 偏「技術熟練的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dedicated",
+      "word": "dedicated",
+      "pos": "形容詞",
+      "meaning": "專心致力的；專用的",
+      "sentences": [
+        {
+          "en": "Our company is dedicated to providing high-quality products at prices that most families can afford.",
+          "zh": "我們公司致力於以大多數家庭負擔得起的價格提供高品質產品。"
+        },
+        {
+          "en": "The hotel's success depends on its dedicated staff, who work hard to make every guest feel welcome.",
+          "zh": "飯店的成功靠的是敬業的員工，他們努力讓每位客人都覺得賓至如歸。"
+        },
+        {
+          "en": "Customers with questions about their accounts can call our dedicated line, which is open twenty-four hours a day.",
+          "zh": "對帳戶有疑問的顧客可以撥打我們的專線，二十四小時都有人接聽。"
+        },
+        {
+          "en": "The museum is dedicated to the history of the city's fishing industry and the families who worked in it.",
+          "zh": "那座博物館專門介紹城市漁業的歷史和從事漁業的家庭。"
+        },
+        {
+          "en": "Ms. Lopez received an award for being one of the most dedicated employees in the company this year.",
+          "zh": "Lopez 小姐因為是公司今年最敬業的員工之一而獲獎。"
+        }
+      ],
+      "distractors": [
+        "delicate",
+        "decorated",
+        "deducted"
+      ],
+      "note": "語塊：dedicated to（致力於……）、dedicated staff（敬業的員工）、dedicated line（專線）。dedicated 是「投入、敬業的」，也可以表示「專門用途的」；devoted 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-merger",
+      "word": "merger",
+      "pos": "名詞",
+      "meaning": "合併",
+      "sentences": [
+        {
+          "en": "The two airlines plan to announce a merger next week that will create the largest airline in the region.",
+          "zh": "兩家航空公司計畫下週宣布合併，將成為該地區最大的航空公司。"
+        },
+        {
+          "en": "The merger with our main competitor will allow us to offer more products to customers around the world.",
+          "zh": "和我們主要競爭對手的合併，會讓我們能為世界各地的顧客提供更多產品。"
+        },
+        {
+          "en": "Ms. Ward is a lawyer who specializes in merger and acquisition deals for technology companies.",
+          "zh": "Ward 小姐是專門處理科技公司併購案的律師。"
+        },
+        {
+          "en": "Many employees are worried that the merger will result in job losses at the company's headquarters.",
+          "zh": "很多員工擔心合併會導致公司總部有人失業。"
+        },
+        {
+          "en": "After the merger, the new company will keep the name of the larger bank but move its offices downtown.",
+          "zh": "合併之後，新公司會保留較大那家銀行的名字，但把辦公室搬到市中心。"
+        }
+      ],
+      "distractors": [
+        "murder",
+        "merge",
+        "margin"
+      ],
+      "note": "語塊：announce a merger（宣布合併）、merger with（與……合併）、merger and acquisition（併購）。merger 是兩家公司「合併」；acquisition 是「收購」（大公司買下小公司）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-market-share",
+      "word": "market share",
+      "pos": "名詞",
+      "meaning": "市場佔有率",
+      "sentences": [
+        {
+          "en": "The company lowered its prices in order to increase market share in the competitive smartphone industry.",
+          "zh": "公司降價，以提高在競爭激烈的手機產業中的市佔率。"
+        },
+        {
+          "en": "Our new line of electric bicycles has helped us gain market share in Europe over the past two years.",
+          "zh": "我們新系列的電動自行車在過去兩年幫助我們擴大了在歐洲的市佔率。"
+        },
+        {
+          "en": "The old brand began to lose market share when younger customers started buying products online.",
+          "zh": "年輕顧客開始在網路上購物後，那個老品牌開始失去市佔率。"
+        },
+        {
+          "en": "According to the report, the top three companies control about seventy percent of the market share.",
+          "zh": "根據報告，前三大公司掌握了大約百分之七十的市場佔有率。"
+        },
+        {
+          "en": "The marketing director believes that the new advertising campaign will help us gain market share quickly.",
+          "zh": "行銷總監認為新的廣告活動能幫助我們快速擴大市佔率。"
+        }
+      ],
+      "distractors": [
+        "market value",
+        "market research",
+        "stock market"
+      ],
+      "note": "語塊：increase market share（提高市佔率）、gain market share（擴大市佔率）、lose market share（失去市佔率）。market share 是「公司在市場上的銷售佔比」；market value 是「市值」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-manual",
+      "word": "manual",
+      "pos": "名詞",
+      "meaning": "使用手冊；說明書",
+      "sentences": [
+        {
+          "en": "Please read the user manual carefully before you use the new coffee machine for the first time.",
+          "zh": "第一次使用新咖啡機之前，請仔細閱讀使用手冊。"
+        },
+        {
+          "en": "The instruction manual explains how to clean the filter and replace the batteries in the remote control.",
+          "zh": "說明書說明如何清潔濾網和更換遙控器的電池。"
+        },
+        {
+          "en": "Every new employee receives a training manual that describes the company's rules, benefits, and procedures.",
+          "zh": "每位新員工都會拿到一本說明公司規定和流程的訓練手冊。"
+        },
+        {
+          "en": "If you have lost the user manual, you can download a copy from the support page of our website.",
+          "zh": "如果你弄丟了使用手冊，可以從我們網站的支援頁面下載一份。"
+        },
+        {
+          "en": "The technician followed the instructions in the manual to repair the machine without any help.",
+          "zh": "技師依照手冊上的說明，在沒有任何幫助的情況下修好了機器。"
+        }
+      ],
+      "distractors": [
+        "annual",
+        "mutual",
+        "menu"
+      ],
+      "note": "語塊：user manual（使用手冊）、instruction manual（說明書）、training manual（訓練手冊）。manual 當名詞是「手冊」；當形容詞是「手動的」（manual labor 體力勞動）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-editor",
+      "word": "editor",
+      "pos": "名詞",
+      "meaning": "編輯",
+      "sentences": [
+        {
+          "en": "The chief editor of the magazine will decide which articles are included in the next issue.",
+          "zh": "雜誌的總編輯會決定下一期要收錄哪些文章。"
+        },
+        {
+          "en": "Ms. Hart worked as a news editor at a national newspaper for fifteen years before becoming a professor.",
+          "zh": "Hart 小姐在全國性報紙擔任新聞編輯十五年後才當上教授。"
+        },
+        {
+          "en": "Please send your article to the editor by Friday so that there is enough time to check it before printing.",
+          "zh": "請在週五前把你的文章寄給編輯，讓印刷前有足夠的時間檢查。"
+        },
+        {
+          "en": "The editor of the cookbook tested every recipe in her own kitchen before the book was published.",
+          "zh": "那本食譜的編輯在書出版前，在自己家廚房試做了每一道食譜。"
+        },
+        {
+          "en": "The publishing company is hiring an experienced editor to work on its series of children's books.",
+          "zh": "那家出版社正在招聘一位有經驗的編輯，負責它的兒童書系列。"
+        }
+      ],
+      "distractors": [
+        "edition",
+        "auditor",
+        "creditor"
+      ],
+      "note": "語塊：chief editor（總編輯）、news editor（新聞編輯）、editor of（……的編輯）。editor 是「編輯（人）」；edition 是「版本；（刊物的）一期」；edit 是動詞「編輯」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-go-over",
+      "word": "go over",
+      "pos": "片語動詞",
+      "meaning": "仔細檢查；複習；查看",
+      "sentences": [
+        {
+          "en": "Let's go over the details of the contract one more time before we send it to the client.",
+          "zh": "把合約寄給客戶之前，我們再檢查一次細節吧。"
+        },
+        {
+          "en": "The manager asked me to go over the report and correct any mistakes before the meeting tomorrow.",
+          "zh": "經理要我在明天開會前看過報告，把錯誤都改掉。"
+        },
+        {
+          "en": "The team will meet on Monday to go over the plan for the product launch and assign tasks.",
+          "zh": "團隊週一會開會討論產品上市的計畫並分配工作。"
+        },
+        {
+          "en": "Please go over the safety instructions with all new workers before they begin using the machines.",
+          "zh": "在新工人開始使用機器之前，請和他們一起看過安全說明。"
+        },
+        {
+          "en": "Before signing the lease, it is a good idea to go over the details with a lawyer or a real estate agent.",
+          "zh": "簽租約之前，最好和律師或房仲一起檢查細節。"
+        }
+      ],
+      "distractors": [
+        "go on",
+        "go off",
+        "go out"
+      ],
+      "note": "語塊：go over the details（檢查細節）、go over the report（看過報告）、go over the plan（討論計畫）。go over 是「仔細看過、檢查」；review 意思接近；go through 也可以表示「仔細查看」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-customs-declaration-form",
+      "word": "customs declaration form",
+      "pos": "名詞",
+      "meaning": "海關申報單",
+      "sentences": [
+        {
+          "en": "All passengers must fill out a customs declaration form before they arrive at the international airport.",
+          "zh": "所有乘客都必須在抵達國際機場前填寫海關申報單。"
+        },
+        {
+          "en": "Please list every item in your package on the customs declaration form, including its value.",
+          "zh": "請在海關申報單上列出包裹裡的每樣物品，包括價值。"
+        },
+        {
+          "en": "The flight attendants will hand out the customs declaration form about one hour before landing.",
+          "zh": "空服員會在降落前大約一小時發海關申報單。"
+        },
+        {
+          "en": "If you fill out a customs declaration form incorrectly, your package may be delayed or returned.",
+          "zh": "如果你海關申報單填錯，包裹可能會被延誤或退回。"
+        },
+        {
+          "en": "Travelers who are carrying more than ten thousand dollars in cash must report it on the customs declaration form.",
+          "zh": "攜帶超過一萬美元現金的旅客必須在海關申報單上申報。"
+        }
+      ],
+      "distractors": [
+        "application form",
+        "registration form",
+        "order form"
+      ],
+      "note": "語塊：fill out a customs declaration form（填寫海關申報單）、on the customs declaration form（在海關申報單上）。customs 是「海關」（要加 s）；custom（沒有 s）是「習俗」。declaration 是「申報；宣言」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supervisory",
+      "word": "supervisory",
+      "pos": "形容詞",
+      "meaning": "監督的；管理的",
+      "sentences": [
+        {
+          "en": "Applicants for the job must have at least three years of supervisory experience in a retail store.",
+          "zh": "應徵這份工作的人必須至少有三年零售店的管理經驗。"
+        },
+        {
+          "en": "After five years at the factory, Mr. Ito was promoted to a supervisory position on the night shift.",
+          "zh": "在工廠工作五年後，伊藤先生被升到夜班的管理職。"
+        },
+        {
+          "en": "In her supervisory role, Ms. Diaz is responsible for training new staff and checking the quality of their work.",
+          "zh": "Diaz 小姐擔任監督角色，負責訓練新員工並檢查他們的工作品質。"
+        },
+        {
+          "en": "Employees in a supervisory position must attend a leadership course during their first year in the role.",
+          "zh": "擔任管理職的員工必須在第一年參加一門領導力課程。"
+        },
+        {
+          "en": "The company offers a workshop for staff who are interested in moving into a supervisory role in the future.",
+          "zh": "公司為未來有興趣轉任監督角色的員工開設工作坊。"
+        }
+      ],
+      "distractors": [
+        "supervised",
+        "advisory",
+        "satisfactory"
+      ],
+      "note": "語塊：supervisory position（管理職）、supervisory role（監督角色）、supervisory experience（管理經驗）。supervisory 是形容詞；supervisor 是「主管」；supervision 是「監督」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-by-the-time",
+      "word": "by the time",
+      "pos": "連接詞",
+      "meaning": "到……的時候",
+      "sentences": [
+        {
+          "en": "By the time the guests arrived, the staff had already prepared all of the food and decorations.",
+          "zh": "客人到的時候，員工已經準備好所有食物和裝飾了。"
+        },
+        {
+          "en": "By the time you receive this email, the new software will have been installed on your computer.",
+          "zh": "你收到這封郵件的時候，新軟體已經安裝在你的電腦上了。"
+        },
+        {
+          "en": "The tickets had sold out by the time Ms. Brooks tried to buy them online on Friday afternoon.",
+          "zh": "Brooks 小姐週五下午想上網買票的時候，票已經賣光了。"
+        },
+        {
+          "en": "By the time the store opens on Saturday, all of the new products will be on the shelves.",
+          "zh": "週六店開門的時候，所有新產品都會上架了。"
+        },
+        {
+          "en": "By the time the director returns from her business trip, we hope to have finished the report.",
+          "zh": "總監出差回來的時候，我們希望已經完成報告了。"
+        }
+      ],
+      "distractors": [
+        "at the time",
+        "in time",
+        "on time"
+      ],
+      "note": "語塊：by the time + 子句（到……時）。by the time 表示「在某時間點之前，某事已經完成」，主要子句常用完成式（By the time we arrived, the meeting had started）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-twofold",
+      "word": "twofold",
+      "pos": "形容詞",
+      "meaning": "兩倍的；雙重的",
+      "sentences": [
+        {
+          "en": "The company reported a twofold increase in online sales after it launched its new mobile app.",
+          "zh": "公司推出新 App 後，網路銷售增加了一倍。"
+        },
+        {
+          "en": "The purpose of the new program is twofold: to train new staff and to improve customer service.",
+          "zh": "新計畫的目的有兩個：訓練新員工和改善客服。"
+        },
+        {
+          "en": "There has been a twofold increase in the number of tourists visiting the island since the new airport opened.",
+          "zh": "自從新機場啟用後，造訪那座島的遊客人數增加了一倍。"
+        },
+        {
+          "en": "The benefit of moving the factory is twofold, as it will lower costs and reduce delivery times.",
+          "zh": "搬遷工廠的好處有兩個，因為它會降低成本並縮短交貨時間。"
+        },
+        {
+          "en": "The workshop has a twofold purpose: to share new ideas and to help employees from different offices meet.",
+          "zh": "工作坊有雙重目的：分享新點子，以及讓不同辦公室的員工互相認識。"
+        }
+      ],
+      "distractors": [
+        "threefold",
+        "manifold",
+        "tenfold"
+      ],
+      "note": "語塊：a twofold increase（增加一倍）、twofold purpose（雙重目的）。twofold 是「兩倍、兩方面的」；threefold 是「三倍」；double 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-feasibility-study",
+      "word": "feasibility study",
+      "pos": "名詞",
+      "meaning": "可行性研究",
+      "sentences": [
+        {
+          "en": "The city will conduct a feasibility study before deciding whether to build a new subway line.",
+          "zh": "市政府會先進行可行性研究，再決定是否興建新捷運線。"
+        },
+        {
+          "en": "The results of the feasibility study showed that the new hotel would be profitable within five years.",
+          "zh": "可行性研究結果顯示，新飯店五年內就會獲利。"
+        },
+        {
+          "en": "A consulting firm was hired to conduct a feasibility study on opening a factory in Vietnam.",
+          "zh": "公司聘請一家顧問公司，針對在越南設廠進行可行性研究。"
+        },
+        {
+          "en": "The board will review the results of the feasibility study at its meeting next month.",
+          "zh": "董事會將在下個月的會議上審查可行性研究的結果。"
+        },
+        {
+          "en": "The feasibility study took six months to complete because the researchers had to visit several possible locations.",
+          "zh": "可行性研究花了六個月才完成，因為研究人員必須去好幾個可能的地點考察。"
+        }
+      ],
+      "distractors": [
+        "case study",
+        "market study",
+        "study abroad"
+      ],
+      "note": "語塊：conduct a feasibility study（進行可行性研究）、the results of the feasibility study（可行性研究結果）。feasibility 是名詞「可行性」；形容詞 feasible 是「可行的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-luxury",
+      "word": "luxury",
+      "pos": "名詞",
+      "meaning": "奢華；奢侈品",
+      "sentences": [
+        {
+          "en": "The new luxury hotel on the beach has a private pool and a spa for every guest room.",
+          "zh": "海邊新開的豪華飯店每間客房都有私人泳池和水療設施。"
+        },
+        {
+          "en": "Sales of luxury goods such as watches and handbags have increased among young professionals in large cities.",
+          "zh": "手錶和手提包等奢侈品在年輕上班族之間的銷售增加了。"
+        },
+        {
+          "en": "The cruise ship offers passengers the chance to travel in luxury while visiting several islands.",
+          "zh": "那艘郵輪讓乘客能在造訪好幾座島嶼的同時奢華旅行。"
+        },
+        {
+          "en": "The company sells luxury goods to wealthy customers in Asia, Europe, and the Middle East.",
+          "zh": "那家公司把奢侈品賣給亞洲、歐洲和中東的富裕顧客。"
+        },
+        {
+          "en": "Many business travelers prefer to stay at a luxury hotel near the airport when they have early flights.",
+          "zh": "很多商務旅客在搭早班機時，喜歡住機場附近的豪華飯店。"
+        }
+      ],
+      "distractors": [
+        "luxurious",
+        "leisure",
+        "lottery"
+      ],
+      "note": "語塊：luxury hotel（豪華飯店）、luxury goods（奢侈品）、in luxury（奢華地）。luxury 當名詞或放在名詞前當形容詞；luxurious 是形容詞「豪華的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-undertaking",
+      "word": "undertaking",
+      "pos": "名詞",
+      "meaning": "事業；（艱鉅的）任務",
+      "sentences": [
+        {
+          "en": "Moving the entire company to a new building in only one weekend was a major undertaking.",
+          "zh": "在一個週末內把整個公司搬到新大樓是一項大工程。"
+        },
+        {
+          "en": "Building the bridge across the river was a huge undertaking that took more than eight years to complete.",
+          "zh": "興建那座跨河大橋是一項艱鉅的任務，花了八年多才完成。"
+        },
+        {
+          "en": "Organizing the international conference is a major undertaking, so we will need help from every department.",
+          "zh": "籌辦國際研討會是一項大工程，所以我們需要每個部門幫忙。"
+        },
+        {
+          "en": "Opening restaurants in ten countries at the same time is a risky undertaking for any company.",
+          "zh": "同時在十個國家開餐廳，對任何公司來說都是有風險的事業。"
+        },
+        {
+          "en": "The renovation of the old train station was a huge undertaking, but the result has been very popular with residents.",
+          "zh": "整修舊火車站是一項艱鉅的任務，但成果非常受居民歡迎。"
+        }
+      ],
+      "distractors": [
+        "undertaker",
+        "understanding",
+        "overtaking"
+      ],
+      "note": "語塊：a major undertaking（大工程）、a huge undertaking（艱鉅的任務）。undertaking 是「承擔的大型任務或事業」；undertake 是動詞；undertaker 是「殯葬業者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advantageous",
+      "word": "advantageous",
+      "pos": "形容詞",
+      "meaning": "有利的",
+      "sentences": [
+        {
+          "en": "The new trade agreement will be advantageous to companies that export products to Europe and North America.",
+          "zh": "新的貿易協定對出口產品到歐洲的公司有利。"
+        },
+        {
+          "en": "The store's location near the train station puts it in an advantageous position for attracting commuters.",
+          "zh": "那家店位於火車站附近，在吸引通勤族上處於有利位置。"
+        },
+        {
+          "en": "It would be advantageous to sign the contract now, before the supplier raises its prices next month.",
+          "zh": "在供應商下個月漲價之前，現在簽約會比較有利。"
+        },
+        {
+          "en": "Speaking a second language is advantageous to anyone who wants to work for a multinational company.",
+          "zh": "會說第二語言對任何想在跨國公司工作的人都很有利。"
+        },
+        {
+          "en": "The company is in an advantageous position because it has very little debt and a large amount of cash.",
+          "zh": "公司處於有利位置，因為它負債很少，又有大量現金。"
+        }
+      ],
+      "distractors": [
+        "adventurous",
+        "advanced",
+        "ambiguous"
+      ],
+      "note": "語塊：advantageous to（對……有利）、advantageous position（有利的位置）。advantageous 是 advantage（優勢）的形容詞，比 beneficial 更強調「帶來優勢」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-intended",
+      "word": "intended",
+      "pos": "形容詞",
+      "meaning": "預定的；計畫中的；針對……的",
+      "sentences": [
+        {
+          "en": "This training program is intended for employees who have just been promoted to management positions.",
+          "zh": "這個訓練計畫是為剛升任管理職的員工設計的。"
+        },
+        {
+          "en": "Please use the equipment only for its intended use and follow the instructions in the manual.",
+          "zh": "請只依照預定用途使用設備，並遵守手冊上的說明。"
+        },
+        {
+          "en": "The advertisement did not reach its intended audience because it was shown late at night.",
+          "zh": "那支廣告沒有觸及目標觀眾，因為它是在深夜播出的。"
+        },
+        {
+          "en": "The new park is intended for families with young children, so it has many playgrounds and picnic areas.",
+          "zh": "新公園是為有幼童的家庭設計的，所以有很多遊樂場和野餐區。"
+        },
+        {
+          "en": "The book is intended for readers who have no experience with investing and want to learn the basics.",
+          "zh": "這本書是寫給沒有投資經驗、想學基礎知識的讀者。"
+        }
+      ],
+      "distractors": [
+        "intensive",
+        "intentional",
+        "extended"
+      ],
+      "note": "語塊：be intended for（是為……設計的）、intended use（預定用途）、intended audience（目標觀眾）。be intended for 是「專門給……的」；intentional 是「故意的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-beneficiary",
+      "word": "beneficiary",
+      "pos": "名詞",
+      "meaning": "受益人；受惠者",
+      "sentences": [
+        {
+          "en": "Small businesses will be the main beneficiary of the new tax policy announced by the government.",
+          "zh": "小企業會是政府宣布的新稅收政策的主要受益者。"
+        },
+        {
+          "en": "Ms. Lee named her daughter as the beneficiary of her life insurance policy when she signed it last year.",
+          "zh": "李小姐去年簽壽險保單時，把女兒指定為受益人。"
+        },
+        {
+          "en": "The local hospital was the beneficiary of a large donation from a wealthy businessman last year.",
+          "zh": "那家地方醫院去年得到一位富商的一大筆捐款。"
+        },
+        {
+          "en": "Tourism is expected to be the main beneficiary of the new high-speed train between the two cities.",
+          "zh": "觀光業預計會是兩座城市之間新高鐵的主要受惠者。"
+        },
+        {
+          "en": "Each beneficiary of the scholarship program must write a short report about their studies every year.",
+          "zh": "獎學金計畫的每位受惠者每年都必須寫一份關於學業的簡短報告。"
+        }
+      ],
+      "distractors": [
+        "benefactor",
+        "beneficial",
+        "benefit"
+      ],
+      "note": "語塊：the main beneficiary（主要受益者）、beneficiary of（……的受益人）。beneficiary 是「得到好處的人」，在保險、遺囑中指「受益人」；benefit 是「好處」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-line-with",
+      "word": "in line with",
+      "pos": "其他",
+      "meaning": "與……一致；符合",
+      "sentences": [
+        {
+          "en": "Sales for the third quarter were in line with expectations, so the company did not change its forecast.",
+          "zh": "第三季的銷售符合預期，所以公司沒有修改預測。"
+        },
+        {
+          "en": "All expenses must be in line with the policy described in the employee handbook and on the website.",
+          "zh": "所有支出都必須符合員工手冊中描述的政策。"
+        },
+        {
+          "en": "The price increase is in line with what other companies in the industry have done this year.",
+          "zh": "這次漲價和業界其他公司今年的做法一致。"
+        },
+        {
+          "en": "The new design is in line with the company's goal of making products that are easy to recycle.",
+          "zh": "新設計符合公司製造易回收產品的目標。"
+        },
+        {
+          "en": "Salaries at our company are in line with the average for similar positions in the city.",
+          "zh": "我們公司的薪水和城市裡類似職位的平均水準一致。"
+        }
+      ],
+      "distractors": [
+        "in charge of",
+        "in place of",
+        "in favor of"
+      ],
+      "note": "語塊：in line with expectations（符合預期）、in line with the policy（符合政策）、in line with the average（和平均水準一致）、in line with the company's goal（符合公司目標）。be in line with 是「和……一致」；in line 也可以是「排隊」（wait in line）。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
