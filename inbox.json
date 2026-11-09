@@ -23258,6 +23258,706 @@
       ],
       "note": "語塊：in line with expectations（符合預期）、in line with the policy（符合政策）、in line with the average（和平均水準一致）、in line with the company's goal（符合公司目標）。be in line with 是「和……一致」；in line 也可以是「排隊」（wait in line）。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aim",
+      "word": "aim",
+      "pos": "名詞",
+      "meaning": "目標；目的",
+      "sentences": [
+        {
+          "en": "The main aim of the workshop is to help small business owners understand the new tax rules.",
+          "zh": "工作坊的主要目標是幫助小企業老闆了解新的稅務規定。"
+        },
+        {
+          "en": "The company opened a research center in Seoul with the aim of developing new products for Asian customers.",
+          "zh": "公司在首爾設立研究中心，目標是為亞洲顧客開發新產品。"
+        },
+        {
+          "en": "The aim of the survey is to find out how satisfied customers are with our delivery service.",
+          "zh": "這份調查的目的是了解顧客對我們配送服務的滿意程度。"
+        },
+        {
+          "en": "Our main aim this year is to increase online sales while keeping our costs as low as possible.",
+          "zh": "我們今年的主要目標是增加網路銷售，同時盡量壓低成本。"
+        },
+        {
+          "en": "The city started the program with the aim of reducing traffic and improving air quality downtown.",
+          "zh": "市政府推動這個計畫，目的是減少市中心的交通量並改善空氣品質。"
+        }
+      ],
+      "distractors": [
+        "aid",
+        "arm",
+        "claim"
+      ],
+      "note": "語塊：the aim of（……的目的）、main aim（主要目標）、with the aim of（以……為目標）。aim 當名詞是「目標」，當動詞是 aim to do（打算）或 aim at（瞄準）。goal、objective 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-purpose",
+      "word": "purpose",
+      "pos": "名詞",
+      "meaning": "目的；用途",
+      "sentences": [
+        {
+          "en": "The purpose of this meeting is to discuss the budget for next year's marketing campaign.",
+          "zh": "這次會議的目的是討論明年行銷活動的預算。"
+        },
+        {
+          "en": "The information you provide will be used only for the purpose of processing your order.",
+          "zh": "你提供的資料只會用於處理你的訂單。"
+        },
+        {
+          "en": "The manager believes that the mistake was not made on purpose, so no one will be punished.",
+          "zh": "經理認為那個錯誤不是故意的，所以不會有人受罰。"
+        },
+        {
+          "en": "Please explain the purpose of your visit when you sign in at the security desk in the lobby.",
+          "zh": "在大廳保全櫃台登記時，請說明你來訪的目的。"
+        },
+        {
+          "en": "The new building will be used for the purpose of training staff from all of our branches in the region.",
+          "zh": "新大樓將用來訓練我們在該地區所有分公司的員工。"
+        }
+      ],
+      "distractors": [
+        "propose",
+        "purchase",
+        "suppose"
+      ],
+      "note": "語塊：the purpose of（……的目的）、for the purpose of（為了……）、on purpose（故意地）。purpose 是「目的」；on purpose 是「故意」；propose（提議）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-artwork",
+      "word": "artwork",
+      "pos": "名詞",
+      "meaning": "藝術品；美術作品（不可數）",
+      "sentences": [
+        {
+          "en": "The hotel lobby displays original artwork by local painters, and all of the pieces are for sale.",
+          "zh": "飯店大廳展示在地畫家的原創作品，所有作品都可以購買。"
+        },
+        {
+          "en": "The new office will display artwork created by employees' children in the hallway near the cafeteria.",
+          "zh": "新辦公室會在員工餐廳附近的走廊展示員工孩子的作品。"
+        },
+        {
+          "en": "Each piece of artwork in the gallery is carefully protected by glass and special lighting.",
+          "zh": "藝廊的每一件藝術品都用玻璃和特殊燈光小心保護著。"
+        },
+        {
+          "en": "The museum received a donation of valuable artwork from a famous collector who lived in Paris.",
+          "zh": "博物館收到一位住在巴黎的知名收藏家捐贈的珍貴藝術品。"
+        },
+        {
+          "en": "Customers can order prints of the original artwork from our website and have them delivered to their homes.",
+          "zh": "顧客可以在我們網站上訂購原創作品的複製畫，宅配到府。"
+        }
+      ],
+      "distractors": [
+        "homework",
+        "network",
+        "artist"
+      ],
+      "note": "語塊：original artwork（原創作品）、display artwork（展示藝術品）、piece of artwork（一件藝術品）。artwork 通常不可數；要說「一件」用 a piece of artwork；work of art 是可數的「藝術作品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gardening",
+      "word": "gardening",
+      "pos": "名詞",
+      "meaning": "園藝",
+      "sentences": [
+        {
+          "en": "The hardware store sells a wide range of gardening tools, seeds, and plants for the spring season.",
+          "zh": "那家五金行販售各式各樣春季用的園藝工具、種子和植物。"
+        },
+        {
+          "en": "Many employees enjoy gardening, so the company created a small vegetable garden on the roof.",
+          "zh": "很多員工喜歡園藝，所以公司在屋頂上弄了一個小菜園。"
+        },
+        {
+          "en": "The community center has a gardening club that meets every Saturday morning to plant flowers in the park.",
+          "zh": "社區中心有個園藝社，每週六早上聚會到公園種花。"
+        },
+        {
+          "en": "Gardening has become a popular hobby among young people who live in apartments in the city.",
+          "zh": "園藝已經成為住在城市公寓裡的年輕人之間受歡迎的嗜好。"
+        },
+        {
+          "en": "The magazine publishes a monthly column about gardening that gives readers tips for growing vegetables at home.",
+          "zh": "那本雜誌每月刊登一篇園藝專欄，提供讀者在家種菜的祕訣。"
+        }
+      ],
+      "distractors": [
+        "guarding",
+        "garnishing",
+        "gathering"
+      ],
+      "note": "語塊：gardening tools（園藝工具）、gardening club（園藝社）、enjoy gardening（喜歡園藝）。gardening 是「種花種菜的活動」；gardener 是「園丁」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-brainstorm",
+      "word": "brainstorm",
+      "pos": "動詞",
+      "meaning": "腦力激盪；集思廣益",
+      "sentences": [
+        {
+          "en": "The marketing team will meet on Tuesday to brainstorm ideas for the new advertising campaign.",
+          "zh": "行銷團隊週二會開會，為新廣告活動集思廣益想點子。"
+        },
+        {
+          "en": "Managers asked employees to brainstorm ways to reduce waste and save energy in the office.",
+          "zh": "經理要員工腦力激盪，想出減少浪費和節省能源的辦法。"
+        },
+        {
+          "en": "It is helpful to brainstorm ideas in small groups so that everyone has a chance to speak.",
+          "zh": "分成小組集思廣益很有幫助，這樣每個人都有機會發言。"
+        },
+        {
+          "en": "The designers spent the morning trying to brainstorm ways to make the product easier to use.",
+          "zh": "設計師花了一個早上腦力激盪，想辦法讓產品更容易使用。"
+        },
+        {
+          "en": "Before writing the proposal, we should brainstorm ideas with the sales team to understand what customers want.",
+          "zh": "寫提案之前，我們應該和業務團隊一起集思廣益，了解顧客要什麼。"
+        }
+      ],
+      "distractors": [
+        "brainwash",
+        "rainstorm",
+        "breakthrough"
+      ],
+      "note": "語塊：brainstorm ideas（集思廣益想點子）、brainstorm ways to（腦力激盪想辦法）。brainstorm 可以當動詞或名詞；brainstorming session 是「腦力激盪會議」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shut-off",
+      "word": "shut off",
+      "pos": "片語動詞",
+      "meaning": "關掉（電源、水）；切斷",
+      "sentences": [
+        {
+          "en": "Workers will shut off the power to the building on Saturday morning to repair the electrical system.",
+          "zh": "工人週六早上會切斷大樓的電源，修理電力系統。"
+        },
+        {
+          "en": "The city will shut off the water on Main Street for several hours while the old pipes are replaced.",
+          "zh": "更換舊水管期間，市政府會在 Main 街停水幾個小時。"
+        },
+        {
+          "en": "The new heater is designed to shut off automatically if it gets too hot or falls over.",
+          "zh": "新的電暖器設計成太熱或倒下時會自動關閉。"
+        },
+        {
+          "en": "Please remember to shut off the lights and air conditioner in the meeting room when you leave.",
+          "zh": "離開會議室時，請記得關掉燈和冷氣。"
+        },
+        {
+          "en": "In case of a gas leak, staff should shut off the main valve and leave the building immediately.",
+          "zh": "萬一瓦斯外洩，員工應該關掉總開關並立刻離開大樓。"
+        }
+      ],
+      "distractors": [
+        "shut out",
+        "shut up",
+        "show off"
+      ],
+      "note": "語塊：shut off the power（切斷電源）、shut off the water（關水）、shut off automatically（自動關閉）。shut off 是「關掉供應（水電瓦斯）」；turn off 是一般的「關掉」；shut down 是「停止運作、關閉（工廠、系統）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-heat",
+      "word": "heat",
+      "pos": "名詞",
+      "meaning": "熱；高溫；暖氣",
+      "sentences": [
+        {
+          "en": "Outdoor workers were told to take frequent breaks because of the extreme heat this week.",
+          "zh": "因為這週酷熱，戶外工作者被告知要經常休息。"
+        },
+        {
+          "en": "If you feel cold in the office, please ask the building manager to turn up the heat.",
+          "zh": "如果你在辦公室覺得冷，請請大樓管理員把暖氣開大。"
+        },
+        {
+          "en": "The heat wave caused a sharp increase in sales of fans, air conditioners, and cold drinks.",
+          "zh": "熱浪讓電風扇、冷氣和冷飲的銷售大幅增加。"
+        },
+        {
+          "en": "These gloves protect workers' hands from heat when they are handling hot metal in the factory.",
+          "zh": "這種手套可以在工人處理工廠裡的熱金屬時，保護他們的手不被燙傷。"
+        },
+        {
+          "en": "During the heat wave, the city opened cooling centers for elderly residents who do not have air conditioning.",
+          "zh": "熱浪期間，市政府為家裡沒冷氣的年長居民開放了避暑中心。"
+        }
+      ],
+      "distractors": [
+        "heap",
+        "heart",
+        "hear"
+      ],
+      "note": "語塊：extreme heat（酷熱）、turn up the heat（把暖氣開大）、heat wave（熱浪）。heat 是「熱度」；heating 是「暖氣系統」；heater 是「暖氣機」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fail-to",
+      "word": "fail to",
+      "pos": "其他",
+      "meaning": "未能；沒有做到",
+      "sentences": [
+        {
+          "en": "Companies that fail to meet the safety standards will have to pay a large fine to the government.",
+          "zh": "未能達到安全標準的公司必須向政府繳一大筆罰款。"
+        },
+        {
+          "en": "If the shipment should fail to arrive by Friday, please contact our customer service department.",
+          "zh": "如果貨物週五前沒有送達，請聯絡我們的客服部。"
+        },
+        {
+          "en": "Many drivers fail to notice the new speed limit signs that were placed near the school last month.",
+          "zh": "很多駕駛沒注意到上個月在學校附近設置的新速限標誌。"
+        },
+        {
+          "en": "Projects often fail to finish on time when the team does not have clear goals from the beginning.",
+          "zh": "當團隊從一開始就沒有明確目標時，專案常常無法準時完成。"
+        },
+        {
+          "en": "The store will offer a full refund if our products fail to meet your expectations in any way.",
+          "zh": "如果我們的產品在任何方面未能達到您的期望，商店會全額退款。"
+        }
+      ],
+      "distractors": [
+        "fall to",
+        "feel to",
+        "file to"
+      ],
+      "note": "語塊：fail to meet（未能達到）、fail to arrive（沒有抵達）、fail to notice（沒注意到）。fail to do 是「沒做到」；never fail to 是「總是會」。名詞是 failure。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-external",
+      "word": "external",
+      "pos": "形容詞",
+      "meaning": "外部的；外面的",
+      "sentences": [
+        {
+          "en": "The company hires an external auditor every year to check its financial records and accounts.",
+          "zh": "公司每年聘請一位外部稽核員檢查財務紀錄和帳目。"
+        },
+        {
+          "en": "Please save a copy of your files on an external hard drive before the computer is repaired.",
+          "zh": "電腦送修前，請把檔案存一份到外接硬碟。"
+        },
+        {
+          "en": "This cream is for external use only and should not be applied near the eyes or mouth.",
+          "zh": "這款乳霜僅供外用，不應該塗在眼睛或嘴巴附近。"
+        },
+        {
+          "en": "The museum's external walls were cleaned and painted as part of the renovation project last summer.",
+          "zh": "博物館的外牆在去年夏天的整修工程中清洗並重新粉刷了。"
+        },
+        {
+          "en": "The board invited an external expert to review the company's plans for expanding into new markets.",
+          "zh": "董事會邀請一位外部專家審查公司進軍新市場的計畫。"
+        }
+      ],
+      "distractors": [
+        "internal",
+        "eternal",
+        "extensive"
+      ],
+      "note": "語塊：external auditor（外部稽核員）、external hard drive（外接硬碟）、external use（外用）。external 是「外部的」；internal 是「內部的」；eternal（永恆的）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-auditor",
+      "word": "auditor",
+      "pos": "名詞",
+      "meaning": "稽核員；審計員",
+      "sentences": [
+        {
+          "en": "The external auditor found several errors in the company's accounts and asked for them to be corrected.",
+          "zh": "外部稽核員在公司的帳目中發現了幾個錯誤，要求更正。"
+        },
+        {
+          "en": "Ms. Kaur works as an internal auditor and checks that every department follows the company's rules.",
+          "zh": "Kaur 小姐擔任內部稽核員，檢查每個部門是否遵守公司規定。"
+        },
+        {
+          "en": "The auditor will visit our office next week, so please make sure all receipts are organized by date.",
+          "zh": "稽核員下週會來我們辦公室，所以請確認所有收據都按日期整理好。"
+        },
+        {
+          "en": "An independent auditor reviewed the charity's finances to make sure that donations were used properly.",
+          "zh": "一位獨立的稽核員審查了慈善團體的財務，確保捐款被妥善使用。"
+        },
+        {
+          "en": "The internal auditor recommended several changes to improve the way the company tracks its expenses.",
+          "zh": "內部稽核員建議了幾項改變，改善公司追蹤開支的方式。"
+        }
+      ],
+      "distractors": [
+        "audience",
+        "editor",
+        "author"
+      ],
+      "note": "語塊：external auditor（外部稽核員）、internal auditor（內部稽核員）。auditor 是檢查公司帳目的「稽核員」；audit 是名詞或動詞「稽核」；audience 是「觀眾」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-network",
+      "word": "network",
+      "pos": "名詞",
+      "meaning": "網絡；人脈；網路",
+      "sentences": [
+        {
+          "en": "The IT department will upgrade the computer network this weekend, so the internet may be slow on Saturday.",
+          "zh": "資訊部這個週末會升級電腦網路，所以週六網路可能會比較慢。"
+        },
+        {
+          "en": "Joining a professional association is a good way to build a business network in a new city.",
+          "zh": "加入專業協會是在新城市建立商業人脈的好方法。"
+        },
+        {
+          "en": "The company has a network of more than five hundred stores across Europe and North America.",
+          "zh": "公司在歐洲和北美有五百多家門市組成的網絡。"
+        },
+        {
+          "en": "Ms. Okafor used her business network to find investors for her new restaurant in the city center.",
+          "zh": "Okafor 小姐利用她的商業人脈，為她在市中心的新餐廳找到投資人。"
+        },
+        {
+          "en": "The city is building a network of bicycle paths that will connect all of the major parks.",
+          "zh": "市政府正在建造一個連接所有主要公園的自行車道網絡。"
+        }
+      ],
+      "distractors": [
+        "net worth",
+        "framework",
+        "artwork"
+      ],
+      "note": "語塊：computer network（電腦網路）、business network（商業人脈）、a network of（……的網絡）。network 可以指電腦「網路」、「人脈」，或電視「聯播網」；networking 是「建立人脈」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-widen",
+      "word": "widen",
+      "pos": "動詞",
+      "meaning": "拓寬；擴大",
+      "sentences": [
+        {
+          "en": "The city plans to widen the road between the airport and the city center to reduce traffic jams.",
+          "zh": "市政府計畫拓寬機場到市中心的道路，以減少塞車。"
+        },
+        {
+          "en": "The store will widen the range of products it sells by adding furniture and home decorations.",
+          "zh": "那家店會增加家具和居家裝飾，擴大販售產品的範圍。"
+        },
+        {
+          "en": "Experts warn that rising housing prices could widen the gap between rich and poor families.",
+          "zh": "專家警告，房價上漲可能會拉大富裕和貧窮家庭之間的差距。"
+        },
+        {
+          "en": "The company hopes to widen its customer base by opening stores in smaller towns and villages.",
+          "zh": "公司希望到較小的城鎮和村莊開店，擴大顧客群。"
+        },
+        {
+          "en": "Construction workers will widen the road near the school during the summer holiday when there are no students.",
+          "zh": "施工人員會在沒有學生的暑假期間拓寬學校附近的道路。"
+        }
+      ],
+      "distractors": [
+        "widow",
+        "wooden",
+        "weaken"
+      ],
+      "note": "語塊：widen the road（拓寬道路）、widen the gap（拉大差距）、widen the range of（擴大……的範圍）。widen 是「變寬、擴大」；wide 是形容詞；width 是名詞「寬度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-notify",
+      "word": "notify",
+      "pos": "動詞",
+      "meaning": "通知",
+      "sentences": [
+        {
+          "en": "Please notify the front desk in advance if you plan to check out of the hotel later than noon.",
+          "zh": "如果你打算中午以後才退房，請事先通知櫃台。"
+        },
+        {
+          "en": "The company will notify all customers of the price changes by email at least one month before they take effect.",
+          "zh": "公司會在價格調整生效前至少一個月，用電子郵件通知所有顧客。"
+        },
+        {
+          "en": "Successful applicants will be notified by phone, and the company will notify the others by email.",
+          "zh": "錄取者會接到電話通知，公司會用電子郵件通知其他人。"
+        },
+        {
+          "en": "Employees must notify their supervisor of any absence as soon as possible, preferably before nine o'clock.",
+          "zh": "員工有任何缺勤都必須盡快通知主管，最好在九點以前。"
+        },
+        {
+          "en": "The bank will notify you of any unusual activity on your account by sending a text message to your phone.",
+          "zh": "銀行會傳簡訊到你的手機，通知你帳戶上的任何異常活動。"
+        }
+      ],
+      "distractors": [
+        "modify",
+        "notice",
+        "nullify"
+      ],
+      "note": "語塊：notify sb of sth（通知某人某事）、notify in advance（事先通知）、be notified by（由……通知）。notify 比 tell、inform 正式；名詞是 notification（通知）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tax-return",
+      "word": "tax return",
+      "pos": "名詞",
+      "meaning": "報稅單；所得稅申報",
+      "sentences": [
+        {
+          "en": "All residents must file a tax return by the end of May every year, even if they have a low income.",
+          "zh": "所有居民每年都必須在五月底前報稅，即使收入很低也一樣。"
+        },
+        {
+          "en": "Our accountants can prepare a tax return for you quickly and make sure that you receive every possible deduction.",
+          "zh": "我們的會計師可以很快幫你準備報稅資料，確保你得到所有可能的扣除額。"
+        },
+        {
+          "en": "Many people now file a tax return online because it is faster and easier than sending forms by mail.",
+          "zh": "現在很多人上網報稅，因為比郵寄表格更快、更簡單。"
+        },
+        {
+          "en": "Please keep all of your receipts so that you can prepare a tax return accurately at the end of the year.",
+          "zh": "請保留所有收據，讓你年底可以正確地準備報稅資料。"
+        },
+        {
+          "en": "The deadline to file a tax return has been extended by one month because of problems with the government website.",
+          "zh": "因為政府網站出問題，報稅截止日延長了一個月。"
+        }
+      ],
+      "distractors": [
+        "tax refund",
+        "tax code",
+        "tax break"
+      ],
+      "note": "語塊：file a tax return（報稅）、prepare a tax return（準備報稅資料）。tax return 是「報稅（的表格）」，不是「退稅」；tax refund 才是「退稅」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tutoring-session",
+      "word": "tutoring session",
+      "pos": "名詞",
+      "meaning": "家教課；輔導課",
+      "sentences": [
+        {
+          "en": "Students who are having trouble with math can attend a tutoring session at the library every Wednesday.",
+          "zh": "數學有困難的學生可以每週三到圖書館參加輔導課。"
+        },
+        {
+          "en": "The community center offers a free tutoring session for children whose parents work late in the evening.",
+          "zh": "社區中心為父母晚上工作到很晚的孩子提供免費輔導課。"
+        },
+        {
+          "en": "Each tutoring session lasts one hour and focuses on reading, writing, or basic science for young students.",
+          "zh": "每堂輔導課一小時，重點放在閱讀、寫作或基礎科學。"
+        },
+        {
+          "en": "Please book a tutoring session at least two days in advance through the school's online system.",
+          "zh": "請至少提前兩天透過學校的線上系統預約輔導課。"
+        },
+        {
+          "en": "After attending a tutoring session every week for three months, Kevin's test scores improved greatly.",
+          "zh": "每週參加一堂輔導課持續三個月後，Kevin 的考試成績進步很多。"
+        }
+      ],
+      "distractors": [
+        "training session",
+        "information session",
+        "question-and-answer session"
+      ],
+      "note": "語塊：attend a tutoring session（參加輔導課）、free tutoring session（免費輔導課）。tutoring 是「個別輔導、家教」；tutor 是「家教老師」；tutorial 是「教學（影片、課程）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-examination",
+      "word": "examination",
+      "pos": "名詞",
+      "meaning": "檢查；考試",
+      "sentences": [
+        {
+          "en": "All new employees must have a medical examination before they begin working at the factory.",
+          "zh": "所有新員工在工廠開始工作前都必須做健康檢查。"
+        },
+        {
+          "en": "Accountants must pass an examination before they can receive their professional license from the national association.",
+          "zh": "會計師必須通過考試才能拿到專業執照。"
+        },
+        {
+          "en": "After a careful examination of the damaged machine, the technician decided to replace the motor.",
+          "zh": "仔細檢查受損的機器後，技師決定更換馬達。"
+        },
+        {
+          "en": "The doctor recommended a medical examination every year for employees who are over forty years old.",
+          "zh": "醫生建議四十歲以上的員工每年做一次健康檢查。"
+        },
+        {
+          "en": "Students who pass an examination in English can skip the first level of the language course.",
+          "zh": "通過英文考試的學生可以跳過語言課程的第一級。"
+        }
+      ],
+      "distractors": [
+        "explanation",
+        "exaggeration",
+        "expectation"
+      ],
+      "note": "語塊：medical examination（健康檢查）、pass an examination（通過考試）、careful examination（仔細檢查）。examination 比 exam 正式；可以是「考試」，也可以是「檢查」；examiner 是「考官」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consult",
+      "word": "consult",
+      "pos": "動詞",
+      "meaning": "諮詢；請教；查閱",
+      "sentences": [
+        {
+          "en": "Please consult with your manager before making any changes to the project schedule or budget.",
+          "zh": "修改專案時程之前，請先和你的經理商量。"
+        },
+        {
+          "en": "If the pain continues for more than a week, you should consult a doctor as soon as possible.",
+          "zh": "如果疼痛持續超過一週，你應該盡快看醫生。"
+        },
+        {
+          "en": "If the machine stops working, consult the manual first before calling a technician for help.",
+          "zh": "如果機器停止運作，打電話找技師之前先查閱手冊。"
+        },
+        {
+          "en": "The company will consult with local residents before building the new factory near the river.",
+          "zh": "公司在河邊蓋新工廠之前，會先和當地居民商量。"
+        },
+        {
+          "en": "Before signing any contract, it is wise to consult a lawyer who understands the industry well.",
+          "zh": "簽任何合約之前，請教一位熟悉這個產業的律師是明智的。"
+        }
+      ],
+      "distractors": [
+        "insult",
+        "consume",
+        "result"
+      ],
+      "note": "語塊：consult with（和……商量）、consult a doctor（看醫生）、consult the manual（查閱手冊）。consult 是「向專家請教」或「查閱資料」；consultant 是「顧問」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assurance",
+      "word": "assurance",
+      "pos": "名詞",
+      "meaning": "保證；把握",
+      "sentences": [
+        {
+          "en": "Ms. Gray works in quality assurance and checks that every product meets our high standards.",
+          "zh": "Gray 小姐在品管部工作，檢查每項產品是否符合我們的高標準。"
+        },
+        {
+          "en": "The manager gave assurance to the staff that no jobs would be lost because of the merger.",
+          "zh": "經理向員工保證，不會有人因為合併而失去工作。"
+        },
+        {
+          "en": "The quality assurance team tests each phone for several hours before it is packed and shipped.",
+          "zh": "品質保證團隊在每支手機包裝出貨前會測試好幾個小時。"
+        },
+        {
+          "en": "Customers want assurance that their personal information will be protected when they shop online with their credit cards.",
+          "zh": "顧客希望得到保證，網路購物時他們的個人資料會受到保護。"
+        },
+        {
+          "en": "The supplier gave assurance that the missing parts would arrive at our factory by Thursday at the latest.",
+          "zh": "供應商保證缺少的零件最晚週四會送到我們工廠。"
+        }
+      ],
+      "distractors": [
+        "insurance",
+        "assistance",
+        "endurance"
+      ],
+      "note": "語塊：quality assurance（品質保證）、give assurance（給予保證）、with assurance（有把握地）。assurance 是「保證、讓人放心的話」；insurance（保險）長得像，意思不同；assure 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-monitoring",
+      "word": "monitoring",
+      "pos": "名詞",
+      "meaning": "監控；監測",
+      "sentences": [
+        {
+          "en": "The factory installed a new monitoring system that warns workers when the machines become too hot.",
+          "zh": "工廠安裝了新的監控系統，在機器過熱時警告工人。"
+        },
+        {
+          "en": "Environmental monitoring of the river showed that the water quality has improved over the past year.",
+          "zh": "河川的環境監測顯示，過去一年水質有所改善。"
+        },
+        {
+          "en": "Patients in the intensive care unit receive constant monitoring by doctors and nurses day and night.",
+          "zh": "加護病房的病人日夜都受到醫生和護士的持續監控。"
+        },
+        {
+          "en": "The bank uses a monitoring system to detect unusual payments that might be made by criminals.",
+          "zh": "銀行用監控系統偵測可能是罪犯所為的異常付款。"
+        },
+        {
+          "en": "The city spends a large amount of money on air quality monitoring in neighborhoods near the highway.",
+          "zh": "市政府花了很多錢在高速公路附近社區的空氣品質監測上。"
+        }
+      ],
+      "distractors": [
+        "mentoring",
+        "mortgaging",
+        "motoring"
+      ],
+      "note": "語塊：monitoring system（監控系統）、environmental monitoring（環境監測）、constant monitoring（持續監控）。monitoring 是名詞「監控」；monitor 可以是動詞「監控」或名詞「螢幕」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-particular",
+      "word": "particular",
+      "pos": "形容詞",
+      "meaning": "特定的；特別的；挑剔的",
+      "sentences": [
+        {
+          "en": "The new menu has been very popular, and the seafood pasta in particular has received many good reviews.",
+          "zh": "新菜單很受歡迎，尤其是海鮮義大利麵得到很多好評。"
+        },
+        {
+          "en": "Please let us know if there is a particular day next week when you are not available for a meeting.",
+          "zh": "如果下週有哪一天你不方便開會，請告訴我們。"
+        },
+        {
+          "en": "The client is very particular about the colors used in the design, so please follow her instructions carefully.",
+          "zh": "客戶對設計使用的顏色很講究，所以請仔細照她的指示做。"
+        },
+        {
+          "en": "Sales of winter clothing increased in many regions, but in the north in particular, sales doubled.",
+          "zh": "冬季服飾的銷售在很多地區都增加了，尤其是北部，銷售翻了一倍。"
+        },
+        {
+          "en": "The hotel can prepare special meals for guests who are particular about what they eat.",
+          "zh": "飯店可以為對飲食很講究的客人準備特別餐點。"
+        }
+      ],
+      "distractors": [
+        "particle",
+        "partial",
+        "popular"
+      ],
+      "note": "語塊：in particular（尤其；特別是）、a particular day（某一天）、be particular about（對……很挑剔）。in particular 是「尤其、特別」；be particular about 是「對……很講究」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
