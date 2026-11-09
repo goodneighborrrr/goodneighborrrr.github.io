@@ -26373,6 +26373,706 @@
       ],
       "note": "語塊：economic depression（經濟蕭條）、the Great Depression（經濟大恐慌）、tropical depression（熱帶性低氣壓）。depression 可以是經濟「蕭條」、心理「憂鬱」，或天氣「低氣壓」；recession 是程度較輕的「衰退」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transmit",
+      "word": "transmit",
+      "pos": "動詞",
+      "meaning": "傳送；傳播",
+      "sentences": [
+        {
+          "en": "The new devices can transmit data to the main computer every few seconds without using any cables.",
+          "zh": "新裝置每隔幾秒就能把資料傳輸到主電腦，不需要任何線路。"
+        },
+        {
+          "en": "Please do not transmit confidential information by email unless the file is protected with a password.",
+          "zh": "除非檔案有密碼保護，否則請不要用電子郵件傳送機密資訊。"
+        },
+        {
+          "en": "The satellite will transmit a signal back to Earth so that scientists can track its position.",
+          "zh": "衛星會把訊號傳回地球，讓科學家追蹤它的位置。"
+        },
+        {
+          "en": "Hospitals use secure systems to transmit information about patients between different departments and other hospitals in the area.",
+          "zh": "醫院使用安全的系統在不同科別之間傳遞病人資訊。"
+        },
+        {
+          "en": "Washing your hands often is one of the best ways to avoid helping to transmit illness to others.",
+          "zh": "常洗手是避免把疾病傳染給別人最好的方法之一。"
+        }
+      ],
+      "distractors": [
+        "transfer",
+        "translate",
+        "submit"
+      ],
+      "note": "語塊：transmit data（傳輸資料）、transmit information（傳遞資訊）、transmit a signal（發送訊號）。transmit 是「傳送（訊號、資料、疾病）」；名詞是 transmission。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-valuables",
+      "word": "valuables",
+      "pos": "名詞",
+      "meaning": "貴重物品",
+      "sentences": [
+        {
+          "en": "Guests are advised to keep valuables in the safe in their rooms rather than leaving them on the desk.",
+          "zh": "建議客人把貴重物品放在房間的保險箱裡，而不是放在桌上。"
+        },
+        {
+          "en": "Please do not leave valuables in your car when you park in the public parking lot downtown.",
+          "zh": "把車停在市中心的公共停車場時，請不要把貴重物品留在車上。"
+        },
+        {
+          "en": "The museum has lockers near the entrance where visitors can store valuables while they look at the exhibits.",
+          "zh": "博物館入口附近有置物櫃，參觀者看展時可以存放貴重物品。"
+        },
+        {
+          "en": "The hotel is not responsible for any valuables that are lost or stolen from guest rooms.",
+          "zh": "飯店對客房內遺失或被竊的任何貴重物品概不負責。"
+        },
+        {
+          "en": "Before the renovation begins, residents should remove all valuables from their apartments or store them in a safe place.",
+          "zh": "翻修開始前，住戶應該把所有貴重物品從公寓裡搬走。"
+        }
+      ],
+      "distractors": [
+        "variables",
+        "vegetables",
+        "valuations"
+      ],
+      "note": "語塊：keep valuables（保管貴重物品）、leave valuables（留下貴重物品）、store valuables（存放貴重物品）。valuables 一定用複數，指「珠寶、現金等貴重物品」；valuable 是形容詞「貴重的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-protect",
+      "word": "protect",
+      "pos": "動詞",
+      "meaning": "保護",
+      "sentences": [
+        {
+          "en": "This special cover will protect your laptop from water and dust when you work outdoors.",
+          "zh": "這個特殊保護套可以在你戶外工作時，保護筆電不受水和灰塵影響。"
+        },
+        {
+          "en": "The company uses recycled materials in its packaging to protect the environment and reduce waste.",
+          "zh": "公司在包裝上使用回收材料，保護環境並減少浪費。"
+        },
+        {
+          "en": "We take several steps to protect privacy, such as storing all customer data on secure servers.",
+          "zh": "我們採取幾項措施保護隱私，例如把所有顧客資料存在安全的伺服器上。"
+        },
+        {
+          "en": "Workers must wear gloves to protect their hands from the chemicals used in the cleaning process.",
+          "zh": "工人必須戴手套，保護雙手不受清潔過程使用的化學品傷害。"
+        },
+        {
+          "en": "New laws have been introduced to protect the environment around the lake from pollution caused by nearby factories.",
+          "zh": "政府推出新法律，保護湖泊周遭的環境不受污染。"
+        }
+      ],
+      "distractors": [
+        "project",
+        "prospect",
+        "provoke"
+      ],
+      "note": "語塊：protect sth from（保護……免於）、protect the environment（保護環境）、protect privacy（保護隱私）。protect A from B 是「保護 A 不受 B 傷害」；prevent 是「防止（發生）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-terminate",
+      "word": "terminate",
+      "pos": "動詞",
+      "meaning": "終止；結束",
+      "sentences": [
+        {
+          "en": "Either company can terminate the contract by giving written notice at least sixty days in advance.",
+          "zh": "任何一方公司只要提前至少六十天書面通知，就可以終止合約。"
+        },
+        {
+          "en": "The landlord has the right to terminate the agreement if the tenant does not pay the rent for two months.",
+          "zh": "如果房客兩個月沒付房租，房東有權終止協議。"
+        },
+        {
+          "en": "The company may terminate employment if a worker repeatedly breaks the safety rules in the factory.",
+          "zh": "如果工人一再違反工廠的安全規定，公司可以解僱他。"
+        },
+        {
+          "en": "We decided to terminate the contract with the cleaning company because the service was poor.",
+          "zh": "我們決定終止和清潔公司的合約，因為服務很差。"
+        },
+        {
+          "en": "Customers who wish to terminate their membership should contact the front desk or send us an email.",
+          "zh": "想終止會員資格的顧客，請聯絡櫃台或寄電子郵件給我們。"
+        }
+      ],
+      "distractors": [
+        "nominate",
+        "determinate",
+        "eliminate"
+      ],
+      "note": "語塊：terminate a contract（終止合約）、terminate an agreement（終止協議）、terminate employment（解僱）。terminate 比 end 正式，常用在合約、合作關係；terminal 是「航廈；終點站」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hastily",
+      "word": "hastily",
+      "pos": "副詞",
+      "meaning": "匆忙地；草率地",
+      "sentences": [
+        {
+          "en": "The meeting was hastily arranged after the company received news that its main supplier had closed.",
+          "zh": "公司得知主要供應商倒閉後，匆忙安排了這次會議。"
+        },
+        {
+          "en": "The report was hastily written and contained many errors, so the manager asked for a new version.",
+          "zh": "那份報告寫得很匆忙，錯誤很多，所以經理要求重寫。"
+        },
+        {
+          "en": "It is important not to act hastily when making decisions that affect the entire company.",
+          "zh": "在做影響全公司的決定時，不要草率行事很重要。"
+        },
+        {
+          "en": "The hastily arranged press conference took place in the hotel lobby because no rooms were available.",
+          "zh": "那場匆忙安排的記者會在飯店大廳舉行，因為沒有空的房間。"
+        },
+        {
+          "en": "The director warned the board not to act hastily and to wait for the results of the investigation.",
+          "zh": "總監警告董事會不要草率行事，要等調查結果出來。"
+        }
+      ],
+      "distractors": [
+        "hostilely",
+        "heartily",
+        "happily"
+      ],
+      "note": "語塊：hastily arranged（匆忙安排的）、hastily written（匆忙寫成的）、act hastily（草率行事）。hastily 是「匆忙、沒想清楚」；quickly 只是「快」，hastily 常帶「太倉促」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-verify",
+      "word": "verify",
+      "pos": "動詞",
+      "meaning": "核實；驗證",
+      "sentences": [
+        {
+          "en": "Please verify all of the information on the form before you submit your application online.",
+          "zh": "在線上提交申請之前，請核對表格上的所有資訊。"
+        },
+        {
+          "en": "For security reasons, the bank will ask you several questions to verify your identity over the phone.",
+          "zh": "為了安全，銀行會在電話中問你幾個問題來驗證你的身分。"
+        },
+        {
+          "en": "The accountant will verify that all of the receipts match the expenses listed in the report.",
+          "zh": "會計師會確認所有收據都和報告中列出的支出相符。"
+        },
+        {
+          "en": "Before publishing the article, the editor called several experts to verify the information it contained.",
+          "zh": "文章刊出前，編輯打電話給幾位專家核實其中的資訊。"
+        },
+        {
+          "en": "Customers must verify their email address by clicking the link that we send after they sign up.",
+          "zh": "顧客註冊後必須點擊我們寄出的連結，驗證電子郵件地址。"
+        }
+      ],
+      "distractors": [
+        "verily",
+        "clarify",
+        "versify"
+      ],
+      "note": "語塊：verify information（核實資訊）、verify one's identity（驗證身分）、verify that（確認……）。verify 是「確認是不是真的」；confirm 意思接近；verification 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appealing",
+      "word": "appealing",
+      "pos": "形容詞",
+      "meaning": "吸引人的",
+      "sentences": [
+        {
+          "en": "The new menu is designed to be appealing to families with young children as well as to students.",
+          "zh": "新菜單的設計是要吸引有幼童的家庭和學生。"
+        },
+        {
+          "en": "The website should be visually appealing and easy to use so that customers stay longer.",
+          "zh": "網站應該在視覺上吸引人又容易使用，讓顧客停留更久。"
+        },
+        {
+          "en": "The job offered an appealing salary, but Ms. Ward decided to stay at her current company.",
+          "zh": "那份工作提供誘人的薪水，但 Ward 小姐決定留在現在的公司。"
+        },
+        {
+          "en": "Free delivery and a two-year warranty make the offer especially appealing to online shoppers who live outside the city.",
+          "zh": "免運費和兩年保固讓這個方案對網購族特別有吸引力。"
+        },
+        {
+          "en": "The designer chose bright colors to make the packaging more appealing to young customers in their twenties.",
+          "zh": "設計師選了鮮豔的顏色，讓包裝對年輕顧客更有吸引力。"
+        }
+      ],
+      "distractors": [
+        "appalling",
+        "applying",
+        "appearing"
+      ],
+      "note": "語塊：appealing to（吸引……的）、visually appealing（外觀吸引人的）、an appealing offer（誘人的方案）。appealing 是「有吸引力的」；attractive 意思接近；appeal 當動詞是「吸引；上訴」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-downtown",
+      "word": "downtown",
+      "pos": "名詞",
+      "meaning": "市中心；鬧區",
+      "sentences": [
+        {
+          "en": "The company is moving its headquarters to a new building in the downtown area next spring.",
+          "zh": "公司明年春天要把總部搬到市中心區的一棟新大樓。"
+        },
+        {
+          "en": "Many people take the subway to go downtown because parking there is difficult and very expensive.",
+          "zh": "很多人搭捷運去市中心，因為停車又難又貴。"
+        },
+        {
+          "en": "The hotel is located in downtown Chicago, within walking distance of several museums and theaters.",
+          "zh": "那家飯店位於芝加哥市中心，走路就能到好幾間博物館和劇院。"
+        },
+        {
+          "en": "Traffic in the downtown area is heavy during rush hour, so please leave early for your appointment.",
+          "zh": "尖峰時段市中心區的交通很擁擠，所以請提早出門赴約。"
+        },
+        {
+          "en": "The city plans to build more bicycle lanes downtown to reduce the number of cars on the roads.",
+          "zh": "市政府計畫在市中心增建自行車道，以減少路上的車輛。"
+        }
+      ],
+      "distractors": [
+        "download",
+        "downturn",
+        "township"
+      ],
+      "note": "語塊：in downtown（在市中心）、downtown area（市中心區）、go downtown（去市中心）。downtown 可當名詞、形容詞或副詞（go downtown）；city center 是英式說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-landmark",
+      "word": "landmark",
+      "pos": "名詞",
+      "meaning": "地標；里程碑",
+      "sentences": [
+        {
+          "en": "The old clock tower is a famous landmark that appears on many postcards of the city.",
+          "zh": "那座舊鐘樓是著名的地標，出現在很多城市的明信片上。"
+        },
+        {
+          "en": "Our tour includes a visit to a historic landmark in the old town, as well as lunch at a traditional restaurant.",
+          "zh": "我們的行程包括參觀老城區的一個歷史地標，還有在傳統餐廳吃午餐。"
+        },
+        {
+          "en": "The new bridge has quickly become a landmark, and many tourists stop to take photos of it at night.",
+          "zh": "新橋很快就成了地標，很多觀光客晚上會停下來拍照。"
+        },
+        {
+          "en": "The court's landmark decision will change the way companies protect the personal information of customers.",
+          "zh": "法院這項里程碑式的判決將改變企業保護顧客個資的方式。"
+        },
+        {
+          "en": "Please meet the tour group in front of the famous landmark at the center of the old town at nine.",
+          "zh": "請九點在老城區中心那個著名地標前和旅行團集合。"
+        }
+      ],
+      "distractors": [
+        "landfill",
+        "landlord",
+        "bookmark"
+      ],
+      "note": "語塊：famous landmark（著名地標）、historic landmark（歷史地標）、a landmark decision（里程碑式的決定）。landmark 是「讓人一眼認出的建築或地點」，也可以比喻「重要的里程碑」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-as-well-as",
+      "word": "as well as",
+      "pos": "連接詞",
+      "meaning": "以及；還有",
+      "sentences": [
+        {
+          "en": "The hotel offers free internet access as well as a free breakfast for all guests who book online.",
+          "zh": "飯店為所有網路訂房的客人提供免費網路以及免費早餐。"
+        },
+        {
+          "en": "The new manager speaks English and Japanese as well as Korean, which is useful for our clients in Asia.",
+          "zh": "新經理會說英文、日文以及韓文，對我們亞洲的客戶很有幫助。"
+        },
+        {
+          "en": "The course covers basic accounting as well as marketing and other skills needed to run a small business.",
+          "zh": "這門課涵蓋基礎會計，以及經營小企業需要的行銷等技能。"
+        },
+        {
+          "en": "The museum displays modern paintings as well as traditional crafts made by artists from the region.",
+          "zh": "博物館展出現代畫作，以及該地區藝術家製作的傳統工藝品。"
+        },
+        {
+          "en": "Employees will receive a bonus as well as an extra day of vacation if the team reaches its sales goal.",
+          "zh": "如果團隊達成業績目標，員工將獲得獎金以及額外一天的假期。"
+        }
+      ],
+      "distractors": [
+        "as long as",
+        "as soon as",
+        "as far as"
+      ],
+      "note": "語塊：A as well as B（A 以及 B）。A as well as B 重點在 A；當主詞時動詞跟著 A（The manager, as well as the staff, is…）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-civil-service",
+      "word": "civil service",
+      "pos": "名詞",
+      "meaning": "公職；公務員體系",
+      "sentences": [
+        {
+          "en": "Mr. Huang studied for two years before he passed the civil service exam and started working for the city.",
+          "zh": "黃先生準備了兩年才考上公務員考試，開始在市政府工作。"
+        },
+        {
+          "en": "Many young people want to join the civil service because the jobs are stable and offer good benefits.",
+          "zh": "很多年輕人想當公務員，因為工作穩定、福利又好。"
+        },
+        {
+          "en": "Ms. Ortiz worked in the civil service for twenty years before she started her own consulting company.",
+          "zh": "Ortiz 小姐在公部門工作二十年後，自己開了一家顧問公司。"
+        },
+        {
+          "en": "The civil service exam is held twice a year, and thousands of people take it in every major city.",
+          "zh": "公務員考試一年舉辦兩次，每個大城市都有數千人應考。"
+        },
+        {
+          "en": "The government plans to make the civil service more efficient by moving many services online.",
+          "zh": "政府計畫把許多服務移到網路上，讓公務體系更有效率。"
+        }
+      ],
+      "distractors": [
+        "civil rights",
+        "customer service",
+        "civil engineering"
+      ],
+      "note": "語塊：civil service exam（公務員考試）、join the civil service（成為公務員）、work in the civil service（在公部門工作）。civil service 指政府機關的「公務員體系」；civil servant 是「公務員（人）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-originality",
+      "word": "originality",
+      "pos": "名詞",
+      "meaning": "獨創性；創意",
+      "sentences": [
+        {
+          "en": "The judges praised the originality of the design, which used recycled materials in a creative way.",
+          "zh": "評審稱讚這個設計的獨創性，它以很有創意的方式使用回收材料。"
+        },
+        {
+          "en": "Students who show originality in their projects will receive extra points from the teacher at the end of the term.",
+          "zh": "在作品中展現創意的學生會從老師那裡得到額外加分。"
+        },
+        {
+          "en": "Critics said that the new movie lacks originality because the story is very similar to an older film.",
+          "zh": "評論家說新電影缺乏創意，因為故事和一部舊片非常相似。"
+        },
+        {
+          "en": "The advertising agency is known for the originality of its campaigns, which often go viral online.",
+          "zh": "那家廣告公司以廣告活動的獨創性聞名，常常在網路上爆紅。"
+        },
+        {
+          "en": "Our company values originality, so we encourage employees to share new ideas at every meeting.",
+          "zh": "我們公司重視創意，所以鼓勵員工在每次會議上分享新點子。"
+        }
+      ],
+      "distractors": [
+        "originate",
+        "organization",
+        "orientation"
+      ],
+      "note": "語塊：show originality（展現創意）、lack originality（缺乏創意）、the originality of（……的獨創性）。originality 是名詞「原創性」；original 是形容詞「原創的；原本的」；origin 是「起源」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-handicraft",
+      "word": "handicraft",
+      "pos": "名詞",
+      "meaning": "手工藝品；手藝",
+      "sentences": [
+        {
+          "en": "The village is famous for its traditional handicraft, especially baskets and bowls made from bamboo.",
+          "zh": "那個村莊以傳統手工藝聞名，尤其是竹子做的籃子和碗。"
+        },
+        {
+          "en": "The handicraft market opens every Saturday morning in the square in front of the old train station.",
+          "zh": "手工藝市集每週六早上在舊火車站前的廣場開放。"
+        },
+        {
+          "en": "Local artists sell handicraft items such as jewelry, pottery, and wooden toys at the summer festival.",
+          "zh": "在地藝術家在夏季慶典上販售珠寶、陶器和木製玩具等手工藝品。"
+        },
+        {
+          "en": "The government provides training to help young people learn traditional handicraft skills from older artists.",
+          "zh": "政府提供訓練，幫助年輕人向年長的藝術家學習傳統手工藝技能。"
+        },
+        {
+          "en": "Tourists often buy handicraft goods as gifts because they are unique and made by local people.",
+          "zh": "遊客常買手工藝品當禮物，因為它們很獨特，又是當地人做的。"
+        }
+      ],
+      "distractors": [
+        "aircraft",
+        "handcuff",
+        "spacecraft"
+      ],
+      "note": "語塊：traditional handicraft（傳統手工藝）、sell handicraft（販售手工藝品）、handicraft market（手工藝市集）。handicraft 也常用複數 handicrafts；handmade 是形容詞「手工的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attention",
+      "word": "attention",
+      "pos": "名詞",
+      "meaning": "注意；關注",
+      "sentences": [
+        {
+          "en": "Please pay attention to the safety instructions before you begin using the machines in the workshop.",
+          "zh": "開始使用工作坊的機器之前，請注意安全說明。"
+        },
+        {
+          "en": "The new advertisement has attracted a lot of attention on social media since it was released last week.",
+          "zh": "新廣告上週推出以來，在社群媒體上吸引了很多關注。"
+        },
+        {
+          "en": "Drivers should pay attention to the new traffic signs that have been installed near the school.",
+          "zh": "駕駛應該注意學校附近新設置的交通標誌。"
+        },
+        {
+          "en": "The colorful window display is designed to attract attention from people walking along the busy street.",
+          "zh": "色彩繽紛的櫥窗展示是為了吸引熱鬧街上行人的注意。"
+        },
+        {
+          "en": "Please mark the envelope \"for the attention of\" the human resources manager so that it is delivered quickly.",
+          "zh": "請在信封上註明「交給人資經理收」，讓它能快速送達。"
+        }
+      ],
+      "distractors": [
+        "intention",
+        "attendance",
+        "retention"
+      ],
+      "note": "語塊：pay attention to（注意……）、attract attention（吸引注意）、for the attention of（交給……收）。pay attention to 的 to 是介系詞；attentive 是「專注的、體貼的」；intention（意圖）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resolve",
+      "word": "resolve",
+      "pos": "動詞",
+      "meaning": "解決；下定決心",
+      "sentences": [
+        {
+          "en": "Our technical support team works twenty-four hours a day to resolve problems as quickly as possible.",
+          "zh": "我們的技術支援團隊二十四小時工作，盡快解決問題。"
+        },
+        {
+          "en": "The two companies hired a lawyer to help them resolve a dispute about the price of the land.",
+          "zh": "兩家公司請了一位律師，幫他們解決土地價格的糾紛。"
+        },
+        {
+          "en": "The manager met with the customer in person to resolve an issue with the delivery of her furniture.",
+          "zh": "經理親自和顧客見面，解決她家具送貨的問題。"
+        },
+        {
+          "en": "If we cannot resolve the issue by phone, a technician will visit your home on Monday morning.",
+          "zh": "如果我們無法在電話中解決問題，技師會在週一早上到你家。"
+        },
+        {
+          "en": "The city council hopes to resolve the problem of traffic jams by building a new road around the city.",
+          "zh": "市議會希望在城市周圍蓋一條新路，解決塞車問題。"
+        }
+      ],
+      "distractors": [
+        "revolve",
+        "evolve",
+        "dissolve"
+      ],
+      "note": "語塊：resolve a problem（解決問題）、resolve a dispute（解決糾紛）、resolve an issue（解決問題）。resolve 比 solve 正式；名詞是 resolution；resolve to do 是「下定決心做」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-head",
+      "word": "head",
+      "pos": "動詞",
+      "meaning": "帶領；朝……前進",
+      "sentences": [
+        {
+          "en": "Ms. Ruiz was chosen to head a team of designers who will create the company's new website.",
+          "zh": "Ruiz 小姐被選為帶領一個設計師團隊，負責打造公司的新網站。"
+        },
+        {
+          "en": "After the meeting ends, we will head for the airport to catch our flight to Singapore.",
+          "zh": "會議結束後，我們會前往機場搭飛往新加坡的班機。"
+        },
+        {
+          "en": "Mr. Lee will head the marketing department after the current director retires at the end of June.",
+          "zh": "六月現任總監退休後，李先生將主管行銷部。"
+        },
+        {
+          "en": "Many families head for the beach during the summer holiday, so the roads are often very busy.",
+          "zh": "很多家庭在暑假期間前往海邊，所以道路常常很塞。"
+        },
+        {
+          "en": "The company hired an experienced engineer to head the new research center that it opened in Seoul.",
+          "zh": "公司聘請一位資深工程師帶領首爾的新研究中心。"
+        }
+      ],
+      "distractors": [
+        "heed",
+        "heat",
+        "held"
+      ],
+      "note": "語塊：head a team（帶領團隊）、head for（前往）、head the department（主管部門）。head 當動詞可以是「領導」或「前往」；head office 是「總公司」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stressful",
+      "word": "stressful",
+      "pos": "形容詞",
+      "meaning": "壓力大的",
+      "sentences": [
+        {
+          "en": "Working in an emergency room can be a stressful job, so hospitals offer support to their staff.",
+          "zh": "在急診室工作可能壓力很大，所以醫院會為員工提供支持。"
+        },
+        {
+          "en": "Many people find moving to a new city stressful, especially when they do not know anyone there.",
+          "zh": "很多人覺得搬到新城市很有壓力，尤其是在那裡不認識任何人的時候。"
+        },
+        {
+          "en": "The training teaches staff how to stay calm in a stressful situation with an angry customer.",
+          "zh": "訓練教員工面對生氣的顧客時，如何在緊張的情況下保持冷靜。"
+        },
+        {
+          "en": "The weeks before the product launch were stressful, but the team managed to finish everything on time.",
+          "zh": "產品上市前的那幾週壓力很大，但團隊還是設法準時完成了所有工作。"
+        },
+        {
+          "en": "Some employees find giving presentations stressful, so the company offers a course on public speaking.",
+          "zh": "有些員工覺得做簡報很有壓力，所以公司開設了公開演講的課程。"
+        }
+      ],
+      "distractors": [
+        "stressed",
+        "successful",
+        "restful"
+      ],
+      "note": "語塊：stressful job（壓力大的工作）、stressful situation（緊張的情況）、find sth stressful（覺得……很有壓力）。stressful 是「讓人有壓力的（事物）」；stressed 是「（人）感到有壓力的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-confronted-with",
+      "word": "confronted with",
+      "pos": "其他",
+      "meaning": "面臨；遭遇",
+      "sentences": [
+        {
+          "en": "The company was confronted with a serious problem when its main supplier suddenly closed last year.",
+          "zh": "主要供應商突然倒閉時，公司面臨了一個嚴重的問題。"
+        },
+        {
+          "en": "New managers are often confronted with difficult decisions during their first few months in the job.",
+          "zh": "新任經理在上任頭幾個月常常面臨困難的決定。"
+        },
+        {
+          "en": "The small town was confronted with a shortage of doctors after the local hospital reduced its staff.",
+          "zh": "當地醫院裁員後，那個小鎮面臨醫生短缺的問題。"
+        },
+        {
+          "en": "When confronted with an angry customer, staff should listen carefully and try to find a solution.",
+          "zh": "面對生氣的顧客時，員工應該仔細聆聽並設法找到解決辦法。"
+        },
+        {
+          "en": "The airline was confronted with many complaints after it canceled dozens of flights during the storm.",
+          "zh": "航空公司在暴風雨期間取消了數十班航班後，面臨了大量投訴。"
+        }
+      ],
+      "distractors": [
+        "confronted by",
+        "comforted with",
+        "concerned with"
+      ],
+      "note": "語塊：be confronted with（面臨……）。be confronted with 是「必須面對（問題）」；be faced with 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inspiring",
+      "word": "inspiring",
+      "pos": "形容詞",
+      "meaning": "鼓舞人心的；啟發人的",
+      "sentences": [
+        {
+          "en": "The CEO gave an inspiring speech about the company's future at the end of the annual meeting.",
+          "zh": "執行長在年度大會的最後，發表了一場關於公司未來的鼓舞人心的演講。"
+        },
+        {
+          "en": "The magazine published an inspiring story about a woman who started a successful business at the age of sixty.",
+          "zh": "那本雜誌刊登了一個激勵人心的故事，講一位六十歲才創業成功的女性。"
+        },
+        {
+          "en": "Employees describe Ms. Patel as an inspiring leader who always encourages them to try new ideas.",
+          "zh": "員工形容 Patel 小姐是一位啟發人的領導者，總是鼓勵他們嘗試新點子。"
+        },
+        {
+          "en": "Many visitors find the museum's exhibition about space travel very inspiring, especially young students from local schools.",
+          "zh": "很多參觀者覺得博物館的太空旅行展覽非常激勵人心，尤其是年輕學生。"
+        },
+        {
+          "en": "The conference will end with an inspiring talk by an athlete who won three gold medals.",
+          "zh": "研討會將以一位贏得三面金牌的運動員的激勵演講作結。"
+        }
+      ],
+      "distractors": [
+        "inspired",
+        "aspiring",
+        "expiring"
+      ],
+      "note": "語塊：inspiring speech（鼓舞人心的演講）、inspiring story（激勵人心的故事）、inspiring leader（啟發人的領導者）。inspiring 是「讓人受鼓舞的（事物）」；inspired 是「（人）受到啟發的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tax-break",
+      "word": "tax break",
+      "pos": "名詞",
+      "meaning": "減稅優惠",
+      "sentences": [
+        {
+          "en": "The government will give a tax break to companies that build factories in less developed areas.",
+          "zh": "政府將提供減稅優惠給在較不發達地區設廠的公司。"
+        },
+        {
+          "en": "Families with young children can receive a tax break to help pay for childcare and education.",
+          "zh": "有幼童的家庭可以獲得減稅優惠，幫忙支付托育和教育費用。"
+        },
+        {
+          "en": "The new tax break for electric cars has led to a large increase in sales this year.",
+          "zh": "電動車的新減稅優惠讓今年的銷售大幅增加。"
+        },
+        {
+          "en": "Small businesses that hire young workers may receive a tax break of up to ten percent.",
+          "zh": "聘用年輕員工的小企業最多可以獲得百分之十的減稅優惠。"
+        },
+        {
+          "en": "Many economists believe that a tax break for homeowners would help the housing market recover.",
+          "zh": "很多經濟學家認為給屋主減稅優惠會幫助房市復甦。"
+        }
+      ],
+      "distractors": [
+        "tax bracket",
+        "coffee break",
+        "tax return"
+      ],
+      "note": "語塊：give a tax break（提供減稅）、receive a tax break（獲得減稅）。tax break 是「政府給的減稅優惠」；tax advantage、tax incentive 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
