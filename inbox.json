@@ -47338,6 +47338,706 @@
       ],
       "note": "語塊：law firm（律師事務所）、accounting firm（會計師事務所）、consulting firm（顧問公司）。firm 當名詞是「公司（常指專業服務公司）」；當形容詞是「堅固的；堅定的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-set-up",
+      "word": "set up",
+      "pos": "片語動詞",
+      "meaning": "設立；架設；安排",
+      "sentences": [
+        {
+          "en": "Ms. Park decided to set up a business that sells handmade furniture online after she left her job.",
+          "zh": "朴小姐辭職後決定創業，在網路上賣手工家具。"
+        },
+        {
+          "en": "Could you set up a meeting with the clients for next Tuesday afternoon at their office?",
+          "zh": "你可以安排下週二下午在客戶辦公室和他們開會嗎？"
+        },
+        {
+          "en": "The technicians will set up the equipment in the conference room before the presentation begins.",
+          "zh": "技師會在簡報開始前，在會議室架設好設備。"
+        },
+        {
+          "en": "The company plans to set up a new office in Singapore to manage its business in Southeast Asia.",
+          "zh": "公司計畫在新加坡設立新辦公室，管理東南亞的業務。"
+        },
+        {
+          "en": "It took the volunteers two hours to set up the tables and chairs for the charity dinner.",
+          "zh": "志工花了兩小時為慈善晚宴擺好桌椅。"
+        }
+      ],
+      "distractors": [
+        "set off",
+        "set out",
+        "set aside"
+      ],
+      "note": "語塊：set up a business（創業）、set up a meeting（安排會議）、set up equipment（架設設備）。set up 是「建立、架設」；setup 是名詞「設置；配置」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-declining",
+      "word": "declining",
+      "pos": "形容詞",
+      "meaning": "下降的；衰退的",
+      "sentences": [
+        {
+          "en": "Because of declining sales, the store has decided to close two of its branches next year.",
+          "zh": "因為銷售下滑，那家店決定明年關閉兩家分店。"
+        },
+        {
+          "en": "Many small towns are facing a declining population as young people move to large cities.",
+          "zh": "隨著年輕人搬到大城市，很多小鎮面臨人口減少。"
+        },
+        {
+          "en": "The company changed its advertising strategy because of declining interest in its products among young customers.",
+          "zh": "因為年輕顧客的興趣降低，公司改變了廣告策略。"
+        },
+        {
+          "en": "Declining prices for solar panels have made it easier for families to use clean energy at home.",
+          "zh": "太陽能板價格下降，讓家庭更容易在家使用潔淨能源。"
+        },
+        {
+          "en": "The newspaper has suffered from declining sales since more people began reading the news online.",
+          "zh": "自從更多人開始在網路上看新聞，那家報紙的銷量就一直下滑。"
+        }
+      ],
+      "distractors": [
+        "reclining",
+        "designing",
+        "defining"
+      ],
+      "note": "語塊：declining sales（下滑的銷售）、declining population（減少的人口）、declining interest（降低的興趣）。declining 是「正在減少的」；decline 可以當動詞「下降；婉拒」或名詞「下降」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-impact",
+      "word": "impact",
+      "pos": "名詞",
+      "meaning": "影響；衝擊",
+      "sentences": [
+        {
+          "en": "The new factory will have a big impact on the local economy by creating hundreds of jobs.",
+          "zh": "新工廠將創造數百個工作，對地方經濟產生很大的影響。"
+        },
+        {
+          "en": "The training program had a positive impact on customer service in all of our stores.",
+          "zh": "訓練計畫對我們所有門市的客服都有正面影響。"
+        },
+        {
+          "en": "The company must study the environmental impact of the new road before construction can begin.",
+          "zh": "施工開始前，公司必須研究新道路對環境的衝擊。"
+        },
+        {
+          "en": "Rising fuel prices have had an impact on the cost of shipping goods around the world.",
+          "zh": "油價上漲對全球貨物運輸的成本造成了影響。"
+        },
+        {
+          "en": "Social media has a strong impact on the products that young people decide to buy online.",
+          "zh": "社群媒體對年輕人決定在網路上買什麼產品有很大的影響。"
+        }
+      ],
+      "distractors": [
+        "impart",
+        "impose",
+        "impeach"
+      ],
+      "note": "語塊：have an impact on（對……有影響）、a positive impact（正面影響）、environmental impact（環境衝擊）。impact 可以當名詞或動詞「影響」；effect、influence 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ingenious",
+      "word": "ingenious",
+      "pos": "形容詞",
+      "meaning": "巧妙的；有獨創性的",
+      "sentences": [
+        {
+          "en": "The engineer came up with an ingenious idea for reducing the noise from the factory's machines.",
+          "zh": "那位工程師想出一個巧妙的點子，減少工廠機器的噪音。"
+        },
+        {
+          "en": "The chair has an ingenious design that allows it to be folded into a small box for storage.",
+          "zh": "那張椅子有巧妙的設計，可以摺成一個小盒子收納。"
+        },
+        {
+          "en": "The team found an ingenious solution to the problem without spending any extra money or time.",
+          "zh": "團隊找到一個巧妙的解決辦法，沒有多花任何錢。"
+        },
+        {
+          "en": "Many visitors were impressed by the ingenious use of sunlight to heat the new library.",
+          "zh": "很多訪客對新圖書館巧妙利用陽光取暖印象深刻。"
+        },
+        {
+          "en": "The student's ingenious invention won first prize at the national science competition held in the capital this year.",
+          "zh": "那位學生巧妙的發明今年在全國科學競賽中獲得第一名。"
+        }
+      ],
+      "distractors": [
+        "ingenuous",
+        "indigenous",
+        "genius"
+      ],
+      "note": "語塊：ingenious idea（巧妙的點子）、ingenious design（巧妙的設計）、ingenious solution（巧妙的解決辦法）。ingenious 是「聰明又有創意的」；ingenuous 是「天真的」，只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unacceptable",
+      "word": "unacceptable",
+      "pos": "形容詞",
+      "meaning": "無法接受的；不可接受的",
+      "sentences": [
+        {
+          "en": "The manager said that the long delays in delivery were unacceptable and must be fixed immediately.",
+          "zh": "經理說長時間的延遲送貨是無法接受的，必須立刻改善。"
+        },
+        {
+          "en": "Rude comments to customers are totally unacceptable, and staff who make them may lose their jobs.",
+          "zh": "對顧客說無禮的話是完全無法接受的，這麼做的員工可能會丟掉工作。"
+        },
+        {
+          "en": "The school has strict rules about unacceptable behavior, such as using mobile phones during class.",
+          "zh": "學校對不可接受的行為有嚴格規定，例如上課時用手機。"
+        },
+        {
+          "en": "Many customers found the new prices unacceptable and decided to shop at other stores instead.",
+          "zh": "很多顧客覺得新價格無法接受，決定改去其他店購物。"
+        },
+        {
+          "en": "The report described the working conditions at the factory as unacceptable and called for changes.",
+          "zh": "報告形容工廠的工作條件無法接受，並呼籲改變。"
+        }
+      ],
+      "distractors": [
+        "acceptable",
+        "unaccountable",
+        "inaccessible"
+      ],
+      "note": "語塊：totally unacceptable（完全無法接受）、unacceptable behavior（不可接受的行為）、found sth unacceptable（覺得……無法接受）、were unacceptable（是無法接受的）。unacceptable 是「不能被接受的」；acceptable 是「可接受的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-underestimate",
+      "word": "underestimate",
+      "pos": "動詞",
+      "meaning": "低估",
+      "sentences": [
+        {
+          "en": "Many people underestimate the cost of moving to a new city, especially the price of housing.",
+          "zh": "很多人低估搬到新城市的花費，尤其是房價。"
+        },
+        {
+          "en": "Please do not underestimate the time it takes to prepare a good presentation for the clients.",
+          "zh": "請不要低估為客戶準備一份好簡報所需的時間。"
+        },
+        {
+          "en": "The company did not underestimate the competition and invested heavily in new technology and training.",
+          "zh": "公司沒有低估競爭，大舉投資新科技。"
+        },
+        {
+          "en": "It is easy to underestimate how much energy a building uses when the lights are left on at night.",
+          "zh": "晚上燈一直開著時，很容易低估一棟建築用了多少電。"
+        },
+        {
+          "en": "The team tends to underestimate the cost of projects, so the manager now adds ten percent to every budget.",
+          "zh": "團隊常常低估專案成本，所以經理現在每份預算都多加一成。"
+        }
+      ],
+      "distractors": [
+        "overestimate",
+        "understate",
+        "undermine"
+      ],
+      "note": "語塊：underestimate the cost（低估成本）、underestimate the time（低估所需時間）。underestimate 是「估計得太少」；overestimate 是「高估」；estimate 是「估計」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-uncontrolled",
+      "word": "uncontrolled",
+      "pos": "形容詞",
+      "meaning": "失控的；不受控制的",
+      "sentences": [
+        {
+          "en": "The city is trying to stop the uncontrolled growth of buildings near the beautiful old harbor.",
+          "zh": "市政府正努力阻止美麗舊港口附近的建築失控成長。"
+        },
+        {
+          "en": "Uncontrolled spending on travel and meals caused the department to go over its budget last year.",
+          "zh": "差旅和餐費的支出失控，讓部門去年超出預算。"
+        },
+        {
+          "en": "The fire was uncontrolled for several hours before firefighters were finally able to stop it.",
+          "zh": "火勢失控了好幾個小時，消防員才終於撲滅。"
+        },
+        {
+          "en": "Experts warn that uncontrolled use of plastic is causing serious damage to rivers and oceans.",
+          "zh": "專家警告，塑膠使用不受控制，正對河川和海洋造成嚴重損害。"
+        },
+        {
+          "en": "The new rules are designed to prevent uncontrolled price increases for rent in the city center.",
+          "zh": "新規定的目的是防止市中心房租失控上漲。"
+        }
+      ],
+      "distractors": [
+        "unconcerned",
+        "uncontested",
+        "unconditional"
+      ],
+      "note": "語塊：uncontrolled growth（失控的成長）、uncontrolled spending（失控的支出）、uncontrolled use（不受控制的使用）、uncontrolled price increases（失控的漲價）。uncontrolled 是「沒有被控制的」；controlled 是「受控制的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resentfully",
+      "word": "resentfully",
+      "pos": "副詞",
+      "meaning": "憤恨地；不滿地",
+      "sentences": [
+        {
+          "en": "The employee spoke resentfully about the new schedule, which required him to work every weekend.",
+          "zh": "那位員工不滿地談起新班表，因為那要求他每個週末都上班。"
+        },
+        {
+          "en": "Some workers agreed resentfully to the pay cut because they were afraid of losing their jobs.",
+          "zh": "有些工人很不甘願地同意減薪，因為怕丟掉工作。"
+        },
+        {
+          "en": "The customer looked at the bill resentfully when she saw the extra charge for the delivery.",
+          "zh": "那位顧客看到額外的運費時，不滿地看著帳單。"
+        },
+        {
+          "en": "He resentfully accepted the decision of the committee, even though he did not agree with it.",
+          "zh": "他雖然不同意，還是不甘願地接受了委員會的決定。"
+        },
+        {
+          "en": "The staff spoke resentfully about the lack of communication from management during the merger last year.",
+          "zh": "員工不滿地談論合併期間管理階層缺乏溝通。"
+        }
+      ],
+      "distractors": [
+        "respectfully",
+        "resourcefully",
+        "restfully"
+      ],
+      "note": "語塊：speak resentfully（不滿地說）、spoke resentfully（不滿地說了）、resentfully accepted（不甘願地接受）、agreed resentfully（不甘願地同意）。resentfully 是「心裡不爽、不甘願地」；resent 是動詞「憤恨」；resentment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-skeptically",
+      "word": "skeptically",
+      "pos": "副詞",
+      "meaning": "懷疑地；不相信地",
+      "sentences": [
+        {
+          "en": "The investors listened skeptically as the young entrepreneur explained his plan for the new business.",
+          "zh": "年輕創業家說明新事業的計畫時，投資人半信半疑地聽著。"
+        },
+        {
+          "en": "Many customers reacted skeptically to the company's claim that its new product could save energy.",
+          "zh": "很多顧客對公司宣稱新產品能節能的說法抱持懷疑。"
+        },
+        {
+          "en": "The manager looked skeptically at the report because the sales numbers seemed much too high to be true.",
+          "zh": "經理懷疑地看著報告，因為數字看起來太高了。"
+        },
+        {
+          "en": "Some residents responded skeptically when the city promised that the new road would reduce traffic.",
+          "zh": "市政府承諾新道路會減少交通量時，有些居民抱持懷疑。"
+        },
+        {
+          "en": "The board reacted skeptically to the proposal at first, but it approved the plan after more discussion.",
+          "zh": "董事會起初對提案抱持懷疑，但經過更多討論後核准了計畫。"
+        }
+      ],
+      "distractors": [
+        "specifically",
+        "sympathetically",
+        "spectacularly"
+      ],
+      "note": "語塊：look skeptically（懷疑地看）、react skeptically（以懷疑態度回應）。skeptically 是「半信半疑地」；skeptical 是形容詞「懷疑的」；skeptic 是「懷疑者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-informative",
+      "word": "informative",
+      "pos": "形容詞",
+      "meaning": "資訊豐富的；有教育意義的",
+      "sentences": [
+        {
+          "en": "The workshop was very informative, and many participants said they learned useful tips for their jobs.",
+          "zh": "工作坊資訊很豐富，很多學員說他們學到了對工作有用的訣竅。"
+        },
+        {
+          "en": "The museum's new website is informative and easy to use, with maps and details about every exhibit.",
+          "zh": "博物館的新網站資訊豐富又好用，有地圖和每個展品的細節。"
+        },
+        {
+          "en": "Ms. Lee gave an informative presentation about the changes to the company's health insurance plan.",
+          "zh": "李小姐針對公司健康保險方案的變更，做了一場資訊豐富的簡報。"
+        },
+        {
+          "en": "The brochure is highly informative and explains everything that new students need to know about the school.",
+          "zh": "這本小冊子非常有用，說明了新生需要知道的所有事情。"
+        },
+        {
+          "en": "Customers found the video about the new software very informative, so we will make more of them.",
+          "zh": "顧客覺得那支介紹新軟體的影片非常有用，所以我們會再多拍幾支。"
+        }
+      ],
+      "distractors": [
+        "informal",
+        "innovative",
+        "imaginative"
+      ],
+      "note": "語塊：informative presentation（資訊豐富的簡報）、highly informative（非常有用的）、very informative（非常有用的）、informative and easy（資訊豐富又容易）。informative 是「提供很多有用資訊的」；information 是名詞；informal 是「非正式的」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transaction-history",
+      "word": "transaction history",
+      "pos": "名詞",
+      "meaning": "交易紀錄",
+      "sentences": [
+        {
+          "en": "Customers can check their transaction history online at any time by logging in to their bank account.",
+          "zh": "顧客隨時都可以登入銀行帳戶，在網路上查詢交易紀錄。"
+        },
+        {
+          "en": "If you see a payment that you do not recognize in your transaction history, please call the bank.",
+          "zh": "如果你在交易紀錄中看到不認得的付款，請打電話給銀行。"
+        },
+        {
+          "en": "The app allows users to view transaction history for the past twelve months and download it as a file.",
+          "zh": "這個 App 讓使用者檢視過去十二個月的交易紀錄，並下載成檔案。"
+        },
+        {
+          "en": "Please print your transaction history and attach it to the form when you request a refund.",
+          "zh": "申請退款時，請把你的交易紀錄印出來附在表格上。"
+        },
+        {
+          "en": "The accountant asked the client to send a copy of her transaction history for the last three months.",
+          "zh": "會計師請客戶寄一份她最近三個月的交易紀錄。"
+        }
+      ],
+      "distractors": [
+        "bank statement",
+        "purchase history",
+        "medical history"
+      ],
+      "note": "語塊：check their transaction history（查詢交易紀錄）、view transaction history（檢視交易紀錄）、in your transaction history（在你的交易紀錄中）、print your transaction history（印出交易紀錄）。transaction 是「交易」；history 在這裡是「紀錄」；statement 是「對帳單」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bring-in",
+      "word": "bring in",
+      "pos": "片語動詞",
+      "meaning": "引進；帶來（收入）；請來",
+      "sentences": [
+        {
+          "en": "The new advertising campaign is expected to bring in more customers during the holiday season.",
+          "zh": "新的廣告活動預計在節慶期間招攬更多顧客。"
+        },
+        {
+          "en": "The summer festival will bring in a large amount of revenue for local hotels and restaurants.",
+          "zh": "夏季慶典將為當地飯店和餐廳帶來大筆營收。"
+        },
+        {
+          "en": "The company decided to bring in experts from Germany to help train its engineers at the new factory.",
+          "zh": "公司決定從德國請專家來協助訓練工程師。"
+        },
+        {
+          "en": "The museum hopes the new exhibition will bring in visitors who have never been there before.",
+          "zh": "博物館希望新展覽能吸引從沒來過的參觀者。"
+        },
+        {
+          "en": "The new menu helped the restaurant bring in more revenue on weekday evenings, which used to be quiet.",
+          "zh": "新菜單幫助那家餐廳在以前很冷清的平日晚上帶來更多營收。"
+        }
+      ],
+      "distractors": [
+        "bring up",
+        "bring about",
+        "bring back"
+      ],
+      "note": "語塊：bring in customers（招攬顧客）、bring in revenue（帶來營收）、bring in experts（請來專家）。bring in 可以是「帶來（錢、顧客）」或「請（人）來幫忙」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gross-profit",
+      "word": "gross profit",
+      "pos": "名詞",
+      "meaning": "毛利",
+      "sentences": [
+        {
+          "en": "The company's gross profit increased by fifteen percent last year because of lower material costs.",
+          "zh": "因為材料成本降低，公司去年的毛利增加了一成五。"
+        },
+        {
+          "en": "The store hopes to increase gross profit by selling more of its own brand of products.",
+          "zh": "那家店希望多賣自有品牌產品來提高毛利。"
+        },
+        {
+          "en": "The report shows the gross profit margin for each product line over the past three years.",
+          "zh": "報告顯示過去三年每條產品線的毛利率。"
+        },
+        {
+          "en": "Rising shipping costs have reduced the gross profit of many small online retailers this year.",
+          "zh": "運費上漲讓今年很多網路零售商的毛利減少了。"
+        },
+        {
+          "en": "The new manager wants to improve the gross profit margin of the restaurant by reducing food waste.",
+          "zh": "新經理希望減少食物浪費來提高餐廳的毛利率。"
+        }
+      ],
+      "distractors": [
+        "net profit",
+        "gross income",
+        "gross weight"
+      ],
+      "note": "語塊：increase gross profit（提高毛利）、gross profit margin（毛利率）。gross profit 是「營收減去成本（還沒扣其他費用）」；net profit 是「淨利」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inauguration",
+      "word": "inauguration",
+      "pos": "名詞",
+      "meaning": "就職典禮；開幕式",
+      "sentences": [
+        {
+          "en": "The mayor's inauguration ceremony will take place in front of city hall on Monday morning.",
+          "zh": "市長的就職典禮將在週一早上於市政府前舉行。"
+        },
+        {
+          "en": "Thousands of people attended the inauguration of the new bridge, which connects the two cities.",
+          "zh": "數千人參加了連接兩座城市的新橋啟用典禮。"
+        },
+        {
+          "en": "The inauguration of the new president of the university was broadcast live on the internet.",
+          "zh": "大學新校長的就職典禮在網路上現場直播。"
+        },
+        {
+          "en": "Several famous guests were invited to the inauguration ceremony of the new concert hall downtown last weekend.",
+          "zh": "好幾位知名來賓受邀參加新音樂廳的啟用典禮。"
+        },
+        {
+          "en": "Roads near the stadium will be closed during the inauguration ceremony, so please take the subway.",
+          "zh": "就職典禮期間體育場附近的道路會封閉，所以請搭捷運。"
+        }
+      ],
+      "distractors": [
+        "initiation",
+        "installation",
+        "indignation"
+      ],
+      "note": "語塊：inauguration ceremony（就職典禮）、the inauguration of（……的就職／啟用）。inauguration 是正式的「就任、啟用儀式」；inaugurate 是動詞；opening ceremony 是「開幕典禮」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-diversification",
+      "word": "diversification",
+      "pos": "名詞",
+      "meaning": "多元化",
+      "sentences": [
+        {
+          "en": "The company's diversification into healthcare and education has helped it grow steadily during difficult economic times.",
+          "zh": "公司拓展到醫療和教育的多元化發展，幫助它在艱困時期持續成長。"
+        },
+        {
+          "en": "Financial advisors recommend the diversification of investments to reduce the risk of losing money in the stock market.",
+          "zh": "理財顧問建議投資多元化，以降低虧損的風險。"
+        },
+        {
+          "en": "Business diversification allows farmers to earn money from tourism as well as from their crops.",
+          "zh": "業務多元化讓農民除了作物之外，也能從觀光賺錢。"
+        },
+        {
+          "en": "The diversification of the city's economy has created many new jobs in technology and services.",
+          "zh": "城市經濟的多元化在科技和服務業創造了新工作。"
+        },
+        {
+          "en": "The board approved a plan for the diversification of the company's products over the next five years.",
+          "zh": "董事會核准了一項在未來五年讓公司產品多元化的計畫。"
+        }
+      ],
+      "distractors": [
+        "diversion",
+        "verification",
+        "classification"
+      ],
+      "note": "語塊：business diversification（業務多元化）、diversification of（……的多元化）。diversification 是「往多方面發展、分散」；diversify 是動詞；diverse 是形容詞「多樣的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-indeed",
+      "word": "indeed",
+      "pos": "副詞",
+      "meaning": "確實；的確",
+      "sentences": [
+        {
+          "en": "The new software is indeed easier to use than the old one, and most employees prefer it.",
+          "zh": "新軟體確實比舊的好用，大部分員工都比較喜歡。"
+        },
+        {
+          "en": "The restaurant was indeed very busy on Saturday night, so we had to wait thirty minutes for a table.",
+          "zh": "那家餐廳週六晚上確實非常忙，所以我們等了三十分鐘才有位子。"
+        },
+        {
+          "en": "Sales did indeed increase after the advertising campaign, just as the marketing team had predicted.",
+          "zh": "廣告活動後銷售確實增加了，正如行銷團隊預測的那樣。"
+        },
+        {
+          "en": "The view from the top of the tower is indeed beautiful, especially at sunset when the sky is orange.",
+          "zh": "從塔頂看出去的景色確實很美，尤其是天空變成橘色的日落時分。"
+        },
+        {
+          "en": "We are indeed grateful for your help with the event, and we hope to work with you again.",
+          "zh": "我們真的很感謝你協助這次活動，希望能再次合作。"
+        }
+      ],
+      "distractors": [
+        "instead",
+        "indebted",
+        "indoors"
+      ],
+      "note": "語塊：indeed（確實）、very ... indeed（真的非常……）。indeed 用來加強語氣或確認前面的說法；really、certainly 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-precisely",
+      "word": "precisely",
+      "pos": "副詞",
+      "meaning": "精確地；正是",
+      "sentences": [
+        {
+          "en": "The meeting will begin precisely at nine o'clock, so please arrive a few minutes early.",
+          "zh": "會議九點整準時開始，所以請提早幾分鐘到。"
+        },
+        {
+          "en": "The machine can cut the wood precisely, so every piece is exactly the same size.",
+          "zh": "那台機器能精確地切割木材，所以每一塊都一樣大。"
+        },
+        {
+          "en": "The hotel is popular precisely because it is so close to the beach and the train station.",
+          "zh": "那家飯店受歡迎，正是因為它離海灘和火車站都很近。"
+        },
+        {
+          "en": "Please follow the instructions precisely when you mix the chemicals in the school laboratory today.",
+          "zh": "在實驗室混合化學品時，請精確地照說明操作。"
+        },
+        {
+          "en": "The new phone was released precisely one year after the previous model went on sale.",
+          "zh": "新手機正好在前一款開賣一年後推出。"
+        }
+      ],
+      "distractors": [
+        "concisely",
+        "previously",
+        "preciously"
+      ],
+      "note": "語塊：precisely at（準時在……）、precisely because（正是因為）。precisely 是「準確地」或「正是」；exactly 意思接近；precise 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regretfully",
+      "word": "regretfully",
+      "pos": "副詞",
+      "meaning": "遺憾地",
+      "sentences": [
+        {
+          "en": "We must regretfully decline your invitation, as our whole team will be traveling abroad that week.",
+          "zh": "我們必須遺憾地婉拒您的邀請，因為我們團隊那週要出差。"
+        },
+        {
+          "en": "The company regretfully announced that the factory will close at the end of the year.",
+          "zh": "公司遺憾地宣布工廠將在年底關閉。"
+        },
+        {
+          "en": "Ms. Lee regretfully told the client that the order could not be delivered before the holiday.",
+          "zh": "李小姐遺憾地告訴客戶，訂單無法在假期前送達。"
+        },
+        {
+          "en": "The organizers regretfully canceled the outdoor concert because of the heavy rain on Saturday afternoon.",
+          "zh": "主辦單位因為週六大雨，遺憾地取消了戶外音樂會。"
+        },
+        {
+          "en": "I must regretfully inform you that the position has already been filled by another candidate.",
+          "zh": "我必須遺憾地通知您，這個職位已經由另一位候選人補上了。"
+        }
+      ],
+      "distractors": [
+        "regrettably",
+        "respectfully",
+        "gratefully"
+      ],
+      "note": "語塊：regretfully decline（遺憾地婉拒）、regretfully announced（遺憾地宣布了）、regretfully inform（遺憾地通知）、regretfully told（遺憾地告訴）。regretfully 是「很遺憾地（帶著後悔或抱歉）」；regrettably 是「令人遺憾的是」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adversely",
+      "word": "adversely",
+      "pos": "副詞",
+      "meaning": "不利地；負面地",
+      "sentences": [
+        {
+          "en": "The heavy rain could adversely affect the crops on many farms in the southern region this year.",
+          "zh": "大雨今年可能會對南部很多農場的作物造成不利影響。"
+        },
+        {
+          "en": "Rising interest rates may adversely affect sales of houses and cars over the next few months.",
+          "zh": "利率上升可能在未來幾個月對房屋和汽車的銷售造成不利影響。"
+        },
+        {
+          "en": "Several small businesses were adversely affected by the long construction work on the main street.",
+          "zh": "好幾家小商家受到主要街道施工的不利影響。"
+        },
+        {
+          "en": "Working long hours without rest can adversely affect your health and your performance at work.",
+          "zh": "長時間工作不休息，可能會對你的健康和工作表現造成負面影響。"
+        },
+        {
+          "en": "The strike at the port could adversely affect the delivery of goods to stores across the country.",
+          "zh": "港口罷工可能會對全國門市的貨物配送造成不利影響。"
+        }
+      ],
+      "distractors": [
+        "adversary",
+        "diversely",
+        "inversely"
+      ],
+      "note": "語塊：adversely affect（不利地影響）、be adversely affected（受到不利影響）。adversely 是「造成壞影響地」；negatively 意思接近；adverse 是形容詞「不利的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-function",
+      "word": "function",
+      "pos": "名詞",
+      "meaning": "功能；作用；（正式）活動",
+      "sentences": [
+        {
+          "en": "The main function of the new software is to help managers track the progress of each project.",
+          "zh": "新軟體的主要功能是幫助經理追蹤每個專案的進度。"
+        },
+        {
+          "en": "The hotel has a large hall that can be used for a wedding, a conference, or any other social function.",
+          "zh": "飯店有一個大廳，可以用來辦婚禮、研討會或任何其他社交活動。"
+        },
+        {
+          "en": "Each part of the machine performs a function, so the whole system stops if one part breaks.",
+          "zh": "機器的每個零件都有作用，所以一個零件壞了整個系統就會停。"
+        },
+        {
+          "en": "The new phone has a camera function that can take clear pictures even in low light.",
+          "zh": "新手機有一個在光線不足時也能拍清楚照片的相機功能。"
+        },
+        {
+          "en": "The main function of the committee is to review the budget and make recommendations to the board.",
+          "zh": "委員會的主要功能是審查預算並向董事會提出建議。"
+        }
+      ],
+      "distractors": [
+        "fraction",
+        "fiction",
+        "junction"
+      ],
+      "note": "語塊：main function（主要功能）、perform a function（發揮作用）、social function（社交活動）。function 可以是「功能」或正式的「宴會、活動」；functional 是形容詞「實用的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
