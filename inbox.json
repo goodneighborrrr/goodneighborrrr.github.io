@@ -10833,41 +10833,6 @@
       ],
       "note": "語塊：a bout of heavy rain（一陣大雨）、a bout of the flu（一場流感）、a short bout of（短暫的一陣……）、another bout of（又一波……）。bout 是「一陣子、一段時間」，通常指不好的事情發作一段時間，像天氣、生病、問題。也可以指拳擊、摔角的「一回合比賽」。同義：spell（一段時間）、episode（發作）。發音 [baʊt]，跟 about 的後半一樣。",
       "addedAt": "2026-11-09"
-    },
-    {
-      "id": "20261109-amount",
-      "word": "amount",
-      "pos": "名詞",
-      "meaning": "數量；金額；總額",
-      "sentences": [
-        {
-          "en": "The amount of precipitation this month was twice as high as usual, causing floods in several areas.",
-          "zh": "這個月的降雨量是平常的兩倍，造成好幾個地區淹水。"
-        },
-        {
-          "en": "Customers can pay the full amount online or choose to pay in three monthly installments.",
-          "zh": "顧客可以在線上付全額，或選擇分三個月付款。"
-        },
-        {
-          "en": "The new software has greatly reduced the amount of time our staff spend on paperwork every week.",
-          "zh": "新軟體大幅減少了我們員工每週花在文書工作上的時間。"
-        },
-        {
-          "en": "A large amount of money was invested in improving the safety equipment at the factory last year.",
-          "zh": "去年投入了一大筆錢改善工廠的安全設備。"
-        },
-        {
-          "en": "Please check the total amount printed on your receipt carefully before you leave the checkout counter.",
-          "zh": "離開結帳櫃台前，請仔細確認收據上印的總金額。"
-        }
-      ],
-      "distractors": [
-        "account",
-        "amend",
-        "mount"
-      ],
-      "note": "語塊：the amount of＋不可數名詞（……的量）、a large／small amount of（大量／少量的）、the full／total amount（全額／總金額）、the amount of time／money（時間／金錢的多寡）。amount 後面接「不可數名詞」：amount of rain、amount of money；可數名詞要用 number：a number of people。precipitation 是「降水量（雨、雪、冰雹）」，比 rain 更正式。別跟 account（帳戶）搞混。",
-      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
