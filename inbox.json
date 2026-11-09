@@ -43138,6 +43138,706 @@
       ],
       "note": "語塊：dedicate oneself to（致力於……）、dedicate time to（把時間用在……）、be dedicated to（專門用於）。dedicate 是「把時間、精力奉獻給」；dedication 是名詞；devote 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convincingly",
+      "word": "convincingly",
+      "pos": "副詞",
+      "meaning": "令人信服地；有說服力地",
+      "sentences": [
+        {
+          "en": "Ms. Park argued convincingly that the company should invest more money in online advertising next year.",
+          "zh": "朴小姐有說服力地論證公司應該在網路廣告上投入更多錢。"
+        },
+        {
+          "en": "The team won convincingly in the final game, scoring five goals in the first half alone.",
+          "zh": "球隊在決賽中大勝，光是上半場就進了五球。"
+        },
+        {
+          "en": "The speaker explained convincingly why electric cars will become much cheaper over the next decade.",
+          "zh": "講者令人信服地說明了電動車為什麼在未來十年會變得更便宜。"
+        },
+        {
+          "en": "The lawyer argued convincingly that her client had not broken any part of the contract.",
+          "zh": "律師有說服力地主張她的客戶沒有違反合約的任何部分。"
+        },
+        {
+          "en": "The new product performed convincingly in the tests, so the company decided to launch it in May.",
+          "zh": "新產品在測試中表現令人信服，所以公司決定在五月上市。"
+        }
+      ],
+      "distractors": [
+        "confusingly",
+        "conveniently",
+        "continually"
+      ],
+      "note": "語塊：argue convincingly（有說服力地論證）、win convincingly（大勝）、explained convincingly（令人信服地說明）、performed convincingly（表現令人信服）。convincingly 是副詞；convincing 是形容詞「有說服力的」；convince 是動詞「說服」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-electric",
+      "word": "electric",
+      "pos": "形容詞",
+      "meaning": "電動的；用電的",
+      "sentences": [
+        {
+          "en": "Sales of electric cars have increased sharply as more charging stations are built in the city.",
+          "zh": "隨著城裡興建更多充電站，電動車的銷售急劇增加。"
+        },
+        {
+          "en": "Our electric bill was much higher this summer because we used the air conditioner every day.",
+          "zh": "今年夏天我們的電費帳單高很多，因為每天都開冷氣。"
+        },
+        {
+          "en": "Many commuters now ride an electric bicycle to work because it is fast and does not cause pollution.",
+          "zh": "很多通勤族現在騎電動自行車上班，因為很快又不會造成污染。"
+        },
+        {
+          "en": "The company plans to replace all of its delivery trucks with electric vehicles by next year.",
+          "zh": "公司計畫在明年前把所有送貨卡車換成電動車。"
+        },
+        {
+          "en": "The hotel offers free charging for guests who arrive in an electric car and park in the garage.",
+          "zh": "飯店為開電動車來、停在停車場的客人提供免費充電。"
+        }
+      ],
+      "distractors": [
+        "electronic",
+        "eclectic",
+        "elastic"
+      ],
+      "note": "語塊：electric car（電動車）、electric bill（電費帳單）、electric bicycle（電動自行車）。electric 是「用電的」；electrical 是「和電有關的」（electrical engineer 電機工程師）；electronic 是「電子的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-venture",
+      "word": "venture",
+      "pos": "名詞",
+      "meaning": "新創事業；冒險事業",
+      "sentences": [
+        {
+          "en": "The two companies formed a joint venture to build electric cars for the Asian market.",
+          "zh": "兩家公司成立一家合資企業，為亞洲市場製造電動車。"
+        },
+        {
+          "en": "Opening a restaurant is a risky business venture, but Mr. Lopez is confident it will succeed.",
+          "zh": "開餐廳是一項有風險的商業投資，但 Lopez 先生有信心會成功。"
+        },
+        {
+          "en": "After leaving the bank, Ms. Kim started a new venture that sells organic coffee online.",
+          "zh": "離開銀行後，金小姐創辦了一個在網路上賣有機咖啡的新事業。"
+        },
+        {
+          "en": "The joint venture between the two airlines will offer more flights to Europe starting next year.",
+          "zh": "兩家航空公司的合資企業明年起將提供更多飛往歐洲的航班。"
+        },
+        {
+          "en": "Investors were interested in the new venture because it uses technology to reduce food waste.",
+          "zh": "投資人對那個新事業很有興趣，因為它用科技減少食物浪費。"
+        }
+      ],
+      "distractors": [
+        "adventure",
+        "vulture",
+        "venue"
+      ],
+      "note": "語塊：business venture（商業投資）、joint venture（合資企業）、new venture（新事業）。venture 是「有風險的新事業」；adventure 是「冒險」；venture capital 是「創投資金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-formalize",
+      "word": "formalize",
+      "pos": "動詞",
+      "meaning": "使正式化",
+      "sentences": [
+        {
+          "en": "The two companies will meet next week to formalize the agreement and sign the contract.",
+          "zh": "兩家公司下週會見面，正式簽訂協議並簽署合約。"
+        },
+        {
+          "en": "The manager wants to formalize the plan before presenting it to the board of directors.",
+          "zh": "經理想在向董事會報告之前，把計畫正式化。"
+        },
+        {
+          "en": "After working together for a year, the two firms decided to formalize their partnership with a new contract.",
+          "zh": "合作一年後，兩家公司決定讓合作關係正式化。"
+        },
+        {
+          "en": "The city will formalize the new rules for street parking at its meeting on Thursday.",
+          "zh": "市政府將在週四的會議上把街道停車的新規定正式化。"
+        },
+        {
+          "en": "We need to formalize the process for approving expenses so that every department follows the same rules.",
+          "zh": "我們需要把核准支出的流程正式化，讓每個部門都遵守相同的規定。"
+        }
+      ],
+      "distractors": [
+        "normalize",
+        "formulate",
+        "finalize"
+      ],
+      "note": "語塊：formalize an agreement（正式簽訂協議）、formalize a plan（將計畫正式化）、formalize their partnership（使合作正式化）、formalize the process（使流程正式化）。formalize 是「讓事情變成正式的」；formal 是形容詞「正式的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-case",
+      "word": "in case",
+      "pos": "連接詞",
+      "meaning": "以防；萬一",
+      "sentences": [
+        {
+          "en": "Please bring an umbrella in case it rains during the outdoor concert in the park this evening.",
+          "zh": "請帶把傘，以防今晚戶外音樂會時下雨。"
+        },
+        {
+          "en": "In case of fire, please use the stairs to leave the building and do not take the elevator.",
+          "zh": "萬一發生火災，請走樓梯，不要搭電梯。"
+        },
+        {
+          "en": "I will print an extra copy of the report just in case someone forgets theirs.",
+          "zh": "我會多印一份報告，以防萬一有人忘了帶。"
+        },
+        {
+          "en": "Save your work often in case the computer stops working suddenly during the busy afternoon.",
+          "zh": "經常存檔，以防電腦下午突然當機。"
+        },
+        {
+          "en": "The hotel keeps extra blankets in every room in case guests feel cold during the night.",
+          "zh": "飯店在每間房間都放了額外的毯子，以防客人晚上覺得冷。"
+        }
+      ],
+      "distractors": [
+        "in fact",
+        "in time",
+        "in place"
+      ],
+      "note": "語塊：in case of（如果發生……）、just in case（以防萬一）。in case + 子句 是「以防……」；in case of + 名詞 是「萬一發生……時」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-experience",
+      "word": "experience",
+      "pos": "名詞",
+      "meaning": "經驗；經歷",
+      "sentences": [
+        {
+          "en": "Applicants should have at least three years of work experience in sales or customer service.",
+          "zh": "應徵者應該在業務或客服方面至少有三年的工作經驗。"
+        },
+        {
+          "en": "Ms. Lee has many years of experience in marketing, so she will lead the new advertising campaign.",
+          "zh": "李小姐在行銷方面有多年經驗，所以由她帶領新的廣告活動。"
+        },
+        {
+          "en": "Working abroad for a year was a great experience that helped him learn a new language.",
+          "zh": "在國外工作一年是很棒的經歷，幫助他學會了一種新語言。"
+        },
+        {
+          "en": "The hotel wants every guest to have a pleasant experience, from the moment they check in to the moment they check out.",
+          "zh": "飯店希望每位客人從入住到退房都有愉快的體驗。"
+        },
+        {
+          "en": "Interns gain valuable work experience that helps them find full-time jobs after graduation from university.",
+          "zh": "實習生獲得寶貴的工作經驗，幫助他們畢業後找到全職工作。"
+        }
+      ],
+      "distractors": [
+        "experiment",
+        "expertise",
+        "expense"
+      ],
+      "note": "語塊：work experience（工作經驗）、years of experience（多年經驗）、a great experience（很棒的經歷）。experience 當「經驗」時不可數；當「一次經歷」時可數（a great experience）；experienced 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-concerning",
+      "word": "concerning",
+      "pos": "介系詞",
+      "meaning": "關於",
+      "sentences": [
+        {
+          "en": "Please contact Ms. Ruiz if you have any questions concerning the new vacation policy for next year.",
+          "zh": "如果你對新的休假規定有任何問題，請聯絡 Ruiz 小姐。"
+        },
+        {
+          "en": "The manager sent an email concerning the changes to the schedule for next week's training.",
+          "zh": "經理寄了一封關於下週訓練時程變更的電子郵件。"
+        },
+        {
+          "en": "I am writing concerning the order that I placed last week, which has not arrived yet.",
+          "zh": "我來信是關於我上週下的訂單，到現在還沒送到。"
+        },
+        {
+          "en": "The board will discuss several issues concerning the budget at its monthly meeting next Tuesday.",
+          "zh": "董事會將在下週二的會議上討論幾個關於預算的問題。"
+        },
+        {
+          "en": "Information concerning the matter will be shared with all employees once the investigation is complete.",
+          "zh": "調查完成後，關於這件事的資訊會分享給所有員工。"
+        }
+      ],
+      "distractors": [
+        "concerned",
+        "conserving",
+        "converting"
+      ],
+      "note": "語塊：concerning the matter（關於這件事）、questions concerning（關於……的問題）、concerning the changes（關於變更）、concerning the order（關於訂單）、issues concerning（關於……的議題）。concerning 和 regarding、about 意思相同，比較正式；concerned 是「擔心的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refund",
+      "word": "refund",
+      "pos": "名詞",
+      "meaning": "退款",
+      "sentences": [
+        {
+          "en": "Customers who are not satisfied with their purchase can receive a full refund within thirty days.",
+          "zh": "對購買的商品不滿意的顧客可以在三十天內獲得全額退款。"
+        },
+        {
+          "en": "To request a refund, please fill out the form on our website and include your order number.",
+          "zh": "要申請退款，請填寫我們網站上的表格並附上訂單編號。"
+        },
+        {
+          "en": "Passengers whose flights were canceled will receive a refund within five business days of the cancellation.",
+          "zh": "航班被取消的乘客會在五個工作天內收到退款。"
+        },
+        {
+          "en": "The store does not give a refund for sale items, but customers can exchange them for other products.",
+          "zh": "那家店特價商品不退款，但顧客可以換其他商品。"
+        },
+        {
+          "en": "If the product arrives damaged, please contact us immediately to request a refund or a replacement.",
+          "zh": "如果產品送到時已損壞，請立刻聯絡我們申請退款或換貨。"
+        }
+      ],
+      "distractors": [
+        "refuse",
+        "fund",
+        "refill"
+      ],
+      "note": "語塊：full refund（全額退款）、request a refund（要求退款）、receive a refund（收到退款）。refund 可以當名詞或動詞「退款」；refundable 是形容詞「可退款的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-balanced",
+      "word": "balanced",
+      "pos": "形容詞",
+      "meaning": "均衡的；平衡的",
+      "sentences": [
+        {
+          "en": "Doctors recommend a balanced diet with plenty of fruit, vegetables, and whole grains for everyone.",
+          "zh": "醫生建議多吃水果、蔬菜和全穀類的均衡飲食。"
+        },
+        {
+          "en": "The city council passed a balanced budget that does not require any increase in taxes.",
+          "zh": "市議會通過了一份不需要加稅的平衡預算。"
+        },
+        {
+          "en": "The report gives a balanced view of the benefits and risks of working from home.",
+          "zh": "報告平衡地呈現了在家工作的好處和風險。"
+        },
+        {
+          "en": "The school cafeteria serves well-balanced meals that are healthy and affordable for students of all ages.",
+          "zh": "學校餐廳供應健康又平價、營養均衡的餐點給學生。"
+        },
+        {
+          "en": "Eating a balanced diet and exercising regularly can help employees stay healthy and productive at work.",
+          "zh": "均衡飲食和規律運動能幫助員工保持健康和工作效率。"
+        }
+      ],
+      "distractors": [
+        "bounced",
+        "balloted",
+        "balding"
+      ],
+      "note": "語塊：balanced diet（均衡飲食）、balanced budget（平衡的預算）、well-balanced（很均衡的）。balanced 是「各方面平均的」；balance 是名詞「平衡；餘額」或動詞「使平衡」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-element",
+      "word": "element",
+      "pos": "名詞",
+      "meaning": "要素；元素",
+      "sentences": [
+        {
+          "en": "Good communication is a key element of successful teamwork in any large company or school.",
+          "zh": "良好的溝通是任何公司成功團隊合作的關鍵要素。"
+        },
+        {
+          "en": "The new office design includes a traditional element in every room, such as wooden doors or paper lamps.",
+          "zh": "新辦公室的設計在每個房間都加入一個傳統元素，例如木門或紙燈。"
+        },
+        {
+          "en": "There is always an element of risk when a company decides to enter a new market.",
+          "zh": "公司決定進入新市場時總是有一定的風險。"
+        },
+        {
+          "en": "Customer service is a key element of our success, so we train every employee carefully.",
+          "zh": "客服是我們成功的關鍵要素，所以我們仔細訓練每位員工。"
+        },
+        {
+          "en": "The designer added a modern element to the old building by installing large glass windows.",
+          "zh": "設計師裝了大型玻璃窗，為那棟老建築加入現代元素。"
+        }
+      ],
+      "distractors": [
+        "elephant",
+        "elegant",
+        "elevator"
+      ],
+      "note": "語塊：key element（關鍵要素）、an element of（……的成分）、design element（設計元素）。element 是「組成的一部分」；component 意思接近；elementary 是「基礎的；初級的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-architectural",
+      "word": "architectural",
+      "pos": "形容詞",
+      "meaning": "建築的",
+      "sentences": [
+        {
+          "en": "The museum is famous for its architectural design, which uses glass and natural light in creative ways.",
+          "zh": "那座博物館以建築設計聞名，以很有創意的方式運用玻璃和自然光。"
+        },
+        {
+          "en": "The old part of the city has buildings in many different architectural styles from the past three centuries.",
+          "zh": "老城區有過去三百年來許多不同建築風格的建築。"
+        },
+        {
+          "en": "The company hired an architectural firm to design its new headquarters near the river and the park.",
+          "zh": "公司聘請一家建築事務所設計河邊的新總部。"
+        },
+        {
+          "en": "Visitors can join a free tour to learn about the architectural history of the city's old train station.",
+          "zh": "遊客可以參加免費導覽，了解城市舊火車站的建築歷史。"
+        },
+        {
+          "en": "The new library won an award for its architectural design and its use of recycled materials.",
+          "zh": "新圖書館因為建築設計和回收材料的運用而獲獎。"
+        }
+      ],
+      "distractors": [
+        "agricultural",
+        "archaeological",
+        "architect"
+      ],
+      "note": "語塊：architectural design（建築設計）、architectural style（建築風格）、architectural firm（建築事務所）。architectural 是形容詞；architecture 是名詞「建築」；architect 是「建築師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-impending",
+      "word": "impending",
+      "pos": "形容詞",
+      "meaning": "即將發生的；迫近的",
+      "sentences": [
+        {
+          "en": "Because of the impending storm, all flights to the island have been canceled for tomorrow.",
+          "zh": "因為暴風雨即將來臨，明天所有飛往那座島的航班都取消了。"
+        },
+        {
+          "en": "The team worked late every night this week because of the impending deadline for the project.",
+          "zh": "因為專案截止日迫近，團隊這週每晚都加班。"
+        },
+        {
+          "en": "Employees are worried about the impending changes to the company after the merger is completed.",
+          "zh": "員工擔心合併完成後公司即將到來的改變。"
+        },
+        {
+          "en": "The city warned residents about the impending storm and asked them to stay inside on Saturday.",
+          "zh": "市政府警告居民暴風雨即將來臨，要求他們週六待在室內。"
+        },
+        {
+          "en": "The manager held a meeting to explain the impending changes to the vacation policy next year.",
+          "zh": "經理開會說明明年休假規定即將到來的改變。"
+        }
+      ],
+      "distractors": [
+        "pending",
+        "impeding",
+        "intending"
+      ],
+      "note": "語塊：impending storm（即將來臨的暴風雨）、impending deadline（迫近的截止日）、impending changes（即將到來的改變）。impending 多用在不好的事「快要發生了」；upcoming 比較中性。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alternative-energy",
+      "word": "alternative energy",
+      "pos": "名詞",
+      "meaning": "替代能源",
+      "sentences": [
+        {
+          "en": "The government plans to invest in alternative energy such as solar and wind power over the next decade.",
+          "zh": "政府計畫在未來十年投資太陽能和風力等替代能源。"
+        },
+        {
+          "en": "Many companies are looking for alternative energy sources to reduce their use of oil and coal.",
+          "zh": "很多公司在尋找替代能源來源，以減少石油和煤的使用。"
+        },
+        {
+          "en": "The conference will discuss how cities can use more alternative energy in their public buildings.",
+          "zh": "研討會將討論城市如何在公共建築中使用更多替代能源。"
+        },
+        {
+          "en": "The university received a large grant to study alternative energy and develop cheaper solar panels.",
+          "zh": "那所大學獲得一大筆補助，研究替代能源並開發更便宜的太陽能板。"
+        },
+        {
+          "en": "Investing in alternative energy can create new jobs and help protect the environment at the same time.",
+          "zh": "投資替代能源能創造新工作，同時幫助保護環境。"
+        }
+      ],
+      "distractors": [
+        "renewable energy",
+        "nuclear energy",
+        "fossil fuel"
+      ],
+      "note": "語塊：invest in alternative energy（投資替代能源）、alternative energy sources（替代能源來源）。alternative energy 指太陽能、風力等取代化石燃料的能源；renewable energy 是「再生能源」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-solar-powered",
+      "word": "solar-powered",
+      "pos": "形容詞",
+      "meaning": "太陽能驅動的",
+      "sentences": [
+        {
+          "en": "The park installed solar-powered lights along the walking paths so that they turn on automatically at night.",
+          "zh": "公園沿著步道安裝了太陽能燈，晚上會自動亮起。"
+        },
+        {
+          "en": "The company is developing a solar-powered car that can travel five hundred kilometers on a sunny day.",
+          "zh": "那家公司正在開發一款晴天可以跑五百公里的太陽能車。"
+        },
+        {
+          "en": "Many farms in the region use solar-powered pumps to bring water from the river to their fields.",
+          "zh": "該地區很多農場用太陽能幫浦把水引到田裡。"
+        },
+        {
+          "en": "The new solar-powered charger allows hikers to charge their phones while they are in the mountains.",
+          "zh": "新的太陽能充電器讓登山客在山上也能為手機充電。"
+        },
+        {
+          "en": "The school's solar-powered roof produces enough electricity for all of its classrooms during the day.",
+          "zh": "學校的太陽能屋頂白天產生的電足夠供應所有教室。"
+        }
+      ],
+      "distractors": [
+        "battery-powered",
+        "wind-powered",
+        "gas-powered"
+      ],
+      "note": "語塊：solar-powered car（太陽能車）、solar-powered lights（太陽能燈）、solar-powered pumps（太陽能幫浦）、solar-powered charger（太陽能充電器）、solar-powered roof（太陽能屋頂）。solar-powered 放在名詞前要加連字號；solar 是「太陽的」；solar panel 是「太陽能板」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-requested",
+      "word": "requested",
+      "pos": "形容詞",
+      "meaning": "被要求的；所要求的",
+      "sentences": [
+        {
+          "en": "As requested, I have attached a copy of the contract and the price list for your review.",
+          "zh": "如您所要求，我附上了一份合約副本和價目表供您審閱。"
+        },
+        {
+          "en": "Please send the requested information to our office by Friday so that we can process your application.",
+          "zh": "請在週五前把所要求的資料寄到我們辦公室，讓我們處理你的申請。"
+        },
+        {
+          "en": "The hotel prepared the room as requested, with flowers and a bottle of wine on the table.",
+          "zh": "飯店照要求準備了房間，桌上放了花和一瓶葡萄酒。"
+        },
+        {
+          "en": "The requested documents must be submitted before the end of the month, or the loan cannot be approved.",
+          "zh": "所要求的文件必須在月底前提交，否則貸款無法核准。"
+        },
+        {
+          "en": "The meeting has been moved to Thursday as requested by the client, who will be traveling on Wednesday.",
+          "zh": "會議應客戶要求改到週四，因為客戶週三要出差。"
+        }
+      ],
+      "distractors": [
+        "required",
+        "respected",
+        "rejected"
+      ],
+      "note": "語塊：as requested（如您所要求）、requested information（所要求的資料）、requested documents（所要求的文件）。requested 是「被要求的」；request 可以當名詞或動詞「要求」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-up-to-code",
+      "word": "up to code",
+      "pos": "其他",
+      "meaning": "符合規範（建築法規）",
+      "sentences": [
+        {
+          "en": "The old building must be repaired and brought up to code before people can move into it again.",
+          "zh": "那棟舊建築必須修好並符合法規，人們才能再搬進去。"
+        },
+        {
+          "en": "The inspector checked whether the electrical system in the restaurant's kitchen was up to code.",
+          "zh": "檢查員檢查餐廳的電力系統是否符合法規。"
+        },
+        {
+          "en": "The landlord spent a lot of money to bring the apartments up to code after the inspection.",
+          "zh": "檢查之後，房東花了很多錢讓公寓符合法規。"
+        },
+        {
+          "en": "All of the fire exits in the hotel are up to code and are checked by the city every year.",
+          "zh": "飯店所有的逃生出口都符合法規，每年都由市政府檢查。"
+        },
+        {
+          "en": "The school cannot open until the new playground is up to code and has passed a safety inspection.",
+          "zh": "新遊樂場符合法規並通過安全檢查之前，學校不能開學。"
+        }
+      ],
+      "distractors": [
+        "up to date",
+        "up to now",
+        "up to you"
+      ],
+      "note": "語塊：bring up to code（使符合法規）、be up to code（符合法規）。up to code 指建築、電線等「符合安全法規」；code 在這裡是「法規」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-essay",
+      "word": "essay",
+      "pos": "名詞",
+      "meaning": "論文；短文",
+      "sentences": [
+        {
+          "en": "Students must write an essay of at least one thousand words about a business they admire.",
+          "zh": "學生必須寫一篇至少一千字、關於一家他們欣賞的企業的文章。"
+        },
+        {
+          "en": "The winner of the essay contest will receive a scholarship to study abroad for one year.",
+          "zh": "作文比賽的優勝者將獲得一年出國留學的獎學金。"
+        },
+        {
+          "en": "The magazine published an essay on the future of work by a famous economist from Harvard University.",
+          "zh": "那本雜誌刊登了一位知名經濟學家關於未來工作的文章。"
+        },
+        {
+          "en": "Applicants for the program must submit an essay that explains why they want to study engineering.",
+          "zh": "申請這個計畫的人必須提交一篇文章，說明他們為什麼想讀工程。"
+        },
+        {
+          "en": "The professor asked each student to write an essay about the effects of social media on young people.",
+          "zh": "教授要每位學生寫一篇關於社群媒體對年輕人影響的文章。"
+        }
+      ],
+      "distractors": [
+        "assay",
+        "easy",
+        "essence"
+      ],
+      "note": "語塊：write an essay（寫文章）、essay contest（作文比賽）、essay on（關於……的文章）。essay 是「短篇文章、論說文」；assay 是「化驗」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-warranty",
+      "word": "warranty",
+      "pos": "名詞",
+      "meaning": "保固；保證書",
+      "sentences": [
+        {
+          "en": "The laptop comes with a two-year warranty that covers any problems with the screen or battery.",
+          "zh": "那台筆電附有兩年保固，涵蓋螢幕或電池的任何問題。"
+        },
+        {
+          "en": "If your phone is still under warranty, we will repair it for free at any of our service centers.",
+          "zh": "如果你的手機還在保固期內，我們任何一家服務中心都會免費維修。"
+        },
+        {
+          "en": "Customers can extend the warranty for an additional three years by paying a small fee.",
+          "zh": "顧客只要付一小筆費用，就能把保固再延長三年。"
+        },
+        {
+          "en": "The warranty does not cover damage caused by water, so please be careful with the device.",
+          "zh": "保固不包含水損，所以請小心使用裝置。"
+        },
+        {
+          "en": "Please keep your receipt, as you will need it if you want to make a claim under the warranty.",
+          "zh": "請保留收據，因為如果你要申請保固，就會需要它。"
+        }
+      ],
+      "distractors": [
+        "warrant",
+        "variety",
+        "warmly"
+      ],
+      "note": "語塊：under warranty（在保固期內）、extend the warranty（延長保固）、a two-year warranty（兩年保固）。warranty 是「產品保固」；guarantee 意思接近；warrant 是「搜索令；保證」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-environmentalist",
+      "word": "environmentalist",
+      "pos": "名詞",
+      "meaning": "環保人士",
+      "sentences": [
+        {
+          "en": "The plan to build a new airport near the wetlands has been criticized by every environmentalist group in the region.",
+          "zh": "在濕地附近興建新機場的計畫遭到該地區每個環保團體的批評。"
+        },
+        {
+          "en": "A famous environmentalist will give a talk at the university about ways to reduce plastic waste.",
+          "zh": "一位知名環保人士將在大學演講，談減少塑膠垃圾的方法。"
+        },
+        {
+          "en": "The company invited an environmentalist to help design a factory that uses less water and energy.",
+          "zh": "公司邀請一位環保人士協助設計一座用水和用電都更少的工廠。"
+        },
+        {
+          "en": "Each environmentalist at the meeting asked the city to plant more trees along the busy roads.",
+          "zh": "會議上的每位環保人士都要求市政府在繁忙的道路旁多種樹。"
+        },
+        {
+          "en": "The documentary follows an environmentalist who spent ten years protecting forests and rivers in South America.",
+          "zh": "那部紀錄片記錄一位花了十年保護南美森林的環保人士。"
+        }
+      ],
+      "distractors": [
+        "environmental",
+        "nutritionist",
+        "journalist"
+      ],
+      "note": "語塊：environmentalist group（環保團體）、a famous environmentalist（知名環保人士）、invited an environmentalist（邀請一位環保人士）、each environmentalist（每位環保人士）。environmentalist 是「關心並推動環保的人」；environmental 是形容詞「環境的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-reference-to",
+      "word": "make reference to",
+      "pos": "片語動詞",
+      "meaning": "提到；參考",
+      "sentences": [
+        {
+          "en": "The speaker will make reference to several recent studies about the benefits of working from home.",
+          "zh": "講者將提到幾項關於在家工作好處的最新研究。"
+        },
+        {
+          "en": "In her report, the manager did not make reference to the problems that the team had last month.",
+          "zh": "經理在報告中沒有提到團隊上個月遇到的問題。"
+        },
+        {
+          "en": "Please make reference to your order number when you contact our customer service team by email.",
+          "zh": "聯絡我們的客服團隊時，請提及你的訂單編號。"
+        },
+        {
+          "en": "The article makes no reference to the company's plans, and it does not make reference to its new CEO either.",
+          "zh": "那篇文章沒有提到公司的計畫，也沒有提及它的新執行長。"
+        },
+        {
+          "en": "Students should make reference to at least three books when they write their essays this semester.",
+          "zh": "學生這學期寫文章時應該參考至少三本書。"
+        }
+      ],
+      "distractors": [
+        "make sense of",
+        "make room for",
+        "make use of"
+      ],
+      "note": "語塊：make reference to（提及……）。make reference to 比 mention 正式；refer to 意思相同；reference 是名詞「參考」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
