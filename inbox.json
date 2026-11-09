@@ -28473,6 +28473,706 @@
       ],
       "note": "語塊：file a complaint with（向……提出投訴）、file a complaint about（針對……投訴）。file 在這裡是「正式提出」；make a complaint 意思相同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-panel",
+      "word": "panel",
+      "pos": "名詞",
+      "meaning": "專題小組；面板",
+      "sentences": [
+        {
+          "en": "The conference will end with a panel discussion about the future of electric cars in Asia.",
+          "zh": "研討會將以一場關於亞洲電動車未來的座談會作結。"
+        },
+        {
+          "en": "A panel of experts will choose the winners of the design competition next Friday afternoon.",
+          "zh": "一個專家小組將在下週五下午選出設計比賽的得獎者。"
+        },
+        {
+          "en": "The company installed a solar panel on the roof of every store to reduce its electricity costs.",
+          "zh": "公司在每家門市的屋頂裝了太陽能板，以降低電費。"
+        },
+        {
+          "en": "The panel discussion will include business leaders, government officials, and university professors from three countries.",
+          "zh": "座談會的與談人包括企業領袖、政府官員和大學教授。"
+        },
+        {
+          "en": "Each applicant will be interviewed by a panel of experts from different departments of the hospital.",
+          "zh": "每位應徵者都會由醫院不同科別的專家小組面試。"
+        }
+      ],
+      "distractors": [
+        "pane",
+        "penal",
+        "channel"
+      ],
+      "note": "語塊：panel discussion（座談會）、a panel of experts（專家小組）、solar panel（太陽能板）。panel 可以是「討論小組、評審團」，也可以是「面板、板子」；panelist 是「與談人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lot",
+      "word": "lot",
+      "pos": "名詞",
+      "meaning": "一塊地；停車場",
+      "sentences": [
+        {
+          "en": "Employees can park their cars in the parking lot behind the office building free of charge.",
+          "zh": "員工可以免費把車停在辦公大樓後面的停車場。"
+        },
+        {
+          "en": "The city plans to turn the empty lot next to the library into a small park with benches and trees.",
+          "zh": "市政府計畫把圖書館旁邊的空地改建成有長椅和樹木的小公園。"
+        },
+        {
+          "en": "The company bought a large lot near the highway where it will build a new warehouse next year.",
+          "zh": "公司在公路附近買了一大塊地，明年要在那裡蓋新倉庫。"
+        },
+        {
+          "en": "The parking lot at the shopping center is usually full on weekends, so many people take the bus.",
+          "zh": "購物中心的停車場週末通常都滿了，所以很多人搭公車。"
+        },
+        {
+          "en": "A developer plans to build apartments on the empty lot across from the train station.",
+          "zh": "一家建商計畫在火車站對面的空地上蓋公寓。"
+        }
+      ],
+      "distractors": [
+        "loot",
+        "slot",
+        "plot"
+      ],
+      "note": "語塊：parking lot（停車場）、empty lot（空地）、a lot of（很多）。lot 可以指「一塊土地」，parking lot 是「停車場」；a lot of 是「很多」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attendant",
+      "word": "attendant",
+      "pos": "名詞",
+      "meaning": "服務員；隨行人員",
+      "sentences": [
+        {
+          "en": "The flight attendant asked all passengers to fasten their seat belts before the plane took off.",
+          "zh": "空服員請所有乘客在飛機起飛前繫好安全帶。"
+        },
+        {
+          "en": "If you lose your parking ticket, please speak to the parking attendant at the exit gate.",
+          "zh": "如果你遺失停車票，請和出口閘門的停車場管理員說。"
+        },
+        {
+          "en": "Ms. Rivera worked as a flight attendant for ten years before she became a manager at the airline.",
+          "zh": "Rivera 小姐當了十年空服員後，成為航空公司的經理。"
+        },
+        {
+          "en": "The gas station attendant checked the air in our tires and cleaned the windows of the car.",
+          "zh": "加油站員工幫我們檢查輪胎的胎壓，還清潔了車窗。"
+        },
+        {
+          "en": "A parking attendant will help visitors find empty spaces in the garage during the busy holiday season.",
+          "zh": "節慶旺季期間，停車場管理員會幫訪客在停車場找空位。"
+        }
+      ],
+      "distractors": [
+        "attendance",
+        "attendee",
+        "assistant"
+      ],
+      "note": "語塊：flight attendant（空服員）、parking attendant（停車場管理員）、gas station attendant（加油站員工）。attendant 是「提供服務的人員」；attendance 是「出席（人數）」；attendee 是「與會者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-provide-for",
+      "word": "provide for",
+      "pos": "片語動詞",
+      "meaning": "供養；為……做準備",
+      "sentences": [
+        {
+          "en": "Many workers take a second job in order to provide for their families when prices rise.",
+          "zh": "物價上漲時，很多工人會兼第二份工作來養家。"
+        },
+        {
+          "en": "The retirement plan helps employees provide for the future by saving part of their salary each month.",
+          "zh": "退休金計畫幫助員工每個月存下一部分薪水，為未來做準備。"
+        },
+        {
+          "en": "The new law will provide for longer maternity leave and better support for working parents.",
+          "zh": "新法律將規定更長的產假，並為上班族父母提供更好的支持。"
+        },
+        {
+          "en": "Mr. Lopez works long hours at the restaurant to provide for his family, which includes his wife and three young children.",
+          "zh": "Lopez 先生在餐廳長時間工作來養家，家裡有妻子和三個年幼的孩子。"
+        },
+        {
+          "en": "The budget will provide for the hiring of twenty new teachers at schools in rural areas.",
+          "zh": "這份預算將為鄉村地區的學校聘用二十位新老師。"
+        }
+      ],
+      "distractors": [
+        "provide with",
+        "prepare for",
+        "pay for"
+      ],
+      "note": "語塊：provide for one's family（養家）、provide for the future（為未來做準備）。provide for 是「養活、照顧」或「預先準備」；provide sb with sth 是「提供某人某物」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sense",
+      "word": "sense",
+      "pos": "名詞",
+      "meaning": "感覺；意識；道理",
+      "sentences": [
+        {
+          "en": "The new office design gives employees a sense of space and freedom because of its large windows.",
+          "zh": "新辦公室的設計因為有大窗戶，讓員工有空間感和自由感。"
+        },
+        {
+          "en": "It makes sense to buy supplies in bulk because the price per item is much lower.",
+          "zh": "大量購買用品是合理的，因為每件的價格低很多。"
+        },
+        {
+          "en": "The manager is popular with the staff because she has a great sense of humor and is very patient.",
+          "zh": "那位經理很受員工歡迎，因為她很有幽默感，又非常有耐心。"
+        },
+        {
+          "en": "Team-building activities help create a sense of community among employees who work in different departments.",
+          "zh": "團隊建立活動有助於在不同部門的員工之間營造一種社群感。"
+        },
+        {
+          "en": "The plan did not make sense to the board, so the team was asked to prepare a new proposal.",
+          "zh": "董事會覺得那個計畫說不通，所以團隊被要求準備一份新提案。"
+        }
+      ],
+      "distractors": [
+        "since",
+        "scene",
+        "cents"
+      ],
+      "note": "語塊：a sense of（……的感覺）、make sense（合理；說得通）、sense of humor（幽默感）。sense 是「感覺、判斷力」；make sense 是「有道理」；sensible 是「明智的」，sensitive 是「敏感的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sensor",
+      "word": "sensor",
+      "pos": "名詞",
+      "meaning": "感應器；感測器",
+      "sentences": [
+        {
+          "en": "The lights in the hallway are controlled by a motion sensor, so they turn off when no one is there.",
+          "zh": "走廊的燈由動作感應器控制，所以沒人的時候會自動關掉。"
+        },
+        {
+          "en": "A temperature sensor in the warehouse sends a warning if the room becomes too hot for the food.",
+          "zh": "倉庫的溫度感測器在室溫對食物來說太高時會發出警告。"
+        },
+        {
+          "en": "The company will install a sensor at every door to count the number of customers who enter the store.",
+          "zh": "公司會在每個門口安裝感應器，計算進店的顧客人數。"
+        },
+        {
+          "en": "The new car has a sensor that warns the driver when another vehicle is too close behind it.",
+          "zh": "新車有一個感應器，在後方車輛太靠近時提醒駕駛。"
+        },
+        {
+          "en": "The factory uses a temperature sensor on each machine to prevent it from overheating during use.",
+          "zh": "工廠在每台機器上都裝了溫度感測器，防止使用時過熱。"
+        }
+      ],
+      "distractors": [
+        "censor",
+        "senior",
+        "sensory"
+      ],
+      "note": "語塊：motion sensor（動作感應器）、temperature sensor（溫度感測器）、install a sensor（安裝感應器）。sensor 是「偵測光、熱、動作的裝置」；censor（審查）發音一樣，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-completed",
+      "word": "completed",
+      "pos": "形容詞",
+      "meaning": "完成的；填好的",
+      "sentences": [
+        {
+          "en": "Please return the completed form to the front desk before your appointment with the doctor.",
+          "zh": "看診前請把填好的表格交到櫃台。"
+        },
+        {
+          "en": "The completed project was presented to the client two weeks earlier than the deadline in the contract.",
+          "zh": "完成的專案比截止日早兩週交給客戶。"
+        },
+        {
+          "en": "Once the building is fully completed, the company will move all of its employees there.",
+          "zh": "大樓一全部完工，公司就會把所有員工搬過去。"
+        },
+        {
+          "en": "Applicants should send the completed application form along with a copy of their résumé and two references.",
+          "zh": "申請人應該寄出填好的申請表，並附上一份履歷。"
+        },
+        {
+          "en": "The city held a ceremony to celebrate the completed bridge, which took five years to build.",
+          "zh": "市政府舉辦典禮慶祝花了五年建成的大橋完工。"
+        }
+      ],
+      "distractors": [
+        "competed",
+        "computed",
+        "complicated"
+      ],
+      "note": "語塊：completed form（填好的表格）、completed project（完成的專案）、fully completed（全部完成）。completed 是「已完成的」；complete 也可以當形容詞「完整的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-light-of",
+      "word": "in light of",
+      "pos": "其他",
+      "meaning": "鑑於；考慮到",
+      "sentences": [
+        {
+          "en": "In light of the bad weather, the outdoor concert has been moved to the community center.",
+          "zh": "鑑於天氣不佳，戶外音樂會改到社區中心舉行。"
+        },
+        {
+          "en": "The company decided to review its security policy in light of recent events at other banks.",
+          "zh": "鑑於其他銀行最近發生的事件，公司決定檢討它的保全政策。"
+        },
+        {
+          "en": "In light of the situation, all employees are asked to work from home until Wednesday.",
+          "zh": "鑑於目前的情況，所有員工都被要求在家工作到週三。"
+        },
+        {
+          "en": "The prices were changed in light of rising costs for raw materials, fuel, and transportation.",
+          "zh": "考慮到材料和運輸成本上漲，價格做了調整。"
+        },
+        {
+          "en": "In light of the positive feedback from customers, the restaurant will keep the new dish on its menu.",
+          "zh": "鑑於顧客的正面回饋，那家餐廳會把新菜色留在菜單上。"
+        }
+      ],
+      "distractors": [
+        "in spite of",
+        "in place of",
+        "in charge of"
+      ],
+      "note": "語塊：in light of the situation（鑑於情況）、in light of recent events（鑑於最近的事件）、in light of rising costs（考慮到成本上升）、in light of the bad weather（鑑於天氣不佳）。in light of 是「因為考慮到……」；because of、given 意思接近，in light of 比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-get-along-with",
+      "word": "get along with",
+      "pos": "片語動詞",
+      "meaning": "和……相處融洽",
+      "sentences": [
+        {
+          "en": "It is important to get along with your co-workers, especially when you work closely as a team.",
+          "zh": "和同事相處融洽很重要，尤其是團隊緊密合作的時候。"
+        },
+        {
+          "en": "The new manager seems to get along with everyone in the department, including the senior staff.",
+          "zh": "新經理似乎和部門裡的每個人都相處得很好，包括資深員工。"
+        },
+        {
+          "en": "Employees who get along with their supervisors are usually happier and more productive at work.",
+          "zh": "和主管相處融洽的員工通常在工作上比較快樂、效率也比較高。"
+        },
+        {
+          "en": "Ms. Kim was chosen to lead the project because she can get along with people from many different cultures.",
+          "zh": "金小姐被選來帶領專案，因為她能和來自很多不同文化的人相處融洽。"
+        },
+        {
+          "en": "Some interns found it hard to get along with co-workers at first, but they soon became good friends.",
+          "zh": "有些實習生一開始覺得很難和同事相處，但他們很快就成了好朋友。"
+        }
+      ],
+      "distractors": [
+        "go along with",
+        "get away with",
+        "catch up with"
+      ],
+      "note": "語塊：get along with everyone（和大家相處融洽）、get along with co-workers（和同事處得來）。get along with 是「和某人相處得好」；get on with（英式）意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-termination",
+      "word": "termination",
+      "pos": "名詞",
+      "meaning": "終止；解僱",
+      "sentences": [
+        {
+          "en": "The termination of the contract will take effect thirty days after the written notice is received.",
+          "zh": "合約將在收到書面通知三十天後終止。"
+        },
+        {
+          "en": "Customers who cancel their phone plan early must pay an early termination fee of one hundred dollars.",
+          "zh": "提前解約手機方案的顧客必須支付一百美元的提前解約金。"
+        },
+        {
+          "en": "The letter explained the reasons for the termination of employment and the date of his last day at work.",
+          "zh": "信中說明了解僱的原因以及他最後一天上班的日期。"
+        },
+        {
+          "en": "Repeatedly breaking the safety rules can lead to the termination of employment at our factory.",
+          "zh": "一再違反安全規定可能導致在我們工廠被解僱。"
+        },
+        {
+          "en": "Both companies agreed to the early termination of the partnership after the project was canceled.",
+          "zh": "專案取消後，兩家公司都同意提前終止合作。"
+        }
+      ],
+      "distractors": [
+        "determination",
+        "nomination",
+        "destination"
+      ],
+      "note": "語塊：termination of the contract（合約終止）、termination of employment（解僱）、early termination（提前終止）。termination 是名詞；terminate 是動詞；termination fee 是「解約金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-indicate",
+      "word": "indicate",
+      "pos": "動詞",
+      "meaning": "指出；顯示；表明",
+      "sentences": [
+        {
+          "en": "The results of the survey indicate that most customers would like the store to stay open later.",
+          "zh": "調查結果顯示大部分顧客希望商店營業到更晚。"
+        },
+        {
+          "en": "Please indicate on the form whether you would prefer a vegetarian meal at the dinner.",
+          "zh": "請在表格上註明你在晚宴上是否偏好素食。"
+        },
+        {
+          "en": "Recent sales figures clearly indicate that the new advertising campaign has been a great success.",
+          "zh": "最近的銷售數字清楚表明新的廣告活動很成功。"
+        },
+        {
+          "en": "The red light on the machine will indicate that the paper tray is empty and needs to be refilled.",
+          "zh": "機器上的紅燈會表示紙匣空了，需要補紙。"
+        },
+        {
+          "en": "Early reports indicate that the storm caused only minor damage to buildings in the city.",
+          "zh": "初步報告顯示暴風雨只對城裡的建築造成輕微損害。"
+        }
+      ],
+      "distractors": [
+        "dedicate",
+        "indict",
+        "implicate"
+      ],
+      "note": "語塊：indicate that（顯示……）、clearly indicate（清楚表明）、as indicated（如所示）。indicate 比 show 正式；indication 是名詞「跡象」；indicator 是「指標」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assemble",
+      "word": "assemble",
+      "pos": "動詞",
+      "meaning": "組裝；集合",
+      "sentences": [
+        {
+          "en": "Workers at the factory assemble the parts by hand, which is why each product takes several hours to make.",
+          "zh": "工廠的工人手工組裝零件，這就是每個產品要花好幾個小時才能做好的原因。"
+        },
+        {
+          "en": "The bookshelf is easy to assemble and comes with all of the tools you need.",
+          "zh": "這個書架很容易組裝，而且附上你需要的所有工具。"
+        },
+        {
+          "en": "All participants should assemble in the hotel lobby at eight o'clock for the bus to the conference center.",
+          "zh": "所有參加者應在八點於飯店大廳集合，搭巴士前往會議中心。"
+        },
+        {
+          "en": "The company hired extra staff to assemble the new furniture for the office before Monday.",
+          "zh": "公司加聘人手，在週一前為辦公室組裝新家具。"
+        },
+        {
+          "en": "Employees were asked to assemble in the parking lot during the fire drill on Thursday morning.",
+          "zh": "週四早上消防演習時，員工被要求到停車場集合。"
+        }
+      ],
+      "distractors": [
+        "resemble",
+        "dissemble",
+        "ensemble"
+      ],
+      "note": "語塊：assemble the parts（組裝零件）、easy to assemble（容易組裝）、assemble in（在……集合）。assemble 有「組裝」和「集合」兩個意思；assembly 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inaccuracy",
+      "word": "inaccuracy",
+      "pos": "名詞",
+      "meaning": "不準確；錯誤",
+      "sentences": [
+        {
+          "en": "The editor found an inaccuracy in the article and asked the writer to correct it before printing.",
+          "zh": "編輯在文章中發現一個錯誤，要求作者在印刷前更正。"
+        },
+        {
+          "en": "We apologize for the inaccuracy in last week's newsletter regarding the date of the company picnic.",
+          "zh": "我們為上週電子報中公司野餐日期的錯誤致歉。"
+        },
+        {
+          "en": "Please report any inaccuracy in your bill to our customer service department as soon as possible.",
+          "zh": "帳單如有任何錯誤，請盡快通知我們的客服部。"
+        },
+        {
+          "en": "The company issued a correction after a customer pointed out an inaccuracy on its website.",
+          "zh": "一位顧客指出網站上的錯誤後，公司發布了更正。"
+        },
+        {
+          "en": "An inaccuracy in the financial report caused the company's profits to appear higher than they were.",
+          "zh": "財報中的一個錯誤讓公司的獲利看起來比實際還高。"
+        }
+      ],
+      "distractors": [
+        "inadequacy",
+        "innocence",
+        "intimacy"
+      ],
+      "note": "語塊：inaccuracy in（……中的錯誤）、correct an inaccuracy（更正錯誤）。inaccuracy 是名詞；inaccurate 是形容詞「不準確的」；accuracy 是「準確性」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-registrant",
+      "word": "registrant",
+      "pos": "名詞",
+      "meaning": "報名者；登記者",
+      "sentences": [
+        {
+          "en": "Each registrant will receive a confirmation email with the schedule and location of the workshop.",
+          "zh": "每位報名者都會收到一封確認信，附上工作坊的時程和地點。"
+        },
+        {
+          "en": "The conference organizers will send a name badge to every registrant before the event begins.",
+          "zh": "研討會主辦單位會在活動開始前寄名牌給每位報名者。"
+        },
+        {
+          "en": "Registrant information will be kept confidential and will not be shared with other companies or organizations.",
+          "zh": "報名者資料會保密，不會提供給其他公司。"
+        },
+        {
+          "en": "The first one hundred registrants will receive a free gift, and every registrant will get a discount coupon.",
+          "zh": "前一百位報名者會得到一份免費禮物，每位報名者都會拿到一張折扣券。"
+        },
+        {
+          "en": "Please make sure that each registrant has paid the fee before giving them a ticket at the door.",
+          "zh": "在門口發票之前，請確認每位報名者都已經付費。"
+        }
+      ],
+      "distractors": [
+        "registrar",
+        "restaurant",
+        "resident"
+      ],
+      "note": "語塊：each registrant（每位報名者）、registrant information（報名者資料）。registrant 是「報名、登記的人」；registration 是「報名」；participant 是「參加者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-capital",
+      "word": "capital",
+      "pos": "名詞",
+      "meaning": "資本；資金；首都",
+      "sentences": [
+        {
+          "en": "The startup needs to raise capital from investors before it can open its first factory.",
+          "zh": "那家新創公司需要先向投資人籌措資金，才能開設第一座工廠。"
+        },
+        {
+          "en": "The company plans to make a large capital investment in new equipment over the next three years.",
+          "zh": "公司計畫在未來三年對新設備進行大筆資本投資。"
+        },
+        {
+          "en": "Small businesses often need working capital to pay for supplies and salaries during slow months.",
+          "zh": "小企業在淡季時常常需要營運資金來支付用品和薪水。"
+        },
+        {
+          "en": "The bank offers loans to help young entrepreneurs raise capital for their new businesses in the city.",
+          "zh": "那家銀行提供貸款，幫助年輕創業家為新事業籌措資金。"
+        },
+        {
+          "en": "Seoul is the capital of South Korea and one of the largest cities in Asia.",
+          "zh": "首爾是南韓的首都，也是亞洲最大的城市之一。"
+        }
+      ],
+      "distractors": [
+        "capitol",
+        "captain",
+        "capacity"
+      ],
+      "note": "語塊：raise capital（籌措資金）、capital investment（資本投資）、working capital（營運資金）。capital 可以是「資金」或「首都」；capitol（美國州議會大廈）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-closing",
+      "word": "closing",
+      "pos": "形容詞",
+      "meaning": "結束的；閉幕的；收盤的",
+      "sentences": [
+        {
+          "en": "The closing ceremony of the festival will include fireworks and a concert by a famous local band.",
+          "zh": "慶典的閉幕典禮會有煙火和一個知名在地樂團的音樂會。"
+        },
+        {
+          "en": "Customers who are still in the store at closing time will be asked to pay for their items quickly.",
+          "zh": "打烊時還在店裡的顧客會被請求盡快結帳。"
+        },
+        {
+          "en": "The director will give the closing speech at the end of the three-day conference on Friday afternoon.",
+          "zh": "總監會在週五下午三天研討會的最後致閉幕詞。"
+        },
+        {
+          "en": "The closing price of the company's shares rose by five percent after the merger was announced.",
+          "zh": "宣布合併後，公司股票的收盤價上漲了百分之五。"
+        },
+        {
+          "en": "The library's closing time has been changed to nine o'clock so that students can study later.",
+          "zh": "圖書館的閉館時間改成九點，讓學生可以讀書讀晚一點。"
+        }
+      ],
+      "distractors": [
+        "clothing",
+        "closet",
+        "choosing"
+      ],
+      "note": "語塊：closing ceremony（閉幕典禮）、closing time（打烊時間）、closing remarks（閉幕致詞）。closing 是「結束時的」；closure 是名詞「關閉」；opening 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-report",
+      "word": "report",
+      "pos": "動詞",
+      "meaning": "報告；報導；通報",
+      "sentences": [
+        {
+          "en": "New employees will report to the human resources office at nine o'clock on their first day of work.",
+          "zh": "新員工上班第一天要在九點到人資室報到。"
+        },
+        {
+          "en": "Please report a problem with your computer to the IT department instead of trying to fix it yourself.",
+          "zh": "電腦有問題請回報資訊部，不要自己嘗試修理。"
+        },
+        {
+          "en": "Ms. Grant will report directly to the director of marketing in her new role as brand manager.",
+          "zh": "Grant 小姐擔任新職品牌經理後，將直接向行銷總監報告。"
+        },
+        {
+          "en": "The local newspaper will report the results of the city election in tomorrow morning's edition.",
+          "zh": "地方報紙會在明天的報紙上報導市長選舉的結果。"
+        },
+        {
+          "en": "If you see anything unusual in the building, please report it to the security guard immediately.",
+          "zh": "如果你在大樓裡看到任何不尋常的事，請立刻通報保全。"
+        }
+      ],
+      "distractors": [
+        "resort",
+        "import",
+        "support"
+      ],
+      "note": "語塊：report to（向……報告；直屬於）、report a problem（回報問題）、be reported（被報導）。report to sb 也可以表示「直屬於某人」；reporter 是「記者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-operator",
+      "word": "operator",
+      "pos": "名詞",
+      "meaning": "操作員；業者；接線生",
+      "sentences": [
+        {
+          "en": "The factory is hiring a machine operator who has at least two years of experience working with heavy equipment.",
+          "zh": "工廠正在招募一位有操作重型設備經驗的機器操作員。"
+        },
+        {
+          "en": "The tour operator offers trips to the mountains that include hotels, meals, and a local guide.",
+          "zh": "那家旅遊業者提供上山的行程，包含飯店、餐點和在地導遊。"
+        },
+        {
+          "en": "If you need help, please press zero and a telephone operator will answer your call.",
+          "zh": "如果你需要幫忙，請按零，接線生會接聽你的電話。"
+        },
+        {
+          "en": "Every machine operator must complete safety training before working on the production line for the first time.",
+          "zh": "每位機器操作員在上生產線工作前，都必須完成安全訓練。"
+        },
+        {
+          "en": "The airline is the largest operator of flights between the two cities, with ten flights every day.",
+          "zh": "那家航空公司是兩座城市之間最大的航班業者，每天有十個航班。"
+        }
+      ],
+      "distractors": [
+        "operation",
+        "opera",
+        "cooperator"
+      ],
+      "note": "語塊：machine operator（機器操作員）、tour operator（旅遊業者）、telephone operator（接線生）。operator 可以是「操作機器的人」，也可以指「經營某業務的公司」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-raw-material",
+      "word": "raw material",
+      "pos": "名詞",
+      "meaning": "原料",
+      "sentences": [
+        {
+          "en": "The rising cost of raw material such as steel and copper has made it more expensive to produce cars.",
+          "zh": "鋼和銅等原料成本上漲，讓汽車的生產成本變高了。"
+        },
+        {
+          "en": "The factory must import raw material from overseas because it is not available in the country.",
+          "zh": "工廠必須從海外進口原料，因為國內沒有。"
+        },
+        {
+          "en": "Cotton is the main raw material used by the company to make its shirts and dresses.",
+          "zh": "棉花是那家公司用來做襯衫和洋裝的主要原料。"
+        },
+        {
+          "en": "Delays in the delivery of raw material forced the factory to stop production for three days.",
+          "zh": "原料延遲到貨，迫使工廠停產三天。"
+        },
+        {
+          "en": "The company found a new supplier that can provide raw material at a lower price than before.",
+          "zh": "公司找到一家新供應商，能以比以前更低的價格提供原料。"
+        }
+      ],
+      "distractors": [
+        "raw data",
+        "building material",
+        "reading material"
+      ],
+      "note": "語塊：the cost of raw material（原料成本）、import raw material（進口原料）、the main raw material（主要原料）、provide raw material（提供原料）。raw material 常用複數 raw materials；raw 是「未加工的、生的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-coverage",
+      "word": "coverage",
+      "pos": "名詞",
+      "meaning": "報導；（保險）承保範圍；涵蓋範圍",
+      "sentences": [
+        {
+          "en": "The new product received a lot of media coverage after it won an award at the technology fair.",
+          "zh": "新產品在科技展得獎後，獲得大量媒體報導。"
+        },
+        {
+          "en": "Please check your insurance coverage before you travel abroad, as some medical costs may not be included.",
+          "zh": "出國前請確認你的保險保障範圍，因為有些醫療費用可能不包含在內。"
+        },
+        {
+          "en": "The mobile company has improved its network coverage in rural areas and small mountain villages this year.",
+          "zh": "那家電信公司改善了鄉村地區和山區村落的網路覆蓋範圍。"
+        },
+        {
+          "en": "Full-time employees receive health insurance coverage for themselves and their families from the first day of work.",
+          "zh": "全職員工本人和家人都享有健康保險保障。"
+        },
+        {
+          "en": "The television station provided live coverage of the election results throughout the night until the final count.",
+          "zh": "電視台整晚現場報導選舉結果。"
+        }
+      ],
+      "distractors": [
+        "cover",
+        "courage",
+        "leverage"
+      ],
+      "note": "語塊：media coverage（媒體報導）、insurance coverage（保險保障）、network coverage（網路覆蓋範圍）。coverage 可以是新聞「報導」、保險「保障範圍」或手機訊號「覆蓋範圍」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
