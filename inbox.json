@@ -10973,6 +10973,41 @@
       ],
       "note": "語塊：repair／fill potholes（修補坑洞）、report potholes（回報坑洞）、a road full of potholes（坑坑洞洞的路）。pothole 是馬路上因為下雨、車子壓過而形成的坑洞。pot（鍋子）＋hole（洞）＝像鍋子一樣凹下去的洞。單數 pothole。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acclaim",
+      "word": "acclaim",
+      "pos": "名詞",
+      "meaning": "讚譽；好評；（動詞）稱讚",
+      "sentences": [
+        {
+          "en": "The young director's first movie received critical acclaim and won three awards at the film festival.",
+          "zh": "這位年輕導演的第一部電影獲得影評一致好評，並在影展上拿下三個獎。"
+        },
+        {
+          "en": "The small family restaurant has won international acclaim for its creative dishes made with local ingredients.",
+          "zh": "這家小家庭餐廳用在地食材做出富有創意的料理，贏得國際讚譽。"
+        },
+        {
+          "en": "Her book about small business management was met with wide acclaim from readers and experts.",
+          "zh": "她那本關於小企業管理的書受到讀者和專家的廣泛好評。"
+        },
+        {
+          "en": "The young architect gained acclaim for designing energy-efficient office buildings that still look modern and beautiful.",
+          "zh": "這位年輕建築師因為設計出節能又現代美觀的辦公大樓而備受讚譽。"
+        },
+        {
+          "en": "Despite the public acclaim, the band decided to take a long break after their world tour ended.",
+          "zh": "儘管受到大眾讚揚，樂團在世界巡演結束後還是決定長期休息。"
+        }
+      ],
+      "distractors": [
+        "acclimation",
+        "exclamation",
+        "acquaintance"
+      ],
+      "note": "語塊：critical acclaim（影評、專家的一致好評）、win／gain acclaim（贏得讚譽）、international acclaim（國際讚譽）、be met with wide acclaim（廣受好評）。acclaim 是「（公開的）讚揚、好評」，比 praise 更正式、程度更強。形容詞 acclaimed（廣受好評的）：an acclaimed author（備受讚譽的作家）。別跟 exclaim（大叫、驚呼）、claim（聲稱）搞混。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
