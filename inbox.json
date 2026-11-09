@@ -34073,6 +34073,706 @@
       ],
       "note": "語塊：contract renewal（續約）、membership renewal（會員續約）、urban renewal（都市更新）。renewal 是名詞；renew 是動詞「續約；更新」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-irreversible",
+      "word": "irreversible",
+      "pos": "形容詞",
+      "meaning": "無法挽回的；不可逆的",
+      "sentences": [
+        {
+          "en": "Scientists warn that pollution could cause irreversible damage to the coral reefs near the island.",
+          "zh": "科學家警告，污染可能對島嶼附近的珊瑚礁造成無法挽回的損害。"
+        },
+        {
+          "en": "Closing the factory is an irreversible decision, so the board wants to study every option carefully first.",
+          "zh": "關閉工廠是不可改變的決定，所以董事會想先仔細研究每個選項。"
+        },
+        {
+          "en": "Some changes to the environment are irreversible, which is why we must act quickly to protect forests.",
+          "zh": "環境的某些變化是不可逆的，這就是我們必須快速行動保護森林的原因。"
+        },
+        {
+          "en": "The doctor explained that the injury was not irreversible and that the patient would recover with rest.",
+          "zh": "醫生解釋說傷勢並非不可逆，病人休息後就會康復。"
+        },
+        {
+          "en": "Deleting the files is irreversible, so please make sure you have a backup before you continue.",
+          "zh": "刪除檔案是無法復原的，所以繼續之前請確認你有備份。"
+        }
+      ],
+      "distractors": [
+        "irresistible",
+        "irresponsible",
+        "reversible"
+      ],
+      "note": "語塊：irreversible damage（無法挽回的損害）、irreversible decision（不可改變的決定）、irreversible changes（不可逆的變化）。irreversible 是「回不去了」；reversible 是「可逆的；（衣服）兩面穿的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wildlife",
+      "word": "wildlife",
+      "pos": "名詞",
+      "meaning": "野生動物",
+      "sentences": [
+        {
+          "en": "The new law will protect wildlife in the forest by banning hunting and limiting the number of visitors.",
+          "zh": "新法律將禁止狩獵並限制遊客人數，保護森林裡的野生動物。"
+        },
+        {
+          "en": "Families can see lions, giraffes, and other animals at the wildlife park outside the city.",
+          "zh": "家庭可以在城外的野生動物園看到獅子、長頸鹿和其他動物。"
+        },
+        {
+          "en": "The tour guide will explain how the local wildlife survives during the long, cold winter months.",
+          "zh": "導遊會說明當地野生動物如何度過漫長寒冷的冬季。"
+        },
+        {
+          "en": "Visitors to the national park must not feed the wildlife, as human food can make the animals sick.",
+          "zh": "國家公園的遊客不可以餵野生動物，因為人類的食物會讓動物生病。"
+        },
+        {
+          "en": "The company donated money to protect wildlife living in the wetlands near its new factory.",
+          "zh": "公司捐錢保護新工廠附近濕地裡的野生動物。"
+        }
+      ],
+      "distractors": [
+        "lifeline",
+        "lifestyle",
+        "wildfire"
+      ],
+      "note": "語塊：protect wildlife（保護野生動物）、wildlife park（野生動物園）、local wildlife（當地野生動物）。wildlife 是不可數名詞（總稱）；wild 是形容詞「野生的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-broken",
+      "word": "broken",
+      "pos": "形容詞",
+      "meaning": "壞掉的；破損的",
+      "sentences": [
+        {
+          "en": "Please report any broken equipment in the gym to the front desk so that it can be repaired.",
+          "zh": "健身房裡有任何故障的設備，請通報櫃台以便維修。"
+        },
+        {
+          "en": "The coffee machine in the break room is broken, so a technician will come to fix it this afternoon.",
+          "zh": "茶水間的咖啡機壞了，所以技師今天下午會來修。"
+        },
+        {
+          "en": "The store will replace any broken items that were damaged during delivery at no extra cost.",
+          "zh": "店家會免費更換運送過程中損壞的任何物品。"
+        },
+        {
+          "en": "A broken window on the third floor was repaired after the storm caused damage to the building.",
+          "zh": "暴風雨損壞大樓後，三樓的一扇破窗被修好了。"
+        },
+        {
+          "en": "Customers who receive a broken product should take a photo of it and contact our customer service team.",
+          "zh": "收到破損產品的顧客應該拍照並聯絡我們的客服團隊。"
+        }
+      ],
+      "distractors": [
+        "broker",
+        "spoken",
+        "token"
+      ],
+      "note": "語塊：broken window（破窗）、broken equipment（故障設備）、be broken（壞了）。broken 是 break 的過去分詞，當形容詞是「壞了的」；out of order 也可以表示「故障」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fixture",
+      "word": "fixture",
+      "pos": "名詞",
+      "meaning": "固定裝置；（房屋的）設備",
+      "sentences": [
+        {
+          "en": "The electrician will replace the old light fixture in the meeting room with a more efficient one.",
+          "zh": "電工會把會議室的舊燈具換成更節能的。"
+        },
+        {
+          "en": "Each new apartment has a modern bathroom fixture in the shower that saves water and energy.",
+          "zh": "每間新公寓的淋浴間都有一個節水又節能的現代化衛浴設備。"
+        },
+        {
+          "en": "The hotel spent a large amount of money replacing every light fixture in the lobby and the restaurant.",
+          "zh": "飯店花了很多錢更換大廳和餐廳的每一盞燈具。"
+        },
+        {
+          "en": "Tenants are not allowed to remove any fixture from the apartment without permission from the landlord.",
+          "zh": "沒有房東許可，房客不得移除公寓裡的任何固定裝置。"
+        },
+        {
+          "en": "The store sells every light fixture you might need for your home, office, or garden.",
+          "zh": "那家店販售你居家、辦公室或花園可能需要的每一種燈具。"
+        }
+      ],
+      "distractors": [
+        "fixation",
+        "mixture",
+        "fracture"
+      ],
+      "note": "語塊：light fixture（燈具）、bathroom fixture（衛浴設備）、fixtures and fittings（固定裝置和配件）。fixture 是「固定在房子裡的設備」，例如燈具、水龍頭；furniture 是可移動的「家具」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-recognition-of",
+      "word": "in recognition of",
+      "pos": "其他",
+      "meaning": "為了表彰；以認可",
+      "sentences": [
+        {
+          "en": "Ms. Kim received an award in recognition of her work to improve customer service at the hotel.",
+          "zh": "金小姐因為致力改善飯店的客服而獲得一個獎項，以表彰她的工作。"
+        },
+        {
+          "en": "The company gave all employees an extra day off in recognition of their hard work during the busy season.",
+          "zh": "為了表彰員工在旺季的辛勤工作，公司給所有員工多一天假。"
+        },
+        {
+          "en": "The city named a street after the scientist in recognition of her achievements in medicine.",
+          "zh": "市政府以那位科學家的名字為一條街命名，表揚她在醫學上的成就。"
+        },
+        {
+          "en": "In recognition of his thirty years of service, Mr. Lopez was invited to speak at the annual dinner.",
+          "zh": "為了表彰 Lopez 先生三十年的服務，他受邀在年度晚宴上致詞。"
+        },
+        {
+          "en": "The volunteers were given certificates in recognition of their help in organizing the city marathon.",
+          "zh": "志工獲頒證書，表彰他們協助籌辦馬拉松。"
+        }
+      ],
+      "distractors": [
+        "in recognition that",
+        "in return for",
+        "in honor of"
+      ],
+      "note": "語塊：in recognition of one's work（表彰某人的工作）、in recognition of achievements（表揚成就）。in recognition of 是「為了表揚、肯定……」；recognize 是動詞「認可；認出」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-moderate",
+      "word": "moderate",
+      "pos": "形容詞",
+      "meaning": "中等的；適度的；溫和的",
+      "sentences": [
+        {
+          "en": "The hotel offers comfortable rooms at a moderate price, so it is popular with business travelers.",
+          "zh": "那家飯店以中等價格提供舒適的房間，所以很受商務旅客歡迎。"
+        },
+        {
+          "en": "Doctors recommend at least thirty minutes of moderate exercise, such as walking or cycling, every day.",
+          "zh": "醫生建議每天至少做三十分鐘的適度運動，例如散步。"
+        },
+        {
+          "en": "Economists expect moderate growth in the economy next year, with prices rising slowly in most areas.",
+          "zh": "經濟學家預期明年經濟會溫和成長，物價緩慢上升。"
+        },
+        {
+          "en": "The weather will be moderate this weekend, with temperatures around twenty degrees in the afternoon.",
+          "zh": "這個週末天氣溫和，氣溫大約二十度。"
+        },
+        {
+          "en": "The company reported moderate growth in sales, which was better than many analysts had expected.",
+          "zh": "公司公布銷售溫和成長，比很多分析師預期的好。"
+        }
+      ],
+      "distractors": [
+        "modern",
+        "modest",
+        "moderation"
+      ],
+      "note": "語塊：moderate price（中等價格）、moderate exercise（適度運動）、moderate growth（溫和成長）。moderate 是「不多不少、適中的」；當動詞是「主持（討論）」；moderator 是「主持人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-panel-discussion",
+      "word": "panel discussion",
+      "pos": "名詞",
+      "meaning": "座談會；專題討論",
+      "sentences": [
+        {
+          "en": "The conference will hold a panel discussion about the future of electric cars on Friday morning.",
+          "zh": "研討會週五早上將舉辦一場關於電動車未來的座談會。"
+        },
+        {
+          "en": "Ms. Ahmed was invited to take part in a panel discussion with three other business leaders.",
+          "zh": "Ahmed 小姐受邀和另外三位企業領袖一起參加座談會。"
+        },
+        {
+          "en": "After the panel discussion, members of the audience will have time to ask the speakers questions.",
+          "zh": "座談會結束後，觀眾會有時間向講者提問。"
+        },
+        {
+          "en": "The panel discussion focused on how small businesses can use social media to attract customers.",
+          "zh": "座談會聚焦在小企業如何利用社群媒體吸引顧客。"
+        },
+        {
+          "en": "The university will hold a panel discussion on climate change, and students can attend for free.",
+          "zh": "那所大學將舉辦一場氣候變遷座談會，學生可以免費參加。"
+        }
+      ],
+      "distractors": [
+        "round table",
+        "group discussion",
+        "press conference"
+      ],
+      "note": "語塊：hold a panel discussion（舉辦座談會）、take part in a panel discussion（參加座談）。panel discussion 是「幾位專家在台上一起討論」；panel 也可以指「評審團」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ethical",
+      "word": "ethical",
+      "pos": "形容詞",
+      "meaning": "道德的；合乎倫理的",
+      "sentences": [
+        {
+          "en": "The company follows strict ethical standards when it chooses suppliers for its clothing and shoes.",
+          "zh": "那家公司選擇服裝供應商時遵守嚴格的道德標準。"
+        },
+        {
+          "en": "Many customers prefer to buy from an ethical business that treats its workers and suppliers fairly.",
+          "zh": "很多顧客比較喜歡向公平對待員工、有道德的企業購買。"
+        },
+        {
+          "en": "The use of personal data in advertising raises an important ethical issue for technology companies.",
+          "zh": "在廣告中使用個人資料，對科技公司來說是一個重要的倫理問題。"
+        },
+        {
+          "en": "Employees who are unsure about an ethical issue should talk to their manager or the legal department.",
+          "zh": "對倫理問題不確定的員工應該找經理或法務部談。"
+        },
+        {
+          "en": "The firm was praised for its ethical standards after it refused to work with a company that polluted rivers.",
+          "zh": "那家公司拒絕和污染河川的企業合作後，因道德標準而受到稱讚。"
+        }
+      ],
+      "distractors": [
+        "ethnic",
+        "eternal",
+        "critical"
+      ],
+      "note": "語塊：ethical standards（道德標準）、ethical business（有道德的經營）、ethical issue（倫理問題）。ethical 是形容詞；ethics 是名詞「倫理；道德規範」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-airfare",
+      "word": "airfare",
+      "pos": "名詞",
+      "meaning": "機票價格",
+      "sentences": [
+        {
+          "en": "The tour package includes round-trip airfare, four nights at a hotel, and breakfast every day.",
+          "zh": "這個套裝行程包含來回機票、四晚飯店住宿和每天早餐。"
+        },
+        {
+          "en": "Travelers can find cheap airfare by booking their flights several months in advance on the internet.",
+          "zh": "旅客提前幾個月訂機票，就能找到便宜的機票。"
+        },
+        {
+          "en": "The company will pay for your airfare and hotel when you travel to the conference in Seoul.",
+          "zh": "你去首爾參加研討會時，公司會負擔你的機票和飯店。"
+        },
+        {
+          "en": "Airfare to popular destinations usually increases during the summer and holiday seasons every single year.",
+          "zh": "飛往熱門地點的機票價格通常在夏天和節慶期間上漲。"
+        },
+        {
+          "en": "The prize for the winner of the contest will include airfare for two people to Japan.",
+          "zh": "比賽得獎者的獎品包含兩人飛日本的機票。"
+        }
+      ],
+      "distractors": [
+        "fanfare",
+        "warfare",
+        "welfare"
+      ],
+      "note": "語塊：round-trip airfare（來回機票）、cheap airfare（便宜機票）、include airfare（包含機票）。airfare 是「機票錢」；air ticket 是「機票本身」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contentment",
+      "word": "contentment",
+      "pos": "名詞",
+      "meaning": "滿足；知足",
+      "sentences": [
+        {
+          "en": "Many people find a sense of contentment in simple activities such as gardening and cooking.",
+          "zh": "很多人在園藝和做菜等簡單的活動中找到滿足感。"
+        },
+        {
+          "en": "The survey showed that contentment at work depends more on good relationships than on salary.",
+          "zh": "調查顯示，工作上的滿足感更取決於良好的人際關係，而不是薪水。"
+        },
+        {
+          "en": "After retiring, Mr. Brown was able to find contentment in traveling and spending time with his grandchildren.",
+          "zh": "退休後，Brown 先生得以在旅行和陪孫子中找到滿足。"
+        },
+        {
+          "en": "The hotel's quiet garden gives guests a sense of contentment after a busy day in the city.",
+          "zh": "飯店安靜的花園讓客人在城裡忙碌一天後感到滿足。"
+        },
+        {
+          "en": "Experts say that regular exercise and enough sleep can increase feelings of contentment in daily life.",
+          "zh": "專家說規律運動和充足睡眠能增加滿足感。"
+        }
+      ],
+      "distractors": [
+        "commitment",
+        "containment",
+        "contention"
+      ],
+      "note": "語塊：a sense of contentment（滿足感）、find contentment（找到滿足）。contentment 是名詞「心滿意足」；content 當形容詞是「滿足的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-with-the-exception-of",
+      "word": "with the exception of",
+      "pos": "其他",
+      "meaning": "除了……之外",
+      "sentences": [
+        {
+          "en": "All of the stores will be open on Monday, with the exception of the one at the airport.",
+          "zh": "除了機場那家以外，所有門市週一都會營業。"
+        },
+        {
+          "en": "With the exception of Ms. Lee, everyone on the team will attend the conference in Tokyo next week.",
+          "zh": "除了李小姐之外，團隊每個人下週都會參加東京的研討會。"
+        },
+        {
+          "en": "The museum is open every day with the exception of national holidays and the first Monday of each month.",
+          "zh": "博物館除了國定假日和每月第一個週一以外每天開放。"
+        },
+        {
+          "en": "All of the rooms have been renovated, with the exception of the suites on the top floor.",
+          "zh": "除了頂樓的套房以外，所有房間都已經翻修過了。"
+        },
+        {
+          "en": "With the exception of a few small problems, the opening of the new office went very smoothly.",
+          "zh": "除了幾個小問題之外，新辦公室的開幕進行得非常順利。"
+        }
+      ],
+      "distractors": [
+        "with the help of",
+        "with the aim of",
+        "with regard to"
+      ],
+      "note": "語塊：with the exception of（除了……以外）。with the exception of 和 except (for) 意思相同，比較正式；exception 是「例外」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advocate",
+      "word": "advocate",
+      "pos": "名詞",
+      "meaning": "提倡者；擁護者",
+      "sentences": [
+        {
+          "en": "Ms. Grant is a strong advocate of flexible working hours and has introduced them at her company.",
+          "zh": "Grant 小姐是彈性工時的強力支持者，已在她的公司實施。"
+        },
+        {
+          "en": "The mayor has long been an advocate of public transportation and plans to build two new subway lines.",
+          "zh": "市長長期以來都是大眾運輸的提倡者，計畫興建兩條新捷運線。"
+        },
+        {
+          "en": "As an advocate of healthy eating, the chef uses fresh vegetables in every dish on her menu.",
+          "zh": "身為健康飲食的提倡者，那位主廚菜單上每道菜都用新鮮蔬菜。"
+        },
+        {
+          "en": "The author is a strong advocate of reading to children every day, even before they can speak.",
+          "zh": "那位作家強力提倡每天唸書給孩子聽，甚至在他們會說話之前。"
+        },
+        {
+          "en": "Many business leaders are an advocate of training programs that help employees learn new skills.",
+          "zh": "很多企業領袖都是幫助員工學新技能的訓練計畫的支持者。"
+        }
+      ],
+      "distractors": [
+        "advocacy",
+        "adequate",
+        "avocado"
+      ],
+      "note": "語塊：an advocate of（……的提倡者）、strong advocate（強力支持者）。advocate 當名詞是「支持者」；當動詞是「提倡、主張」；supporter 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-early-education",
+      "word": "early education",
+      "pos": "名詞",
+      "meaning": "幼兒教育；早期教育",
+      "sentences": [
+        {
+          "en": "The government plans to invest in early education by building more kindergartens in rural areas.",
+          "zh": "政府計畫在鄉村地區蓋更多幼兒園，投資幼兒教育。"
+        },
+        {
+          "en": "Studies show that children who attend an early education program do better in primary school.",
+          "zh": "研究顯示，參加幼兒教育計畫的孩子在小學表現比較好。"
+        },
+        {
+          "en": "Ms. Park has worked in early education for fifteen years and now trains new kindergarten teachers.",
+          "zh": "朴小姐從事幼兒教育十五年，現在負責訓練新的幼兒園老師。"
+        },
+        {
+          "en": "The city will offer a free early education program for families with low incomes starting next year.",
+          "zh": "市政府明年起將為低收入家庭提供免費的幼兒教育計畫。"
+        },
+        {
+          "en": "Many experts believe that money spent on early education helps the economy in the long term.",
+          "zh": "很多專家認為花在幼兒教育上的錢長期來看有助經濟。"
+        }
+      ],
+      "distractors": [
+        "higher education",
+        "adult education",
+        "early retirement"
+      ],
+      "note": "語塊：invest in early education（投資幼兒教育）、early education program（幼兒教育計畫）。early education 指學齡前的教育；primary education 是「小學教育」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-anniversary",
+      "word": "anniversary",
+      "pos": "名詞",
+      "meaning": "週年紀念",
+      "sentences": [
+        {
+          "en": "The company will celebrate its fiftieth anniversary with a party for all employees and their families.",
+          "zh": "公司將舉辦一場邀請所有員工和家人的派對，慶祝五十週年。"
+        },
+        {
+          "en": "The department store's anniversary sale offers discounts of up to fifty percent on many items.",
+          "zh": "百貨公司的週年慶很多商品最多打五折。"
+        },
+        {
+          "en": "To celebrate the tenth anniversary of the restaurant, the owners will offer a free dessert to every guest.",
+          "zh": "為了慶祝餐廳十週年，老闆會招待每位客人一份免費甜點。"
+        },
+        {
+          "en": "The museum is preparing a special exhibition for its hundredth anniversary celebration early next spring.",
+          "zh": "博物館正在為明年春天的百年紀念準備特展。"
+        },
+        {
+          "en": "Many customers wait for the anniversary sale every year because it has the lowest prices of the season.",
+          "zh": "很多顧客每年都在等週年慶，因為那是這一季價格最低的時候。"
+        }
+      ],
+      "distractors": [
+        "annually",
+        "adversary",
+        "necessary"
+      ],
+      "note": "語塊：celebrate an anniversary（慶祝週年）、tenth anniversary（十週年）、anniversary sale（週年慶）。anniversary 是「每年的紀念日」；birthday 是「生日」；annual 是「每年的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-search-for",
+      "word": "search for",
+      "pos": "片語動詞",
+      "meaning": "尋找；搜尋",
+      "sentences": [
+        {
+          "en": "Many people now search for information about products online before they visit a store in person.",
+          "zh": "很多人現在去店裡之前，會先上網搜尋產品資訊。"
+        },
+        {
+          "en": "After leaving his job at the bank, Mr. Diaz began to search for a job in marketing.",
+          "zh": "離開銀行的工作後，Diaz 先生開始找行銷方面的工作。"
+        },
+        {
+          "en": "The engineers will continue to search for a solution to the problem with the factory's cooling system.",
+          "zh": "工程師會繼續尋找工廠冷卻系統問題的解決辦法。"
+        },
+        {
+          "en": "The company hired a recruitment agency to search for a new director with experience in Asia.",
+          "zh": "公司請了一家人力仲介公司，尋找一位有亞洲經驗的新總監。"
+        },
+        {
+          "en": "Customers can search for products by name, price, size, or color on our new website.",
+          "zh": "顧客可以在我們的新網站上依名稱、價格或顏色搜尋商品。"
+        }
+      ],
+      "distractors": [
+        "look for",
+        "research",
+        "reach for"
+      ],
+      "note": "語塊：search for information（搜尋資訊）、search for a job（找工作）、search for a solution（尋找解決辦法）。search for 是「找（某物）」；search + 地點 是「搜查某處」（search the room）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-within-easy-distance",
+      "word": "within easy distance",
+      "pos": "其他",
+      "meaning": "在方便抵達的距離內",
+      "sentences": [
+        {
+          "en": "The hotel is within easy distance of the airport, so it is popular with business travelers.",
+          "zh": "那家飯店離機場很近，所以很受商務旅客歡迎。"
+        },
+        {
+          "en": "Our new office is within easy distance of several restaurants, banks, and a large park.",
+          "zh": "我們的新辦公室離好幾家餐廳、銀行和一座大公園都很近。"
+        },
+        {
+          "en": "The apartment is within easy distance of the subway station, which makes it convenient for commuters.",
+          "zh": "那間公寓離捷運站很近，對通勤族來說很方便。"
+        },
+        {
+          "en": "Many families choose this neighborhood because it is within easy distance of several good schools.",
+          "zh": "很多家庭選擇這個社區，因為它離好學校很近。"
+        },
+        {
+          "en": "The conference center is within easy distance of the old town, where visitors can enjoy shopping and dining.",
+          "zh": "會議中心離老城區很近，訪客可以在那裡逛街吃飯。"
+        }
+      ],
+      "distractors": [
+        "within reach",
+        "at a distance",
+        "in the distance"
+      ],
+      "note": "語塊：within easy distance of（離……很近）、within walking distance（走路可到）。within easy distance of 是「很容易到達」；within walking distance of 是「走路就能到」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-offense",
+      "word": "offense",
+      "pos": "名詞",
+      "meaning": "冒犯；違規；罪行",
+      "sentences": [
+        {
+          "en": "Please do not take offense if the manager changes your report, as she does this for everyone.",
+          "zh": "如果經理修改你的報告，請不要覺得被冒犯，因為她每個人都這樣。"
+        },
+        {
+          "en": "Parking in a space for disabled drivers is a minor offense, but it can result in a large fine.",
+          "zh": "停在身障車位是輕微違規，但可能會被處以高額罰款。"
+        },
+        {
+          "en": "No offense, but I think the second design is more suitable for our clients than the first one.",
+          "zh": "沒有惡意，但我覺得第二個設計比第一個更適合我們的客戶。"
+        },
+        {
+          "en": "The customer took offense at the waiter's comment and asked to speak with the manager.",
+          "zh": "那位顧客對服務生的話感到不悅，要求和經理談。"
+        },
+        {
+          "en": "Driving without a valid license is a serious offense in most countries around the world.",
+          "zh": "無照駕駛在世界上大多數國家都是嚴重的違法行為。"
+        }
+      ],
+      "distractors": [
+        "offence",
+        "defense",
+        "offer"
+      ],
+      "note": "語塊：take offense（生氣；覺得被冒犯）、no offense（沒有惡意）、a minor offense（輕微違規）。offense 是美式拼法，英式為 offence；offend 是動詞「冒犯」；offensive 是「冒犯的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-item",
+      "word": "item",
+      "pos": "名詞",
+      "meaning": "品項；物品；項目",
+      "sentences": [
+        {
+          "en": "The first item on the agenda is the budget for next year's online marketing campaign.",
+          "zh": "議程上的第一個項目是明年行銷活動的預算。"
+        },
+        {
+          "en": "Please note that a sale item cannot be returned or exchanged once it has been purchased.",
+          "zh": "請注意，特價品一經購買就不能退換。"
+        },
+        {
+          "en": "Each item in the store has a barcode that shows its price and the date it arrived.",
+          "zh": "店裡的每一件商品都有一個顯示價格和到貨日期的條碼。"
+        },
+        {
+          "en": "The package arrived on time, but one item was missing, so I contacted customer service.",
+          "zh": "包裹準時到了，但少了一件物品，所以我聯絡了客服。"
+        },
+        {
+          "en": "Customers can order up to ten of each item, and delivery is free for orders over fifty dollars.",
+          "zh": "顧客每項商品最多可以訂十件，訂單超過五十美元免運費。"
+        }
+      ],
+      "distractors": [
+        "itemize",
+        "atom",
+        "idem"
+      ],
+      "note": "語塊：item on the agenda（議程上的項目）、sale item（特價品）、each item（每一件）。item 是「一件東西、一個項目」；items 常指「商品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shoot",
+      "word": "shoot",
+      "pos": "動詞",
+      "meaning": "拍攝；射擊",
+      "sentences": [
+        {
+          "en": "The company will shoot a commercial for its new sports drink at the beach next month.",
+          "zh": "公司下個月會在海邊為新運動飲料拍一支廣告。"
+        },
+        {
+          "en": "The film crew plans to shoot several scenes in the old part of the city, so some streets will be closed.",
+          "zh": "電影劇組計畫在老城區拍好幾場戲，所以有些街道會封閉。"
+        },
+        {
+          "en": "The magazine hired a famous photographer to shoot the cover for its special holiday issue.",
+          "zh": "那本雜誌請了一位知名攝影師為節慶特刊拍封面。"
+        },
+        {
+          "en": "It took three days to shoot a film about the history of the company for its anniversary celebration.",
+          "zh": "為了週年慶，花了三天拍一部關於公司歷史的影片。"
+        },
+        {
+          "en": "The director wants to shoot a commercial that shows how easy the new phone is to use.",
+          "zh": "導演想拍一支展現新手機有多容易使用的廣告。"
+        }
+      ],
+      "distractors": [
+        "shout",
+        "shoot up",
+        "suit"
+      ],
+      "note": "語塊：shoot a film（拍電影）、shoot a commercial（拍廣告）、photo shoot（拍照）。shoot 在商業英文常指「拍攝」；過去式 shot；photo shoot 是名詞「拍攝工作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prime",
+      "word": "prime",
+      "pos": "形容詞",
+      "meaning": "主要的；最好的；黃金的",
+      "sentences": [
+        {
+          "en": "The restaurant is in a prime location on the main street, so it attracts many tourists every day.",
+          "zh": "那家餐廳位於主要街道的黃金地段，所以每天都吸引很多觀光客。"
+        },
+        {
+          "en": "Advertisements shown during prime time are much more expensive than those shown late at night.",
+          "zh": "黃金時段播出的廣告比深夜播出的貴很多。"
+        },
+        {
+          "en": "The new library is a prime example of how modern design can use natural light and save energy.",
+          "zh": "新圖書館是現代設計如何運用自然光並節能的最好例子。"
+        },
+        {
+          "en": "The company paid a high price for the office because it is in a prime location near the subway.",
+          "zh": "公司為那間辦公室付了很高的價格，因為它位於捷運附近的黃金地段。"
+        },
+        {
+          "en": "The cooking show will be broadcast during prime time on Saturday evenings starting next month.",
+          "zh": "那個烹飪節目下個月起將在週六晚上的黃金時段播出。"
+        }
+      ],
+      "distractors": [
+        "primer",
+        "crime",
+        "prim"
+      ],
+      "note": "語塊：prime location（黃金地段）、prime time（黃金時段）、prime example（最好的例子）。prime 是「最重要的、最好的」；primary 是「主要的；初級的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
