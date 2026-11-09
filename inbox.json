@@ -18358,6 +18358,706 @@
       ],
       "note": "語塊：readily available（隨時可取得）、readily agree（爽快答應）。readily 有「很容易取得」和「欣然、爽快」兩個意思；ready 是形容詞「準備好的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dissolve",
+      "word": "dissolve",
+      "pos": "動詞",
+      "meaning": "溶解；解散",
+      "sentences": [
+        {
+          "en": "These cleaning tablets dissolve in water within a few minutes and leave no chemicals behind.",
+          "zh": "這些清潔錠幾分鐘內就會溶於水，不會留下化學物質。"
+        },
+        {
+          "en": "The two founders decided to dissolve the partnership after they disagreed about the future of the business.",
+          "zh": "兩位創辦人對公司的未來意見不合後，決定拆夥。"
+        },
+        {
+          "en": "The board voted to dissolve the company and sell all of its remaining equipment to pay its debts.",
+          "zh": "董事會投票決定解散公司，並把剩下的設備全部賣掉償還債務。"
+        },
+        {
+          "en": "Our new fertilizer is designed to dissolve in water quickly so that plants can absorb the nutrients easily.",
+          "zh": "我們的新肥料設計成能快速溶於水，讓植物容易吸收養分。"
+        },
+        {
+          "en": "The committee will dissolve once the new building is finished and the final report has been submitted.",
+          "zh": "新大樓完工、最終報告提交之後，委員會就會解散。"
+        }
+      ],
+      "distractors": [
+        "resolve",
+        "devolve",
+        "evolve"
+      ],
+      "note": "語塊：dissolve in water（溶於水）、dissolve a company（解散公司）、dissolve a partnership（拆夥）。dissolve 可以指東西「溶解」，也可以指組織「解散」；solve 是「解決」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-soil",
+      "word": "soil",
+      "pos": "名詞",
+      "meaning": "土壤",
+      "sentences": [
+        {
+          "en": "The region is famous for its rich soil, which allows farmers to grow vegetables all year round.",
+          "zh": "那個地區以肥沃的土壤聞名，讓農民一整年都能種蔬菜。"
+        },
+        {
+          "en": "Scientists are testing the soil quality on the farm to find out why the crops are growing so slowly.",
+          "zh": "科學家正在檢測農場的土壤品質，找出農作物為什麼長得這麼慢。"
+        },
+        {
+          "en": "Planting trees along the river can help prevent soil erosion during the long rainy season in the summer.",
+          "zh": "沿著河邊種樹可以幫助防止雨季時的土壤流失。"
+        },
+        {
+          "en": "Before building the factory, engineers must check whether the soil is strong enough to support it.",
+          "zh": "蓋工廠之前，工程師必須確認土壤夠不夠堅固能支撐它。"
+        },
+        {
+          "en": "Organic farming methods are designed to protect soil quality and keep the land healthy for many years.",
+          "zh": "有機耕作方法的目的是保護土壤品質，讓土地多年保持健康。"
+        }
+      ],
+      "distractors": [
+        "toil",
+        "spoil",
+        "oil"
+      ],
+      "note": "語塊：rich soil（肥沃的土壤）、soil quality（土壤品質）、soil erosion（土壤流失）。soil 是「土壤」；toil（辛苦工作）和 spoil（寵壞；腐壞）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-absorb",
+      "word": "absorb",
+      "pos": "動詞",
+      "meaning": "吸收；承擔（成本）",
+      "sentences": [
+        {
+          "en": "These towels are made from a special cotton that can absorb water much faster than ordinary towels.",
+          "zh": "這些毛巾是用特殊棉料做的，吸水速度比一般毛巾快很多。"
+        },
+        {
+          "en": "The company decided to absorb the cost of shipping instead of raising prices for its customers.",
+          "zh": "公司決定自行吸收運費，而不是向顧客漲價。"
+        },
+        {
+          "en": "New employees often need several weeks to absorb all the information presented during the training.",
+          "zh": "新員工通常需要好幾週才能吸收訓練期間教的所有資訊。"
+        },
+        {
+          "en": "The thick carpets in the conference room absorb sound, so it is very quiet during meetings.",
+          "zh": "會議室的厚地毯會吸收聲音，所以開會時非常安靜。"
+        },
+        {
+          "en": "Small suppliers cannot always absorb the cost of rising fuel prices, so they must charge more.",
+          "zh": "小供應商不一定能吸收油價上漲的成本，所以必須收更多錢。"
+        }
+      ],
+      "distractors": [
+        "adsorb",
+        "abort",
+        "absurd"
+      ],
+      "note": "語塊：absorb water（吸水）、absorb the cost（吸收成本）、absorb information（吸收資訊）。absorb 可以指「吸收液體、資訊」，商業上也指公司「自行吸收（成本）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-negatively",
+      "word": "negatively",
+      "pos": "副詞",
+      "meaning": "負面地；不利地",
+      "sentences": [
+        {
+          "en": "Poor sleep can negatively affect the concentration and performance of employees at work the next day.",
+          "zh": "睡眠不足會負面影響員工工作時的專注力和表現。"
+        },
+        {
+          "en": "The long strike at the port is expected to negatively impact the delivery of goods across the country.",
+          "zh": "港口的長期罷工預計會對全國的貨物運送造成不利衝擊。"
+        },
+        {
+          "en": "Customers responded negatively to the new design of the website, so the company returned to the old one.",
+          "zh": "顧客對網站的新設計反應負面，所以公司改回了舊版。"
+        },
+        {
+          "en": "Rising interest rates could negatively affect sales of cars, homes, and other expensive products in the coming months.",
+          "zh": "利率上升可能會對汽車、房屋和其他昂貴產品的銷售造成負面影響。"
+        },
+        {
+          "en": "The heavy rain did not negatively impact the number of visitors who attended the indoor exhibition.",
+          "zh": "大雨並沒有對參觀室內展覽的人數造成不利影響。"
+        }
+      ],
+      "distractors": [
+        "negligibly",
+        "natively",
+        "narratively"
+      ],
+      "note": "語塊：negatively affect（負面影響）、negatively impact（不利地衝擊）、respond negatively（負面回應）。negatively 是副詞，常放在 affect、impact 前面；positively 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nutrient",
+      "word": "nutrient",
+      "pos": "名詞",
+      "meaning": "營養素；養分",
+      "sentences": [
+        {
+          "en": "Vitamin C is an essential nutrient that helps the body fight infections and recover from illness.",
+          "zh": "維他命 C 是一種必需營養素，能幫助身體對抗感染、從疾病中復原。"
+        },
+        {
+          "en": "The new breakfast cereal contains every essential nutrient that growing children need to start each morning.",
+          "zh": "新的早餐穀片含有成長中孩子每天早上需要的所有必需營養素。"
+        },
+        {
+          "en": "Plants absorb water and each nutrient they need through their roots, which spread deep into the soil.",
+          "zh": "植物透過深入土壤的根部吸收水分和所需的每一種養分。"
+        },
+        {
+          "en": "The nutrition label lists the amount of every important nutrient contained in a single serving.",
+          "zh": "營養標示列出每一份所含的每種重要營養素的量。"
+        },
+        {
+          "en": "Doctors say that calcium is a key nutrient for strong bones, especially for women over the age of fifty.",
+          "zh": "醫生說鈣是讓骨骼強健的關鍵營養素，尤其是對五十歲以上的女性。"
+        }
+      ],
+      "distractors": [
+        "nutrition",
+        "nutritionist",
+        "nurture"
+      ],
+      "note": "語塊：essential nutrient（必需營養素）、key nutrient（關鍵營養素）。nutrient 是「營養素」（可數）；nutrition 是「營養（學）」；nutritious 是形容詞「營養的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-crop",
+      "word": "crop",
+      "pos": "名詞",
+      "meaning": "農作物；收成",
+      "sentences": [
+        {
+          "en": "The dry weather this summer has damaged the rice crop in several parts of the country.",
+          "zh": "今年夏天的乾旱天氣損害了國內好幾個地區的稻作。"
+        },
+        {
+          "en": "Farmers in the valley expect a good crop of apples this year because of the mild spring.",
+          "zh": "因為春天氣候溫和，山谷裡的農民預期今年蘋果會有好收成。"
+        },
+        {
+          "en": "The new fertilizer helped increase the crop yield on the test farm by nearly twenty percent.",
+          "zh": "新肥料讓試驗農場的作物產量增加了將近兩成。"
+        },
+        {
+          "en": "Coffee is the most important crop for the region, and most families depend on it for their income.",
+          "zh": "咖啡是那個地區最重要的農作物，大部分家庭都靠它維生。"
+        },
+        {
+          "en": "Scientists are developing a new type of crop that can grow well even when there is very little rain.",
+          "zh": "科學家正在開發一種即使雨量很少也能長得很好的新作物。"
+        }
+      ],
+      "distractors": [
+        "crisp",
+        "drop",
+        "prop"
+      ],
+      "note": "語塊：grow crops（種植作物）、a good crop（好收成）、crop yield（作物產量）。crop 是「農作物」；harvest 是「收成（的動作或時期）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retailer",
+      "word": "retailer",
+      "pos": "名詞",
+      "meaning": "零售商",
+      "sentences": [
+        {
+          "en": "Our products are now available at every major retailer in the country, including department stores.",
+          "zh": "我們的產品現在在國內每一家大型零售商都買得到，包括百貨公司。"
+        },
+        {
+          "en": "The online retailer offers free delivery on all orders placed on our website before noon on weekdays.",
+          "zh": "那家網路零售商對平日中午前下的所有訂單都提供免運費。"
+        },
+        {
+          "en": "Fashion House is the largest retailer of children's clothing in the region, with over fifty stores.",
+          "zh": "Fashion House 是那個地區最大的童裝零售商，有五十多家門市。"
+        },
+        {
+          "en": "The manufacturer sells its goods to the retailer, who then sells them to customers at a higher price.",
+          "zh": "製造商把商品賣給零售商，零售商再以較高的價格賣給顧客。"
+        },
+        {
+          "en": "Several retailers have signed contracts with us, and one major retailer plans to open a special section for our brand.",
+          "zh": "好幾家零售商已經和我們簽約，其中一家大型零售商打算為我們的品牌開設專區。"
+        }
+      ],
+      "distractors": [
+        "wholesaler",
+        "retainer",
+        "resident"
+      ],
+      "note": "語塊：major retailer（大型零售商）、online retailer（網路零售商）、retailer of（……的零售商）。retailer 是「零售商（賣給一般消費者）」；wholesaler 是「批發商」；retail 是「零售」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suggest",
+      "word": "suggest",
+      "pos": "動詞",
+      "meaning": "建議；暗示",
+      "sentences": [
+        {
+          "en": "The consultant will suggest that we reduce the number of products in our catalog to lower costs.",
+          "zh": "顧問會建議我們減少目錄中的產品數量，以降低成本。"
+        },
+        {
+          "en": "We strongly suggest booking your hotel room early because the city is very busy during the festival.",
+          "zh": "我們強烈建議提早訂房，因為慶典期間城市非常熱鬧。"
+        },
+        {
+          "en": "The results of the survey suggest that customers want longer opening hours on weekends and holidays.",
+          "zh": "調查結果顯示顧客希望週末營業時間更長。"
+        },
+        {
+          "en": "Could you suggest a good restaurant near the office where we can take our clients for lunch?",
+          "zh": "你可以推薦辦公室附近一家可以帶客戶去吃午餐的好餐廳嗎？"
+        },
+        {
+          "en": "The doctor may suggest taking a short walk after lunch to improve your blood circulation.",
+          "zh": "醫生可能會建議午餐後散個步，促進血液循環。"
+        }
+      ],
+      "distractors": [
+        "digest",
+        "sudden",
+        "support"
+      ],
+      "note": "語塊：suggest that（建議……）、suggest doing（建議做……）、strongly suggest（強烈建議）。suggest 後面接 doing 或 that 子句，不接 to do；that 子句常用原形動詞（suggest that he leave）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tuition-fee",
+      "word": "tuition fee",
+      "pos": "名詞",
+      "meaning": "學費",
+      "sentences": [
+        {
+          "en": "Students must pay the tuition fee for the first semester before the end of August.",
+          "zh": "學生必須在八月底前繳交第一學期的學費。"
+        },
+        {
+          "en": "The company will cover the tuition fee for employees who take evening courses related to their work.",
+          "zh": "公司會替上和工作相關的夜間課程的員工支付學費。"
+        },
+        {
+          "en": "Many parents are worried about the tuition fee increase announced by the university last week.",
+          "zh": "很多家長擔心大學上週宣布的學費調漲。"
+        },
+        {
+          "en": "The scholarship pays the full tuition fee as well as the cost of textbooks for one year.",
+          "zh": "這份獎學金支付全額學費以及一年的課本費用。"
+        },
+        {
+          "en": "If you pay the tuition fee in one payment, you will receive a five percent discount from the school.",
+          "zh": "如果你一次繳清學費，學校會給你百分之五的折扣。"
+        }
+      ],
+      "distractors": [
+        "admission fee",
+        "membership fee",
+        "tuition"
+      ],
+      "note": "語塊：pay the tuition fee（繳學費）、tuition fee increase（學費調漲）。tuition fee 也常寫作 tuition 或 tuition fees；scholarship（獎學金）可以用來支付學費。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-struggle",
+      "word": "struggle",
+      "pos": "動詞",
+      "meaning": "努力掙扎；奮鬥",
+      "sentences": [
+        {
+          "en": "Many small restaurants struggle to find enough staff during the busy summer tourist season each year.",
+          "zh": "很多小餐廳在忙碌的夏季旅遊旺季都很難找到足夠的人手。"
+        },
+        {
+          "en": "New employees sometimes struggle with the company's complicated software during their first few weeks on the job.",
+          "zh": "新員工在頭幾週有時候會被公司複雜的軟體搞得很辛苦。"
+        },
+        {
+          "en": "Some customers struggle to understand the instructions, so we will rewrite them in simpler language.",
+          "zh": "有些顧客很難看懂說明，所以我們會用更簡單的文字重寫。"
+        },
+        {
+          "en": "Factories in the region struggle with high energy costs and a shortage of skilled workers.",
+          "zh": "那個地區的工廠為高昂的能源成本和技術工人短缺所苦。"
+        },
+        {
+          "en": "Without more funding, the museum will struggle to keep its doors open for another year.",
+          "zh": "如果沒有更多經費，博物館將很難再撐一年。"
+        }
+      ],
+      "distractors": [
+        "strangle",
+        "straggle",
+        "stumble"
+      ],
+      "note": "語塊：struggle to（努力想要……）、struggle with（為……所苦）。struggle to do 是「很努力但很辛苦地做」；struggling 是形容詞「經營困難的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aid",
+      "word": "aid",
+      "pos": "名詞",
+      "meaning": "援助；幫助；輔助工具",
+      "sentences": [
+        {
+          "en": "Students who need financial aid should submit their applications to the university before the end of May.",
+          "zh": "需要財務援助的學生應該在五月底前向大學提出申請。"
+        },
+        {
+          "en": "All security guards in the building are trained to provide first aid in case of an emergency.",
+          "zh": "大樓裡所有的保全都受過訓練，可以在緊急狀況時提供急救。"
+        },
+        {
+          "en": "Charts and pictures are a useful visual aid when you are giving a presentation to a large audience.",
+          "zh": "對一大群聽眾做簡報時，圖表和圖片是很有用的視覺輔助工具。"
+        },
+        {
+          "en": "The government sent food and medical aid to the towns that were damaged by the earthquake.",
+          "zh": "政府送食物和醫療援助到被地震損壞的城鎮。"
+        },
+        {
+          "en": "A first aid kit is kept in the break room on every floor of our office building.",
+          "zh": "我們辦公大樓每一層的茶水間都放有急救箱。"
+        }
+      ],
+      "distractors": [
+        "aide",
+        "aim",
+        "raid"
+      ],
+      "note": "語塊：financial aid（財務援助）、first aid（急救）、visual aid（視覺輔助工具）。aid 比 help 正式；aide（助理）多一個 e，指「人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recall",
+      "word": "recall",
+      "pos": "動詞",
+      "meaning": "召回；回想起",
+      "sentences": [
+        {
+          "en": "The car company decided to recall thousands of vehicles because of a problem with the brakes.",
+          "zh": "那家汽車公司決定召回數千輛車，因為煞車有問題。"
+        },
+        {
+          "en": "I recall that the meeting was moved to Thursday, but please check the schedule to be sure.",
+          "zh": "我記得會議改到週四了，但請查一下行程表確認。"
+        },
+        {
+          "en": "The toy manufacturer will recall a product that could be dangerous for children under three years old.",
+          "zh": "那家玩具廠會召回一款可能對三歲以下兒童有危險的產品。"
+        },
+        {
+          "en": "Ms. Bauer could not recall the name of the client, so she checked the notes from their last meeting.",
+          "zh": "Bauer 小姐想不起那位客戶的名字，所以查看了上次開會的筆記。"
+        },
+        {
+          "en": "Customers who purchased the heater should stop using it immediately, as the company plans to recall the product next week.",
+          "zh": "購買那款電暖器的顧客應立刻停止使用，因為公司打算下週召回這項產品。"
+        }
+      ],
+      "distractors": [
+        "record",
+        "relax",
+        "refill"
+      ],
+      "note": "語塊：recall a product（召回產品）、recall that（記得……）。recall 在商業上常指「召回有問題的產品」；也可以表示「想起」（= remember）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occur",
+      "word": "occur",
+      "pos": "動詞",
+      "meaning": "發生；（想法）出現",
+      "sentences": [
+        {
+          "en": "Please report any problems that occur with the new software to the IT department as soon as possible.",
+          "zh": "新軟體發生任何問題，請盡快回報給資訊部。"
+        },
+        {
+          "en": "It did not occur to the manager that the team might need more time to complete the project.",
+          "zh": "經理沒想到團隊可能需要更多時間完成專案。"
+        },
+        {
+          "en": "Delays often occur during the holiday season, so we recommend ordering gifts at least two weeks early.",
+          "zh": "節慶期間常常發生延誤，所以我們建議至少提前兩週訂禮物。"
+        },
+        {
+          "en": "Most accidents in the warehouse occur when workers do not follow the safety instructions carefully.",
+          "zh": "倉庫的大部分意外都發生在工人沒有仔細遵守安全說明的時候。"
+        },
+        {
+          "en": "If an error should occur during the payment process, your card will not be charged.",
+          "zh": "如果付款過程中發生錯誤，你的卡不會被扣款。"
+        }
+      ],
+      "distractors": [
+        "incur",
+        "concur",
+        "occupy"
+      ],
+      "note": "語塊：occur to sb（某人突然想到）、problems occur（問題發生）。occur 比 happen 正式；occur to sb 是「某人想到」。名詞 occurrence 是「事件、發生」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-into-consideration",
+      "word": "take into consideration",
+      "pos": "片語動詞",
+      "meaning": "把……列入考慮",
+      "sentences": [
+        {
+          "en": "When planning the event, please take into consideration the number of guests who may need parking.",
+          "zh": "規劃活動時，請把可能需要停車的客人數量列入考慮。"
+        },
+        {
+          "en": "The committee will take into consideration both the cost and the quality of each proposal before choosing one.",
+          "zh": "委員會在選擇之前，會把每份提案的成本和品質都列入考慮。"
+        },
+        {
+          "en": "We will take into consideration your years of experience when we decide on your starting salary.",
+          "zh": "決定你的起薪時，我們會把你多年的經驗列入考慮。"
+        },
+        {
+          "en": "Designers must take into consideration the needs of elderly users when creating the new mobile app.",
+          "zh": "設計師在製作新 App 時，必須把年長使用者的需求列入考慮。"
+        },
+        {
+          "en": "The bank will take into consideration your income and your credit history before approving the loan.",
+          "zh": "銀行核准貸款前，會把你的收入和信用紀錄列入考慮。"
+        }
+      ],
+      "distractors": [
+        "take into custody",
+        "take into account",
+        "take part in"
+      ],
+      "note": "語塊：take sth into consideration（考慮某事）。take sth into consideration 和 take sth into account 意思相同，都是「把……列入考慮」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-secretary",
+      "word": "secretary",
+      "pos": "名詞",
+      "meaning": "秘書；（政府）部長",
+      "sentences": [
+        {
+          "en": "Please call my secretary to schedule a meeting, as I will be traveling for most of next week.",
+          "zh": "請打電話給我的秘書安排會議，因為我下週大部分時間都在出差。"
+        },
+        {
+          "en": "The executive secretary is responsible for managing the director's calendar and organizing business trips for the whole team.",
+          "zh": "執行秘書負責管理總監的行程並安排出差。"
+        },
+        {
+          "en": "Mr. Ibrahim hired a personal secretary to help him answer emails and prepare documents for meetings.",
+          "zh": "Ibrahim 先生聘了一位私人秘書，幫他回信和準備開會的文件。"
+        },
+        {
+          "en": "The secretary of the association will send the minutes of the meeting to all members by Friday.",
+          "zh": "協會的秘書會在週五前把會議記錄寄給所有會員。"
+        },
+        {
+          "en": "Ms. Cho worked as an executive secretary for five years before she was promoted to office manager.",
+          "zh": "Cho 小姐擔任執行秘書五年後被升為辦公室經理。"
+        }
+      ],
+      "distractors": [
+        "secretariat",
+        "secret",
+        "sanctuary"
+      ],
+      "note": "語塊：executive secretary（執行秘書）、personal secretary（私人秘書）。secretary 在公司指「秘書」，在美國政府指「部長」（Secretary of State 國務卿）。現在也常用 administrative assistant。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chef",
+      "word": "chef",
+      "pos": "名詞",
+      "meaning": "主廚；廚師",
+      "sentences": [
+        {
+          "en": "The head chef at the hotel restaurant changes the menu every season to use fresh local ingredients.",
+          "zh": "飯店餐廳的主廚每季更換菜單，使用新鮮的在地食材。"
+        },
+        {
+          "en": "The bakery hired a talented pastry chef who trained for several years at a famous school in Paris.",
+          "zh": "那家麵包店請了一位在巴黎知名學校受訓好幾年的優秀糕點師傅。"
+        },
+        {
+          "en": "An award-winning chef will give a cooking demonstration at the food festival this Saturday afternoon.",
+          "zh": "一位得獎主廚將在這週六下午的美食節做烹飪示範。"
+        },
+        {
+          "en": "Guests can watch the chef prepare their meals in the open kitchen in the center of the restaurant.",
+          "zh": "客人可以在餐廳中央的開放式廚房看主廚準備他們的餐點。"
+        },
+        {
+          "en": "The restaurant is looking for an experienced head chef who can manage a kitchen staff of twelve people.",
+          "zh": "那家餐廳在找一位能管理十二名廚房員工的資深主廚。"
+        }
+      ],
+      "distractors": [
+        "chief",
+        "chief executive",
+        "cheek"
+      ],
+      "note": "語塊：head chef（主廚）、pastry chef（糕點師傅）、award-winning chef（得獎主廚）。chef 是「專業廚師」，尤其是餐廳的主廚；cook 是一般「做飯的人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-taste",
+      "word": "taste",
+      "pos": "名詞",
+      "meaning": "味道；品味；喜好",
+      "sentences": [
+        {
+          "en": "The food festival gives visitors a taste of traditional dishes from more than twenty different countries.",
+          "zh": "美食節讓遊客嚐到二十多個國家的傳統料理。"
+        },
+        {
+          "en": "The hotel offers a wide range of activities to suit every taste, from hiking to cooking classes.",
+          "zh": "飯店提供各種活動，從健行到烹飪課，適合各種喜好。"
+        },
+        {
+          "en": "The designer clearly has good taste, as every room in the new office looks modern and elegant.",
+          "zh": "那位設計師顯然很有品味，新辦公室的每個房間看起來都既現代又優雅。"
+        },
+        {
+          "en": "Customers said that the new sauce has a strong taste of garlic and lemon, which they enjoyed very much.",
+          "zh": "顧客說新醬料有濃濃的大蒜和檸檬味，他們很喜歡。"
+        },
+        {
+          "en": "Our menu includes dishes to suit every taste, including several options for children and vegetarians.",
+          "zh": "我們的菜單有適合各種喜好的料理，包括好幾道兒童和素食的選擇。"
+        }
+      ],
+      "distractors": [
+        "test",
+        "haste",
+        "waste"
+      ],
+      "note": "語塊：a taste of（……的味道）、have good taste（有品味）、suit every taste（適合各種喜好）。taste 可以是「味道」，也可以是「品味、喜好」；tasty 是「好吃的」；tasteful 是「有品味的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-push",
+      "word": "push",
+      "pos": "動詞",
+      "meaning": "推動；促使；推銷",
+      "sentences": [
+        {
+          "en": "Employees continue to push for more flexible working hours and the option to work from home.",
+          "zh": "員工持續爭取更有彈性的工時和在家工作的選擇。"
+        },
+        {
+          "en": "We may need to push back the launch date because some of the parts have not arrived yet.",
+          "zh": "我們可能需要把上市日期往後延，因為有些零件還沒到。"
+        },
+        {
+          "en": "The store manager asked the staff to push sales of the new coffee machines during the holiday season.",
+          "zh": "店長要員工在節慶期間推銷新咖啡機。"
+        },
+        {
+          "en": "The city council will push for a new law to reduce the number of cars in the downtown area.",
+          "zh": "市議會將爭取一項減少市中心車輛數量的新法律。"
+        },
+        {
+          "en": "The meeting with the clients had to be pushed back, so we will push back the deadline for the report too.",
+          "zh": "和客戶的會議必須延後，所以我們也會把報告的截止日往後延。"
+        }
+      ],
+      "distractors": [
+        "pull",
+        "rush",
+        "posh"
+      ],
+      "note": "語塊：push for（極力爭取）、push back（延後）、push sales（推銷）。push back 在商業上常表示「把時間往後延」；push for 是「爭取」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-store",
+      "word": "store",
+      "pos": "動詞",
+      "meaning": "儲存；存放",
+      "sentences": [
+        {
+          "en": "The company uses a secure online system to store data about its customers and their orders.",
+          "zh": "公司用一個安全的線上系統儲存顧客和訂單的資料。"
+        },
+        {
+          "en": "Please store all cleaning products in the locked cabinet in the storage room on the first floor.",
+          "zh": "請把所有清潔用品存放在一樓儲藏室上鎖的櫃子裡。"
+        },
+        {
+          "en": "Fresh fish should be stored in the refrigerator, and you should store it for no more than two days.",
+          "zh": "新鮮的魚應該放在冰箱裡，而且存放不要超過兩天。"
+        },
+        {
+          "en": "Customers can store their luggage at the front desk after they check out of the hotel.",
+          "zh": "客人退房後可以把行李寄放在櫃台。"
+        },
+        {
+          "en": "The warehouse has enough space to store more than ten thousand boxes of products at one time.",
+          "zh": "倉庫有足夠的空間一次存放一萬多箱產品。"
+        }
+      ],
+      "distractors": [
+        "stare",
+        "score",
+        "restore"
+      ],
+      "note": "語塊：store data（儲存資料）、store in（存放在）、be stored safely（被安全存放）。store 當動詞是「儲存」，當名詞是「商店」；storage 是名詞「儲存（空間）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-throughout-the-country",
+      "word": "throughout the country",
+      "pos": "其他",
+      "meaning": "全國各地",
+      "sentences": [
+        {
+          "en": "The company operates more than two hundred stores throughout the country, mostly in large cities.",
+          "zh": "公司在全國各地經營兩百多家門市，大部分在大城市。"
+        },
+        {
+          "en": "Heavy rain is expected throughout the country this weekend, so outdoor events may be canceled.",
+          "zh": "預計這個週末全國各地都會下大雨，所以戶外活動可能會取消。"
+        },
+        {
+          "en": "Our products are sold in supermarkets throughout the country and in several other countries overseas.",
+          "zh": "我們的產品在全國各地的超市和海外好幾個國家都有販售。"
+        },
+        {
+          "en": "The bank plans to close twenty branches throughout the country as more customers use online banking.",
+          "zh": "隨著越來越多顧客使用網路銀行，那家銀行計畫關閉全國各地的二十家分行。"
+        },
+        {
+          "en": "Schools throughout the country will celebrate the national holiday with special events and musical performances.",
+          "zh": "全國各地的學校會用特別活動和表演來慶祝國定假日。"
+        }
+      ],
+      "distractors": [
+        "throughout the day",
+        "around the clock",
+        "all over the world"
+      ],
+      "note": "語塊：throughout the country（全國各地）、stores throughout the country（全國各地的門市）。throughout 是「遍及」；across the country、nationwide 意思相同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
