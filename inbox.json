@@ -20458,6 +20458,706 @@
       ],
       "note": "語塊：sign a contract（簽約）、renew a contract（續約）、terms of the contract（合約條款）。contract 當名詞重音在前（CON-tract）是「合約」；當動詞重音在後（con-TRACT）是「收縮；感染」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-salary",
+      "word": "salary",
+      "pos": "名詞",
+      "meaning": "薪水；月薪",
+      "sentences": [
+        {
+          "en": "The position offers an annual salary of sixty thousand dollars plus a bonus based on performance.",
+          "zh": "這個職位提供六萬美元的年薪，外加依績效計算的獎金。"
+        },
+        {
+          "en": "The starting salary for new engineers at the company is higher than the average in the industry.",
+          "zh": "公司新進工程師的起薪比業界平均還高。"
+        },
+        {
+          "en": "All employees will receive a salary increase of three percent at the beginning of next year.",
+          "zh": "所有員工明年初都會加薪百分之三。"
+        },
+        {
+          "en": "Ms. Bell negotiated a higher starting salary because she had several years of experience abroad.",
+          "zh": "Bell 小姐因為有好幾年的海外經驗，談到了比較高的起薪。"
+        },
+        {
+          "en": "Your salary will be paid into your bank account on the twenty-fifth day of each month.",
+          "zh": "你的薪水會在每個月二十五日匯入你的銀行帳戶。"
+        }
+      ],
+      "distractors": [
+        "celery",
+        "salad",
+        "sanitary"
+      ],
+      "note": "語塊：annual salary（年薪）、starting salary（起薪）、salary increase（加薪）。salary 是固定的「月薪、年薪」；wage 多指按時計算的「工資」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-benefits-package",
+      "word": "benefits package",
+      "pos": "名詞",
+      "meaning": "福利方案",
+      "sentences": [
+        {
+          "en": "The company offers a competitive benefits package that includes health insurance and free gym membership.",
+          "zh": "公司提供具競爭力的福利方案，包括健康保險和免費健身房會員。"
+        },
+        {
+          "en": "Many applicants were attracted by the comprehensive benefits package, which includes four weeks of paid vacation.",
+          "zh": "很多應徵者被完善的福利方案吸引，其中包括四週的帶薪休假。"
+        },
+        {
+          "en": "Details about the benefits package will be explained by the human resources manager during orientation.",
+          "zh": "福利方案的細節會由人資經理在新人說明會上解釋。"
+        },
+        {
+          "en": "A competitive benefits package helps companies attract and keep talented employees for a long time.",
+          "zh": "具競爭力的福利方案能幫助公司長期留住有才能的員工。"
+        },
+        {
+          "en": "The new benefits package also provides financial support for employees who want to continue their education.",
+          "zh": "新的福利方案也為想繼續進修的員工提供經費補助。"
+        }
+      ],
+      "distractors": [
+        "benefit concert",
+        "vacation package",
+        "welcome package"
+      ],
+      "note": "語塊：competitive benefits package（具競爭力的福利）、comprehensive benefits package（完善的福利方案）。benefits package 指薪水以外的「整套福利」，例如保險、休假、退休金。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-somewhat",
+      "word": "somewhat",
+      "pos": "副詞",
+      "meaning": "有點；稍微",
+      "sentences": [
+        {
+          "en": "The instructions for the new machine are somewhat difficult to understand, so we will provide training.",
+          "zh": "新機器的說明有點難懂，所以我們會提供訓練。"
+        },
+        {
+          "en": "Prices at the new supermarket are somewhat higher than those at the store across the street.",
+          "zh": "新超市的價格比對街那家店稍微高一點。"
+        },
+        {
+          "en": "Sales were somewhat lower than expected in the first quarter, but they improved in April.",
+          "zh": "第一季的銷售比預期稍微低一點，但四月就改善了。"
+        },
+        {
+          "en": "The hotel rooms are somewhat small, but they are clean, quiet, and close to the train station.",
+          "zh": "飯店房間有點小，但很乾淨、安靜，而且離火車站很近。"
+        },
+        {
+          "en": "The weather was somewhat cooler than usual, so fewer people visited the beach last weekend.",
+          "zh": "天氣比平常稍微涼一點，所以上週末去海灘的人比較少。"
+        }
+      ],
+      "distractors": [
+        "somehow",
+        "somewhere",
+        "something"
+      ],
+      "note": "語塊：somewhat difficult（有點困難）、somewhat higher（稍微高一點）、somewhat lower（稍微低一點）。somewhat 比 a little、slightly 正式，用來修飾形容詞或副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consider",
+      "word": "consider",
+      "pos": "動詞",
+      "meaning": "考慮；認為",
+      "sentences": [
+        {
+          "en": "Many people consider the new museum one of the most beautiful buildings in the city.",
+          "zh": "很多人認為新博物館是城裡最美的建築之一。"
+        },
+        {
+          "en": "The company will consider opening a second factory if demand continues to grow next year.",
+          "zh": "如果明年需求持續成長，公司會考慮開設第二座工廠。"
+        },
+        {
+          "en": "We consider customer satisfaction as the most important measure of our success as a company.",
+          "zh": "我們把顧客滿意度視為衡量我們成功最重要的指標。"
+        },
+        {
+          "en": "Please consider all of the options carefully before you make a final decision about the contract.",
+          "zh": "在對合約做最後決定之前，請仔細考慮所有選項。"
+        },
+        {
+          "en": "Ms. Torres would consider moving to the Seoul office if the company offered her a management position.",
+          "zh": "如果公司提供管理職，Torres 小姐會考慮調到首爾辦公室。"
+        }
+      ],
+      "distractors": [
+        "considerate",
+        "conserve",
+        "confide"
+      ],
+      "note": "語塊：consider sth as（把某事視為……）、consider opening（考慮開設）、consider moving（考慮搬到）、consider all of the options（考慮所有選項）。consider 後面接動名詞（consider moving），不接 to do；consideration 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prevent",
+      "word": "prevent",
+      "pos": "動詞",
+      "meaning": "防止；預防",
+      "sentences": [
+        {
+          "en": "Wearing a helmet can prevent serious injuries while you are working on the construction site.",
+          "zh": "在工地工作時戴安全帽可以預防嚴重受傷。"
+        },
+        {
+          "en": "Regular maintenance will prevent the machines from breaking down during the busy holiday season in December.",
+          "zh": "定期維修會防止機器在旺季時故障。"
+        },
+        {
+          "en": "The new software is designed to prevent hackers from stealing customer information stored on our servers.",
+          "zh": "新軟體的設計是為了防止駭客竊取顧客資料。"
+        },
+        {
+          "en": "To prevent accidents, all employees must complete safety training before they use the heavy equipment.",
+          "zh": "為了預防意外，所有員工都必須完成安全訓練才能使用設備。"
+        },
+        {
+          "en": "Covering the furniture with plastic sheets will prevent damage while the walls are being painted.",
+          "zh": "牆壁油漆時，用塑膠布蓋住家具可以防止損壞。"
+        }
+      ],
+      "distractors": [
+        "present",
+        "pretend",
+        "preview"
+      ],
+      "note": "語塊：prevent sth from（防止某物……）、prevent accidents（預防意外）、prevent damage（防止損害）。prevent A from doing 是「阻止 A 做某事」；protect 是「保護」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-valuable",
+      "word": "valuable",
+      "pos": "形容詞",
+      "meaning": "寶貴的；有價值的",
+      "sentences": [
+        {
+          "en": "The internship gave Ms. Chen valuable experience in marketing, sales, and customer service at a large firm.",
+          "zh": "實習讓陳小姐在行銷和客服方面得到寶貴的經驗。"
+        },
+        {
+          "en": "The survey provided valuable information about what customers want from our new product and its price.",
+          "zh": "調查提供了關於顧客想從新產品得到什麼的寶貴資訊。"
+        },
+        {
+          "en": "Experienced employees are a valuable asset to any company, so we try hard to keep them.",
+          "zh": "有經驗的員工是任何公司的寶貴資產，所以我們很努力留住他們。"
+        },
+        {
+          "en": "Please keep your valuable items in the safe in your hotel room while you are out.",
+          "zh": "外出時，請把貴重物品放在飯店房間的保險箱裡。"
+        },
+        {
+          "en": "Working abroad for two years was valuable experience that helped him get his current job.",
+          "zh": "在國外工作兩年是寶貴的經驗，幫助他得到現在的工作。"
+        }
+      ],
+      "distractors": [
+        "invaluable",
+        "variable",
+        "available"
+      ],
+      "note": "語塊：valuable experience（寶貴的經驗）、valuable information（有價值的資訊）、valuable asset（寶貴的資產）。valuable 是「很有價值」；invaluable 是「非常寶貴、無價的」（不是沒價值）；valueless 才是「沒價值」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-up",
+      "word": "take up",
+      "pos": "片語動詞",
+      "meaning": "佔用（時間、空間）；開始從事",
+      "sentences": [
+        {
+          "en": "The old filing cabinets take up too much space, so we plan to store our documents online.",
+          "zh": "舊的檔案櫃太佔空間，所以我們打算把文件存在網路上。"
+        },
+        {
+          "en": "Long meetings take up time that employees could use to complete more important tasks each day.",
+          "zh": "冗長的會議佔用了員工可以用來完成更重要工作的時間。"
+        },
+        {
+          "en": "Many employees decided to take up yoga after the company opened a small fitness room.",
+          "zh": "公司開了一間小健身房後，很多員工決定開始練瑜伽。"
+        },
+        {
+          "en": "The new printer is small enough that it will not take up much space on your desk.",
+          "zh": "新印表機夠小，不會佔用你桌上太多空間。"
+        },
+        {
+          "en": "Mr. Diaz plans to take up painting as a hobby after he retires from the bank next year.",
+          "zh": "Diaz 先生打算明年從銀行退休後，開始把畫畫當成嗜好。"
+        }
+      ],
+      "distractors": [
+        "take over",
+        "take off",
+        "take on"
+      ],
+      "note": "語塊：take up space（佔空間）、take up time（佔時間）、take up a hobby（開始一項嗜好）。take up 可以是「佔用」，也可以是「開始學、開始從事」；take over 是「接管」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-upcoming",
+      "word": "upcoming",
+      "pos": "形容詞",
+      "meaning": "即將到來的",
+      "sentences": [
+        {
+          "en": "Please send me the list of guests for the upcoming event by the end of this week.",
+          "zh": "請在這週結束前把即將舉行活動的賓客名單寄給我。"
+        },
+        {
+          "en": "The agenda for the upcoming meeting will be emailed to all participants on Monday morning.",
+          "zh": "即將召開會議的議程會在週一早上寄給所有與會者。"
+        },
+        {
+          "en": "Stores are hiring extra staff to prepare for the upcoming holiday season, which is always very busy.",
+          "zh": "商店正在增聘人手，準備即將到來的節慶季。"
+        },
+        {
+          "en": "The director will announce the dates of the upcoming training sessions at the next staff meeting.",
+          "zh": "主任會在下次員工會議上宣布即將舉行的訓練課程日期。"
+        },
+        {
+          "en": "Tickets for the upcoming concert sold out within an hour of going on sale online.",
+          "zh": "即將舉行的演唱會門票在網路開賣一小時內就賣光了。"
+        }
+      ],
+      "distractors": [
+        "oncoming",
+        "outgoing",
+        "ongoing"
+      ],
+      "note": "語塊：upcoming event（即將舉行的活動）、upcoming meeting（即將召開的會議）、upcoming season（即將到來的季節）。upcoming 是「即將發生的」；forthcoming 意思接近，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sales-associate",
+      "word": "sales associate",
+      "pos": "名詞",
+      "meaning": "銷售員；店員",
+      "sentences": [
+        {
+          "en": "The department store is hiring a part-time sales associate to work on weekends and holidays.",
+          "zh": "百貨公司正在招聘一名週末和假日上班的兼職店員。"
+        },
+        {
+          "en": "An experienced sales associate can help customers choose the right size and style of shoes.",
+          "zh": "資深銷售員可以幫顧客挑選合適尺寸和款式的鞋子。"
+        },
+        {
+          "en": "Each sales associate receives a small bonus for every customer who signs up for a store credit card.",
+          "zh": "每位店員每讓一位顧客辦店內信用卡，就能拿到一小筆獎金。"
+        },
+        {
+          "en": "Ms. Ruiz started as a part-time sales associate and became the store manager five years later.",
+          "zh": "Ruiz 小姐從兼職店員做起，五年後成為店長。"
+        },
+        {
+          "en": "Please ask a sales associate if you need help finding a product or checking the price.",
+          "zh": "如果你需要幫忙找商品或查價格，請詢問店員。"
+        }
+      ],
+      "distractors": [
+        "sales manager",
+        "sales figures",
+        "sales tax"
+      ],
+      "note": "語塊：part-time sales associate（兼職店員）、experienced sales associate（資深銷售員）。sales associate 是「店員、銷售人員」的正式說法；salesperson、sales clerk 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-customer-relations",
+      "word": "customer relations",
+      "pos": "名詞",
+      "meaning": "客戶關係；顧客關係",
+      "sentences": [
+        {
+          "en": "The company hired a new manager to improve customer relations after receiving many complaints last year.",
+          "zh": "公司接到很多投訴後，聘請了一位新經理來改善顧客關係。"
+        },
+        {
+          "en": "Please contact the customer relations department if you have any questions about your order or delivery.",
+          "zh": "如果你對訂單有任何問題，請聯絡客戶關係部。"
+        },
+        {
+          "en": "Good customer relations are important for small businesses that depend on regular customers for most of their sales.",
+          "zh": "良好的顧客關係對依賴常客的小商家來說很重要。"
+        },
+        {
+          "en": "The training program focuses on communication skills that help staff improve customer relations in every store.",
+          "zh": "訓練計畫著重於幫助員工改善顧客關係的溝通技巧。"
+        },
+        {
+          "en": "Ms. Park has worked in the customer relations department for ten years and knows many of our clients.",
+          "zh": "朴小姐在客戶關係部工作了十年，認識我們很多客戶。"
+        }
+      ],
+      "distractors": [
+        "public relations",
+        "customer service",
+        "labor relations"
+      ],
+      "note": "語塊：improve customer relations（改善顧客關係）、customer relations department（客戶關係部）。customer relations 是公司和顧客之間的關係管理；customer service 是「客服」，兩者常一起出現。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-truly",
+      "word": "truly",
+      "pos": "副詞",
+      "meaning": "真正地；確實；真誠地",
+      "sentences": [
+        {
+          "en": "We truly appreciate your patience while our team works to solve the problem with your account.",
+          "zh": "我們團隊處理您帳戶的問題期間，真心感謝您的耐心。"
+        },
+        {
+          "en": "The hotel offers a truly unique experience, with rooms built inside the trees of an old forest.",
+          "zh": "那家飯店提供真正獨特的體驗，房間就蓋在古老森林的樹上。"
+        },
+        {
+          "en": "The new product is truly different from anything else on the market, which is why it sells so well.",
+          "zh": "這款新產品和市場上其他產品真的很不一樣，所以賣得這麼好。"
+        },
+        {
+          "en": "Our staff truly appreciate the support that customers have shown during the renovation of the store.",
+          "zh": "我們的員工真心感謝顧客在店面整修期間給予的支持。"
+        },
+        {
+          "en": "The view from the mountain top is truly unique, especially in the early morning when the sun rises.",
+          "zh": "從山頂看出去的景色真的很獨特，尤其是太陽升起的清晨。"
+        }
+      ],
+      "distractors": [
+        "truthfully",
+        "timely",
+        "duly"
+      ],
+      "note": "語塊：truly appreciate（真心感謝）、truly unique（真正獨特的）、Yours truly（敬上）。truly 是 true 的副詞，注意沒有 e；Yours truly 是書信結尾用語。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-withdraw",
+      "word": "withdraw",
+      "pos": "動詞",
+      "meaning": "提款；撤回；退出",
+      "sentences": [
+        {
+          "en": "Customers can withdraw money from any of our machines without paying an extra fee at any time.",
+          "zh": "顧客可以在我們任何一台機器提款，不用付額外手續費。"
+        },
+        {
+          "en": "The company decided to withdraw from the project after the costs became much higher than expected.",
+          "zh": "成本變得比預期高很多之後，公司決定退出這個專案。"
+        },
+        {
+          "en": "The client may withdraw the offer if we cannot agree on the price by the end of the week.",
+          "zh": "如果我們在週末前無法談妥價格，客戶可能會撤回提議。"
+        },
+        {
+          "en": "Several runners had to withdraw from the race because of the extremely hot weather on Sunday.",
+          "zh": "好幾位跑者因為週日天氣極度炎熱而退出比賽。"
+        },
+        {
+          "en": "You will need your bank card and your password to withdraw money at the airport machine.",
+          "zh": "在機場的機器提款需要你的金融卡和密碼。"
+        }
+      ],
+      "distractors": [
+        "withhold",
+        "withstand",
+        "draw"
+      ],
+      "note": "語塊：withdraw money（提款）、withdraw from（退出……）、withdraw an offer（撤回提議）。withdraw 可以是「提領（錢）」或「撤回、退出」；名詞是 withdrawal。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-paid",
+      "word": "paid",
+      "pos": "形容詞",
+      "meaning": "有薪的；付費的",
+      "sentences": [
+        {
+          "en": "All full-time employees receive fifteen days of paid vacation each year, as well as national holidays.",
+          "zh": "所有全職員工每年都有十五天帶薪休假，加上國定假日。"
+        },
+        {
+          "en": "New parents at the company can take up to six months of paid leave after their baby is born.",
+          "zh": "公司的新手爸媽在寶寶出生後最多可以請六個月的有薪假。"
+        },
+        {
+          "en": "A paid membership gives users access to all of the videos on our website without any advertisements.",
+          "zh": "付費會員可以觀看我們網站上所有的影片，沒有任何廣告。"
+        },
+        {
+          "en": "Employees who need paid leave for medical reasons should submit a note from their doctor.",
+          "zh": "因醫療原因需要請有薪假的員工，應該提交醫生證明。"
+        },
+        {
+          "en": "The company increased paid vacation for staff who have worked there for more than five years.",
+          "zh": "公司為工作超過五年的員工增加了帶薪休假天數。"
+        }
+      ],
+      "distractors": [
+        "pained",
+        "paired",
+        "laid"
+      ],
+      "note": "語塊：paid vacation（帶薪休假）、paid leave（有薪假）、paid membership（付費會員）。paid 是「有薪的；已付款的」；unpaid 是「無薪的；未付的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-broadcasting",
+      "word": "broadcasting",
+      "pos": "名詞",
+      "meaning": "廣播業；播送",
+      "sentences": [
+        {
+          "en": "Mr. Evans has worked in broadcasting for twenty years, first in radio and later in television.",
+          "zh": "Evans 先生在廣播電視業工作了二十年，先是廣播，後來是電視。"
+        },
+        {
+          "en": "The broadcasting company paid a large amount of money for the rights to show the football games.",
+          "zh": "那家廣播公司付了一大筆錢買足球比賽的轉播權。"
+        },
+        {
+          "en": "The network bought the broadcasting rights to the international tennis tournament for the next five years.",
+          "zh": "那家電視網買下了這個錦標賽未來五年的轉播權。"
+        },
+        {
+          "en": "Students in the broadcasting program learn how to produce news reports and interview guests in a real studio.",
+          "zh": "廣播學程的學生學習如何製作新聞報導和訪問來賓。"
+        },
+        {
+          "en": "The government plans to update the rules for broadcasting companies to include online video services.",
+          "zh": "政府計畫更新廣播公司的規定，把線上影音服務也納入。"
+        }
+      ],
+      "distractors": [
+        "forecasting",
+        "broadening",
+        "boasting"
+      ],
+      "note": "語塊：broadcasting company（廣播公司）、broadcasting rights（轉播權）。broadcasting 是「廣播、電視播送（產業）」；broadcast 是動詞或「節目」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sign",
+      "word": "sign",
+      "pos": "名詞",
+      "meaning": "標誌；跡象；招牌",
+      "sentences": [
+        {
+          "en": "The increase in online orders is a sign of the growing popularity of our new product line.",
+          "zh": "網路訂單增加是我們新產品線越來越受歡迎的跡象。"
+        },
+        {
+          "en": "Please follow the warning sign and do not enter the area while the floor is being cleaned.",
+          "zh": "請遵守警告標誌，地板清潔期間不要進入該區域。"
+        },
+        {
+          "en": "The store owner will put up a sign in the window to tell customers about the summer sale.",
+          "zh": "店主會在櫥窗掛上招牌，告訴顧客夏季特賣的消息。"
+        },
+        {
+          "en": "Rising house prices may be a sign of a strong economy, but they also make it hard to buy a home.",
+          "zh": "房價上漲可能是經濟強勁的跡象，但也讓人很難買房子。"
+        },
+        {
+          "en": "Drivers should slow down when they see the warning sign near the entrance of the elementary school.",
+          "zh": "駕駛看到學校入口附近的警告標誌時應該減速。"
+        }
+      ],
+      "distractors": [
+        "signal",
+        "sing",
+        "design"
+      ],
+      "note": "語塊：a sign of（……的跡象）、warning sign（警告標誌）、put up a sign（掛上招牌）。sign 可以是「標誌、招牌」，也可以是「跡象」；當動詞是「簽名」；signature 是「簽名（名詞）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-simplify",
+      "word": "simplify",
+      "pos": "動詞",
+      "meaning": "簡化",
+      "sentences": [
+        {
+          "en": "The bank wants to simplify the process of opening an account so that it can be done in ten minutes.",
+          "zh": "銀行想簡化開戶流程，讓它十分鐘就能完成。"
+        },
+        {
+          "en": "The government plans to simplify the tax form to make it easier for small business owners.",
+          "zh": "政府計畫簡化報稅表，讓小企業老闆更容易填寫。"
+        },
+        {
+          "en": "We need to simplify the instructions because many customers say they find them confusing and too long.",
+          "zh": "我們需要簡化說明，因為很多顧客覺得很難懂。"
+        },
+        {
+          "en": "The new software will simplify the process of tracking orders from the warehouse to the customer.",
+          "zh": "新軟體會簡化從倉庫到顧客之間追蹤訂單的流程。"
+        },
+        {
+          "en": "To simplify the form, the hospital removed several questions that were not really necessary for new patients.",
+          "zh": "為了簡化表格，醫院刪掉了幾個其實不必要的問題。"
+        }
+      ],
+      "distractors": [
+        "signify",
+        "simply",
+        "solidify"
+      ],
+      "note": "語塊：simplify the process（簡化流程）、simplify the form（簡化表格）。simplify 是「變簡單」；streamline 偏「讓流程更有效率」。名詞是 simplification。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-connection",
+      "word": "connection",
+      "pos": "名詞",
+      "meaning": "連接；關聯；轉機",
+      "sentences": [
+        {
+          "en": "The hotel offers a fast internet connection in every room as well as in the lobby and restaurant.",
+          "zh": "飯店每間房間、大廳和餐廳都提供高速網路連線。"
+        },
+        {
+          "en": "The police would like to speak with anyone who has information in connection with the robbery.",
+          "zh": "警方想和任何有搶案相關資訊的人談談。"
+        },
+        {
+          "en": "Passengers who need to make a connection in Tokyo should go directly to the transfer desk.",
+          "zh": "需要在東京轉機的乘客應該直接前往轉機櫃台。"
+        },
+        {
+          "en": "If your internet connection is slow, please restart the router or call our technical support team.",
+          "zh": "如果你的網路連線很慢，請重新啟動路由器或打給我們的技術支援團隊。"
+        },
+        {
+          "en": "We are writing in connection with the order you placed last week, which has been delayed.",
+          "zh": "我們來信是關於您上週下的訂單，它延遲了。"
+        }
+      ],
+      "distractors": [
+        "collection",
+        "correction",
+        "conception"
+      ],
+      "note": "語塊：internet connection（網路連線）、in connection with（關於）、make a connection（轉機）。connection 可以指「連線」、「關係」，或旅行時的「轉機、轉車」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-please",
+      "word": "please",
+      "pos": "動詞",
+      "meaning": "使高興；使滿意",
+      "sentences": [
+        {
+          "en": "The restaurant changes its menu every month in order to please customers who visit often.",
+          "zh": "那家餐廳每個月更換菜單，好讓常來的顧客滿意。"
+        },
+        {
+          "en": "Some clients are hard to please, so it is important to listen carefully to what they want.",
+          "zh": "有些客戶很難取悅，所以仔細聆聽他們的需求很重要。"
+        },
+        {
+          "en": "The new design of the store is sure to please shoppers who prefer a modern and simple style.",
+          "zh": "新的店面設計一定會讓喜歡現代簡約風格的顧客滿意。"
+        },
+        {
+          "en": "It is impossible to please everyone, but we try our best to meet the needs of most customers.",
+          "zh": "不可能讓每個人都滿意，但我們盡力滿足大多數顧客的需求。"
+        },
+        {
+          "en": "The chef worked hard to please the food critics who came to the restaurant on its opening night.",
+          "zh": "主廚很努力地讓開幕當晚來到餐廳的美食評論家滿意。"
+        }
+      ],
+      "distractors": [
+        "plead",
+        "pleat",
+        "release"
+      ],
+      "note": "語塊：be pleased to（很高興……）、hard to please（很難取悅）、please customers（讓顧客滿意）。please 當動詞是「使高興」；pleased 是「感到高興的」；pleasant 是「令人愉快的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pleasurable",
+      "word": "pleasurable",
+      "pos": "形容詞",
+      "meaning": "令人愉快的",
+      "sentences": [
+        {
+          "en": "Our goal is to make shopping a pleasurable experience for every customer who visits our store.",
+          "zh": "我們的目標是讓每位來店顧客都有愉快的購物經驗。"
+        },
+        {
+          "en": "Comfortable seats and free snacks help make long train trips more pleasurable for passengers of all ages.",
+          "zh": "舒適的座位和免費點心讓乘客的長途火車旅行更愉快。"
+        },
+        {
+          "en": "The spa offers a pleasurable experience that helps guests relax after a long day of work.",
+          "zh": "水療中心提供愉快的體驗，幫助客人在漫長的工作日後放鬆。"
+        },
+        {
+          "en": "Soft music and good lighting can make dining at a restaurant much more pleasurable for guests.",
+          "zh": "輕柔的音樂和良好的燈光可以讓在餐廳用餐更加愉快。"
+        },
+        {
+          "en": "Visitors described the boat tour as a pleasurable experience and recommended it to their friends.",
+          "zh": "遊客形容遊船行程是一次愉快的體驗，還推薦給朋友。"
+        }
+      ],
+      "distractors": [
+        "pleasant",
+        "measurable",
+        "treasurable"
+      ],
+      "note": "語塊：pleasurable experience（愉快的經驗）、make sth more pleasurable（讓……更愉快）。pleasurable 和 pleasant、enjoyable 意思接近；pleasure 是名詞「樂趣」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enforce",
+      "word": "enforce",
+      "pos": "動詞",
+      "meaning": "執行；實施（法律、規定）",
+      "sentences": [
+        {
+          "en": "Security guards will enforce the rules about parking in front of the building starting next week.",
+          "zh": "從下週開始，保全會執行大樓前面的停車規定。"
+        },
+        {
+          "en": "The city plans to strictly enforce the new law that bans smoking in all public parks.",
+          "zh": "市政府計畫嚴格執行禁止在所有公園吸菸的新法律。"
+        },
+        {
+          "en": "It is the manager's job to enforce the dress code and make sure that all staff look professional.",
+          "zh": "執行服裝規定、確保所有員工看起來專業是經理的工作。"
+        },
+        {
+          "en": "Police officers will enforce the speed limit near schools during the hours when children arrive and leave.",
+          "zh": "警察會在孩子上下學的時段，在學校附近執行速限規定。"
+        },
+        {
+          "en": "The library will enforce the rules about noise more strictly because many students have complained.",
+          "zh": "因為很多學生抱怨，圖書館會更嚴格執行噪音規定。"
+        }
+      ],
+      "distractors": [
+        "reinforce",
+        "endorse",
+        "enhance"
+      ],
+      "note": "語塊：enforce the rules（執行規定）、enforce the law（執法）、strictly enforce（嚴格執行）。enforce 是「強制執行規定」；reinforce 是「加強」，意思不同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
