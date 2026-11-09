@@ -27773,6 +27773,706 @@
       ],
       "note": "語塊：configure the settings（調整設定）、configure the system（設定系統）、configure the printers（設定印表機）。configure 是電腦用語「設定」；set up 意思接近；configuration 是名詞「配置」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-follow",
+      "word": "follow",
+      "pos": "動詞",
+      "meaning": "遵守；跟隨；接著",
+      "sentences": [
+        {
+          "en": "Please follow the instructions in the manual carefully when you set up the new printer.",
+          "zh": "安裝新印表機時，請仔細按照手冊上的指示操作。"
+        },
+        {
+          "en": "All visitors must follow the rules of the laboratory and wear safety glasses at all times.",
+          "zh": "所有訪客都必須遵守實驗室的規定，並隨時戴護目鏡。"
+        },
+        {
+          "en": "The sales manager will follow up with each client after the trade show to answer any questions.",
+          "zh": "商展結束後，業務經理會和每位客戶後續聯絡，回答任何問題。"
+        },
+        {
+          "en": "A short question-and-answer session will follow the presentation in the main conference room on the third floor.",
+          "zh": "主會議室的簡報結束後，接著會有一段簡短的問答時間。"
+        },
+        {
+          "en": "Employees who do not follow the rules about confidential information may face disciplinary action from the company.",
+          "zh": "不遵守機密資訊規定的員工可能會受到懲處。"
+        }
+      ],
+      "distractors": [
+        "fellow",
+        "hollow",
+        "swallow"
+      ],
+      "note": "語塊：follow the instructions（照指示做）、follow the rules（遵守規定）、follow up（後續追蹤）。follow 可以是「跟著」或「遵守」；following 是形容詞「下列的；接下來的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prescription",
+      "word": "prescription",
+      "pos": "名詞",
+      "meaning": "處方；處方藥",
+      "sentences": [
+        {
+          "en": "You can fill a prescription at any pharmacy, but please bring your health insurance card with you.",
+          "zh": "你可以在任何藥局照處方配藥，但請帶健保卡。"
+        },
+        {
+          "en": "This type of prescription medicine cannot be sold to customers without a note from a doctor.",
+          "zh": "這種處方藥沒有醫生證明不能賣給顧客。"
+        },
+        {
+          "en": "Some pain medicine can be bought without a prescription, but stronger types require a doctor's approval.",
+          "zh": "有些止痛藥不用處方就能買，但效果較強的需要醫生核准。"
+        },
+        {
+          "en": "The pharmacy can deliver prescription medicine to patients who are unable to leave their homes.",
+          "zh": "藥局可以把處方藥送給無法出門的病人。"
+        },
+        {
+          "en": "Please allow about twenty minutes for the pharmacist to fill a prescription during busy hours.",
+          "zh": "忙碌時段請給藥師大約二十分鐘配藥。"
+        }
+      ],
+      "distractors": [
+        "description",
+        "subscription",
+        "inscription"
+      ],
+      "note": "語塊：fill a prescription（照處方配藥）、prescription medicine（處方藥）、without a prescription（沒有處方）。prescription 是醫生開的「處方」；prescribe 是動詞「開藥」；description（描述）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-the-elderly",
+      "word": "the elderly",
+      "pos": "名詞",
+      "meaning": "老年人；長者",
+      "sentences": [
+        {
+          "en": "The new community center offers exercise classes and free meals for the elderly in the neighborhood.",
+          "zh": "新的社區中心為附近的長者提供運動課程和免費餐點。"
+        },
+        {
+          "en": "Many families hire professional workers to care for the elderly at home instead of moving them to nursing homes.",
+          "zh": "很多家庭請專業看護在家照顧老人，而不是把他們送到安養院。"
+        },
+        {
+          "en": "The city plans to improve services for the elderly, including free bus rides and home visits by nurses.",
+          "zh": "市政府計畫改善長者服務，包括免費搭公車和護士到府探訪。"
+        },
+        {
+          "en": "The company designs smartphones with large buttons and simple menus that are easy for the elderly to use.",
+          "zh": "那家公司設計有大按鍵和簡單選單、方便長者使用的手機。"
+        },
+        {
+          "en": "Volunteers visit the elderly who live alone to make sure they are safe and have enough food.",
+          "zh": "志工會探訪獨居長者，確認他們安全且有足夠的食物。"
+        }
+      ],
+      "distractors": [
+        "the wealthy",
+        "the disabled",
+        "the youth"
+      ],
+      "note": "語塊：care for the elderly（照顧老人）、services for the elderly（長者服務）、easy for the elderly（方便長者）、visit the elderly（探訪長者）。the elderly 是「老年人（總稱）」，動詞用複數；senior citizens 是比較禮貌的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-at-great-expense",
+      "word": "at great expense",
+      "pos": "其他",
+      "meaning": "花了大筆錢",
+      "sentences": [
+        {
+          "en": "The old theater was restored at great expense and reopened to the public last month.",
+          "zh": "那座老劇院花了大筆錢修復，上個月重新對外開放。"
+        },
+        {
+          "en": "The company brought in experts from overseas at great expense to train its engineers in the new factory.",
+          "zh": "公司花大錢從海外請專家來訓練工程師。"
+        },
+        {
+          "en": "The museum purchased the famous painting at great expense, but it has attracted many new visitors.",
+          "zh": "博物館花了大筆錢買下那幅名畫，但它吸引了很多新參觀者。"
+        },
+        {
+          "en": "The city built the new stadium at great expense, so officials hope it will be used for many events.",
+          "zh": "市政府花大錢蓋了新體育場，所以官員希望它能用來辦很多活動。"
+        },
+        {
+          "en": "The family flew in a famous chef from Paris at great expense to cook for the wedding dinner.",
+          "zh": "那家人花了大筆錢從巴黎請來一位知名主廚，為婚宴掌廚。"
+        }
+      ],
+      "distractors": [
+        "at great length",
+        "at any rate",
+        "at no cost"
+      ],
+      "note": "語塊：at great expense（花大錢）、restored at great expense（花大錢修復）。at great expense 是「付出很高的費用」；at the expense of 是「犧牲……」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-respondent",
+      "word": "respondent",
+      "pos": "名詞",
+      "meaning": "受訪者；回覆者",
+      "sentences": [
+        {
+          "en": "Each respondent who completes the survey will receive a coupon for a free coffee at our café.",
+          "zh": "每位完成調查的受訪者都會得到一張我們咖啡廳的免費咖啡券。"
+        },
+        {
+          "en": "Almost every survey respondent said that they would like the store to open earlier on weekends.",
+          "zh": "幾乎每位調查受訪者都說希望商店週末早一點開門。"
+        },
+        {
+          "en": "The research team will not share the name of any respondent, so people can answer honestly.",
+          "zh": "研究團隊不會公開任何受訪者的名字，所以大家可以誠實作答。"
+        },
+        {
+          "en": "One respondent suggested adding more vegetarian options to the menu in the company cafeteria on the first floor.",
+          "zh": "一位受訪者建議在公司員工餐廳的菜單上增加更多素食選擇。"
+        },
+        {
+          "en": "More than half of the survey respondents were under thirty, and the oldest respondent was eighty-two.",
+          "zh": "超過一半的調查受訪者未滿三十歲，最年長的受訪者八十二歲。"
+        }
+      ],
+      "distractors": [
+        "correspondent",
+        "resident",
+        "recipient"
+      ],
+      "note": "語塊：survey respondent（調查受訪者）、each respondent（每位受訪者）。respondent 是「回答問卷的人」；respond 是動詞「回應」；response 是名詞「回應」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-civic",
+      "word": "civic",
+      "pos": "形容詞",
+      "meaning": "市民的；公民的",
+      "sentences": [
+        {
+          "en": "The concert will be held at the civic center, which can hold more than three thousand people.",
+          "zh": "音樂會將在可以容納三千多人的市民中心舉行。"
+        },
+        {
+          "en": "Many people believe that voting in local elections is an important civic duty for every adult resident.",
+          "zh": "很多人認為在地方選舉投票是重要的公民責任。"
+        },
+        {
+          "en": "Several civic groups have asked the city council to build more parks in the downtown area.",
+          "zh": "好幾個公民團體要求市議會在市中心多蓋公園。"
+        },
+        {
+          "en": "The new civic center includes a library, a swimming pool, and rooms for community meetings.",
+          "zh": "新的市民中心包括圖書館、游泳池和社區會議室。"
+        },
+        {
+          "en": "Local businesses support civic events such as the summer festival and the holiday parade every year.",
+          "zh": "當地商家支持夏季慶典和節日遊行等市民活動。"
+        }
+      ],
+      "distractors": [
+        "civil",
+        "cynic",
+        "comic"
+      ],
+      "note": "語塊：civic center（市民中心）、civic duty（公民責任）、civic group（公民團體）。civic 是「和市民、城市有關的」；civil 是「公民的；民事的；有禮貌的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-immigration",
+      "word": "immigration",
+      "pos": "名詞",
+      "meaning": "移民；入境審查",
+      "sentences": [
+        {
+          "en": "Passengers must go through immigration and collect their luggage before they leave the airport for the city.",
+          "zh": "乘客離開機場前必須通過入境審查並領取行李。"
+        },
+        {
+          "en": "Foreign workers should contact the immigration office to renew their work permits before they expire.",
+          "zh": "外籍員工應該在工作證到期前聯絡移民署辦理更新。"
+        },
+        {
+          "en": "The government announced a new immigration policy that will make it easier for skilled workers to move here.",
+          "zh": "政府宣布一項新的移民政策，讓技術人才更容易移居這裡。"
+        },
+        {
+          "en": "It can take more than an hour to go through immigration at the airport during the holiday season.",
+          "zh": "節慶期間在機場通過入境審查可能要一個多小時。"
+        },
+        {
+          "en": "The conference will discuss how immigration policy affects businesses that need skilled workers from abroad.",
+          "zh": "研討會將討論移民政策如何影響需要海外員工的企業。"
+        }
+      ],
+      "distractors": [
+        "emigration",
+        "imitation",
+        "irrigation"
+      ],
+      "note": "語塊：immigration office（移民署）、go through immigration（通過入境審查）、immigration policy（移民政策）。immigration 是「移入」；emigration 是「移出」；在機場 immigration 指「入境審查」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-publicist",
+      "word": "publicist",
+      "pos": "名詞",
+      "meaning": "公關人員；宣傳人員",
+      "sentences": [
+        {
+          "en": "The author hired a publicist to arrange interviews with newspapers and radio stations before her book was released.",
+          "zh": "那位作家在新書出版前聘請公關，安排報紙和電台的訪問。"
+        },
+        {
+          "en": "According to the singer's publicist, the concert in Taipei has been postponed until next spring.",
+          "zh": "根據那位歌手的公關表示，台北的演唱會延到明年春天。"
+        },
+        {
+          "en": "The restaurant's publicist invited food critics to a free dinner on the night before the official opening.",
+          "zh": "那家餐廳的公關在正式開幕前一晚邀請美食評論家免費吃晚餐。"
+        },
+        {
+          "en": "The company decided to hire a publicist after its new product received very little attention from the media.",
+          "zh": "新產品沒有得到媒體太多關注後，公司決定聘請公關。"
+        },
+        {
+          "en": "A good publicist can help a small business get its name into magazines and popular websites.",
+          "zh": "一位好的公關可以幫助小企業登上雜誌和熱門網站。"
+        }
+      ],
+      "distractors": [
+        "publisher",
+        "publicity",
+        "pianist"
+      ],
+      "note": "語塊：hire a publicist（聘請公關）、the singer's publicist（歌手的公關）。publicist 是「負責宣傳的人」；publisher 是「出版商」；publicity 是「宣傳」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-damage",
+      "word": "damage",
+      "pos": "名詞",
+      "meaning": "損害；損壞",
+      "sentences": [
+        {
+          "en": "The storm caused damage to several buildings near the coast, but no one was seriously injured.",
+          "zh": "暴風雨對海岸附近的好幾棟建築造成損害，但沒有人受重傷。"
+        },
+        {
+          "en": "Please check the package for damage before you sign for it, and report any problems immediately.",
+          "zh": "簽收包裹前請檢查是否有損壞，有任何問題請立刻回報。"
+        },
+        {
+          "en": "The insurance policy covers water damage caused by broken pipes in your kitchen or bathroom.",
+          "zh": "保單涵蓋廚房或浴室水管破裂造成的水損。"
+        },
+        {
+          "en": "The company will pay for any damage to your furniture that happens during the delivery process.",
+          "zh": "公司會負擔運送過程中對你家具造成的任何損害。"
+        },
+        {
+          "en": "Heavy trucks can cause damage to old roads, so they are not allowed on the bridge.",
+          "zh": "重型卡車可能對老舊道路造成損害，所以不准上橋。"
+        }
+      ],
+      "distractors": [
+        "manage",
+        "image",
+        "garage"
+      ],
+      "note": "語塊：cause damage（造成損害）、damage to（對……的損害）、water damage（水損）。damage 當名詞時不可數（some damage，不是 a damage）；damages（複數）是法律上的「賠償金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-closure",
+      "word": "closure",
+      "pos": "名詞",
+      "meaning": "關閉；停業",
+      "sentences": [
+        {
+          "en": "The temporary closure of the museum's main hall will allow workers to repair the old roof.",
+          "zh": "博物館大廳暫時關閉，讓工人修理舊屋頂。"
+        },
+        {
+          "en": "Drivers should expect delays because of a road closure on Main Street this weekend for the parade.",
+          "zh": "因為這個週末 Main 街封路，駕駛應預期會有延誤。"
+        },
+        {
+          "en": "The closure of the factory will affect hundreds of workers and many small businesses in the town.",
+          "zh": "工廠關閉將影響鎮上數百名工人和許多小商家。"
+        },
+        {
+          "en": "Customers were informed about the temporary closure of the store by email and on social media.",
+          "zh": "顧客透過電子郵件和社群媒體得知店面暫時關閉的消息。"
+        },
+        {
+          "en": "The road closure near the stadium will last until the end of the concert at around eleven o'clock.",
+          "zh": "體育場附近的封路會持續到大約十一點演唱會結束為止。"
+        }
+      ],
+      "distractors": [
+        "closet",
+        "clause",
+        "exposure"
+      ],
+      "note": "語塊：temporary closure（暫時關閉）、road closure（封路）、the closure of（……的關閉）。closure 是名詞「關閉」；close 是動詞；closing 是形容詞「結束的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instruction",
+      "word": "instruction",
+      "pos": "名詞",
+      "meaning": "指示；說明",
+      "sentences": [
+        {
+          "en": "Please read every instruction on the form carefully before you fill it out and sign your name.",
+          "zh": "填表簽名之前，請仔細閱讀表格上的每一條說明。"
+        },
+        {
+          "en": "The manager gave a clear instruction to the team about how to handle complaints from angry customers.",
+          "zh": "經理對團隊下了一個清楚的指示，說明如何處理生氣顧客的投訴。"
+        },
+        {
+          "en": "Workers who do not follow an instruction from the safety officer will be asked to leave the construction site.",
+          "zh": "不遵照安全人員指示的工人會被要求離開工地。"
+        },
+        {
+          "en": "If you do not understand an instruction in the manual, please contact our customer support team.",
+          "zh": "如果你看不懂手冊上的某一條說明，請聯絡我們的客服團隊。"
+        },
+        {
+          "en": "New employees must follow every safety instruction given by their supervisor during the training period.",
+          "zh": "新員工在訓練期間必須遵守主管給的每一條安全指示。"
+        }
+      ],
+      "distractors": [
+        "construction",
+        "instructor",
+        "destruction"
+      ],
+      "note": "語塊：every instruction（每一條指示）、a clear instruction（清楚的指示）、follow an instruction（遵照一項指示）。instruction 當「說明書上的指示」時常用複數 instructions（follow the instructions）；instructor 是「講師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advance",
+      "word": "advance",
+      "pos": "名詞",
+      "meaning": "預先；進步；預付款",
+      "sentences": [
+        {
+          "en": "Please book your tickets in advance, as the concert is expected to sell out quickly.",
+          "zh": "請事先訂票，因為演唱會預計很快就會賣光。"
+        },
+        {
+          "en": "Employees must give at least two weeks of advance notice if they want to take a vacation.",
+          "zh": "員工如果要休假，必須至少提前兩週通知。"
+        },
+        {
+          "en": "The bank will not give you an advance on your salary unless your manager approves the request.",
+          "zh": "除非你的經理核准申請，否則銀行不會預支薪水給你。"
+        },
+        {
+          "en": "The hotel requires guests to pay for the first night in advance when they make a reservation.",
+          "zh": "飯店要求客人訂房時先預付第一晚的費用。"
+        },
+        {
+          "en": "The company will receive an advance of fifty thousand dollars before it begins work on the project.",
+          "zh": "公司在開始進行專案之前會先收到五萬美元的預付款。"
+        }
+      ],
+      "distractors": [
+        "advice",
+        "advent",
+        "adverse"
+      ],
+      "note": "語塊：in advance（事先）、advance notice（事先通知）、an advance of（……的預付款）。in advance 是「事先」；advanced 是形容詞「先進的；高級的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-full-time",
+      "word": "full-time",
+      "pos": "形容詞",
+      "meaning": "全職的",
+      "sentences": [
+        {
+          "en": "Ms. Gomez worked part-time at the bank for two years before she was offered a full-time job.",
+          "zh": "Gomez 小姐在銀行兼職兩年後，才得到一份全職工作。"
+        },
+        {
+          "en": "Every full-time employee receives health insurance, paid vacation, and an annual bonus based on performance.",
+          "zh": "每位全職員工都享有健康保險、帶薪休假和年終獎金。"
+        },
+        {
+          "en": "Many students cannot work full-time because they need time to attend classes, study, and prepare for exams.",
+          "zh": "很多學生不能全職工作，因為他們需要時間上課和讀書。"
+        },
+        {
+          "en": "The company plans to hire twenty full-time workers when the new factory opens next spring.",
+          "zh": "新工廠明年春天開工時，公司計畫聘用二十名全職員工。"
+        },
+        {
+          "en": "After the baby was born, Mr. Lee decided to stop working full-time and stay home for six months.",
+          "zh": "寶寶出生後，李先生決定暫停全職工作，在家待六個月。"
+        }
+      ],
+      "distractors": [
+        "part-time",
+        "overtime",
+        "lifetime"
+      ],
+      "note": "語塊：full-time job（全職工作）、full-time employee（全職員工）、work full-time（全職工作）。full-time 放在名詞前要加連字號；part-time 是「兼職的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-permanent",
+      "word": "permanent",
+      "pos": "形容詞",
+      "meaning": "永久的；常設的",
+      "sentences": [
+        {
+          "en": "After working as an intern for six months, Ms. Ito was offered a permanent position at the company.",
+          "zh": "當了六個月的實習生之後，伊藤小姐獲得公司的正職。"
+        },
+        {
+          "en": "The museum's permanent exhibition includes ancient tools, jewelry, and pottery found in the region over many years.",
+          "zh": "博物館的常設展包括該地區的古代工具、珠寶和陶器。"
+        },
+        {
+          "en": "Applicants for the job must be citizens or permanent residents of the country where the office is located.",
+          "zh": "應徵這份工作的人必須是本國公民或永久居民。"
+        },
+        {
+          "en": "The city is looking for a permanent solution to the traffic problems near the airport.",
+          "zh": "市政府正在尋找機場附近交通問題的永久解決辦法。"
+        },
+        {
+          "en": "The temporary office will be used until the company moves into its permanent building next year.",
+          "zh": "臨時辦公室會一直用到公司明年搬進永久的大樓為止。"
+        }
+      ],
+      "distractors": [
+        "pertinent",
+        "prominent",
+        "persistent"
+      ],
+      "note": "語塊：permanent position（正職）、permanent exhibition（常設展）、permanent resident（永久居民）。permanent 是「永久的」；temporary 是相反詞「暫時的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-necessary",
+      "word": "necessary",
+      "pos": "形容詞",
+      "meaning": "必要的；必需的",
+      "sentences": [
+        {
+          "en": "If necessary, we can arrange a car to pick you up at the airport and take you to the hotel.",
+          "zh": "必要時，我們可以安排車到機場接你送你到飯店。"
+        },
+        {
+          "en": "A valid passport is necessary for all passengers who are traveling on international flights from this airport.",
+          "zh": "所有搭國際航班的乘客都必須持有有效的護照。"
+        },
+        {
+          "en": "The editor will make necessary changes to the article before it is published in the magazine.",
+          "zh": "編輯會在文章刊登到雜誌前做必要的修改。"
+        },
+        {
+          "en": "It is not necessary to bring your own laptop, as computers will be provided at the training center.",
+          "zh": "不需要自己帶筆電，因為訓練中心會提供電腦。"
+        },
+        {
+          "en": "Please complete all of the necessary forms before your first day of work at the company.",
+          "zh": "請在你到公司上班的第一天之前填完所有必要的表格。"
+        }
+      ],
+      "distractors": [
+        "unnecessary",
+        "necessity",
+        "nervous"
+      ],
+      "note": "語塊：if necessary（必要時）、necessary for（……所必需的）、make necessary changes（做必要的修改）。necessary 是「必要的」；necessity 是名詞「必需品」；注意拼法：一個 c、兩個 s。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-frequently",
+      "word": "frequently",
+      "pos": "副詞",
+      "meaning": "經常；頻繁地",
+      "sentences": [
+        {
+          "en": "Please read the list of frequently asked questions on our website before you contact customer service.",
+          "zh": "聯絡客服之前，請先閱讀我們網站上的常見問題列表。"
+        },
+        {
+          "en": "The sales manager travels frequently to meet with important clients in Japan, Korea, and Singapore.",
+          "zh": "業務經理經常出差，和日本、韓國及新加坡的客戶見面。"
+        },
+        {
+          "en": "The most frequently used rooms in the office are the small meeting rooms on the second floor.",
+          "zh": "辦公室裡最常用的房間是二樓的小會議室。"
+        },
+        {
+          "en": "Trains to the airport run frequently, so you do not need to check the schedule in advance.",
+          "zh": "往機場的火車班次很密集，所以你不用事先查時刻表。"
+        },
+        {
+          "en": "Employees who travel frequently for work can join the airline's program to earn free flights.",
+          "zh": "經常因公出差的員工可以加入航空公司的計畫，累積免費機票。"
+        }
+      ],
+      "distractors": [
+        "freely",
+        "fluently",
+        "recently"
+      ],
+      "note": "語塊：frequently asked questions（常見問題）、frequently used（常用的）、travel frequently（經常出差）。frequently 和 often 意思相同；frequent 是形容詞「頻繁的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-psychologist",
+      "word": "psychologist",
+      "pos": "名詞",
+      "meaning": "心理學家；心理師",
+      "sentences": [
+        {
+          "en": "The company decided to hire a psychologist to help employees deal with stress during the busy season.",
+          "zh": "公司決定聘請一位心理師，在旺季期間幫助員工處理壓力。"
+        },
+        {
+          "en": "Dr. Russo is a clinical psychologist who has worked at the hospital for more than twenty years.",
+          "zh": "Russo 博士是一位在醫院工作了二十多年的臨床心理師。"
+        },
+        {
+          "en": "Many people see a psychologist when they are going through difficult changes in their lives.",
+          "zh": "很多人在人生經歷困難的轉變時會去看心理師。"
+        },
+        {
+          "en": "A psychologist will give a talk on how to balance work and family life at Thursday's seminar.",
+          "zh": "一位心理學家會在週四的講座上談如何平衡工作和家庭生活。"
+        },
+        {
+          "en": "The research was carried out by a team of doctors and a psychologist from the national university.",
+          "zh": "這項研究是由國立大學的一群醫生和一位心理學家共同進行的。"
+        }
+      ],
+      "distractors": [
+        "psychiatrist",
+        "physiologist",
+        "physicist"
+      ],
+      "note": "語塊：clinical psychologist（臨床心理師）、see a psychologist（看心理師）、hire a psychologist（聘請心理師）。psychologist 的 p 不發音；psychology 是「心理學」；psychiatrist 是「精神科醫師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-engineering",
+      "word": "engineering",
+      "pos": "名詞",
+      "meaning": "工程（學）",
+      "sentences": [
+        {
+          "en": "Applicants for the position must have a degree in engineering and at least five years of experience.",
+          "zh": "應徵這個職位的人必須有工程學位，以及至少五年的經驗。"
+        },
+        {
+          "en": "The engineering department is responsible for testing every new product before it is sold to customers.",
+          "zh": "工程部負責在每項新產品販售前進行測試。"
+        },
+        {
+          "en": "Ms. Park studied civil engineering in college and now designs bridges and highways for the government.",
+          "zh": "朴小姐大學讀土木工程，現在為政府設計橋樑和公路。"
+        },
+        {
+          "en": "The university received a large donation to build a new engineering center with modern laboratories.",
+          "zh": "那所大學獲得一大筆捐款，興建一座有現代化實驗室的新工程中心。"
+        },
+        {
+          "en": "Many students choose engineering because there is a strong demand for engineers in the technology industry.",
+          "zh": "很多學生選擇工程，因為科技業對工程師的需求很大。"
+        }
+      ],
+      "distractors": [
+        "engineer",
+        "entering",
+        "gathering"
+      ],
+      "note": "語塊：engineering department（工程部）、civil engineering（土木工程）、engineering degree（工程學位）。engineering 是「工程學、工程領域」；engineer 是「工程師（人）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-muscle",
+      "word": "muscle",
+      "pos": "名詞",
+      "meaning": "肌肉",
+      "sentences": [
+        {
+          "en": "Many office workers suffer from muscle pain in their backs and shoulders after sitting for long hours.",
+          "zh": "很多上班族久坐後背部和肩膀會肌肉痠痛。"
+        },
+        {
+          "en": "The fitness center offers classes for members who want to build muscle and improve their strength.",
+          "zh": "健身中心為想增肌、增強力氣的會員開設課程。"
+        },
+        {
+          "en": "Please stretch before you exercise so that you do not pull a muscle during the workout.",
+          "zh": "運動前請先伸展，以免運動時拉傷肌肉。"
+        },
+        {
+          "en": "The massage chair is designed to relax every muscle in your back after a long day at work.",
+          "zh": "按摩椅是設計來在辛苦工作一天後，放鬆你背部的每一條肌肉。"
+        },
+        {
+          "en": "Eating enough protein is important for people who want to build muscle through regular exercise.",
+          "zh": "對想透過規律運動增肌的人來說，攝取足夠的蛋白質很重要。"
+        }
+      ],
+      "distractors": [
+        "mussel",
+        "muzzle",
+        "puzzle"
+      ],
+      "note": "語塊：muscle pain（肌肉痠痛）、build muscle（增肌）、pull a muscle（拉傷肌肉）。muscle 的 c 不發音；mussel（淡菜）發音一樣，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-file-a-complaint",
+      "word": "file a complaint",
+      "pos": "片語動詞",
+      "meaning": "提出投訴",
+      "sentences": [
+        {
+          "en": "Customers who are not satisfied with our service can file a complaint on our website at any time.",
+          "zh": "對我們服務不滿意的顧客可以隨時在我們網站上提出投訴。"
+        },
+        {
+          "en": "Several residents decided to file a complaint with the city about the noise from the construction site.",
+          "zh": "好幾位居民決定向市政府投訴工地的噪音。"
+        },
+        {
+          "en": "If you want to file a complaint about a product, please include your receipt and a photo of the problem.",
+          "zh": "如果你想針對某個產品投訴，請附上收據和問題的照片。"
+        },
+        {
+          "en": "The passenger plans to file a complaint with the airline because her luggage was damaged during the flight.",
+          "zh": "那位乘客打算向航空公司投訴，因為她的行李在飛行中受損。"
+        },
+        {
+          "en": "Employees who experience unfair treatment at work can file a complaint with the human resources department.",
+          "zh": "在工作中受到不公平對待的員工可以向人資部提出投訴。"
+        }
+      ],
+      "distractors": [
+        "file a report",
+        "file for bankruptcy",
+        "fill a complaint"
+      ],
+      "note": "語塊：file a complaint with（向……提出投訴）、file a complaint about（針對……投訴）。file 在這裡是「正式提出」；make a complaint 意思相同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
