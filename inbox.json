@@ -17658,6 +17658,706 @@
       ],
       "note": "語塊：statistical analysis（統計分析）、statistical data（統計資料）。statistical 是形容詞；statistics 是「統計數字；統計學」；statistician 是「統計學家」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-human-resources",
+      "word": "human resources",
+      "pos": "名詞",
+      "meaning": "人力資源（部門）",
+      "sentences": [
+        {
+          "en": "Please contact human resources if you have any questions about your vacation days or health insurance.",
+          "zh": "如果你對休假天數或健康保險有任何問題，請聯絡人資部。"
+        },
+        {
+          "en": "The human resources department is responsible for hiring new staff and organizing training programs for every department.",
+          "zh": "人資部負責招募新員工和安排訓練課程。"
+        },
+        {
+          "en": "All new employees must submit their bank account details to human resources before their first payday.",
+          "zh": "所有新員工必須在第一次發薪日前，把銀行帳戶資料交給人資部。"
+        },
+        {
+          "en": "Ms. Reyes has worked in the human resources department for eight years and now leads a team of six.",
+          "zh": "Reyes 小姐在人資部工作了八年，現在帶領一個六人團隊。"
+        },
+        {
+          "en": "Employees who wish to change their working hours should first contact human resources for the proper form.",
+          "zh": "想更改工作時間的員工，應該先聯絡人資部索取正確的表格。"
+        }
+      ],
+      "distractors": [
+        "human rights",
+        "natural resources",
+        "human nature"
+      ],
+      "note": "語塊：human resources department（人資部）、contact human resources（聯絡人資）。human resources 常縮寫為 HR，指公司的「人資部門」；personnel 是比較舊的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-revenue",
+      "word": "revenue",
+      "pos": "名詞",
+      "meaning": "營收；收入",
+      "sentences": [
+        {
+          "en": "The company's annual revenue grew by fifteen percent last year thanks to strong sales in Asia.",
+          "zh": "多虧亞洲的銷售強勁，公司去年的年營收成長了百分之十五。"
+        },
+        {
+          "en": "Advertising has become the main source of revenue for the free mobile game and its developers.",
+          "zh": "廣告已經成為那款免費手機遊戲和開發者的主要收入來源。"
+        },
+        {
+          "en": "The new parking garage is expected to generate revenue of about two million dollars each year for the city.",
+          "zh": "新停車場預計每年替市政府創造大約兩百萬美元的營收。"
+        },
+        {
+          "en": "Tourism is an important source of revenue for small towns located along the eastern coast.",
+          "zh": "觀光是東海岸小鎮的重要收入來源。"
+        },
+        {
+          "en": "The finance team will present a report comparing this year's annual revenue with that of the past five years.",
+          "zh": "財務團隊會報告今年和過去五年年營收的比較。"
+        }
+      ],
+      "distractors": [
+        "revenge",
+        "review",
+        "avenue"
+      ],
+      "note": "語塊：generate revenue（創造營收）、annual revenue（年營收）、a source of revenue（收入來源）。revenue 是公司的「營收」；profit 是扣掉成本後的「利潤」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-set-aside",
+      "word": "set aside",
+      "pos": "片語動詞",
+      "meaning": "撥出；留出；保留",
+      "sentences": [
+        {
+          "en": "The company will set aside money each month to pay for the renovation of its offices next year.",
+          "zh": "公司每個月會存一筆錢，支付明年辦公室的翻修費用。"
+        },
+        {
+          "en": "Managers should set aside time every week to meet with each member of their team individually.",
+          "zh": "經理應該每週撥出時間和每位組員個別面談。"
+        },
+        {
+          "en": "The restaurant will set aside several tables for guests who have made reservations for the holiday dinner.",
+          "zh": "餐廳會保留幾張桌子給預訂節慶晚餐的客人。"
+        },
+        {
+          "en": "The building manager agreed to set aside ten parking spaces near the entrance for visitors with disabilities.",
+          "zh": "大樓管理員同意在入口附近保留十個停車位給身障訪客。"
+        },
+        {
+          "en": "It is wise to set aside money for emergencies in case your income suddenly decreases.",
+          "zh": "存一筆緊急預備金是明智的，以防收入突然減少。"
+        }
+      ],
+      "distractors": [
+        "set up",
+        "set off",
+        "set out"
+      ],
+      "note": "語塊：set aside money（存一筆錢）、set aside time（撥出時間）、set aside for（為……保留）。set aside 是「特別留起來給某用途」；put aside 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-immediately",
+      "word": "immediately",
+      "pos": "副詞",
+      "meaning": "立刻；馬上",
+      "sentences": [
+        {
+          "en": "Please contact the front desk immediately if you notice anything unusual in your hotel room.",
+          "zh": "如果你發現飯店房間有任何異常，請立刻聯絡櫃台。"
+        },
+        {
+          "en": "The new dress code is effective immediately and applies to all employees who meet with customers.",
+          "zh": "新的服裝規定立即生效，適用於所有會和顧客見面的員工。"
+        },
+        {
+          "en": "A short reception will be held in the lobby immediately after the award ceremony on Friday evening.",
+          "zh": "週五晚上頒獎典禮結束後，緊接著會在大廳舉行簡短的酒會。"
+        },
+        {
+          "en": "The airline immediately offered hotel rooms to passengers whose flights were canceled because of the snow.",
+          "zh": "航空公司立刻為因下雪而航班取消的乘客提供飯店房間。"
+        },
+        {
+          "en": "If you lose your company badge, please report it to the security office immediately so that it can be deactivated.",
+          "zh": "如果你遺失公司識別證，請立刻向保全室報告，讓它可以被停用。"
+        }
+      ],
+      "distractors": [
+        "intermediately",
+        "immensely",
+        "intimately"
+      ],
+      "note": "語塊：immediately after（緊接在……之後）、effective immediately（立即生效）、contact immediately（立刻聯絡）。immediately 和 right away、at once 意思相同；immediate 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-insist",
+      "word": "insist",
+      "pos": "動詞",
+      "meaning": "堅持；堅決要求",
+      "sentences": [
+        {
+          "en": "The client continues to insist on meeting with the director in person before signing the contract.",
+          "zh": "客戶一直堅持在簽約前要親自和總監見面。"
+        },
+        {
+          "en": "Our new manager will insist that every report be checked by two people before it is sent to any client.",
+          "zh": "我們的新經理會堅持每份報告在寄給任何客戶之前都要由兩個人檢查。"
+        },
+        {
+          "en": "Many customers insist on paying with cash, so the store will continue to accept it at every register.",
+          "zh": "很多顧客堅持用現金付款，所以那家店的每個收銀台都會繼續收現金。"
+        },
+        {
+          "en": "The doctors insist that patients rest for at least one week after the surgery before returning to work.",
+          "zh": "醫生堅持病人在手術後至少休息一週才能回去上班。"
+        },
+        {
+          "en": "The chef will insist on using only fresh, local vegetables in every dish on the new menu.",
+          "zh": "主廚會堅持新菜單上的每道菜都只用新鮮的在地蔬菜。"
+        }
+      ],
+      "distractors": [
+        "persist",
+        "assist",
+        "resist"
+      ],
+      "note": "語塊：insist on（堅持……）、insist that（堅持……）。insist on + 名詞或動名詞；insist that 後面的子句常用原形動詞（insist that he come）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-a-series-of",
+      "word": "a series of",
+      "pos": "其他",
+      "meaning": "一系列的",
+      "sentences": [
+        {
+          "en": "The company will hold a series of meetings next week to discuss the new organizational structure.",
+          "zh": "公司下週會舉行一系列會議，討論新的組織架構。"
+        },
+        {
+          "en": "The museum is hosting a series of events to celebrate its fiftieth anniversary this autumn.",
+          "zh": "博物館今年秋天舉辦一系列活動，慶祝五十週年。"
+        },
+        {
+          "en": "After a series of delays, the new subway line finally opened to the public last Saturday.",
+          "zh": "經過一連串的延誤之後，新捷運線終於在上週六開放給民眾搭乘。"
+        },
+        {
+          "en": "Ms. Allen will give a series of lectures on leadership at the business school this semester.",
+          "zh": "Allen 小姐這學期會在商學院開一系列關於領導的講座。"
+        },
+        {
+          "en": "The library offers a series of free workshops for residents who want to improve their computer skills.",
+          "zh": "圖書館為想提升電腦能力的居民開設一系列免費工作坊。"
+        }
+      ],
+      "distractors": [
+        "a set of",
+        "a range of",
+        "a sense of"
+      ],
+      "note": "語塊：a series of meetings（一系列會議）、a series of events（一系列活動）、a series of workshops（一系列工作坊）。a series of 後面接複數名詞，但當主詞時動詞通常用單數；series 單複數同形。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-demographic",
+      "word": "demographic",
+      "pos": "名詞",
+      "meaning": "族群；人口統計資料",
+      "sentences": [
+        {
+          "en": "The new energy drink is aimed at a younger demographic, especially university students and young workers.",
+          "zh": "新的能量飲料瞄準較年輕的族群，尤其是大學生和年輕上班族。"
+        },
+        {
+          "en": "Our target demographic for the online course is working professionals between the ages of thirty and forty-five.",
+          "zh": "我們線上課程的目標族群是三十到四十五歲的上班族。"
+        },
+        {
+          "en": "The magazine changed its design in order to attract a younger demographic of readers who prefer short articles.",
+          "zh": "那本雜誌改了設計，以吸引較年輕的讀者族群。"
+        },
+        {
+          "en": "Marketing experts studied which demographic was most likely to buy the new luxury cars produced in Germany.",
+          "zh": "行銷專家研究了哪一個族群最可能購買那款豪華汽車。"
+        },
+        {
+          "en": "Before opening the café, the owners researched the target demographic of the surrounding neighborhood very carefully.",
+          "zh": "開咖啡廳之前，老闆們研究了周邊社區的目標族群。"
+        }
+      ],
+      "distractors": [
+        "democratic",
+        "geographic",
+        "dramatic"
+      ],
+      "note": "語塊：target demographic（目標族群）、a younger demographic（較年輕的族群）。demographic 當名詞是「某一族群（如年齡層）」；demographics 是「人口統計資料」；democratic（民主的）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-massive",
+      "word": "massive",
+      "pos": "形容詞",
+      "meaning": "巨大的；大量的",
+      "sentences": [
+        {
+          "en": "The company spent a massive amount of money on advertising before the launch of its new smartphone.",
+          "zh": "公司在新手機上市前花了大量的錢做廣告。"
+        },
+        {
+          "en": "There has been a massive increase in the number of people who shop online during the past five years.",
+          "zh": "過去五年來，網路購物的人數大幅增加。"
+        },
+        {
+          "en": "The music festival was a massive success, attracting more than fifty thousand visitors over three days.",
+          "zh": "那場音樂節非常成功，三天內吸引了五萬多名遊客。"
+        },
+        {
+          "en": "Workers needed several days to remove the massive amount of snow that fell on the airport last week.",
+          "zh": "工人花了好幾天清除上週降在機場的大量積雪。"
+        },
+        {
+          "en": "The new shopping center is massive, with more than three hundred stores and a large movie theater.",
+          "zh": "新的購物中心非常大，有三百多家店和一間大型電影院。"
+        }
+      ],
+      "distractors": [
+        "passive",
+        "massage",
+        "messy"
+      ],
+      "note": "語塊：massive amount（大量的）、massive increase（大幅增加）、massive success（巨大成功）。massive 是「非常大」；huge、enormous 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-intense",
+      "word": "intense",
+      "pos": "形容詞",
+      "meaning": "強烈的；激烈的",
+      "sentences": [
+        {
+          "en": "Because of intense competition from online stores, many small bookshops have closed in recent years.",
+          "zh": "因為網路商店的激烈競爭，近年來很多小書店都關門了。"
+        },
+        {
+          "en": "Workers on the construction site were told to take frequent breaks because of the intense heat.",
+          "zh": "因為酷熱，工地的工人被告知要經常休息。"
+        },
+        {
+          "en": "The sales team has been under intense pressure to meet its targets before the end of the quarter.",
+          "zh": "業務團隊一直承受著在季末前達成目標的極大壓力。"
+        },
+        {
+          "en": "The smartphone market faces intense competition, so companies must keep their prices low and quality high.",
+          "zh": "手機市場競爭激烈，所以公司必須維持低價。"
+        },
+        {
+          "en": "After weeks of intense negotiations, the two companies finally agreed on the terms of the merger.",
+          "zh": "經過幾週激烈的談判，兩家公司終於就合併條件達成共識。"
+        }
+      ],
+      "distractors": [
+        "intensive",
+        "intent",
+        "immense"
+      ],
+      "note": "語塊：intense competition（激烈的競爭）、intense heat（酷熱）、intense pressure（極大的壓力）。intense 是「強烈、激烈」；intensive 是「密集的」（intensive training 密集訓練）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-concur",
+      "word": "concur",
+      "pos": "動詞",
+      "meaning": "同意；意見一致",
+      "sentences": [
+        {
+          "en": "The other board members concur with the chairperson's decision to open a new office in Vietnam.",
+          "zh": "其他董事都同意董事長在越南開設新辦公室的決定。"
+        },
+        {
+          "en": "Most experts concur that the new law will help reduce air pollution in the city within five years.",
+          "zh": "大部分專家都同意，新法律會在五年內幫助減少城市的空氣污染。"
+        },
+        {
+          "en": "I concur with your suggestion that we postpone the product launch until all the tests are complete.",
+          "zh": "我同意你的建議，把產品上市延到所有測試完成之後。"
+        },
+        {
+          "en": "The two reports concur that customer satisfaction has improved since the new system was introduced.",
+          "zh": "兩份報告一致認為，自從導入新系統以來，顧客滿意度提高了。"
+        },
+        {
+          "en": "If the committee members concur, the proposal will be sent to the director for final approval next week.",
+          "zh": "如果委員們都同意，提案下週會送交總監做最後核准。"
+        }
+      ],
+      "distractors": [
+        "occur",
+        "incur",
+        "conquer"
+      ],
+      "note": "語塊：concur with（同意……）、concur that（同意……）。concur 比 agree 正式，常用在會議、報告中；occur（發生）只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lesson",
+      "word": "lesson",
+      "pos": "名詞",
+      "meaning": "課程；教訓",
+      "sentences": [
+        {
+          "en": "Many employees take an English lesson every Tuesday evening at the language school near the office.",
+          "zh": "很多員工每週二晚上在辦公室附近的語言學校上英文課。"
+        },
+        {
+          "en": "The company learned a lesson from last year's delays and now orders all materials two months in advance.",
+          "zh": "公司從去年的延誤中學到教訓，現在提前兩個月訂購所有材料。"
+        },
+        {
+          "en": "Losing the important client was a valuable lesson about the need to respond to emails quickly.",
+          "zh": "失去那位重要客戶是一個寶貴的教訓，讓我們知道回信要快。"
+        },
+        {
+          "en": "The manager hopes the team will learn a lesson from this mistake and check their work more carefully.",
+          "zh": "經理希望團隊能從這次錯誤中學到教訓，更仔細地檢查工作。"
+        },
+        {
+          "en": "The hotel offers a free cooking lesson to guests who stay for more than three nights during the summer.",
+          "zh": "飯店為夏天住三晚以上的客人提供一堂免費烹飪課。"
+        }
+      ],
+      "distractors": [
+        "lessen",
+        "listen",
+        "license"
+      ],
+      "note": "語塊：take lessons（上課）、learn a lesson（學到教訓）、a valuable lesson（寶貴的教訓）。lesson 是「一堂課」或「教訓」；lessen（減少）發音一樣，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-satisfy",
+      "word": "satisfy",
+      "pos": "動詞",
+      "meaning": "使滿意；滿足（需求、條件）",
+      "sentences": [
+        {
+          "en": "Our main goal is to satisfy customers by providing fast delivery and friendly, helpful service.",
+          "zh": "我們的主要目標是提供快速的配送和親切的服務，讓顧客滿意。"
+        },
+        {
+          "en": "The factory added a night shift in order to satisfy the demand for its popular electric fans.",
+          "zh": "工廠加開夜班，以滿足熱門電風扇的需求。"
+        },
+        {
+          "en": "All applicants must satisfy the requirements listed in the job description before they can be interviewed.",
+          "zh": "所有應徵者都必須符合職缺說明中列出的要求，才能參加面試。"
+        },
+        {
+          "en": "The restaurant changed its menu several times in order to satisfy customers with different tastes.",
+          "zh": "那家餐廳為了讓不同口味的顧客滿意，換了好幾次菜單。"
+        },
+        {
+          "en": "It will be difficult to satisfy the demand for new apartments unless the city allows taller buildings.",
+          "zh": "除非市政府允許蓋更高的建築，否則很難滿足新公寓的需求。"
+        }
+      ],
+      "distractors": [
+        "satire",
+        "notify",
+        "justify"
+      ],
+      "note": "語塊：satisfy customers（讓顧客滿意）、satisfy the demand（滿足需求）、satisfy the requirements（符合要求）。satisfy 是動詞；satisfied 是「感到滿意的（人）」，satisfying 是「令人滿意的（事物）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-based-on",
+      "word": "based on",
+      "pos": "其他",
+      "meaning": "根據；以……為基礎",
+      "sentences": [
+        {
+          "en": "The movie is based on a true story about a small company that became one of the biggest in the world.",
+          "zh": "那部電影改編自一個小公司變成世界最大公司之一的真實故事。"
+        },
+        {
+          "en": "Based on the results of the survey, we will add more vegetarian dishes to the cafeteria menu.",
+          "zh": "根據調查結果，我們會在員工餐廳的菜單上增加更多素食料理。"
+        },
+        {
+          "en": "Bonuses are based on each employee's performance and the overall profits of the company each year.",
+          "zh": "獎金根據每位員工的表現和公司的整體獲利來決定。"
+        },
+        {
+          "en": "The price of the tour is based on a group of at least ten people sharing a bus and a guide.",
+          "zh": "行程的價格是以至少十個人共用一輛巴士和一位導遊來計算的。"
+        },
+        {
+          "en": "The decision to close the branch was based on several years of declining sales and rising costs.",
+          "zh": "關閉分店的決定是根據好幾年的銷售下滑和成本上升。"
+        }
+      ],
+      "distractors": [
+        "based in",
+        "biased on",
+        "basis of"
+      ],
+      "note": "語塊：be based on（根據……）、based on the results（根據結果）。be based on 是「根據」；be based in 是「總部設在……」，介系詞不同意思就不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-collapse",
+      "word": "collapse",
+      "pos": "動詞",
+      "meaning": "倒塌；崩潰；（企業）倒閉",
+      "sentences": [
+        {
+          "en": "Engineers warned that the old bridge could collapse suddenly if heavy trucks continued to use it.",
+          "zh": "工程師警告，如果重型卡車繼續使用那座舊橋，它可能會突然倒塌。"
+        },
+        {
+          "en": "Without new investment, the struggling airline may collapse before the end of the year, experts say.",
+          "zh": "沒有新的投資，那家經營困難的航空公司可能會在年底前倒閉。"
+        },
+        {
+          "en": "The company was about to collapse when a large technology firm offered to buy it last spring.",
+          "zh": "去年春天一家大型科技公司提議收購時，那家公司已經快要倒閉了。"
+        },
+        {
+          "en": "Experts fear that housing prices could collapse if interest rates rise too quickly this year.",
+          "zh": "專家擔心，如果今年利率上升太快，房價可能會崩盤。"
+        },
+        {
+          "en": "The roof of the old warehouse could collapse under the weight of the snow, so workers were sent home early.",
+          "zh": "舊倉庫的屋頂可能會被積雪壓垮，所以工人被提早送回家。"
+        }
+      ],
+      "distractors": [
+        "collide",
+        "elapse",
+        "relapse"
+      ],
+      "note": "語塊：collapse suddenly（突然倒塌）、be about to collapse（快要倒閉）。collapse 可以指建築「倒塌」，也可以指公司、市場「崩潰」；collapsible 是「可折疊的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hundreds-of",
+      "word": "hundreds of",
+      "pos": "其他",
+      "meaning": "數以百計的",
+      "sentences": [
+        {
+          "en": "Hundreds of people waited in line outside the store to buy the new smartphone on the first day.",
+          "zh": "第一天有數百人在店外排隊買新手機。"
+        },
+        {
+          "en": "The festival attracts hundreds of thousands of visitors to the city and its beaches every summer.",
+          "zh": "那個節慶每年夏天吸引數十萬遊客到這座城市。"
+        },
+        {
+          "en": "The company receives hundreds of applications every year for its popular summer internship program in Seoul.",
+          "zh": "公司每年都收到數百份熱門暑期實習計畫的申請。"
+        },
+        {
+          "en": "Hundreds of people attended the free concert in the park despite the light rain on Saturday evening.",
+          "zh": "儘管週六晚上下著小雨，仍有數百人參加公園的免費音樂會。"
+        },
+        {
+          "en": "The new factory will create hundreds of jobs for residents of the small town and nearby villages.",
+          "zh": "新工廠將為小鎮和附近村莊的居民創造數百個工作機會。"
+        }
+      ],
+      "distractors": [
+        "thousands of",
+        "dozens of",
+        "a hundred"
+      ],
+      "note": "語塊：hundreds of people（數百人）、hundreds of thousands of（數十萬）。hundreds of 後面接複數名詞，表示不確定的「好幾百」；確定數字時用 three hundred（不加 s）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incur",
+      "word": "incur",
+      "pos": "動詞",
+      "meaning": "招致；產生（費用）",
+      "sentences": [
+        {
+          "en": "Customers who cancel their reservation less than one day in advance will incur a fee of fifty dollars.",
+          "zh": "提前不到一天取消預約的顧客，會被收取五十美元的手續費。"
+        },
+        {
+          "en": "Employees who incur expenses during business trips should keep all of their receipts for reimbursement.",
+          "zh": "出差期間產生開支的員工，應該保留所有收據以便報銷。"
+        },
+        {
+          "en": "The company will incur costs of about one million dollars to move its headquarters to the new building.",
+          "zh": "公司把總部搬到新大樓會產生大約一百萬美元的費用。"
+        },
+        {
+          "en": "To avoid having to incur late fees, please pay your bill before the fifteenth of each month.",
+          "zh": "為了避免產生滯納金，請在每個月十五日前繳費。"
+        },
+        {
+          "en": "Changing the design at this stage would incur costs that are not included in our current budget.",
+          "zh": "在這個階段改設計會產生目前預算沒有包含的費用。"
+        }
+      ],
+      "distractors": [
+        "occur",
+        "concur",
+        "inquire"
+      ],
+      "note": "語塊：incur costs（產生費用）、incur a fee（產生手續費）、incur expenses（產生開支）。incur 常用在「產生費用、損失」；occur（發生）和 concur（同意）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assembly",
+      "word": "assembly",
+      "pos": "名詞",
+      "meaning": "組裝；集會",
+      "sentences": [
+        {
+          "en": "The car factory recently added robots to its assembly line in order to increase production.",
+          "zh": "那家汽車工廠最近在裝配線上加入機器人，以提高產量。"
+        },
+        {
+          "en": "Our bookshelves are designed for easy assembly and can be put together in about twenty minutes.",
+          "zh": "我們的書架設計成容易組裝，大約二十分鐘就能裝好。"
+        },
+        {
+          "en": "Please read the assembly instructions carefully before you begin putting the new desk together at home.",
+          "zh": "開始組裝書桌之前，請仔細閱讀組裝說明。"
+        },
+        {
+          "en": "Workers on the assembly line take a fifteen-minute break every two hours to rest and stretch.",
+          "zh": "裝配線上的工人每兩小時休息十五分鐘，休息和伸展一下。"
+        },
+        {
+          "en": "The furniture store charges a small fee for assembly if customers prefer not to do it themselves.",
+          "zh": "如果顧客不想自己組裝，家具店會收一筆小額的組裝費。"
+        }
+      ],
+      "distractors": [
+        "assemble",
+        "assembly line",
+        "ascendancy"
+      ],
+      "note": "語塊：assembly line（裝配線）、easy assembly（容易組裝）、assembly instructions（組裝說明）。assembly 可以是「組裝」，也可以是「集會、議會」；assemble 是動詞「組裝；集合」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-organic",
+      "word": "organic",
+      "pos": "形容詞",
+      "meaning": "有機的",
+      "sentences": [
+        {
+          "en": "The supermarket has expanded its section of organic food because more customers are asking for it.",
+          "zh": "超市擴大了有機食品區，因為越來越多顧客要求。"
+        },
+        {
+          "en": "Organic farming does not use chemical fertilizers, so it is often better for the soil and local rivers.",
+          "zh": "有機農業不使用化學肥料，所以通常對土壤和當地河川比較好。"
+        },
+        {
+          "en": "The restaurant buys organic produce from small farms located within fifty kilometers of the city.",
+          "zh": "那家餐廳向城市五十公里內的小農場購買有機農產品。"
+        },
+        {
+          "en": "Prices for organic food are usually higher because it takes more time and effort to grow.",
+          "zh": "有機食品的價格通常比較高，因為種植需要更多時間和心力。"
+        },
+        {
+          "en": "The cafeteria now serves organic vegetables and fruit grown on a farm owned by the company.",
+          "zh": "員工餐廳現在提供公司自己農場種的有機蔬菜和水果。"
+        }
+      ],
+      "distractors": [
+        "organized",
+        "orbital",
+        "oral"
+      ],
+      "note": "語塊：organic food（有機食品）、organic farming（有機農業）、organic produce（有機農產品）。organic 是「有機的、沒用化學農藥的」；organized（有組織的）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fertilizer",
+      "word": "fertilizer",
+      "pos": "名詞",
+      "meaning": "肥料",
+      "sentences": [
+        {
+          "en": "Many farmers are reducing their use of chemical fertilizer in order to protect the quality of the soil.",
+          "zh": "很多農民減少使用化學肥料，以保護土壤品質。"
+        },
+        {
+          "en": "The garden center sells a natural fertilizer made from recycled food waste collected from local restaurants.",
+          "zh": "園藝中心販售一種用當地餐廳回收廚餘製成的天然肥料。"
+        },
+        {
+          "en": "Farmers should apply fertilizer in the early spring, before the new plants begin to grow.",
+          "zh": "農民應該在早春、新植物開始生長之前施肥。"
+        },
+        {
+          "en": "The company developed a new fertilizer that helps crops grow faster without harming the environment.",
+          "zh": "那家公司開發出一種新肥料，能幫助農作物長得更快又不傷害環境。"
+        },
+        {
+          "en": "Using too much chemical fertilizer can pollute nearby rivers and lakes, so farmers must follow strict rules.",
+          "zh": "使用太多化學肥料可能污染附近的河川和湖泊，所以農民必須遵守嚴格的規定。"
+        }
+      ],
+      "distractors": [
+        "fertility",
+        "pesticide",
+        "filter"
+      ],
+      "note": "語塊：chemical fertilizer（化學肥料）、natural fertilizer（天然肥料）、apply fertilizer（施肥）。fertilizer 是「肥料」；fertile 是形容詞「肥沃的」；fertility 是「肥沃；生育力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-readily",
+      "word": "readily",
+      "pos": "副詞",
+      "meaning": "容易地；樂意地；隨時",
+      "sentences": [
+        {
+          "en": "Spare parts for this model are readily available at most hardware stores in the country.",
+          "zh": "這個型號的備用零件在國內大部分五金行都隨時買得到。"
+        },
+        {
+          "en": "The supplier readily agreed to lower its prices when we offered to sign a three-year contract.",
+          "zh": "我們提議簽三年合約時，供應商爽快地答應降價。"
+        },
+        {
+          "en": "Information about our products is readily available on our website and in our printed catalog.",
+          "zh": "我們產品的資訊在網站和紙本目錄上都可以輕易取得。"
+        },
+        {
+          "en": "Ms. Ford readily agreed to lead the training session when her manager asked for a volunteer.",
+          "zh": "經理找自願者時，Ford 小姐爽快地答應帶領訓練課程。"
+        },
+        {
+          "en": "Fresh vegetables are readily available at the farmers' market, which is open every Saturday morning.",
+          "zh": "每週六早上開放的農夫市集隨時都有新鮮蔬菜。"
+        }
+      ],
+      "distractors": [
+        "steadily",
+        "readable",
+        "rapidly"
+      ],
+      "note": "語塊：readily available（隨時可取得）、readily agree（爽快答應）。readily 有「很容易取得」和「欣然、爽快」兩個意思；ready 是形容詞「準備好的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
