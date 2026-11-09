@@ -23958,6 +23958,356 @@
       ],
       "note": "語塊：in particular（尤其；特別是）、a particular day（某一天）、be particular about（對……很挑剔）。in particular 是「尤其、特別」；be particular about 是「對……很講究」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-express",
+      "word": "express",
+      "pos": "動詞",
+      "meaning": "表達；表示",
+      "sentences": [
+        {
+          "en": "Several investors called to express interest in the new technology that our company presented at the fair.",
+          "zh": "好幾位投資人打電話來，表示對我們公司在展覽上發表的新技術有興趣。"
+        },
+        {
+          "en": "Residents attended the meeting to express concern about the noise from the new construction site.",
+          "zh": "居民參加會議，表達對新工地噪音的擔憂。"
+        },
+        {
+          "en": "The CEO wrote a letter to all employees to express thanks for their hard work during the busy season.",
+          "zh": "執行長寫信給全體員工，感謝他們在旺季的辛勤工作。"
+        },
+        {
+          "en": "Customers who would like to express concern about our service can fill out the form on our website.",
+          "zh": "想對我們的服務表達意見的顧客，可以填寫網站上的表格。"
+        },
+        {
+          "en": "If you would like to express interest in the position, please send your résumé to the human resources office.",
+          "zh": "如果你想表達對這個職位的興趣，請把履歷寄到人資室。"
+        }
+      ],
+      "distractors": [
+        "impress",
+        "expose",
+        "exceed"
+      ],
+      "note": "語塊：express interest in（表示有興趣）、express concern about（表達擔憂）、express thanks（表達感謝）。express 當動詞是「表達」；當形容詞是「快速的」（express delivery 快遞）。expression 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-popularity",
+      "word": "popularity",
+      "pos": "名詞",
+      "meaning": "受歡迎程度；普及",
+      "sentences": [
+        {
+          "en": "Electric bicycles have continued to gain popularity among commuters who want to avoid traffic jams.",
+          "zh": "電動自行車在想避開塞車的通勤族之間越來越受歡迎。"
+        },
+        {
+          "en": "The growing popularity of online shopping has forced many stores to offer faster delivery services.",
+          "zh": "網路購物日益普及，迫使很多商店提供更快的配送服務。"
+        },
+        {
+          "en": "The popularity of the new coffee shop surprised the owners, who had to hire more staff after only one month.",
+          "zh": "那家新咖啡店受歡迎的程度讓老闆很意外，才一個月就得增聘人手。"
+        },
+        {
+          "en": "The restaurant's popularity grew quickly after a famous food blogger posted a video about its dumplings.",
+          "zh": "一位知名美食部落客發了一支介紹那家餐廳水餃的影片後，餐廳很快就爆紅了。"
+        },
+        {
+          "en": "Because of the growing popularity of yoga, the gym will add three new classes every week starting in May.",
+          "zh": "因為瑜伽越來越受歡迎，健身房從五月開始每週會增加三堂新課。"
+        }
+      ],
+      "distractors": [
+        "population",
+        "publicity",
+        "polarity"
+      ],
+      "note": "語塊：gain popularity（越來越受歡迎）、growing popularity（日益普及）、the popularity of（……的受歡迎程度）。popularity 是名詞；popular 是形容詞「受歡迎的」；population（人口）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-with-regard-to",
+      "word": "with regard to",
+      "pos": "其他",
+      "meaning": "關於",
+      "sentences": [
+        {
+          "en": "I am writing with regard to the job opening for a sales manager that was posted on your website.",
+          "zh": "我來信是關於貴公司網站上刊登的業務經理職缺。"
+        },
+        {
+          "en": "With regard to your question about shipping, all orders will be sent within three business days.",
+          "zh": "關於您對運送的問題，所有訂單都會在三個工作天內寄出。"
+        },
+        {
+          "en": "Please contact Ms. Ramos with regard to any changes to the schedule for next week's conference.",
+          "zh": "下週研討會的時程如有任何變動，請聯絡 Ramos 小姐。"
+        },
+        {
+          "en": "The company has made several improvements with regard to safety in the warehouse this year.",
+          "zh": "公司今年在倉庫安全方面做了好幾項改善。"
+        },
+        {
+          "en": "With regard to the budget, the director has asked each department to reduce its spending by ten percent.",
+          "zh": "關於預算，總監已要求每個部門減少百分之十的支出。"
+        }
+      ],
+      "distractors": [
+        "in regard of",
+        "with respect",
+        "in return for"
+      ],
+      "note": "語塊：with regard to（關於……）。with regard to 和 regarding、concerning、about 意思相同，比較正式；注意 regard 不加 s。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regional-director",
+      "word": "regional director",
+      "pos": "名詞",
+      "meaning": "區域總監",
+      "sentences": [
+        {
+          "en": "The company will appoint a regional director to manage its new offices in Southeast Asia next year.",
+          "zh": "公司明年將任命一位區域總監，管理在東南亞的新辦公室。"
+        },
+        {
+          "en": "Ms. Ng was promoted to regional director of sales for the northern part of the country.",
+          "zh": "吳小姐被升為國內北部的業務區域總監。"
+        },
+        {
+          "en": "The regional director visits each of the twenty stores in her area at least twice a year.",
+          "zh": "區域總監每年至少拜訪她轄區內的二十家門市各兩次。"
+        },
+        {
+          "en": "All store managers must send their monthly reports to the regional director by the fifth of each month.",
+          "zh": "所有店長都必須在每月五日前把月報交給區域總監。"
+        },
+        {
+          "en": "After ten years as a store manager, Mr. Diaz became the regional director of the company's European operations.",
+          "zh": "當了十年店長之後，Diaz 先生成為公司歐洲業務的區域總監。"
+        }
+      ],
+      "distractors": [
+        "regional office",
+        "managing director",
+        "regional manager"
+      ],
+      "note": "語塊：appoint a regional director（任命區域總監）、regional director of（……的區域總監）。regional 是「區域的」；regional director 負責一個地區的多個分店或辦公室。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-weekly",
+      "word": "weekly",
+      "pos": "形容詞",
+      "meaning": "每週的",
+      "sentences": [
+        {
+          "en": "The sales team holds a weekly meeting every Monday morning to review the results of the previous week.",
+          "zh": "業務團隊每週一早上開週會，檢討前一週的成果。"
+        },
+        {
+          "en": "Each project manager must submit a weekly report that describes the progress of his or her team.",
+          "zh": "每位專案經理都必須提交一份描述團隊進度的週報。"
+        },
+        {
+          "en": "The office is cleaned on a weekly basis, but the kitchen is cleaned every evening after work.",
+          "zh": "辦公室每週清潔一次，但廚房每天下班後都會清潔。"
+        },
+        {
+          "en": "Employees receive a weekly newsletter by email with updates about company events and new policies.",
+          "zh": "員工每週會收到一封電子報，內容是公司活動和新政策的最新消息。"
+        },
+        {
+          "en": "The weekly meeting has been moved to Tuesday this week because Monday is a national holiday.",
+          "zh": "這週的週會改到週二，因為週一是國定假日。"
+        }
+      ],
+      "distractors": [
+        "weakly",
+        "meekly",
+        "wealthy"
+      ],
+      "note": "語塊：weekly meeting（週會）、weekly report（週報）、on a weekly basis（每週）。weekly 可以當形容詞或副詞；daily 是「每天的」，monthly 是「每月的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sign-out",
+      "word": "sign out",
+      "pos": "片語動詞",
+      "meaning": "登出；簽退；借出（登記）",
+      "sentences": [
+        {
+          "en": "Please sign out of your computer before you leave the office so that no one else can use your account.",
+          "zh": "離開辦公室前請登出電腦，以免別人使用你的帳號。"
+        },
+        {
+          "en": "Visitors must sign out at the front desk and return their badges when they leave the building.",
+          "zh": "訪客離開大樓時必須在櫃台簽退並歸還識別證。"
+        },
+        {
+          "en": "Employees who need a laptop for a business trip can sign out equipment from the IT department.",
+          "zh": "出差需要筆電的員工可以向資訊部登記借出設備。"
+        },
+        {
+          "en": "If you use a shared computer, always remember to sign out of your email account after checking your messages.",
+          "zh": "如果你用共用電腦，看完信後一定要記得登出電子郵件帳號。"
+        },
+        {
+          "en": "Staff must sign out equipment such as cameras and projectors and return them within three days.",
+          "zh": "員工必須登記借出相機和投影機等設備，並在三天內歸還。"
+        }
+      ],
+      "distractors": [
+        "sign up",
+        "sign in",
+        "sign off"
+      ],
+      "note": "語塊：sign out of（登出……）、sign out equipment（登記借出設備）。sign out 可以是「登出帳號」、「簽名離開」或「登記借出物品」；sign in 是「登入、簽到」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-promote",
+      "word": "promote",
+      "pos": "動詞",
+      "meaning": "升職；推廣；促進",
+      "sentences": [
+        {
+          "en": "The company hired a famous actor to promote its new line of sports shoes on social media.",
+          "zh": "公司聘請一位知名演員在社群媒體上推廣新系列運動鞋。"
+        },
+        {
+          "en": "The manager plans to promote Ms. Rivera to assistant director because of her excellent work this year.",
+          "zh": "因為 Rivera 小姐今年表現優秀，經理打算把她升為副主任。"
+        },
+        {
+          "en": "The city is running a campaign to promote awareness of the importance of recycling at home.",
+          "zh": "市政府正在推行一項活動，提升民眾對在家回收重要性的認識。"
+        },
+        {
+          "en": "The tourism office uses videos and festivals to promote the island as a destination for families.",
+          "zh": "觀光處用影片和節慶把那座島推廣為適合家庭旅遊的地點。"
+        },
+        {
+          "en": "To promote the new product, the store will give away free samples to customers this weekend.",
+          "zh": "為了推廣新產品，店家這個週末會免費送試用品給顧客。"
+        }
+      ],
+      "distractors": [
+        "prompt",
+        "protect",
+        "provoke"
+      ],
+      "note": "語塊：promote a product（推廣產品）、be promoted to（被升為）、promote awareness（提升意識）。promote 有「升職」和「推廣」兩個意思；promotion 是名詞「升遷；促銷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ensure",
+      "word": "ensure",
+      "pos": "動詞",
+      "meaning": "確保",
+      "sentences": [
+        {
+          "en": "Please check all of the figures carefully to ensure that the report does not contain any errors.",
+          "zh": "請仔細檢查所有數字，確保報告沒有任何錯誤。"
+        },
+        {
+          "en": "The factory tests every product several times to ensure quality before it is sent to stores.",
+          "zh": "工廠在產品送到門市前會測試好幾次，以確保品質。"
+        },
+        {
+          "en": "Security guards are on duty twenty-four hours a day to ensure safety in the building and the parking lot.",
+          "zh": "保全二十四小時值班，確保大樓和停車場的安全。"
+        },
+        {
+          "en": "To ensure that your package arrives on time, please place your order before noon on Thursday.",
+          "zh": "為了確保包裹準時送達，請在週四中午前下訂單。"
+        },
+        {
+          "en": "The manager will meet with each team every week to ensure that the project stays on schedule.",
+          "zh": "經理每週會和每個團隊開會，確保專案按進度進行。"
+        }
+      ],
+      "distractors": [
+        "insure",
+        "assure",
+        "endure"
+      ],
+      "note": "語塊：ensure that（確保……）、ensure safety（確保安全）、ensure quality（確保品質）。ensure 是「確保」；insure 是「投保」；assure 是「向人保證」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-customer-representative",
+      "word": "customer representative",
+      "pos": "名詞",
+      "meaning": "客服代表",
+      "sentences": [
+        {
+          "en": "If you have any questions about your bill, please call and speak to a customer representative.",
+          "zh": "如果你對帳單有任何問題，請打電話和客服代表通話。"
+        },
+        {
+          "en": "The company is hiring for a customer representative position that requires good communication skills and patience.",
+          "zh": "公司正在招募一個需要良好溝通能力的客服代表職位。"
+        },
+        {
+          "en": "A customer representative will contact you within twenty-four hours to help you with your request.",
+          "zh": "客服代表會在二十四小時內聯絡您，協助處理您的需求。"
+        },
+        {
+          "en": "Each customer representative receives two weeks of training before answering calls from customers on their own.",
+          "zh": "每位客服代表在接聽顧客電話前都會接受兩週的訓練。"
+        },
+        {
+          "en": "The online chat allows customers to speak to a customer representative without waiting on the phone.",
+          "zh": "線上客服讓顧客不用在電話上等候，就能和客服代表交談。"
+        }
+      ],
+      "distractors": [
+        "sales representative",
+        "customer base",
+        "legal representative"
+      ],
+      "note": "語塊：speak to a customer representative（和客服代表通話）、customer representative position（客服代表職位）。customer representative 也常叫 customer service representative；representative 是「代表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-train",
+      "word": "train",
+      "pos": "動詞",
+      "meaning": "訓練；培訓",
+      "sentences": [
+        {
+          "en": "The hotel will train staff from all of its locations to use the new booking system next month.",
+          "zh": "飯店下個月會培訓所有分館的員工使用新的訂房系統。"
+        },
+        {
+          "en": "The service center will train technicians to repair both old and new models of washing machines.",
+          "zh": "服務中心會訓練技師維修新舊款的洗衣機。"
+        },
+        {
+          "en": "Experienced employees often help to train new workers during their first few weeks at the factory.",
+          "zh": "資深員工常常在新工人到工廠的頭幾週協助訓練他們。"
+        },
+        {
+          "en": "The airline will train pilots to fly the new aircraft at its training center in Singapore.",
+          "zh": "航空公司會在新加坡的訓練中心訓練飛行員駕駛新機型。"
+        },
+        {
+          "en": "It takes about three months to train a new customer service representative to handle every type of call.",
+          "zh": "訓練一位新客服代表處理各種來電大約需要三個月。"
+        }
+      ],
+      "distractors": [
+        "drain",
+        "strain",
+        "trail"
+      ],
+      "note": "語塊：train staff（培訓員工）、train technicians（訓練技師）、train new workers（訓練新人）。train 當動詞是「訓練」；trainee 是「受訓者」；trainer 是「訓練員」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
