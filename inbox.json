@@ -25008,6 +25008,706 @@
       ],
       "note": "語塊：accomplish a goal（達成目標）、accomplish a task（完成任務）。accomplish 和 achieve 意思接近；accomplished 是形容詞「有成就的、熟練的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-study",
+      "word": "study",
+      "pos": "名詞",
+      "meaning": "研究；調查",
+      "sentences": [
+        {
+          "en": "A recent study found that employees who take short breaks are more productive in the afternoon.",
+          "zh": "最近一項研究發現，休息片刻的員工下午的工作效率更高。"
+        },
+        {
+          "en": "The university will conduct a study on how air pollution affects the health of children in the city.",
+          "zh": "那所大學將進行一項研究，探討空氣污染如何影響城市兒童的健康。"
+        },
+        {
+          "en": "According to a study by the tourism office, most visitors stay in the city for about three days.",
+          "zh": "根據觀光處的一項研究，大部分遊客在這座城市停留大約三天。"
+        },
+        {
+          "en": "The company paid for a study to find out why customers prefer its competitor's products.",
+          "zh": "公司出錢做了一項研究，找出顧客為什麼比較喜歡競爭對手的產品。"
+        },
+        {
+          "en": "The results of the study will be published in a medical journal early next year.",
+          "zh": "這項研究的結果將在明年初刊登於醫學期刊上。"
+        }
+      ],
+      "distractors": [
+        "sturdy",
+        "steady",
+        "stud"
+      ],
+      "note": "語塊：conduct a study（進行研究）、a recent study（最近的研究）、according to a study（根據一項研究）。study 當名詞是「一項研究」（可數）；research 通常不可數。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-distribution",
+      "word": "distribution",
+      "pos": "名詞",
+      "meaning": "分配；分發；配銷",
+      "sentences": [
+        {
+          "en": "The company opened a new distribution center near the highway to deliver products to stores more quickly.",
+          "zh": "公司在公路附近開了一座新的物流中心，更快地把產品送到門市。"
+        },
+        {
+          "en": "The distribution of the new uniforms to all employees will take place next Monday morning.",
+          "zh": "新制服將在下週一早上發放給所有員工。"
+        },
+        {
+          "en": "Our distribution network now includes more than three hundred stores and online shops across the country.",
+          "zh": "我們的配銷網路現在包含全國三百多家門市。"
+        },
+        {
+          "en": "The manager is responsible for the fair distribution of work among the members of her team.",
+          "zh": "經理負責在組員之間公平分配工作。"
+        },
+        {
+          "en": "The publisher signed a contract with a large distribution company to sell its books in Europe.",
+          "zh": "出版社和一家大型配銷公司簽約，在歐洲販售它的書。"
+        }
+      ],
+      "distractors": [
+        "contribution",
+        "attribution",
+        "distraction"
+      ],
+      "note": "語塊：distribution center（物流中心）、distribution of（……的分配）、distribution network（配銷網路）。distribution 是名詞；distribute 是動詞「分發、配銷」；distributor 是「經銷商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-forward-to",
+      "word": "look forward to",
+      "pos": "片語動詞",
+      "meaning": "期待",
+      "sentences": [
+        {
+          "en": "We look forward to working with you on the new project and hope it will be a great success.",
+          "zh": "我們期待和您合作新專案，希望它非常成功。"
+        },
+        {
+          "en": "Thank you for your application, and we look forward to hearing from you about the interview date.",
+          "zh": "謝謝您的申請，我們期待您回覆面試日期。"
+        },
+        {
+          "en": "Many employees look forward to the company picnic, which is held every summer at the lake.",
+          "zh": "很多員工都很期待每年夏天在湖邊舉辦的公司野餐。"
+        },
+        {
+          "en": "The hotel staff look forward to welcoming you and making your stay as comfortable as possible.",
+          "zh": "飯店員工期待歡迎您，讓您的住宿盡可能舒適。"
+        },
+        {
+          "en": "I look forward to meeting the new members of the team at next week's welcome lunch.",
+          "zh": "我很期待在下週的迎新午餐見到團隊的新成員。"
+        }
+      ],
+      "distractors": [
+        "look up to",
+        "look down on",
+        "look out for"
+      ],
+      "note": "語塊：look forward to + 名詞／動名詞（期待……）、look forward to hearing from you（期待您的回音）。look forward to 的 to 是介系詞，後面接名詞或 V-ing（look forward to meeting you），不接原形動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-modify",
+      "word": "modify",
+      "pos": "動詞",
+      "meaning": "修改；調整",
+      "sentences": [
+        {
+          "en": "The engineers had to modify the design of the engine after several problems were found during testing.",
+          "zh": "測試中發現幾個問題後，工程師只好修改引擎的設計。"
+        },
+        {
+          "en": "We may need to modify the plan if the weather is bad on the day of the outdoor event.",
+          "zh": "如果戶外活動當天天氣不好，我們可能需要調整計畫。"
+        },
+        {
+          "en": "The restaurant will slightly modify its menu in the summer to include more salads and cold dishes.",
+          "zh": "餐廳夏天會稍微修改菜單，增加更多沙拉和冷盤。"
+        },
+        {
+          "en": "Customers can modify their orders online up to two hours before the scheduled delivery time.",
+          "zh": "顧客最晚可以在送貨時間前兩小時在線上修改訂單。"
+        },
+        {
+          "en": "The company decided to modify the plan for the new office after employees asked for more meeting rooms.",
+          "zh": "員工要求更多會議室後，公司決定調整新辦公室的規劃。"
+        }
+      ],
+      "distractors": [
+        "notify",
+        "mollify",
+        "magnify"
+      ],
+      "note": "語塊：modify the design（修改設計）、modify the plan（調整計畫）、slightly modify（稍微修改）。modify 是「做一點修改」；change 是一般的「改變」；名詞是 modification。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-object-to",
+      "word": "object to",
+      "pos": "片語動詞",
+      "meaning": "反對",
+      "sentences": [
+        {
+          "en": "Many residents object to the plan to build a large shopping center next to the quiet park.",
+          "zh": "很多居民反對在安靜的公園旁邊蓋大型購物中心的計畫。"
+        },
+        {
+          "en": "Several employees strongly object to working on weekends and holidays without receiving any extra pay from the company.",
+          "zh": "好幾位員工強烈反對週末上班卻沒有額外的薪水。"
+        },
+        {
+          "en": "The union may object to the new schedule because it requires workers to start earlier in the morning.",
+          "zh": "工會可能會反對新的班表，因為它要求工人早上更早上班。"
+        },
+        {
+          "en": "If you object to any part of the contract, please tell us before Friday so that we can discuss it.",
+          "zh": "如果你反對合約的任何部分，請在週五前告訴我們，讓我們討論。"
+        },
+        {
+          "en": "Some customers strongly object to the new fees, so the bank is reviewing its pricing policy.",
+          "zh": "有些顧客強烈反對新的手續費，所以銀行正在檢討收費政策。"
+        }
+      ],
+      "distractors": [
+        "subject to",
+        "object for",
+        "oppose to"
+      ],
+      "note": "語塊：object to + 名詞／動名詞（反對……）、strongly object to（強烈反對）。object to 的 to 是介系詞，後面接名詞或 V-ing；objection 是名詞「反對」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-understaffed",
+      "word": "understaffed",
+      "pos": "形容詞",
+      "meaning": "人手不足的",
+      "sentences": [
+        {
+          "en": "The restaurant was understaffed on Saturday night, so many customers had to wait an hour for their food.",
+          "zh": "餐廳週六晚上人手不足，所以很多顧客要等一小時才拿到餐點。"
+        },
+        {
+          "en": "The hospital is seriously understaffed and is trying to hire more nurses as soon as possible.",
+          "zh": "醫院嚴重缺人，正在努力盡快招募更多護士。"
+        },
+        {
+          "en": "Because the office is understaffed this week, some of your requests may take longer than usual.",
+          "zh": "因為這週辦公室人手不足，你的一些請求可能會比平常花更久的時間。"
+        },
+        {
+          "en": "The store has been understaffed since three employees left, so the manager has been working extra hours.",
+          "zh": "自從三名員工離職後，那家店就一直人手不足，所以店長一直在加班。"
+        },
+        {
+          "en": "Schools in rural areas are often understaffed because it is difficult to attract teachers to small towns.",
+          "zh": "鄉村地區的學校常常人手不足，因為很難吸引老師到小鎮。"
+        }
+      ],
+      "distractors": [
+        "understated",
+        "overstaffed",
+        "understood"
+      ],
+      "note": "語塊：be understaffed（人手不足）、seriously understaffed（嚴重缺人）。understaffed 是「員工太少」；overstaffed 是「人手過多」；shorthanded 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-discontinue",
+      "word": "discontinue",
+      "pos": "動詞",
+      "meaning": "停產；停止",
+      "sentences": [
+        {
+          "en": "The company plans to discontinue the old model of its tablet when the new version is released.",
+          "zh": "新版本推出時，公司打算停產舊款平板。"
+        },
+        {
+          "en": "The airline will discontinue service to the small island because there are not enough passengers.",
+          "zh": "因為乘客不夠多，航空公司將停止飛往那座小島的航班。"
+        },
+        {
+          "en": "If you discontinue your membership, you will no longer receive special discounts on any of our products.",
+          "zh": "如果你停止會員資格，就不再享有我們產品的折扣。"
+        },
+        {
+          "en": "The store decided to discontinue the product after several customers complained about its poor quality.",
+          "zh": "好幾位顧客抱怨品質之後，店家決定停賣那項產品。"
+        },
+        {
+          "en": "The magazine will discontinue its printed edition next year and will be available only online.",
+          "zh": "那本雜誌明年將停止發行紙本，只在網路上提供。"
+        }
+      ],
+      "distractors": [
+        "discount",
+        "disconnect",
+        "discourage"
+      ],
+      "note": "語塊：discontinue a product（停產某產品）、discontinue service（停止服務）、be discontinued（被停產）。discontinue 是「不再繼續（生產或提供）」；continue 是「繼續」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-committed-to",
+      "word": "committed to",
+      "pos": "其他",
+      "meaning": "致力於；承諾於",
+      "sentences": [
+        {
+          "en": "Our company is committed to providing high-quality products that are safe for both people and the environment.",
+          "zh": "我們公司致力於提供對環境安全的高品質產品。"
+        },
+        {
+          "en": "The new CEO said that she is fully committed to improving working conditions for all employees.",
+          "zh": "新執行長表示，她會全心投入改善所有員工的工作條件。"
+        },
+        {
+          "en": "The hotel is committed to making every guest feel comfortable and welcome during their stay.",
+          "zh": "飯店致力於讓每位客人在住宿期間都感到舒適和受歡迎。"
+        },
+        {
+          "en": "The city is committed to reducing traffic and air pollution by investing in public transportation.",
+          "zh": "市政府致力於投資大眾運輸，減少交通量和空氣污染。"
+        },
+        {
+          "en": "All of our staff are committed to answering customer questions quickly, clearly, and politely every day.",
+          "zh": "我們所有員工都致力於快速且有禮貌地回答顧客的問題。"
+        }
+      ],
+      "distractors": [
+        "committee",
+        "commuted to",
+        "admitted to"
+      ],
+      "note": "語塊：be committed to（致力於……）、fully committed to（全心投入）。be committed to 後面接名詞或 V-ing（committed to providing），to 是介系詞；commitment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disclose",
+      "word": "disclose",
+      "pos": "動詞",
+      "meaning": "透露；公開",
+      "sentences": [
+        {
+          "en": "The company refused to disclose the price that it paid for the small software firm.",
+          "zh": "公司拒絕透露它收購那家小軟體公司的價格。"
+        },
+        {
+          "en": "Employees must not disclose information about customers to anyone outside the company, including friends and family members.",
+          "zh": "員工不得向公司以外的任何人透露顧客資訊。"
+        },
+        {
+          "en": "The two companies will disclose details of the agreement at a press conference next Monday.",
+          "zh": "兩家公司將在下週一的記者會上公開協議的細節。"
+        },
+        {
+          "en": "The hospital cannot disclose information about patients without their written permission or a request from a court.",
+          "zh": "沒有病人的書面同意，醫院不能透露病人的資訊。"
+        },
+        {
+          "en": "The director refused to disclose the names of the candidates who are being considered for the position.",
+          "zh": "總監拒絕透露正在考慮擔任該職位的候選人名字。"
+        }
+      ],
+      "distractors": [
+        "enclose",
+        "dispose",
+        "discuss"
+      ],
+      "note": "語塊：disclose information（透露資訊）、refuse to disclose（拒絕透露）、disclose details（公開細節）。disclose 是「公開原本隱藏的資訊」；reveal 意思接近；名詞是 disclosure。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-intention",
+      "word": "intention",
+      "pos": "名詞",
+      "meaning": "意圖；打算",
+      "sentences": [
+        {
+          "en": "The company has no intention of closing its factory, despite the rumors in the local newspaper.",
+          "zh": "儘管地方報紙有謠言，公司無意關閉工廠。"
+        },
+        {
+          "en": "Mr. Kim announced his intention to retire at the end of the year after thirty years at the bank.",
+          "zh": "金先生在銀行工作三十年後，宣布打算在年底退休。"
+        },
+        {
+          "en": "She moved to the city with the intention of starting her own small design business near the university.",
+          "zh": "她搬到這座城市，打算在大學附近自己開一家小設計公司。"
+        },
+        {
+          "en": "The airline announced its intention to add more flights to Asia and Australia starting next spring.",
+          "zh": "航空公司宣布打算從明年春天開始增加飛往亞洲的航班。"
+        },
+        {
+          "en": "We have no intention of raising our prices this year, as we want to keep our loyal customers happy.",
+          "zh": "我們今年無意漲價，因為我們想讓忠實顧客滿意。"
+        }
+      ],
+      "distractors": [
+        "attention",
+        "intervention",
+        "invention"
+      ],
+      "note": "語塊：have no intention of（無意……）、announce one's intention to（宣布打算……）、with the intention of（打算……）。intention 是「打算、意圖」；intend 是動詞；attention（注意）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compete",
+      "word": "compete",
+      "pos": "動詞",
+      "meaning": "競爭；參賽",
+      "sentences": [
+        {
+          "en": "Small bookstores find it difficult to compete with large online retailers that offer lower prices.",
+          "zh": "小書店發現很難和提供更低價格的大型網路零售商競爭。"
+        },
+        {
+          "en": "More than two hundred applicants will compete for only five positions in the company's training program.",
+          "zh": "兩百多位應徵者將爭取公司訓練計畫中僅有的五個名額。"
+        },
+        {
+          "en": "Our team will compete in the national business plan competition in Tokyo next month against twenty other universities.",
+          "zh": "我們團隊下個月將在東京參加全國商業計畫比賽。"
+        },
+        {
+          "en": "To compete with the new coffee shop across the street, the café started offering free pastries in the morning.",
+          "zh": "為了和對街新開的咖啡店競爭，那家咖啡館開始在早上提供免費糕點。"
+        },
+        {
+          "en": "Local farmers compete for space at the popular weekend market, which has room for only forty stalls.",
+          "zh": "當地農民爭搶熱門週末市集的位置，那裡只有四十個攤位。"
+        }
+      ],
+      "distractors": [
+        "complete",
+        "compute",
+        "compare"
+      ],
+      "note": "語塊：compete with（和……競爭）、compete for（爭取……）、compete in（參加……比賽）。compete 是動詞；competition 是「競爭；比賽」；competitive 是「有競爭力的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-secondhand",
+      "word": "secondhand",
+      "pos": "形容詞",
+      "meaning": "二手的",
+      "sentences": [
+        {
+          "en": "The shop on Elm Street sells secondhand books and magazines at very low prices every day of the week.",
+          "zh": "Elm 街那家店以非常低的價格販售二手書和雜誌。"
+        },
+        {
+          "en": "More young people are buying secondhand clothing because it is cheaper and better for the environment.",
+          "zh": "越來越多年輕人買二手衣，因為比較便宜，對環境也比較好。"
+        },
+        {
+          "en": "The company saved a lot of money by purchasing secondhand furniture for its new office.",
+          "zh": "公司為新辦公室購買二手家具，省了很多錢。"
+        },
+        {
+          "en": "Before you buy secondhand electronics, make sure that the seller offers some kind of warranty.",
+          "zh": "在買二手電子產品之前，要確定賣家有提供某種保固。"
+        },
+        {
+          "en": "The charity collects secondhand clothing and gives it to families who need help during the winter.",
+          "zh": "那個慈善團體收集二手衣，在冬天送給需要幫助的家庭。"
+        }
+      ],
+      "distractors": [
+        "second-rate",
+        "handmade",
+        "shorthand"
+      ],
+      "note": "語塊：secondhand books（二手書）、secondhand clothing（二手衣）、buy secondhand（買二手的）。secondhand 也可以寫成 second-hand；used 意思相同；brand-new 是「全新的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quality",
+      "word": "quality",
+      "pos": "名詞",
+      "meaning": "品質",
+      "sentences": [
+        {
+          "en": "Our customers are willing to pay more because our products are known for their high quality.",
+          "zh": "顧客願意多付錢，因為我們的產品以高品質著稱。"
+        },
+        {
+          "en": "The quality control team checks a sample of products from every shipment before it leaves the factory.",
+          "zh": "品管團隊在每批貨出廠前都會抽查樣品。"
+        },
+        {
+          "en": "The new training program is designed to improve the quality of service at all of our hotels.",
+          "zh": "新的訓練計畫是為了提升我們所有飯店的服務品質。"
+        },
+        {
+          "en": "Using fresh ingredients from local farms helps the restaurant maintain the high quality of its dishes.",
+          "zh": "使用在地農場的新鮮食材，幫助餐廳維持料理的高品質。"
+        },
+        {
+          "en": "The manager praised the quality of the report, which was clear, detailed, and easy to read.",
+          "zh": "經理稱讚那份報告的品質，內容清楚、詳細又容易閱讀。"
+        }
+      ],
+      "distractors": [
+        "quantity",
+        "equality",
+        "qualify"
+      ],
+      "note": "語塊：high quality（高品質）、quality control（品質管理）、improve the quality of（提升……的品質）。quality 是「品質」；quantity 是「數量」，兩個字很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-impress",
+      "word": "impress",
+      "pos": "動詞",
+      "meaning": "使印象深刻",
+      "sentences": [
+        {
+          "en": "The sales team prepared a detailed presentation in order to impress the clients from the hotel chain.",
+          "zh": "業務團隊準備了一份詳細的簡報，想讓連鎖飯店的客戶印象深刻。"
+        },
+        {
+          "en": "The new office design is sure to impress visitors with its large windows and modern furniture.",
+          "zh": "新辦公室的設計有大窗戶和現代家具，一定會讓訪客印象深刻。"
+        },
+        {
+          "en": "Ms. Lee tried to impress the interviewers by explaining how she had increased sales at her previous job.",
+          "zh": "李小姐說明她在前一份工作如何提升業績，試圖讓面試官印象深刻。"
+        },
+        {
+          "en": "The chef hopes to impress the food critics who will visit the restaurant on its opening night.",
+          "zh": "主廚希望讓開幕當晚來訪的美食評論家印象深刻。"
+        },
+        {
+          "en": "The quality of the product did not impress the buyers, so they decided to look for another supplier.",
+          "zh": "產品品質沒有讓買家滿意，所以他們決定找別的供應商。"
+        }
+      ],
+      "distractors": [
+        "express",
+        "press",
+        "suppress"
+      ],
+      "note": "語塊：impress the clients（讓客戶印象深刻）、be impressed by（對……印象深刻）、try to impress（試圖讓人印象深刻）。impress 是「讓人覺得很厲害」；impressive 是「令人印象深刻的」；impression 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cut",
+      "word": "cut",
+      "pos": "動詞",
+      "meaning": "削減；減少；切",
+      "sentences": [
+        {
+          "en": "The company plans to cut costs by moving to a smaller office and using less paper.",
+          "zh": "公司計畫搬到比較小的辦公室並減少用紙，以削減成本。"
+        },
+        {
+          "en": "The store decided to cut prices on all winter clothing in order to make room for new products.",
+          "zh": "那家店決定把所有冬季服飾降價，騰出空間放新產品。"
+        },
+        {
+          "en": "Many families decide to cut back on eating out at restaurants when food prices rise quickly.",
+          "zh": "食物價格快速上漲時，很多家庭會決定減少上餐廳吃飯。"
+        },
+        {
+          "en": "The government will cut taxes for small businesses that hire young workers or interns next year.",
+          "zh": "政府明年會為聘用年輕員工的小企業減稅。"
+        },
+        {
+          "en": "To cut costs, the airline stopped offering free meals on flights shorter than three hours.",
+          "zh": "為了削減成本，航空公司停止在三小時以內的航班提供免費餐點。"
+        }
+      ],
+      "distractors": [
+        "cute",
+        "cart",
+        "curt"
+      ],
+      "note": "語塊：cut costs（削減成本）、cut prices（降價）、cut back on（減少……）。cut 的過去式和過去分詞都是 cut；cut back on 是「減少使用」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appropriation",
+      "word": "appropriation",
+      "pos": "名詞",
+      "meaning": "撥款；挪用",
+      "sentences": [
+        {
+          "en": "The city council approved a budget appropriation of two million dollars for repairing the old bridge.",
+          "zh": "市議會核准了兩百萬美元的預算撥款，用來修理舊橋。"
+        },
+        {
+          "en": "The appropriation of funds for the new library was delayed because of a disagreement among council members.",
+          "zh": "新圖書館的資金撥款因為議員之間意見不合而延後。"
+        },
+        {
+          "en": "The school received a special appropriation from the government to buy new computers for its classrooms.",
+          "zh": "學校獲得政府的特別撥款，為教室購買新電腦。"
+        },
+        {
+          "en": "The committee will review each budget appropriation request carefully before making a final decision in May.",
+          "zh": "委員會在做決定之前，會仔細審查每一筆預算撥款申請。"
+        },
+        {
+          "en": "An investigation found that the appropriation of funds by the manager had not been approved by the board.",
+          "zh": "一項調查發現，那位經理挪用資金並沒有經過董事會的核准。"
+        }
+      ],
+      "distractors": [
+        "approbation",
+        "appreciation",
+        "approximation"
+      ],
+      "note": "語塊：budget appropriation（預算撥款）、appropriation of funds（資金撥款）。appropriation 是「（政府、組織）撥出一筆錢做特定用途」；也有「挪用、盜用」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aimed-at",
+      "word": "aimed at",
+      "pos": "其他",
+      "meaning": "針對；以……為目標",
+      "sentences": [
+        {
+          "en": "The new advertising campaign is aimed at young people who use social media every day.",
+          "zh": "新的廣告活動是針對每天使用社群媒體的年輕人。"
+        },
+        {
+          "en": "The government introduced several programs aimed at reducing unemployment among young people in rural areas.",
+          "zh": "政府推出了幾項旨在減少鄉村地區失業的計畫。"
+        },
+        {
+          "en": "This workshop is aimed at small business owners who want to learn about online marketing.",
+          "zh": "這個工作坊是針對想學習網路行銷的小企業老闆。"
+        },
+        {
+          "en": "The company's new policy is aimed at reducing the amount of paper used in its offices.",
+          "zh": "公司的新政策旨在減少辦公室的用紙量。"
+        },
+        {
+          "en": "The magazine is aimed at readers who enjoy cooking and want to try recipes from different countries.",
+          "zh": "那本雜誌是針對喜歡做菜、想嘗試各國食譜的讀者。"
+        }
+      ],
+      "distractors": [
+        "aimed for",
+        "armed with",
+        "named after"
+      ],
+      "note": "語塊：be aimed at（針對……）、aimed at reducing（旨在減少）。be aimed at 後面接名詞或 V-ing；target 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deficit",
+      "word": "deficit",
+      "pos": "名詞",
+      "meaning": "赤字；虧損",
+      "sentences": [
+        {
+          "en": "The government plans to reduce the budget deficit by cutting spending and raising some taxes.",
+          "zh": "政府計畫藉由削減支出和調高部分稅收來減少預算赤字。"
+        },
+        {
+          "en": "The country's trade deficit grew last year because it imported more goods than it exported.",
+          "zh": "該國去年的貿易逆差擴大了，因為進口的商品比出口多。"
+        },
+        {
+          "en": "The museum has operated at a deficit for three years, so it is looking for new sponsors.",
+          "zh": "博物館已經連續三年虧損，所以正在尋找新的贊助者。"
+        },
+        {
+          "en": "Economists warn that a large budget deficit could cause interest rates to rise in the future.",
+          "zh": "經濟學家警告，龐大的預算赤字未來可能導致利率上升。"
+        },
+        {
+          "en": "The new mayor promised to reduce the deficit without closing any public schools or libraries.",
+          "zh": "新市長承諾在不關閉任何公立學校或圖書館的情況下減少赤字。"
+        }
+      ],
+      "distractors": [
+        "defect",
+        "deficient",
+        "definite"
+      ],
+      "note": "語塊：budget deficit（預算赤字）、trade deficit（貿易逆差）、reduce the deficit（減少赤字）。deficit 是「支出大於收入的差額」；surplus 是相反詞「盈餘」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resolution",
+      "word": "resolution",
+      "pos": "名詞",
+      "meaning": "解決；決議；解析度",
+      "sentences": [
+        {
+          "en": "The board passed a resolution to invest in renewable energy at all of the company's factories.",
+          "zh": "董事會通過一項決議，在公司所有工廠投資再生能源。"
+        },
+        {
+          "en": "The new camera takes high resolution photos that are perfect for printing large posters and signs.",
+          "zh": "新相機能拍高解析度的照片，非常適合印大型海報。"
+        },
+        {
+          "en": "Both companies hope for a quick resolution of the dispute so that they can continue working together.",
+          "zh": "兩家公司都希望糾紛能盡快解決，好繼續合作。"
+        },
+        {
+          "en": "The training course covers conflict resolution and other skills that are important for new managers.",
+          "zh": "訓練課程涵蓋衝突解決和其他對經理很重要的技能。"
+        },
+        {
+          "en": "After hours of discussion, the members of the committee were finally able to pass a resolution.",
+          "zh": "經過幾個小時的討論，委員會成員終於通過了一項決議。"
+        }
+      ],
+      "distractors": [
+        "revolution",
+        "resolve",
+        "solution"
+      ],
+      "note": "語塊：conflict resolution（衝突解決）、pass a resolution（通過決議）、high resolution（高解析度）。resolution 可以是「解決（問題）」、「決議」，也可以指螢幕、照片的「解析度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mutually",
+      "word": "mutually",
+      "pos": "副詞",
+      "meaning": "互相地；彼此",
+      "sentences": [
+        {
+          "en": "Both companies believe that the partnership will be mutually beneficial and help them grow in new markets.",
+          "zh": "兩家公司都認為這次合作會互惠互利，幫助雙方成長。"
+        },
+        {
+          "en": "The meeting will take place at a mutually agreed time and location sometime next week.",
+          "zh": "會議將在下週雙方同意的時間和地點舉行。"
+        },
+        {
+          "en": "We hope to build a mutually beneficial relationship with our suppliers that lasts for many years.",
+          "zh": "我們希望和供應商建立維持多年的互惠關係。"
+        },
+        {
+          "en": "The contract can be changed only if both sides have mutually agreed to the new terms in writing.",
+          "zh": "只有雙方以書面同意新條款，合約才能修改。"
+        },
+        {
+          "en": "The exchange program is mutually beneficial for students, who learn new languages and cultures abroad.",
+          "zh": "交換計畫對學生來說是互惠的，他們能學習新的語言和文化。"
+        }
+      ],
+      "distractors": [
+        "mutually exclusive",
+        "manually",
+        "actually"
+      ],
+      "note": "語塊：mutually beneficial（互惠的）、mutually agreed（雙方同意的）。mutually 是「雙方都……」；mutual 是形容詞「互相的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
