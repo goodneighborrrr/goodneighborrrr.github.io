@@ -27073,6 +27073,706 @@
       ],
       "note": "語塊：give a tax break（提供減稅）、receive a tax break（獲得減稅）。tax break 是「政府給的減稅優惠」；tax advantage、tax incentive 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-strengthen",
+      "word": "strengthen",
+      "pos": "動詞",
+      "meaning": "加強；強化",
+      "sentences": [
+        {
+          "en": "The company holds team-building events every year to strengthen relationships between employees in different departments.",
+          "zh": "公司每年舉辦團隊建立活動，加強員工之間的關係。"
+        },
+        {
+          "en": "The government hopes that the new trade agreement will strengthen the economy and create more jobs.",
+          "zh": "政府希望新的貿易協定能強化經濟並創造更多工作機會。"
+        },
+        {
+          "en": "After the break-in last month, the building manager decided to strengthen security at every entrance.",
+          "zh": "上個月遭竊後，大樓管理員決定加強每個入口的保全。"
+        },
+        {
+          "en": "Regular meetings with clients help us strengthen relationships and understand their needs and concerns better.",
+          "zh": "定期和客戶開會幫助我們加強關係，更了解他們的需求。"
+        },
+        {
+          "en": "The bank plans to strengthen security on its website by asking customers to use stronger passwords.",
+          "zh": "銀行計畫要求顧客使用更強的密碼，加強網站的安全性。"
+        }
+      ],
+      "distractors": [
+        "lengthen",
+        "straighten",
+        "threaten"
+      ],
+      "note": "語塊：strengthen relationships（加強關係）、strengthen the economy（強化經濟）、strengthen security（加強保全）。strengthen 是 strong 的動詞；weaken 是相反詞「削弱」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-term",
+      "word": "term",
+      "pos": "名詞",
+      "meaning": "期間；任期；術語",
+      "sentences": [
+        {
+          "en": "In the long term, investing in new technology will help the company reduce its costs and grow faster.",
+          "zh": "長期來看，投資新科技會幫助公司降低成本並成長得更快。"
+        },
+        {
+          "en": "Prices may rise slightly in the short term, but experts expect them to fall again by the end of the year.",
+          "zh": "價格短期內可能小幅上漲，但專家預期年底前會再下降。"
+        },
+        {
+          "en": "The mayor was elected for a term of four years and plans to focus on improving public transportation.",
+          "zh": "市長當選一屆四年的任期，打算把重點放在改善大眾運輸上。"
+        },
+        {
+          "en": "Please avoid using a technical term that customers may not understand when you write the product description.",
+          "zh": "撰寫產品說明時，請避免使用顧客可能看不懂的專業術語。"
+        },
+        {
+          "en": "Hiring more staff will cost money in the short term, but it will improve our service in the long run.",
+          "zh": "短期內增聘人手會花錢，但長遠來看能改善我們的服務。"
+        }
+      ],
+      "distractors": [
+        "team",
+        "tern",
+        "turn"
+      ],
+      "note": "語塊：in the long term（長期來看）、in the short term（短期內）、a term of（為期……的任期）、technical term（專業術語）。term 可以是「期間、任期」或「術語」；複數 terms 常指合約「條款」，in terms of 是「就……而言」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exhausting",
+      "word": "exhausting",
+      "pos": "形容詞",
+      "meaning": "使人筋疲力盡的",
+      "sentences": [
+        {
+          "en": "After an exhausting day of meetings, the sales team went to dinner at a restaurant near the hotel.",
+          "zh": "開了一整天會、累人的一天之後，業務團隊去飯店附近的餐廳吃晚餐。"
+        },
+        {
+          "en": "The flight from New York to Singapore was exhausting, so Ms. Lee rested for a day before starting work.",
+          "zh": "從紐約飛新加坡的航程很累人，所以李小姐先休息一天才開始工作。"
+        },
+        {
+          "en": "Working on a construction site in the summer can be physically exhausting for many people.",
+          "zh": "夏天在工地工作，對很多人來說體力上可能很累。"
+        },
+        {
+          "en": "Moving all of the furniture to the new office was an exhausting job that took the whole weekend.",
+          "zh": "把所有家具搬到新辦公室是一件累人的工作，花了整個週末。"
+        },
+        {
+          "en": "The training course was exhausting, but the participants said they learned a lot of useful skills.",
+          "zh": "訓練課程很累人，但學員說他們學到很多實用的技能。"
+        }
+      ],
+      "distractors": [
+        "exhausted",
+        "exciting",
+        "existing"
+      ],
+      "note": "語塊：an exhausting day（累人的一天）、an exhausting trip（累人的旅程）、physically exhausting（體力上很累的）。exhausting 是「讓人很累的（事物）」；exhausted 是「（人）筋疲力盡的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exhaustion",
+      "word": "exhaustion",
+      "pos": "名詞",
+      "meaning": "筋疲力盡；耗盡",
+      "sentences": [
+        {
+          "en": "Several runners suffered from exhaustion because of the extremely hot weather during the city marathon on Sunday.",
+          "zh": "因為馬拉松期間天氣極熱，好幾位跑者體力透支。"
+        },
+        {
+          "en": "Working long hours without enough rest can lead to physical exhaustion and serious health problems for workers.",
+          "zh": "長時間工作又沒有足夠休息，可能導致體力透支和健康問題。"
+        },
+        {
+          "en": "The nurses were close to exhaustion after working several night shifts in a row during the flu season.",
+          "zh": "流感季期間連續上了好幾個夜班後，護士們幾乎筋疲力盡。"
+        },
+        {
+          "en": "The company introduced flexible hours to prevent stress and exhaustion among its employees in the busy season.",
+          "zh": "公司推出彈性工時，防止員工出現壓力和過度疲勞。"
+        },
+        {
+          "en": "The doctor said that her headaches were caused by exhaustion and recommended that she take a week off.",
+          "zh": "醫生說她的頭痛是過度疲勞造成的，建議她休息一週。"
+        }
+      ],
+      "distractors": [
+        "exhibition",
+        "expansion",
+        "extension"
+      ],
+      "note": "語塊：suffer from exhaustion（筋疲力盡）、physical exhaustion（體力透支）、close to exhaustion（幾乎筋疲力盡）、caused by exhaustion（過度疲勞造成）。exhaustion 是名詞「極度疲勞」；exhaust 是動詞「使筋疲力盡；耗盡」，也指汽車「廢氣」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hotline",
+      "word": "hotline",
+      "pos": "名詞",
+      "meaning": "熱線；專線",
+      "sentences": [
+        {
+          "en": "If you have any problems with your order, please call the customer hotline at any time.",
+          "zh": "如果你的訂單有任何問題，請隨時撥打客服專線。"
+        },
+        {
+          "en": "The city set up a 24-hour hotline for residents who need help during the storm.",
+          "zh": "市政府為暴風雨期間需要幫助的居民設立了二十四小時專線。"
+        },
+        {
+          "en": "Customers can call the hotline to report a lost credit card and receive a new one within three days.",
+          "zh": "顧客可以打專線掛失信用卡，三天內就能收到新卡。"
+        },
+        {
+          "en": "The company's customer hotline is open from eight in the morning until ten at night every day.",
+          "zh": "公司的客服專線每天早上八點到晚上十點都有人接聽。"
+        },
+        {
+          "en": "Employees who see a safety problem in the factory should call the safety hotline immediately.",
+          "zh": "在工廠發現安全問題的員工應該立刻打專線通報。"
+        }
+      ],
+      "distractors": [
+        "headline",
+        "deadline",
+        "hot water"
+      ],
+      "note": "語塊：call the hotline（打專線）、customer hotline（客服專線）、24-hour hotline（二十四小時專線）。hotline 是「緊急或客服專用電話」；helpline 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-open",
+      "word": "open",
+      "pos": "形容詞",
+      "meaning": "營業中的；開放的；未決定的",
+      "sentences": [
+        {
+          "en": "The new library will be open to the public every day from nine in the morning until eight at night.",
+          "zh": "新圖書館每天早上九點到晚上八點對外開放。"
+        },
+        {
+          "en": "The pharmacy on Main Street is open until midnight, so you can buy medicine late in the evening.",
+          "zh": "Main 街那家藥局營業到午夜，所以晚上很晚也可以買藥。"
+        },
+        {
+          "en": "Despite the heavy snow, most stores in the shopping center will remain open as usual this weekend.",
+          "zh": "儘管下大雪，購物中心大部分商店這個週末仍照常營業。"
+        },
+        {
+          "en": "The position will remain open until a qualified candidate is found, so please share the ad with friends.",
+          "zh": "這個職缺會一直開放到找到合格人選為止，所以請把廣告分享給朋友。"
+        },
+        {
+          "en": "The museum's new garden is open to the public on weekends, but it is closed during the week.",
+          "zh": "博物館的新花園週末對外開放，但平日不開放。"
+        }
+      ],
+      "distractors": [
+        "opera",
+        "oven",
+        "often"
+      ],
+      "note": "語塊：open to the public（對外開放）、open until（營業到）、remain open（繼續營業）。open 當形容詞是「開著的、營業中的」；opening 是名詞「開幕；職缺」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-registered",
+      "word": "registered",
+      "pos": "形容詞",
+      "meaning": "已註冊的；掛號的",
+      "sentences": [
+        {
+          "en": "Only registered users can download the reports and watch the training videos on our website.",
+          "zh": "只有註冊使用者可以在我們網站上下載報告和觀看訓練影片。"
+        },
+        {
+          "en": "Important documents such as contracts should be sent by registered mail so that you can track them.",
+          "zh": "合約等重要文件應該用掛號信寄出，這樣你才能追蹤。"
+        },
+        {
+          "en": "All registered members will receive an email with a special discount code early next week.",
+          "zh": "所有註冊會員下週都會收到一封附有特別折扣碼的電子郵件。"
+        },
+        {
+          "en": "The number of registered users of the app has doubled since the company added new features last spring.",
+          "zh": "自從公司去年春天增加新功能後，App 的註冊使用者人數增加了一倍。"
+        },
+        {
+          "en": "Please send the signed form by registered mail to our office in Taipei before the end of the month.",
+          "zh": "請在月底前把簽好的表格用掛號信寄到我們台北的辦公室。"
+        }
+      ],
+      "distractors": [
+        "registrar",
+        "regulated",
+        "restricted"
+      ],
+      "note": "語塊：registered users（註冊使用者）、registered mail（掛號信）、registered members（註冊會員）。registered 是「已登記的」；register 是動詞「註冊」；registration 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retirement",
+      "word": "retirement",
+      "pos": "名詞",
+      "meaning": "退休",
+      "sentences": [
+        {
+          "en": "The company offers a generous retirement plan to all employees who have worked there for five years.",
+          "zh": "公司為所有工作滿五年的員工提供優渥的退休金計畫。"
+        },
+        {
+          "en": "We are planning a retirement party for Mr. Lopez, who has worked at the bank for thirty-five years.",
+          "zh": "我們正在為在銀行工作了三十五年的 Lopez 先生籌備退休派對。"
+        },
+        {
+          "en": "Ms. Kim decided to take early retirement so that she could spend more time with her grandchildren.",
+          "zh": "金小姐決定提早退休，好有更多時間陪孫子。"
+        },
+        {
+          "en": "Financial experts recommend that young workers start saving for retirement as early as possible in their careers.",
+          "zh": "理財專家建議年輕上班族盡早開始存退休金。"
+        },
+        {
+          "en": "The new retirement plan allows employees to choose how much of their salary to save each month.",
+          "zh": "新的退休金計畫讓員工可以選擇每個月存多少薪水。"
+        }
+      ],
+      "distractors": [
+        "requirement",
+        "refinement",
+        "resentment"
+      ],
+      "note": "語塊：retirement plan（退休金計畫）、retirement party（退休派對）、early retirement（提早退休）。retirement 是名詞；retire 是動詞「退休」；retiree 是「退休人員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-delegate",
+      "word": "delegate",
+      "pos": "動詞",
+      "meaning": "委派；授權",
+      "sentences": [
+        {
+          "en": "Good managers know how to delegate tasks so that they have time to focus on planning.",
+          "zh": "好的經理懂得分派工作，讓自己有時間專注於規劃。"
+        },
+        {
+          "en": "The director decided to delegate responsibility for the new project to her most experienced assistant.",
+          "zh": "總監決定把新專案的責任交給她最有經驗的助理。"
+        },
+        {
+          "en": "If you are too busy, you should delegate some of your work to other members of the team.",
+          "zh": "如果你太忙，應該把部分工作分派給其他組員。"
+        },
+        {
+          "en": "Many new managers find it difficult to delegate tasks because they worry about the quality of the work.",
+          "zh": "很多新任經理覺得很難分派工作，因為他們擔心工作品質。"
+        },
+        {
+          "en": "The CEO will delegate responsibility for daily operations to the managing director while she travels.",
+          "zh": "執行長出差期間會把日常營運的責任交給總經理。"
+        }
+      ],
+      "distractors": [
+        "relegate",
+        "negate",
+        "dedicate"
+      ],
+      "note": "語塊：delegate tasks（分派工作）、delegate responsibility（授權負責）、delegate to（委派給）。delegate 當動詞是「把工作交給別人做」；當名詞是「代表」（重音不同）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conclusion",
+      "word": "conclusion",
+      "pos": "名詞",
+      "meaning": "結論；結束",
+      "sentences": [
+        {
+          "en": "After reviewing all of the data, the committee came to a conclusion that the project should continue.",
+          "zh": "審閱所有資料後，委員會得出結論：專案應該繼續進行。"
+        },
+        {
+          "en": "In conclusion, I would like to thank everyone who helped make this year's conference a great success.",
+          "zh": "總而言之，我要感謝每一位幫助今年研討會大獲成功的人。"
+        },
+        {
+          "en": "Refreshments will be served in the lobby at the conclusion of the award ceremony on Friday evening.",
+          "zh": "週五晚上頒獎典禮結束時，大廳會提供茶點。"
+        },
+        {
+          "en": "The researchers have not yet come to a conclusion about the cause of the problem with the machines.",
+          "zh": "研究人員對機器問題的原因還沒有得出結論。"
+        },
+        {
+          "en": "The conclusion of the report recommends that the company invest more money in online advertising.",
+          "zh": "報告的結論建議公司在網路廣告上投入更多資金。"
+        }
+      ],
+      "distractors": [
+        "confusion",
+        "inclusion",
+        "collusion"
+      ],
+      "note": "語塊：come to a conclusion（得出結論）、in conclusion（總而言之）、the conclusion of（……的結束）。conclusion 是名詞；conclude 是動詞「下結論；結束」；conclusive 是「決定性的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-concluding",
+      "word": "concluding",
+      "pos": "形容詞",
+      "meaning": "最後的；結尾的",
+      "sentences": [
+        {
+          "en": "The president of the association will give the concluding speech at the end of the conference.",
+          "zh": "協會理事長將在研討會最後發表結語演講。"
+        },
+        {
+          "en": "The concluding session of the workshop will focus on how participants can use what they have learned.",
+          "zh": "工作坊的閉幕場次將聚焦在學員如何運用所學。"
+        },
+        {
+          "en": "In the concluding chapter of the book, the author offers advice for people who want to start a business.",
+          "zh": "在書的最後一章，作者給想創業的人一些建議。"
+        },
+        {
+          "en": "Please stay for the concluding session, where we will announce the winners of the design competition.",
+          "zh": "請留下來參加閉幕場次，我們會在那時宣布設計比賽的得獎者。"
+        },
+        {
+          "en": "The concluding speech thanked all of the volunteers who helped organize the festival this year.",
+          "zh": "結語演講感謝了今年所有幫忙籌辦慶典的志工。"
+        }
+      ],
+      "distractors": [
+        "including",
+        "conducting",
+        "concurring"
+      ],
+      "note": "語塊：concluding remarks（結語）、concluding session（閉幕場次）、concluding chapter（最後一章）。concluding 是「結束時的」；final 意思接近；conclusion 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-meet-the-requirements",
+      "word": "meet the requirements",
+      "pos": "片語動詞",
+      "meaning": "符合要求",
+      "sentences": [
+        {
+          "en": "Applicants who meet the requirements for the position will be contacted for an interview next week.",
+          "zh": "符合職位要求的應徵者下週會接到面試通知。"
+        },
+        {
+          "en": "The building does not meet the requirements for safety, so it must be repaired before people can use it.",
+          "zh": "那棟建築不符合安全要求，所以必須修好才能使用。"
+        },
+        {
+          "en": "To meet the requirements for graduation, students must complete at least one internship at a local company.",
+          "zh": "為了符合畢業要求，學生必須完成至少一次實習。"
+        },
+        {
+          "en": "Products that fail to meet the requirements set by the government cannot be sold in local stores.",
+          "zh": "未符合政府要求的產品不能在當地商店販售。"
+        },
+        {
+          "en": "Our engineers will make sure that the new design will meet the requirements of the client.",
+          "zh": "我們的工程師會確保新設計符合客戶的要求。"
+        }
+      ],
+      "distractors": [
+        "meet the deadline",
+        "meet the demand",
+        "meet the press"
+      ],
+      "note": "語塊：meet the requirements for（符合……的要求）、fail to meet the requirements（未符合要求）。meet 在這裡是「符合、達到」；satisfy the requirements、fulfill the requirements 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-relocation",
+      "word": "relocation",
+      "pos": "名詞",
+      "meaning": "搬遷；調職",
+      "sentences": [
+        {
+          "en": "The company will pay relocation expenses for employees who move to the new office in another city.",
+          "zh": "公司會為搬到其他城市新辦公室的員工支付搬遷費用。"
+        },
+        {
+          "en": "Ms. Ahmed accepted the job in London because it came with a generous relocation package.",
+          "zh": "Ahmed 小姐接受倫敦的工作，因為它附帶優渥的搬遷補助方案。"
+        },
+        {
+          "en": "The relocation of the factory to the south will take about six months and cost several million dollars.",
+          "zh": "工廠遷往南部大約需要六個月，花費好幾百萬美元。"
+        },
+        {
+          "en": "The human resources department can help employees find housing as part of the relocation package.",
+          "zh": "作為搬遷補助方案的一部分，人資部可以協助員工找住處。"
+        },
+        {
+          "en": "Please submit your receipts for relocation expenses to the accounting office within thirty days of your move.",
+          "zh": "請在搬家後三十天內提交搬遷費用的收據。"
+        }
+      ],
+      "distractors": [
+        "reallocation",
+        "location",
+        "revocation"
+      ],
+      "note": "語塊：relocation expenses（搬遷費用）、relocation package（搬遷補助方案）、relocation of（……的搬遷）。relocation 是名詞；relocate 是動詞「搬遷、調任」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outdated",
+      "word": "outdated",
+      "pos": "形容詞",
+      "meaning": "過時的；老舊的",
+      "sentences": [
+        {
+          "en": "The factory is replacing its outdated equipment with new machines that use much less electricity and make less noise.",
+          "zh": "工廠正在把老舊設備換成用電量較少的新機器。"
+        },
+        {
+          "en": "Some of the information on the website is outdated, so please call our office to check the prices.",
+          "zh": "網站上有些資訊已經過時了，所以請打電話到我們辦公室確認價格。"
+        },
+        {
+          "en": "Technology changes so quickly that many computers become outdated after only a few years of use.",
+          "zh": "科技變化快到很多電腦只用幾年就過時了。"
+        },
+        {
+          "en": "The training manual contains outdated information and will be updated before the new employees arrive in May.",
+          "zh": "訓練手冊裡有過時的資訊，會在新員工到職前更新。"
+        },
+        {
+          "en": "The hotel is renovating its rooms because many guests complained that the furniture was outdated.",
+          "zh": "飯店正在翻修客房，因為客人抱怨家具很老舊。"
+        }
+      ],
+      "distractors": [
+        "updated",
+        "outlasted",
+        "outdone"
+      ],
+      "note": "語塊：outdated equipment（老舊設備）、outdated information（過時的資訊）、become outdated（變得過時）。outdated 和 out-of-date 意思相同；up-to-date 是相反詞「最新的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-packed-with",
+      "word": "packed with",
+      "pos": "其他",
+      "meaning": "擠滿；塞滿",
+      "sentences": [
+        {
+          "en": "The train station was packed with travelers on the first day of the national holiday.",
+          "zh": "國定假日第一天，火車站擠滿了旅客。"
+        },
+        {
+          "en": "The new smartphone is packed with features, including a powerful camera and a long-lasting battery.",
+          "zh": "新手機功能豐富，包括強大的相機和超長續航的電池。"
+        },
+        {
+          "en": "The conference schedule is packed with workshops, so there is little free time between sessions.",
+          "zh": "研討會的行程塞滿了工作坊，所以場次之間幾乎沒有空檔。"
+        },
+        {
+          "en": "The restaurant was packed with customers on Friday night, and many people had to wait outside.",
+          "zh": "那家餐廳週五晚上擠滿了顧客，很多人只好在外面等。"
+        },
+        {
+          "en": "The guidebook is packed with useful tips about where to eat, shop, and stay in the city.",
+          "zh": "這本旅遊指南塞滿了在城裡吃、買、住的實用建議。"
+        }
+      ],
+      "distractors": [
+        "backed with",
+        "packed up",
+        "paved with"
+      ],
+      "note": "語塊：be packed with（擠滿……）、packed with features（功能豐富）。be packed with 是「裝滿、擠滿」；be crowded with 意思接近，偏指「人很多」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-initiate",
+      "word": "initiate",
+      "pos": "動詞",
+      "meaning": "開始；發起",
+      "sentences": [
+        {
+          "en": "The company plans to initiate a project to reduce energy use in all of its offices next year.",
+          "zh": "公司計畫明年啟動一項專案，減少所有辦公室的用電量。"
+        },
+        {
+          "en": "Sales staff are trained to initiate a conversation with customers as soon as they enter the store.",
+          "zh": "銷售人員受過訓練，顧客一進店就主動和他們交談。"
+        },
+        {
+          "en": "If you are interested in working with us, please feel free to initiate contact through our website.",
+          "zh": "如果你有興趣和我們合作，歡迎透過我們的網站主動聯絡。"
+        },
+        {
+          "en": "The city will initiate a new recycling program that requires residents to separate their garbage.",
+          "zh": "市政府將推行一項新的回收計畫，要求居民垃圾分類。"
+        },
+        {
+          "en": "The manager asked Ms. Lin to initiate contact with several suppliers in Vietnam to compare prices.",
+          "zh": "經理請林小姐主動聯絡幾家越南的供應商比較價格。"
+        }
+      ],
+      "distractors": [
+        "imitate",
+        "innovate",
+        "intimidate"
+      ],
+      "note": "語塊：initiate a project（啟動專案）、initiate a conversation（開啟對話）、initiate contact（主動聯絡）。initiate 比 start、begin 正式；initiative 是名詞「主動性；新計畫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-detector",
+      "word": "detector",
+      "pos": "名詞",
+      "meaning": "偵測器",
+      "sentences": [
+        {
+          "en": "Every apartment in the building must have a smoke detector that is tested once a month.",
+          "zh": "大樓的每一戶都必須有一個每月測試一次的煙霧偵測器。"
+        },
+        {
+          "en": "All visitors must walk through a metal detector before they enter the concert hall on Saturday night.",
+          "zh": "所有訪客進入音樂廳前都必須走過金屬探測器。"
+        },
+        {
+          "en": "The factory will install a detector that warns workers when the air contains dangerous chemicals.",
+          "zh": "工廠將安裝一個偵測器，在空氣中含有危險化學物質時警告工人。"
+        },
+        {
+          "en": "Please replace the batteries in your smoke detector at least once a year to make sure it works.",
+          "zh": "請至少每年更換一次煙霧偵測器的電池，確保它正常運作。"
+        },
+        {
+          "en": "Security staff at the airport use a metal detector to check passengers and their bags.",
+          "zh": "機場的安檢人員用金屬探測器檢查乘客和他們的行李。"
+        }
+      ],
+      "distractors": [
+        "detective",
+        "director",
+        "protector"
+      ],
+      "note": "語塊：smoke detector（煙霧偵測器）、metal detector（金屬探測器）、install a detector（安裝偵測器）。detector 是「偵測的機器」；detective 是「偵探」；detect 是動詞「偵測」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-component",
+      "word": "component",
+      "pos": "名詞",
+      "meaning": "零件；組成部分",
+      "sentences": [
+        {
+          "en": "The factory produces a small electronic component that is used in smartphones and laptops around the world.",
+          "zh": "那座工廠生產一種全世界手機和筆電都使用的小型電子零件。"
+        },
+        {
+          "en": "Good communication is a key component of successful teamwork in any large company or organization.",
+          "zh": "良好的溝通是任何公司成功團隊合作的關鍵要素。"
+        },
+        {
+          "en": "The price of the car increased because one important component had to be imported from overseas.",
+          "zh": "汽車價格上漲了，因為一個重要零件必須從海外進口。"
+        },
+        {
+          "en": "Training is a key component of our plan to improve customer service in all of our stores.",
+          "zh": "訓練是我們改善所有門市客服計畫中的關鍵要素。"
+        },
+        {
+          "en": "Each component of the machine is tested carefully before it is assembled in the factory.",
+          "zh": "機器的每個零件在工廠組裝前都經過仔細測試。"
+        }
+      ],
+      "distractors": [
+        "compartment",
+        "compound",
+        "opponent"
+      ],
+      "note": "語塊：electronic component（電子零件）、key component（關鍵要素）、component of（……的組成部分）。component 是「組成整體的一部分」；part 是一般說法；element 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-check-on",
+      "word": "check on",
+      "pos": "片語動詞",
+      "meaning": "查看；確認狀況",
+      "sentences": [
+        {
+          "en": "The manager will visit the construction site every week to check on the progress of the new building.",
+          "zh": "經理每週都會到工地查看新大樓的進度。"
+        },
+        {
+          "en": "Could you call the supplier to check on the status of our order before the end of the day?",
+          "zh": "你可以在下班前打給供應商，確認我們訂單的狀況嗎？"
+        },
+        {
+          "en": "The nurse comes into the room every few hours to check on the patients during the night.",
+          "zh": "護士晚上每隔幾小時就會進房間看看病人的狀況。"
+        },
+        {
+          "en": "Please check on the delivery and let the client know if there will be any delays.",
+          "zh": "請確認一下送貨狀況，如果會有任何延誤請告知客戶。"
+        },
+        {
+          "en": "Ms. Grant stopped by the office on Saturday to check on the new employees who were working overtime.",
+          "zh": "Grant 小姐週六順道到辦公室看看正在加班的新員工。"
+        }
+      ],
+      "distractors": [
+        "check in",
+        "check out",
+        "check up"
+      ],
+      "note": "語塊：check on the progress（查看進度）、check on sb（看看某人的狀況）。check on 是「確認某人或某事的狀況」；check in 是「報到、入住」；check out 是「退房、查看」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-configure",
+      "word": "configure",
+      "pos": "動詞",
+      "meaning": "設定；配置",
+      "sentences": [
+        {
+          "en": "The IT department will configure the settings on your new laptop before you start work on Monday.",
+          "zh": "資訊部會在你週一開始上班前，把你新筆電的設定調好。"
+        },
+        {
+          "en": "It took the technicians two days to configure the system for the new office in Tokyo.",
+          "zh": "技師花了兩天替東京的新辦公室設定系統。"
+        },
+        {
+          "en": "The technician will configure the printers to print on both sides of the paper in order to save paper.",
+          "zh": "技師會把印表機設定成雙面列印，以節省紙張。"
+        },
+        {
+          "en": "Please do not try to configure the network yourself, as mistakes can affect the entire office.",
+          "zh": "請不要自己嘗試設定網路，因為出錯會影響整個辦公室。"
+        },
+        {
+          "en": "The app is easy to configure, so customers can start using it within a few minutes of downloading it.",
+          "zh": "這個 App 很容易設定，顧客下載後幾分鐘內就能開始使用。"
+        }
+      ],
+      "distractors": [
+        "confirm",
+        "figure",
+        "conform"
+      ],
+      "note": "語塊：configure the settings（調整設定）、configure the system（設定系統）、configure the printers（設定印表機）。configure 是電腦用語「設定」；set up 意思接近；configuration 是名詞「配置」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
