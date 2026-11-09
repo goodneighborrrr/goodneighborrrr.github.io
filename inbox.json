@@ -25708,6 +25708,671 @@
       ],
       "note": "語塊：mutually beneficial（互惠的）、mutually agreed（雙方同意的）。mutually 是「雙方都……」；mutual 是形容詞「互相的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-settle",
+      "word": "settle",
+      "pos": "動詞",
+      "meaning": "解決；結清；定居",
+      "sentences": [
+        {
+          "en": "The two companies hope to settle the dispute without going to court, which would be expensive for both.",
+          "zh": "兩家公司希望不上法院就解決糾紛，因為打官司對雙方都很花錢。"
+        },
+        {
+          "en": "Guests can settle the bill at the front desk or pay online before they check out of the hotel.",
+          "zh": "客人可以在櫃台結帳，或在退房前上網付款。"
+        },
+        {
+          "en": "It usually takes new employees a few weeks to settle in and learn how everything works in the office.",
+          "zh": "新員工通常需要幾週才能安頓下來，了解辦公室的運作方式。"
+        },
+        {
+          "en": "Please settle your account by the end of the month to avoid paying a late fee.",
+          "zh": "請在月底前結清帳款，以免支付滯納金。"
+        },
+        {
+          "en": "The manager met with both employees to settle the disagreement about who would lead the project.",
+          "zh": "經理和兩位員工見面，解決誰來帶領專案的意見分歧。"
+        }
+      ],
+      "distractors": [
+        "saddle",
+        "subtle",
+        "settler"
+      ],
+      "note": "語塊：settle a dispute（解決糾紛）、settle the bill（結帳）、settle in（安頓下來）。settle 可以是「解決（糾紛）」、「付清（帳單）」或「安頓、定居」；settlement 是名詞「和解；定居地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remaining",
+      "word": "remaining",
+      "pos": "形容詞",
+      "meaning": "剩下的；其餘的",
+      "sentences": [
+        {
+          "en": "There are only ten remaining seats for the concert, so please book your tickets as soon as possible.",
+          "zh": "演唱會只剩十個座位，所以請盡快訂票。"
+        },
+        {
+          "en": "Customers must pay a deposit of twenty percent and pay the remaining balance when the furniture is delivered.",
+          "zh": "顧客必須先付兩成訂金，家具送到時再付剩餘的款項。"
+        },
+        {
+          "en": "All remaining items from the summer collection will be sold at half price starting this weekend.",
+          "zh": "夏季系列剩下的所有商品從這個週末開始半價出售。"
+        },
+        {
+          "en": "The remaining members of the team will finish the project after Ms. Lee leaves the company.",
+          "zh": "李小姐離開公司後，團隊其餘成員會完成這個專案。"
+        },
+        {
+          "en": "Please return the remaining copies of the brochure to the marketing department after the trade show.",
+          "zh": "商展結束後，請把剩下的小冊子交回行銷部。"
+        }
+      ],
+      "distractors": [
+        "retaining",
+        "restraining",
+        "reigning"
+      ],
+      "note": "語塊：remaining seats（剩餘座位）、the remaining balance（剩餘餘額）、remaining items（剩下的品項）。remaining 是「剩下的」；remainder 是名詞「剩餘部分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-set",
+      "word": "set",
+      "pos": "動詞",
+      "meaning": "設定；安排；擺放",
+      "sentences": [
+        {
+          "en": "At the beginning of the year, each manager must set a goal for his or her department and share it with the team.",
+          "zh": "每年年初，每位經理都必須為部門設定目標，並和團隊分享。"
+        },
+        {
+          "en": "The two companies will meet next week to set a date for signing the final contract.",
+          "zh": "兩家公司下週會見面，訂出簽署正式合約的日期。"
+        },
+        {
+          "en": "The technician will set up the projector in the conference room before the meeting begins at nine.",
+          "zh": "技師會在九點開會前，在會議室架好投影機。"
+        },
+        {
+          "en": "It is important to set a goal that is challenging but realistic for new employees.",
+          "zh": "為新員工設定有挑戰性但實際的目標很重要。"
+        },
+        {
+          "en": "The company plans to set up a new office in Singapore to manage its business in Southeast Asia.",
+          "zh": "公司計畫在新加坡設立新辦公室，管理東南亞的業務。"
+        }
+      ],
+      "distractors": [
+        "sit",
+        "seat",
+        "settle"
+      ],
+      "note": "語塊：set a goal（設定目標）、set a date（訂日期）、set up（設立）。set 的過去式和過去分詞都是 set；set up 是「設立、架設」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-identify",
+      "word": "identify",
+      "pos": "動詞",
+      "meaning": "找出；確認；辨識",
+      "sentences": [
+        {
+          "en": "Engineers are working to identify the problem that caused the factory's machines to stop suddenly.",
+          "zh": "工程師正在努力找出造成工廠機器突然停止的問題。"
+        },
+        {
+          "en": "The investigation will try to identify the cause of the fire that damaged the warehouse last week.",
+          "zh": "調查將設法找出上週損壞倉庫那場火災的原因。"
+        },
+        {
+          "en": "Please identify yourself to the security guard when you arrive at the building after business hours.",
+          "zh": "下班時間抵達大樓時，請向保全表明身分。"
+        },
+        {
+          "en": "The survey helped us identify the products that customers want to buy most during the holidays.",
+          "zh": "調查幫助我們找出顧客在節慶期間最想買的產品。"
+        },
+        {
+          "en": "It took the IT team several hours to identify the problem with the company's email system.",
+          "zh": "資訊團隊花了好幾個小時才找出公司電子郵件系統的問題。"
+        }
+      ],
+      "distractors": [
+        "identity",
+        "indemnify",
+        "intensify"
+      ],
+      "note": "語塊：identify the problem（找出問題）、identify the cause（找出原因）、identify oneself（表明身分）。identify 是「認出、找出」；identity 是名詞「身分」；identification 是「身分證明」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-eliminate",
+      "word": "eliminate",
+      "pos": "動詞",
+      "meaning": "消除；淘汰",
+      "sentences": [
+        {
+          "en": "The new system will eliminate the need for paper forms, saving the company a lot of money each year.",
+          "zh": "新系統將不再需要紙本表格，每年替公司省下很多錢。"
+        },
+        {
+          "en": "The factory has introduced several changes to eliminate waste and reduce the cost of production.",
+          "zh": "工廠推行了幾項改變，以消除浪費並降低生產成本。"
+        },
+        {
+          "en": "The new rules will eliminate the need for drivers to show their tickets when they leave the parking garage.",
+          "zh": "新規定讓駕駛離開停車場時不再需要出示票卡。"
+        },
+        {
+          "en": "Using online payments will eliminate the need for customers to wait in line at the cashier.",
+          "zh": "使用線上付款將讓顧客不再需要在收銀台排隊。"
+        },
+        {
+          "en": "The new design will eliminate most of the noise that the old machine made while it was running.",
+          "zh": "新設計將消除舊機器運轉時發出的大部分噪音。"
+        }
+      ],
+      "distractors": [
+        "illuminate",
+        "estimate",
+        "emigrate"
+      ],
+      "note": "語塊：eliminate waste（消除浪費）、eliminate the need for（不再需要……）。eliminate 是「完全去除」；reduce 是「減少」；elimination 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rate",
+      "word": "rate",
+      "pos": "名詞",
+      "meaning": "比率；費用；速度",
+      "sentences": [
+        {
+          "en": "The bank announced that it will raise the interest rate on home loans starting next month.",
+          "zh": "銀行宣布從下個月起調高房貸利率。"
+        },
+        {
+          "en": "Travelers should check the exchange rate before they change money at the airport or a local bank.",
+          "zh": "旅客在機場換錢之前，應該先查一下匯率。"
+        },
+        {
+          "en": "The company is growing at a rate of about fifteen percent every year, which is faster than its competitors.",
+          "zh": "公司以每年大約百分之十五的速度成長，比競爭對手還快。"
+        },
+        {
+          "en": "The hotel offers a special rate for guests who stay for more than five nights during the winter.",
+          "zh": "飯店為冬天住五晚以上的客人提供特別優惠價。"
+        },
+        {
+          "en": "The unemployment rate in the region has fallen since the new factory opened two years ago.",
+          "zh": "自從新工廠兩年前開工後，那個地區的失業率下降了。"
+        }
+      ],
+      "distractors": [
+        "rat",
+        "rare",
+        "late"
+      ],
+      "note": "語塊：interest rate（利率）、exchange rate（匯率）、at a rate of（以……的速度）。rate 可以是「比率」、「費用」或「速度」；rating 是「評分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-coincide-with",
+      "word": "coincide with",
+      "pos": "片語動詞",
+      "meaning": "與……同時發生",
+      "sentences": [
+        {
+          "en": "The opening of the new store will coincide with the start of the summer sale in June.",
+          "zh": "新店開幕剛好碰上六月夏季特賣的開始。"
+        },
+        {
+          "en": "The conference was planned to coincide with the city's annual film festival so that visitors could enjoy both.",
+          "zh": "研討會被安排和城市年度影展同時舉行，讓訪客兩個都能參加。"
+        },
+        {
+          "en": "The release of the new phone will coincide with the holiday season, when sales are usually highest.",
+          "zh": "新手機的上市會和節慶季同時，那時銷售通常最高。"
+        },
+        {
+          "en": "The increase in sales seems to coincide with the start of our new television advertising campaign.",
+          "zh": "銷售增加似乎剛好和我們新的電視廣告活動開始的時間一致。"
+        },
+        {
+          "en": "My vacation will coincide with the trade show, so Ms. Wu will attend the event in my place.",
+          "zh": "我的假期剛好碰上商展，所以吳小姐會代替我參加活動。"
+        }
+      ],
+      "distractors": [
+        "collide with",
+        "comply with",
+        "cope with"
+      ],
+      "note": "語塊：coincide with（和……同時發生）。coincide with 是「時間剛好重疊」；coincidence 是名詞「巧合」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-leave",
+      "word": "leave",
+      "pos": "名詞",
+      "meaning": "休假；准假",
+      "sentences": [
+        {
+          "en": "Employees who are ill can take up to ten days of paid sick leave each year.",
+          "zh": "生病的員工每年最多可以請十天有薪病假。"
+        },
+        {
+          "en": "Ms. Rossi will be on maternity leave for six months starting in March, so Mr. Kim will handle her clients.",
+          "zh": "Rossi 小姐從三月開始休六個月產假，所以金先生會負責她的客戶。"
+        },
+        {
+          "en": "The manager is on leave this week, so please send any urgent questions to his assistant.",
+          "zh": "經理這週休假，所以有任何緊急問題請寄給他的助理。"
+        },
+        {
+          "en": "Please submit your request for annual leave at least two weeks before the dates you plan to be away.",
+          "zh": "請在預計休假日期的至少兩週前提出年假申請。"
+        },
+        {
+          "en": "The company recently increased the length of paid maternity leave from three months to six months.",
+          "zh": "公司最近把有薪產假從三個月延長到六個月。"
+        }
+      ],
+      "distractors": [
+        "lease",
+        "leaf",
+        "league"
+      ],
+      "note": "語塊：sick leave（病假）、maternity leave（產假）、on leave（休假中）。leave 當名詞是「休假」；holiday、vacation 也是「假期」，但 leave 常指「請假」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reference",
+      "word": "reference",
+      "pos": "名詞",
+      "meaning": "推薦人；參考；提及",
+      "sentences": [
+        {
+          "en": "Applicants should include a letter of reference from a previous employer with their online application.",
+          "zh": "應徵者應在申請資料中附上前雇主的推薦信。"
+        },
+        {
+          "en": "Please keep a copy of this receipt for future reference in case you need to return the item.",
+          "zh": "請保留這張收據的副本供日後參考，以防你需要退貨。"
+        },
+        {
+          "en": "The speaker made reference to several recent studies about the benefits of working from home.",
+          "zh": "講者提到了幾項關於在家工作好處的最新研究。"
+        },
+        {
+          "en": "Ms. Grant agreed to be a reference for her former assistant, who is applying for a job at a bank.",
+          "zh": "Grant 小姐同意當她前助理的推薦人，那位助理正在應徵銀行的工作。"
+        },
+        {
+          "en": "Save the instruction manual for future reference, as it explains how to clean and repair the machine.",
+          "zh": "請保留使用手冊供日後參考，裡面說明了如何清潔和修理機器。"
+        }
+      ],
+      "distractors": [
+        "preference",
+        "inference",
+        "conference"
+      ],
+      "note": "語塊：letter of reference（推薦信）、for future reference（供日後參考）、make reference to（提到）。reference 可以指「推薦人、推薦信」，也可以是「參考」；refer 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-crucial",
+      "word": "crucial",
+      "pos": "形容詞",
+      "meaning": "關鍵的；極重要的",
+      "sentences": [
+        {
+          "en": "Good communication plays a crucial role in the success of any team, especially when people work remotely.",
+          "zh": "良好的溝通對任何團隊的成功都扮演關鍵角色，尤其是遠距工作的時候。"
+        },
+        {
+          "en": "Customer feedback is crucial to improving our products and making sure that people continue to buy them.",
+          "zh": "顧客意見對改善我們的產品、確保大家持續購買至關重要。"
+        },
+        {
+          "en": "The board will make a crucial decision next week about whether to open a factory in South America.",
+          "zh": "董事會下週將對是否在南美設廠做出重大決定。"
+        },
+        {
+          "en": "It is crucial to back up your files regularly so that you do not lose important work.",
+          "zh": "定期備份檔案非常重要，這樣才不會遺失重要的工作。"
+        },
+        {
+          "en": "Volunteers played a crucial role in organizing the city marathon, which attracted more than ten thousand runners.",
+          "zh": "志工在籌辦城市馬拉松中扮演了關鍵角色，那場比賽吸引了一萬多名跑者。"
+        }
+      ],
+      "distractors": [
+        "cruel",
+        "critical",
+        "cordial"
+      ],
+      "note": "語塊：crucial role（關鍵角色）、crucial to（對……至關重要）、crucial decision（重大決定）。crucial 比 important 更強烈，表示「非常關鍵」；essential、vital 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inhabit",
+      "word": "inhabit",
+      "pos": "動詞",
+      "meaning": "居住於；棲息於",
+      "sentences": [
+        {
+          "en": "Many rare birds inhabit the wetlands near the river, so the area is protected by law.",
+          "zh": "很多稀有鳥類棲息在河邊的濕地，所以那個地區受法律保護。"
+        },
+        {
+          "en": "Only a few fishing families continued to inhabit the island until the new bridge was built in 2010.",
+          "zh": "在 2010 年新橋建好之前，只有幾戶漁家繼續住在那座島上。"
+        },
+        {
+          "en": "Scientists are studying the animals that inhabit the forest to understand how climate change affects them.",
+          "zh": "科學家正在研究棲息在森林裡的動物，了解氣候變遷如何影響牠們。"
+        },
+        {
+          "en": "More than two million people inhabit the city, which has grown quickly over the past twenty years.",
+          "zh": "這座城市有兩百多萬人居住，過去二十年快速成長。"
+        },
+        {
+          "en": "The park's guides will explain which kinds of fish inhabit the lake and how visitors can help protect them.",
+          "zh": "公園導覽員會說明湖裡住著哪些魚，以及遊客可以怎麼幫忙保護牠們。"
+        }
+      ],
+      "distractors": [
+        "inhibit",
+        "habit",
+        "inherit"
+      ],
+      "note": "語塊：inhabit an area（居住在某地區）、inhabit the island（住在島上）、inhabit the forest（棲息在森林）、inhabit the city（住在城市）。inhabit 是及物動詞，後面直接接地點（inhabit the forest）；inhabitant 是「居民」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ecosystem",
+      "word": "ecosystem",
+      "pos": "名詞",
+      "meaning": "生態系統",
+      "sentences": [
+        {
+          "en": "The new factory must follow strict rules to protect the ecosystem of the nearby river and forest.",
+          "zh": "新工廠必須遵守嚴格規定，保護附近河川和森林的生態系統。"
+        },
+        {
+          "en": "Plastic waste can seriously damage the local ecosystem, so the town has banned plastic bags.",
+          "zh": "塑膠垃圾可能嚴重破壞當地的生態系，所以小鎮禁止使用塑膠袋。"
+        },
+        {
+          "en": "Visitors are asked to stay on the paths because the mountain has a fragile ecosystem.",
+          "zh": "遊客被要求待在步道上，因為那座山的生態系很脆弱。"
+        },
+        {
+          "en": "The company has built an ecosystem of apps and devices that work smoothly together for its customers.",
+          "zh": "那家公司建立了一個彼此能順暢配合的 App 和裝置體系。"
+        },
+        {
+          "en": "Scientists warn that warmer ocean temperatures could destroy the fragile ecosystem of the coral reef.",
+          "zh": "科學家警告，海水溫度升高可能會摧毀珊瑚礁脆弱的生態系。"
+        }
+      ],
+      "distractors": [
+        "economy",
+        "ecology",
+        "ecotourism"
+      ],
+      "note": "語塊：protect the ecosystem（保護生態系統）、local ecosystem（當地生態系）、fragile ecosystem（脆弱的生態系）。ecosystem 原指自然的「生態系」，商業上也比喻「產品與服務構成的體系」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dispatch",
+      "word": "dispatch",
+      "pos": "動詞",
+      "meaning": "派遣；發送",
+      "sentences": [
+        {
+          "en": "We will dispatch your order within twenty-four hours, and you will receive a tracking number by email.",
+          "zh": "我們會在二十四小時內出貨，您會收到電子郵件寄來的追蹤號碼。"
+        },
+        {
+          "en": "The company will dispatch a technician to your home to repair the air conditioner tomorrow morning.",
+          "zh": "公司明天早上會派技師到你家修冷氣。"
+        },
+        {
+          "en": "Our warehouse staff will dispatch an order on the same day if it is placed before two o'clock.",
+          "zh": "如果在兩點前下單，倉庫員工會在當天出貨。"
+        },
+        {
+          "en": "The city decided to dispatch extra buses to the stadium because thousands of fans are expected at the game.",
+          "zh": "市政府決定加派公車到體育場，因為預計會有數千名球迷觀賽。"
+        },
+        {
+          "en": "The hotel will dispatch a car to pick you up at the airport if you send us your flight details.",
+          "zh": "如果你把航班資訊寄給我們，飯店會派車到機場接你。"
+        }
+      ],
+      "distractors": [
+        "dispose",
+        "disperse",
+        "despair"
+      ],
+      "note": "語塊：dispatch an order（出貨）、dispatch a technician（派技師）、dispatch extra buses（加派公車）。dispatch 比 send 正式，常用在「出貨」或「派人」；名詞 dispatch 是「發送」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-encounter",
+      "word": "encounter",
+      "pos": "動詞",
+      "meaning": "遇到；碰到（困難）",
+      "sentences": [
+        {
+          "en": "If you encounter problems while using the software, please contact our technical support team by phone or email.",
+          "zh": "使用軟體時如果遇到問題，請聯絡我們的技術支援團隊。"
+        },
+        {
+          "en": "Many small businesses encounter difficulties when they try to get loans from large banks in the city.",
+          "zh": "很多小企業在向大銀行貸款時都會遇到困難。"
+        },
+        {
+          "en": "Travelers may encounter delays at the airport this weekend because of the heavy snow in the north.",
+          "zh": "因為大雪，旅客這個週末在機場可能會遇到延誤。"
+        },
+        {
+          "en": "New employees often encounter difficulties during their first month, so we assign each one a mentor.",
+          "zh": "新員工在第一個月常會遇到困難，所以我們為每個人安排一位導師。"
+        },
+        {
+          "en": "The engineers did not expect to encounter problems with the bridge, but they found cracks in the concrete.",
+          "zh": "工程師沒料到橋會出問題，但他們在混凝土上發現了裂縫。"
+        }
+      ],
+      "distractors": [
+        "counter",
+        "enforce",
+        "encourage"
+      ],
+      "note": "語塊：encounter problems（遇到問題）、encounter difficulties（遇到困難）、encounter delays（遇到延誤）。encounter 比 meet、face 正式，常用在「遇到問題」；當名詞是「相遇」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-involve",
+      "word": "involve",
+      "pos": "動詞",
+      "meaning": "包含；涉及；使參與",
+      "sentences": [
+        {
+          "en": "The position will involve traveling to Asia several times a year to meet with suppliers.",
+          "zh": "這個職位需要一年出差到亞洲好幾次和供應商見面。"
+        },
+        {
+          "en": "The manager tries to involve every member of the team in important decisions about the project.",
+          "zh": "經理努力讓每位組員都參與專案的重要決策。"
+        },
+        {
+          "en": "The renovation will involve replacing all of the windows and painting the walls of the building.",
+          "zh": "翻修工程包括更換大樓所有的窗戶並粉刷牆面。"
+        },
+        {
+          "en": "Ms. Chen's new role will involve managing several large projects for clients in Japan and Korea.",
+          "zh": "陳小姐的新職務將包括管理日本和韓國客戶的好幾個大型專案。"
+        },
+        {
+          "en": "The new job does not involve much travel, so it is a good choice for people with young children.",
+          "zh": "這份新工作不太需要出差，所以對有小孩的人來說是好選擇。"
+        }
+      ],
+      "distractors": [
+        "evolve",
+        "revolve",
+        "invoke"
+      ],
+      "note": "語塊：involve sb in（讓某人參與）、be involved in（參與……）、involve traveling（需要出差）。involve 是「牽涉、包含」；be involved in 是「參與其中」；involvement 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adapt",
+      "word": "adapt",
+      "pos": "動詞",
+      "meaning": "適應；改編；調整",
+      "sentences": [
+        {
+          "en": "It usually takes new employees a few weeks to adapt to the fast pace of work in our office.",
+          "zh": "新員工通常需要幾週才能適應我們辦公室的快速工作步調。"
+        },
+        {
+          "en": "Companies must adapt to changes in the market if they want to continue to grow.",
+          "zh": "公司如果想持續成長，就必須適應市場的變化。"
+        },
+        {
+          "en": "The popular novel will be adapted for television, and the director plans to adapt it into a ten-part series.",
+          "zh": "那本熱門小說將被改編成電視劇，導演打算把它改編成十集的影集。"
+        },
+        {
+          "en": "The restaurant had to adapt its menu for customers who prefer vegetarian and healthy dishes.",
+          "zh": "餐廳只好為偏好素食和健康料理的顧客調整菜單。"
+        },
+        {
+          "en": "Our trainers help staff adapt to the new software by offering short lessons every morning.",
+          "zh": "我們的訓練人員每天早上提供簡短的課程，幫助員工適應新軟體。"
+        }
+      ],
+      "distractors": [
+        "adopt",
+        "adept",
+        "adjust"
+      ],
+      "note": "語塊：adapt to（適應……）、adapt for（為……改編）、be adapted from（改編自）。adapt 是「適應、改編」；adopt 是「採用、收養」，只差一個字母，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attachment",
+      "word": "attachment",
+      "pos": "名詞",
+      "meaning": "附件；附加裝置；依戀",
+      "sentences": [
+        {
+          "en": "Please open the attachment to see the full schedule for next week's conference in Seoul.",
+          "zh": "請打開附件查看下週首爾研討會的完整行程。"
+        },
+        {
+          "en": "I will send the contract as an attachment so that you can review it before our meeting.",
+          "zh": "我會把合約當附件寄出，讓你在我們開會前先看。"
+        },
+        {
+          "en": "For security reasons, do not open an email attachment from someone that you do not know.",
+          "zh": "為了安全起見，不要打開陌生人寄來的電子郵件附件。"
+        },
+        {
+          "en": "The vacuum cleaner comes with a special attachment for cleaning sofas, curtains, and car seats.",
+          "zh": "那台吸塵器附有一個專門清潔沙發和汽車座椅的配件。"
+        },
+        {
+          "en": "Please check that the attachment is not too large before you send it to the client by email.",
+          "zh": "用電子郵件寄給客戶前，請確認附件不會太大。"
+        }
+      ],
+      "distractors": [
+        "attainment",
+        "apartment",
+        "arrangement"
+      ],
+      "note": "語塊：open the attachment（打開附件）、send as an attachment（以附件寄出）、email attachment（電子郵件附件）。attachment 是電子郵件的「附件」；attach 是動詞「附加」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exist",
+      "word": "exist",
+      "pos": "動詞",
+      "meaning": "存在",
+      "sentences": [
+        {
+          "en": "Many of the old factories in the area no longer exist and have been replaced by apartment buildings.",
+          "zh": "這一帶很多舊工廠已經不存在了，被公寓大樓取代。"
+        },
+        {
+          "en": "Problems with the old software still exist, so the IT team is planning to install a new system.",
+          "zh": "舊軟體的問題仍然存在，所以資訊團隊打算安裝新系統。"
+        },
+        {
+          "en": "The company that made this camera does not exist anymore, so it is difficult to find spare parts.",
+          "zh": "製造這台相機的公司已經不存在了，所以很難找到備用零件。"
+        },
+        {
+          "en": "Small family-owned shops still exist in the old part of the city, where they sell traditional food.",
+          "zh": "老城區仍有家族經營的小店，在那裡賣傳統食物。"
+        },
+        {
+          "en": "Opportunities for growth exist in many developing countries, especially in the technology and energy sectors.",
+          "zh": "很多開發中國家都存在成長機會，尤其是在科技業。"
+        }
+      ],
+      "distractors": [
+        "exit",
+        "insist",
+        "assist"
+      ],
+      "note": "語塊：still exist（仍然存在）、no longer exist（已不存在）。exist 是不及物動詞；existing 是形容詞「現有的」；existence 是名詞「存在」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depression",
+      "word": "depression",
+      "pos": "名詞",
+      "meaning": "經濟蕭條；憂鬱；低氣壓",
+      "sentences": [
+        {
+          "en": "Many businesses closed during the economic depression, and thousands of people in the region lost their jobs.",
+          "zh": "經濟蕭條期間，很多公司倒閉，數千人失業。"
+        },
+        {
+          "en": "The museum's new exhibit shows how families lived during the Great Depression in the 1930s.",
+          "zh": "博物館的新展覽展示了 1930 年代經濟大恐慌時期家庭的生活樣貌。"
+        },
+        {
+          "en": "A tropical depression is expected to bring heavy rain to the southern coast this weekend.",
+          "zh": "一個熱帶性低氣壓預計這個週末會為南部海岸帶來大雨。"
+        },
+        {
+          "en": "The company offers free counseling for employees who are dealing with stress or depression at work or at home.",
+          "zh": "公司為正在面對壓力或憂鬱的員工提供免費諮商。"
+        },
+        {
+          "en": "Economists do not expect another economic depression, but they warn that growth may slow next year.",
+          "zh": "經濟學家不認為會再出現經濟蕭條，但警告明年成長可能放緩。"
+        }
+      ],
+      "distractors": [
+        "expression",
+        "impression",
+        "deception"
+      ],
+      "note": "語塊：economic depression（經濟蕭條）、the Great Depression（經濟大恐慌）、tropical depression（熱帶性低氣壓）。depression 可以是經濟「蕭條」、心理「憂鬱」，或天氣「低氣壓」；recession 是程度較輕的「衰退」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
