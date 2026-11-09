@@ -29873,6 +29873,706 @@
       ],
       "note": "語塊：double-check the details（再次確認細節）、double-check that（再次確認……）。double-check 是「再檢查一次」；check 是「檢查」。也可以寫作 double check。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appreciate",
+      "word": "appreciate",
+      "pos": "動詞",
+      "meaning": "感謝；欣賞；理解",
+      "sentences": [
+        {
+          "en": "We appreciate your help in organizing the conference and hope that you can join us again next year.",
+          "zh": "感謝你幫忙籌辦研討會，希望你明年能再加入我們。"
+        },
+        {
+          "en": "I would appreciate it if you could send me the report before the meeting on Thursday morning.",
+          "zh": "如果你能在週四早上開會前把報告寄給我，我將不勝感激。"
+        },
+        {
+          "en": "Customers who appreciate the value of handmade furniture are willing to pay more for our products.",
+          "zh": "懂得手工家具價值的顧客願意為我們的產品付更多錢。"
+        },
+        {
+          "en": "The manager told the team that she would appreciate their patience while the new system is installed.",
+          "zh": "經理告訴團隊，在新系統安裝期間，她很感謝大家的耐心。"
+        },
+        {
+          "en": "Many visitors appreciate the quiet atmosphere of the library, which is especially popular with university students.",
+          "zh": "很多訪客很欣賞圖書館安靜的氣氛，那裡很受學生歡迎。"
+        }
+      ],
+      "distractors": [
+        "appreciative",
+        "depreciate",
+        "approximate"
+      ],
+      "note": "語塊：appreciate your help（感謝你的幫忙）、would appreciate it if（如果……將不勝感激）、appreciate the value of（了解……的價值）。appreciate 後面接事物（appreciate your help），不直接接人；thank 才接人。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-flexible-working-hours",
+      "word": "flexible working hours",
+      "pos": "名詞",
+      "meaning": "彈性工時",
+      "sentences": [
+        {
+          "en": "Many companies now offer flexible working hours so that employees can avoid traffic during rush hour.",
+          "zh": "現在很多公司提供彈性工時，讓員工可以避開尖峰時段的交通。"
+        },
+        {
+          "en": "Parents with young children often look for jobs with flexible working hours and the option to work from home.",
+          "zh": "有幼童的父母常會找有彈性工時和可在家工作的職位。"
+        },
+        {
+          "en": "Employees at our firm enjoy flexible working hours, as long as they are in the office between ten and three.",
+          "zh": "我們公司的員工享有彈性工時，只要十點到三點之間在辦公室就好。"
+        },
+        {
+          "en": "Studies show that flexible working hours can improve job satisfaction and reduce stress among workers.",
+          "zh": "研究顯示，彈性工時能提高工作滿意度並減少員工的壓力。"
+        },
+        {
+          "en": "The company decided to offer flexible working hours after employees asked for more balance between work and family.",
+          "zh": "員工要求工作和家庭之間更平衡後，公司決定提供彈性工時。"
+        }
+      ],
+      "distractors": [
+        "regular working hours",
+        "office hours",
+        "opening hours"
+      ],
+      "note": "語塊：offer flexible working hours（提供彈性工時）、enjoy flexible working hours（享有彈性工時）。flexible 是「有彈性的」；flextime 是「彈性上班制」的另一種說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-a-number-of",
+      "word": "a number of",
+      "pos": "其他",
+      "meaning": "一些；許多",
+      "sentences": [
+        {
+          "en": "A number of customers have asked whether the store will be open on the national holiday next week.",
+          "zh": "有一些顧客問過商店下週國定假日會不會營業。"
+        },
+        {
+          "en": "A number of famous people attended the opening of the new art museum on Saturday afternoon.",
+          "zh": "有一些名人參加了週六下午新美術館的開幕。"
+        },
+        {
+          "en": "The company has received a number of complaints about the noise from its new factory near the river.",
+          "zh": "公司收到了一些關於河邊新工廠噪音的投訴。"
+        },
+        {
+          "en": "A number of employees will be working from home this week because the office is being renovated.",
+          "zh": "這週有一些員工會在家工作，因為辦公室正在翻修。"
+        },
+        {
+          "en": "A number of tourists visit the island every summer to enjoy its beaches and seafood restaurants.",
+          "zh": "每年夏天都有一些觀光客造訪那座島，享受海灘和海鮮餐廳。"
+        }
+      ],
+      "distractors": [
+        "the number of",
+        "a lot of",
+        "a couple of"
+      ],
+      "note": "語塊：a number of customers（一些顧客）、a number of complaints（一些投訴）、a number of employees（一些員工）。a number of 是「一些」，動詞用複數；the number of 是「……的數量」，動詞用單數。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dispute",
+      "word": "dispute",
+      "pos": "名詞",
+      "meaning": "爭論；糾紛",
+      "sentences": [
+        {
+          "en": "The two companies hired lawyers to help them settle a dispute about the terms of their contract.",
+          "zh": "兩家公司請律師幫忙解決合約條款的糾紛。"
+        },
+        {
+          "en": "There has been a long dispute over the price of the land between the developer and the city.",
+          "zh": "開發商和市政府之間對土地價格有長期的爭議。"
+        },
+        {
+          "en": "The amount of money that the supplier owes us is still in dispute, so we have not paid the invoice.",
+          "zh": "供應商欠我們的金額還有爭議，所以我們還沒付那張發票。"
+        },
+        {
+          "en": "The union and the management are trying to settle a dispute about working hours before the end of the month.",
+          "zh": "工會和資方正努力在月底前解決工時的糾紛。"
+        },
+        {
+          "en": "A dispute over parking spaces between two neighbors was finally solved by the building manager.",
+          "zh": "兩位鄰居之間的停車位糾紛最後由大樓管理員解決了。"
+        }
+      ],
+      "distractors": [
+        "disrupt",
+        "dispose",
+        "repute"
+      ],
+      "note": "語塊：settle a dispute（解決糾紛）、a dispute over（關於……的爭議）、in dispute（有爭議的）。dispute 可以當名詞或動詞；argument 意思接近，dispute 比較正式、常指法律或商業糾紛。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-good-use-of",
+      "word": "make good use of",
+      "pos": "片語動詞",
+      "meaning": "善用；充分利用",
+      "sentences": [
+        {
+          "en": "The new office layout makes it easier to make good use of space and fit more desks into each room.",
+          "zh": "新的辦公室配置讓空間更容易被善用，每個房間能擺更多桌子。"
+        },
+        {
+          "en": "Employees who travel by train often make good use of time by answering emails during the journey.",
+          "zh": "搭火車通勤的員工常常善用時間，在路上回覆電子郵件。"
+        },
+        {
+          "en": "The restaurant tries to make good use of fresh ingredients so that very little food is wasted.",
+          "zh": "那家餐廳盡量善用新鮮食材，讓浪費的食物很少。"
+        },
+        {
+          "en": "To make good use of your vacation days, please plan your holidays at the beginning of the year.",
+          "zh": "為了善用你的休假天數，請在年初就規劃假期。"
+        },
+        {
+          "en": "The company plans to make good use of the old warehouse by turning it into a training center.",
+          "zh": "公司計畫善用舊倉庫，把它改建成訓練中心。"
+        }
+      ],
+      "distractors": [
+        "make sense of",
+        "make fun of",
+        "make room for"
+      ],
+      "note": "語塊：make good use of time（善用時間）、make good use of space（善用空間）、make good use of your vacation（善用假期）。make good use of 是「好好利用」；make the most of 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-celebrity",
+      "word": "celebrity",
+      "pos": "名詞",
+      "meaning": "名人",
+      "sentences": [
+        {
+          "en": "The company hired a famous celebrity to appear in its television commercials for the new sports drink.",
+          "zh": "公司聘請一位知名人士為新運動飲料拍電視廣告。"
+        },
+        {
+          "en": "The new restaurant was opened by a celebrity chef who has his own cooking show on television.",
+          "zh": "那家新餐廳是由一位在電視上有自己烹飪節目的名廚開的。"
+        },
+        {
+          "en": "A celebrity guest will attend the opening night of the film festival and sign autographs for fans.",
+          "zh": "一位名人來賓會出席影展的開幕夜，為粉絲簽名。"
+        },
+        {
+          "en": "Many brands pay a celebrity to post about their products on social media in order to reach young people.",
+          "zh": "很多品牌付錢請名人在社群媒體上發文介紹產品，以接觸年輕人。"
+        },
+        {
+          "en": "The charity dinner raised a lot of money because a celebrity chef agreed to cook for the guests.",
+          "zh": "那場慈善晚宴募到很多錢，因為一位名廚同意為賓客下廚。"
+        }
+      ],
+      "distractors": [
+        "celebration",
+        "sincerity",
+        "publicity"
+      ],
+      "note": "語塊：famous celebrity（知名人士）、celebrity chef（名廚）、celebrity guest（名人來賓）。celebrity 是「名人」；celebration 是「慶祝活動」；celebrate 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-product-line",
+      "word": "product line",
+      "pos": "名詞",
+      "meaning": "產品線；產品系列",
+      "sentences": [
+        {
+          "en": "The cosmetics company will launch a product line for men at department stores next spring.",
+          "zh": "那家化妝品公司明年春天會在百貨公司推出男性產品線。"
+        },
+        {
+          "en": "The bakery plans to expand its product line by adding gluten-free breads and cakes this year.",
+          "zh": "那家麵包店計畫今年增加無麩質麵包和蛋糕，擴充產品線。"
+        },
+        {
+          "en": "Our new product line of kitchen appliances has been very popular with young families in the city.",
+          "zh": "我們新系列的廚房家電很受年輕家庭歡迎。"
+        },
+        {
+          "en": "The company decided to stop selling its old product line because sales had been falling for several years.",
+          "zh": "公司決定停售舊的產品線，因為銷售已經連續好幾年下滑。"
+        },
+        {
+          "en": "The marketing team created a new advertising campaign to promote the new product line online.",
+          "zh": "行銷團隊製作了新的廣告活動，在網路上推廣新產品線。"
+        }
+      ],
+      "distractors": [
+        "production line",
+        "assembly line",
+        "bottom line"
+      ],
+      "note": "語塊：launch a product line（推出產品線）、expand a product line（擴充產品線）、new product line（新產品線）。product line 是「同一系列的產品」；production line 是「生產線」，兩者不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-abstain-from",
+      "word": "abstain from",
+      "pos": "片語動詞",
+      "meaning": "戒除；避免；（投票）棄權",
+      "sentences": [
+        {
+          "en": "Three members of the committee decided to abstain from voting because they did not have enough information.",
+          "zh": "三位委員決定棄權不投票，因為他們沒有足夠的資訊。"
+        },
+        {
+          "en": "Patients are asked to abstain from food and drink for eight hours before the medical examination.",
+          "zh": "病人在健康檢查前八小時被要求禁食禁水。"
+        },
+        {
+          "en": "Pilots must abstain from alcohol for at least twelve hours before they fly an aircraft.",
+          "zh": "飛行員在駕駛飛機前至少十二小時必須禁酒。"
+        },
+        {
+          "en": "Employees involved in the project should abstain from voting on the proposal to avoid any conflict of interest.",
+          "zh": "參與專案的員工應該對提案投票棄權，以避免利益衝突。"
+        },
+        {
+          "en": "The doctor advised Mr. Brown to abstain from alcohol and coffee while he is taking the medication.",
+          "zh": "醫生建議 Brown 先生服藥期間戒酒、不喝咖啡。"
+        }
+      ],
+      "distractors": [
+        "refrain from",
+        "obtain from",
+        "retain from"
+      ],
+      "note": "語塊：abstain from voting（投票棄權）、abstain from alcohol（戒酒）。abstain from 是正式的「不做、克制」；refrain from 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-carry-out",
+      "word": "carry out",
+      "pos": "片語動詞",
+      "meaning": "執行；實施",
+      "sentences": [
+        {
+          "en": "The marketing department will carry out a survey to find out what customers think about our new logo.",
+          "zh": "行銷部會進行一項調查，了解顧客對我們新商標的看法。"
+        },
+        {
+          "en": "Scientists at the university carry out research on new medicines for heart disease and diabetes.",
+          "zh": "那所大學的科學家從事心臟病和糖尿病新藥的研究。"
+        },
+        {
+          "en": "The manager asked the team to carry out the plan as quickly as possible before the busy season begins.",
+          "zh": "經理要團隊在旺季開始前盡快執行計畫。"
+        },
+        {
+          "en": "Inspectors will carry out a safety check of the building before it opens to the public next month.",
+          "zh": "大樓下個月對外開放前，檢查員會進行一次安全檢查。"
+        },
+        {
+          "en": "We need more staff and a larger budget in order to carry out a plan of this size successfully.",
+          "zh": "我們需要更多人手和更多預算，才能成功執行這種規模的計畫。"
+        }
+      ],
+      "distractors": [
+        "carry on",
+        "carry over",
+        "carry off"
+      ],
+      "note": "語塊：carry out a survey（進行調查）、carry out research（從事研究）、carry out a plan（執行計畫）。carry out 是「執行、完成（計畫、任務）」；conduct 意思接近，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incentive",
+      "word": "incentive",
+      "pos": "名詞",
+      "meaning": "誘因；獎勵",
+      "sentences": [
+        {
+          "en": "The company offers an incentive of five hundred dollars to employees who reach their sales targets.",
+          "zh": "公司提供五百美元獎勵給達成業績目標的員工。"
+        },
+        {
+          "en": "The government introduced a tax incentive to encourage people to buy electric cars instead of gas cars.",
+          "zh": "政府推出租稅優惠，鼓勵民眾買電動車而不是汽油車。"
+        },
+        {
+          "en": "Free parking is a good incentive to attract more shoppers to the new mall outside the city.",
+          "zh": "免費停車是吸引更多購物者到城外新購物中心的好誘因。"
+        },
+        {
+          "en": "Customers have an incentive to join the loyalty program because members receive special discounts and free gifts.",
+          "zh": "顧客有加入忠誠計畫的誘因，因為會員享有特別折扣。"
+        },
+        {
+          "en": "The city plans to offer an incentive to businesses that hire young people from the local area.",
+          "zh": "市政府計畫提供獎勵給聘用當地年輕人的企業。"
+        }
+      ],
+      "distractors": [
+        "inventive",
+        "intensive",
+        "incident"
+      ],
+      "note": "語塊：offer an incentive（提供獎勵）、tax incentive（租稅優惠）、incentive to（做……的誘因）。incentive 是「讓人想去做的獎勵」；motivation 是「動機」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-efficient",
+      "word": "efficient",
+      "pos": "形容詞",
+      "meaning": "有效率的",
+      "sentences": [
+        {
+          "en": "The new machines are more efficient and can produce twice as many products in the same amount of time.",
+          "zh": "新機器更有效率，能在同樣的時間內生產兩倍的產品。"
+        },
+        {
+          "en": "Replacing old lights with energy-efficient ones has helped the company reduce its monthly electricity bills.",
+          "zh": "把舊燈換成節能燈，幫助公司降低了電費。"
+        },
+        {
+          "en": "The online system allows for more efficient use of staff time because forms no longer need to be printed.",
+          "zh": "線上系統讓員工的時間能更有效利用，因為表格不再需要列印。"
+        },
+        {
+          "en": "Our goal is to make the delivery process more efficient so that customers receive their orders sooner.",
+          "zh": "我們的目標是讓配送流程更有效率，讓顧客更快收到訂單。"
+        },
+        {
+          "en": "The hotel installed energy-efficient air conditioners in every room as part of its plan to protect the environment.",
+          "zh": "飯店在每間客房安裝節能冷氣，作為保護環境計畫的一部分。"
+        }
+      ],
+      "distractors": [
+        "effective",
+        "sufficient",
+        "proficient"
+      ],
+      "note": "語塊：energy-efficient（節能的）、more efficient（更有效率）、efficient use of（有效利用）。efficient 是「有效率、不浪費」；effective 是「有效果的」，重點不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recover",
+      "word": "recover",
+      "pos": "動詞",
+      "meaning": "恢復；康復；收回",
+      "sentences": [
+        {
+          "en": "The tourism industry is expected to recover from the effects of the storm by the end of the summer.",
+          "zh": "觀光業預計在夏天結束前從暴風雨的影響中恢復。"
+        },
+        {
+          "en": "The company hopes to recover costs from the new factory within three years of opening it.",
+          "zh": "公司希望在新工廠開工後三年內收回成本。"
+        },
+        {
+          "en": "Mr. Kim needed two months to fully recover after his surgery before he returned to work.",
+          "zh": "金先生手術後需要兩個月才完全康復，回去上班。"
+        },
+        {
+          "en": "It may take several years for the economy to recover from the financial crisis that began last year.",
+          "zh": "經濟可能需要好幾年才能從金融危機中恢復。"
+        },
+        {
+          "en": "The IT team was able to recover most of the files that were lost when the server stopped working.",
+          "zh": "伺服器停止運作時遺失的檔案，資訊團隊救回了大部分。"
+        }
+      ],
+      "distractors": [
+        "discover",
+        "cover",
+        "remover"
+      ],
+      "note": "語塊：recover from（從……中恢復）、recover costs（收回成本）、fully recover（完全康復）。recover 可以是「身體康復」、「經濟復甦」或「拿回（損失）」；recovery 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-crash",
+      "word": "crash",
+      "pos": "動詞",
+      "meaning": "當機；墜毀；暴跌",
+      "sentences": [
+        {
+          "en": "Please save your work often, as the old computers in the office sometimes crash without any warning.",
+          "zh": "請經常存檔，因為舊電腦有時會毫無預警地當機。"
+        },
+        {
+          "en": "If the website begins to crash when too many people visit it, we will need more servers.",
+          "zh": "如果網站在太多人造訪時開始當機，我們就需要更多伺服器。"
+        },
+        {
+          "en": "Experts warn that housing prices could crash if interest rates rise too quickly next year.",
+          "zh": "專家警告，如果明年利率上升太快，房價可能會暴跌。"
+        },
+        {
+          "en": "The new software update should stop the program from causing the system to crash every afternoon.",
+          "zh": "新的軟體更新應該能讓程式不再每天下午造成系統當機。"
+        },
+        {
+          "en": "The app may crash if you open too many windows at once, so please close the ones you are not using.",
+          "zh": "如果同時開太多視窗，App 可能會當機，所以請關掉沒在用的。"
+        }
+      ],
+      "distractors": [
+        "crush",
+        "clash",
+        "cash"
+      ],
+      "note": "語塊：computer crash（電腦當機）、the system crashed（系統當機）、prices crash（價格暴跌）。crash 可以是「撞擊、墜毀」，電腦「當機」，或市場「崩盤」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fortunately",
+      "word": "fortunately",
+      "pos": "副詞",
+      "meaning": "幸運地；幸好",
+      "sentences": [
+        {
+          "en": "The fire spread quickly through the warehouse, but fortunately no one was injured in the accident.",
+          "zh": "火勢迅速蔓延整座倉庫，但幸好意外中沒有人受傷。"
+        },
+        {
+          "en": "Fortunately for the company, the new product became popular soon after it was launched in stores.",
+          "zh": "對公司來說幸運的是，新產品在門市上市後很快就受到歡迎。"
+        },
+        {
+          "en": "Our flight was delayed by three hours, but fortunately we still arrived in time for the meeting.",
+          "zh": "我們的班機延誤三小時，但幸好還是及時趕上了會議。"
+        },
+        {
+          "en": "Fortunately, the damaged package contained only books and clothing, so nothing inside was broken during delivery.",
+          "zh": "幸好受損的包裹裡只有書和衣服，所以運送過程中沒有東西壞掉。"
+        },
+        {
+          "en": "The computer stopped working this morning, but fortunately all of the files had been saved online.",
+          "zh": "電腦今天早上壞了，但幸好所有檔案都已經存在網路上。"
+        }
+      ],
+      "distractors": [
+        "fortune",
+        "unfortunately",
+        "formerly"
+      ],
+      "note": "語塊：fortunately for（對……來說幸運的是）。fortunately 常放句首，後面加逗號；unfortunately 是「不幸地、可惜」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-associate",
+      "word": "associate",
+      "pos": "名詞",
+      "meaning": "同事；合夥人；助理",
+      "sentences": [
+        {
+          "en": "Mr. Kim introduced me to a business associate who might be interested in investing in our company.",
+          "zh": "金先生介紹一位可能有興趣投資我們公司的商業夥伴給我認識。"
+        },
+        {
+          "en": "The store is looking for a sales associate who can work on weekends and speak both English and Spanish.",
+          "zh": "那家店在找一位週末能上班、會說英文和西班牙文的店員。"
+        },
+        {
+          "en": "Dr. Lin works as a research associate at the university and studies the effects of air pollution.",
+          "zh": "林博士在大學擔任研究助理，研究空氣污染的影響。"
+        },
+        {
+          "en": "Each sales associate is trained to help customers find the right products and answer their questions.",
+          "zh": "每位店員都受過訓練，幫助顧客找到合適的商品並回答問題。"
+        },
+        {
+          "en": "The lawyer met with a business associate from Japan to discuss the details of the new contract.",
+          "zh": "律師和一位日本的商業夥伴見面，討論新合約的細節。"
+        }
+      ],
+      "distractors": [
+        "associated",
+        "association",
+        "assistant"
+      ],
+      "note": "語塊：business associate（商業夥伴）、sales associate（店員）、research associate（研究助理）。associate 當名詞是「工作上的夥伴」；當動詞是「聯想；交往」（associate A with B）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-certain",
+      "word": "certain",
+      "pos": "形容詞",
+      "meaning": "確定的；某些的",
+      "sentences": [
+        {
+          "en": "Please make certain that all of the doors are locked before you leave the office at night.",
+          "zh": "晚上離開辦公室前，請確定所有的門都鎖好了。"
+        },
+        {
+          "en": "The job requires a certain amount of travel, so applicants must be willing to work abroad.",
+          "zh": "這份工作需要一定程度的出差，所以應徵者必須願意到國外工作。"
+        },
+        {
+          "en": "Customers can return products for a full refund only under certain conditions listed on the receipt.",
+          "zh": "顧客只有在收據上列出的某些條件下才能退貨並全額退款。"
+        },
+        {
+          "en": "The manager is certain that the new advertising campaign will increase sales during the holiday season.",
+          "zh": "經理確定新的廣告活動會在節慶期間增加銷售。"
+        },
+        {
+          "en": "Certain areas of the factory are closed to visitors for safety reasons, so please follow your guide.",
+          "zh": "工廠的某些區域為了安全不對訪客開放，所以請跟著導覽員走。"
+        }
+      ],
+      "distractors": [
+        "curtain",
+        "captain",
+        "contain"
+      ],
+      "note": "語塊：be certain that（確定……）、a certain amount of（一定量的）、certain conditions（某些條件）。certain 放在名詞前是「某些的」，放在 be 動詞後是「確定的」；certainly 是「當然」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-earnings",
+      "word": "earnings",
+      "pos": "名詞",
+      "meaning": "收入；（公司）盈餘",
+      "sentences": [
+        {
+          "en": "The company will release its quarterly earnings report on Thursday, and investors are expecting good results.",
+          "zh": "公司週四將公布季度財報，投資人預期會有好結果。"
+        },
+        {
+          "en": "The average annual earnings of workers in the technology industry have increased over the past five years.",
+          "zh": "科技業員工的平均年收入在過去五年增加了。"
+        },
+        {
+          "en": "Quarterly earnings were lower than expected because of rising costs for raw materials and international shipping.",
+          "zh": "季度盈餘比預期低，因為材料和運輸成本上漲。"
+        },
+        {
+          "en": "Many young people take part-time jobs in the evening to increase their annual earnings and save money.",
+          "zh": "很多年輕人晚上兼差來增加年收入。"
+        },
+        {
+          "en": "The CEO explained the results of the earnings report to shareholders at the annual meeting.",
+          "zh": "執行長在年度大會上向股東說明財報的結果。"
+        }
+      ],
+      "distractors": [
+        "earrings",
+        "savings",
+        "learnings"
+      ],
+      "note": "語塊：annual earnings（年收入）、quarterly earnings（季度盈餘）、earnings report（財報）。earnings 一定用複數，指「賺到的錢」；income、profit 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-charitable",
+      "word": "charitable",
+      "pos": "形容詞",
+      "meaning": "慈善的",
+      "sentences": [
+        {
+          "en": "The company makes a charitable donation to the children's hospital every year at Christmas and New Year.",
+          "zh": "公司每年聖誕節都會捐一筆慈善捐款給兒童醫院。"
+        },
+        {
+          "en": "Ms. Lopez volunteers at a charitable organization that provides meals for elderly people who live alone.",
+          "zh": "Lopez 小姐在一個為獨居長者提供餐點的慈善機構當志工。"
+        },
+        {
+          "en": "The hotel will host a charitable event next month to raise money for schools in rural areas.",
+          "zh": "飯店下個月會舉辦一場慈善活動，為鄉村地區的學校募款。"
+        },
+        {
+          "en": "Employees who make a charitable donation through the company program will receive a tax receipt.",
+          "zh": "透過公司計畫做慈善捐款的員工會收到一張稅務收據。"
+        },
+        {
+          "en": "The bank works closely with a charitable organization that helps low-income families find safe and affordable housing.",
+          "zh": "那家銀行和一個協助低收入家庭找到安全、負擔得起住處的慈善機構密切合作。"
+        }
+      ],
+      "distractors": [
+        "charismatic",
+        "chargeable",
+        "comfortable"
+      ],
+      "note": "語塊：charitable organization（慈善機構）、charitable donation（慈善捐款）、charitable event（慈善活動）。charitable 是形容詞；charity 是名詞「慈善團體；慈善」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-organization",
+      "word": "organization",
+      "pos": "名詞",
+      "meaning": "組織；機構",
+      "sentences": [
+        {
+          "en": "Ms. Ahmed works for a non-profit organization that helps young people find jobs after they finish school.",
+          "zh": "Ahmed 小姐在一個幫助年輕人畢業後找工作的非營利組織工作。"
+        },
+        {
+          "en": "The conference was organized by an international organization that promotes clean energy around the world.",
+          "zh": "研討會是由一個在全球推廣潔淨能源的國際組織主辦的。"
+        },
+        {
+          "en": "Many students join an organization at their university to meet new people and develop leadership skills.",
+          "zh": "很多學生在大學加入社團，認識新朋友並培養領導能力。"
+        },
+        {
+          "en": "The organization raised more than one million dollars last year to build schools in developing countries.",
+          "zh": "那個組織去年募到一百多萬美元，在開發中國家蓋學校。"
+        },
+        {
+          "en": "Each organization that attends the job fair will have a table where students can ask questions.",
+          "zh": "每個參加就業博覽會的機構都會有一張桌子，讓學生可以發問。"
+        }
+      ],
+      "distractors": [
+        "organism",
+        "origination",
+        "ornamentation"
+      ],
+      "note": "語塊：non-profit organization（非營利組織）、international organization（國際組織）、join an organization（加入組織）。organization 是「組織、團體」；organize 是動詞「籌辦」；英式拼法 organisation。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-freeze",
+      "word": "freeze",
+      "pos": "動詞",
+      "meaning": "凍結；結冰",
+      "sentences": [
+        {
+          "en": "The company decided to freeze hiring until the end of the year because sales have been lower than expected.",
+          "zh": "公司決定凍結人事到年底，因為銷售比預期低。"
+        },
+        {
+          "en": "The government asked the electricity company to freeze prices for six months to help families.",
+          "zh": "政府要求電力公司凍漲六個月，幫助家庭度過難關。"
+        },
+        {
+          "en": "You can freeze the soup for up to three months and heat it up whenever you want to eat it.",
+          "zh": "這道湯可以冷凍保存最多三個月，想吃的時候再加熱。"
+        },
+        {
+          "en": "Water pipes can freeze during very cold nights, so please keep the heat on in the building.",
+          "zh": "在非常冷的夜晚水管可能會結冰，所以請讓大樓的暖氣保持開著。"
+        },
+        {
+          "en": "The university will freeze tuition fees next year so that more students can afford to study there.",
+          "zh": "那所大學明年會凍漲學費，讓更多學生負擔得起在那裡就讀。"
+        }
+      ],
+      "distractors": [
+        "breeze",
+        "frees",
+        "sneeze"
+      ],
+      "note": "語塊：freeze prices（凍漲）、freeze hiring（凍結人事）、freeze food（冷凍食物）、freeze tuition fees（凍漲學費）。freeze 過去式 froze、過去分詞 frozen；freezer 是「冷凍庫」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
