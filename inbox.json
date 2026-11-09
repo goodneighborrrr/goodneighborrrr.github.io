@@ -12863,6 +12863,706 @@
       ],
       "note": "語塊：be based in（總部設在……）、a company based in（總部在……的公司）。be based in 接地點；be based on 是「根據」，介系詞不同意思就不同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-planned",
+      "word": "planned",
+      "pos": "形容詞",
+      "meaning": "計畫中的；預定的",
+      "sentences": [
+        {
+          "en": "The grand opening of our new branch in Kaohsiung will take place as planned on the first of June.",
+          "zh": "我們高雄新分店的盛大開幕會按照計畫在六月一日舉行。"
+        },
+        {
+          "en": "The website will be unavailable for two hours on Sunday morning because of planned maintenance on our servers.",
+          "zh": "因為伺服器預定維修，網站週日早上會有兩個小時無法使用。"
+        },
+        {
+          "en": "The planned opening of the shopping mall has been delayed because several stores are not ready yet.",
+          "zh": "購物中心的預定開幕延後了，因為好幾家店還沒準備好。"
+        },
+        {
+          "en": "If everything goes as planned, the new production line will start operating at the beginning of next month.",
+          "zh": "如果一切按照計畫進行，新的生產線下個月初就會開始運作。"
+        },
+        {
+          "en": "Residents were informed of the planned water outage through letters that were delivered to every apartment.",
+          "zh": "居民透過送到每一戶的信件得知預定停水的消息。"
+        }
+      ],
+      "distractors": [
+        "planed",
+        "plain",
+        "planted"
+      ],
+      "note": "語塊：as planned（按照計畫）、planned maintenance（預定的維修）、planned opening（預定開幕）。planned 是「預定的」；planed（刨平的）少一個 n，是木工用語。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-production-plant",
+      "word": "production plant",
+      "pos": "名詞",
+      "meaning": "生產工廠",
+      "sentences": [
+        {
+          "en": "The automobile company plans to open a production plant in Vietnam to reduce its manufacturing costs.",
+          "zh": "那家汽車公司計畫在越南開設生產工廠，以降低製造成本。"
+        },
+        {
+          "en": "More than two hundred local residents will be hired when the new production plant opens next spring.",
+          "zh": "新的生產工廠明年春天開工時，將會聘僱兩百多名當地居民。"
+        },
+        {
+          "en": "The production plant manager will give the visiting investors a tour of the facility on Wednesday morning.",
+          "zh": "工廠廠長週三早上會帶來訪的投資人參觀廠區。"
+        },
+        {
+          "en": "Because of the heavy snow, operations at the production plant were suspended for two days last week.",
+          "zh": "因為大雪，生產工廠上週停工了兩天。"
+        },
+        {
+          "en": "The company decided to open a production plant closer to its main customers in order to shorten delivery times.",
+          "zh": "公司決定在離主要客戶更近的地方開設生產工廠，以縮短交貨時間。"
+        }
+      ],
+      "distractors": [
+        "power plant",
+        "potted plant",
+        "production line"
+      ],
+      "note": "語塊：open a production plant（開設生產工廠）、production plant manager（工廠廠長）。plant 在商業英文常指「工廠」，不是「植物」；factory 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rise",
+      "word": "rise",
+      "pos": "名詞",
+      "meaning": "上升；增加",
+      "sentences": [
+        {
+          "en": "The report shows a sharp rise in online sales since the company launched its new mobile app in March.",
+          "zh": "報告顯示，自從公司三月推出新的手機 App 以來，網路銷售急劇上升。"
+        },
+        {
+          "en": "A rise in fuel prices has forced many airlines to increase their ticket prices for international flights.",
+          "zh": "油價上漲迫使許多航空公司調高國際航班的票價。"
+        },
+        {
+          "en": "The number of people working from home has been on the rise for the past several years.",
+          "zh": "過去幾年來，在家工作的人數一直在增加。"
+        },
+        {
+          "en": "Economists predict a small rise in unemployment as several large factories close at the end of the year.",
+          "zh": "經濟學家預測，隨著幾家大工廠年底關閉，失業率會小幅上升。"
+        },
+        {
+          "en": "Store managers have noticed a rise in demand for healthy snacks among customers in their twenties.",
+          "zh": "店長們注意到二十幾歲顧客對健康零食的需求增加了。"
+        }
+      ],
+      "distractors": [
+        "raise",
+        "rice",
+        "ride"
+      ],
+      "note": "語塊：a rise in（……的上升）、a sharp rise（急劇上升）、on the rise（正在增加）。rise 當名詞是「增加」，後面接 in；raise 當名詞是「加薪」（美式：a raise）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reiterate",
+      "word": "reiterate",
+      "pos": "動詞",
+      "meaning": "重申；反覆說明",
+      "sentences": [
+        {
+          "en": "The CEO took the opportunity to reiterate the importance of customer satisfaction at the annual meeting.",
+          "zh": "執行長利用年度大會的機會重申顧客滿意度的重要性。"
+        },
+        {
+          "en": "In her email, the manager wanted to reiterate her commitment to supporting the team through the busy season.",
+          "zh": "經理在電子郵件中想重申她會在旺季支持團隊的承諾。"
+        },
+        {
+          "en": "I would like to reiterate that all visitors must wear safety helmets while they are inside the factory.",
+          "zh": "我要再次強調，所有訪客在工廠內都必須戴安全帽。"
+        },
+        {
+          "en": "The spokesperson will reiterate the company's commitment to reducing plastic waste during the press conference.",
+          "zh": "發言人會在記者會上重申公司減少塑膠垃圾的承諾。"
+        },
+        {
+          "en": "Let me reiterate the importance of submitting your expense reports before the end of each month.",
+          "zh": "我再強調一次，每個月底前交出支出報告是很重要的。"
+        }
+      ],
+      "distractors": [
+        "irritate",
+        "integrate",
+        "illiterate"
+      ],
+      "note": "語塊：reiterate the importance of（重申……的重要性）、reiterate one's commitment to（重申對……的承諾）。reiterate 是「再說一次、強調」，比 repeat 正式；iterate 是「反覆執行」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contemporary",
+      "word": "contemporary",
+      "pos": "形容詞",
+      "meaning": "當代的；現代的",
+      "sentences": [
+        {
+          "en": "The new museum downtown features works of contemporary art by young painters from across Asia.",
+          "zh": "市中心的新博物館展出來自亞洲各地年輕畫家的當代藝術作品。"
+        },
+        {
+          "en": "Our hotel combines traditional architecture with contemporary design to create a unique experience for guests.",
+          "zh": "我們飯店結合傳統建築和現代設計，為客人打造獨特的體驗。"
+        },
+        {
+          "en": "The festival will feature performances of contemporary music by both local and international artists in the park.",
+          "zh": "音樂節將有國內外藝人演出的當代音樂表演。"
+        },
+        {
+          "en": "The furniture store specializes in contemporary design, so most of its products have simple, clean shapes.",
+          "zh": "那家家具店專門做現代設計，所以大部分產品的造型都簡單俐落。"
+        },
+        {
+          "en": "Critics praised the gallery for presenting contemporary art in a way that is easy for beginners to understand.",
+          "zh": "評論家稱讚那家藝廊以初學者容易理解的方式呈現當代藝術。"
+        }
+      ],
+      "distractors": [
+        "temporary",
+        "contrary",
+        "customary"
+      ],
+      "note": "語塊：contemporary art（當代藝術）、contemporary design（現代設計）、contemporary music（當代音樂）。contemporary 和 modern 都是「現代的」，contemporary 更強調「當下這個時代」，也可當名詞「同時代的人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-traditional",
+      "word": "traditional",
+      "pos": "形容詞",
+      "meaning": "傳統的",
+      "sentences": [
+        {
+          "en": "The bakery still uses traditional methods to make its bread, even though it now has modern ovens.",
+          "zh": "那家麵包店雖然現在有了新式烤箱，仍用傳統方法做麵包。"
+        },
+        {
+          "en": "Visitors to the city can enjoy traditional cuisine at the night market near the old temple.",
+          "zh": "到這座城市的遊客可以在老廟附近的夜市享用傳統料理。"
+        },
+        {
+          "en": "The hotel's rooms feature traditional design elements such as sliding wooden doors and paper lanterns.",
+          "zh": "飯店的房間有木門和紙燈籠等傳統設計元素。"
+        },
+        {
+          "en": "Many customers prefer traditional methods of payment, so the store will continue to accept cash and checks.",
+          "zh": "很多顧客比較喜歡傳統的付款方式，所以店家會繼續接受現金和支票。"
+        },
+        {
+          "en": "The restaurant's menu offers traditional cuisine from southern Italy as well as a few modern dishes.",
+          "zh": "那家餐廳的菜單提供義大利南部的傳統料理，也有幾道現代菜色。"
+        }
+      ],
+      "distractors": [
+        "transitional",
+        "additional",
+        "conditional"
+      ],
+      "note": "語塊：traditional methods（傳統方法）、traditional cuisine（傳統料理）、traditional design（傳統設計）。traditional 是「傳統的」；conventional（慣例的、傳統的）意思接近，但偏「一般常見的做法」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-glazed",
+      "word": "glazed",
+      "pos": "形容詞",
+      "meaning": "上釉的；有糖霜的",
+      "sentences": [
+        {
+          "en": "The craft shop sells glazed pottery made by local artists in a small village near the mountains.",
+          "zh": "那家手工藝品店販售山區附近一個小村莊在地藝術家做的上釉陶器。"
+        },
+        {
+          "en": "The bathroom walls were covered with glazed tiles that are easy to clean and resistant to water.",
+          "zh": "浴室牆面貼著容易清潔又防水的釉面磁磚。"
+        },
+        {
+          "en": "Every morning, the café offers fresh coffee and a glazed doughnut for only three dollars.",
+          "zh": "咖啡廳每天早上提供新鮮咖啡加一個糖霜甜甜圈，只要三美元。"
+        },
+        {
+          "en": "The renovation of the hotel lobby included replacing the old floor with glazed tiles in a light color.",
+          "zh": "飯店大廳的翻修包括把舊地板換成淺色的釉面磁磚。"
+        },
+        {
+          "en": "Visitors to the exhibition can watch artists shape and paint glazed pottery in a workshop next to the gallery.",
+          "zh": "參觀展覽的遊客可以在展場旁的工作室看藝術家塑形、彩繪上釉陶器。"
+        }
+      ],
+      "distractors": [
+        "gazed",
+        "grazed",
+        "glared"
+      ],
+      "note": "語塊：glazed pottery（上釉的陶器）、glazed tiles（釉面磁磚）、glazed doughnut（糖霜甜甜圈）。glaze 是「釉、糖衣」，glazed 是「上了釉的」；glass（玻璃）和 gazed（凝視）長得像，別搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-finish",
+      "word": "finish",
+      "pos": "名詞",
+      "meaning": "（表面的）塗層；完成",
+      "sentences": [
+        {
+          "en": "The new office desks have a dark wood finish that matches the cabinets in the conference room.",
+          "zh": "新的辦公桌是深色木紋表面，和會議室的櫃子很搭。"
+        },
+        {
+          "en": "Customers who order printed photographs online can choose a glossy finish for an additional two dollars per set.",
+          "zh": "在網路上訂購沖洗照片的顧客，每組多付兩美元就可以選亮面。"
+        },
+        {
+          "en": "The designer recommended a matte finish for the kitchen cabinets because it does not show fingerprints.",
+          "zh": "設計師建議廚房櫥櫃用霧面，因為不會留下指紋。"
+        },
+        {
+          "en": "Our premium business cards are printed on thick paper with a glossy finish that looks very professional.",
+          "zh": "我們的高級名片印在有亮面處理的厚紙上，看起來非常專業。"
+        },
+        {
+          "en": "The furniture maker applies a protective finish to every table to prevent damage from water and heat.",
+          "zh": "那家家具廠會在每張桌子上塗一層保護塗層，避免被水和熱損壞。"
+        }
+      ],
+      "distractors": [
+        "furnish",
+        "fiction",
+        "famish"
+      ],
+      "note": "語塊：a glossy finish（亮面）、a matte finish（霧面）、wood finish（木頭表面處理）。finish 當名詞可以指家具、紙張的「表面處理」；finish 當動詞是「完成」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-designed-to",
+      "word": "designed to",
+      "pos": "其他",
+      "meaning": "被設計來……；旨在",
+      "sentences": [
+        {
+          "en": "The new software is designed to help small businesses manage their accounts and invoices more efficiently.",
+          "zh": "新軟體是設計來幫助小公司更有效率地管理帳務的。"
+        },
+        {
+          "en": "This chair is specially designed to support your lower back during long hours of office work.",
+          "zh": "這張椅子是專門設計來在長時間辦公時支撐你的下背部。"
+        },
+        {
+          "en": "The training program is designed to prepare new employees for their roles in the customer service department.",
+          "zh": "這個訓練計畫旨在讓新員工準備好在客服部的工作。"
+        },
+        {
+          "en": "The building's windows are designed to let in natural light while keeping the rooms cool in summer.",
+          "zh": "大樓的窗戶設計成可以讓自然光進來，同時讓房間在夏天保持涼爽。"
+        },
+        {
+          "en": "Our new backpack is designed to carry a laptop, documents, and a water bottle comfortably.",
+          "zh": "我們的新背包是設計來舒適地裝筆電、文件和水壺的。"
+        }
+      ],
+      "distractors": [
+        "destined to",
+        "designated to",
+        "determined to"
+      ],
+      "note": "語塊：be designed to（被設計來……）、be specially designed to（專門設計來……）。be designed to + 原形動詞（設計來做……）；be designed for + 名詞（為……設計）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-bulk",
+      "word": "in bulk",
+      "pos": "其他",
+      "meaning": "大量地；批發地",
+      "sentences": [
+        {
+          "en": "Restaurants can save a lot of money if they buy in bulk from our wholesale warehouse.",
+          "zh": "餐廳如果在我們的批發倉庫大量購買，可以省很多錢。"
+        },
+        {
+          "en": "Customers who order in bulk will receive a fifteen percent discount and free delivery to their offices.",
+          "zh": "大量訂購的顧客可以享有八五折和免費送貨到辦公室。"
+        },
+        {
+          "en": "The office manager decided to buy paper and printer ink in bulk to reduce monthly supply costs.",
+          "zh": "辦公室經理決定大量購買紙張和印表機墨水，減少每個月的耗材成本。"
+        },
+        {
+          "en": "Products that are sold in bulk usually come in simple packaging to save on materials and shipping.",
+          "zh": "大量販售的商品通常用簡單的包裝，以節省材料和運費。"
+        },
+        {
+          "en": "Schools that order in bulk before August can receive their textbooks in time for the new semester.",
+          "zh": "在八月前大量訂購的學校，可以及時在新學期拿到課本。"
+        }
+      ],
+      "distractors": [
+        "in brief",
+        "in total",
+        "in stock"
+      ],
+      "note": "語塊：buy in bulk（大量購買）、order in bulk（大量訂購）。in bulk 指「大量、整批」；bulky 是形容詞「體積大的、笨重的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retail-outlet",
+      "word": "retail outlet",
+      "pos": "名詞",
+      "meaning": "零售店；門市",
+      "sentences": [
+        {
+          "en": "The clothing brand will open a retail outlet in the new shopping center near the airport next year.",
+          "zh": "那個服飾品牌明年將在機場附近的新購物中心開設一家門市。"
+        },
+        {
+          "en": "The company operates a retail outlet in every major city and sells most of its products online as well.",
+          "zh": "那家公司在每個大城市都有一家門市，大部分產品也在網路上販售。"
+        },
+        {
+          "en": "Each retail outlet is required to submit a weekly sales report to the regional manager every Monday morning.",
+          "zh": "每家門市都必須在每週一早上把每週銷售報告交給區域經理。"
+        },
+        {
+          "en": "Customers can pick up their online orders at any retail outlet without paying an additional shipping fee.",
+          "zh": "顧客可以在任何一家門市取網路訂單，不用另外付運費。"
+        },
+        {
+          "en": "The electronics maker decided to open a retail outlet downtown so that customers could test its products in person.",
+          "zh": "那家電子廠決定在市中心開一家門市，讓顧客可以親自試用產品。"
+        }
+      ],
+      "distractors": [
+        "retail price",
+        "power outlet",
+        "retail sales"
+      ],
+      "note": "語塊：open a retail outlet（開設門市）、each retail outlet（每家門市）。outlet 可以指「零售店」，也可以指「插座」或 outlet mall（暢貨中心）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-observe",
+      "word": "observe",
+      "pos": "動詞",
+      "meaning": "遵守；觀察；注意到",
+      "sentences": [
+        {
+          "en": "All visitors to the construction site must observe the safety rules and wear a helmet at all times.",
+          "zh": "所有到工地的訪客都必須遵守安全規則，而且隨時戴著安全帽。"
+        },
+        {
+          "en": "The bank will observe the national holiday and remain closed on Monday, so please plan your visits accordingly.",
+          "zh": "銀行會因國定假日在週一休息，所以請事先安排好前來的時間。"
+        },
+        {
+          "en": "Researchers will observe closely how shoppers move through the store before they redesign the layout.",
+          "zh": "研究人員在重新設計店面配置前，會仔細觀察顧客在店裡怎麼走動。"
+        },
+        {
+          "en": "New employees are encouraged to observe experienced staff members during their first week of training.",
+          "zh": "新員工在第一週訓練期間被鼓勵觀察資深員工的做法。"
+        },
+        {
+          "en": "Drivers who do not observe the speed limits on the factory grounds will lose their parking permits.",
+          "zh": "在廠區內沒有遵守速限的駕駛會被取消停車許可。"
+        }
+      ],
+      "distractors": [
+        "preserve",
+        "deserve",
+        "reserve"
+      ],
+      "note": "語塊：observe the rules（遵守規則）、observe a holiday（過節；放假）、observe closely（仔細觀察）。observe 除了「觀察」，也有「遵守規定」的意思，和 follow、obey 接近；preserve（保存）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interval",
+      "word": "interval",
+      "pos": "名詞",
+      "meaning": "間隔；（演出的）中場休息",
+      "sentences": [
+        {
+          "en": "Buses to the conference center leave the hotel with an interval of twenty minutes throughout the morning.",
+          "zh": "往會議中心的接駁車整個上午每隔二十分鐘從飯店出發。"
+        },
+        {
+          "en": "The security guards patrol the building with an interval of thirty minutes between each round during the night shift.",
+          "zh": "夜班警衛巡邏大樓時，每一輪之間間隔三十分鐘。"
+        },
+        {
+          "en": "After a short interval, the second half of the concert began with a famous piece by Beethoven.",
+          "zh": "短暫休息後，音樂會下半場以一首貝多芬的知名曲子開場。"
+        },
+        {
+          "en": "The interval between the two training sessions gives employees enough time to have lunch and check their email.",
+          "zh": "兩場訓練課程之間的空檔讓員工有足夠時間吃午餐和收信。"
+        },
+        {
+          "en": "Doctors recommend a short interval of rest every hour for workers who spend the day looking at computer screens.",
+          "zh": "醫生建議整天看電腦螢幕的上班族每小時休息一下。"
+        }
+      ],
+      "distractors": [
+        "internal",
+        "interview",
+        "intervention"
+      ],
+      "note": "語塊：an interval of（……的間隔）、a short interval（短暫的間隔）、the interval between（……之間的間隔）。interval 指「兩件事之間的時間」；at regular intervals（定期地）是常見複數用法。intermission 指表演的「中場休息」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-express-regret-for",
+      "word": "express regret for",
+      "pos": "片語動詞",
+      "meaning": "對……表示遺憾、歉意",
+      "sentences": [
+        {
+          "en": "The airline issued a statement to express regret for the long delays that passengers experienced last weekend.",
+          "zh": "航空公司發表聲明，對乘客上週末遭遇的長時間延誤表示歉意。"
+        },
+        {
+          "en": "The hotel manager called the guest personally to express regret for the noise from the construction next door.",
+          "zh": "飯店經理親自打電話給那位客人，對隔壁施工的噪音表示歉意。"
+        },
+        {
+          "en": "We would like to express regret for any confusion caused by the error in our latest product catalog.",
+          "zh": "我們想對最新產品目錄中的錯誤所造成的任何困擾表示歉意。"
+        },
+        {
+          "en": "The company will express regret for the data problem and offer affected customers a free service upgrade.",
+          "zh": "公司會對資料問題表示歉意，並提供受影響的顧客免費升級服務。"
+        },
+        {
+          "en": "In his letter, the director wanted to express regret for missing the opening ceremony because of illness.",
+          "zh": "主任在信中想對自己因病錯過開幕典禮表示遺憾。"
+        }
+      ],
+      "distractors": [
+        "express interest in",
+        "express concern about",
+        "express thanks for"
+      ],
+      "note": "語塊：express regret for（對……表示遺憾）、express sincere regret（表達誠摯的歉意）。express regret for 比 apologize for 更正式，常見於公司聲明；regret 本身也可當動詞「後悔、遺憾」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sincere",
+      "word": "sincere",
+      "pos": "形容詞",
+      "meaning": "真誠的；誠摯的",
+      "sentences": [
+        {
+          "en": "Please accept our sincere apology for the delay in shipping your order during the holiday season.",
+          "zh": "對於節慶期間延遲寄出您的訂單，請接受我們誠摯的道歉。"
+        },
+        {
+          "en": "The CEO expressed her sincere thanks to all the volunteers who helped organize the charity event.",
+          "zh": "執行長向所有幫忙籌辦慈善活動的志工表達衷心的感謝。"
+        },
+        {
+          "en": "We would like to express our sincere appreciation for your many years of loyal service to the company.",
+          "zh": "我們想對您多年來對公司的忠誠服務表達真誠的感激。"
+        },
+        {
+          "en": "The restaurant sent a sincere apology and a gift card to the customer who had received the wrong meal.",
+          "zh": "那家餐廳向拿到錯餐點的顧客送上誠摯的道歉和一張禮物卡。"
+        },
+        {
+          "en": "Mr. Tanaka is known for his sincere and friendly manner, which makes clients feel comfortable working with him.",
+          "zh": "田中先生以真誠友善的態度出名，讓客戶跟他合作時覺得很自在。"
+        }
+      ],
+      "distractors": [
+        "serious",
+        "severe",
+        "secure"
+      ],
+      "note": "語塊：sincere apology（誠摯的道歉）、sincere thanks（衷心的感謝）、sincere appreciation（真誠的感激）。sincere 是「真心的」，副詞 sincerely 常用在書信結尾（Sincerely, ...）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incident",
+      "word": "incident",
+      "pos": "名詞",
+      "meaning": "事件；事故",
+      "sentences": [
+        {
+          "en": "Employees must report an incident to their supervisor immediately if anyone is injured at work.",
+          "zh": "如果有人在工作中受傷，員工必須立刻向主管通報。"
+        },
+        {
+          "en": "There was a minor incident in the parking lot this morning, but fortunately nobody was hurt.",
+          "zh": "今天早上停車場發生一起小事故，但幸好沒有人受傷。"
+        },
+        {
+          "en": "The annual music festival ended without incident thanks to careful planning by the security team.",
+          "zh": "多虧保全團隊縝密的規劃，年度音樂節平安無事地落幕。"
+        },
+        {
+          "en": "The airline is investigating an incident in which a passenger's luggage was sent to the wrong city.",
+          "zh": "航空公司正在調查一起乘客行李被送到錯誤城市的事件。"
+        },
+        {
+          "en": "Please use the online form to report an incident involving damaged equipment in the warehouse.",
+          "zh": "倉庫設備損壞的事件，請用線上表單通報。"
+        }
+      ],
+      "distractors": [
+        "incidence",
+        "accident",
+        "insistence"
+      ],
+      "note": "語塊：report an incident（通報事件）、a minor incident（小事故）、without incident（平安無事地）。incident 是「事件」；accident 是「意外事故」；incidence（發生率）拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-it-up-to",
+      "word": "make it up to",
+      "pos": "片語動詞",
+      "meaning": "補償（某人）",
+      "sentences": [
+        {
+          "en": "We are sorry for the late delivery, and we would like to make it up to you with a free month of service.",
+          "zh": "很抱歉延遲送達，我們想用免費一個月的服務來補償您。"
+        },
+        {
+          "en": "The restaurant manager offered a free dessert to make it up to the guests who had waited a long time.",
+          "zh": "餐廳經理招待免費甜點，補償那些等了很久的客人。"
+        },
+        {
+          "en": "I missed your presentation because of a meeting, but I will make it up to you by helping with the next one.",
+          "zh": "我因為開會錯過了你的簡報，但下次的簡報我會幫忙，算是補償你。"
+        },
+        {
+          "en": "To make it up to its loyal customers, the hotel is offering a twenty percent discount on their next stay.",
+          "zh": "為了補償忠實顧客，飯店提供下次住宿打八折的優惠。"
+        },
+        {
+          "en": "The airline promised to make it up to passengers on the canceled flight by giving them extra travel points.",
+          "zh": "航空公司承諾送給被取消航班的乘客額外的哩程點數作為補償。"
+        }
+      ],
+      "distractors": [
+        "make up for",
+        "make sure of",
+        "make room for"
+      ],
+      "note": "語塊：make it up to sb（補償某人）。make it up to sb 是口語的「彌補某人」；make up for sth 是「彌補某事」，後面接的東西不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-send",
+      "word": "send",
+      "pos": "動詞",
+      "meaning": "寄送；派遣",
+      "sentences": [
+        {
+          "en": "Please send an invoice to our accounting department as soon as the project has been completed.",
+          "zh": "專案一完成，請把發票寄給我們的會計部。"
+        },
+        {
+          "en": "The system will automatically send a reminder to customers two days before their scheduled appointment.",
+          "zh": "系統會在顧客預約時間的兩天前自動寄出提醒。"
+        },
+        {
+          "en": "We plan to send out the invitations for the grand opening by the end of next week.",
+          "zh": "我們計畫在下週末前寄出盛大開幕的邀請函。"
+        },
+        {
+          "en": "The company will send three engineers to the factory in Malaysia to help install the new equipment.",
+          "zh": "公司將派三名工程師到馬來西亞的工廠協助安裝新設備。"
+        },
+        {
+          "en": "If you would like to receive our newsletter, please send an email with your name to the address below.",
+          "zh": "如果你想收到我們的電子報，請把你的名字寄到下方的電子信箱。"
+        }
+      ],
+      "distractors": [
+        "spend",
+        "lend",
+        "tend"
+      ],
+      "note": "語塊：send an invoice（寄發票）、send a reminder（寄提醒）、send out（寄出；發出）。send 是「寄、送出去」；deliver 偏「送達」到對方手上。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-house-call",
+      "word": "house call",
+      "pos": "名詞",
+      "meaning": "到府服務；出診",
+      "sentences": [
+        {
+          "en": "Our technicians can make a house call to repair your washing machine for an additional fee of thirty dollars.",
+          "zh": "我們的技師可以到府修理洗衣機，需另外支付三十美元。"
+        },
+        {
+          "en": "Dr. Russo is one of the few doctors in the area who still makes a house call for elderly patients.",
+          "zh": "Russo 醫師是這一帶少數仍會為年長病人出診的醫生之一。"
+        },
+        {
+          "en": "The computer repair shop offers a house call service for customers who cannot bring their devices to the store.",
+          "zh": "那家電腦維修店為無法把裝置帶到店裡的顧客提供到府服務。"
+        },
+        {
+          "en": "If you schedule a house call before noon, a technician will visit your home the same afternoon.",
+          "zh": "如果你在中午前預約到府服務，技師當天下午就會到你家。"
+        },
+        {
+          "en": "Customers who purchase the premium warranty are entitled to one free house call every year.",
+          "zh": "購買高級保固的顧客每年可以享有一次免費到府服務。"
+        }
+      ],
+      "distractors": [
+        "phone call",
+        "roll call",
+        "wake-up call"
+      ],
+      "note": "語塊：make a house call（到府服務；出診）、house call service（到府服務）、schedule a house call（預約到府服務）。house call 原本指醫生「出診」，現在也用在維修人員「到府服務」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-response",
+      "word": "response",
+      "pos": "名詞",
+      "meaning": "回應；回覆",
+      "sentences": [
+        {
+          "en": "In response to customer feedback, the café has added more vegetarian options to its lunch menu.",
+          "zh": "為了回應顧客意見，咖啡廳在午餐菜單上增加了更多素食選擇。"
+        },
+        {
+          "en": "We have not yet received a response from the supplier regarding the delayed shipment of parts.",
+          "zh": "關於零件延遲出貨的事，我們還沒收到供應商的回覆。"
+        },
+        {
+          "en": "Thank you for your prompt response to our request for a price estimate on the office renovation.",
+          "zh": "謝謝您迅速回覆我們對辦公室翻修報價的請求。"
+        },
+        {
+          "en": "The new product received a positive response from customers who tested it at the trade show in Chicago.",
+          "zh": "新產品在芝加哥商展上試用過的顧客那裡獲得正面的回應。"
+        },
+        {
+          "en": "The city council made changes to the parking plan in response to complaints from local business owners.",
+          "zh": "市議會為了回應當地商家的抱怨，修改了停車計畫。"
+        }
+      ],
+      "distractors": [
+        "responsibility",
+        "respondent",
+        "resource"
+      ],
+      "note": "語塊：in response to（回應……）、receive a response（收到回覆）、a prompt response（迅速的回應）。response 是名詞；respond 是動詞（respond to）；responsible（負責的）長得像，意思不同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
