@@ -45238,6 +45238,706 @@
       ],
       "note": "語塊：labor union（工會）、join a union（加入工會）、union members（工會成員）。union 是「工會」或「聯合」；the European Union 是「歐盟」；unity 是「團結」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-possess",
+      "word": "possess",
+      "pos": "動詞",
+      "meaning": "擁有；具備",
+      "sentences": [
+        {
+          "en": "Applicants must possess strong communication skills and at least three years of experience in sales.",
+          "zh": "應徵者必須具備很強的溝通能力，以及至少三年的業務經驗。"
+        },
+        {
+          "en": "The museum is lucky to possess several paintings by the famous artist, which were donated by a local family.",
+          "zh": "博物館很幸運擁有幾幅那位知名藝術家的畫作，是當地一個家族捐贈的。"
+        },
+        {
+          "en": "Managers should possess the ability to stay calm and make good decisions when problems happen.",
+          "zh": "經理應該具備在出問題時保持冷靜、做出好決定的能力。"
+        },
+        {
+          "en": "Very few companies possess the technology needed to build such a large and complicated bridge.",
+          "zh": "很少公司擁有建造這麼大又複雜的橋所需的技術。"
+        },
+        {
+          "en": "Our engineers possess knowledge of both old and new systems, so they can repair any machine.",
+          "zh": "我們的工程師擁有新舊系統的知識，所以能修理任何機器。"
+        }
+      ],
+      "distractors": [
+        "process",
+        "profess",
+        "obsess"
+      ],
+      "note": "語塊：possess skills（具備技能）、possess knowledge（擁有知識）、possess the ability（具備能力）、possess the technology（擁有技術）。possess 比 have、own 正式；possession 是名詞「擁有物」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-formulation",
+      "word": "formulation",
+      "pos": "名詞",
+      "meaning": "制定；配方",
+      "sentences": [
+        {
+          "en": "The formulation of the new tax policy took more than a year because many experts were involved.",
+          "zh": "新稅收政策的制定花了一年多，因為參與的專家很多。"
+        },
+        {
+          "en": "The shampoo has a new formulation that is gentler on the skin and better for the environment.",
+          "zh": "那款洗髮精有一種對皮膚更溫和、對環境也更好的新配方。"
+        },
+        {
+          "en": "Employees were invited to take part in the formulation of the company's new vacation policy.",
+          "zh": "員工受邀參與公司新休假規定的制定。"
+        },
+        {
+          "en": "The medicine was sold with a new formulation after doctors reported problems with the old one.",
+          "zh": "醫生回報舊配方有問題後，那種藥改用新配方販售。"
+        },
+        {
+          "en": "The board is responsible for the formulation of the company's long-term strategy and goals for growth.",
+          "zh": "董事會負責制定公司的長期策略和目標。"
+        }
+      ],
+      "distractors": [
+        "formation",
+        "foundation",
+        "population"
+      ],
+      "note": "語塊：the formulation of（……的制定）、new formulation（新配方）。formulation 是「制定（計畫、政策）」或產品的「配方」；formulate 是動詞；formula 是「公式；配方」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acquisition",
+      "word": "acquisition",
+      "pos": "名詞",
+      "meaning": "收購；取得",
+      "sentences": [
+        {
+          "en": "The acquisition of the small software company will help us develop new products more quickly.",
+          "zh": "收購那家小型軟體公司將幫助我們更快開發新產品。"
+        },
+        {
+          "en": "The company's recent acquisition of a hotel chain has made it the largest hotel group in the region.",
+          "zh": "公司最近收購了一家連鎖飯店，成為該地區最大的飯店集團。"
+        },
+        {
+          "en": "The bank hired lawyers who specialize in merger and acquisition deals to help with the negotiations.",
+          "zh": "銀行聘請專門處理併購案的律師協助談判。"
+        },
+        {
+          "en": "The acquisition was announced on Monday, and the company's share price rose by ten percent.",
+          "zh": "收購案在週一宣布，公司股價上漲了一成。"
+        },
+        {
+          "en": "The museum's latest acquisition is a painting from the 1800s that was bought at an auction in London.",
+          "zh": "博物館最新的收藏是一幅在倫敦拍賣會買下的 1800 年代畫作。"
+        }
+      ],
+      "distractors": [
+        "accusation",
+        "requisition",
+        "inquisition"
+      ],
+      "note": "語塊：acquisition of（……的收購）、merger and acquisition（併購）、recent acquisition（最近的收購）。acquisition 是名詞；acquire 是動詞「取得；收購」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rising",
+      "word": "rising",
+      "pos": "形容詞",
+      "meaning": "上升的；增加的",
+      "sentences": [
+        {
+          "en": "Rising costs for fuel and materials have forced the company to increase its prices this year.",
+          "zh": "燃料和材料成本上升，迫使公司今年漲價。"
+        },
+        {
+          "en": "Many families are worried about rising prices for food, electricity, and housing in the city.",
+          "zh": "很多家庭擔心城市食物和住房價格上漲。"
+        },
+        {
+          "en": "The factory hired fifty new workers to meet the rising demand for its electric bicycles.",
+          "zh": "工廠新聘五十名工人，以滿足電動自行車日益增加的需求。"
+        },
+        {
+          "en": "Because of rising rents downtown, several small shops have moved to cheaper areas outside the city.",
+          "zh": "因為市中心房租上漲，好幾家小店搬到城外比較便宜的地區。"
+        },
+        {
+          "en": "The rising number of tourists has created many new jobs in hotels and restaurants on the island.",
+          "zh": "觀光客人數增加為島上的飯店和餐廳創造了很多新工作。"
+        }
+      ],
+      "distractors": [
+        "raising",
+        "rinsing",
+        "arising"
+      ],
+      "note": "語塊：rising costs（上升的成本）、rising prices（上漲的物價）、rising demand（增加的需求）。rising 是「正在上升的」；rise 是動詞或名詞「上升」；raising 是「提高（某物）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-labor-cost",
+      "word": "labor cost",
+      "pos": "名詞",
+      "meaning": "人力成本；勞動成本",
+      "sentences": [
+        {
+          "en": "Many companies build factories in other countries in order to reduce labor cost and taxes.",
+          "zh": "很多公司到其他國家設廠，以降低人力成本和稅負。"
+        },
+        {
+          "en": "The rising labor cost in the city has made it difficult for small restaurants to make a profit.",
+          "zh": "城市人力成本上升，讓小餐廳很難獲利。"
+        },
+        {
+          "en": "New machines helped the factory reduce labor cost by doing work that used to be done by hand.",
+          "zh": "新機器取代了過去的人工，幫助工廠降低人力成本。"
+        },
+        {
+          "en": "The report compares the labor cost in five Asian countries for companies that want to open factories.",
+          "zh": "報告為想設廠的公司比較了五個亞洲國家的人力成本。"
+        },
+        {
+          "en": "Because of the rising labor cost, the company decided to use more robots on its production line.",
+          "zh": "因為人力成本上升，公司決定在生產線上使用更多機器人。"
+        }
+      ],
+      "distractors": [
+        "labor union",
+        "labor force",
+        "cost of living"
+      ],
+      "note": "語塊：reduce labor cost（降低人力成本）、rising labor cost（上升的人力成本）。labor cost 常用複數 labor costs；labor 是「勞動、勞工」，英式拼法 labour。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-now-that",
+      "word": "now that",
+      "pos": "連接詞",
+      "meaning": "既然；由於現在",
+      "sentences": [
+        {
+          "en": "Now that the new software has been installed, employees can share files much more easily.",
+          "zh": "既然新軟體已經安裝好了，員工分享檔案就容易多了。"
+        },
+        {
+          "en": "Now that the project is finished, the team can finally take a few days off to rest.",
+          "zh": "既然專案完成了，團隊終於可以休息幾天。"
+        },
+        {
+          "en": "Now that the weather is warmer, the café has started serving drinks on its outdoor patio.",
+          "zh": "既然天氣變暖了，咖啡館開始在戶外露台供應飲料。"
+        },
+        {
+          "en": "Now that you have joined our company, please read the employee handbook carefully this week.",
+          "zh": "既然你已經加入我們公司，請在這週仔細閱讀員工手冊。"
+        },
+        {
+          "en": "Now that the new subway line is open, it takes only twenty minutes to get to the airport.",
+          "zh": "既然新捷運線已經開通，到機場只要二十分鐘。"
+        }
+      ],
+      "distractors": [
+        "so that",
+        "in that",
+        "now and then"
+      ],
+      "note": "語塊：now that + 子句（既然……）。now that 是「因為現在已經……」；since 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vision",
+      "word": "vision",
+      "pos": "名詞",
+      "meaning": "願景；視力；遠見",
+      "sentences": [
+        {
+          "en": "The new CEO shared her vision for the future of the company at the meeting with all employees.",
+          "zh": "新執行長在和全體員工的會議上分享了她對公司未來的願景。"
+        },
+        {
+          "en": "A good leader must have a clear vision and be able to explain it to the whole team.",
+          "zh": "好的領導者必須有清楚的願景，並能向整個團隊說明。"
+        },
+        {
+          "en": "The city's long-term vision is to become a place where people can live without needing a car.",
+          "zh": "城市的長期願景是成為人們不需要汽車也能生活的地方。"
+        },
+        {
+          "en": "The founder's vision was to create furniture that was both beautiful and affordable for every family.",
+          "zh": "創辦人的願景是打造美觀又讓每個家庭都負擔得起的家具。"
+        },
+        {
+          "en": "The company's long-term vision includes opening stores in every major city in Asia within ten years.",
+          "zh": "公司的長期願景包括在十年內於亞洲每個主要城市開店。"
+        }
+      ],
+      "distractors": [
+        "version",
+        "revision",
+        "division"
+      ],
+      "note": "語塊：a vision for（對……的願景）、long-term vision（長期願景）、clear vision（清楚的願景）。vision 可以是「眼光、願景」或「視力」；visionary 是「有遠見的人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disruption",
+      "word": "disruption",
+      "pos": "名詞",
+      "meaning": "中斷；干擾；混亂",
+      "sentences": [
+        {
+          "en": "The storm caused disruption to train services across the country for most of the weekend.",
+          "zh": "暴風雨在週末大部分時間造成全國火車服務中斷。"
+        },
+        {
+          "en": "The workers will repair the road at night in order to minimize disruption to drivers during the day.",
+          "zh": "工人會在晚上修路，盡量減少白天對駕駛的干擾。"
+        },
+        {
+          "en": "The strike at the port may cause disruption to the delivery of goods to stores around the country.",
+          "zh": "港口罷工可能會造成全國商店的貨物配送中斷。"
+        },
+        {
+          "en": "We apologize for any disruption caused by the renovation work on the third floor this week.",
+          "zh": "我們為本週三樓整修工程造成的任何干擾致歉。"
+        },
+        {
+          "en": "The company prepared a backup plan to avoid disruption if the main computer system stops working.",
+          "zh": "公司準備了備用計畫，以防主要電腦系統停止運作時造成中斷。"
+        }
+      ],
+      "distractors": [
+        "destruction",
+        "eruption",
+        "corruption"
+      ],
+      "note": "語塊：cause disruption（造成中斷）、minimize disruption（減少干擾）、disruption to（對……的干擾）。disruption 是名詞；disrupt 是動詞「擾亂」；interruption 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adjustment",
+      "word": "adjustment",
+      "pos": "名詞",
+      "meaning": "調整；適應",
+      "sentences": [
+        {
+          "en": "The designer made a minor adjustment to the logo after the client asked for a brighter color.",
+          "zh": "客戶要求更亮的顏色後，設計師對商標做了小幅調整。"
+        },
+        {
+          "en": "Moving to a new country requires a big adjustment, especially if you do not speak the language.",
+          "zh": "搬到新國家需要很大的適應，尤其是你不會說當地語言的話。"
+        },
+        {
+          "en": "The manager will make an adjustment to the schedule so that everyone can attend the training.",
+          "zh": "經理會調整時程表，讓每個人都能參加訓練。"
+        },
+        {
+          "en": "After a period of adjustment, the new employees became comfortable with the company's software and systems.",
+          "zh": "經過一段適應期後，新員工就習慣公司的軟體了。"
+        },
+        {
+          "en": "A small adjustment to the price helped the store sell many more of its winter jackets.",
+          "zh": "價格的小幅調整幫助那家店多賣出很多冬季外套。"
+        }
+      ],
+      "distractors": [
+        "amusement",
+        "argument",
+        "assignment"
+      ],
+      "note": "語塊：make adjustments（做調整）、minor adjustment（小幅調整）、adjustment to（對……的適應）。adjustment 是名詞；adjust 是動詞「調整」；adjustable 是「可調整的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contain",
+      "word": "contain",
+      "pos": "動詞",
+      "meaning": "包含；容納；控制",
+      "sentences": [
+        {
+          "en": "Reports that contain information about customers must be kept in a locked cabinet at all times.",
+          "zh": "含有顧客資訊的報告必須隨時鎖在櫃子裡。"
+        },
+        {
+          "en": "These cookies may contain nuts, so people with allergies should read the label carefully before eating them.",
+          "zh": "這些餅乾可能含有堅果，所以過敏的人吃之前應仔細閱讀標籤。"
+        },
+        {
+          "en": "Firefighters worked through the night to contain the fire before it reached the nearby houses.",
+          "zh": "消防員通宵工作，在火勢蔓延到附近房屋之前控制住它。"
+        },
+        {
+          "en": "The new storage room is large enough to contain all of the boxes from the old warehouse.",
+          "zh": "新儲藏室大到足以容納舊倉庫的所有箱子。"
+        },
+        {
+          "en": "The email may contain confidential information, so please do not share it with anyone outside the company.",
+          "zh": "這封郵件可能包含機密資訊，所以請不要分享給公司以外的任何人。"
+        }
+      ],
+      "distractors": [
+        "obtain",
+        "retain",
+        "contact"
+      ],
+      "note": "語塊：contain information（包含資訊）、contain the fire（控制火勢）、may contain（可能含有）。contain 是「裡面有」；include 是「包括（其中一部分）」；container 是「容器」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-permission",
+      "word": "permission",
+      "pos": "名詞",
+      "meaning": "許可；允許",
+      "sentences": [
+        {
+          "en": "Visitors must ask for permission before taking photographs inside the factory or the research laboratory.",
+          "zh": "訪客在工廠或實驗室內拍照前必須先請求許可。"
+        },
+        {
+          "en": "Employees may not share confidential documents with people outside the company without permission from their manager.",
+          "zh": "未經經理許可，員工不得把機密文件分享給公司以外的人。"
+        },
+        {
+          "en": "The city gave permission for the restaurant to put tables and chairs on the sidewalk during the summer.",
+          "zh": "市政府允許那家餐廳夏天在人行道上擺放桌椅。"
+        },
+        {
+          "en": "Students need permission from their parents to join the school trip to the science museum next week.",
+          "zh": "學生需要家長同意才能參加下週去科學博物館的校外教學。"
+        },
+        {
+          "en": "Please do not use the company car without permission, as it is reserved for business trips only.",
+          "zh": "未經許可請不要使用公司的車，因為它只供出差使用。"
+        }
+      ],
+      "distractors": [
+        "admission",
+        "submission",
+        "persuasion"
+      ],
+      "note": "語塊：ask for permission（請求許可）、without permission（未經許可）、give permission（給予許可）。permission 是不可數名詞；permit 可以當動詞「允許」或名詞「許可證」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-maintenance",
+      "word": "maintenance",
+      "pos": "名詞",
+      "meaning": "維修；保養",
+      "sentences": [
+        {
+          "en": "Regular maintenance will help the machines last longer and reduce the number of expensive repairs.",
+          "zh": "定期保養能讓機器用得更久，並減少昂貴的維修次數。"
+        },
+        {
+          "en": "The website will be under maintenance from midnight until six in the morning on Sunday.",
+          "zh": "網站週日午夜到早上六點將進行維修。"
+        },
+        {
+          "en": "Maintenance work on the elevators will take place on Saturday, so please use the stairs that day.",
+          "zh": "電梯維修工程將在週六進行，所以那天請走樓梯。"
+        },
+        {
+          "en": "The building manager is responsible for the maintenance of the heating and air conditioning systems.",
+          "zh": "大樓管理員負責暖氣和空調系統的保養。"
+        },
+        {
+          "en": "The car needs regular maintenance, such as changing the oil every six months, to run safely.",
+          "zh": "汽車需要定期保養，例如每六個月換一次機油，才能安全行駛。"
+        }
+      ],
+      "distractors": [
+        "maintainer",
+        "remittance",
+        "sustenance"
+      ],
+      "note": "語塊：regular maintenance（定期保養）、maintenance work（維修工程）、under maintenance（維修中）。maintenance 是名詞；maintain 是動詞「維持；保養」；注意拼法 main-te-nance。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proximity",
+      "word": "proximity",
+      "pos": "名詞",
+      "meaning": "鄰近；接近",
+      "sentences": [
+        {
+          "en": "The hotel is popular with business travelers because of its proximity to the airport and the convention center.",
+          "zh": "那家飯店很受商務旅客歡迎，因為它靠近機場。"
+        },
+        {
+          "en": "Many families choose this neighborhood because of its close proximity to good schools and parks.",
+          "zh": "很多家庭選擇這個社區，因為它非常靠近好學校和公園。"
+        },
+        {
+          "en": "The new office is in close proximity to the subway station, so most employees can walk to work.",
+          "zh": "新辦公室非常靠近捷運站，所以大部分員工可以走路上班。"
+        },
+        {
+          "en": "The factory's proximity to the port allows the company to ship its products overseas quickly.",
+          "zh": "工廠靠近港口，讓公司能快速把產品運往海外。"
+        },
+        {
+          "en": "The restaurant's proximity to the theater makes it a popular place to eat before a show.",
+          "zh": "那家餐廳靠近劇院，所以是看表演前吃飯的熱門地點。"
+        }
+      ],
+      "distractors": [
+        "prosperity",
+        "priority",
+        "publicity"
+      ],
+      "note": "語塊：in close proximity to（非常靠近）、proximity to（靠近……）。proximity 是「距離很近」；nearness 意思接近；approximately 是「大約」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-support-of",
+      "word": "in support of",
+      "pos": "其他",
+      "meaning": "支持；為了支持",
+      "sentences": [
+        {
+          "en": "Many residents signed a letter in support of the plan to build a new park near the river.",
+          "zh": "很多居民簽了一封信，支持在河邊興建新公園的計畫。"
+        },
+        {
+          "en": "The company donated money in support of local schools that need new computers and books.",
+          "zh": "公司捐款支持需要新電腦和書的當地學校。"
+        },
+        {
+          "en": "Several business leaders spoke in support of the new tax policy at the meeting on Thursday.",
+          "zh": "好幾位企業領袖在週四的會議上發言支持新的稅收政策。"
+        },
+        {
+          "en": "The runners in the marathon are raising money in support of the children's hospital in the city.",
+          "zh": "馬拉松跑者正在為支持城裡的兒童醫院募款。"
+        },
+        {
+          "en": "The board voted in support of the proposal to open a new office in Singapore next year.",
+          "zh": "董事會投票支持明年在新加坡開設新辦公室的提案。"
+        }
+      ],
+      "distractors": [
+        "in spite of",
+        "in place of",
+        "in charge of"
+      ],
+      "note": "語塊：in support of（支持……）。in support of 是「為了支持某事」；in favor of 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-genetics",
+      "word": "genetics",
+      "pos": "名詞",
+      "meaning": "遺傳學",
+      "sentences": [
+        {
+          "en": "Dr. Lee studied genetics at university and now works at a laboratory that develops new medicines.",
+          "zh": "李博士大學讀遺傳學，現在在一家開發新藥的實驗室工作。"
+        },
+        {
+          "en": "The university received a large grant to support its genetics research on rare diseases in children.",
+          "zh": "那所大學獲得一大筆補助，支持它針對罕見疾病的遺傳學研究。"
+        },
+        {
+          "en": "Advances in genetics have helped doctors understand why some people are more likely to get certain diseases.",
+          "zh": "遺傳學的進步幫助醫生了解為什麼有些人比較容易得某些疾病。"
+        },
+        {
+          "en": "Students who are interested in genetics can take an introductory course during their first year.",
+          "zh": "對遺傳學有興趣的學生可以在第一年修一門入門課程。"
+        },
+        {
+          "en": "The company uses genetics to develop crops that can grow well even when there is little rain.",
+          "zh": "那家公司運用遺傳學開發雨量少也能長得好的作物。"
+        }
+      ],
+      "distractors": [
+        "genesis",
+        "generics",
+        "geriatrics"
+      ],
+      "note": "語塊：study genetics（研究遺傳學）、genetics research（遺傳學研究）。genetics 是學科名稱，當單數用；genetic 是形容詞「遺傳的」；gene 是「基因」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-a-variety-of",
+      "word": "a variety of",
+      "pos": "其他",
+      "meaning": "各種各樣的",
+      "sentences": [
+        {
+          "en": "The store sells a variety of products, including clothing, furniture, and kitchen appliances for the home.",
+          "zh": "那家店販售各式各樣的產品，包括服飾、家具和廚房家電。"
+        },
+        {
+          "en": "The restaurant offers a variety of dishes from Asia, Europe, and South America on its new menu.",
+          "zh": "那家餐廳的新菜單提供各式各樣的亞洲、歐洲和南美料理。"
+        },
+        {
+          "en": "The conference will include a variety of workshops on marketing, finance, and leadership for small businesses.",
+          "zh": "研討會將有各種關於行銷、財務和領導力的工作坊。"
+        },
+        {
+          "en": "Employees can choose from a variety of training courses that are offered online every month.",
+          "zh": "員工每個月可以從線上提供的各種訓練課程中選擇。"
+        },
+        {
+          "en": "The hotel provides a variety of activities for guests, such as cooking classes and bicycle tours.",
+          "zh": "飯店為客人提供各種活動，例如烹飪課和腳踏車導覽。"
+        }
+      ],
+      "distractors": [
+        "a number of",
+        "a lot of",
+        "a series of"
+      ],
+      "note": "語塊：a variety of products（各式各樣的產品）、a variety of workshops（各種工作坊）、a variety of training courses（各種訓練課程）、a variety of activities（各種活動）。a variety of 後面接複數名詞；various 意思相同；variety 是名詞「多樣性」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hereditary",
+      "word": "hereditary",
+      "pos": "形容詞",
+      "meaning": "遺傳的；世襲的",
+      "sentences": [
+        {
+          "en": "The doctor explained that the patient's heart problem was a hereditary condition from his father's side.",
+          "zh": "醫生解釋說病人的心臟問題是從父親那邊遺傳來的狀況。"
+        },
+        {
+          "en": "Scientists are working to find new treatments for hereditary diseases that affect young children and their families.",
+          "zh": "科學家正在努力尋找影響幼童的遺傳疾病的新療法。"
+        },
+        {
+          "en": "Some eye problems are hereditary, so doctors ask patients about their family history during checkups.",
+          "zh": "有些眼睛問題是遺傳的，所以醫生在檢查時會問病人的家族病史。"
+        },
+        {
+          "en": "The new test can show whether a person is likely to develop a hereditary disease in the future.",
+          "zh": "新的檢測可以顯示一個人未來是否可能發展出遺傳疾病。"
+        },
+        {
+          "en": "Research on hereditary conditions has improved greatly over the past ten years because of new technology.",
+          "zh": "因為新科技，過去十年遺傳性狀況的研究大幅進步。"
+        }
+      ],
+      "distractors": [
+        "heredity",
+        "hesitant",
+        "momentary"
+      ],
+      "note": "語塊：hereditary disease（遺傳疾病）、hereditary condition（遺傳性狀況）。hereditary 是「從父母遺傳下來的」；heredity 是名詞「遺傳」；genetic 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-repetition",
+      "word": "repetition",
+      "pos": "名詞",
+      "meaning": "重複；反覆",
+      "sentences": [
+        {
+          "en": "Learning a new language takes a lot of practice and repetition, especially when you are an adult.",
+          "zh": "學新語言需要大量的練習和反覆，尤其是成年人。"
+        },
+        {
+          "en": "Please edit the report to avoid repetition, as several of the paragraphs say exactly the same thing.",
+          "zh": "請編輯報告避免重複，因為有好幾段在說同樣的事。"
+        },
+        {
+          "en": "Through repetition, new employees quickly learn how to use the cash register and the ordering system.",
+          "zh": "透過反覆練習，新員工很快就學會使用收銀機和點餐系統。"
+        },
+        {
+          "en": "Factory work often involves a lot of repetition, so workers change tasks every two hours.",
+          "zh": "工廠工作常常有很多重複性的動作，所以工人每兩小時換一次工作。"
+        },
+        {
+          "en": "The teacher believes that repetition is the best way for children to remember new words.",
+          "zh": "老師認為反覆練習是孩子記住新單字最好的方法。"
+        }
+      ],
+      "distractors": [
+        "petition",
+        "competition",
+        "reputation"
+      ],
+      "note": "語塊：through repetition（透過反覆練習）、avoid repetition（避免重複）、practice and repetition（練習與反覆）、a lot of repetition（很多重複）。repetition 是名詞；repeat 是動詞「重複」；repetitive 是形容詞「重複的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proceed-with",
+      "word": "proceed with",
+      "pos": "片語動詞",
+      "meaning": "繼續進行",
+      "sentences": [
+        {
+          "en": "The company will proceed with the plan to open a new factory after the city approves the permits.",
+          "zh": "市政府核准許可後，公司將繼續進行開設新工廠的計畫。"
+        },
+        {
+          "en": "Drivers should proceed with caution on the mountain roads because of the heavy snow this weekend.",
+          "zh": "因為這個週末下大雪，駕駛在山路上應謹慎行駛。"
+        },
+        {
+          "en": "Before we proceed with the meeting, I would like to welcome our new colleagues from the Seoul office.",
+          "zh": "在我們繼續開會之前，我想歡迎首爾辦公室的新同事。"
+        },
+        {
+          "en": "The board decided not to proceed with the merger after reviewing the financial reports of both companies.",
+          "zh": "看過財務報告後，董事會決定不繼續進行合併。"
+        },
+        {
+          "en": "Please proceed with the order once the customer has paid the deposit and signed the contract.",
+          "zh": "顧客付了訂金並簽約後，請繼續處理訂單。"
+        }
+      ],
+      "distractors": [
+        "precede with",
+        "provide with",
+        "proceed to"
+      ],
+      "note": "語塊：proceed with the plan（繼續進行計畫）、proceed with caution（謹慎行事）、proceed with the meeting（繼續開會）、proceed with the merger（繼續進行合併）、proceed with the order（繼續處理訂單）。proceed with 是「著手、繼續做」；go ahead with 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-funding",
+      "word": "funding",
+      "pos": "名詞",
+      "meaning": "資金；經費",
+      "sentences": [
+        {
+          "en": "The research team will receive funding from the government to study air pollution in large cities.",
+          "zh": "研究團隊將獲得政府資金，研究大城市的空氣污染。"
+        },
+        {
+          "en": "Many small theaters depend on government funding because ticket sales are not enough to cover costs.",
+          "zh": "很多小劇場依賴政府經費，因為門票收入不夠支付成本。"
+        },
+        {
+          "en": "The project was delayed because of a lack of funding, but it will continue once new investors are found.",
+          "zh": "專案因為資金不足而延誤，但找到新投資人後就會繼續。"
+        },
+        {
+          "en": "The startup received funding from several investors who believe in its new technology for farms.",
+          "zh": "那家新創公司獲得好幾位相信它新技術的投資人資金。"
+        },
+        {
+          "en": "The school is looking for funding to build a new library and buy computers for its students.",
+          "zh": "那所學校正在尋找資金，興建新圖書館並為學生購買電腦。"
+        }
+      ],
+      "distractors": [
+        "founding",
+        "finding",
+        "fending"
+      ],
+      "note": "語塊：receive funding（獲得資金）、government funding（政府經費）、lack of funding（資金不足）。funding 是「為計畫提供的資金」；fund 可以當名詞「基金」或動詞「資助」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
