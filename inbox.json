@@ -10833,6 +10833,41 @@
       ],
       "note": "語塊：a bout of heavy rain（一陣大雨）、a bout of the flu（一場流感）、a short bout of（短暫的一陣……）、another bout of（又一波……）。bout 是「一陣子、一段時間」，通常指不好的事情發作一段時間，像天氣、生病、問題。也可以指拳擊、摔角的「一回合比賽」。同義：spell（一段時間）、episode（發作）。發音 [baʊt]，跟 about 的後半一樣。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-precipitation",
+      "word": "precipitation",
+      "pos": "名詞",
+      "meaning": "降水（量）；降雨、降雪",
+      "sentences": [
+        {
+          "en": "The amount of precipitation this month was twice as high as usual, causing floods in several low-lying areas.",
+          "zh": "這個月的降雨量是平常的兩倍，造成好幾個低窪地區淹水。"
+        },
+        {
+          "en": "Weather forecasters expect heavy precipitation in the mountains, so drivers should be careful on the roads.",
+          "zh": "氣象預報員預估山區會有大量降雨，所以駕駛在路上要小心。"
+        },
+        {
+          "en": "Annual precipitation in this region is very low, so farmers depend on water from the nearby river.",
+          "zh": "這個地區的年降雨量很少，所以農民依賴附近河流的水。"
+        },
+        {
+          "en": "The outdoor event will continue as planned unless there is more than a seventy percent chance of precipitation.",
+          "zh": "除非降雨機率超過七成，否則戶外活動會照原定計畫進行。"
+        },
+        {
+          "en": "Scientists are studying how changes in precipitation will affect rice production over the next twenty years.",
+          "zh": "科學家正在研究降水的變化會怎樣影響未來二十年的稻米產量。"
+        }
+      ],
+      "distractors": [
+        "participation",
+        "preparation",
+        "prescription"
+      ],
+      "note": "語塊：the amount of precipitation（降水量）、heavy precipitation（大量降雨／降雪）、annual precipitation（年降水量）、a chance of precipitation（降雨機率）。precipitation 是「降水」，包含雨、雪、冰雹，比 rain 更正式，常出現在氣象報告。別跟 participation（參加）、preparation（準備）、prescription（處方）搞混，字尾都一樣。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
