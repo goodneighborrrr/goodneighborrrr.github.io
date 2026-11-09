@@ -29173,6 +29173,706 @@
       ],
       "note": "語塊：media coverage（媒體報導）、insurance coverage（保險保障）、network coverage（網路覆蓋範圍）。coverage 可以是新聞「報導」、保險「保障範圍」或手機訊號「覆蓋範圍」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-strike",
+      "word": "strike",
+      "pos": "名詞",
+      "meaning": "罷工；打擊",
+      "sentences": [
+        {
+          "en": "Train drivers plan to go on strike next week if their demands for higher wages are not met.",
+          "zh": "如果加薪要求沒有被接受，火車司機打算下週罷工。"
+        },
+        {
+          "en": "Many flights were canceled because the airport workers were on strike for three days last week.",
+          "zh": "因為機場員工罷工三天，很多航班被取消。"
+        },
+        {
+          "en": "A strike by factory workers has delayed the production of the company's new electric car.",
+          "zh": "工廠工人的罷工延誤了公司新電動車的生產。"
+        },
+        {
+          "en": "The union decided to go on strike after talks with management broke down on Friday evening.",
+          "zh": "週五晚上和資方的談判破裂後，工會決定罷工。"
+        },
+        {
+          "en": "Teachers in several cities are on strike, so many schools will be closed until the end of the week.",
+          "zh": "好幾個城市的老師正在罷工，所以很多學校會停課到週末。"
+        }
+      ],
+      "distractors": [
+        "stroke",
+        "strict",
+        "stride"
+      ],
+      "note": "語塊：go on strike（罷工）、be on strike（正在罷工）、a strike by（……的罷工）。strike 當名詞常指「罷工」；當動詞是「打；（災害）侵襲」，過去式 struck。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-equivalent",
+      "word": "equivalent",
+      "pos": "名詞",
+      "meaning": "相等物；對應的東西",
+      "sentences": [
+        {
+          "en": "The company donated the equivalent of one month's profits to help families affected by the flood.",
+          "zh": "公司捐出相當於一個月利潤的金額，幫助受水災影響的家庭。"
+        },
+        {
+          "en": "A score of 90 on this test is roughly equivalent to an A in most schools.",
+          "zh": "這個考試的 90 分大概等同於大部分學校的 A。"
+        },
+        {
+          "en": "The new factory will produce the equivalent of ten thousand cars every year when it is fully operating.",
+          "zh": "新工廠全面運作時，每年將生產相當於一萬輛汽車的數量。"
+        },
+        {
+          "en": "Applicants must have a university degree in business or an equivalent amount of work experience.",
+          "zh": "應徵者必須有商學學位，或同等的工作經驗。"
+        },
+        {
+          "en": "The price of the hotel room is equivalent to about one hundred dollars per night, including breakfast.",
+          "zh": "飯店房價相當於每晚大約一百美元，含早餐。"
+        }
+      ],
+      "distractors": [
+        "equivocal",
+        "equipment",
+        "eventual"
+      ],
+      "note": "語塊：the equivalent of（相當於……）、equivalent to（等同於）。equivalent 可以當名詞或形容詞；equal 是「相等的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-total",
+      "word": "total",
+      "pos": "名詞",
+      "meaning": "總數；總額",
+      "sentences": [
+        {
+          "en": "A total of three hundred people attended the conference, which was more than the organizers expected.",
+          "zh": "總共有三百人參加研討會，比主辦單位預期的還多。"
+        },
+        {
+          "en": "In total, the renovation of the office took four months and cost about two million dollars.",
+          "zh": "辦公室翻修總共花了四個月，花費大約兩百萬美元。"
+        },
+        {
+          "en": "The grand total for your order, including tax and shipping, is shown at the bottom of the invoice.",
+          "zh": "你訂單的總計金額，含稅和運費，列在發票的最下方。"
+        },
+        {
+          "en": "The company opened a total of fifteen new stores in Asia last year, mostly in large cities.",
+          "zh": "公司去年在亞洲總共開了十五家新店，大部分在大城市。"
+        },
+        {
+          "en": "The total of all expenses must not be higher than the budget that was approved by the director.",
+          "zh": "所有支出的總額不得超過總監核准的預算。"
+        }
+      ],
+      "distractors": [
+        "totem",
+        "tutor",
+        "title"
+      ],
+      "note": "語塊：in total（總共）、a total of（總共……）、grand total（總計）。total 可以當名詞、形容詞（total cost）或動詞「總計達」；totally 是副詞「完全地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-satisfaction",
+      "word": "satisfaction",
+      "pos": "名詞",
+      "meaning": "滿意；滿足",
+      "sentences": [
+        {
+          "en": "Customer satisfaction is our top priority, so we ask every customer to complete a short survey.",
+          "zh": "顧客滿意度是我們的首要之務，所以我們請每位顧客填寫一份簡短的問卷。"
+        },
+        {
+          "en": "Studies show that job satisfaction is higher among employees who can choose their working hours.",
+          "zh": "研究顯示，可以自己選工作時間的員工工作滿意度比較高。"
+        },
+        {
+          "en": "The repair was completed to the customer's satisfaction, and she gave the technician a good review.",
+          "zh": "維修完成得讓顧客很滿意，她給技師一個好評。"
+        },
+        {
+          "en": "The hotel improved its customer satisfaction scores by training its staff and renovating the rooms.",
+          "zh": "飯店透過訓練員工和翻修客房，提高了顧客滿意度分數。"
+        },
+        {
+          "en": "Many workers say that a friendly team is more important for job satisfaction than a high salary.",
+          "zh": "很多上班族說，對工作滿意度來說，友善的團隊比高薪更重要。"
+        }
+      ],
+      "distractors": [
+        "satisfactory",
+        "situation",
+        "sanitation"
+      ],
+      "note": "語塊：customer satisfaction（顧客滿意度）、job satisfaction（工作滿意度）、to one's satisfaction（令某人滿意）。satisfaction 是名詞；satisfy 是動詞；satisfied 是「感到滿意的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-go-into-effect",
+      "word": "go into effect",
+      "pos": "片語動詞",
+      "meaning": "生效",
+      "sentences": [
+        {
+          "en": "The new parking rules will go into effect on the first of next month for all employees and visitors.",
+          "zh": "新停車規定將在下個月一號對所有員工和訪客生效。"
+        },
+        {
+          "en": "The price increase will go into effect in January, so customers should buy their tickets before then.",
+          "zh": "漲價將在一月生效，所以顧客應該在那之前買票。"
+        },
+        {
+          "en": "The law banning plastic bags will go into effect next year, and stores must offer paper bags instead.",
+          "zh": "禁止塑膠袋的法律明年生效，商店必須改提供紙袋。"
+        },
+        {
+          "en": "Changes to the vacation policy will go into effect after they are approved by the board of directors.",
+          "zh": "休假規定的修改經董事會核准後生效。"
+        },
+        {
+          "en": "The new safety rules will immediately go into effect, so all workers must wear helmets starting today.",
+          "zh": "新的安全規定立即生效，所以從今天起所有工人都必須戴安全帽。"
+        }
+      ],
+      "distractors": [
+        "go into detail",
+        "come into contact",
+        "put into practice"
+      ],
+      "note": "語塊：go into effect on（在……生效）、immediately go into effect（立即生效）。go into effect 和 take effect、come into effect 意思相同，用在法規、政策。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trade",
+      "word": "trade",
+      "pos": "名詞",
+      "meaning": "貿易；交易；行業",
+      "sentences": [
+        {
+          "en": "The two countries signed a trade agreement that will reduce taxes on cars and electronics.",
+          "zh": "兩國簽署了一項貿易協定，將降低汽車和電子產品的關稅。"
+        },
+        {
+          "en": "Our company will display its newest products at the trade show in Frankfurt next month.",
+          "zh": "我們公司下個月會在法蘭克福的商展上展出最新產品。"
+        },
+        {
+          "en": "Ms. Chen studied international trade at university and now works for a shipping company in Singapore.",
+          "zh": "陳小姐大學讀國際貿易，現在在新加坡一家航運公司工作。"
+        },
+        {
+          "en": "Many small businesses meet new customers and suppliers at the annual trade show in the capital.",
+          "zh": "很多小企業在首都的年度商展上認識新客戶和供應商。"
+        },
+        {
+          "en": "The new trade agreement is expected to increase exports of fruit and vegetables to Asia.",
+          "zh": "新的貿易協定預計會增加蔬果出口到亞洲。"
+        }
+      ],
+      "distractors": [
+        "tread",
+        "grade",
+        "trace"
+      ],
+      "note": "語塊：trade agreement（貿易協定）、trade show（商展）、international trade（國際貿易）。trade 可以是「貿易」，也可以指某種「行業、手藝」（learn a trade）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-negotiator",
+      "word": "negotiator",
+      "pos": "名詞",
+      "meaning": "談判者",
+      "sentences": [
+        {
+          "en": "Ms. Ward is a skilled negotiator who helped the company get much better prices from its suppliers.",
+          "zh": "Ward 小姐是一位熟練的談判者，幫公司從供應商那裡拿到更好的價格。"
+        },
+        {
+          "en": "The union chose an experienced negotiator to represent the workers in talks with management about wages.",
+          "zh": "工會選了一位有經驗的談判者代表工人和資方談判。"
+        },
+        {
+          "en": "The chief negotiator for the government will meet with officials from the other country next week.",
+          "zh": "政府的首席談判代表下週會和對方國家的官員見面。"
+        },
+        {
+          "en": "A good negotiator listens carefully and tries to find a solution that benefits both sides.",
+          "zh": "好的談判者會仔細聆聽，努力找到對雙方都有利的解決辦法。"
+        },
+        {
+          "en": "The company hired a professional negotiator to help it buy the land for the new factory.",
+          "zh": "公司聘請一位專業談判者，幫忙買下新工廠的土地。"
+        }
+      ],
+      "distractors": [
+        "navigator",
+        "nominator",
+        "narrator"
+      ],
+      "note": "語塊：skilled negotiator（熟練的談判者）、chief negotiator（首席談判代表）、experienced negotiator（有經驗的談判者）、a good negotiator（好的談判者）。negotiator 是「談判的人」；negotiate 是動詞；negotiation 是名詞「談判」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pick-up",
+      "word": "pick up",
+      "pos": "片語動詞",
+      "meaning": "接（人）；取（物）；好轉",
+      "sentences": [
+        {
+          "en": "You can pick up your package at the post office after showing your ID and the delivery notice.",
+          "zh": "你出示身分證和到貨通知後，就可以在郵局領取包裹。"
+        },
+        {
+          "en": "The hotel shuttle will pick up guests at the airport every thirty minutes from six in the morning.",
+          "zh": "飯店接駁車從早上六點起每三十分鐘到機場接客人。"
+        },
+        {
+          "en": "Sales usually pick up in December, when many people buy gifts for their friends and family.",
+          "zh": "銷售通常在十二月回升，那時很多人會買節慶禮物。"
+        },
+        {
+          "en": "Please pick up your name badge at the registration desk before entering the conference hall.",
+          "zh": "進入會議廳前，請到報到處領取名牌。"
+        },
+        {
+          "en": "I will pick up the clients from their hotel and bring them to the office for the meeting at ten.",
+          "zh": "我會去飯店接客戶，帶他們到辦公室參加十點的會議。"
+        }
+      ],
+      "distractors": [
+        "pick out",
+        "pick on",
+        "picky"
+      ],
+      "note": "語塊：pick up a package（取包裹）、pick sb up（接某人）、sales pick up（銷售回升）。pick up 可以是「去接、去拿」，也可以表示「好轉、回升」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-progress",
+      "word": "progress",
+      "pos": "名詞",
+      "meaning": "進展；進步",
+      "sentences": [
+        {
+          "en": "The construction team has made good progress, and the building should be finished by next spring.",
+          "zh": "施工團隊進展良好，大樓應該在明年春天前完工。"
+        },
+        {
+          "en": "Please do not enter the meeting room while the job interview is in progress this afternoon.",
+          "zh": "面試進行中時，請不要進入會議室。"
+        },
+        {
+          "en": "Each project manager must submit a progress report to the director at the end of every month.",
+          "zh": "每位專案經理都必須在每個月底向總監提交進度報告。"
+        },
+        {
+          "en": "The new employee has made a lot of progress since she started working here three months ago.",
+          "zh": "那位新員工三個月前開始在這裡工作以來，進步了很多。"
+        },
+        {
+          "en": "Renovation work is in progress on the third floor, so please use the stairs on the east side.",
+          "zh": "三樓正在進行翻修工程，所以請走東側的樓梯。"
+        }
+      ],
+      "distractors": [
+        "process",
+        "prowess",
+        "progressive"
+      ],
+      "note": "語塊：make progress（取得進展）、in progress（進行中）、progress report（進度報告）。progress 當名詞是不可數的（make good progress）；當動詞重音在後。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-warehouse",
+      "word": "warehouse",
+      "pos": "名詞",
+      "meaning": "倉庫",
+      "sentences": [
+        {
+          "en": "The company built a new warehouse near the port so that it can ship products overseas more quickly.",
+          "zh": "公司在港口附近蓋了一座新倉庫，可以更快把產品運往海外。"
+        },
+        {
+          "en": "The warehouse manager is responsible for checking every shipment that arrives from the factory each morning.",
+          "zh": "倉庫經理負責檢查從工廠送來的每一批貨。"
+        },
+        {
+          "en": "Unsold products are stored in a warehouse outside the city until they are needed in the stores.",
+          "zh": "賣不完的產品會存放在城外的倉庫，直到門市需要為止。"
+        },
+        {
+          "en": "The warehouse staff work in shifts so that orders can be packed and shipped twenty-four hours a day.",
+          "zh": "倉庫人員輪班工作，讓訂單能二十四小時包裝出貨。"
+        },
+        {
+          "en": "The old warehouse near the river has been turned into a popular market with shops and restaurants.",
+          "zh": "河邊的舊倉庫已經改建成有商店和餐廳的熱門市集。"
+        }
+      ],
+      "distractors": [
+        "wardrobe",
+        "greenhouse",
+        "storehouse"
+      ],
+      "note": "語塊：warehouse manager（倉庫經理）、store in a warehouse（存放在倉庫）、warehouse staff（倉庫人員）。warehouse 是「存放貨物的大倉庫」；storage room 是「儲藏室」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-laboratory",
+      "word": "laboratory",
+      "pos": "名詞",
+      "meaning": "實驗室",
+      "sentences": [
+        {
+          "en": "The university opened a new research laboratory that will focus on developing cleaner sources of energy.",
+          "zh": "那所大學啟用了一座新的研究實驗室，專注開發更乾淨的能源。"
+        },
+        {
+          "en": "The doctor sent the blood samples for a laboratory test to find out the cause of the patient's illness.",
+          "zh": "醫生把血液樣本送去做實驗室檢驗，找出病人生病的原因。"
+        },
+        {
+          "en": "Visitors must wear safety glasses and gloves at all times when they are in the laboratory.",
+          "zh": "訪客在實驗室裡必須隨時戴護目鏡和手套。"
+        },
+        {
+          "en": "The company spent two million dollars on new equipment for its research laboratory in Seoul.",
+          "zh": "公司花了兩百萬美元為首爾的研究實驗室購買新設備。"
+        },
+        {
+          "en": "The results of the laboratory test showed that the water from the river was safe to drink.",
+          "zh": "實驗室檢驗結果顯示河水可以安全飲用。"
+        }
+      ],
+      "distractors": [
+        "lavatory",
+        "library",
+        "observatory"
+      ],
+      "note": "語塊：research laboratory（研究實驗室）、laboratory test（實驗室檢驗）、in the laboratory（在實驗室裡）。laboratory 常縮寫成 lab；lavatory（廁所）長得像，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-application-form",
+      "word": "application form",
+      "pos": "名詞",
+      "meaning": "申請表",
+      "sentences": [
+        {
+          "en": "Please fill out an application form and attach a copy of your résumé if you are interested in the job.",
+          "zh": "如果你對這份工作有興趣，請填寫申請表並附上一份履歷。"
+        },
+        {
+          "en": "All students must submit an application form for the scholarship by the end of March.",
+          "zh": "所有學生都必須在三月底前提交獎學金申請表。"
+        },
+        {
+          "en": "The online application form takes about fifteen minutes to complete and can be saved at any time.",
+          "zh": "線上申請表大約十五分鐘就能填完，而且隨時可以儲存。"
+        },
+        {
+          "en": "Incomplete application forms will not be accepted, so please check that every application form is fully filled out.",
+          "zh": "不完整的申請表不會被受理，所以請確認每一份申請表都填寫完整。"
+        },
+        {
+          "en": "You can download the application form from our website or pick one up at the front desk.",
+          "zh": "你可以從我們網站下載申請表，或到櫃台索取。"
+        }
+      ],
+      "distractors": [
+        "registration form",
+        "order form",
+        "consent form"
+      ],
+      "note": "語塊：fill out an application form（填寫申請表）、submit an application form（提交申請表）、online application form（線上申請表）。application 是「申請」；applicant 是「申請人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-facilitate",
+      "word": "facilitate",
+      "pos": "動詞",
+      "meaning": "促進；使便利",
+      "sentences": [
+        {
+          "en": "The new software will facilitate communication between our offices in Asia, Europe, and North America.",
+          "zh": "新軟體將促進我們亞洲、歐洲和北美辦公室之間的溝通。"
+        },
+        {
+          "en": "To facilitate the process, please bring all of the required documents to your first appointment.",
+          "zh": "為了讓流程更順利，請在第一次預約時帶齊所有必要文件。"
+        },
+        {
+          "en": "Ms. Ito was invited to facilitate discussion at the workshop on leadership for new managers.",
+          "zh": "伊藤小姐受邀在新任經理領導力工作坊上帶領討論。"
+        },
+        {
+          "en": "The government built new roads to facilitate trade between the two neighboring countries in the region.",
+          "zh": "政府興建新道路，促進兩個鄰國之間的貿易。"
+        },
+        {
+          "en": "The online booking system was designed to facilitate the process of reserving meeting rooms in the building.",
+          "zh": "線上預約系統是為了讓預訂會議室的流程更順利而設計的。"
+        }
+      ],
+      "distractors": [
+        "felicitate",
+        "fabricate",
+        "facility"
+      ],
+      "note": "語塊：facilitate communication（促進溝通）、facilitate the process（讓流程更順利）、facilitate discussion（帶領討論）。facilitate 是「讓事情更容易進行」；facility 是「設施」；facilitator 是「引導者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-general",
+      "word": "in general",
+      "pos": "其他",
+      "meaning": "一般來說；大致上",
+      "sentences": [
+        {
+          "en": "In general, customers prefer to shop online because it is faster and more convenient than visiting stores.",
+          "zh": "一般來說，顧客比較喜歡網路購物，因為比去實體店更快更方便。"
+        },
+        {
+          "en": "The feedback from the training session was positive in general, but some people wanted more examples.",
+          "zh": "訓練課程的回饋大致上是正面的，但有些人希望有更多例子。"
+        },
+        {
+          "en": "People in general are spending more money on travel and entertainment than they did ten years ago.",
+          "zh": "一般大眾現在花在旅遊和娛樂上的錢比十年前多。"
+        },
+        {
+          "en": "In general, the hotel's rooms are clean and comfortable, although the breakfast could be improved.",
+          "zh": "一般來說，飯店的房間乾淨又舒適，不過早餐還可以改進。"
+        },
+        {
+          "en": "Small businesses in general have been affected by the rising cost of rent in the city center.",
+          "zh": "小企業大體上都受到市中心房租上漲的影響。"
+        }
+      ],
+      "distractors": [
+        "in particular",
+        "in detail",
+        "in total"
+      ],
+      "note": "語塊：in general（大體上）、people in general（一般大眾）。in general 和 generally、on the whole 意思接近；放在句首時後面常加逗號。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nearly",
+      "word": "nearly",
+      "pos": "副詞",
+      "meaning": "幾乎；將近",
+      "sentences": [
+        {
+          "en": "Nearly all of the tickets for the concert were sold within the first hour of going on sale.",
+          "zh": "演唱會門票開賣第一個小時內幾乎全部賣光。"
+        },
+        {
+          "en": "The construction of the new library is nearly finished and will open to the public in October.",
+          "zh": "新圖書館的工程快完成了，將在十月對外開放。"
+        },
+        {
+          "en": "The number of visitors to the museum has nearly doubled since it added the new science exhibit.",
+          "zh": "自從增加新的科學展後，博物館的參觀人數將近翻倍。"
+        },
+        {
+          "en": "It took nearly three hours to drive to the airport because of the heavy snow on the highway.",
+          "zh": "因為公路上下大雪，開到機場花了將近三個小時。"
+        },
+        {
+          "en": "Nearly all of our employees use public transportation or ride bicycles to get to the office.",
+          "zh": "我們幾乎所有員工都搭大眾運輸或騎腳踏車到辦公室。"
+        }
+      ],
+      "distractors": [
+        "neatly",
+        "newly",
+        "merely"
+      ],
+      "note": "語塊：nearly all（幾乎全部）、nearly finished（快完成了）、nearly double（將近一倍）。nearly 和 almost 意思相同；near 是「靠近」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clothing",
+      "word": "clothing",
+      "pos": "名詞",
+      "meaning": "衣服；服裝（總稱）",
+      "sentences": [
+        {
+          "en": "Workers in the laboratory must wear protective clothing when they handle dangerous chemicals or samples.",
+          "zh": "實驗室的工作人員處理危險化學品時必須穿防護衣。"
+        },
+        {
+          "en": "The new clothing store on Main Street sells shirts, dresses, and jackets made from organic cotton.",
+          "zh": "Main 街那家新服飾店販售用有機棉做的襯衫、洋裝和外套。"
+        },
+        {
+          "en": "Hikers should bring warm clothing because the temperature on the mountain drops quickly at night.",
+          "zh": "登山客應該帶保暖衣物，因為山上晚上氣溫下降很快。"
+        },
+        {
+          "en": "The charity collects used clothing and gives it to families who cannot afford to buy new items.",
+          "zh": "那個慈善團體收集舊衣，送給買不起新衣的家庭。"
+        },
+        {
+          "en": "Sales of winter clothing increased sharply after the first heavy snow fell in early November.",
+          "zh": "十一月初下了第一場雪後，冬季服飾的銷售大幅增加。"
+        }
+      ],
+      "distractors": [
+        "cloth",
+        "closing",
+        "clothes"
+      ],
+      "note": "語塊：protective clothing（防護衣）、clothing store（服飾店）、warm clothing（保暖衣物）。clothing 是不可數名詞（總稱）；clothes 是複數；cloth 是「布料」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-layout",
+      "word": "layout",
+      "pos": "名詞",
+      "meaning": "配置；版面設計",
+      "sentences": [
+        {
+          "en": "The new office layout has fewer walls, so employees can communicate with each other more easily.",
+          "zh": "新的辦公室配置牆比較少，所以員工彼此溝通更容易。"
+        },
+        {
+          "en": "The designer changed the page layout of the magazine to make the articles easier to read.",
+          "zh": "設計師改變了雜誌的版面設計，讓文章更容易閱讀。"
+        },
+        {
+          "en": "The store decided to change the layout so that customers could find popular products more quickly.",
+          "zh": "那家店決定改變配置，讓顧客更快找到熱門商品。"
+        },
+        {
+          "en": "Before moving in, we asked an architect to suggest an office layout that would make good use of space.",
+          "zh": "搬進去之前，我們請建築師建議一個能善用空間的辦公室配置。"
+        },
+        {
+          "en": "The layout of the website is simple, with clear menus that help visitors find information quickly.",
+          "zh": "網站的版面很簡潔，有清楚的選單幫助訪客快速找到資訊。"
+        }
+      ],
+      "distractors": [
+        "outlay",
+        "payout",
+        "lookout"
+      ],
+      "note": "語塊：office layout（辦公室配置）、page layout（版面設計）、change the layout（改變配置）。layout 是「空間或版面的安排方式」；lay out（兩個字）是動詞「擺放；規劃」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cuisine",
+      "word": "cuisine",
+      "pos": "名詞",
+      "meaning": "料理；菜餚",
+      "sentences": [
+        {
+          "en": "Visitors to the city can enjoy local cuisine at the night market near the old temple.",
+          "zh": "到這座城市的遊客可以在老廟附近的夜市享用在地料理。"
+        },
+        {
+          "en": "The restaurant on the top floor of the hotel serves Italian cuisine prepared by a chef from Rome.",
+          "zh": "飯店頂樓的餐廳供應由羅馬主廚烹調的義大利菜。"
+        },
+        {
+          "en": "The cooking class teaches students how to prepare traditional cuisine using fresh vegetables and spices.",
+          "zh": "烹飪課教學生用新鮮蔬菜和香料做傳統料理。"
+        },
+        {
+          "en": "The food festival will feature local cuisine from more than thirty towns across the region.",
+          "zh": "美食節將有來自全區三十多個城鎮的在地料理。"
+        },
+        {
+          "en": "Many tourists say that the traditional cuisine is one of the main reasons they visit the country.",
+          "zh": "很多觀光客說傳統料理是他們造訪這個國家的主要原因之一。"
+        }
+      ],
+      "distractors": [
+        "cousin",
+        "quinine",
+        "queen"
+      ],
+      "note": "語塊：local cuisine（在地料理）、Italian cuisine（義大利菜）、traditional cuisine（傳統料理）。cuisine 是「某地或某種風格的料理」；dish 是「一道菜」；cooking 是「烹飪」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-related-to",
+      "word": "related to",
+      "pos": "其他",
+      "meaning": "與……有關",
+      "sentences": [
+        {
+          "en": "The new course covers topics related to marketing, accounting, and customer service for small businesses.",
+          "zh": "新課程涵蓋和行銷、會計及客服有關的主題。"
+        },
+        {
+          "en": "Many of the complaints we received were closely related to the delays in delivery last month.",
+          "zh": "我們收到的很多投訴都和上個月的延遲送貨密切相關。"
+        },
+        {
+          "en": "Please contact the IT department if you have any problems related to your computer or email account.",
+          "zh": "如果你有任何和電腦或電子郵件帳號有關的問題，請聯絡資訊部。"
+        },
+        {
+          "en": "The increase in sales is closely related to the success of our new advertising campaign.",
+          "zh": "銷售增加和我們新廣告活動的成功密切相關。"
+        },
+        {
+          "en": "Experience related to the hotel industry is helpful but not required for this position at the front desk.",
+          "zh": "和飯店業有關的經驗有幫助，但這個職位不一定要有。"
+        }
+      ],
+      "distractors": [
+        "relative to",
+        "relevant to",
+        "relieved to"
+      ],
+      "note": "語塊：be related to（和……有關）、closely related to（密切相關）、problems related to（與……有關的問題）。be related to 是「有關聯」；relative 是「親戚；相對的」；relation 是「關係」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-double-check",
+      "word": "double-check",
+      "pos": "動詞",
+      "meaning": "再次確認",
+      "sentences": [
+        {
+          "en": "Please double-check the details of your order before you click the button to confirm your payment.",
+          "zh": "點選確認付款按鈕之前，請再次確認訂單的細節。"
+        },
+        {
+          "en": "The accountant will double-check that all of the figures in the report are correct before it is sent.",
+          "zh": "會計師在報告寄出前會再次確認所有數字都正確。"
+        },
+        {
+          "en": "It is a good idea to double-check the time of your flight on the day before you travel.",
+          "zh": "出發前一天再確認一次班機時間是個好主意。"
+        },
+        {
+          "en": "Could you double-check the address of the client so that the package is not delivered to the wrong place?",
+          "zh": "你可以再確認一次客戶的地址嗎？以免包裹送錯地方。"
+        },
+        {
+          "en": "The editor asked the writer to double-check the details in the article before it appears in the magazine.",
+          "zh": "編輯要求作者在文章刊登前再次確認其中的細節。"
+        }
+      ],
+      "distractors": [
+        "double-cross",
+        "double-park",
+        "cross-check"
+      ],
+      "note": "語塊：double-check the details（再次確認細節）、double-check that（再次確認……）。double-check 是「再檢查一次」；check 是「檢查」。也可以寫作 double check。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
