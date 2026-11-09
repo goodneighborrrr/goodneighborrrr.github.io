@@ -15558,6 +15558,706 @@
       ],
       "note": "語塊：in response to requests（回應要求）、in response to demand（因應需求）、in response to feedback（回應意見）。in response to + 名詞，表示「為了回應……」；as a response to 意思相同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cost",
+      "word": "cost",
+      "pos": "名詞",
+      "meaning": "成本；費用",
+      "sentences": [
+        {
+          "en": "The company will cover the cost of your hotel and meals during the three-day training program in Seoul.",
+          "zh": "公司會負擔你在首爾三天訓練期間的飯店和餐費。"
+        },
+        {
+          "en": "Customers can upgrade to a larger room at no extra cost if they book before the end of this week.",
+          "zh": "顧客如果在這週結束前訂房，可以免費升等到較大的房間。"
+        },
+        {
+          "en": "The total cost of the renovation was much higher than the original estimate provided by the contractor.",
+          "zh": "翻修的總費用比承包商原本的估價高出許多。"
+        },
+        {
+          "en": "Switching to electronic invoices will help us reduce paper waste and lower the cost of mailing.",
+          "zh": "改用電子發票可以幫我們減少紙張浪費，並降低郵寄的成本。"
+        },
+        {
+          "en": "Members of the gym can attend yoga classes at no extra cost on weekday mornings.",
+          "zh": "健身房會員平日早上可以免費參加瑜伽課。"
+        }
+      ],
+      "distractors": [
+        "coast",
+        "cast",
+        "post"
+      ],
+      "note": "語塊：reduce costs（降低成本）、cover the cost of（負擔……的費用）、at no extra cost（不額外收費）。cost 是「花費的金額」；price 是「標價」；fee 是「服務費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regulatory",
+      "word": "regulatory",
+      "pos": "形容詞",
+      "meaning": "監管的；管理法規的",
+      "sentences": [
+        {
+          "en": "The new medicine cannot be sold until it receives regulatory approval from the national health department.",
+          "zh": "新藥要等到獲得國家衛生部門的核准才能販售。"
+        },
+        {
+          "en": "The regulatory agency will inspect the factory next month to make sure it meets environmental standards.",
+          "zh": "監管機構下個月會檢查工廠，確保它符合環保標準。"
+        },
+        {
+          "en": "All of our products are tested carefully to make sure that they meet every regulatory requirement in Europe.",
+          "zh": "我們所有的產品都經過仔細測試，確保符合歐洲的每一項法規要求。"
+        },
+        {
+          "en": "The bank hired additional lawyers to help it deal with the regulatory changes announced last year.",
+          "zh": "那家銀行增聘律師，協助處理去年宣布的法規變更。"
+        },
+        {
+          "en": "Waiting for regulatory approval delayed the opening of the new airline by almost six months.",
+          "zh": "等待主管機關核准讓那家新航空公司的開航延後將近六個月。"
+        }
+      ],
+      "distractors": [
+        "regular",
+        "regulated",
+        "revolutionary"
+      ],
+      "note": "語塊：regulatory approval（主管機關核准）、regulatory agency（監管機構）、regulatory requirements（法規要求）。regulatory 是形容詞，regulation 是「法規」；regular（規律的）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unreasonable",
+      "word": "unreasonable",
+      "pos": "形容詞",
+      "meaning": "不合理的；過分的",
+      "sentences": [
+        {
+          "en": "The supplier refused to accept the client's unreasonable demands for a fifty percent discount on the entire order.",
+          "zh": "供應商拒絕接受客戶要求打五折的無理要求。"
+        },
+        {
+          "en": "Many tourists complained about the unreasonable price of taxis from the airport to the city center.",
+          "zh": "很多觀光客抱怨從機場到市中心的計程車價格不合理。"
+        },
+        {
+          "en": "It is unreasonable to expect new employees to learn the entire system in only one day.",
+          "zh": "期待新員工一天之內學會整個系統是不合理的。"
+        },
+        {
+          "en": "The manager apologized to the team for setting an unreasonable deadline for the marketing report.",
+          "zh": "經理為了替行銷報告訂下不合理的截止日向團隊道歉。"
+        },
+        {
+          "en": "The tenants felt that the landlord's request for an extra deposit was unreasonable and contacted a lawyer.",
+          "zh": "房客覺得房東要求多付押金不合理，於是聯絡了律師。"
+        }
+      ],
+      "distractors": [
+        "unrecognizable",
+        "unreliable",
+        "unremarkable"
+      ],
+      "note": "語塊：unreasonable demands（無理的要求）、unreasonable price（不合理的價格）、it is unreasonable to（……是不合理的）。unreasonable 是「不合理、過分」；unacceptable（無法接受的）意思接近但重點不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-landfill",
+      "word": "landfill",
+      "pos": "名詞",
+      "meaning": "垃圾掩埋場",
+      "sentences": [
+        {
+          "en": "The city hopes to reduce the amount of garbage that is sent to a landfill by encouraging recycling.",
+          "zh": "市政府希望藉由鼓勵回收，減少送到垃圾掩埋場的垃圾量。"
+        },
+        {
+          "en": "Residents are worried about the smell from the landfill site that was built near their neighborhood.",
+          "zh": "居民擔心蓋在他們社區附近的垃圾掩埋場會有臭味。"
+        },
+        {
+          "en": "Our company uses recycled packaging to help reduce landfill waste and protect the local environment.",
+          "zh": "我們公司使用回收包裝，幫助減少掩埋垃圾並保護環境。"
+        },
+        {
+          "en": "Most of the old furniture from the hotel was donated to charities instead of being sent to a landfill.",
+          "zh": "飯店大部分的舊家具都捐給了慈善團體，而不是送到垃圾掩埋場。"
+        },
+        {
+          "en": "The government plans to close the landfill site within ten years and replace it with a public park.",
+          "zh": "政府計畫在十年內關閉那座垃圾掩埋場，改建成公園。"
+        }
+      ],
+      "distractors": [
+        "landmark",
+        "landslide",
+        "landlord"
+      ],
+      "note": "語塊：send to a landfill（送到垃圾掩埋場）、landfill site（掩埋場）、reduce landfill waste（減少掩埋垃圾）。landfill 是「垃圾掩埋場」；recycling（回收）是減少 landfill 的方法；landmark（地標）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-particularly",
+      "word": "particularly",
+      "pos": "副詞",
+      "meaning": "特別；尤其",
+      "sentences": [
+        {
+          "en": "It is particularly important to back up your files before the system upgrade this weekend.",
+          "zh": "在這個週末系統升級之前備份檔案特別重要。"
+        },
+        {
+          "en": "The training video was particularly useful for employees who had never used the new software before.",
+          "zh": "訓練影片對從沒用過新軟體的員工特別有用。"
+        },
+        {
+          "en": "Sales of cold drinks were particularly strong in July, when temperatures across the country reached record highs.",
+          "zh": "冷飲在七月的銷售特別好，那時氣溫創下新高。"
+        },
+        {
+          "en": "The new restaurant is not particularly expensive, but its portions are quite small for the price.",
+          "zh": "新餐廳不怎麼貴，但以價格來說份量蠻小的。"
+        },
+        {
+          "en": "Customers were particularly impressed by the friendly staff and fast service at the new branch.",
+          "zh": "顧客對新分店親切的員工和快速的服務印象特別深刻。"
+        }
+      ],
+      "distractors": [
+        "partially",
+        "peculiarly",
+        "perpetually"
+      ],
+      "note": "語塊：particularly important（特別重要）、particularly useful（特別有用）、not particularly（不怎麼）。particularly 和 especially 意思接近，都是「特別、尤其」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-influence",
+      "word": "influence",
+      "pos": "名詞",
+      "meaning": "影響；影響力",
+      "sentences": [
+        {
+          "en": "Social media has a strong influence on the products that young people decide to buy.",
+          "zh": "社群媒體對年輕人決定買什麼產品有很大的影響。"
+        },
+        {
+          "en": "The weather can have an influence on the number of visitors who come to the outdoor market.",
+          "zh": "天氣會影響來逛戶外市集的人數。"
+        },
+        {
+          "en": "The architect's designs were created under the influence of the traditional Japanese buildings that he studied as a student.",
+          "zh": "那位建築師的設計是受到他學生時期研究的日本傳統建築影響而創作的。"
+        },
+        {
+          "en": "Customer reviews have a strong influence on whether people choose to stay at a particular hotel.",
+          "zh": "顧客評論對人們是否選擇住某家飯店有很大的影響。"
+        },
+        {
+          "en": "Ms. Rossi has had a great influence on the success of our company since she became director.",
+          "zh": "Rossi 小姐自從當上總監以來，對公司的成功有很大的影響。"
+        }
+      ],
+      "distractors": [
+        "affluence",
+        "inference",
+        "fluency"
+      ],
+      "note": "語塊：have an influence on（對……有影響）、under the influence of（受……影響）、a strong influence（強大的影響）。influence 可以當名詞或動詞；effect 偏「造成的結果」，influence 偏「影響的力量」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deserve",
+      "word": "deserve",
+      "pos": "動詞",
+      "meaning": "應得；值得",
+      "sentences": [
+        {
+          "en": "All the members of the design team deserve credit for finishing the project two weeks ahead of schedule.",
+          "zh": "設計團隊的所有成員都值得讚揚，因為他們提前兩週完成了專案。"
+        },
+        {
+          "en": "Ms. Lee has worked very hard this year, and many colleagues believe that she and her assistant deserve a promotion.",
+          "zh": "李小姐今年非常努力，很多同事認為她和她的助理都應該升職。"
+        },
+        {
+          "en": "Problems with employee safety at the warehouse deserve attention from every manager in the company.",
+          "zh": "倉庫的員工安全問題值得公司每位經理注意。"
+        },
+        {
+          "en": "Volunteers who give up their weekends to help the local community deserve our sincere thanks and support.",
+          "zh": "放棄週末時間幫助社區的志工值得我們真誠的感謝。"
+        },
+        {
+          "en": "The judges decided that both designers deserve credit for the creative ideas in the winning proposal.",
+          "zh": "評審決定，兩位設計師都值得因得獎提案中的創意而受到讚揚。"
+        }
+      ],
+      "distractors": [
+        "reserve",
+        "preserve",
+        "observe"
+      ],
+      "note": "語塊：deserve credit（值得讚揚）、deserve attention（值得注意）、deserve a promotion（應該升職）。deserve 是「理應得到」；reserve（預訂）和 preserve（保存）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-oversight",
+      "word": "oversight",
+      "pos": "名詞",
+      "meaning": "疏忽；監督",
+      "sentences": [
+        {
+          "en": "Due to an oversight, your name was not included on the list of guests for the dinner.",
+          "zh": "由於我們的疏忽，你的名字沒有被列在晚宴的賓客名單上。"
+        },
+        {
+          "en": "The error in the invoice was caused by an oversight in our accounting department last month.",
+          "zh": "發票上的錯誤是上個月我們會計部的疏忽造成的。"
+        },
+        {
+          "en": "A new committee was created to provide oversight of all spending on the construction project.",
+          "zh": "公司成立新的委員會，監督這個工程的所有支出。"
+        },
+        {
+          "en": "We apologize for the oversight and will send the missing items to you by express mail today.",
+          "zh": "我們為這次疏忽道歉，今天會用快遞把缺少的品項寄給您。"
+        },
+        {
+          "en": "The government is responsible for the oversight of food safety in restaurants, schools, and supermarkets.",
+          "zh": "政府負責監督餐廳和超市的食品安全。"
+        }
+      ],
+      "distractors": [
+        "overlook",
+        "overnight",
+        "oversize"
+      ],
+      "note": "語塊：due to an oversight（由於疏忽）、an oversight in（……的疏忽）、oversight of（對……的監督）。oversight 有兩個意思：「疏忽、漏看」和「監督」；oversee 是動詞「監督」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-presentation",
+      "word": "presentation",
+      "pos": "名詞",
+      "meaning": "簡報；報告",
+      "sentences": [
+        {
+          "en": "Mr. Gomez will give a presentation about the new marketing strategy at Tuesday's staff meeting.",
+          "zh": "Gomez 先生會在週二的員工會議上做新行銷策略的簡報。"
+        },
+        {
+          "en": "Each team must make a presentation to the judges that lasts no longer than ten minutes.",
+          "zh": "每一組都必須向評審做一場不超過十分鐘的簡報。"
+        },
+        {
+          "en": "Ms. Huang practiced her sales presentation several times before meeting with the potential clients from Japan.",
+          "zh": "黃小姐在和潛在客戶見面之前把銷售簡報練習了好幾次。"
+        },
+        {
+          "en": "The slides for the presentation should be sent to the event organizer by Friday at noon.",
+          "zh": "簡報投影片應該在週五中午前寄給活動主辦人。"
+        },
+        {
+          "en": "After the presentation, the audience asked many questions about the cost of the new system.",
+          "zh": "簡報結束後，聽眾針對新系統的成本問了很多問題。"
+        }
+      ],
+      "distractors": [
+        "presence",
+        "prevention",
+        "preservation"
+      ],
+      "note": "語塊：give a presentation（做簡報）、make a presentation（做簡報）、sales presentation（銷售簡報）。presentation 是「簡報、發表」；present 是動詞「報告」；presence（出席）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-especially",
+      "word": "especially",
+      "pos": "副詞",
+      "meaning": "特別；尤其",
+      "sentences": [
+        {
+          "en": "The hotel offers a special menu designed especially for guests who follow a vegetarian diet.",
+          "zh": "飯店提供一份專門為吃素客人設計的特別菜單。"
+        },
+        {
+          "en": "Traffic near the stadium can be very heavy, especially when there is a concert or a baseball game.",
+          "zh": "體育場附近的交通可能非常擁擠，尤其是有演唱會或棒球比賽的時候。"
+        },
+        {
+          "en": "It is especially important to arrive early on the first day of the conference to pick up your badge.",
+          "zh": "研討會第一天提早到場領取識別證特別重要。"
+        },
+        {
+          "en": "The new park is popular with families, especially on weekends when the weather is warm and sunny.",
+          "zh": "新公園很受家庭歡迎，尤其是天氣溫暖晴朗的週末。"
+        },
+        {
+          "en": "This course was created especially for managers who want to improve their leadership and communication skills.",
+          "zh": "這門課是特別為想提升領導技巧的經理們設計的。"
+        }
+      ],
+      "distractors": [
+        "specially",
+        "essentially",
+        "eventually"
+      ],
+      "note": "語塊：especially for（特別為了）、especially when（尤其是當……的時候）、especially important（特別重要）。especially 和 particularly 意思相同；specially 偏「專門為了某目的」（specially designed）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instructive",
+      "word": "instructive",
+      "pos": "形容詞",
+      "meaning": "有教育意義的；有啟發性的",
+      "sentences": [
+        {
+          "en": "The workshop on customer service was highly instructive for the new staff at our downtown branch.",
+          "zh": "客服工作坊對我們市中心分店的新員工來說很有啟發性。"
+        },
+        {
+          "en": "The failure of the product launch provides an instructive example of what happens when research is skipped.",
+          "zh": "那次產品上市失敗，提供了一個跳過市場研究會發生什麼事的教育性例子。"
+        },
+        {
+          "en": "Many employees found the speaker's talk about time management to be highly instructive and practical.",
+          "zh": "很多員工覺得講者關於時間管理的演講很有啟發性又實用。"
+        },
+        {
+          "en": "Reading the reports from previous projects can be instructive for managers who are planning similar work.",
+          "zh": "閱讀以前專案的報告，對正在規劃類似工作的經理很有幫助。"
+        },
+        {
+          "en": "The museum's new exhibit is both entertaining and instructive for children who are interested in science.",
+          "zh": "博物館的新展覽對喜歡科學的孩子來說既有趣又有教育意義。"
+        }
+      ],
+      "distractors": [
+        "instructor",
+        "informative",
+        "destructive"
+      ],
+      "note": "語塊：highly instructive（很有啟發性的）、an instructive example（有教育意義的例子）。instructive 是「讓人學到東西的」；informative（資訊豐富的）意思接近；instructor 是「講師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-successful",
+      "word": "successful",
+      "pos": "形容詞",
+      "meaning": "成功的",
+      "sentences": [
+        {
+          "en": "The highly successful marketing campaign helped the company double its online sales in just six months.",
+          "zh": "那次非常成功的行銷活動幫公司在短短六個月內讓網路銷售加倍。"
+        },
+        {
+          "en": "The successful candidate will be responsible for managing a team of ten customer service representatives.",
+          "zh": "錄取者將負責管理一個十人的客服團隊。"
+        },
+        {
+          "en": "The company was successful in reducing its energy use by installing solar panels on all of its buildings.",
+          "zh": "公司在所有建築物裝了太陽能板，成功減少了用電量。"
+        },
+        {
+          "en": "The successful candidate must be able to travel overseas several times a year for business meetings.",
+          "zh": "錄取者必須能夠一年出國好幾次參加商務會議。"
+        },
+        {
+          "en": "After a highly successful first year, the restaurant opened a second location near the university.",
+          "zh": "在非常成功的第一年之後，那家餐廳在大學附近開了第二家分店。"
+        }
+      ],
+      "distractors": [
+        "successive",
+        "sufficient",
+        "suspicious"
+      ],
+      "note": "語塊：highly successful（非常成功的）、successful candidate（錄取者）、be successful in（在……方面成功）。successful 是「成功的」；successive（連續的）長得像，意思不同；success 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reasonable",
+      "word": "reasonable",
+      "pos": "形容詞",
+      "meaning": "合理的；（價格）公道的",
+      "sentences": [
+        {
+          "en": "The hotel offers comfortable rooms at a reasonable price, so it is popular with business travelers.",
+          "zh": "那家飯店以合理的價格提供舒適的房間，所以很受商務旅客歡迎。"
+        },
+        {
+          "en": "The manager agreed to the employees' reasonable request for more flexible working hours in the summer.",
+          "zh": "經理同意員工希望夏天工時更有彈性的合理要求。"
+        },
+        {
+          "en": "Our company provides high-quality printing services at a reasonable cost for small and medium-sized businesses.",
+          "zh": "我們公司以合理的成本為中小企業提供高品質的印刷服務。"
+        },
+        {
+          "en": "It is reasonable to expect that sales will increase during the holiday season, as they do every year.",
+          "zh": "預期節慶期間銷售會增加是合理的，每年都是這樣。"
+        },
+        {
+          "en": "Customers can rent bicycles at a reasonable price from the shop located next to the train station.",
+          "zh": "顧客可以在火車站旁的店以合理的價格租腳踏車。"
+        }
+      ],
+      "distractors": [
+        "reasoning",
+        "seasonable",
+        "responsible"
+      ],
+      "note": "語塊：reasonable price（合理的價格）、reasonable request（合理的要求）、at a reasonable cost（以合理的成本）。reasonable 是「合理、不貴」；affordable 偏「負擔得起」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sensible",
+      "word": "sensible",
+      "pos": "形容詞",
+      "meaning": "明智的；合理的",
+      "sentences": [
+        {
+          "en": "Moving the factory closer to the port was a sensible decision that has greatly reduced shipping costs.",
+          "zh": "把工廠搬到離港口更近是一個明智的決定，大大降低了運費。"
+        },
+        {
+          "en": "Comfortable shoes are a sensible choice for visitors who plan to walk around the old town all day.",
+          "zh": "對打算整天在老城區走動的遊客來說，舒適的鞋子是明智的選擇。"
+        },
+        {
+          "en": "It is sensible to compare prices from several suppliers before signing a long-term contract for office supplies.",
+          "zh": "簽長期合約之前，比較好幾家供應商的價格是明智的。"
+        },
+        {
+          "en": "The committee made a sensible decision to postpone the outdoor event because of the storm warning.",
+          "zh": "委員會因為暴風雨警報決定延期戶外活動，是個明智的決定。"
+        },
+        {
+          "en": "Leasing a car instead of buying one may be a sensible choice for companies that need vehicles only temporarily.",
+          "zh": "對只是暫時需要車子的公司來說，租車而不是買車可能是明智的選擇。"
+        }
+      ],
+      "distractors": [
+        "sensitive",
+        "sensory",
+        "sensational"
+      ],
+      "note": "語塊：a sensible decision（明智的決定）、a sensible choice（明智的選擇）、it is sensible to（……是明智的）。sensible 是「明智、有道理的」；sensitive 是「敏感的」，兩個字很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-punctuality",
+      "word": "punctuality",
+      "pos": "名詞",
+      "meaning": "準時；守時",
+      "sentences": [
+        {
+          "en": "The trainer reminded new employees about the importance of punctuality when meeting with clients and partners.",
+          "zh": "訓練講師提醒新員工和客戶見面時守時的重要性。"
+        },
+        {
+          "en": "The railway company is known for punctuality, and most of its trains arrive within one minute of schedule.",
+          "zh": "那家鐵路公司以準時聞名，大部分列車都在預定時間一分鐘內抵達。"
+        },
+        {
+          "en": "Punctuality is one of the qualities that our managers value most when they evaluate employee performance.",
+          "zh": "守時是我們經理評估員工績效時最重視的特質之一。"
+        },
+        {
+          "en": "The hotel received high ratings for the punctuality of its airport shuttle service throughout the year.",
+          "zh": "那家飯店的機場接駁服務因為整年都很準時而獲得高評價。"
+        },
+        {
+          "en": "Many companies in Japan place great importance on punctuality, so arriving late to a meeting is considered rude.",
+          "zh": "日本很多公司非常重視守時，所以開會遲到會被認為很沒禮貌。"
+        }
+      ],
+      "distractors": [
+        "punctuation",
+        "publicity",
+        "personality"
+      ],
+      "note": "語塊：importance of punctuality（守時的重要性）、be known for punctuality（以準時聞名）。punctuality 是名詞「守時」；形容詞是 punctual（準時的）；punctuation（標點）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-membership",
+      "word": "membership",
+      "pos": "名詞",
+      "meaning": "會員資格；會員身分",
+      "sentences": [
+        {
+          "en": "The gym has lowered its membership fee for students and senior citizens starting next month.",
+          "zh": "健身房從下個月起調降學生和年長者的會費。"
+        },
+        {
+          "en": "Please remember to renew your membership online or at the front desk before it expires on the thirty-first of December.",
+          "zh": "請記得在十二月三十一日到期前續會員。"
+        },
+        {
+          "en": "An annual membership at the museum includes free admission and discounts at the gift shop.",
+          "zh": "博物館的年費會員包含免費入場和禮品店折扣。"
+        },
+        {
+          "en": "Customers who renew their membership online will receive a free tote bag with the store's logo.",
+          "zh": "在網路上續會員的顧客可以拿到一個印有商店標誌的免費托特包。"
+        },
+        {
+          "en": "The membership fee for the business association is paid once a year and covers all networking events.",
+          "zh": "商業協會的會費一年繳一次，涵蓋所有交流活動。"
+        }
+      ],
+      "distractors": [
+        "partnership",
+        "leadership",
+        "ownership"
+      ],
+      "note": "語塊：membership fee（會費）、renew a membership（續會員）、annual membership（年費會員）。membership 是「會員資格」；member 是「會員（人）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-competitor",
+      "word": "competitor",
+      "pos": "名詞",
+      "meaning": "競爭對手",
+      "sentences": [
+        {
+          "en": "Our main competitor recently lowered its prices, so we need to find new ways to attract customers.",
+          "zh": "我們的主要競爭對手最近降價了，所以我們需要找新的方法吸引顧客。"
+        },
+        {
+          "en": "The company released its new tablet one month before its main competitor launched a similar product.",
+          "zh": "公司在主要競爭對手推出類似產品前一個月發表了新平板。"
+        },
+        {
+          "en": "To stay ahead of every competitor, we invest heavily in research and the development of new technology.",
+          "zh": "為了領先每一個競爭對手，我們在研究和新科技開發上投入大量資金。"
+        },
+        {
+          "en": "The small bakery became a strong competitor to the large supermarket chains in the area.",
+          "zh": "那家小麵包店成了這一帶大型連鎖超市的強勁競爭對手。"
+        },
+        {
+          "en": "Analysts believe that the merger will make the firm a much stronger competitor in the Asian market.",
+          "zh": "分析師認為這次合併會讓公司在亞洲市場成為更強大的競爭對手。"
+        }
+      ],
+      "distractors": [
+        "competition",
+        "competence",
+        "compositor"
+      ],
+      "note": "語塊：main competitor（主要競爭對手）、compete with（和……競爭）、stay ahead of competitors（領先競爭對手）。competitor 是「競爭對手（人或公司）」；competition 是「競爭；比賽」；competent 是「能幹的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suspect",
+      "word": "suspect",
+      "pos": "動詞",
+      "meaning": "懷疑；猜想",
+      "sentences": [
+        {
+          "en": "Engineers suspect that a faulty cable caused the power outage at the data center last night.",
+          "zh": "工程師懷疑是一條有問題的電纜造成昨晚資料中心停電。"
+        },
+        {
+          "en": "If you suspect a problem with your account, please change your password and contact the bank immediately.",
+          "zh": "如果你懷疑帳戶有問題，請更改密碼並立刻聯絡銀行。"
+        },
+        {
+          "en": "Many analysts suspect that the company will announce a merger at its annual meeting next month.",
+          "zh": "很多分析師猜想公司會在下個月的年度大會上宣布合併。"
+        },
+        {
+          "en": "We suspect that the shipment was delayed at customs because some important documents were missing.",
+          "zh": "我們猜想貨物在海關被耽擱，是因為缺了一些文件。"
+        },
+        {
+          "en": "The manager began to suspect a problem when the monthly sales figures suddenly dropped by thirty percent.",
+          "zh": "每月業績突然下滑三成時，經理開始懷疑有問題。"
+        }
+      ],
+      "distractors": [
+        "respect",
+        "inspect",
+        "expect"
+      ],
+      "note": "語塊：suspect that（猜想……）、suspect a problem（懷疑有問題）。suspect 是「懷疑某事是真的」（傾向相信）；doubt 是「懷疑某事不是真的」（傾向不信）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-summons",
+      "word": "summons",
+      "pos": "名詞",
+      "meaning": "傳票；召喚",
+      "sentences": [
+        {
+          "en": "The company received a summons to appear in court regarding a dispute with one of its former suppliers.",
+          "zh": "公司收到傳票，要為和一家前供應商的糾紛出庭。"
+        },
+        {
+          "en": "The court will issue a summons to the building owner if the safety problems are not fixed within a month.",
+          "zh": "如果一個月內沒有修好安全問題，法院會對大樓業主發出傳票。"
+        },
+        {
+          "en": "Mr. Hall was surprised to receive a summons for jury duty during the busiest week of the year.",
+          "zh": "Hall 先生很意外在一年中最忙的那一週收到擔任陪審員的傳票。"
+        },
+        {
+          "en": "Anyone who receives a summons should contact a lawyer as soon as possible to discuss their options.",
+          "zh": "任何收到傳票的人都應該盡快聯絡律師討論該怎麼做。"
+        },
+        {
+          "en": "The judge decided to issue a summons to the manager after he failed to respond to several letters.",
+          "zh": "經理沒有回應好幾封信之後，法官決定對他發出傳票。"
+        }
+      ],
+      "distractors": [
+        "summary",
+        "summit",
+        "sermons"
+      ],
+      "note": "語塊：receive a summons（收到傳票）、issue a summons（發出傳票）。summons 是單數名詞（結尾的 s 不是複數），複數是 summonses；動詞 summon 是「召喚、召集」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stand-out",
+      "word": "stand out",
+      "pos": "片語動詞",
+      "meaning": "突出；引人注目",
+      "sentences": [
+        {
+          "en": "Using bright colors on your website can help your products stand out from those of your competitors.",
+          "zh": "網站使用鮮豔的顏色可以幫助你的產品在競爭對手之中脫穎而出。"
+        },
+        {
+          "en": "Ms. Ito's creative ideas made her stand out among the twenty candidates who applied for the design job.",
+          "zh": "伊藤小姐的創意讓她在應徵設計工作的二十位候選人中顯得突出。"
+        },
+        {
+          "en": "A well-written cover letter can help your application stand out when hundreds of people apply.",
+          "zh": "當有數百人應徵時，一封寫得好的求職信可以讓你的申請脫穎而出。"
+        },
+        {
+          "en": "The new packaging is designed to stand out from other brands on crowded supermarket shelves.",
+          "zh": "新包裝是設計來讓產品在擁擠的超市貨架上從其他品牌中脫穎而出。"
+        },
+        {
+          "en": "One thing that will stand out to visitors is the large glass ceiling above the main hall of the museum.",
+          "zh": "博物館大廳上方的巨大玻璃天花板是會讓參觀者印象深刻的一點。"
+        }
+      ],
+      "distractors": [
+        "stand by",
+        "stand for",
+        "stand up"
+      ],
+      "note": "語塊：stand out from（從……中脫穎而出）、stand out among（在……之中顯得突出）。stand out 是「特別顯眼」；outstanding 是形容詞「傑出的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
