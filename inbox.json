@@ -38973,6 +38973,706 @@
       ],
       "note": "語塊：double in size（規模翻倍）、double the price（價格加倍）、double its production（產量加倍）、double the number of（數量加倍）。double 可以當動詞「加倍」、形容詞「雙倍的」或名詞；triple 是「三倍」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-via",
+      "word": "via",
+      "pos": "介系詞",
+      "meaning": "經由；透過",
+      "sentences": [
+        {
+          "en": "Please send the signed contract to our office via email by the end of the day.",
+          "zh": "請在今天下班前用電子郵件把簽好的合約寄到我們辦公室。"
+        },
+        {
+          "en": "The flight to London travels via Dubai, where passengers will change planes and wait for about two hours.",
+          "zh": "飛往倫敦的班機經由杜拜，乘客要在那裡轉機。"
+        },
+        {
+          "en": "Customers can contact our support team via phone, email, or the chat function on our website.",
+          "zh": "顧客可以透過電話、電子郵件或我們網站上的聊天功能聯絡支援團隊。"
+        },
+        {
+          "en": "The results of the survey will be shared with all employees via the company's internal website.",
+          "zh": "調查結果會透過公司內部網站分享給所有員工。"
+        },
+        {
+          "en": "We will notify you via text message when your package has been delivered to your home.",
+          "zh": "你的包裹送達時，我們會透過簡訊通知你。"
+        }
+      ],
+      "distractors": [
+        "visa",
+        "vial",
+        "viva"
+      ],
+      "note": "語塊：via email（透過電子郵件）、travel via（經由……前往）。via 是「透過某方式」或「經過某地」；through、by way of 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stabilize",
+      "word": "stabilize",
+      "pos": "動詞",
+      "meaning": "穩定；使穩定",
+      "sentences": [
+        {
+          "en": "The government took several steps to stabilize prices after they rose very quickly last year.",
+          "zh": "去年物價快速上漲後，政府採取了幾項措施穩定物價。"
+        },
+        {
+          "en": "The central bank raised interest rates in order to stabilize the economy and reduce inflation.",
+          "zh": "央行調高利率，以穩定經濟並降低通膨。"
+        },
+        {
+          "en": "Doctors worked through the night to stabilize the patient after the serious car accident on the highway.",
+          "zh": "醫生通宵工作，在車禍後穩定病人的狀況。"
+        },
+        {
+          "en": "Sales are expected to stabilize next quarter after falling for three months in a row.",
+          "zh": "在連續三個月下滑後，銷售預計下一季會穩定下來。"
+        },
+        {
+          "en": "The company hopes the new strategy will stabilize its profits during the difficult economic period.",
+          "zh": "公司希望新策略能在經濟艱困時期穩定獲利。"
+        }
+      ],
+      "distractors": [
+        "standardize",
+        "sterilize",
+        "subsidize"
+      ],
+      "note": "語塊：stabilize prices（穩定物價）、stabilize the economy（穩定經濟）。stabilize 是「讓……穩定下來」；stable 是形容詞「穩定的」；stability 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sharply",
+      "word": "sharply",
+      "pos": "副詞",
+      "meaning": "急劇地；尖銳地",
+      "sentences": [
+        {
+          "en": "The price of coffee beans rose sharply last month because of bad weather in South America.",
+          "zh": "因為南美天氣不好，咖啡豆的價格上個月急劇上漲。"
+        },
+        {
+          "en": "Sales of winter clothing fell sharply when the weather became unusually warm in early December.",
+          "zh": "十二月天氣異常溫暖時，冬季服飾的銷售急劇下降。"
+        },
+        {
+          "en": "The number of people shopping online has increased sharply over the past five years in most countries.",
+          "zh": "過去五年網路購物的人數急遽增加。"
+        },
+        {
+          "en": "The company's share price fell sharply after it announced much lower profits than investors had expected.",
+          "zh": "公司宣布獲利低於預期後，股價急劇下跌。"
+        },
+        {
+          "en": "Demand for electric cars is expected to increase sharply as more charging stations are built.",
+          "zh": "隨著更多充電站興建，電動車的需求預計會急遽增加。"
+        }
+      ],
+      "distractors": [
+        "shortly",
+        "shapely",
+        "slightly"
+      ],
+      "note": "語塊：rise sharply（急劇上升）、fell sharply（大幅下跌）、increase sharply（急遽增加）。sharply 是「突然大幅地」；sharp 是形容詞「尖銳的；急劇的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shortage",
+      "word": "shortage",
+      "pos": "名詞",
+      "meaning": "短缺；不足",
+      "sentences": [
+        {
+          "en": "A shortage of doctors in rural areas means that patients often have to travel far for treatment.",
+          "zh": "鄉村地區醫生短缺，意味著病人常常要長途跋涉去看病。"
+        },
+        {
+          "en": "The restaurant had to close early on Sunday because of a staff shortage in the kitchen.",
+          "zh": "那家餐廳週日因為廚房人手不足只好提早打烊。"
+        },
+        {
+          "en": "The city asked residents to save water during the water shortage caused by the long dry summer.",
+          "zh": "漫長乾燥的夏天造成缺水期間，市政府要求居民節約用水。"
+        },
+        {
+          "en": "A shortage of computer chips has delayed the production of cars and smartphones around the world.",
+          "zh": "電腦晶片短缺延誤了全世界汽車和手機的生產。"
+        },
+        {
+          "en": "The company raised wages to deal with the staff shortage at its warehouses during the holiday season.",
+          "zh": "公司調高薪資，以因應節慶期間倉庫的人手不足。"
+        }
+      ],
+      "distractors": [
+        "shortcut",
+        "storage",
+        "postage"
+      ],
+      "note": "語塊：a shortage of（……的短缺）、staff shortage（人手不足）、water shortage（缺水）。shortage 是「不夠」；shortfall 意思接近；surplus 是「過剩」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fuel",
+      "word": "fuel",
+      "pos": "名詞",
+      "meaning": "燃料；油料",
+      "sentences": [
+        {
+          "en": "Rising fuel costs have forced the airline to increase ticket prices on all of its international flights.",
+          "zh": "燃料成本上漲迫使航空公司調高所有國際航班的票價。"
+        },
+        {
+          "en": "Many drivers are buying electric cars because fuel prices have increased so much this year.",
+          "zh": "很多駕駛在買電動車，因為今年油價漲了很多。"
+        },
+        {
+          "en": "The new trucks have better fuel efficiency, which will help the company reduce its delivery costs.",
+          "zh": "新卡車的燃油效率更好，有助於公司降低配送成本。"
+        },
+        {
+          "en": "The ship stopped at the port to take on fuel and supplies before continuing its journey to Asia.",
+          "zh": "那艘船停靠港口補充燃料和物資，再繼續前往亞洲。"
+        },
+        {
+          "en": "Higher fuel prices usually lead to higher prices for food and other goods in supermarkets.",
+          "zh": "油價上漲通常會讓超市的食物和其他商品價格跟著上漲。"
+        }
+      ],
+      "distractors": [
+        "feel",
+        "fool",
+        "fuse"
+      ],
+      "note": "語塊：fuel costs（燃料成本）、fuel prices（油價）、fuel efficiency（燃油效率）。fuel 是「燃料」，也可以當動詞「加燃料；刺激」；gas 在美式英文也指「汽油」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contact",
+      "word": "contact",
+      "pos": "動詞",
+      "meaning": "聯絡",
+      "sentences": [
+        {
+          "en": "Please contact the front desk if you need extra towels or have any problems with your room.",
+          "zh": "如果你需要額外的毛巾或房間有任何問題，請聯絡櫃台。"
+        },
+        {
+          "en": "If you have any questions about your order, please contact us by email or phone at any time.",
+          "zh": "如果你對訂單有任何問題，請隨時用電子郵件或電話聯絡我們。"
+        },
+        {
+          "en": "Applicants should include their contact information, such as an email address and a mobile phone number.",
+          "zh": "應徵者應附上聯絡資訊，例如電子信箱和電話號碼。"
+        },
+        {
+          "en": "You can contact Ms. Lin directly at extension 210 if you need help with the new software.",
+          "zh": "如果你需要新軟體的協助，可以撥分機 210 直接聯絡林小姐。"
+        },
+        {
+          "en": "The hotel will contact you one day before your arrival to confirm the time you will check in.",
+          "zh": "飯店會在你抵達前一天聯絡你，確認你入住的時間。"
+        }
+      ],
+      "distractors": [
+        "contract",
+        "contrast",
+        "compact"
+      ],
+      "note": "語塊：contact sb directly（直接聯絡某人）、contact us（聯絡我們）、contact information（聯絡資訊）。contact 當動詞後面直接接人，不加 to／with（contact the manager）；contract 是「合約」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-charge",
+      "word": "in charge",
+      "pos": "其他",
+      "meaning": "負責；主管",
+      "sentences": [
+        {
+          "en": "Ms. Park is in charge of the marketing department and reports directly to the CEO.",
+          "zh": "朴小姐負責行銷部，並直接向執行長報告。"
+        },
+        {
+          "en": "Please speak to the person in charge if you have a complaint about the service at the restaurant.",
+          "zh": "如果你對餐廳的服務有任何抱怨，請找負責人。"
+        },
+        {
+          "en": "The director decided to put Mr. Lopez in charge of the new project because of his experience.",
+          "zh": "因為 Lopez 先生的經驗，總監決定讓他負責新專案。"
+        },
+        {
+          "en": "Who will be in charge of the office while the manager is on vacation next week?",
+          "zh": "經理下週休假時，誰會負責辦公室？"
+        },
+        {
+          "en": "The engineer in charge of the construction site checks the safety equipment carefully every morning.",
+          "zh": "負責工地的工程師每天早上都會檢查安全設備。"
+        }
+      ],
+      "distractors": [
+        "in place",
+        "in touch",
+        "free of charge"
+      ],
+      "note": "語塊：be in charge of（負責……）、person in charge（負責人）、put sb in charge（讓某人負責）。be in charge of 是「負責管理」；responsible for 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-participant",
+      "word": "participant",
+      "pos": "名詞",
+      "meaning": "參加者；與會者",
+      "sentences": [
+        {
+          "en": "Each participant in the workshop will receive a certificate at the end of the three-day course.",
+          "zh": "每位工作坊學員在三天課程結束時都會拿到一張證書。"
+        },
+        {
+          "en": "The survey was completed by more than five hundred participants from twenty different countries, and each participant answered thirty questions.",
+          "zh": "那份調查由來自二十個國家的五百多位參加者完成，每位參加者回答了三十個問題。"
+        },
+        {
+          "en": "Every participant must register online and pay the fee before the conference begins next Monday.",
+          "zh": "每位與會者都必須在下週一研討會開始前在線上報名並繳費。"
+        },
+        {
+          "en": "The trainer asked each participant to introduce himself or herself at the beginning of the session.",
+          "zh": "講師請每位學員在課程開始時自我介紹。"
+        },
+        {
+          "en": "Lunch will be provided for every participant in the training program on both days of the course.",
+          "zh": "訓練計畫的兩天都會為每位參加者提供午餐。"
+        }
+      ],
+      "distractors": [
+        "particular",
+        "participle",
+        "applicant"
+      ],
+      "note": "語塊：workshop participant（工作坊學員）、each participant（每位參加者）。participant 是「參加的人」；participate 是動詞（participate in）；participation 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exclusive",
+      "word": "exclusive",
+      "pos": "形容詞",
+      "meaning": "獨家的；高級的；專屬的",
+      "sentences": [
+        {
+          "en": "Members of our loyalty program will receive an exclusive offer for the new product next week.",
+          "zh": "我們忠誠計畫的會員下週會收到新產品的獨家優惠。"
+        },
+        {
+          "en": "The magazine published an exclusive interview with the famous designer about her new collection for the spring.",
+          "zh": "那本雜誌刊登了一篇對那位知名設計師談新系列的獨家專訪。"
+        },
+        {
+          "en": "This discount is exclusive to customers who shop on our website and cannot be used in stores.",
+          "zh": "這個折扣是網路購物顧客專屬的，不能在門市使用。"
+        },
+        {
+          "en": "The hotel has an exclusive lounge for guests who stay in the suites on the top floor.",
+          "zh": "飯店有一間專為頂樓套房房客設置的專屬貴賓室。"
+        },
+        {
+          "en": "The company signed an exclusive contract to sell its products only in one chain of supermarkets.",
+          "zh": "公司簽了一份獨家合約，只在一家連鎖超市販售產品。"
+        }
+      ],
+      "distractors": [
+        "inclusive",
+        "excessive",
+        "expensive"
+      ],
+      "note": "語塊：exclusive offer（獨家優惠）、exclusive interview（獨家專訪）、exclusive to（……專屬的）。exclusive 是「只給特定人的」；inclusive 是「包含在內的」；exclusively 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expensive",
+      "word": "expensive",
+      "pos": "形容詞",
+      "meaning": "昂貴的",
+      "sentences": [
+        {
+          "en": "Hotels in the city center are very expensive, so many tourists stay in the suburbs instead.",
+          "zh": "市中心的飯店非常貴，所以很多觀光客改住在郊區。"
+        },
+        {
+          "en": "The new phone is too expensive for many students, so the company will release a cheaper model.",
+          "zh": "新手機對很多學生來說太貴了，所以公司會推出比較便宜的機型。"
+        },
+        {
+          "en": "It is expensive to repair old machines, so the factory decided to buy new ones instead.",
+          "zh": "修理舊機器很花錢，所以工廠決定改買新的。"
+        },
+        {
+          "en": "Rent in this neighborhood has become so expensive that many small shops have moved away.",
+          "zh": "這一帶的房租變得太貴，很多小店都搬走了。"
+        },
+        {
+          "en": "The restaurant is expensive, but its food and service are excellent, so it is always full.",
+          "zh": "那家餐廳很貴，但食物和服務都很好，所以總是客滿。"
+        }
+      ],
+      "distractors": [
+        "expansive",
+        "extensive",
+        "expressive"
+      ],
+      "note": "語塊：too expensive（太貴）、expensive to（……很花錢）。expensive 是「價格高」；costly 意思接近；inexpensive 是「便宜的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expert",
+      "word": "expert",
+      "pos": "名詞",
+      "meaning": "專家",
+      "sentences": [
+        {
+          "en": "Dr. Lee is an expert in renewable energy and has advised several governments in Asia.",
+          "zh": "李博士是再生能源方面的專家，曾為亞洲好幾個政府提供建議。"
+        },
+        {
+          "en": "Before investing your money, it is a good idea to get expert advice from a financial advisor.",
+          "zh": "投資之前，最好向理財顧問尋求專家建議。"
+        },
+        {
+          "en": "The conference will bring together industry experts, and each expert will give a short talk.",
+          "zh": "研討會將匯集業界專家，每位專家都會做簡短演講。"
+        },
+        {
+          "en": "The company hired an expert in online marketing to help increase its sales to young customers.",
+          "zh": "公司聘請一位網路行銷專家，幫助提升對年輕顧客的銷售。"
+        },
+        {
+          "en": "Several experts were interviewed for the report, and one expert said that prices would fall next year.",
+          "zh": "報告訪問了好幾位專家，其中一位專家說明年價格會下降。"
+        }
+      ],
+      "distractors": [
+        "export",
+        "expect",
+        "exert"
+      ],
+      "note": "語塊：an expert in（……方面的專家）、expert advice（專家建議）、industry expert（業界專家）。expert 可以當名詞或形容詞「專業的」；expertise 是名詞「專業知識」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-journalist",
+      "word": "journalist",
+      "pos": "名詞",
+      "meaning": "記者",
+      "sentences": [
+        {
+          "en": "A journalist from the local newspaper will interview the CEO about the company's plans next week.",
+          "zh": "地方報紙的一位記者下週會訪問執行長，談公司的計畫。"
+        },
+        {
+          "en": "Ms. Park worked as a freelance journalist for ten years before she joined the magazine full-time.",
+          "zh": "朴小姐當了十年自由記者，之後全職加入那本雜誌。"
+        },
+        {
+          "en": "The sports journalist has written several books about famous football players and their long careers in Europe.",
+          "zh": "那位體育記者寫過好幾本關於知名足球員和他們職涯的書。"
+        },
+        {
+          "en": "Every journalist at the press conference was given a copy of the company's annual report.",
+          "zh": "記者會上每位記者都拿到一份公司年報。"
+        },
+        {
+          "en": "The journalist spent three months researching the story before it was published online last week.",
+          "zh": "那位記者花了三個月研究這則報導，才在網路上發表。"
+        }
+      ],
+      "distractors": [
+        "journal",
+        "tourist",
+        "novelist"
+      ],
+      "note": "語塊：freelance journalist（自由記者）、sports journalist（體育記者）、a journalist from（來自……的記者）、every journalist（每位記者）。journalist 是「記者」；journal 是「期刊；日記」；reporter 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-complete",
+      "word": "complete",
+      "pos": "動詞",
+      "meaning": "完成；填寫",
+      "sentences": [
+        {
+          "en": "Please complete a form at the front desk before you see the doctor for the first time.",
+          "zh": "第一次看醫生之前，請在櫃台填寫表格。"
+        },
+        {
+          "en": "The team worked hard to complete the project before the end of the year as planned.",
+          "zh": "團隊努力在年底前完成專案。"
+        },
+        {
+          "en": "Employees who complete the training course will receive a certificate from the company at the end of the month.",
+          "zh": "修完訓練課程的員工會收到公司頒發的證書。"
+        },
+        {
+          "en": "It took the workers two years to complete the new bridge over the river near the city center.",
+          "zh": "工人花了兩年才完成河上的新橋。"
+        },
+        {
+          "en": "Customers who complete the online survey will receive a coupon for ten percent off their next purchase.",
+          "zh": "完成線上問卷的顧客下次購物可獲得九折優惠券。"
+        }
+      ],
+      "distractors": [
+        "compete",
+        "compile",
+        "compute"
+      ],
+      "note": "語塊：complete a form（填寫表格）、complete a project（完成專案）、complete a course（修完課程）。complete 可以當動詞「完成」或形容詞「完整的」；completion 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reproduce",
+      "word": "reproduce",
+      "pos": "動詞",
+      "meaning": "複製；重現；繁殖",
+      "sentences": [
+        {
+          "en": "Other scientists were not able to reproduce the results of the experiment in their laboratories.",
+          "zh": "其他科學家無法在自己的實驗室重現那個實驗的結果。"
+        },
+        {
+          "en": "You may not reproduce any part of this book without written permission from the publisher.",
+          "zh": "未經出版社書面許可，不得複製本書任何部分。"
+        },
+        {
+          "en": "The company uses special machines to reproduce famous paintings for its customers around the world.",
+          "zh": "那家公司用特殊機器為顧客複製名畫。"
+        },
+        {
+          "en": "The chef tried to reproduce the taste of his grandmother's cooking in his new restaurant.",
+          "zh": "那位主廚試著在新餐廳重現他奶奶料理的味道。"
+        },
+        {
+          "en": "Some fish reproduce only in clean water, so pollution has caused their numbers to fall.",
+          "zh": "有些魚只在乾淨的水中繁殖，所以污染讓牠們的數量減少了。"
+        }
+      ],
+      "distractors": [
+        "produce",
+        "reduce",
+        "introduce"
+      ],
+      "note": "語塊：reproduce the results（重現結果）、reproduce any part of（複製任何部分）、reproduce famous paintings（複製名畫）、reproduce the taste of（重現……的味道）。reproduce 是「再做出一樣的」；reproduction 是名詞「複製品；繁殖」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clarity",
+      "word": "clarity",
+      "pos": "名詞",
+      "meaning": "清晰；清楚",
+      "sentences": [
+        {
+          "en": "The manager praised the report for its clarity and asked the writer to prepare the next one too.",
+          "zh": "經理稱讚那份報告寫得很清楚，請作者也準備下一份。"
+        },
+        {
+          "en": "For clarity, all prices in the brochure are shown in US dollars and include tax.",
+          "zh": "為了清楚起見，小冊子裡的所有價格都以美元表示並含稅。"
+        },
+        {
+          "en": "The new camera is known for the clarity of its pictures, even when they are taken at night.",
+          "zh": "新相機以照片的清晰度聞名，即使在晚上拍也一樣。"
+        },
+        {
+          "en": "Several employees complained about the lack of clarity in the new vacation policy announced last week.",
+          "zh": "好幾位員工抱怨新的休假規定不夠清楚。"
+        },
+        {
+          "en": "The speaker explained the plan with great clarity, so everyone in the audience understood it easily.",
+          "zh": "講者非常清楚地說明計畫，所以每位聽眾都很容易理解。"
+        }
+      ],
+      "distractors": [
+        "charity",
+        "rarity",
+        "polarity"
+      ],
+      "note": "語塊：for clarity（為了清楚起見）、clarity of（……的清晰度）、lack of clarity（不夠清楚）。clarity 是名詞；clear 是形容詞；clarify 是動詞「澄清」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reactivate",
+      "word": "reactivate",
+      "pos": "動詞",
+      "meaning": "重新啟用；恢復",
+      "sentences": [
+        {
+          "en": "If you have not used your account for a year, you will need to reactivate it before you can log in.",
+          "zh": "如果你一年沒用帳號，登入前需要先重新啟用。"
+        },
+        {
+          "en": "Customers can reactivate a card that has been blocked by calling the bank's customer service line.",
+          "zh": "顧客可以打銀行客服專線，重新啟用被鎖住的卡片。"
+        },
+        {
+          "en": "To reactivate an account, please enter your email address and follow the instructions we send you.",
+          "zh": "要重新啟用帳號，請輸入你的電子信箱，並依照我們寄給你的說明操作。"
+        },
+        {
+          "en": "The gym will reactivate your membership as soon as you pay the fee for the next six months.",
+          "zh": "你一繳交接下來六個月的費用，健身房就會恢復你的會員資格。"
+        },
+        {
+          "en": "Employees who return from long leave must ask the IT department to reactivate their computer accounts.",
+          "zh": "長假回來的員工必須請資訊部重新啟用電腦帳號。"
+        }
+      ],
+      "distractors": [
+        "activate",
+        "react",
+        "deactivate"
+      ],
+      "note": "語塊：reactivate an account（重新啟用帳號）、reactivate a card（重新開卡）。reactivate 是「讓停用的東西再次啟用」；activate 是「啟用」；deactivate 是「停用」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-explore",
+      "word": "explore",
+      "pos": "動詞",
+      "meaning": "探索；研究",
+      "sentences": [
+        {
+          "en": "Visitors can rent bicycles to explore the city and its many beautiful parks and museums.",
+          "zh": "遊客可以租腳踏車探索這座城市和它的許多公園和博物館。"
+        },
+        {
+          "en": "The company is starting to explore options for opening a new factory in Southeast Asia next year.",
+          "zh": "公司開始研究在東南亞設廠的各種選擇。"
+        },
+        {
+          "en": "The two firms met to explore the possibility of working together on a new project.",
+          "zh": "兩家公司見面探討合作新專案的可能性。"
+        },
+        {
+          "en": "The new program allows students to explore different careers before they choose a university major.",
+          "zh": "新計畫讓學生在選大學科系前探索不同的職涯。"
+        },
+        {
+          "en": "Before making a decision, we should explore the possibility of renting the equipment instead of buying it.",
+          "zh": "做決定之前，我們應該探討租用設備而不是購買的可能性。"
+        }
+      ],
+      "distractors": [
+        "explode",
+        "exploit",
+        "implore"
+      ],
+      "note": "語塊：explore the city（探索城市）、explore options（研究各種選擇）、explore the possibility（探討可能性）。explore 是「探索、仔細研究」；explorer 是「探險家」；exploration 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supply",
+      "word": "supply",
+      "pos": "名詞",
+      "meaning": "供應；用品",
+      "sentences": [
+        {
+          "en": "The supply of paper in the printer room is low, so please order more boxes before next week.",
+          "zh": "印表機室的紙張存量不多了，所以請在下週前多訂幾箱。"
+        },
+        {
+          "en": "Fresh vegetables are in short supply this winter because of the unusually cold weather in the south.",
+          "zh": "因為天氣寒冷，今年冬天新鮮蔬菜供不應求。"
+        },
+        {
+          "en": "Problems in the supply chain have delayed deliveries of many products to stores around the world.",
+          "zh": "供應鏈的問題延誤了很多產品送到世界各地商店。"
+        },
+        {
+          "en": "The new pipe will provide a stable supply of water to the farms in the valley.",
+          "zh": "新水管將為山谷裡的農場提供穩定的水源供應。"
+        },
+        {
+          "en": "The company keeps a large supply of spare parts so that machines can be repaired quickly.",
+          "zh": "公司備有大量的備用零件，讓機器能快速修好。"
+        }
+      ],
+      "distractors": [
+        "supple",
+        "apply",
+        "simply"
+      ],
+      "note": "語塊：a large supply of（大量的……）、a stable supply of（穩定的……供應）、in short supply（供不應求）、supply chain（供應鏈）。supply 可以當名詞或動詞「供應」；supplier 是「供應商」；demand 是「需求」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expansion",
+      "word": "expansion",
+      "pos": "名詞",
+      "meaning": "擴張；擴展",
+      "sentences": [
+        {
+          "en": "The company announced an expansion plan that will create one thousand new jobs over five years.",
+          "zh": "公司宣布一項擴張計畫，將在五年內創造一千個新工作。"
+        },
+        {
+          "en": "The rapid expansion of the city has caused serious traffic problems in many old neighborhoods downtown.",
+          "zh": "城市的快速擴張在很多社區造成交通問題。"
+        },
+        {
+          "en": "The bank is preparing for its expansion into South America by hiring staff who speak Spanish.",
+          "zh": "那家銀行正在招聘會說西班牙文的員工，為拓展到南美做準備。"
+        },
+        {
+          "en": "The expansion of the airport will allow it to handle twice as many passengers each year.",
+          "zh": "機場擴建後每年能處理兩倍的旅客。"
+        },
+        {
+          "en": "Investors were excited about the expansion plan, and the company's share price rose quickly the next day.",
+          "zh": "投資人對擴張計畫很興奮，公司股價迅速上漲。"
+        }
+      ],
+      "distractors": [
+        "expense",
+        "extension",
+        "explosion"
+      ],
+      "note": "語塊：expansion plan（擴張計畫）、rapid expansion（快速擴張）、expansion into（拓展到……）。expansion 是名詞；expand 是動詞「擴大」；expensive（昂貴的）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resignation",
+      "word": "resignation",
+      "pos": "名詞",
+      "meaning": "辭職；辭呈",
+      "sentences": [
+        {
+          "en": "Ms. Grant will submit a resignation letter to her manager because she has accepted a job overseas.",
+          "zh": "Grant 小姐會向經理提出辭職信，因為她接受了一份海外工作。"
+        },
+        {
+          "en": "The CEO announced his resignation at the end of the meeting, and it surprised many employees.",
+          "zh": "執行長在會議最後宣布辭職，讓很多員工很驚訝。"
+        },
+        {
+          "en": "Please give your manager a letter of resignation at least one month before your last day of work.",
+          "zh": "請在最後上班日前至少一個月把辭職信交給經理。"
+        },
+        {
+          "en": "The board decided to accept the resignation of the director, who will leave the company in June.",
+          "zh": "董事會決定接受那位總監的辭職，他將在六月離開公司。"
+        },
+        {
+          "en": "After the resignation of the team leader, Mr. Kim was asked to manage the project until a new person is hired.",
+          "zh": "團隊領導辭職後，金先生被要求管理專案，直到聘到新人為止。"
+        }
+      ],
+      "distractors": [
+        "designation",
+        "registration",
+        "reservation"
+      ],
+      "note": "語塊：submit a resignation（提出辭呈）、letter of resignation（辭職信）、accept a resignation（接受辭職）。resignation 是名詞；resign 是動詞「辭職」；注意 resign 的 g 不發音，resignation 的 g 要發音。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
