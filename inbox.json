@@ -38273,6 +38273,706 @@
       ],
       "note": "語塊：draw a diagram（畫圖表）、the diagram shows（圖表顯示）、the diagram in the manual（手冊裡的圖）、a simple diagram（簡單的圖）。diagram 是「說明用的圖」；chart 是「圖表（多為數字）」；graph 是「曲線圖」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pattern",
+      "word": "pattern",
+      "pos": "名詞",
+      "meaning": "模式；圖案",
+      "sentences": [
+        {
+          "en": "The company studies the spending pattern of each customer group to decide which products to sell in its stores.",
+          "zh": "公司研究每個顧客族群的消費模式，決定門市要賣哪些產品。"
+        },
+        {
+          "en": "The changing weather pattern in the region has made it harder for farmers to know when to plant their crops.",
+          "zh": "地區天氣型態的改變讓農民更難判斷何時播種。"
+        },
+        {
+          "en": "The dress has a simple pattern of blue and white flowers that is popular with young women.",
+          "zh": "那件洋裝有藍白花朵的簡單圖案，很受年輕女性歡迎。"
+        },
+        {
+          "en": "Analysts noticed a pattern of increasing sales every December, when people buy holiday gifts for their families.",
+          "zh": "分析師注意到每年十二月銷售都會增加的模式，那時大家會買節慶禮物。"
+        },
+        {
+          "en": "The new software can find a pattern in large amounts of data much faster than people can.",
+          "zh": "新軟體能比人更快地在大量資料中找出模式。"
+        }
+      ],
+      "distractors": [
+        "patent",
+        "patron",
+        "lantern"
+      ],
+      "note": "語塊：spending pattern（消費模式）、weather pattern（天氣型態）、a pattern of（……的模式）。pattern 可以是「規律、模式」或布料上的「圖案」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-minimum-wage",
+      "word": "minimum wage",
+      "pos": "名詞",
+      "meaning": "最低工資",
+      "sentences": [
+        {
+          "en": "The government announced that it will raise the minimum wage by five percent next January.",
+          "zh": "政府宣布明年一月將把最低工資調高百分之五。"
+        },
+        {
+          "en": "Many young people who work in restaurants earn the minimum wage, so they often have two jobs.",
+          "zh": "很多在餐廳工作的年輕人領最低工資，所以常常兼兩份工作。"
+        },
+        {
+          "en": "The company pays all of its workers more than the minimum wage and offers free meals.",
+          "zh": "公司付給所有員工高於最低工資的薪水，還提供免費餐點。"
+        },
+        {
+          "en": "Some business owners worry that a higher minimum wage will increase their costs too much.",
+          "zh": "有些老闆擔心更高的最低工資會讓他們的成本增加太多。"
+        },
+        {
+          "en": "Workers held a protest in front of city hall to ask the government to raise the minimum wage.",
+          "zh": "工人在市政府前抗議，要求政府調高最低工資。"
+        }
+      ],
+      "distractors": [
+        "living wage",
+        "minimum order",
+        "hourly wage"
+      ],
+      "note": "語塊：raise the minimum wage（調高最低工資）、earn the minimum wage（領最低工資）。minimum wage 是「法律規定的最低工資」；maximum 是「最大值」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-poverty-level",
+      "word": "poverty level",
+      "pos": "名詞",
+      "meaning": "貧窮線",
+      "sentences": [
+        {
+          "en": "Many families in the region live below the poverty level and need help paying for food and housing.",
+          "zh": "該地區很多家庭生活在貧窮線以下，需要幫助支付食物和住房費用。"
+        },
+        {
+          "en": "The government program provides free health care to families whose income is below the poverty level.",
+          "zh": "政府計畫為收入低於貧窮線的家庭提供免費醫療。"
+        },
+        {
+          "en": "The report shows that the number of people living below the poverty level has decreased over the past decade.",
+          "zh": "報告顯示，過去十年生活在貧窮線以下的人數減少了。"
+        },
+        {
+          "en": "The charity helps elderly people who live at the poverty level by delivering meals to their homes.",
+          "zh": "那個慈善團體為生活在貧窮線上的長者送餐到家。"
+        },
+        {
+          "en": "Children from families below the poverty level can receive free lunches at school every day.",
+          "zh": "來自貧窮線以下家庭的孩子每天都可以在學校吃免費午餐。"
+        }
+      ],
+      "distractors": [
+        "poverty line",
+        "sea level",
+        "income level"
+      ],
+      "note": "語塊：below the poverty level（低於貧窮線）、live at the poverty level（生活在貧窮線上）。poverty level 也叫 poverty line；poverty 是名詞「貧窮」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-place",
+      "word": "place",
+      "pos": "動詞",
+      "meaning": "放置；下（訂單）；安排",
+      "sentences": [
+        {
+          "en": "Customers can place an order online and pick it up at the store the next day.",
+          "zh": "顧客可以在網路上下訂單，隔天到店取貨。"
+        },
+        {
+          "en": "The company decided to place an advertisement in the local newspaper to find new employees.",
+          "zh": "公司決定在地方報紙刊登廣告，招募新員工。"
+        },
+        {
+          "en": "Our school will place emphasis on practical skills that students can use in their future jobs.",
+          "zh": "我們學校將強調學生未來工作中用得到的實用技能。"
+        },
+        {
+          "en": "Please place your bags on the shelf at the entrance before you enter the museum's exhibition hall.",
+          "zh": "進入博物館展廳之前，請把包包放在入口的架子上。"
+        },
+        {
+          "en": "The manager will place new employees in different departments based on their experience and skills.",
+          "zh": "經理會根據新員工的經驗和技能，把他們安排到不同部門。"
+        }
+      ],
+      "distractors": [
+        "plate",
+        "plane",
+        "plaza"
+      ],
+      "note": "語塊：place an order（下訂單）、place an advertisement（刊登廣告）、place emphasis on（強調）。place 當動詞是「放、安排」；place an order 是「下訂單」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-hold",
+      "word": "on hold",
+      "pos": "其他",
+      "meaning": "暫停；（電話）等候中",
+      "sentences": [
+        {
+          "en": "The construction of the new library has been put on hold until the city finds more funding.",
+          "zh": "新圖書館的工程暫停，直到市政府找到更多經費。"
+        },
+        {
+          "en": "I was put on hold for twenty minutes when I called the customer service line this morning.",
+          "zh": "我今天早上打客服專線時被要求等了二十分鐘。"
+        },
+        {
+          "en": "The company put the project on hold because the costs were much higher than expected.",
+          "zh": "公司暫停了那個專案，因為成本比預期高很多。"
+        },
+        {
+          "en": "Please stay on hold, and the next available representative will answer your call shortly, thank you.",
+          "zh": "請稍候，下一位有空的客服人員很快就會接聽您的電話。"
+        },
+        {
+          "en": "Plans to open a new branch in Europe are on hold until the economy becomes more stable.",
+          "zh": "在歐洲開設新分公司的計畫暫停，直到經濟變得更穩定。"
+        }
+      ],
+      "distractors": [
+        "on time",
+        "on board",
+        "on sale"
+      ],
+      "note": "語塊：put sb on hold（讓某人在電話上等候）、put a project on hold（暫停專案）。on hold 是「暫時停止、等一下」；hold on 是口語的「等一下」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-file",
+      "word": "file",
+      "pos": "動詞",
+      "meaning": "歸檔；提出（申請、投訴）",
+      "sentences": [
+        {
+          "en": "Please file all of the signed contracts in the large cabinet in the manager's office.",
+          "zh": "請把所有簽好的合約歸檔到經理辦公室的櫃子裡。"
+        },
+        {
+          "en": "Customers who are unhappy with the service can file a complaint on our website at any time.",
+          "zh": "對服務不滿意的顧客可以在我們網站上提出投訴。"
+        },
+        {
+          "en": "The police officer will file a report about the accident and send a copy to the insurance company.",
+          "zh": "警察會提交事故報告，並寄一份副本給保險公司。"
+        },
+        {
+          "en": "Every business must file a tax return with the government by the end of May each year.",
+          "zh": "每家企業都必須在每年五月底前報稅。"
+        },
+        {
+          "en": "The assistant spends an hour every morning helping to file documents and answer emails from clients.",
+          "zh": "助理每天早上花一小時幫忙歸檔文件和回覆電子郵件。"
+        }
+      ],
+      "distractors": [
+        "fill",
+        "fine",
+        "pile"
+      ],
+      "note": "語塊：file a complaint（提出投訴）、file a report（提交報告）、file documents（歸檔文件）。file 當動詞可以是「歸檔」或「正式提出」；當名詞是「檔案」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-patron",
+      "word": "patron",
+      "pos": "名詞",
+      "meaning": "顧客；贊助者",
+      "sentences": [
+        {
+          "en": "The restaurant offers a free dessert to every regular patron on his or her birthday.",
+          "zh": "那家餐廳在每位常客生日時招待一份免費甜點。"
+        },
+        {
+          "en": "Each library patron can borrow up to ten books and three movies at a time for two weeks.",
+          "zh": "每位圖書館使用者一次最多可以借十本書和三部電影，借期兩週。"
+        },
+        {
+          "en": "Mr. Lee is a well-known patron of the arts who has donated millions of dollars to museums.",
+          "zh": "李先生是知名的藝術贊助者，捐了數百萬美元給博物館。"
+        },
+        {
+          "en": "Every patron of the theater is asked to turn off his or her phone before the performance begins.",
+          "zh": "劇院的每位觀眾都被要求在演出開始前關掉手機。"
+        },
+        {
+          "en": "The café has become popular, and each patron receives a stamp card for free coffee.",
+          "zh": "那家咖啡廳變得很受歡迎，每位顧客都會拿到一張免費咖啡集點卡。"
+        }
+      ],
+      "distractors": [
+        "patrol",
+        "pattern",
+        "patriot"
+      ],
+      "note": "語塊：regular patron（常客）、library patron（圖書館使用者）、patron of the arts（藝術贊助者）。patron 是「常光顧的客人」或「贊助者」；patrol 是「巡邏」；pattern 是「模式」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-intervene",
+      "word": "intervene",
+      "pos": "動詞",
+      "meaning": "介入；干預",
+      "sentences": [
+        {
+          "en": "The manager had to intervene when two employees started arguing loudly in the meeting room.",
+          "zh": "兩位員工在會議室大聲爭吵時，經理只好介入。"
+        },
+        {
+          "en": "The government decided to intervene in the dispute between the workers and the company last month.",
+          "zh": "政府決定介入工人和公司之間的糾紛。"
+        },
+        {
+          "en": "The bank may intervene to stop the value of the currency from falling too quickly.",
+          "zh": "銀行可能會介入，防止貨幣價值下跌太快。"
+        },
+        {
+          "en": "Teachers are trained to intervene quickly if they see students having problems with each other.",
+          "zh": "老師受過訓練，看到學生之間有問題時要迅速介入。"
+        },
+        {
+          "en": "The city council decided not to intervene in the plans to build the new shopping center.",
+          "zh": "市議會決定不介入興建新購物中心的計畫。"
+        }
+      ],
+      "distractors": [
+        "interfere",
+        "interview",
+        "convene"
+      ],
+      "note": "語塊：intervene in（介入……）、intervene to（介入以……）。intervene 是「插手、出面處理」；interfere 是「干涉（較負面）」；intervention 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-downswing",
+      "word": "downswing",
+      "pos": "名詞",
+      "meaning": "下滑；衰退",
+      "sentences": [
+        {
+          "en": "A downswing in tourism has caused several hotels on the island to close for the winter.",
+          "zh": "觀光業下滑導致島上好幾家飯店冬天停業。"
+        },
+        {
+          "en": "During the economic downswing, many companies stopped hiring new staff and reduced their spending on advertising.",
+          "zh": "經濟下滑期間，很多公司停止招聘並減少支出。"
+        },
+        {
+          "en": "The report predicts a downswing in car sales next year because of higher interest rates.",
+          "zh": "報告預測明年汽車銷售會下滑，因為利率較高。"
+        },
+        {
+          "en": "The company managed to keep its profits stable despite the downswing in the housing market.",
+          "zh": "儘管房市下滑，公司仍設法維持穩定的獲利。"
+        },
+        {
+          "en": "Analysts believe that the downswing in consumer spending will end before the busy holiday season.",
+          "zh": "分析師認為消費支出的下滑會在節慶季前結束。"
+        }
+      ],
+      "distractors": [
+        "upswing",
+        "downtown",
+        "downside"
+      ],
+      "note": "語塊：a downswing in（……的下滑）、economic downswing（經濟下滑）。downswing 是「往下走的趨勢」；upswing 是「上升」；downturn 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accept",
+      "word": "accept",
+      "pos": "動詞",
+      "meaning": "接受；收下",
+      "sentences": [
+        {
+          "en": "Ms. Ruiz decided to accept the job offer from the bank because it included a higher salary.",
+          "zh": "Ruiz 小姐決定接受那家銀行的工作邀約，因為薪水比較高。"
+        },
+        {
+          "en": "The restaurant does not accept credit cards, so please bring enough cash when you visit.",
+          "zh": "那家餐廳不收信用卡，所以去的時候請帶現金。"
+        },
+        {
+          "en": "The company will accept responsibility for the mistake and offer a full refund to every customer.",
+          "zh": "公司會為這次錯誤負責，並為每位顧客全額退款。"
+        },
+        {
+          "en": "We cannot accept applications that arrive after the deadline on Friday at five o'clock in the afternoon.",
+          "zh": "我們不能受理在週五五點截止時間之後送達的申請。"
+        },
+        {
+          "en": "The hotel will accept reservations for the holiday season starting on the first of September.",
+          "zh": "飯店從九月一日起開始接受節慶期間的訂房。"
+        }
+      ],
+      "distractors": [
+        "except",
+        "expect",
+        "adapt"
+      ],
+      "note": "語塊：accept an offer（接受提議）、accept credit cards（接受信用卡）、accept responsibility（承擔責任）。accept 是「接受」；except 是「除了」，發音相近很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exceptional",
+      "word": "exceptional",
+      "pos": "形容詞",
+      "meaning": "傑出的；例外的",
+      "sentences": [
+        {
+          "en": "The hotel received an award for its exceptional service and friendly staff at the tourism awards this year.",
+          "zh": "那家飯店今年因卓越的服務和親切的員工而獲獎。"
+        },
+        {
+          "en": "Our furniture is made by hand and is known for its exceptional quality and long life.",
+          "zh": "我們的家具是手工製作的，以極佳的品質和耐用著稱。"
+        },
+        {
+          "en": "In exceptional cases, the manager may allow employees to take more than two weeks of vacation.",
+          "zh": "在特殊情況下，經理可能允許員工休超過兩週的假。"
+        },
+        {
+          "en": "Ms. Lee was promoted because of her exceptional work on the project in Japan last year.",
+          "zh": "李小姐因為去年在日本專案上的傑出表現而升職。"
+        },
+        {
+          "en": "The restaurant offers exceptional food at reasonable prices, so it is always full on weekends.",
+          "zh": "那家餐廳以合理的價格提供極佳的料理，所以週末總是客滿。"
+        }
+      ],
+      "distractors": [
+        "excessive",
+        "intentional",
+        "occasional"
+      ],
+      "note": "語塊：exceptional service（卓越的服務）、exceptional quality（極佳的品質）、in exceptional cases（在特殊情況下）。exceptional 是「特別好的」或「例外的」；exception 是名詞「例外」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-senior",
+      "word": "senior",
+      "pos": "形容詞",
+      "meaning": "資深的；高階的；年長的",
+      "sentences": [
+        {
+          "en": "Ms. Ahmed was promoted to senior manager after working at the company for eight years.",
+          "zh": "Ahmed 小姐在公司工作八年後被升為資深經理。"
+        },
+        {
+          "en": "New employees will be trained by senior staff who have many years of experience in the industry.",
+          "zh": "新員工將由經驗豐富的資深員工訓練。"
+        },
+        {
+          "en": "The museum offers free admission to senior citizens on the first Sunday of every month.",
+          "zh": "博物館每月第一個週日對長者免費開放。"
+        },
+        {
+          "en": "Senior staff members are expected to attend the planning meeting on Monday morning in the main hall.",
+          "zh": "資深員工應出席週一早上的規劃會議。"
+        },
+        {
+          "en": "The bus company offers a discount to senior citizens who are over the age of sixty-five.",
+          "zh": "公車公司為六十五歲以上的長者提供優惠。"
+        }
+      ],
+      "distractors": [
+        "senor",
+        "sensor",
+        "senate"
+      ],
+      "note": "語塊：senior manager（資深經理）、senior staff（資深員工）、senior citizen（長者）。senior 是「資深、較高階的」；junior 是「資淺的」；當名詞是「長者」或「（高中、大學）最高年級生」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dissatisfaction",
+      "word": "dissatisfaction",
+      "pos": "名詞",
+      "meaning": "不滿",
+      "sentences": [
+        {
+          "en": "Several customers expressed dissatisfaction with the slow delivery service during the busy holiday season last year.",
+          "zh": "好幾位顧客對節慶期間緩慢的配送服務表達不滿。"
+        },
+        {
+          "en": "The survey showed growing dissatisfaction with the long working hours among young employees in the sales department.",
+          "zh": "調查顯示年輕員工對長工時越來越不滿。"
+        },
+        {
+          "en": "To reduce dissatisfaction among guests, the hotel renovated all of its bathrooms and bedrooms last year.",
+          "zh": "為了減少房客的不滿，飯店去年翻修了所有浴室。"
+        },
+        {
+          "en": "Workers expressed dissatisfaction with the new schedule at the meeting with the factory manager last Friday.",
+          "zh": "工人在和廠長的會議上對新班表表達不滿。"
+        },
+        {
+          "en": "Customer dissatisfaction with the old design led the company to create a completely new product.",
+          "zh": "顧客對舊設計的不滿讓公司打造了一款全新的產品。"
+        }
+      ],
+      "distractors": [
+        "satisfaction",
+        "dissertation",
+        "disinfection"
+      ],
+      "note": "語塊：express dissatisfaction（表達不滿）、dissatisfaction with（對……不滿）。dissatisfaction 是名詞；dissatisfied 是形容詞「不滿意的」；satisfaction 是「滿意」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bound",
+      "word": "bound",
+      "pos": "形容詞",
+      "meaning": "一定會；前往……的",
+      "sentences": [
+        {
+          "en": "The new restaurant is bound to be popular because it is located right next to the train station.",
+          "zh": "那家新餐廳一定會很受歡迎，因為就在火車站旁邊。"
+        },
+        {
+          "en": "The train bound for Kaohsiung will leave from platform three in about fifteen minutes from now.",
+          "zh": "開往高雄的列車將在十五分鐘後從第三月台出發。"
+        },
+        {
+          "en": "With so many people working on the project, there are bound to be a few small mistakes.",
+          "zh": "這麼多人參與專案，難免會有一些小錯誤。"
+        },
+        {
+          "en": "Passengers bound for Tokyo should go to gate twelve, where boarding will begin at three o'clock.",
+          "zh": "前往東京的乘客請到十二號登機門，三點開始登機。"
+        },
+        {
+          "en": "Prices are bound to rise if the cost of fuel continues to increase over the next few months.",
+          "zh": "如果燃料成本在接下來幾個月持續上漲，價格一定會上升。"
+        }
+      ],
+      "distractors": [
+        "bond",
+        "round",
+        "found"
+      ],
+      "note": "語塊：be bound to（一定會……）、bound for（開往……）。be bound to + 原形動詞 是「必然會」；bound for 是「開往某地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-get-stuck",
+      "word": "get stuck",
+      "pos": "片語動詞",
+      "meaning": "卡住；陷入困境",
+      "sentences": [
+        {
+          "en": "Please leave early, as you may get stuck in traffic on the highway during rush hour.",
+          "zh": "請早點出發，因為尖峰時段你可能會在公路上塞車。"
+        },
+        {
+          "en": "If you get stuck on any part of the online form, please call our customer service team for help.",
+          "zh": "如果你在線上表單的任何部分卡住，請打給我們的客服團隊尋求協助。"
+        },
+        {
+          "en": "Many travelers get stuck at the airport when flights are canceled because of bad weather.",
+          "zh": "班機因天氣不好取消時，很多旅客被困在機場。"
+        },
+        {
+          "en": "The project may get stuck if we do not receive the necessary materials from the supplier soon.",
+          "zh": "如果我們沒有很快收到供應商的必要材料，專案可能會卡住。"
+        },
+        {
+          "en": "Students who get stuck on a difficult question can ask the teacher for help after class.",
+          "zh": "遇到難題卡住的學生可以下課後請老師幫忙。"
+        }
+      ],
+      "distractors": [
+        "get started",
+        "get stung",
+        "get struck"
+      ],
+      "note": "語塊：get stuck in traffic（塞在車陣中）、get stuck on（卡在……）。get stuck 是「被困住、動彈不得」；stuck 是 stick 的過去分詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-track",
+      "word": "track",
+      "pos": "動詞",
+      "meaning": "追蹤；記錄",
+      "sentences": [
+        {
+          "en": "Customers can track an order on our website by entering the number in the confirmation email.",
+          "zh": "顧客可以在我們網站上輸入確認信中的號碼來追蹤訂單。"
+        },
+        {
+          "en": "The manager uses a simple spreadsheet to keep track of the progress of every project.",
+          "zh": "經理用一個簡單的試算表來掌握每個專案的進度。"
+        },
+        {
+          "en": "The new app helps users track their spending and save more money for the future each month.",
+          "zh": "新 App 幫助使用者追蹤開支，每個月存錢。"
+        },
+        {
+          "en": "Teachers track progress by giving students short tests at the end of each week in the semester.",
+          "zh": "老師在每週末給學生小考，追蹤他們的進度。"
+        },
+        {
+          "en": "It is important to keep track of your receipts so that you can report your expenses correctly.",
+          "zh": "保存好收據很重要，這樣你才能正確申報開支。"
+        }
+      ],
+      "distractors": [
+        "trace",
+        "truck",
+        "trick"
+      ],
+      "note": "語塊：track an order（追蹤訂單）、keep track of（記錄；掌握）、track progress（追蹤進度）。track 當動詞是「追蹤」；keep track of 是「持續掌握」；當名詞是「軌道；跑道」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-significantly",
+      "word": "significantly",
+      "pos": "副詞",
+      "meaning": "顯著地；大幅地",
+      "sentences": [
+        {
+          "en": "Sales have increased significantly since the company started advertising on social media and television last spring.",
+          "zh": "自從公司開始在社群媒體打廣告以來，銷售大幅增加。"
+        },
+        {
+          "en": "The new machines will significantly reduce the amount of time needed to produce each product.",
+          "zh": "新機器將顯著減少生產每項產品所需的時間。"
+        },
+        {
+          "en": "The cost of living in the city is significantly higher than in the small towns nearby.",
+          "zh": "城市的生活成本比附近小鎮明顯高很多。"
+        },
+        {
+          "en": "The results of the second survey were significantly different from those of the first one.",
+          "zh": "第二次調查的結果和第一次明顯不同。"
+        },
+        {
+          "en": "Using public transportation can significantly reduce the amount of pollution in large and crowded cities.",
+          "zh": "使用大眾運輸可以顯著減少大城市的污染。"
+        }
+      ],
+      "distractors": [
+        "signally",
+        "sufficiently",
+        "scientifically"
+      ],
+      "note": "語塊：significantly increase（大幅增加）、significantly reduce（顯著減少）、significantly different（明顯不同）。significantly 是「明顯地、大幅地」；significant 是形容詞「重要的；顯著的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appeal",
+      "word": "appeal",
+      "pos": "動詞",
+      "meaning": "吸引；呼籲；上訴",
+      "sentences": [
+        {
+          "en": "The new menu is designed to appeal to young people who want healthy and affordable food.",
+          "zh": "新菜單是設計來吸引想吃健康又平價食物的年輕人。"
+        },
+        {
+          "en": "The city will appeal to residents to save water during the long dry season this summer.",
+          "zh": "市政府將呼籲居民在今年夏天漫長的乾季節約用水。"
+        },
+        {
+          "en": "The charity plans to appeal for donations to help families who lost their homes in the fire.",
+          "zh": "那個慈善團體計畫呼籲捐款，幫助在火災中失去家園的家庭。"
+        },
+        {
+          "en": "The bright colors of the toys appeal to young children, so they sell very well in stores.",
+          "zh": "玩具鮮豔的顏色吸引幼童，所以在店裡賣得很好。"
+        },
+        {
+          "en": "The company may appeal to the court if the judge's decision is not changed by next month.",
+          "zh": "如果法官的判決沒有改變，公司可能會向法院上訴。"
+        }
+      ],
+      "distractors": [
+        "apply",
+        "appear",
+        "repeal"
+      ],
+      "note": "語塊：appeal to（吸引……；向……呼籲）、appeal for（呼籲……）。appeal to sb 是「吸引某人」；appealing 是形容詞「吸引人的」；當名詞是「吸引力；上訴」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fill-out",
+      "word": "fill out",
+      "pos": "片語動詞",
+      "meaning": "填寫（表格）",
+      "sentences": [
+        {
+          "en": "Please fill out a form at the front desk before your first appointment with the doctor.",
+          "zh": "第一次看診之前，請在櫃台填一張表。"
+        },
+        {
+          "en": "All applicants must fill out an application and send it to the human resources department by Friday.",
+          "zh": "所有應徵者都必須填寫申請書，並在週五前寄到人資部。"
+        },
+        {
+          "en": "It only takes about five minutes to fill out the online survey about our customer service.",
+          "zh": "填寫我們客服的線上問卷只要大約五分鐘。"
+        },
+        {
+          "en": "Passengers must fill out a customs form before they arrive at the airport in Japan.",
+          "zh": "乘客抵達日本機場前必須填寫海關申報單。"
+        },
+        {
+          "en": "If you need help to fill out the form, our staff will be happy to assist you.",
+          "zh": "如果你需要幫忙填表，我們的員工很樂意協助你。"
+        }
+      ],
+      "distractors": [
+        "fill up",
+        "fill in for",
+        "figure out"
+      ],
+      "note": "語塊：fill out a form（填表）、fill out an application（填申請書）。fill out 和 fill in 都可以表示「填寫」；fill up 是「裝滿」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-double",
+      "word": "double",
+      "pos": "動詞",
+      "meaning": "使加倍；翻倍",
+      "sentences": [
+        {
+          "en": "The company expects its online sales to double over the next two years because of the new app.",
+          "zh": "因為新 App，公司預期網路銷售在未來兩年會翻倍。"
+        },
+        {
+          "en": "The number of tourists visiting the island could double in size after the new airport opens.",
+          "zh": "新機場啟用後，造訪那座島的遊客人數可能會翻倍。"
+        },
+        {
+          "en": "Some hotels double the price of their rooms during the international music festival every summer.",
+          "zh": "有些飯店在每年夏天的國際音樂節期間把房價加倍。"
+        },
+        {
+          "en": "The factory plans to double its production of electric bicycles to meet the growing demand.",
+          "zh": "工廠計畫把電動自行車的產量加倍，以滿足日益成長的需求。"
+        },
+        {
+          "en": "If we hire two more designers, we can double the number of projects that we finish each month.",
+          "zh": "如果我們再聘兩位設計師，每個月完成的專案數量就能加倍。"
+        }
+      ],
+      "distractors": [
+        "doubt",
+        "dabble",
+        "bubble"
+      ],
+      "note": "語塊：double in size（規模翻倍）、double the price（價格加倍）、double its production（產量加倍）、double the number of（數量加倍）。double 可以當動詞「加倍」、形容詞「雙倍的」或名詞；triple 是「三倍」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
