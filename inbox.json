@@ -46638,6 +46638,706 @@
       ],
       "note": "語塊：moviegoers（觀影民眾）。moviegoer 是「去電影院看電影的人」；audience 是「觀眾」；filmgoer 是英式說法。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compelling",
+      "word": "compelling",
+      "pos": "形容詞",
+      "meaning": "有說服力的；引人入勝的",
+      "sentences": [
+        {
+          "en": "The manager gave a compelling reason for moving the office closer to the train station.",
+          "zh": "經理提出一個令人信服的理由，說明為什麼要把辦公室搬到離火車站近一點。"
+        },
+        {
+          "en": "The scientists found compelling evidence that the new medicine helps patients recover more quickly after surgery.",
+          "zh": "科學家找到有力的證據，證明新藥能幫助病人更快康復。"
+        },
+        {
+          "en": "The documentary tells a compelling story about a family that started a successful business from nothing.",
+          "zh": "那部紀錄片講述一個家庭白手起家成功創業的扣人心弦的故事。"
+        },
+        {
+          "en": "Customers need a compelling reason to switch from their current phone company to our new service.",
+          "zh": "顧客需要一個令人信服的理由，才會從目前的電信公司轉到我們這裡。"
+        },
+        {
+          "en": "The lawyer presented compelling evidence to the court, and the judge decided in favor of her client.",
+          "zh": "律師向法院提出有力的證據，法官判她的客戶勝訴。"
+        }
+      ],
+      "distractors": [
+        "compiling",
+        "compelled",
+        "competing"
+      ],
+      "note": "語塊：compelling reason（令人信服的理由）、compelling evidence（有力的證據）、compelling story（扣人心弦的故事）。compelling 是「讓人無法不相信或不注意的」；convincing 意思接近；compel 是動詞「迫使」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attract",
+      "word": "attract",
+      "pos": "動詞",
+      "meaning": "吸引",
+      "sentences": [
+        {
+          "en": "The store lowered its prices in order to attract customers away from the new shopping center.",
+          "zh": "那家店降價，想把顧客從新購物中心吸引過來。"
+        },
+        {
+          "en": "The bright colors of the poster are designed to attract attention from people walking by.",
+          "zh": "海報鮮豔的顏色是為了吸引路人的注意。"
+        },
+        {
+          "en": "The government lowered taxes to attract investment from foreign companies in the growing technology sector.",
+          "zh": "政府減稅，以吸引外國公司在科技業投資。"
+        },
+        {
+          "en": "The new museum is expected to attract more than one million visitors in its first year.",
+          "zh": "新博物館預計第一年會吸引一百多萬名參觀者。"
+        },
+        {
+          "en": "Free parking and long opening hours help attract customers who live in towns outside the city.",
+          "zh": "免費停車和長營業時間有助於吸引住在城外的顧客。"
+        }
+      ],
+      "distractors": [
+        "distract",
+        "extract",
+        "retract"
+      ],
+      "note": "語塊：attract customers（吸引顧客）、attract attention（吸引注意）、attract investment（吸引投資）。attract 是「吸引」；attraction 是名詞「吸引力；景點」；attractive 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rebate",
+      "word": "rebate",
+      "pos": "名詞",
+      "meaning": "退款；折讓",
+      "sentences": [
+        {
+          "en": "Customers who buy the new washing machine this month will receive a rebate of fifty dollars.",
+          "zh": "這個月購買新洗衣機的顧客可以獲得五十美元的退款。"
+        },
+        {
+          "en": "Families with young children may be able to receive a tax rebate at the end of the year.",
+          "zh": "有幼童的家庭年底可能可以拿到退稅。"
+        },
+        {
+          "en": "The electricity company will offer a rebate to customers who install solar panels on their homes.",
+          "zh": "電力公司將為在家安裝太陽能板的顧客提供折讓。"
+        },
+        {
+          "en": "To receive a rebate, please send a copy of your receipt and the form to the manufacturer.",
+          "zh": "要獲得退款，請把收據副本和表格寄給製造商。"
+        },
+        {
+          "en": "The government offered a rebate to people who bought electric cars in order to reduce pollution.",
+          "zh": "政府為購買電動車的人提供退款，以減少污染。"
+        }
+      ],
+      "distractors": [
+        "debate",
+        "relate",
+        "rebuild"
+      ],
+      "note": "語塊：receive a rebate（獲得退款）、tax rebate（退稅）、offer a rebate（提供折讓）。rebate 是「付款後退回的一部分錢」；refund 是「全部退款」；discount 是「付款前的折扣」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-distinct",
+      "word": "distinct",
+      "pos": "形容詞",
+      "meaning": "明顯的；截然不同的",
+      "sentences": [
+        {
+          "en": "Our fast delivery service gives us a distinct advantage over other online stores in the region.",
+          "zh": "我們快速的配送服務讓我們比地區其他網路商店有明顯的優勢。"
+        },
+        {
+          "en": "The new phone is distinct from the old model because it has a much larger screen and better camera.",
+          "zh": "新手機和舊款截然不同，因為螢幕大很多、相機也更好。"
+        },
+        {
+          "en": "There is a distinct difference between the two hotels, as one is much quieter than the other.",
+          "zh": "兩家飯店有明顯的差異，因為其中一家安靜很多。"
+        },
+        {
+          "en": "Each neighborhood in the city has a distinct style, with its own shops, restaurants, and markets.",
+          "zh": "城市的每個社區都有明顯不同的風格，有自己的商店、餐廳和市場。"
+        },
+        {
+          "en": "Speaking Japanese gave Ms. Lee a distinct advantage when she applied for the job in Tokyo.",
+          "zh": "會說日文讓李小姐在應徵東京的工作時有明顯的優勢。"
+        }
+      ],
+      "distractors": [
+        "distinctive",
+        "extinct",
+        "instinct"
+      ],
+      "note": "語塊：distinct advantage（明顯的優勢）、distinct from（和……不同）、a distinct difference（明顯的差異）。distinct 是「清楚不同的」；distinctive 是「有特色的」；distinguish 是動詞「區分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-insufficient",
+      "word": "insufficient",
+      "pos": "形容詞",
+      "meaning": "不足的；不夠的",
+      "sentences": [
+        {
+          "en": "The payment could not be completed because of insufficient funds in the customer's bank account.",
+          "zh": "因為顧客銀行帳戶資金不足，付款無法完成。"
+        },
+        {
+          "en": "The report was rejected because it contained insufficient information about the costs of the project.",
+          "zh": "那份報告被退回，因為關於專案成本的資訊不足。"
+        },
+        {
+          "en": "The police said there was insufficient evidence to show that the company had broken the law.",
+          "zh": "警方表示沒有足夠的證據顯示那家公司違法。"
+        },
+        {
+          "en": "Many small farms struggle because of insufficient rain during the long, hot, and dry summer months.",
+          "zh": "很多小農場因為漫長炎熱的夏季雨量不足而陷入困境。"
+        },
+        {
+          "en": "The hotel apologized to the guests because of insufficient staff at the front desk during the busy weekend.",
+          "zh": "飯店因為忙碌週末時櫃台人手不足而向客人道歉。"
+        }
+      ],
+      "distractors": [
+        "inefficient",
+        "insignificant",
+        "indifferent"
+      ],
+      "note": "語塊：insufficient funds（資金不足）、insufficient information（資訊不足）、insufficient evidence（證據不足）。insufficient 是「不夠的」；sufficient 是「足夠的」；inefficient 是「沒效率的」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-medical-coverage",
+      "word": "medical coverage",
+      "pos": "名詞",
+      "meaning": "醫療保險；醫療保障",
+      "sentences": [
+        {
+          "en": "The company provides medical coverage for all full-time employees and their families from the first day.",
+          "zh": "公司為所有全職員工和他們的家人提供醫療保險。"
+        },
+        {
+          "en": "Part-time workers do not receive medical coverage, but they can buy insurance through the company.",
+          "zh": "兼職員工沒有醫療保險，但可以透過公司購買保險。"
+        },
+        {
+          "en": "Many people choose jobs with good medical coverage because doctors and hospitals can be expensive.",
+          "zh": "很多人選擇有好醫療保險的工作，因為看醫生和住院可能很貴。"
+        },
+        {
+          "en": "The new plan offers better medical coverage, including dental care and eye examinations every year.",
+          "zh": "新方案提供更好的醫療保障，包括牙科和眼科檢查。"
+        },
+        {
+          "en": "Please check your medical coverage before you travel abroad, as some costs may not be included.",
+          "zh": "出國前請確認你的醫療保險，因為有些費用可能不包含在內。"
+        }
+      ],
+      "distractors": [
+        "insurance coverage",
+        "media coverage",
+        "medical checkup"
+      ],
+      "note": "語塊：provide medical coverage（提供醫療保險）、medical coverage for（……的醫療保障）。coverage 是「保險的保障範圍」；health insurance 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-representative",
+      "word": "representative",
+      "pos": "名詞",
+      "meaning": "代表；業務員",
+      "sentences": [
+        {
+          "en": "A sales representative will contact you within two days to discuss the price of the equipment.",
+          "zh": "業務代表會在兩天內聯絡你，討論設備的價格。"
+        },
+        {
+          "en": "Please call our customer service representative if you have any questions about your monthly bill.",
+          "zh": "如果你對帳單有任何問題，請打電話給我們的客服代表。"
+        },
+        {
+          "en": "A company representative will attend the job fair at the university to answer students' questions.",
+          "zh": "一位公司代表會參加大學的就業博覽會，回答學生的問題。"
+        },
+        {
+          "en": "Each department will choose one representative to join the committee that plans the annual party.",
+          "zh": "每個部門會選一位代表，加入籌辦年度派對的委員會。"
+        },
+        {
+          "en": "The customer service representative was very helpful and solved my problem in only five minutes.",
+          "zh": "那位客服代表很有幫助，只花五分鐘就解決了我的問題。"
+        }
+      ],
+      "distractors": [
+        "representation",
+        "presentation",
+        "reproductive"
+      ],
+      "note": "語塊：sales representative（業務代表）、customer service representative（客服代表）、company representative（公司代表）。representative 是「代表某單位的人」；represent 是動詞「代表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-arrangement",
+      "word": "arrangement",
+      "pos": "名詞",
+      "meaning": "安排；協議",
+      "sentences": [
+        {
+          "en": "The assistant will make an arrangement with the hotel so that the clients can check in early during their visit.",
+          "zh": "助理會和飯店談妥，讓客戶來訪期間可以提早入住。"
+        },
+        {
+          "en": "Please send me your travel arrangement for next week so that someone can meet you at the airport.",
+          "zh": "請把你下週的行程安排寄給我，讓我們派人到機場接你。"
+        },
+        {
+          "en": "The two companies have an arrangement that allows them to share the same warehouse near the port.",
+          "zh": "兩家公司有一項協議，讓它們可以共用同一間倉庫。"
+        },
+        {
+          "en": "A beautiful flower arrangement was placed on each table for the wedding dinner at the hotel.",
+          "zh": "飯店婚宴的每張桌上都擺了一盆漂亮的插花。"
+        },
+        {
+          "en": "The manager has made an arrangement with the restaurant so that employees can eat lunch there at a discount.",
+          "zh": "經理和那家餐廳談好了，讓員工可以用折扣價在那裡吃午餐。"
+        }
+      ],
+      "distractors": [
+        "argument",
+        "assignment",
+        "attachment"
+      ],
+      "note": "語塊：make an arrangement（做安排；談妥）、travel arrangement（行程安排）、flower arrangement（插花）。arrangement 是名詞，常用複數 arrangements（安排）；arrange 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-analyst",
+      "word": "analyst",
+      "pos": "名詞",
+      "meaning": "分析師",
+      "sentences": [
+        {
+          "en": "The bank is hiring a financial analyst to help its clients choose the right investments.",
+          "zh": "那家銀行正在招聘一位財務分析師，幫助客戶選擇合適的投資。"
+        },
+        {
+          "en": "A market analyst said that sales of electric cars will continue to grow over the next ten years.",
+          "zh": "一位市場分析師說，電動車的銷售在未來十年會持續成長。"
+        },
+        {
+          "en": "Ms. Kim works as a data analyst and studies information about customers to find useful patterns.",
+          "zh": "金小姐擔任資料分析師，研究顧客資訊以找出有用的模式。"
+        },
+        {
+          "en": "Every analyst at the firm must write a report about the market at the end of each month.",
+          "zh": "公司的每位分析師都必須在每月底寫一份市場報告。"
+        },
+        {
+          "en": "The financial analyst warned that the company's profits might fall next year because of rising costs.",
+          "zh": "財務分析師警告公司的獲利可能因成本上升而下滑。"
+        }
+      ],
+      "distractors": [
+        "analysis",
+        "anarchist",
+        "alchemist"
+      ],
+      "note": "語塊：financial analyst（財務分析師）、market analyst（市場分析師）、data analyst（資料分析師）。analyst 是「做分析的人」；analysis 是「分析」；analyze 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-at-least",
+      "word": "at least",
+      "pos": "其他",
+      "meaning": "至少",
+      "sentences": [
+        {
+          "en": "Please arrive at the airport at least two hours before your flight for international travel.",
+          "zh": "搭國際航班時，請至少提前兩小時抵達機場。"
+        },
+        {
+          "en": "Applicants must have at least three years of experience in sales or customer service at a large company.",
+          "zh": "應徵者必須至少有三年的業務或客服經驗。"
+        },
+        {
+          "en": "The repairs will take at least one week, so the elevator will be closed until next Friday.",
+          "zh": "維修至少要一週，所以電梯會關到下週五。"
+        },
+        {
+          "en": "Employees should change their passwords at least once every three months for important security reasons.",
+          "zh": "為了安全，員工應該至少每三個月更換一次密碼。"
+        },
+        {
+          "en": "The restaurant was busy, but at least the food was delicious and the staff were friendly.",
+          "zh": "那家餐廳很忙，但至少食物很好吃，員工也很親切。"
+        }
+      ],
+      "distractors": [
+        "at last",
+        "at most",
+        "at first"
+      ],
+      "note": "語塊：at least（至少）。at least 是「至少、最少」；at most 是「最多」；at last 是「終於」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-patient",
+      "word": "patient",
+      "pos": "形容詞",
+      "meaning": "有耐心的",
+      "sentences": [
+        {
+          "en": "Please be patient with new employees, as it takes time to learn how to use the system.",
+          "zh": "請對新員工有耐心，因為學會使用系統需要時間。"
+        },
+        {
+          "en": "The customer service staff are patient and friendly, even when customers are upset or confused.",
+          "zh": "客服人員即使在顧客不滿或困惑時也很有耐心又親切。"
+        },
+        {
+          "en": "Teachers must be patient with young children who are learning to read and write for the first time.",
+          "zh": "老師對第一次學讀寫的幼童必須很有耐心。"
+        },
+        {
+          "en": "Thank you for being patient while we repaired the problem with the website this morning.",
+          "zh": "謝謝您在今天早上我們修理網站問題時耐心等候。"
+        },
+        {
+          "en": "The manager is known for being patient with her team and always explaining things clearly.",
+          "zh": "那位經理以對團隊很有耐心、總是把事情解釋清楚而出名。"
+        }
+      ],
+      "distractors": [
+        "patent",
+        "potent",
+        "passion"
+      ],
+      "note": "語塊：be patient with（對……有耐心）、patient and friendly（有耐心又親切）。patient 當形容詞是「有耐心的」，當名詞是「病人」；patience 是名詞「耐心」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rest-assured",
+      "word": "rest assured",
+      "pos": "片語動詞",
+      "meaning": "請放心",
+      "sentences": [
+        {
+          "en": "Rest assured that your personal information will be kept safe and will not be shared with anyone.",
+          "zh": "請放心，你的個人資料會被妥善保管，不會分享給任何人。"
+        },
+        {
+          "en": "Please rest assured that we will send the missing items to you by express mail today.",
+          "zh": "請放心，我們今天會用快遞把缺少的品項寄給您。"
+        },
+        {
+          "en": "You can rest assured that our technicians will fix the problem as quickly as possible.",
+          "zh": "您可以放心，我們的技師會盡快解決問題。"
+        },
+        {
+          "en": "Rest assured that the hotel will hold your room even if your flight arrives late at night.",
+          "zh": "請放心，即使你的航班深夜才抵達，飯店也會保留你的房間。"
+        },
+        {
+          "en": "Customers can rest assured that all of our products are tested carefully before they are sold.",
+          "zh": "顧客可以放心，我們所有產品在販售前都經過仔細測試。"
+        }
+      ],
+      "distractors": [
+        "rest easy",
+        "be assured",
+        "rest area"
+      ],
+      "note": "語塊：rest assured that（請放心……）。rest assured 是正式的「請放心」，常用在商業書信；don't worry 是口語說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stock-option",
+      "word": "stock option",
+      "pos": "名詞",
+      "meaning": "股票選擇權",
+      "sentences": [
+        {
+          "en": "The company will offer a stock option to every senior employee as part of their compensation package.",
+          "zh": "公司將為每位資深員工提供股票選擇權，作為薪酬方案的一部分。"
+        },
+        {
+          "en": "Many technology companies use a stock option to attract talented engineers who might go elsewhere.",
+          "zh": "很多科技公司用股票選擇權吸引可能跳槽的優秀工程師。"
+        },
+        {
+          "en": "Ms. Lee received a stock option when she joined the startup, and its value has increased greatly.",
+          "zh": "李小姐加入那家新創公司時獲得股票選擇權，現在價值大增。"
+        },
+        {
+          "en": "The new CEO's contract will include a stock option that can be used after three years.",
+          "zh": "新執行長的合約將包含一筆三年後才能行使的股票選擇權。"
+        },
+        {
+          "en": "Employees who stay at the company for five years can use a stock option to buy shares at a low price.",
+          "zh": "在公司待滿五年的員工可以用股票選擇權以低價買股票。"
+        }
+      ],
+      "distractors": [
+        "stock market",
+        "stock price",
+        "in stock"
+      ],
+      "note": "語塊：receive a stock option（獲得股票選擇權）、offer a stock option（提供股票選擇權）、use a stock option（用股票選擇權）、include a stock option（包含股票選擇權）。stock option 是「員工能以特定價格買公司股票的權利」，常用複數 stock options。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-previously",
+      "word": "previously",
+      "pos": "副詞",
+      "meaning": "以前；先前",
+      "sentences": [
+        {
+          "en": "Ms. Park previously worked as a teacher before she joined the company as a training manager.",
+          "zh": "朴小姐以前當過老師，之後才以訓練經理的身分加入公司。"
+        },
+        {
+          "en": "As previously mentioned, the meeting has been moved to Thursday at ten o'clock in the main room.",
+          "zh": "如先前所提，會議改到週四十點在主會議室。"
+        },
+        {
+          "en": "The store was previously located on Main Street, but it moved to the shopping center last year.",
+          "zh": "那家店以前在 Main 街，但去年搬到購物中心了。"
+        },
+        {
+          "en": "The new manager previously worked at a large bank in London for more than ten years.",
+          "zh": "新經理以前在倫敦一家大銀行工作了十多年。"
+        },
+        {
+          "en": "As previously announced, all employees must complete the safety training by the end of the month.",
+          "zh": "如先前公告，所有員工都必須在月底前完成安全訓練。"
+        }
+      ],
+      "distractors": [
+        "previous",
+        "obviously",
+        "precisely"
+      ],
+      "note": "語塊：previously worked（以前曾在……工作）、as previously mentioned（如先前所提）。previously 是「之前」；previous 是形容詞「先前的」；formerly 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-management",
+      "word": "management",
+      "pos": "名詞",
+      "meaning": "管理；管理階層",
+      "sentences": [
+        {
+          "en": "The proposal will be presented to senior management at the monthly meeting next Tuesday afternoon.",
+          "zh": "提案將在下週二的會議上向高階管理層報告。"
+        },
+        {
+          "en": "The workshop on time management helped employees learn how to finish their tasks more quickly.",
+          "zh": "時間管理工作坊幫助員工學會如何更快完成工作。"
+        },
+        {
+          "en": "The restaurant is under new management, and the new owners have changed the menu completely.",
+          "zh": "那家餐廳換了新經營者，新老闆把菜單完全改了。"
+        },
+        {
+          "en": "Ms. Ruiz has a degree in business management and ten years of experience in the hotel industry.",
+          "zh": "Ruiz 小姐有企業管理學位，以及十年的飯店業經驗。"
+        },
+        {
+          "en": "Good management of the budget allowed the team to finish the project without spending extra money.",
+          "zh": "良好的預算管理讓團隊在不多花錢的情況下完成專案。"
+        }
+      ],
+      "distractors": [
+        "manager",
+        "manageable",
+        "measurement"
+      ],
+      "note": "語塊：senior management（高階管理層）、time management（時間管理）、under new management（換了新經營者）。management 可以是「管理（行為）」或「管理階層（人）」；manage 是動詞；manager 是「經理」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compromise",
+      "word": "compromise",
+      "pos": "名詞",
+      "meaning": "妥協；折衷",
+      "sentences": [
+        {
+          "en": "After several hours of discussion, the two sides were able to reach a compromise on the price.",
+          "zh": "經過幾個小時的討論，雙方終於在價格上達成妥協。"
+        },
+        {
+          "en": "The manager had to make a compromise so that both teams would be happy with the new schedule.",
+          "zh": "經理必須做出妥協，讓兩個團隊都對新班表滿意。"
+        },
+        {
+          "en": "The final design was a compromise between what the client wanted and what the budget allowed.",
+          "zh": "最終設計是客戶的需求和預算允許範圍之間的折衷。"
+        },
+        {
+          "en": "The union and the company reached a compromise that gave workers a small increase in pay.",
+          "zh": "工會和公司達成妥協，讓工人小幅加薪。"
+        },
+        {
+          "en": "It is sometimes necessary to make a compromise in business, especially when working with large clients.",
+          "zh": "在商場上有時必須做出妥協，尤其是和大客戶合作的時候。"
+        }
+      ],
+      "distractors": [
+        "comprise",
+        "promise",
+        "compute"
+      ],
+      "note": "語塊：reach a compromise（達成妥協）、make a compromise（做出妥協）。compromise 可以當名詞或動詞；也可以是動詞「損害（安全、品質）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pending",
+      "word": "pending",
+      "pos": "形容詞",
+      "meaning": "待定的；未決的",
+      "sentences": [
+        {
+          "en": "The new parking rules are pending approval by the city council, which will meet next week.",
+          "zh": "新停車規定正等待市議會核准，議會下週會開會。"
+        },
+        {
+          "en": "Your application is pending review, and we will contact you within two weeks with a decision.",
+          "zh": "你的申請正在待審，我們會在兩週內聯絡你告知結果。"
+        },
+        {
+          "en": "The payment is still pending, so the order will not be shipped until the bank confirms it.",
+          "zh": "付款還在處理中，所以銀行確認之前訂單不會出貨。"
+        },
+        {
+          "en": "The construction of the new library is pending, as the city has not yet found enough funding.",
+          "zh": "新圖書館的興建還沒確定，因為市政府還沒找到足夠的經費。"
+        },
+        {
+          "en": "All pending orders will be shipped on Monday morning after the warehouse reopens for business.",
+          "zh": "所有待處理的訂單會在週一早上倉庫重新開工後出貨。"
+        }
+      ],
+      "distractors": [
+        "spending",
+        "impending",
+        "bending"
+      ],
+      "note": "語塊：pending approval（待核准）、pending review（待審查）、still pending（仍在處理中）、pending orders（待處理訂單）。pending 是「還在等待決定的」；當介系詞是「在……之前」（pending the results）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dependent",
+      "word": "dependent",
+      "pos": "形容詞",
+      "meaning": "依賴的；取決於……的",
+      "sentences": [
+        {
+          "en": "Many small towns in the region are dependent on tourism for most of their income.",
+          "zh": "該地區很多小鎮大部分收入依賴觀光業。"
+        },
+        {
+          "en": "The success of the outdoor concert is dependent on good weather in the park on Saturday evening.",
+          "zh": "戶外音樂會能否成功取決於週六晚上的好天氣。"
+        },
+        {
+          "en": "The company is too dependent on one large customer, so it is looking for new clients.",
+          "zh": "公司太依賴一位大客戶，所以正在尋找新客戶。"
+        },
+        {
+          "en": "The price of the tour is dependent on the number of people who sign up for it.",
+          "zh": "行程的價格取決於報名的人數。"
+        },
+        {
+          "en": "Farmers in the valley are dependent on the river for the water they use on their crops.",
+          "zh": "山谷裡的農民依賴河水灌溉作物。"
+        }
+      ],
+      "distractors": [
+        "dependable",
+        "independent",
+        "defendant"
+      ],
+      "note": "語塊：be dependent on（依賴……；取決於……）。be dependent on 是「依靠」或「取決於」；independent 是「獨立的」；dependable 是「可靠的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specialist",
+      "word": "specialist",
+      "pos": "名詞",
+      "meaning": "專家；專科醫生",
+      "sentences": [
+        {
+          "en": "The doctor referred the patient to a heart specialist at the hospital for further tests.",
+          "zh": "醫生把病人轉介給醫院的心臟科醫生做進一步檢查。"
+        },
+        {
+          "en": "Please contact our IT specialist if you have any problems with your computer or email account.",
+          "zh": "如果你的電腦或電子郵件帳號有任何問題，請聯絡我們的資訊專家。"
+        },
+        {
+          "en": "The company hired a marketing specialist to help increase its sales to young customers online.",
+          "zh": "公司聘請一位行銷專員，幫助提高對年輕網路顧客的銷售。"
+        },
+        {
+          "en": "Each specialist at the clinic has at least ten years of experience in his or her field.",
+          "zh": "診所的每位專科醫生在自己的領域都有至少十年經驗。"
+        },
+        {
+          "en": "The museum invited a specialist in ancient art to give a talk about its new exhibition.",
+          "zh": "博物館邀請一位古代藝術專家，針對新展覽發表演講。"
+        }
+      ],
+      "distractors": [
+        "specialty",
+        "socialist",
+        "spectacle"
+      ],
+      "note": "語塊：heart specialist（心臟科醫生）、IT specialist（資訊專家）、marketing specialist（行銷專員）。specialist 是「某領域的專家」；special 是「特別的」；specialize 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-firm",
+      "word": "firm",
+      "pos": "名詞",
+      "meaning": "公司；事務所",
+      "sentences": [
+        {
+          "en": "Ms. Ahmed works at a law firm that helps small businesses with contracts and taxes.",
+          "zh": "Ahmed 小姐在一家協助小企業處理合約和稅務的律師事務所工作。"
+        },
+        {
+          "en": "The company hired an accounting firm to check its financial records before the end of the year.",
+          "zh": "公司聘請一家會計師事務所在年底前檢查財務紀錄。"
+        },
+        {
+          "en": "The consulting firm advised the hotel to improve its website and offer more online services.",
+          "zh": "顧問公司建議那家飯店改善網站，提供更多線上服務。"
+        },
+        {
+          "en": "Mr. Kim left the bank to start his own consulting firm, which now has twenty employees.",
+          "zh": "金先生離開銀行，自己開了一家顧問公司，現在有二十名員工。"
+        },
+        {
+          "en": "Our firm has worked with clients in more than thirty countries over the past twenty years.",
+          "zh": "我們公司過去二十年和三十多個國家的客戶合作過。"
+        }
+      ],
+      "distractors": [
+        "farm",
+        "form",
+        "film"
+      ],
+      "note": "語塊：law firm（律師事務所）、accounting firm（會計師事務所）、consulting firm（顧問公司）。firm 當名詞是「公司（常指專業服務公司）」；當形容詞是「堅固的；堅定的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
