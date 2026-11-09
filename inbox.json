@@ -30573,6 +30573,706 @@
       ],
       "note": "語塊：freeze prices（凍漲）、freeze hiring（凍結人事）、freeze food（冷凍食物）、freeze tuition fees（凍漲學費）。freeze 過去式 froze、過去分詞 frozen；freezer 是「冷凍庫」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-off",
+      "word": "take off",
+      "pos": "片語動詞",
+      "meaning": "起飛；（事業）起飛；休假",
+      "sentences": [
+        {
+          "en": "Passengers must turn off their phones before the plane can take off from the runway.",
+          "zh": "飛機從跑道起飛前，乘客必須關掉手機。"
+        },
+        {
+          "en": "Sales of the new phone began to take off after a famous singer used it in her music video.",
+          "zh": "一位知名歌手在音樂錄影帶中使用那支新手機後，銷售開始爆增。"
+        },
+        {
+          "en": "Ms. Lee plans to take off from work next Friday to attend her daughter's graduation ceremony.",
+          "zh": "李小姐打算下週五請假，參加女兒的畢業典禮。"
+        },
+        {
+          "en": "The flight was able to take off on time even though the weather was cloudy and windy.",
+          "zh": "雖然天氣多雲又有風，班機還是準時起飛了。"
+        },
+        {
+          "en": "The online business did not take off until the owner started advertising on social media.",
+          "zh": "直到老闆開始在社群媒體上打廣告，那個網路事業才起飛。"
+        }
+      ],
+      "distractors": [
+        "take on",
+        "take over",
+        "take out"
+      ],
+      "note": "語塊：take off on time（準時起飛）、take off from work（請假不上班）、sales take off（銷售爆增）。take off 可以是飛機「起飛」、生意「突然成功」，或 take time off「休假」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-finding",
+      "word": "finding",
+      "pos": "名詞",
+      "meaning": "調查結果；發現",
+      "sentences": [
+        {
+          "en": "The key finding of the study was that employees who exercise regularly take fewer sick days.",
+          "zh": "這項研究的主要發現是規律運動的員工請病假的天數比較少。"
+        },
+        {
+          "en": "The research team will present its finding at the international conference in Berlin next month.",
+          "zh": "研究團隊下個月會在柏林的國際研討會上發表它的發現。"
+        },
+        {
+          "en": "The finding that most customers prefer shopping online surprised the owners of the department store.",
+          "zh": "大多數顧客偏好網路購物的這項發現讓百貨公司的老闆很意外。"
+        },
+        {
+          "en": "One important finding of the survey is that young people care more about the environment than before.",
+          "zh": "調查的一項重要發現是年輕人比以前更在乎環境。"
+        },
+        {
+          "en": "Based on this finding, the company decided to spend more money on advertising through mobile apps.",
+          "zh": "根據這項發現，公司決定在手機 App 廣告上花更多錢。"
+        }
+      ],
+      "distractors": [
+        "founding",
+        "funding",
+        "fining"
+      ],
+      "note": "語塊：research findings（研究結果）、key finding（主要發現）、the finding that（……的發現）。finding 是「調查或研究得到的結果」，常用複數 findings；find 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-determined-to",
+      "word": "determined to",
+      "pos": "其他",
+      "meaning": "下定決心……",
+      "sentences": [
+        {
+          "en": "The new manager is determined to improve customer service in all of the company's stores this year.",
+          "zh": "新經理下定決心要在今年改善公司所有門市的客服。"
+        },
+        {
+          "en": "After losing the contract, the sales team was determined to win the next one from the same client.",
+          "zh": "失去那份合約後，業務團隊決心要拿下同一位客戶的下一份合約。"
+        },
+        {
+          "en": "Ms. Ruiz is determined to finish her degree while working full-time at the bank downtown.",
+          "zh": "Ruiz 小姐下定決心要在銀行全職工作的同時完成學位。"
+        },
+        {
+          "en": "The city is determined to reduce traffic in the downtown area by building more bicycle lanes.",
+          "zh": "市政府決心要增建自行車道，減少市中心的車流。"
+        },
+        {
+          "en": "The company was determined to become the market leader in electric cars within ten years.",
+          "zh": "那家公司決心在十年內成為電動車的市場領導者。"
+        }
+      ],
+      "distractors": [
+        "designed to",
+        "destined to",
+        "devoted to"
+      ],
+      "note": "語塊：be determined to（決心要……）、more determined than ever（比以往更堅決）。be determined to + 原形動詞是「下定決心做」；determination 是名詞「決心」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-read-through",
+      "word": "read through",
+      "pos": "片語動詞",
+      "meaning": "仔細讀完；從頭讀到尾",
+      "sentences": [
+        {
+          "en": "Please read through the contract carefully before you sign it and send it back to our office.",
+          "zh": "簽名寄回我們辦公室之前，請仔細讀完合約。"
+        },
+        {
+          "en": "The editor will read through the report one more time to check for spelling mistakes.",
+          "zh": "編輯會再把報告從頭到尾讀一次，檢查拼字錯誤。"
+        },
+        {
+          "en": "New employees should read through the handbook during their first week to learn the company's rules.",
+          "zh": "新員工應該在第一週讀完手冊，了解公司的規定。"
+        },
+        {
+          "en": "It took me two hours to read through all of the comments that customers left on our website.",
+          "zh": "我花了兩個小時才讀完顧客在我們網站上留下的所有評論。"
+        },
+        {
+          "en": "Before the meeting, please read through the proposal and write down any questions you may have.",
+          "zh": "開會前，請讀完提案並寫下你可能有的任何問題。"
+        }
+      ],
+      "distractors": [
+        "read out",
+        "read up on",
+        "look through"
+      ],
+      "note": "語塊：read through the contract（仔細讀完合約）、read through the report（讀完報告）、read through all of（讀完所有……）、read through the proposal（讀完提案）。read through 是「從頭到尾仔細讀」；look through 是「瀏覽」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suit",
+      "word": "suit",
+      "pos": "動詞",
+      "meaning": "適合；合乎……的需要",
+      "sentences": [
+        {
+          "en": "We offer several plans so that customers can choose the one that will suit their needs best.",
+          "zh": "我們提供好幾種方案，讓顧客選擇最符合需求的一種。"
+        },
+        {
+          "en": "The meeting time does not suit everyone, so we will try to find another day next week.",
+          "zh": "會議時間不是每個人都方便，所以我們會試著找下週的另一天。"
+        },
+        {
+          "en": "The designer will help you choose furniture that will best suit the size and style of your office.",
+          "zh": "設計師會幫你挑選最適合你辦公室大小和風格的家具。"
+        },
+        {
+          "en": "The new schedule should suit employees who need to pick up their children from school.",
+          "zh": "新的班表應該適合需要去學校接孩子的員工。"
+        },
+        {
+          "en": "The small apartment does not suit a large family, but it is perfect for a single person.",
+          "zh": "那間小公寓不適合大家庭，但很適合單身的人。"
+        }
+      ],
+      "distractors": [
+        "suite",
+        "sweet",
+        "shoot"
+      ],
+      "note": "語塊：suit one's needs（符合需求）、suit everyone（適合每個人）、best suit（最適合）。suit 當動詞是「適合」（This plan suits me）；當名詞是「西裝」；suitable 是形容詞「合適的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-review",
+      "word": "review",
+      "pos": "名詞",
+      "meaning": "評論；審查",
+      "sentences": [
+        {
+          "en": "The restaurant received an excellent review from a famous food critic in the local newspaper.",
+          "zh": "那家餐廳在地方報紙上獲得一位知名美食評論家的極佳評論。"
+        },
+        {
+          "en": "Your application is currently under review, and we will contact you by email within two weeks.",
+          "zh": "你的申請目前正在審查中，我們會在兩週內聯絡你。"
+        },
+        {
+          "en": "Each employee has a performance review with their manager at the end of every year.",
+          "zh": "每位員工每年年底都會和經理進行一次績效考核。"
+        },
+        {
+          "en": "Please leave a customer review on our website to let us know what you think about our service.",
+          "zh": "請在我們網站上留下顧客評論，讓我們知道你對我們服務的看法。"
+        },
+        {
+          "en": "The new safety rules are under review and may be changed before they go into effect.",
+          "zh": "新的安全規定正在審查中，生效前可能會修改。"
+        }
+      ],
+      "distractors": [
+        "preview",
+        "revenue",
+        "renew"
+      ],
+      "note": "語塊：customer review（顧客評論）、under review（審查中）、performance review（績效考核）。review 可以是「評論」或「審查、檢討」；preview 是「預覽」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-plagiarism",
+      "word": "plagiarism",
+      "pos": "名詞",
+      "meaning": "抄襲；剽竊",
+      "sentences": [
+        {
+          "en": "The university uses special software to check for plagiarism in every essay that students submit.",
+          "zh": "那所大學用特殊軟體檢查學生交的每篇報告是否抄襲。"
+        },
+        {
+          "en": "The author was accused of plagiarism after readers found that several pages were copied from another book.",
+          "zh": "讀者發現有好幾頁是從另一本書抄來的之後，那位作家被指控抄襲。"
+        },
+        {
+          "en": "Plagiarism is taken very seriously at our company, and employees who copy others' work may lose their jobs.",
+          "zh": "我們公司非常重視抄襲問題，抄襲別人作品的員工可能會丟掉工作。"
+        },
+        {
+          "en": "The magazine checks every article for plagiarism before it is published online or in print.",
+          "zh": "那本雜誌在每篇文章刊登到網路或紙本前，都會檢查是否抄襲。"
+        },
+        {
+          "en": "Students who are found guilty of plagiarism will receive a failing grade for the course.",
+          "zh": "被認定抄襲的學生這門課會被當掉。"
+        }
+      ],
+      "distractors": [
+        "pragmatism",
+        "patriotism",
+        "paganism"
+      ],
+      "note": "語塊：accuse sb of plagiarism（指控某人抄襲）、check for plagiarism（檢查抄襲）。plagiarism 是「抄襲別人的作品」；plagiarize 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-have-to-do-with",
+      "word": "have to do with",
+      "pos": "片語動詞",
+      "meaning": "和……有關",
+      "sentences": [
+        {
+          "en": "The delay seems to have to do with a problem at the factory rather than with the shipping company.",
+          "zh": "延誤似乎和工廠的問題有關，而不是貨運公司。"
+        },
+        {
+          "en": "Most of the complaints we receive have to do with late deliveries during the holiday season.",
+          "zh": "我們收到的投訴大多和節慶期間延遲送貨有關。"
+        },
+        {
+          "en": "The new job will have to do with marketing and social media, which Ms. Lin enjoys very much.",
+          "zh": "新工作會和行銷及社群媒體有關，林小姐非常喜歡這些。"
+        },
+        {
+          "en": "The changes to the schedule have to do with the director's business trip to Japan next week.",
+          "zh": "時程的變動和總監下週去日本出差有關。"
+        },
+        {
+          "en": "Many of the questions at the seminar will have to do with the new tax rules for small businesses.",
+          "zh": "研討會上很多問題會和小企業的新稅務規定有關。"
+        }
+      ],
+      "distractors": [
+        "have to",
+        "do away with",
+        "deal with"
+      ],
+      "note": "語塊：have something to do with（和……有些關係）、have nothing to do with（和……無關）。have to do with 是「有關」；be related to 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-anticipate",
+      "word": "anticipate",
+      "pos": "動詞",
+      "meaning": "預期；預料",
+      "sentences": [
+        {
+          "en": "We anticipate a delay of about two days in shipping because of the heavy snow in the north.",
+          "zh": "因為北部下大雪，我們預料出貨會延誤大約兩天。"
+        },
+        {
+          "en": "Retailers must anticipate demand carefully so that they have enough products before the holiday season.",
+          "zh": "零售商必須仔細預估需求，在節慶季前備足產品。"
+        },
+        {
+          "en": "The organizers anticipate that more than five thousand people will attend the festival this year.",
+          "zh": "主辦單位預期今年會有五千多人參加慶典。"
+        },
+        {
+          "en": "The company did not anticipate such strong demand, so the new phone sold out within a few hours.",
+          "zh": "公司沒預料到需求會這麼強，所以新手機幾個小時內就賣光了。"
+        },
+        {
+          "en": "Travelers should anticipate a delay at the airport during the holiday weekend and arrive early.",
+          "zh": "旅客應預料連假週末機場會有延誤，並提早到達。"
+        }
+      ],
+      "distractors": [
+        "participate",
+        "antique",
+        "appreciate"
+      ],
+      "note": "語塊：anticipate a delay（預料會延誤）、anticipate demand（預估需求）、anticipate that（預期……）。anticipate 比 expect 正式；anticipation 是名詞「期待」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-comply",
+      "word": "comply",
+      "pos": "動詞",
+      "meaning": "遵守；服從",
+      "sentences": [
+        {
+          "en": "All restaurants must comply with the health and safety rules set by the city government.",
+          "zh": "所有餐廳都必須遵守市政府制定的衛生和安全規定。"
+        },
+        {
+          "en": "Companies that fail to comply with the new environmental laws will have to pay a large fine.",
+          "zh": "未遵守新環保法規的公司必須支付高額罰款。"
+        },
+        {
+          "en": "Visitors to the factory are required to comply with all safety instructions given by the staff.",
+          "zh": "參觀工廠的訪客必須遵守員工給的所有安全指示。"
+        },
+        {
+          "en": "We will comply with your request and send the documents to your new address by Friday.",
+          "zh": "我們會依照您的要求，在週五前把文件寄到您的新地址。"
+        },
+        {
+          "en": "The new products must comply with the standards of every country where they will be sold.",
+          "zh": "新產品必須符合每個販售國家的標準。"
+        }
+      ],
+      "distractors": [
+        "compile",
+        "imply",
+        "supply"
+      ],
+      "note": "語塊：comply with（遵守……）、fail to comply（未遵守）。comply with 是「遵守（法規、要求）」；compliance 是名詞；obey、follow 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-currency",
+      "word": "currency",
+      "pos": "名詞",
+      "meaning": "貨幣；通貨",
+      "sentences": [
+        {
+          "en": "Travelers can exchange foreign currency at the bank counter on the first floor of the airport.",
+          "zh": "旅客可以在機場一樓的銀行櫃台兌換外幣。"
+        },
+        {
+          "en": "Prices in the hotel restaurant are listed in the local currency, but credit cards are also accepted.",
+          "zh": "飯店餐廳的價格以當地貨幣標示，但也接受信用卡。"
+        },
+        {
+          "en": "The value of the country's currency fell sharply after the government announced the new budget.",
+          "zh": "政府宣布新預算後，該國貨幣的價值大幅下跌。"
+        },
+        {
+          "en": "It is cheaper to exchange currency in the city than at the airport, where the rates are higher.",
+          "zh": "在市區換錢比在機場便宜，機場的匯率比較差。"
+        },
+        {
+          "en": "The online store allows customers to pay in their own local currency, which makes shopping easier.",
+          "zh": "那家網路商店讓顧客用自己的當地貨幣付款，購物更方便。"
+        }
+      ],
+      "distractors": [
+        "current",
+        "curiosity",
+        "urgency"
+      ],
+      "note": "語塊：foreign currency（外幣）、local currency（當地貨幣）、exchange currency（兌換貨幣）。currency 是「貨幣」；current 是「目前的；水流」；currently 是「目前」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shortfall",
+      "word": "shortfall",
+      "pos": "名詞",
+      "meaning": "短缺；不足額",
+      "sentences": [
+        {
+          "en": "The city is facing a budget shortfall of five million dollars because tax income was lower than expected.",
+          "zh": "因為稅收比預期低，市政府面臨五百萬美元的預算缺口。"
+        },
+        {
+          "en": "A shortfall in staff during the holiday season caused long lines at the supermarket checkout.",
+          "zh": "節慶期間人手短缺，造成超市結帳大排長龍。"
+        },
+        {
+          "en": "The company will borrow money from the bank to cover the shortfall until sales improve.",
+          "zh": "公司會向銀行借錢填補缺口，直到銷售好轉。"
+        },
+        {
+          "en": "The school had to cancel several programs because of a shortfall in funding from the government.",
+          "zh": "因為政府經費不足，學校只好取消好幾個課程。"
+        },
+        {
+          "en": "The director explained how the department plans to cover the shortfall without laying off any workers.",
+          "zh": "總監說明部門打算如何在不裁員的情況下填補缺口。"
+        }
+      ],
+      "distractors": [
+        "shortage",
+        "shortcut",
+        "downfall"
+      ],
+      "note": "語塊：a shortfall in（……的短缺）、budget shortfall（預算缺口）、cover the shortfall（填補缺口）。shortfall 是「不夠的部分」；shortage 是「短缺」，意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-direction",
+      "word": "direction",
+      "pos": "名詞",
+      "meaning": "方向；指示；指導",
+      "sentences": [
+        {
+          "en": "The hotel is about ten minutes on foot in the direction of the train station.",
+          "zh": "飯店朝火車站的方向走路大約十分鐘。"
+        },
+        {
+          "en": "The orchestra performed under the direction of a famous conductor from Vienna at the city's new concert hall.",
+          "zh": "管弦樂團在城市新音樂廳由一位維也納知名指揮指導演出。"
+        },
+        {
+          "en": "The company is moving in a new direction by focusing on online sales instead of physical stores.",
+          "zh": "公司正在轉向新方向，把重點放在網路銷售而不是實體店。"
+        },
+        {
+          "en": "The project was completed under the direction of Ms. Patel, who has managed many similar projects.",
+          "zh": "專案是在 Patel 小姐的指導下完成的，她管理過很多類似的專案。"
+        },
+        {
+          "en": "If you get lost, walk in the direction of the large clock tower and you will find the main square.",
+          "zh": "如果你迷路了，朝那座大鐘樓的方向走，就會找到主廣場。"
+        }
+      ],
+      "distractors": [
+        "director",
+        "discretion",
+        "distraction"
+      ],
+      "note": "語塊：in the direction of（朝……方向）、ask for directions（問路）、under the direction of（在……的指導下）。direction 單數是「方向」；複數 directions 常指「路線說明、使用說明」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-directly",
+      "word": "directly",
+      "pos": "副詞",
+      "meaning": "直接地；立即",
+      "sentences": [
+        {
+          "en": "Customers can contact our technicians directly by calling the number on the back of the machine.",
+          "zh": "顧客可以撥打機器背面的電話直接聯絡我們的技師。"
+        },
+        {
+          "en": "The restaurant buys its vegetables directly from local farmers, so they are always fresh and full of flavor.",
+          "zh": "那家餐廳直接向在地農民買蔬菜，所以都很新鮮。"
+        },
+        {
+          "en": "In her new role, Ms. Gomez will report directly to the chief executive officer of the company.",
+          "zh": "Gomez 小姐擔任新職後，將直接向公司執行長報告。"
+        },
+        {
+          "en": "Please send your application directly to the human resources manager rather than to the general email address.",
+          "zh": "請把申請直接寄給人資經理，而不是寄到一般的電子信箱。"
+        },
+        {
+          "en": "The new train line will take passengers directly from the airport to the center of the city.",
+          "zh": "新的鐵路線會把乘客直接從機場載到市中心。"
+        }
+      ],
+      "distractors": [
+        "direct",
+        "correctly",
+        "distinctly"
+      ],
+      "note": "語塊：contact directly（直接聯絡）、directly from（直接從……）、report directly to（直接向……報告）。directly 是「直接」；direct 也可以當副詞（fly direct 直飛）；indirectly 是「間接地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ease",
+      "word": "ease",
+      "pos": "動詞",
+      "meaning": "減輕；緩和",
+      "sentences": [
+        {
+          "en": "The new subway line is expected to ease traffic in the city center during rush hour.",
+          "zh": "新捷運線預計會紓解尖峰時段市中心的交通。"
+        },
+        {
+          "en": "The doctor gave the patient some medicine to ease the pain in his back after the accident.",
+          "zh": "醫生給病人一些藥，減輕他車禍後的背痛。"
+        },
+        {
+          "en": "The CEO met with employees to ease concerns about job losses after the merger was announced.",
+          "zh": "宣布合併後，執行長和員工見面，消除他們對失業的疑慮。"
+        },
+        {
+          "en": "Adding more trains on weekends will help ease crowding at the station during the festival.",
+          "zh": "週末加開列車將有助於緩和慶典期間車站的擁擠。"
+        },
+        {
+          "en": "The company sent a letter to customers to ease concerns about the safety of their personal information.",
+          "zh": "公司寄信給顧客，消除他們對個人資料安全的疑慮。"
+        }
+      ],
+      "distractors": [
+        "easy",
+        "tease",
+        "lease"
+      ],
+      "note": "語塊：ease traffic（紓解交通）、ease the pain（減輕疼痛）、ease concerns（消除疑慮）。ease 當動詞是「使減輕」；當名詞是「容易；自在」（with ease 輕鬆地）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-at-most",
+      "word": "at most",
+      "pos": "其他",
+      "meaning": "最多；頂多",
+      "sentences": [
+        {
+          "en": "The repair should take two hours at most, so your car will be ready before lunch.",
+          "zh": "維修最多應該要兩個小時，所以你的車在午餐前就會好。"
+        },
+        {
+          "en": "Each team can have five members at most, so please choose your partners carefully before Friday.",
+          "zh": "每組最多五個人，所以請仔細選擇夥伴。"
+        },
+        {
+          "en": "The trip from the hotel to the airport takes thirty minutes at most when there is no traffic.",
+          "zh": "不塞車的話，從飯店到機場頂多三十分鐘。"
+        },
+        {
+          "en": "The new laptop costs at most eight hundred dollars, which is much cheaper than other models.",
+          "zh": "新筆電最多八百美元，比其他機型便宜很多。"
+        },
+        {
+          "en": "At most, the meeting will last one hour, so you will have time to catch your flight in the afternoon.",
+          "zh": "會議頂多一小時，所以你下午有時間趕飛機。"
+        }
+      ],
+      "distractors": [
+        "at least",
+        "at last",
+        "at first"
+      ],
+      "note": "語塊：at most（最多）。at most 是「最多、不超過」；at least 是相反詞「至少」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instability",
+      "word": "instability",
+      "pos": "名詞",
+      "meaning": "不穩定",
+      "sentences": [
+        {
+          "en": "Political instability in the region has caused many foreign companies to delay their investment plans.",
+          "zh": "該地區的政治不穩定讓很多外國公司延後投資計畫。"
+        },
+        {
+          "en": "Economic instability makes it difficult for small businesses to plan for the future and hire new staff.",
+          "zh": "經濟不穩定讓小企業很難為未來做規劃。"
+        },
+        {
+          "en": "The company has suffered from financial instability since it lost its largest client two years ago.",
+          "zh": "自從兩年前失去最大客戶後，公司就一直財務不穩。"
+        },
+        {
+          "en": "Investors are worried about the instability of the stock market and are moving their money into gold.",
+          "zh": "投資人擔心股市的不穩定，正在把錢轉進黃金。"
+        },
+        {
+          "en": "The government introduced new policies to reduce economic instability and create more jobs for young people.",
+          "zh": "政府推出新政策，減少經濟不穩定並創造更多工作。"
+        }
+      ],
+      "distractors": [
+        "inability",
+        "installation",
+        "instance"
+      ],
+      "note": "語塊：political instability（政治不穩定）、economic instability（經濟不穩定）、financial instability（財務不穩）。instability 是名詞；unstable 是形容詞「不穩定的」；stability 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-anxiety",
+      "word": "anxiety",
+      "pos": "名詞",
+      "meaning": "焦慮；擔憂",
+      "sentences": [
+        {
+          "en": "Many employees felt anxiety about the changes to the company after the new CEO was announced.",
+          "zh": "新執行長宣布後，很多員工對公司的變化感到焦慮。"
+        },
+        {
+          "en": "Speaking in front of a large audience can cause anxiety, even for experienced managers and business leaders.",
+          "zh": "在一大群聽眾面前說話可能會造成焦慮，即使是有經驗的經理也一樣。"
+        },
+        {
+          "en": "The workshop teaches simple breathing exercises that can help reduce anxiety before important meetings or presentations.",
+          "zh": "工作坊教簡單的呼吸練習，幫助在重要會議前減輕焦慮。"
+        },
+        {
+          "en": "Waiting for the results of the job interview caused a lot of anxiety for Mr. Ito and his family.",
+          "zh": "等待面試結果讓伊藤先生和家人非常焦慮。"
+        },
+        {
+          "en": "Clear communication from managers can reduce anxiety among staff during times of change and uncertainty.",
+          "zh": "在變動時期，經理清楚的溝通可以減輕員工的焦慮。"
+        }
+      ],
+      "distractors": [
+        "society",
+        "variety",
+        "anxiously"
+      ],
+      "note": "語塊：cause anxiety（造成焦慮）、reduce anxiety（減輕焦慮）、anxiety about（對……的擔憂）。anxiety 是名詞；anxious 是形容詞「焦慮的；渴望的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exert",
+      "word": "exert",
+      "pos": "動詞",
+      "meaning": "運用；施加（影響、壓力）",
+      "sentences": [
+        {
+          "en": "Large companies often exert pressure on their suppliers to lower their prices every year or lose the contract.",
+          "zh": "大公司常常對供應商施加壓力，要他們每年降價，否則就失去合約。"
+        },
+        {
+          "en": "Social media can exert influence on the products that young people decide to buy online.",
+          "zh": "社群媒體會對年輕人決定買什麼產品發揮影響力。"
+        },
+        {
+          "en": "The union plans to exert pressure on the government to raise the minimum wage next year.",
+          "zh": "工會計畫向政府施壓，要求明年調高最低工資。"
+        },
+        {
+          "en": "Famous athletes exert influence on fans who want to wear the same shoes and clothing.",
+          "zh": "知名運動員對想穿同款鞋子和衣服的粉絲有影響力。"
+        },
+        {
+          "en": "Workers must not exert too much force when they lift heavy boxes, as it can cause back injuries.",
+          "zh": "工人搬重箱子時不能太用力，因為可能會造成背部受傷。"
+        }
+      ],
+      "distractors": [
+        "exempt",
+        "expert",
+        "insert"
+      ],
+      "note": "語塊：exert pressure（施加壓力）、exert influence（發揮影響力）、exert effort（盡力）。exert 是「用力、施加」；exertion 是名詞「努力、費力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depend",
+      "word": "depend",
+      "pos": "動詞",
+      "meaning": "依賴；取決於",
+      "sentences": [
+        {
+          "en": "Many small farms depend on seasonal workers to help them harvest their crops every autumn.",
+          "zh": "很多小農場每年秋天都靠季節性工人幫忙收成。"
+        },
+        {
+          "en": "Whether the outdoor concert takes place will depend on the weather forecast for Saturday afternoon.",
+          "zh": "戶外音樂會是否舉行將取決於週六下午的天氣。"
+        },
+        {
+          "en": "The price of the tour will depend on the number of people who sign up for it.",
+          "zh": "行程的價格將取決於報名的人數。"
+        },
+        {
+          "en": "The company's success will depend on its ability to attract young customers in the coming years.",
+          "zh": "公司的成功將取決於它在未來幾年吸引年輕顧客的能力。"
+        },
+        {
+          "en": "Customers depend on us to deliver their orders on time, so we must avoid delays at the warehouse.",
+          "zh": "顧客依賴我們準時送貨，所以我們必須避免倉庫延誤。"
+        }
+      ],
+      "distractors": [
+        "defend",
+        "expend",
+        "deposit"
+      ],
+      "note": "語塊：depend on（依賴；取決於）、depend on the number of（取決於……的數量）。depend on 可以是「依靠」或「取決於」；dependent 是形容詞「依賴的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
