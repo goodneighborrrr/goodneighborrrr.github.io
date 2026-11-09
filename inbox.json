@@ -41073,6 +41073,706 @@
       ],
       "note": "語塊：besides that（除此之外）、and besides（而且）、besides, the staff（而且員工……）。besides 當副詞是「而且、此外」；當介系詞是「除了……之外（還有）」；beside（沒有 s）是「在……旁邊」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-experienced",
+      "word": "experienced",
+      "pos": "形容詞",
+      "meaning": "有經驗的；熟練的",
+      "sentences": [
+        {
+          "en": "The hotel hires experienced staff who can speak several languages and help guests from many countries.",
+          "zh": "飯店聘用會說好幾種語言、能協助各國客人的有經驗員工。"
+        },
+        {
+          "en": "We are looking for a highly experienced engineer to lead the design of our new factory in Vietnam.",
+          "zh": "我們在找一位經驗豐富的工程師，帶領我們越南新工廠的設計。"
+        },
+        {
+          "en": "Ms. Grant is experienced in organizing large events, so she will plan the company's anniversary party.",
+          "zh": "Grant 小姐在籌辦大型活動方面很有經驗，所以由她規劃公司的週年派對。"
+        },
+        {
+          "en": "New employees will work with experienced staff for their first three months at the company.",
+          "zh": "新員工到公司的頭三個月會和有經驗的員工一起工作。"
+        },
+        {
+          "en": "The restaurant is looking for an experienced chef who can create new dishes every season.",
+          "zh": "那家餐廳在找一位能每季設計新菜色的有經驗主廚。"
+        }
+      ],
+      "distractors": [
+        "experimental",
+        "expensive",
+        "exercised"
+      ],
+      "note": "語塊：experienced staff（有經驗的員工）、highly experienced（經驗豐富的）、experienced in（在……方面有經驗）。experienced 是「有經驗的」；experience 是名詞或動詞「經驗；經歷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-effectively",
+      "word": "effectively",
+      "pos": "副詞",
+      "meaning": "有效地",
+      "sentences": [
+        {
+          "en": "Managers must communicate effectively with their teams so that everyone understands the goals of each project.",
+          "zh": "經理必須和團隊有效溝通，讓每個人都了解目標。"
+        },
+        {
+          "en": "The training program teaches employees how to work effectively in teams with people from other countries.",
+          "zh": "訓練計畫教員工如何和來自其他國家的人有效地團隊合作。"
+        },
+        {
+          "en": "The new software allows us to use our time more effectively by reducing paperwork in the office.",
+          "zh": "新軟體減少了文書工作，讓我們能更有效地運用時間。"
+        },
+        {
+          "en": "The medicine works effectively for most patients, but some people may need a stronger treatment.",
+          "zh": "那種藥對大部分病人都很有效，但有些人可能需要更強的治療。"
+        },
+        {
+          "en": "The company solved the problem effectively by hiring more staff during the busy holiday season.",
+          "zh": "公司在旺季增聘人手，有效地解決了問題。"
+        }
+      ],
+      "distractors": [
+        "efficiently",
+        "affectionately",
+        "eventually"
+      ],
+      "note": "語塊：communicate effectively（有效溝通）、work effectively（有效率地工作）、use effectively（有效運用）。effectively 是「有效果地」；efficiently 是「有效率地（不浪費）」；effective 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-average",
+      "word": "on average",
+      "pos": "其他",
+      "meaning": "平均來說",
+      "sentences": [
+        {
+          "en": "On average, our customers receive their orders within two days of placing them on our website.",
+          "zh": "平均來說，我們的顧客在網路下單後兩天內就會收到訂單。"
+        },
+        {
+          "en": "Employees at the company work on average forty hours a week, including one evening of overtime.",
+          "zh": "公司員工平均每週工作四十小時，包括一個晚上的加班。"
+        },
+        {
+          "en": "On average, the hotel receives about five hundred guests every weekend during the busy summer months.",
+          "zh": "平均來說，飯店夏天每個週末大約接待五百位客人。"
+        },
+        {
+          "en": "Prices for apartments in the city center have risen on average by ten percent each year.",
+          "zh": "市中心公寓的價格平均每年上漲一成。"
+        },
+        {
+          "en": "On average, it takes new employees about three months to learn how to use all of the software.",
+          "zh": "平均來說，新員工大約要三個月才能學會使用所有軟體。"
+        }
+      ],
+      "distractors": [
+        "on purpose",
+        "on time",
+        "on board"
+      ],
+      "note": "語塊：on average（平均而言）。on average 是「平均下來」；average 可以是名詞「平均數」或形容詞「平均的；普通的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-skilled",
+      "word": "skilled",
+      "pos": "形容詞",
+      "meaning": "熟練的；有技術的",
+      "sentences": [
+        {
+          "en": "The factory needs more skilled workers who know how to operate the new machines safely.",
+          "zh": "工廠需要更多懂得操作新機器的技術工人。"
+        },
+        {
+          "en": "Our furniture is made by highly skilled craftsmen who have worked with wood for many years.",
+          "zh": "我們的家具是由和木頭打交道多年、技術高超的工匠製作的。"
+        },
+        {
+          "en": "Ms. Lin is skilled in negotiating contracts and has helped the company save a lot of money.",
+          "zh": "林小姐擅長談判合約，幫公司省了很多錢。"
+        },
+        {
+          "en": "There is a shortage of skilled workers in the construction industry, so wages have increased.",
+          "zh": "營造業缺乏技術工人，所以薪資提高了。"
+        },
+        {
+          "en": "The company offers training programs to help employees become more skilled in using new technology.",
+          "zh": "公司提供訓練計畫，幫助員工更熟練地使用新科技。"
+        }
+      ],
+      "distractors": [
+        "skillful",
+        "killed",
+        "scaled"
+      ],
+      "note": "語塊：skilled workers（技術工人）、highly skilled（技術高超的）、skilled in（擅長……）。skilled 是「有技術、熟練的」；unskilled 是「沒有技術的」；skillful 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-field",
+      "word": "field",
+      "pos": "名詞",
+      "meaning": "領域；田野；場地",
+      "sentences": [
+        {
+          "en": "Dr. Kim is a well-known expert in the field of renewable energy and has won several awards.",
+          "zh": "金博士是再生能源領域的知名專家，得過好幾個獎。"
+        },
+        {
+          "en": "The students went on a field trip to a local farm to learn how vegetables are grown.",
+          "zh": "學生到當地農場進行校外教學，學習蔬菜如何種植。"
+        },
+        {
+          "en": "The new playing field near the school will be used for football games and other sports.",
+          "zh": "學校附近的新運動場將用來舉辦足球比賽和其他運動。"
+        },
+        {
+          "en": "Many young people want to work in the field of technology because salaries are high.",
+          "zh": "很多年輕人想在科技領域工作，因為薪水很高。"
+        },
+        {
+          "en": "The company sent a team on a field trip to visit factories in Japan and learn new methods.",
+          "zh": "公司派一組人實地考察日本的工廠，學習新方法。"
+        }
+      ],
+      "distractors": [
+        "filed",
+        "feel",
+        "yield"
+      ],
+      "note": "語塊：in the field of（在……領域）、field trip（校外教學；實地考察）、playing field（運動場）。field 可以是「專業領域」、「田地」或「運動場」；in the field 是「在現場」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-host",
+      "word": "host",
+      "pos": "動詞",
+      "meaning": "主辦；主持；招待",
+      "sentences": [
+        {
+          "en": "The city will host an international conference on clean energy next spring at the new convention center.",
+          "zh": "這座城市明年春天將在新會議中心舉辦一場國際潔淨能源研討會。"
+        },
+        {
+          "en": "The hotel plans to host an event for local businesses to celebrate its tenth anniversary.",
+          "zh": "飯店計畫舉辦一場邀請當地企業的活動，慶祝十週年。"
+        },
+        {
+          "en": "The famous chef will host a show on television where he teaches people how to cook simple meals.",
+          "zh": "那位知名主廚將主持一個電視節目，教大家做簡單的料理。"
+        },
+        {
+          "en": "Our company will host a conference for more than five hundred engineers from around the world.",
+          "zh": "我們公司將為五百多位來自世界各地的工程師舉辦一場研討會。"
+        },
+        {
+          "en": "The museum will host an event for children every Saturday morning during the summer holidays.",
+          "zh": "暑假期間，博物館每週六早上會為孩子舉辦活動。"
+        }
+      ],
+      "distractors": [
+        "post",
+        "hold",
+        "ghost"
+      ],
+      "note": "語塊：host an event（主辦活動）、host a conference（舉辦研討會）、host a show（主持節目）。host 可以當動詞「主辦、主持」或名詞「主人；主持人」；hostess 是「女主人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-species",
+      "word": "species",
+      "pos": "名詞",
+      "meaning": "物種；種類",
+      "sentences": [
+        {
+          "en": "The forest is home to several endangered species, so visitors must stay on the marked paths.",
+          "zh": "那座森林是好幾種瀕危物種的家，所以遊客必須走在標示的步道上。"
+        },
+        {
+          "en": "Scientists discovered a rare species of bird that had not been seen in the area for fifty years.",
+          "zh": "科學家發現一種五十年來沒在該地區出現過的稀有鳥類。"
+        },
+        {
+          "en": "The lake contains more than thirty species of fish, which attract many visitors who enjoy fishing.",
+          "zh": "湖裡有三十多種魚，吸引很多喜歡釣魚的遊客。"
+        },
+        {
+          "en": "The new law will protect endangered species by limiting the number of trees that can be cut down.",
+          "zh": "新法律將限制可以砍伐的樹木數量，保護瀕危物種。"
+        },
+        {
+          "en": "The garden has more than one hundred species of flowers from many different parts of the world.",
+          "zh": "那座花園有一百多種來自世界各地的花。"
+        }
+      ],
+      "distractors": [
+        "specie",
+        "spices",
+        "specimens"
+      ],
+      "note": "語塊：endangered species（瀕危物種）、rare species（稀有物種）、species of（……的種類）。species 單複數同形（one species、two species）；special 是「特別的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-property",
+      "word": "property",
+      "pos": "名詞",
+      "meaning": "房地產；財產；物業",
+      "sentences": [
+        {
+          "en": "The property manager is responsible for repairs, security, and cleaning in the large apartment building.",
+          "zh": "物業經理負責公寓大樓的維修和清潔。"
+        },
+        {
+          "en": "Many people buy a rental property as an investment so that they can earn money every month.",
+          "zh": "很多人買出租房產當作投資，好每個月賺錢。"
+        },
+        {
+          "en": "This land is private property, so visitors are not allowed to enter without permission from the owner.",
+          "zh": "這塊地是私人土地，所以訪客未經許可不得進入。"
+        },
+        {
+          "en": "The value of property in the city center has increased sharply over the past ten years.",
+          "zh": "市中心房地產的價值在過去十年急劇上升。"
+        },
+        {
+          "en": "The company's largest property in the area is a hotel near the station that has three hundred rooms.",
+          "zh": "公司在這一帶最大的房產是車站附近一家有三百間客房的飯店。"
+        }
+      ],
+      "distractors": [
+        "prosperity",
+        "propriety",
+        "poverty"
+      ],
+      "note": "語塊：property manager（物業經理）、rental property（出租房產）、private property（私人土地）。property 可以是「房地產、財產」，也可以是「特性」；proper 是「適當的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-capable",
+      "word": "capable",
+      "pos": "形容詞",
+      "meaning": "有能力的；能幹的",
+      "sentences": [
+        {
+          "en": "The new machine is capable of producing one thousand bottles every hour without stopping for repairs.",
+          "zh": "新機器每小時能不停地生產一千個瓶子。"
+        },
+        {
+          "en": "Ms. Ruiz is a highly capable manager who can handle several large projects at the same time.",
+          "zh": "Ruiz 小姐是一位非常能幹的經理，能同時處理好幾個大型專案。"
+        },
+        {
+          "en": "The new airport will be capable of handling more than twenty million passengers each year.",
+          "zh": "新機場每年能處理兩千多萬名旅客。"
+        },
+        {
+          "en": "We need a capable assistant who can organize meetings and answer emails quickly and politely.",
+          "zh": "我們需要一位能安排會議、快速回覆郵件的能幹助理。"
+        },
+        {
+          "en": "The software is capable of translating documents into ten different languages in a few seconds.",
+          "zh": "那套軟體能在幾秒內把文件翻譯成十種不同的語言。"
+        }
+      ],
+      "distractors": [
+        "capital",
+        "culpable",
+        "comparable"
+      ],
+      "note": "語塊：be capable of（能夠……）、highly capable（非常能幹的）。be capable of + 名詞／V-ing；able to + 原形動詞 意思接近；capability 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-profitable",
+      "word": "profitable",
+      "pos": "形容詞",
+      "meaning": "有利潤的；賺錢的",
+      "sentences": [
+        {
+          "en": "The restaurant became profitable in its second year, so the owner plans to open another one.",
+          "zh": "那家餐廳第二年開始獲利，所以老闆打算再開一家。"
+        },
+        {
+          "en": "Selling coffee online has turned out to be a highly profitable business for the small company.",
+          "zh": "在網路上賣咖啡，結果對那家小公司來說是非常賺錢的生意。"
+        },
+        {
+          "en": "The factory will close next year because it is no longer profitable to produce cars there.",
+          "zh": "那座工廠明年將關閉，因為在那裡生產汽車已經不再有利潤。"
+        },
+        {
+          "en": "Many investors believe that renewable energy will become a profitable business in the near future.",
+          "zh": "很多投資人認為再生能源未來會成為賺錢的生意。"
+        },
+        {
+          "en": "The company is looking for ways to make its stores in Europe more profitable next year.",
+          "zh": "公司正在尋找讓歐洲門市明年更賺錢的方法。"
+        }
+      ],
+      "distractors": [
+        "portable",
+        "probable",
+        "preferable"
+      ],
+      "note": "語塊：highly profitable（非常賺錢的）、become profitable（開始獲利）、profitable business（賺錢的生意）、no longer profitable（不再賺錢）、more profitable（更賺錢）。profitable 是「能賺錢的」；profit 是名詞「利潤」；lucrative 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-construct",
+      "word": "construct",
+      "pos": "動詞",
+      "meaning": "建造；構築",
+      "sentences": [
+        {
+          "en": "The city plans to construct a new bridge across the river to reduce traffic in the downtown area.",
+          "zh": "市政府計畫在河上建造一座新橋，減少市中心的交通量。"
+        },
+        {
+          "en": "It will take about three years to construct the new hospital, which will have five hundred beds.",
+          "zh": "建造那座有五百張病床的新醫院大約要三年。"
+        },
+        {
+          "en": "The company hired an experienced firm to construct a building that uses less energy than older ones.",
+          "zh": "公司聘請一家有經驗的公司，建造一棟比舊建築更節能的大樓。"
+        },
+        {
+          "en": "Engineers will construct a temporary road while the main highway into the city is being repaired.",
+          "zh": "主要公路維修期間，工程師會建造一條臨時道路。"
+        },
+        {
+          "en": "The government will construct new schools in rural areas so that children do not have to travel far.",
+          "zh": "政府將在鄉村地區興建新學校，讓孩子不用走很遠。"
+        }
+      ],
+      "distractors": [
+        "constrict",
+        "consult",
+        "instruct"
+      ],
+      "note": "語塊：construct a building（建造大樓）、construct a bridge（建橋）、be constructed of（由……建成）。construct 比 build 正式；construction 是名詞「建設；工程」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vegetation",
+      "word": "vegetation",
+      "pos": "名詞",
+      "meaning": "植物；植被",
+      "sentences": [
+        {
+          "en": "The park is covered with dense vegetation, so visitors should stay on the paths to avoid getting lost.",
+          "zh": "公園長滿茂密的植物，所以遊客應該走在步道上以免迷路。"
+        },
+        {
+          "en": "The fire destroyed much of the natural vegetation on the mountain, but new plants are already growing.",
+          "zh": "大火燒毀了山上大部分的天然植被，但新植物已經在生長了。"
+        },
+        {
+          "en": "The lack of rain has caused the vegetation in the area to turn brown during the summer.",
+          "zh": "缺雨讓該地區的植物在夏天變成褐色。"
+        },
+        {
+          "en": "Scientists are studying how the vegetation near the river has changed over the past fifty years.",
+          "zh": "科學家正在研究河邊的植被在過去五十年如何改變。"
+        },
+        {
+          "en": "Planting more vegetation along the roads can help reduce noise and improve air quality in the city.",
+          "zh": "沿著道路種更多植物可以幫助減少噪音並改善城市的空氣品質。"
+        }
+      ],
+      "distractors": [
+        "vegetable",
+        "vegetarian",
+        "variation"
+      ],
+      "note": "語塊：dense vegetation（茂密的植物）、natural vegetation（天然植被）、the vegetation in the area（該地區的植物）、the vegetation near（……附近的植被）、more vegetation（更多植物）。vegetation 是「某地區所有植物的總稱」；vegetable 是「蔬菜」；vegetarian 是「素食者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decide",
+      "word": "decide",
+      "pos": "動詞",
+      "meaning": "決定",
+      "sentences": [
+        {
+          "en": "The company will decide whether to open a new store in the city after reviewing the survey results.",
+          "zh": "公司在審閱調查結果後，會決定是否在城裡開新店。"
+        },
+        {
+          "en": "Ms. Lee will decide to accept the job in Tokyo if the company offers her a higher salary.",
+          "zh": "如果公司提供更高的薪水，李小姐會決定接受東京的工作。"
+        },
+        {
+          "en": "The committee will decide on a location for the conference at its meeting next Tuesday.",
+          "zh": "委員會將在下週二的會議上決定研討會的地點。"
+        },
+        {
+          "en": "Please decide which dish you would like for the dinner and tell the event organizer by Friday.",
+          "zh": "請決定晚宴想吃哪道菜，並在週五前告訴活動負責人。"
+        },
+        {
+          "en": "It is difficult to decide whether to buy a new printer or repair the old one, so let's compare the prices.",
+          "zh": "很難決定要買新印表機還是修舊的，所以我們來比較價格吧。"
+        }
+      ],
+      "distractors": [
+        "divide",
+        "deride",
+        "decode"
+      ],
+      "note": "語塊：decide to（決定做……）、decide on（決定選……）、decide whether（決定是否）。decide to + 原形動詞；decide on + 名詞；decision 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outreach",
+      "word": "outreach",
+      "pos": "名詞",
+      "meaning": "外展服務；推廣活動",
+      "sentences": [
+        {
+          "en": "The hospital runs an outreach program that sends nurses to visit elderly people who live alone.",
+          "zh": "醫院推行一項外展計畫，派護士探訪獨居長者。"
+        },
+        {
+          "en": "The company's community outreach includes free classes for children and regular donations to local schools.",
+          "zh": "公司的社區服務包括為孩子開免費課程和捐款給當地學校。"
+        },
+        {
+          "en": "The library hired a new staff member to manage its outreach program for people in rural areas.",
+          "zh": "圖書館聘了一位新員工，管理針對鄉村地區民眾的外展計畫。"
+        },
+        {
+          "en": "Volunteers play an important role in community outreach by helping families find food and housing.",
+          "zh": "志工在社區服務中扮演重要角色，幫助家庭找到食物和住處。"
+        },
+        {
+          "en": "The museum's outreach program brings art classes to schools that do not have art teachers.",
+          "zh": "博物館的外展計畫把美術課帶到沒有美術老師的學校。"
+        }
+      ],
+      "distractors": [
+        "outbreak",
+        "outrage",
+        "overreach"
+      ],
+      "note": "語塊：community outreach（社區服務）、outreach program（外展計畫）。outreach 是「主動到外面接觸群眾的服務或活動」；reach out 是動詞片語「主動聯繫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-imperative",
+      "word": "imperative",
+      "pos": "形容詞",
+      "meaning": "極重要的；必要的",
+      "sentences": [
+        {
+          "en": "It is imperative that all employees wear safety helmets while they are on the construction site.",
+          "zh": "所有員工在工地都必須戴安全帽，這是絕對必要的。"
+        },
+        {
+          "en": "It is imperative to back up important files before the computer system is upgraded this weekend.",
+          "zh": "這個週末電腦系統升級前，必須備份重要檔案。"
+        },
+        {
+          "en": "The doctor said that it was imperative for the patient to rest for at least two weeks after surgery.",
+          "zh": "醫生說病人手術後至少休息兩週是絕對必要的。"
+        },
+        {
+          "en": "It is imperative that we finish the report before the meeting with the investors on Monday.",
+          "zh": "我們必須在週一和投資人開會前完成報告，這非常重要。"
+        },
+        {
+          "en": "Quick action is imperative when a customer reports a safety problem with one of our products.",
+          "zh": "顧客回報我們產品有安全問題時，迅速行動是絕對必要的。"
+        }
+      ],
+      "distractors": [
+        "imperial",
+        "impressive",
+        "imaginative"
+      ],
+      "note": "語塊：it is imperative that（……是絕對必要的）、imperative to（必須……）。imperative 比 important、necessary 更強烈；it is imperative that 後面的動詞常用原形。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-introduce",
+      "word": "introduce",
+      "pos": "動詞",
+      "meaning": "介紹；引進；推出",
+      "sentences": [
+        {
+          "en": "The company will introduce a new product for young customers at the technology fair next month.",
+          "zh": "公司下個月會在科技展推出一款針對年輕顧客的新產品。"
+        },
+        {
+          "en": "Please let me introduce you to Ms. Park, who will be managing your account from now on.",
+          "zh": "請讓我把你介紹給朴小姐，她從現在起會負責你的帳戶。"
+        },
+        {
+          "en": "The government plans to introduce a policy that will reduce taxes for families with young children.",
+          "zh": "政府計畫推行一項為有幼童家庭減稅的政策。"
+        },
+        {
+          "en": "The restaurant will introduce several new dishes to its menu at the beginning of the summer.",
+          "zh": "那家餐廳夏天一開始會在菜單上推出幾道新菜。"
+        },
+        {
+          "en": "The manager will introduce the new employees to the rest of the team at the meeting on Monday.",
+          "zh": "經理會在週一的會議上把新員工介紹給團隊其他成員。"
+        }
+      ],
+      "distractors": [
+        "induce",
+        "reduce",
+        "produce"
+      ],
+      "note": "語塊：introduce a new product（推出新產品）、introduce sb to（把某人介紹給）、introduce a policy（推行政策）。introduce 可以是「介紹（人）」或「引進、推出（新東西）」；introduction 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-similar",
+      "word": "similar",
+      "pos": "形容詞",
+      "meaning": "相似的；類似的",
+      "sentences": [
+        {
+          "en": "The new phone is similar to the old model, but it has a larger screen and a better camera.",
+          "zh": "新手機和舊款很像，但螢幕比較大、相機比較好。"
+        },
+        {
+          "en": "The two hotels are similar in price, but the one near the beach has better reviews.",
+          "zh": "兩家飯店價格差不多，但海邊那家的評價比較好。"
+        },
+        {
+          "en": "Many companies in the area have had similar problems with finding skilled workers this year.",
+          "zh": "這一帶很多公司今年在找技術工人方面都遇到類似的問題。"
+        },
+        {
+          "en": "Our product is similar to our competitor's, but ours comes with a longer warranty and free delivery.",
+          "zh": "我們的產品和競爭對手的很像，但我們的保固比較長。"
+        },
+        {
+          "en": "If you have a similar question, please read the answers on the frequently asked questions page first.",
+          "zh": "如果你有類似的問題，請先閱讀常見問題頁面上的答案。"
+        }
+      ],
+      "distractors": [
+        "simple",
+        "familiar",
+        "singular"
+      ],
+      "note": "語塊：similar to（和……相似）、similar in（在……方面相似）。similar to 是「和……很像」；the same as 是「完全一樣」；similarity 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enthusiasm",
+      "word": "enthusiasm",
+      "pos": "名詞",
+      "meaning": "熱情；熱忱",
+      "sentences": [
+        {
+          "en": "The new employees showed great enthusiasm during their first week and asked many good questions.",
+          "zh": "新員工第一週展現了很大的熱情，問了很多好問題。"
+        },
+        {
+          "en": "Customers responded with enthusiasm to the new menu, so the restaurant will keep it all year.",
+          "zh": "顧客對新菜單反應熱烈，所以餐廳會整年保留。"
+        },
+        {
+          "en": "The manager was impressed by Ms. Kim's enthusiasm for the project and asked her to lead the team.",
+          "zh": "經理對金小姐對這個專案的熱忱印象深刻，請她帶領團隊。"
+        },
+        {
+          "en": "Applicants who show enthusiasm for working with children are encouraged to apply for the position.",
+          "zh": "對和孩子一起工作展現熱情的應徵者，歡迎申請這個職位。"
+        },
+        {
+          "en": "The audience listened with enthusiasm as the speaker explained her ideas for reducing plastic waste.",
+          "zh": "聽眾熱切地聆聽講者說明她減少浪費的想法。"
+        }
+      ],
+      "distractors": [
+        "enthusiast",
+        "euphemism",
+        "emphasis"
+      ],
+      "note": "語塊：with enthusiasm（熱情地）、enthusiasm for（對……的熱忱）、show enthusiasm（展現熱情）。enthusiasm 是名詞；enthusiastic 是形容詞「熱情的」；passion 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-position",
+      "word": "position",
+      "pos": "名詞",
+      "meaning": "職位；位置；立場",
+      "sentences": [
+        {
+          "en": "Ms. Ortiz decided to apply for a position in the marketing department at a large company.",
+          "zh": "Ortiz 小姐決定應徵一家大公司行銷部的職位。"
+        },
+        {
+          "en": "The company hopes to fill a position in customer service before the busy holiday season begins.",
+          "zh": "公司希望在忙碌的節慶季開始前補上客服的職缺。"
+        },
+        {
+          "en": "We are not in a position to lower our prices because the cost of materials has increased.",
+          "zh": "因為材料成本上漲，我們無法降價。"
+        },
+        {
+          "en": "The store moved the new products to a better position near the entrance so that customers would see them.",
+          "zh": "店家把新產品移到入口附近更好的位置，讓顧客能看到。"
+        },
+        {
+          "en": "The board explained its position on the merger in a letter that was sent to all shareholders.",
+          "zh": "董事會在寄給所有股東的信中說明了它對合併的立場。"
+        }
+      ],
+      "distractors": [
+        "positive",
+        "possession",
+        "proposition"
+      ],
+      "note": "語塊：apply for a position（應徵職位）、fill a position（補職缺）、in a position to（能夠……）。position 可以是「職位」、「位置」或「立場」；post 也可以表示「職位」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-result-in",
+      "word": "result in",
+      "pos": "片語動詞",
+      "meaning": "導致；造成",
+      "sentences": [
+        {
+          "en": "The storm may result in delays for many flights leaving the airport late this evening.",
+          "zh": "暴風雨可能會導致今晚從機場起飛的航班延誤。"
+        },
+        {
+          "en": "Using cheaper materials could result in higher costs later because the products may break more easily.",
+          "zh": "使用比較便宜的材料之後可能會造成更高的成本，因為產品更容易壞。"
+        },
+        {
+          "en": "The new training program is expected to result in better customer service at all of our stores.",
+          "zh": "新的訓練計畫預計會讓我們所有門市的客服更好。"
+        },
+        {
+          "en": "Not following the safety rules can result in serious injuries, so please read them carefully.",
+          "zh": "不遵守安全規定可能會導致嚴重受傷，所以請仔細閱讀。"
+        },
+        {
+          "en": "The merger will result in a larger company that can compete with the biggest firms in the industry.",
+          "zh": "這次合併將造就一家能和業界最大公司競爭的更大企業。"
+        }
+      ],
+      "distractors": [
+        "result from",
+        "consist in",
+        "engage in"
+      ],
+      "note": "語塊：result in delays（導致延誤）、result in higher costs（造成成本增加）、result in serious injuries（導致重傷）、result in better（帶來更好的……）。result in + 結果；result from + 原因（The delay resulted from the storm）。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
