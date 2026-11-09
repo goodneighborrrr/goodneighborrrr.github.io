@@ -31973,6 +31973,706 @@
       ],
       "note": "語塊：create jobs（創造工作）、create a website（建立網站）、create an account（建立帳號）。create 是「創造」；creation 是名詞；creative 是形容詞「有創意的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attractive",
+      "word": "attractive",
+      "pos": "形容詞",
+      "meaning": "吸引人的；有魅力的",
+      "sentences": [
+        {
+          "en": "The company made her an attractive offer that included a high salary and a car for business use.",
+          "zh": "公司給了她一個誘人的方案，包括高薪和一輛公務車。"
+        },
+        {
+          "en": "The hotel offers rooms at an attractive price during the winter, when fewer tourists visit the island.",
+          "zh": "冬天觀光客較少時，飯店以吸引人的價格提供客房。"
+        },
+        {
+          "en": "The new design makes the product more attractive to young customers who care about style.",
+          "zh": "新設計讓產品對重視風格的年輕顧客更有吸引力。"
+        },
+        {
+          "en": "Free parking and long opening hours make the shopping center attractive to families from nearby towns.",
+          "zh": "免費停車和長營業時間讓購物中心對附近城鎮的家庭很有吸引力。"
+        },
+        {
+          "en": "The bank is offering an attractive interest rate to customers who open a savings account this month.",
+          "zh": "銀行對這個月開立儲蓄帳戶的顧客提供吸引人的利率。"
+        }
+      ],
+      "distractors": [
+        "attentive",
+        "active",
+        "addictive"
+      ],
+      "note": "語塊：attractive offer（誘人的方案）、attractive price（吸引人的價格）、attractive to（對……有吸引力）。attractive 是「有吸引力的」；attraction 是名詞「吸引力；景點」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attractively",
+      "word": "attractively",
+      "pos": "副詞",
+      "meaning": "吸引人地；誘人地",
+      "sentences": [
+        {
+          "en": "The new laptops are attractively priced, so many students are buying them before the semester begins.",
+          "zh": "新筆電價格誘人，所以很多學生在開學前買。"
+        },
+        {
+          "en": "The hotel rooms are attractively designed with wooden furniture and large windows that face the sea.",
+          "zh": "飯店客房設計精美，有木製家具和面海的大窗戶。"
+        },
+        {
+          "en": "The products in the store window are attractively displayed to catch the attention of people walking by.",
+          "zh": "櫥窗裡的商品陳列得很吸引人，好吸引路人的目光。"
+        },
+        {
+          "en": "Our vacation packages are attractively priced and include flights, hotels, and daily breakfast for the whole family.",
+          "zh": "我們的度假套裝行程價格誘人，包含機票、飯店和每日早餐。"
+        },
+        {
+          "en": "The brochure is attractively designed, with colorful photos and short descriptions of each tour in the region.",
+          "zh": "小冊子設計精美，有彩色照片和每個行程的簡短介紹。"
+        }
+      ],
+      "distractors": [
+        "actively",
+        "attentively",
+        "effectively"
+      ],
+      "note": "語塊：attractively priced（價格誘人）、attractively designed（設計精美）。attractively 是副詞，常放在過去分詞前（attractively priced）；attractive 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-content",
+      "word": "content",
+      "pos": "名詞",
+      "meaning": "內容；（物品的）內容物",
+      "sentences": [
+        {
+          "en": "The company hired several writers to create content for its website and social media accounts.",
+          "zh": "公司聘請了好幾位寫手，為網站和社群帳號製作內容。"
+        },
+        {
+          "en": "Please check the content of the presentation carefully before you show it to the clients tomorrow.",
+          "zh": "明天給客戶看之前，請仔細檢查簡報的內容。"
+        },
+        {
+          "en": "The streaming service adds new online content every week, including movies, television series, and documentaries.",
+          "zh": "那家串流平台每週新增網路內容，包括電影、影集和紀錄片。"
+        },
+        {
+          "en": "Teachers are worried that some online content is not appropriate for young children who use tablets.",
+          "zh": "老師擔心有些網路內容不適合幼童。"
+        },
+        {
+          "en": "The content of the training course was updated to include the latest safety rules for factory workers.",
+          "zh": "訓練課程的內容已更新，納入工廠員工最新的安全規定。"
+        }
+      ],
+      "distractors": [
+        "context",
+        "contest",
+        "consent"
+      ],
+      "note": "語塊：online content（網路內容）、the content of（……的內容）、create content（製作內容）。content 當名詞（CON-tent）是「內容」；當形容詞（con-TENT）是「滿足的」；contents 常指「目錄；容器裡的東西」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-personalize",
+      "word": "personalize",
+      "pos": "動詞",
+      "meaning": "個人化；客製化",
+      "sentences": [
+        {
+          "en": "Customers can personalize a gift by adding a name or a short message to the box.",
+          "zh": "顧客可以在盒子上加上名字或簡短訊息，客製化禮物。"
+        },
+        {
+          "en": "The hotel tries to personalize the service by remembering each guest's favorite room and drink.",
+          "zh": "飯店記住每位客人喜歡的房間和飲料，提供個人化服務。"
+        },
+        {
+          "en": "The app allows users to personalize the screen with their own photos and favorite colors.",
+          "zh": "這個 App 讓使用者可以用自己的照片和顏色個人化畫面。"
+        },
+        {
+          "en": "Online stores use data about past purchases to personalize the products that they show to each customer.",
+          "zh": "網路商店用過去的購買紀錄，為每位顧客個人化推薦商品。"
+        },
+        {
+          "en": "For an extra five dollars, the shop will personalize your mug with any design you choose.",
+          "zh": "多付五美元，店家就會用你選的任何圖案客製化你的馬克杯。"
+        }
+      ],
+      "distractors": [
+        "personify",
+        "publicize",
+        "penalize"
+      ],
+      "note": "語塊：personalize a gift（客製化禮物）、personalize the service（提供個人化服務）、personalize the screen（個人化畫面）、personalize your mug（客製化馬克杯）。personalize 是「依個人需求調整」；customize 意思接近；personalized 是形容詞「個人化的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-personally",
+      "word": "personally",
+      "pos": "副詞",
+      "meaning": "親自；就個人而言",
+      "sentences": [
+        {
+          "en": "The manager will personally deliver the contract to the client's office on Friday afternoon before the weekend.",
+          "zh": "經理週五下午會親自把合約送到客戶的辦公室。"
+        },
+        {
+          "en": "Please do not take it personally if your idea is not chosen, as there were many good suggestions.",
+          "zh": "如果你的點子沒被選上，請不要往心裡去，因為有很多好建議。"
+        },
+        {
+          "en": "Each department head is personally responsible for making sure that the budget is not exceeded.",
+          "zh": "每位部門主管都要個人負責確保預算不超支。"
+        },
+        {
+          "en": "Personally, I think the second design is better, but we should ask the team for their opinions.",
+          "zh": "就我個人而言，我覺得第二個設計比較好，但我們應該問問團隊的意見。"
+        },
+        {
+          "en": "The CEO personally thanked each employee who worked overtime during the busy holiday season last month.",
+          "zh": "執行長親自感謝每一位在忙碌節慶期間加班的員工。"
+        }
+      ],
+      "distractors": [
+        "personnel",
+        "professionally",
+        "purposely"
+      ],
+      "note": "語塊：personally deliver（親自送達）、take it personally（往心裡去）、personally responsible（個人負責）。personally 可以是「親自」或「就我個人來說」；take sth personally 是「把……當成針對自己」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specifics",
+      "word": "specifics",
+      "pos": "名詞",
+      "meaning": "細節；具體內容",
+      "sentences": [
+        {
+          "en": "The two companies will meet next week to discuss the specifics of the new partnership agreement.",
+          "zh": "兩家公司下週會見面，討論新合作協議的細節。"
+        },
+        {
+          "en": "The manager explained the general plan, but the specifics will be decided at the next meeting.",
+          "zh": "經理說明了整體計畫，但細節會在下次會議決定。"
+        },
+        {
+          "en": "Please contact Ms. Lin if you would like to know the specifics of the training schedule.",
+          "zh": "如果你想知道訓練時程的細節，請聯絡林小姐。"
+        },
+        {
+          "en": "The article does not give the specifics of how much money the company paid for the land.",
+          "zh": "文章沒有提到公司買那塊地花了多少錢的細節。"
+        },
+        {
+          "en": "Before signing the contract, we need to discuss the specifics of payment and delivery with the supplier.",
+          "zh": "簽約之前，我們需要和供應商討論付款和交貨的細節。"
+        }
+      ],
+      "distractors": [
+        "specifications",
+        "statistics",
+        "species"
+      ],
+      "note": "語塊：discuss the specifics（討論細節）、the specifics of（……的細節）。specifics 一定用複數，指「具體細節」；details 意思接近；specific 是形容詞「具體的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attempt",
+      "word": "attempt",
+      "pos": "名詞",
+      "meaning": "嘗試；企圖",
+      "sentences": [
+        {
+          "en": "In an attempt to reduce costs, the company moved its offices to a smaller building outside the city.",
+          "zh": "為了降低成本，公司把辦公室搬到城外一棟比較小的大樓。"
+        },
+        {
+          "en": "Ms. Park passed the accounting exam on her first attempt, which is very unusual for new employees.",
+          "zh": "朴小姐第一次考就通過了會計考試，這非常少見。"
+        },
+        {
+          "en": "The team will make an attempt to finish the project before the holiday so that everyone can rest.",
+          "zh": "團隊會試著在假期前完成專案，讓大家都能休息。"
+        },
+        {
+          "en": "In an attempt to attract more young customers, the café started offering free internet access.",
+          "zh": "為了吸引更多年輕顧客，那家咖啡館開始提供免費網路。"
+        },
+        {
+          "en": "After his first attempt failed, the engineer tried a different method and solved the problem quickly.",
+          "zh": "第一次嘗試失敗後，工程師換了一個方法，很快就解決了問題。"
+        }
+      ],
+      "distractors": [
+        "tempt",
+        "attend",
+        "contempt"
+      ],
+      "note": "語塊：in an attempt to（試圖……）、make an attempt（做一次嘗試）、first attempt（第一次嘗試）。attempt 可以當名詞或動詞「嘗試」；try 是一般說法；tempt 是「引誘」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-improvement",
+      "word": "improvement",
+      "pos": "名詞",
+      "meaning": "改善；進步",
+      "sentences": [
+        {
+          "en": "There has been a significant improvement in customer satisfaction since we hired more staff last year.",
+          "zh": "自從我們增聘人手以來，顧客滿意度有了顯著的改善。"
+        },
+        {
+          "en": "The report is good, but there is still room for improvement in the section about costs.",
+          "zh": "報告不錯，但成本的部分還有改進空間。"
+        },
+        {
+          "en": "The city plans to make an improvement to the park by adding new benches and lights.",
+          "zh": "市政府計畫增加新的長椅和路燈，改善公園。"
+        },
+        {
+          "en": "The new software has led to a big improvement in the speed of processing customer orders.",
+          "zh": "新軟體大幅改善了處理顧客訂單的速度。"
+        },
+        {
+          "en": "Managers should tell employees where there is room for improvement and how they can do better.",
+          "zh": "經理應該告訴員工哪裡還有改進空間，以及他們可以怎麼做得更好。"
+        }
+      ],
+      "distractors": [
+        "movement",
+        "involvement",
+        "improvisation"
+      ],
+      "note": "語塊：make improvements（做改善）、room for improvement（改進空間）、improvement in（……的改善）。improvement 是名詞；improve 是動詞；常說 There is room for improvement（還有改進空間）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-comparison",
+      "word": "comparison",
+      "pos": "名詞",
+      "meaning": "比較",
+      "sentences": [
+        {
+          "en": "In comparison with last year, sales of electric cars have increased by more than fifty percent.",
+          "zh": "和去年相比，電動車的銷售增加了五成以上。"
+        },
+        {
+          "en": "The website allows customers to make a comparison of prices from several different airlines at the same time.",
+          "zh": "那個網站讓顧客可以比較好幾家航空公司的價格。"
+        },
+        {
+          "en": "The old office was small and dark, but by comparison, the new one is bright and spacious.",
+          "zh": "舊辦公室又小又暗，相較之下，新辦公室明亮又寬敞。"
+        },
+        {
+          "en": "The report includes a comparison of the costs of building a new factory and renting an existing one.",
+          "zh": "報告包含興建新工廠和租用現有工廠的成本比較。"
+        },
+        {
+          "en": "In comparison with other hotels in the area, ours offers more services at a lower price.",
+          "zh": "和這一帶其他飯店相比，我們以較低的價格提供更多服務。"
+        }
+      ],
+      "distractors": [
+        "companion",
+        "compassion",
+        "competition"
+      ],
+      "note": "語塊：in comparison with（和……相比）、make a comparison（做比較）、by comparison（相較之下）。comparison 是名詞；compare 是動詞；comparable 是「可比較的、相當的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-global-warming",
+      "word": "global warming",
+      "pos": "名詞",
+      "meaning": "全球暖化",
+      "sentences": [
+        {
+          "en": "Scientists say that burning fossil fuels is one of the main things that cause global warming.",
+          "zh": "科學家說，燃燒化石燃料是造成全球暖化的主要原因之一。"
+        },
+        {
+          "en": "Planting more trees and using clean energy can help slow down global warming over time.",
+          "zh": "多種樹和使用潔淨能源，長期下來能幫助減緩全球暖化。"
+        },
+        {
+          "en": "The documentary shows the effects of global warming on animals that live in the Arctic.",
+          "zh": "那部紀錄片呈現全球暖化對住在北極的動物的影響。"
+        },
+        {
+          "en": "Many companies are changing the way they work in order to reduce their role in global warming.",
+          "zh": "很多公司正在改變運作方式，以減少自己對全球暖化的影響。"
+        },
+        {
+          "en": "The conference will discuss how cities can prepare for the effects of global warming, such as stronger storms.",
+          "zh": "研討會將討論城市如何為全球暖化的影響做準備，例如更強的暴風雨。"
+        }
+      ],
+      "distractors": [
+        "climate change",
+        "global market",
+        "greenhouse"
+      ],
+      "note": "語塊：cause global warming（造成全球暖化）、slow down global warming（減緩全球暖化）、the effects of global warming（全球暖化的影響）。global warming 是「地球氣溫上升」；climate change 是「氣候變遷」，範圍更廣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-get-in-touch-with",
+      "word": "get in touch with",
+      "pos": "片語動詞",
+      "meaning": "和……聯絡",
+      "sentences": [
+        {
+          "en": "Please get in touch with our customer service team if you have any questions about your order.",
+          "zh": "如果你對訂單有任何問題，請和我們的客服團隊聯絡。"
+        },
+        {
+          "en": "I tried to get in touch with the supplier several times, but nobody answered the phone.",
+          "zh": "我試著聯絡供應商好幾次，但都沒人接電話。"
+        },
+        {
+          "en": "The hotel will get in touch with you by email to confirm your reservation within twenty-four hours.",
+          "zh": "飯店會在二十四小時內用電子郵件和你聯絡，確認你的預約。"
+        },
+        {
+          "en": "If you would like to get in touch with Ms. Kim, you can call her assistant at extension 215.",
+          "zh": "如果你想聯絡金小姐，可以撥分機 215 找她的助理。"
+        },
+        {
+          "en": "Former employees who want to get in touch with old colleagues can join the company's online group.",
+          "zh": "想和舊同事聯絡的前員工可以加入公司的線上社群。"
+        }
+      ],
+      "distractors": [
+        "keep in touch with",
+        "get in line with",
+        "get in trouble with"
+      ],
+      "note": "語塊：get in touch with sb（聯絡某人）。get in touch with 是「聯絡上」；keep in touch with 是「保持聯絡」；contact 是比較正式的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-receive",
+      "word": "receive",
+      "pos": "動詞",
+      "meaning": "收到；接受",
+      "sentences": [
+        {
+          "en": "You will receive an email with your ticket and a map of the venue shortly after you complete your purchase.",
+          "zh": "完成購買後不久，你會收到一封附有門票和場地地圖的電子郵件。"
+        },
+        {
+          "en": "Members who shop on Tuesdays will receive a discount of ten percent on all items in the store.",
+          "zh": "週二購物的會員所有商品都能獲得九折優惠。"
+        },
+        {
+          "en": "It is important to receive feedback from customers so that we can improve our products and services.",
+          "zh": "收到顧客的回饋很重要，這樣我們才能改善產品和服務。"
+        },
+        {
+          "en": "If you do not receive an email from us within one hour, please check your spam folder.",
+          "zh": "如果你一小時內沒收到我們的電子郵件，請檢查垃圾郵件資料夾。"
+        },
+        {
+          "en": "Employees who complete the training program will receive a certificate signed by the director of the company.",
+          "zh": "完成訓練計畫的員工會收到一張由總監簽名的證書。"
+        }
+      ],
+      "distractors": [
+        "relieve",
+        "deceive",
+        "perceive"
+      ],
+      "note": "語塊：receive an email（收到電子郵件）、receive a discount（獲得折扣）、receive feedback（得到回饋）。receive 是「收到」；注意拼法 ei；receipt 是「收據」；reception 是「接待處；歡迎會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surrounding",
+      "word": "surrounding",
+      "pos": "形容詞",
+      "meaning": "周圍的；附近的",
+      "sentences": [
+        {
+          "en": "The new shopping center will attract customers from the city and the surrounding area every weekend.",
+          "zh": "新購物中心將吸引來自市區和周邊地區的顧客。"
+        },
+        {
+          "en": "Many people who work in the city live in the surrounding towns because housing there is cheaper.",
+          "zh": "很多在城裡工作的人住在附近城鎮，因為那裡的房子比較便宜。"
+        },
+        {
+          "en": "From the top of the tower, visitors can enjoy a view of the surrounding countryside and mountains.",
+          "zh": "從塔頂，遊客可以欣賞周圍的鄉村和山景。"
+        },
+        {
+          "en": "The factory has promised to reduce noise and pollution in the surrounding neighborhoods over the next two years.",
+          "zh": "工廠承諾會減少周圍社區的噪音和污染。"
+        },
+        {
+          "en": "Hotels in the surrounding area are often fully booked during the music festival in July.",
+          "zh": "七月音樂節期間，周邊地區的飯店常常都客滿。"
+        }
+      ],
+      "distractors": [
+        "surrendering",
+        "sounding",
+        "outstanding"
+      ],
+      "note": "語塊：surrounding area（周邊地區）、surrounding towns（附近城鎮）、the surrounding countryside（周圍的鄉村）。surrounding 是形容詞「周圍的」；surroundings（複數名詞）是「環境」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surveyor",
+      "word": "surveyor",
+      "pos": "名詞",
+      "meaning": "測量員；鑑定人",
+      "sentences": [
+        {
+          "en": "The company hired a land surveyor to measure the property before building the new warehouse.",
+          "zh": "公司在興建新倉庫之前，請了一位土地測量員測量那塊地。"
+        },
+        {
+          "en": "Before buying an old house, it is a good idea to hire a surveyor to check for any problems.",
+          "zh": "買老房子之前，最好請一位鑑定人檢查是否有任何問題。"
+        },
+        {
+          "en": "The surveyor found that the land was smaller than the size listed in the original documents.",
+          "zh": "測量員發現那塊地比原始文件上列的面積還小。"
+        },
+        {
+          "en": "A land surveyor will visit the site next week to mark the boundaries of the new park.",
+          "zh": "一位土地測量員下週會到現場標出新公園的邊界。"
+        },
+        {
+          "en": "The bank requires a report from a qualified surveyor before it will approve the loan for the building.",
+          "zh": "銀行要求先有合格鑑定人的報告，才會核准那棟建築的貸款。"
+        }
+      ],
+      "distractors": [
+        "survivor",
+        "supervisor",
+        "purveyor"
+      ],
+      "note": "語塊：land surveyor（土地測量員）、hire a surveyor（請測量員）。surveyor 是「測量土地或檢查房屋的專業人員」；survey 是「測量；調查」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unsound",
+      "word": "unsound",
+      "pos": "形容詞",
+      "meaning": "不健全的；不穩固的",
+      "sentences": [
+        {
+          "en": "The old bridge was closed after engineers found that it was structurally unsound and dangerous for cars.",
+          "zh": "工程師發現那座舊橋結構不穩固後，橋就被封閉了。"
+        },
+        {
+          "en": "The bank refused the loan because the company's business plan was financially unsound and unrealistic.",
+          "zh": "銀行拒絕貸款，因為那家公司的營運計畫財務上不健全。"
+        },
+        {
+          "en": "Inspectors declared the building structurally unsound, so all of the tenants had to move out.",
+          "zh": "檢查員宣布那棟建築結構不穩固，所以所有房客都必須搬走。"
+        },
+        {
+          "en": "Many experts believe that the plan to build a new airport is financially unsound and too risky.",
+          "zh": "很多專家認為興建新機場的計畫財務上不健全，風險太高。"
+        },
+        {
+          "en": "The roof of the old factory is structurally unsound and must be repaired before workers return.",
+          "zh": "舊工廠的屋頂結構不穩固，必須在工人回去之前修好。"
+        }
+      ],
+      "distractors": [
+        "unsold",
+        "unbound",
+        "unfound"
+      ],
+      "note": "語塊：structurally unsound（結構不穩固）、financially unsound（財務不健全）。unsound 是「不安全、不可靠」；sound 當形容詞是「健全的；合理的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-substandard",
+      "word": "substandard",
+      "pos": "形容詞",
+      "meaning": "不合格的；低於標準的",
+      "sentences": [
+        {
+          "en": "The company stopped working with the supplier because of the substandard quality of its parts.",
+          "zh": "公司因為那家供應商零件品質不合格而停止合作。"
+        },
+        {
+          "en": "Many families in the old part of the city still live in substandard housing without proper heating.",
+          "zh": "老城區很多家庭仍住在沒有像樣暖氣、不合標準的住宅裡。"
+        },
+        {
+          "en": "The contractor was asked to repair the substandard work on the roof at no extra cost.",
+          "zh": "承包商被要求免費修理屋頂上不合格的工程。"
+        },
+        {
+          "en": "Customers who receive products of substandard quality can return them for a full refund within thirty days.",
+          "zh": "收到品質不合格產品的顧客可以退貨並全額退款。"
+        },
+        {
+          "en": "The government plans to replace substandard housing with new apartments over the next ten years.",
+          "zh": "政府計畫在未來十年用新公寓取代不合標準的住宅。"
+        }
+      ],
+      "distractors": [
+        "standard",
+        "substantial",
+        "subsequent"
+      ],
+      "note": "語塊：substandard quality（品質不合格）、substandard housing（不合標準的住宅）、substandard work（不合格的工作）。substandard 是「低於標準」；standard 是「標準」；inferior 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-branch",
+      "word": "branch",
+      "pos": "名詞",
+      "meaning": "分店；分公司；分行",
+      "sentences": [
+        {
+          "en": "The bank plans to open a branch in the new shopping center near the train station next year.",
+          "zh": "那家銀行計畫明年在火車站附近的新購物中心開一家分行。"
+        },
+        {
+          "en": "Ms. Ortiz was transferred to the branch office in Singapore to manage the company's business in Asia.",
+          "zh": "Ortiz 小姐被調到新加坡分公司，負責公司在亞洲的業務。"
+        },
+        {
+          "en": "Customers can visit their local branch or use our mobile app to open a new account.",
+          "zh": "顧客可以到當地分行或用我們的 App 開新帳戶。"
+        },
+        {
+          "en": "The restaurant chain will open a branch in every major city in the country within five years.",
+          "zh": "那家連鎖餐廳將在五年內於國內每個大城市開設分店。"
+        },
+        {
+          "en": "Each branch office must send a monthly sales report to the headquarters in New York.",
+          "zh": "每家分公司都必須把月銷售報告寄給紐約總部。"
+        }
+      ],
+      "distractors": [
+        "bench",
+        "brunch",
+        "brand"
+      ],
+      "note": "語塊：branch office（分公司）、local branch（當地分行）、open a branch（開分店）。branch 是「分公司、分店」，也是樹的「樹枝」；headquarters 是「總部」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-device",
+      "word": "device",
+      "pos": "名詞",
+      "meaning": "裝置；設備",
+      "sentences": [
+        {
+          "en": "Passengers must turn off every electronic device before the plane takes off from the runway.",
+          "zh": "飛機起飛前，乘客必須關閉所有電子裝置。"
+        },
+        {
+          "en": "Our website is designed to work well on any mobile device, including phones and tablets.",
+          "zh": "我們的網站設計成在任何行動裝置上都很好用，包括手機和平板。"
+        },
+        {
+          "en": "The new car has a safety device that stops the vehicle automatically if it gets too close to another car.",
+          "zh": "新車有一個安全裝置，在太靠近其他車時會自動煞車。"
+        },
+        {
+          "en": "Employees may not connect a personal device to the company network without permission from the IT department.",
+          "zh": "沒有資訊部的許可，員工不得把個人裝置連上公司網路。"
+        },
+        {
+          "en": "This small device can measure the temperature and air quality in a room and send the data to your phone.",
+          "zh": "這個小裝置可以測量房間的溫度和空氣品質，並把資料傳到你的手機。"
+        }
+      ],
+      "distractors": [
+        "devise",
+        "advice",
+        "vice"
+      ],
+      "note": "語塊：mobile device（行動裝置）、electronic device（電子裝置）、safety device（安全裝置）。device 是名詞「裝置」；devise 是動詞「設計、想出」，只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-allow-for",
+      "word": "allow for",
+      "pos": "片語動詞",
+      "meaning": "考慮到；預留",
+      "sentences": [
+        {
+          "en": "Please allow for delays when you travel to the airport during the long holiday weekend.",
+          "zh": "連假週末去機場時，請預留延誤的時間。"
+        },
+        {
+          "en": "The budget should allow for changes in the price of materials during the construction of the building.",
+          "zh": "預算應該考慮到大樓施工期間材料價格的變動。"
+        },
+        {
+          "en": "The organizers made sure the schedule would allow for changes if a speaker arrives late or becomes ill.",
+          "zh": "主辦單位確保時程表保留調整空間，以防講者遲到或生病。"
+        },
+        {
+          "en": "When you plan the trip, allow for extra time in case the weather is bad in the mountains.",
+          "zh": "規劃旅程時，要預留額外時間，以防山區天氣不好。"
+        },
+        {
+          "en": "The new office design will allow for more meeting rooms and a larger space for the kitchen.",
+          "zh": "新的辦公室設計將容納更多會議室和更大的廚房空間。"
+        }
+      ],
+      "distractors": [
+        "allow in",
+        "account for",
+        "call for"
+      ],
+      "note": "語塊：allow for delays（預留延誤時間）、allow for changes（保留調整空間）、allow for extra time（預留額外時間）。allow for 是「把……算進去、預先考慮」；allow sb to do 是「允許某人做」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-go-on-strike",
+      "word": "go on strike",
+      "pos": "片語動詞",
+      "meaning": "罷工",
+      "sentences": [
+        {
+          "en": "The bus drivers plan to go on strike next Monday if they do not receive a pay increase.",
+          "zh": "如果沒有加薪，公車司機打算下週一罷工。"
+        },
+        {
+          "en": "Workers at the factory threatened to go on strike because of the long hours and poor conditions.",
+          "zh": "工廠工人因為工時長、條件差，威脅要罷工。"
+        },
+        {
+          "en": "The nurses decided to go on strike for better pay after talks with the hospital failed.",
+          "zh": "和醫院的談判失敗後，護士們決定為了更好的薪水罷工。"
+        },
+        {
+          "en": "If the pilots go on strike, hundreds of flights will be canceled during the busy holiday season.",
+          "zh": "如果飛行員罷工，忙碌的節慶期間會有數百班航班被取消。"
+        },
+        {
+          "en": "The union said it would go on strike only if the company refused to discuss the new contract.",
+          "zh": "工會說只有在公司拒絕討論新合約時才會罷工。"
+        }
+      ],
+      "distractors": [
+        "go on sale",
+        "go on a trip",
+        "go on vacation"
+      ],
+      "note": "語塊：go on strike for（為了……罷工）、threaten to go on strike（威脅要罷工）。go on strike 是「開始罷工」；be on strike 是「正在罷工」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
