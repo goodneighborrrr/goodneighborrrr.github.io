@@ -10938,6 +10938,41 @@
       ],
       "note": "語塊：a residential complex（住宅社區、住宅群）、an apartment complex（公寓社區）、an office complex（辦公園區）、a sports／shopping complex（運動中心／購物中心）。complex 當名詞是「由好幾棟建築或設施組成的一整區」。當形容詞是「複雜的」（a complex problem 複雜的問題），意思完全不同。名詞 complexity（複雜性）。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-potholes",
+      "word": "potholes",
+      "pos": "名詞",
+      "meaning": "（路面的）坑洞",
+      "sentences": [
+        {
+          "en": "Residents signed a petition asking the city to repair the potholes on the road outside the residential complex.",
+          "zh": "居民連署請市政府修補住宅社區外面道路上的坑洞。"
+        },
+        {
+          "en": "After weeks of heavy rain, many potholes appeared on the highway and caused damage to several cars.",
+          "zh": "下了幾個星期的大雨後，高速公路上出現了很多坑洞，弄壞了好幾台車。"
+        },
+        {
+          "en": "City workers will fill the potholes on Main Street next Monday, so drivers should expect some delays.",
+          "zh": "市府人員下週一會填補中山路上的坑洞，所以駕駛要預期會有些延誤。"
+        },
+        {
+          "en": "Several delivery drivers have complained that the deep potholes near the warehouse are damaging their tires.",
+          "zh": "好幾位送貨司機抱怨倉庫附近很深的坑洞把他們的輪胎弄壞了。"
+        },
+        {
+          "en": "Drivers can report dangerous potholes through the city's mobile app, and repairs usually begin within a week.",
+          "zh": "駕駛可以透過市政府的手機 App 回報危險的坑洞，通常一週內就會開始修補。"
+        }
+      ],
+      "distractors": [
+        "portholes",
+        "postmarks",
+        "potlucks"
+      ],
+      "note": "語塊：repair／fill potholes（修補坑洞）、report potholes（回報坑洞）、a road full of potholes（坑坑洞洞的路）。pothole 是馬路上因為下雨、車子壓過而形成的坑洞。pot（鍋子）＋hole（洞）＝像鍋子一樣凹下去的洞。單數 pothole。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
