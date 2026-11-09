@@ -10868,6 +10868,41 @@
       ],
       "note": "語塊：the amount of precipitation（降水量）、heavy precipitation（大量降雨／降雪）、annual precipitation（年降水量）、a chance of precipitation（降雨機率）。precipitation 是「降水」，包含雨、雪、冰雹，比 rain 更正式，常出現在氣象報告。別跟 participation（參加）、preparation（準備）、prescription（處方）搞混，字尾都一樣。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-petition",
+      "word": "petition",
+      "pos": "名詞",
+      "meaning": "請願書；連署；（動詞）請願",
+      "sentences": [
+        {
+          "en": "More than two thousand residents signed a petition asking the city to build a new park near the station.",
+          "zh": "超過兩千位居民連署請願，要求市政府在車站附近蓋一座新公園。"
+        },
+        {
+          "en": "Last month, the employees started an online petition to ask management for more flexible working hours.",
+          "zh": "上個月，員工發起線上連署，要求管理層給更有彈性的工作時間。"
+        },
+        {
+          "en": "The neighborhood group will submit the petition to the mayor's office at the end of the month.",
+          "zh": "社區團體會在月底把請願書交給市長辦公室。"
+        },
+        {
+          "en": "Local shop owners launched a petition against the plan to close the main street to cars on weekends.",
+          "zh": "本地店家發起連署，反對週末禁止汽車進入主要街道的計畫。"
+        },
+        {
+          "en": "Over five hundred customers signed the petition to bring back the restaurant's popular breakfast menu.",
+          "zh": "超過五百位顧客連署，希望餐廳恢復受歡迎的早餐菜單。"
+        }
+      ],
+      "distractors": [
+        "position",
+        "partition",
+        "competition"
+      ],
+      "note": "語塊：sign a petition（連署請願書）、start／launch a petition（發起連署）、submit a petition to（向……遞交請願書）、an online petition（線上連署）、a petition against＋東西（反對……的連署）。petition 是很多人簽名，正式要求政府或公司做某件事的文件。也可以當動詞：petition the government（向政府請願）。別跟 position（職位）、partition（隔板）搞混。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
