@@ -11148,6 +11148,41 @@
       ],
       "note": "語塊：relieve pain（舒緩疼痛）、relieve stress（紓解壓力）、relieve traffic congestion（紓解交通壅塞）、relieve the pressure on（減輕……的壓力）。relieve 是「減輕、舒緩（不舒服或壓力）」。形容詞 relieved（鬆了一口氣的）：I was relieved to hear the news.；名詞 relief（解脫；救濟）。別跟 relive（重新經歷）搞混。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hackers",
+      "word": "hackers",
+      "pos": "名詞",
+      "meaning": "駭客",
+      "sentences": [
+        {
+          "en": "The bank hired a team of ethical hackers to test its online system and find security weaknesses.",
+          "zh": "銀行請了一組白帽駭客來測試網路系統，找出安全漏洞。"
+        },
+        {
+          "en": "Hackers broke into the company's computer system last month and stole the personal data of thousands of customers.",
+          "zh": "駭客上個月入侵公司的電腦系統，偷走了數千名顧客的個人資料。"
+        },
+        {
+          "en": "To protect the network from hackers, all employees must change their passwords every three months.",
+          "zh": "為了保護網路不被駭客入侵，所有員工每三個月都必須更換密碼。"
+        },
+        {
+          "en": "Last week, the IT department installed new software that blocks hackers from accessing the customer database.",
+          "zh": "上週資訊部安裝了新軟體，阻擋駭客存取客戶資料庫。"
+        },
+        {
+          "en": "Security experts warn that hackers often send fake emails that look like they come from real banks.",
+          "zh": "資安專家警告，駭客常寄出看起來像是真正銀行寄來的假電子郵件。"
+        }
+      ],
+      "distractors": [
+        "packers",
+        "hikers",
+        "hawkers"
+      ],
+      "note": "語塊：ethical hackers（白帽駭客，受雇測試系統安全的駭客）、protect＋東西＋from hackers（保護……不被駭客入侵）、hackers broke into（駭客入侵了……）。單數 hacker；動詞 hack (into)（入侵系統）。相關：cyberattack（網路攻擊）、data breach（資料外洩）、password（密碼）。hacker 口語也可以指很會寫程式的人。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
