@@ -21858,6 +21858,706 @@
       ],
       "note": "語塊：come up with an idea（想出點子）、come up with a solution（想出解決辦法）、come up with a plan（擬出計畫）。come up with 是「想出（點子、辦法）」；think of 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lead",
+      "word": "lead",
+      "pos": "動詞",
+      "meaning": "帶領；導致",
+      "sentences": [
+        {
+          "en": "Ms. Chung was chosen to lead a team of engineers that will design the company's new electric car.",
+          "zh": "鍾小姐被選為帶領一個工程師團隊，設計公司的新電動車。"
+        },
+        {
+          "en": "Poor communication between departments can lead to mistakes, long delays, and many unhappy customers in the end.",
+          "zh": "部門之間溝通不良可能導致錯誤、延誤和不滿意的顧客。"
+        },
+        {
+          "en": "Our company hopes to lead the way in developing environmentally friendly packaging for food products.",
+          "zh": "我們公司希望在開發食品環保包裝方面帶頭。"
+        },
+        {
+          "en": "The new training program is expected to lead to higher sales and better customer service in all stores.",
+          "zh": "新的訓練計畫預計會讓所有門市的業績提高、客服更好。"
+        },
+        {
+          "en": "Mr. Owens will lead the workshop on time management for new managers next Thursday afternoon.",
+          "zh": "Owens 先生下週四下午會帶領新任經理的時間管理工作坊。"
+        }
+      ],
+      "distractors": [
+        "load",
+        "lend",
+        "plead"
+      ],
+      "note": "語塊：lead a team（帶領團隊）、lead to（導致）、lead the way（帶頭）。lead to 是「導致某結果」；過去式是 led；lead 當名詞（唸 led）是「鉛」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-philanthropic",
+      "word": "philanthropic",
+      "pos": "形容詞",
+      "meaning": "慈善的；樂善好施的",
+      "sentences": [
+        {
+          "en": "The bank's founder is well known for his philanthropic work, especially his support for public libraries.",
+          "zh": "那家銀行的創辦人以慈善工作聞名，尤其是對公立圖書館的支持。"
+        },
+        {
+          "en": "The company donates five percent of its profits to a philanthropic organization that helps children in need.",
+          "zh": "公司把百分之五的利潤捐給一個幫助弱勢兒童的慈善組織。"
+        },
+        {
+          "en": "Ms. Ford spends most of her free time on philanthropic work, raising money for hospitals and schools.",
+          "zh": "Ford 小姐把大部分空閒時間花在慈善工作上，為醫院和學校募款。"
+        },
+        {
+          "en": "The philanthropic organization provided funding to build a new community center in the small town.",
+          "zh": "那個慈善組織提供經費，在那個小鎮蓋了一座新的社區中心。"
+        },
+        {
+          "en": "Many large corporations have philanthropic programs that encourage employees to volunteer in their local communities on weekends.",
+          "zh": "很多大企業都有慈善計畫，鼓勵員工在社區當志工。"
+        }
+      ],
+      "distractors": [
+        "philosophical",
+        "photographic",
+        "pharmaceutical"
+      ],
+      "note": "語塊：philanthropic organization（慈善組織）、philanthropic work（慈善工作）。philanthropic 比 charitable 正式；philanthropy 是「慈善事業」；philanthropist 是「慈善家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-authorize",
+      "word": "authorize",
+      "pos": "動詞",
+      "meaning": "授權；批准",
+      "sentences": [
+        {
+          "en": "Only the finance director can authorize payment for expenses that are higher than five thousand dollars.",
+          "zh": "只有財務總監可以批准超過五千美元的支出。"
+        },
+        {
+          "en": "The manager will authorize staff to work from home on days when the weather is very bad.",
+          "zh": "天氣很差的日子，經理會授權員工在家工作。"
+        },
+        {
+          "en": "Please do not authorize any changes to the contract until the legal department has reviewed them.",
+          "zh": "在法務部審閱之前，請不要批准任何合約的修改。"
+        },
+        {
+          "en": "The client must authorize the payment online before we can begin working on the project.",
+          "zh": "客戶必須先在線上批准付款，我們才能開始進行專案。"
+        },
+        {
+          "en": "The director agreed to authorize a small increase in the budget for the company's holiday party.",
+          "zh": "總監同意批准公司節慶派對的預算小幅增加。"
+        }
+      ],
+      "distractors": [
+        "author",
+        "authenticate",
+        "utilize"
+      ],
+      "note": "語塊：authorize payment（批准付款）、authorize sb to do（授權某人做）、be authorized to（被授權……）。authorize 是「正式批准、授權」；authority 是名詞「權力；當局」；author 是「作者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-heavy-industry",
+      "word": "heavy industry",
+      "pos": "名詞",
+      "meaning": "重工業",
+      "sentences": [
+        {
+          "en": "The region was once a center for heavy industry such as steel production and shipbuilding.",
+          "zh": "那個地區曾經是鋼鐵生產和造船等重工業的中心。"
+        },
+        {
+          "en": "The decline of heavy industry in the city led many workers to look for jobs in services and tourism.",
+          "zh": "城市重工業的衰退讓許多工人轉往服務業和觀光業找工作。"
+        },
+        {
+          "en": "Heavy industry uses a large amount of energy, so the government is encouraging factories to use cleaner fuels.",
+          "zh": "重工業使用大量能源，所以政府鼓勵工廠使用比較乾淨的燃料。"
+        },
+        {
+          "en": "The museum tells the story of heavy industry in the region and how it changed the lives of local families.",
+          "zh": "博物館講述了這個地區重工業的故事，以及它如何改變當地家庭的生活。"
+        },
+        {
+          "en": "After the decline of heavy industry, the old factories were turned into apartments, offices, and art galleries.",
+          "zh": "重工業衰退後，舊工廠被改建成公寓、辦公室和藝廊。"
+        }
+      ],
+      "distractors": [
+        "light industry",
+        "high technology",
+        "service industry"
+      ],
+      "note": "語塊：heavy industry such as（例如……的重工業）、decline of heavy industry（重工業衰退）。heavy industry 指鋼鐵、造船等大型工業；light industry 是「輕工業」（例如紡織）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-state-of-the-art",
+      "word": "state-of-the-art",
+      "pos": "形容詞",
+      "meaning": "最先進的",
+      "sentences": [
+        {
+          "en": "The new hospital is equipped with state-of-the-art equipment for diagnosing and treating heart disease in patients of all ages.",
+          "zh": "新醫院配備最先進的心臟病診斷和治療設備。"
+        },
+        {
+          "en": "Our factory uses state-of-the-art technology to produce high-quality parts quickly and at a low cost.",
+          "zh": "我們工廠用最新科技快速又低成本地生產高品質零件。"
+        },
+        {
+          "en": "The university opened a state-of-the-art facility for research in clean energy, batteries, and electric vehicles.",
+          "zh": "那所大學啟用了一座最先進的潔淨能源和電動車研究設施。"
+        },
+        {
+          "en": "Every room in the conference center has state-of-the-art equipment for video calls, online meetings, and presentations.",
+          "zh": "會議中心的每個房間都有最先進的視訊通話和簡報設備。"
+        },
+        {
+          "en": "The gym installed state-of-the-art machines that track each member's progress through a free mobile app.",
+          "zh": "健身房裝了最先進的機器，透過 App 追蹤每位會員的進度。"
+        }
+      ],
+      "distractors": [
+        "up-to-date",
+        "out-of-date",
+        "one-of-a-kind"
+      ],
+      "note": "語塊：state-of-the-art equipment（最先進的設備）、state-of-the-art technology（最新科技）、state-of-the-art facility（最先進的設施）。state-of-the-art 放在名詞前要加連字號，意思是「目前最先進的」；cutting-edge 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resign",
+      "word": "resign",
+      "pos": "動詞",
+      "meaning": "辭職",
+      "sentences": [
+        {
+          "en": "Mr. Hall decided to resign from his position at the bank in order to start his own business.",
+          "zh": "Hall 先生決定辭去銀行的職位，自己創業。"
+        },
+        {
+          "en": "The CEO announced that she will resign as head of the company at the end of the year.",
+          "zh": "執行長宣布她會在年底辭去公司負責人的職位。"
+        },
+        {
+          "en": "Employees who plan to resign must give their manager at least one month's notice in writing.",
+          "zh": "打算辭職的員工必須至少提前一個月以書面通知經理。"
+        },
+        {
+          "en": "Several board members threatened to resign from the committee if the proposal was not changed.",
+          "zh": "幾位董事威脅說，如果提案不修改，他們就要退出委員會。"
+        },
+        {
+          "en": "After working at the restaurant for ten years, the head chef chose to resign and open his own café.",
+          "zh": "在那家餐廳工作十年後，主廚選擇辭職，開了自己的咖啡館。"
+        }
+      ],
+      "distractors": [
+        "reassign",
+        "design",
+        "resume"
+      ],
+      "note": "語塊：resign from（從……辭職）、resign as（辭去……職位）。resign 是「主動辭職」；retire 是「退休」；名詞是 resignation（辭職；辭呈）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-export",
+      "word": "export",
+      "pos": "動詞",
+      "meaning": "出口；輸出",
+      "sentences": [
+        {
+          "en": "The company plans to export its organic tea to Europe and North America starting next spring.",
+          "zh": "公司計畫從明年春天開始把有機茶出口到歐洲和北美。"
+        },
+        {
+          "en": "Many farmers in the region export goods such as fruit and coffee to countries in Asia.",
+          "zh": "那個地區很多農民把水果和咖啡等商品出口到亞洲國家。"
+        },
+        {
+          "en": "To export goods to other countries, businesses must fill out several customs documents and pay certain fees.",
+          "zh": "要把商品出口到其他國家，企業必須填寫好幾份海關文件。"
+        },
+        {
+          "en": "The factory will export more than half of the cars it produces to markets in South America.",
+          "zh": "那座工廠會把生產的一半以上汽車出口到南美市場。"
+        },
+        {
+          "en": "The government offers tax benefits to small businesses that export to new markets overseas for the first time.",
+          "zh": "政府為出口到海外新市場的小企業提供稅務優惠。"
+        }
+      ],
+      "distractors": [
+        "expert",
+        "expect",
+        "import"
+      ],
+      "note": "語塊：export to（出口到）、export goods（出口商品）。export 是「出口」；import 是「進口」。當名詞時重音在前（EX-port）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fossil-fuel",
+      "word": "fossil fuel",
+      "pos": "名詞",
+      "meaning": "化石燃料",
+      "sentences": [
+        {
+          "en": "The city plans to reduce fossil fuel use by encouraging people to drive electric cars and ride bicycles.",
+          "zh": "市政府計畫鼓勵民眾開電動車和騎腳踏車，減少化石燃料的使用。"
+        },
+        {
+          "en": "Power plants that burn fossil fuel release large amounts of carbon dioxide into the atmosphere.",
+          "zh": "燃燒化石燃料的發電廠會把大量二氧化碳排放到大氣中。"
+        },
+        {
+          "en": "The company aims to stop using fossil fuel energy at all of its factories within the next ten years.",
+          "zh": "公司的目標是在未來十年內讓所有工廠停止使用化石燃料能源。"
+        },
+        {
+          "en": "Solar and wind power are becoming cheaper than fossil fuel energy in many parts of the world.",
+          "zh": "在世界很多地方，太陽能和風力發電正變得比化石燃料能源便宜。"
+        },
+        {
+          "en": "Scientists say that we must reduce fossil fuel use quickly in order to slow down climate change.",
+          "zh": "科學家說我們必須快速減少化石燃料的使用，才能減緩氣候變遷。"
+        }
+      ],
+      "distractors": [
+        "renewable energy",
+        "fossil record",
+        "fuel tank"
+      ],
+      "note": "語塊：reduce fossil fuel use（減少化石燃料使用）、burn fossil fuel（燃燒化石燃料）、fossil fuel energy（化石燃料能源）。fossil fuel 指煤、石油、天然氣；常用複數 fossil fuels；renewable energy 是「再生能源」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-viewership",
+      "word": "viewership",
+      "pos": "名詞",
+      "meaning": "收視人數；觀眾群",
+      "sentences": [
+        {
+          "en": "The television station hopes that the new comedy show will increase viewership among young adults.",
+          "zh": "電視台希望新的喜劇節目能增加年輕成人的收視人數。"
+        },
+        {
+          "en": "Viewership numbers for the evening news have dropped as more people get their news from the internet.",
+          "zh": "隨著越來越多人從網路看新聞，晚間新聞的收視數字下滑了。"
+        },
+        {
+          "en": "The championship game attracted the largest viewership in the fifty-year history of the sports network.",
+          "zh": "冠軍賽吸引了那家體育電視網史上最多的收視人數。"
+        },
+        {
+          "en": "Advertisers pay more for commercials during programs with high viewership, such as major sports events.",
+          "zh": "在大型體育賽事等高收視節目期間，廣告商要為廣告付更多錢。"
+        },
+        {
+          "en": "The streaming service released its viewership numbers, showing that its new drama was watched by millions.",
+          "zh": "那家串流平台公布收視數字，顯示新影集有數百萬人收看。"
+        }
+      ],
+      "distractors": [
+        "readership",
+        "membership",
+        "ownership"
+      ],
+      "note": "語塊：increase viewership（增加收視率）、viewership numbers（收視數字）。viewership 是電視或網路節目的「觀眾數」；readership 是「讀者群」；audience 是一般的「觀眾」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-slightly",
+      "word": "slightly",
+      "pos": "副詞",
+      "meaning": "稍微；輕微地",
+      "sentences": [
+        {
+          "en": "Prices at the new restaurant are slightly higher than at the café, but the portions are much larger.",
+          "zh": "新餐廳的價格比咖啡廳稍微高一點，但份量大很多。"
+        },
+        {
+          "en": "The design of the new model is slightly different from the old one, with a larger screen and thinner body.",
+          "zh": "新機型的設計和舊款有點不同，螢幕比較大、機身比較薄。"
+        },
+        {
+          "en": "Several boxes were slightly damaged during shipping, but fortunately the products inside were not affected.",
+          "zh": "好幾個箱子在運送過程中輕微損壞，但裡面的產品沒有受到影響。"
+        },
+        {
+          "en": "Sales increased slightly in the second quarter after the company lowered the prices of its laptops.",
+          "zh": "公司調降筆電價格後，第二季的銷售稍微增加。"
+        },
+        {
+          "en": "The meeting will start slightly later than planned because the director's flight was delayed this morning.",
+          "zh": "因為總監今天早上的班機延誤，會議會比原定時間稍微晚一點開始。"
+        }
+      ],
+      "distractors": [
+        "lightly",
+        "sightly",
+        "greatly"
+      ],
+      "note": "語塊：slightly higher（稍微高一點）、slightly different（有點不同）、slightly damaged（輕微損壞）。slightly 和 somewhat、a little 意思接近；slight 是形容詞「輕微的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advent",
+      "word": "advent",
+      "pos": "名詞",
+      "meaning": "出現；到來",
+      "sentences": [
+        {
+          "en": "With the advent of online shopping, many traditional stores have had to change the way they do business.",
+          "zh": "隨著網路購物的出現，很多傳統商店不得不改變做生意的方式。"
+        },
+        {
+          "en": "The advent of smartphones has completely changed how people read the news and communicate with friends.",
+          "zh": "智慧型手機的出現完全改變了人們看新聞和跟朋友溝通的方式。"
+        },
+        {
+          "en": "Before the advent of email, most business letters were sent by mail or by fax machine.",
+          "zh": "在電子郵件出現之前，大部分商業信件都是用郵寄或傳真寄送的。"
+        },
+        {
+          "en": "With the advent of electric cars, gas stations are starting to install charging stations for their customers.",
+          "zh": "隨著電動車的出現，加油站開始為顧客設置充電站。"
+        },
+        {
+          "en": "The advent of video calls has allowed many companies to reduce the number of business trips they take.",
+          "zh": "視訊通話的出現讓很多公司得以減少出差的次數。"
+        }
+      ],
+      "distractors": [
+        "adventure",
+        "advert",
+        "event"
+      ],
+      "note": "語塊：the advent of（……的出現）、with the advent of（隨著……的出現）。advent 是「重要事物的到來或出現」，常用 the advent of；adventure 是「冒險」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trigger",
+      "word": "trigger",
+      "pos": "動詞",
+      "meaning": "引發；觸發",
+      "sentences": [
+        {
+          "en": "Opening the emergency exit door during the day will trigger an alarm in the security office downstairs.",
+          "zh": "白天打開緊急出口門會觸發樓下保全室的警報。"
+        },
+        {
+          "en": "The sudden increase in prices could trigger a reaction from customers who may decide to shop elsewhere.",
+          "zh": "價格突然上漲可能會引起顧客的反應，他們可能會決定去別的地方購物。"
+        },
+        {
+          "en": "The new law is expected to trigger a change in the way companies collect and store customer data.",
+          "zh": "新法律預計會引發企業收集和儲存顧客資料方式的改變。"
+        },
+        {
+          "en": "Smoke from cooking in the break room can trigger an alarm, so please use the fan when you heat food.",
+          "zh": "在茶水間煮東西的煙可能會觸發警報，所以加熱食物時請開抽風扇。"
+        },
+        {
+          "en": "Experts warn that a small problem at one factory could trigger a reaction that affects the entire supply chain.",
+          "zh": "專家警告，一間工廠的小問題可能會引發影響整個供應鏈的連鎖反應。"
+        }
+      ],
+      "distractors": [
+        "tiger",
+        "trimmer",
+        "tighten"
+      ],
+      "note": "語塊：trigger an alarm（觸發警報）、trigger a reaction（引起反應）、trigger a change（引發改變）。trigger 是「引發、觸發」；當名詞是槍的「扳機」或「誘因」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-investigation",
+      "word": "investigation",
+      "pos": "名詞",
+      "meaning": "調查",
+      "sentences": [
+        {
+          "en": "The company will conduct an investigation to find out how the confidential documents were leaked.",
+          "zh": "公司會進行調查，找出機密文件是怎麼外洩的。"
+        },
+        {
+          "en": "The cause of the fire at the warehouse is still under investigation by the local fire department.",
+          "zh": "倉庫火災的原因仍在當地消防局的調查中。"
+        },
+        {
+          "en": "The government decided to launch an investigation after several customers complained about the bank's fees.",
+          "zh": "好幾位顧客抱怨那家銀行的手續費後，政府決定展開調查。"
+        },
+        {
+          "en": "During the investigation, employees were asked not to discuss the matter with anyone outside the company.",
+          "zh": "調查期間，員工被要求不要和公司以外的任何人討論這件事。"
+        },
+        {
+          "en": "The results of the investigation will be shared with all staff once the report has been completed.",
+          "zh": "報告完成後，調查結果會分享給所有員工。"
+        }
+      ],
+      "distractors": [
+        "investment",
+        "invitation",
+        "inspiration"
+      ],
+      "note": "語塊：conduct an investigation（進行調查）、under investigation（調查中）、launch an investigation（展開調查）。investigation 是名詞；investigate 是動詞；investment（投資）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-practice",
+      "word": "practice",
+      "pos": "名詞",
+      "meaning": "做法；慣例；練習；（醫師、律師）事務所",
+      "sentences": [
+        {
+          "en": "It is common practice for companies in this industry to give employees a bonus at the end of the year.",
+          "zh": "這個產業的公司在年底給員工獎金是常見的做法。"
+        },
+        {
+          "en": "It is standard practice to check every product twice before it leaves the factory and is shipped.",
+          "zh": "每項產品離開工廠前都檢查兩次是標準做法。"
+        },
+        {
+          "en": "The managers hope to put into practice the ideas that they learned at the leadership workshop.",
+          "zh": "經理們希望把在領導力工作坊學到的想法付諸實行。"
+        },
+        {
+          "en": "Dr. Lee opened her own dental practice in the city center after working at a large hospital for ten years.",
+          "zh": "李醫師在大醫院工作十年後，在市中心開了自己的牙醫診所。"
+        },
+        {
+          "en": "Recycling all office paper has become standard practice at most companies in the business district.",
+          "zh": "回收所有辦公用紙已經成為商業區大部分公司的標準做法。"
+        }
+      ],
+      "distractors": [
+        "practise",
+        "practical",
+        "precise"
+      ],
+      "note": "語塊：common practice（常見做法）、standard practice（標準做法）、put into practice（付諸實行）。practice 可以是「做法、慣例」，也可以指醫生或律師的「診所、事務所」（a dental practice）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-measures",
+      "word": "take measures",
+      "pos": "片語動詞",
+      "meaning": "採取措施",
+      "sentences": [
+        {
+          "en": "The government will take measures to protect small businesses from the effects of rising energy prices.",
+          "zh": "政府將採取措施保護小企業免受能源價格上漲的影響。"
+        },
+        {
+          "en": "The airport decided to take measures to reduce the long waiting times at its busy security checkpoints.",
+          "zh": "機場決定採取措施，減少繁忙安檢處的漫長等候時間。"
+        },
+        {
+          "en": "Managers must take measures to make sure that all employees follow the new safety rules in the factory.",
+          "zh": "經理必須採取措施，確保所有員工遵守工廠的新安全規定。"
+        },
+        {
+          "en": "The city plans to take measures to reduce air pollution, such as limiting the number of cars downtown.",
+          "zh": "市政府計畫採取措施減少空氣污染，例如限制市中心的車輛數量。"
+        },
+        {
+          "en": "Banks have started to take measures against criminals who try to steal personal information from customers online.",
+          "zh": "銀行已經開始採取措施，防範試圖在網路上竊取顧客個人資料的罪犯。"
+        }
+      ],
+      "distractors": [
+        "take notes",
+        "take place",
+        "make measures"
+      ],
+      "note": "語塊：take measures to（採取措施去……）、take measures against（採取措施防範……）。take measures 和 take steps、take action 意思接近；measure 單數是「測量；措施」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-curtail",
+      "word": "curtail",
+      "pos": "動詞",
+      "meaning": "削減；縮減",
+      "sentences": [
+        {
+          "en": "The company had to curtail spending on travel and entertainment after its profits fell last year.",
+          "zh": "去年獲利下滑後，公司只好削減差旅和交際費的開支。"
+        },
+        {
+          "en": "The factory will curtail production for two weeks because of a shortage of important parts.",
+          "zh": "因為重要零件短缺，工廠將縮減產量兩週。"
+        },
+        {
+          "en": "The government plans to curtail spending on new roads in order to invest more money in public transportation.",
+          "zh": "政府計畫削減新道路的支出，把更多錢投資在大眾運輸上。"
+        },
+        {
+          "en": "The storm forced several airlines to curtail their flights to the island for the entire weekend.",
+          "zh": "暴風雨迫使好幾家航空公司在整個週末縮減飛往那座島的航班。"
+        },
+        {
+          "en": "To curtail spending, the office will now print documents only when it is absolutely necessary.",
+          "zh": "為了削減開支，辦公室現在只有在絕對必要時才列印文件。"
+        }
+      ],
+      "distractors": [
+        "curtain",
+        "detail",
+        "entail"
+      ],
+      "note": "語塊：curtail spending（削減開支）、curtail production（縮減產量）。curtail 比 reduce、cut 正式；curtain（窗簾）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assume",
+      "word": "assume",
+      "pos": "動詞",
+      "meaning": "假設；認為；承擔（職責）",
+      "sentences": [
+        {
+          "en": "Please do not assume that the meeting has been canceled unless you receive an email from the manager.",
+          "zh": "除非收到經理的郵件，否則請不要以為會議已經取消了。"
+        },
+        {
+          "en": "Ms. Grant will assume responsibility for the marketing department when the current director retires in May.",
+          "zh": "五月現任總監退休後，Grant 小姐將負責行銷部。"
+        },
+        {
+          "en": "Mr. Patel will assume the role of project manager for the construction of the new office building.",
+          "zh": "Patel 先生將擔任新辦公大樓工程的專案經理。"
+        },
+        {
+          "en": "Many customers assume that organic products are always healthier, but that is not always true.",
+          "zh": "很多顧客認為有機產品一定比較健康，但並不總是如此。"
+        },
+        {
+          "en": "The new owner of the hotel will assume responsibility for all of the debts of the previous company.",
+          "zh": "飯店的新主人將承擔前一家公司所有的債務。"
+        }
+      ],
+      "distractors": [
+        "resume",
+        "consume",
+        "presume"
+      ],
+      "note": "語塊：assume that（假設……）、assume responsibility for（承擔……責任）、assume the role of（擔任……角色）。assume 有「假設」和「承擔（職務）」兩個意思；resume 是「恢復；履歷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fulfill",
+      "word": "fulfill",
+      "pos": "動詞",
+      "meaning": "履行；完成；滿足",
+      "sentences": [
+        {
+          "en": "The warehouse hired extra workers to fulfill every order placed online during the holiday sale.",
+          "zh": "倉庫增聘工人，以完成節慶特賣期間的每一筆訂單。"
+        },
+        {
+          "en": "The company was unable to fulfill its promise to deliver the furniture before the end of the month.",
+          "zh": "公司無法履行在月底前交付家具的承諾。"
+        },
+        {
+          "en": "Applicants must fulfill all of the requirements listed in the advertisement before they can be considered.",
+          "zh": "應徵者必須符合廣告中列出的所有要求才會被考慮。"
+        },
+        {
+          "en": "We always try to fulfill a promise that we make to our customers, even if it costs us extra money.",
+          "zh": "我們總是努力履行對顧客的承諾，即使要多花錢。"
+        },
+        {
+          "en": "To fulfill the requirements for graduation, students must complete an internship of at least three months.",
+          "zh": "為了符合畢業要求，學生必須完成至少三個月的實習。"
+        }
+      ],
+      "distractors": [
+        "fulfilling",
+        "refill",
+        "fill"
+      ],
+      "note": "語塊：fulfill an order（完成訂單）、fulfill a promise（履行承諾）、fulfill requirements（符合要求）。fulfill 是「完成承諾、責任或需求」；美式拼法 fulfill，英式拼法 fulfil。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deny",
+      "word": "deny",
+      "pos": "動詞",
+      "meaning": "否認；拒絕（給予）",
+      "sentences": [
+        {
+          "en": "The company continues to deny that it has any plans to close its factory in the northern region.",
+          "zh": "公司持續否認有任何關閉北部工廠的計畫。"
+        },
+        {
+          "en": "The bank may deny a request for a loan if the applicant does not have a stable income.",
+          "zh": "如果申請人沒有穩定收入，銀行可能會拒絕貸款申請。"
+        },
+        {
+          "en": "The security system will deny access to anyone who does not have a valid employee badge.",
+          "zh": "保全系統會拒絕任何沒有有效員工識別證的人進入。"
+        },
+        {
+          "en": "The spokesperson refused to deny the reports that the two companies are discussing a possible merger.",
+          "zh": "發言人拒絕否認兩家公司正在討論合併的報導。"
+        },
+        {
+          "en": "The landlord decided to deny the tenant's request to keep a large dog in the small apartment.",
+          "zh": "房東決定拒絕房客在小公寓裡養大型犬的要求。"
+        }
+      ],
+      "distractors": [
+        "defy",
+        "decay",
+        "delay"
+      ],
+      "note": "語塊：deny that（否認……）、deny a request（拒絕請求）、deny access（拒絕進入）。deny 是「否認」或「拒絕給予」；refuse 是「拒絕做」。名詞是 denial。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-co-worker",
+      "word": "co-worker",
+      "pos": "名詞",
+      "meaning": "同事",
+      "sentences": [
+        {
+          "en": "Mr. Brown recommended a former co-worker for the position because she has excellent design skills.",
+          "zh": "Brown 先生推薦一位前同事擔任這個職位，因為她的設計能力非常好。"
+        },
+        {
+          "en": "It is important to get along with a co-worker who sits next to you, especially in a small office.",
+          "zh": "和坐在你旁邊的同事相處融洽很重要，尤其是在小辦公室裡。"
+        },
+        {
+          "en": "If you will be absent, please ask a co-worker to answer your phone and check your email while you are away.",
+          "zh": "如果你會缺席，請請一位同事在你不在時接電話和看信。"
+        },
+        {
+          "en": "Ms. Ito learned how to use the new software from a co-worker who had attended the training session.",
+          "zh": "伊藤小姐從一位參加過訓練課程的同事那裡學會了使用新軟體。"
+        },
+        {
+          "en": "A friendly co-worker showed the new employee around the office and introduced her to the team.",
+          "zh": "一位友善的同事帶新員工參觀辦公室，並把她介紹給團隊。"
+        }
+      ],
+      "distractors": [
+        "co-founder",
+        "co-pilot",
+        "coordinator"
+      ],
+      "note": "語塊：a former co-worker（前同事）、get along with a co-worker（和同事相處融洽）、ask a co-worker（請同事幫忙）、from a co-worker（從同事那裡）。co-worker 和 colleague 都是「同事」；colleague 比較正式。也可以寫成 coworker。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
