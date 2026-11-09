@@ -41773,6 +41773,671 @@
       ],
       "note": "語塊：result in delays（導致延誤）、result in higher costs（造成成本增加）、result in serious injuries（導致重傷）、result in better（帶來更好的……）。result in + 結果；result from + 原因（The delay resulted from the storm）。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regulation",
+      "word": "regulation",
+      "pos": "名詞",
+      "meaning": "規定；法規",
+      "sentences": [
+        {
+          "en": "Every worker must follow each safety regulation in the factory, including wearing gloves and helmets.",
+          "zh": "每位工人都必須遵守工廠的每一項安全規定，包括戴手套和安全帽。"
+        },
+        {
+          "en": "The new regulation requires restaurants to show the calories of every dish on their menus.",
+          "zh": "新規定要求餐廳在菜單上標示每道菜的熱量。"
+        },
+        {
+          "en": "Companies that break the new regulation on plastic packaging will have to pay a large fine.",
+          "zh": "違反塑膠包裝新規定的公司必須支付高額罰款。"
+        },
+        {
+          "en": "The government introduced a new regulation to protect workers who are employed through agencies or work part-time.",
+          "zh": "政府推出一項新規定，保護透過派遣公司受僱的勞工。"
+        },
+        {
+          "en": "Please read the safety regulation posted on the wall before you begin using the machines.",
+          "zh": "開始使用機器之前，請先閱讀貼在牆上的安全規定。"
+        }
+      ],
+      "distractors": [
+        "regularity",
+        "population",
+        "speculation"
+      ],
+      "note": "語塊：safety regulation（安全規定）、comply with regulations（遵守法規）、new regulation（新規定）。regulation 是「正式的規定」，常用複數；regulate 是動詞「管理、規範」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-procedure",
+      "word": "procedure",
+      "pos": "名詞",
+      "meaning": "程序；步驟",
+      "sentences": [
+        {
+          "en": "All employees must follow the procedure for reporting accidents, which is explained in the handbook.",
+          "zh": "所有員工都必須遵照手冊中說明的事故通報程序。"
+        },
+        {
+          "en": "It is standard procedure to check every package for damage before signing for it at the front desk.",
+          "zh": "簽收前檢查每個包裹是否損壞是標準程序。"
+        },
+        {
+          "en": "The new safety procedure requires workers to turn off the machines completely before cleaning them.",
+          "zh": "新的安全程序要求工人在清潔機器前先關機。"
+        },
+        {
+          "en": "The hospital changed its procedure for checking in patients so that they wait less time.",
+          "zh": "醫院改變了病人報到的程序，讓他們等待的時間更短。"
+        },
+        {
+          "en": "If you are not sure about the procedure, please ask your supervisor before you start working.",
+          "zh": "如果你不確定程序，請在開始工作前問你的主管。"
+        }
+      ],
+      "distractors": [
+        "proceeding",
+        "pressure",
+        "procession"
+      ],
+      "note": "語塊：follow the procedure（遵照程序）、standard procedure（標準程序）、safety procedure（安全程序）。procedure 是「做事的正式步驟」；process 是「過程」；proceed 是動詞「繼續進行」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proceed",
+      "word": "proceed",
+      "pos": "動詞",
+      "meaning": "繼續進行；前往",
+      "sentences": [
+        {
+          "en": "The company will proceed with the construction of the new factory after the city approves the plan.",
+          "zh": "市政府核准計畫後，公司將繼續進行新工廠的興建。"
+        },
+        {
+          "en": "Passengers on the flight to Seoul should proceed to gate twelve, where boarding will begin soon.",
+          "zh": "飛往首爾的旅客請前往十二號登機門，即將開始登機。"
+        },
+        {
+          "en": "Before we proceed with the meeting, I would like to welcome our guests from the head office.",
+          "zh": "在我們繼續開會之前，我想歡迎來自總公司的客人。"
+        },
+        {
+          "en": "Please proceed to the second floor, where the registration desk for the conference is located.",
+          "zh": "請前往二樓，研討會的報到處在那裡。"
+        },
+        {
+          "en": "The board decided not to proceed with the merger after reviewing the financial reports of both companies.",
+          "zh": "看過財務報告後，董事會決定不繼續進行合併。"
+        }
+      ],
+      "distractors": [
+        "precede",
+        "succeed",
+        "exceed"
+      ],
+      "note": "語塊：proceed with（繼續進行……）、proceed to（前往……）。proceed 比 continue、go 正式；procedure 是「程序」；precede 是「在……之前」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-smooth",
+      "word": "smooth",
+      "pos": "形容詞",
+      "meaning": "順利的；平滑的",
+      "sentences": [
+        {
+          "en": "The manager worked hard to make sure there was a smooth transition when the new software was introduced.",
+          "zh": "經理努力確保導入新軟體時能順利過渡。"
+        },
+        {
+          "en": "The table has a smooth surface that is easy to clean, so it is perfect for restaurants.",
+          "zh": "那張桌子表面平滑又容易清潔，所以非常適合餐廳使用。"
+        },
+        {
+          "en": "Thanks to careful planning, the opening of the new store was smooth and very successful for everyone involved.",
+          "zh": "多虧周詳的規劃，新店的開幕順利又成功。"
+        },
+        {
+          "en": "The flight was smooth, and we arrived in Tokyo twenty minutes earlier than planned in the schedule.",
+          "zh": "航程很平穩，我們比預定時間早二十分鐘抵達東京。"
+        },
+        {
+          "en": "To ensure a smooth transition, the old manager will work with her replacement for two weeks.",
+          "zh": "為了確保順利交接，舊經理會和接替她的人一起工作兩週。"
+        }
+      ],
+      "distractors": [
+        "soothe",
+        "smoke",
+        "mouth"
+      ],
+      "note": "語塊：smooth transition（順利過渡）、run smoothly（順利運作）、smooth surface（平滑表面）。smooth 是「順利、沒有問題的」或「平滑的」；smoothly 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tournament",
+      "word": "tournament",
+      "pos": "名詞",
+      "meaning": "錦標賽；聯賽",
+      "sentences": [
+        {
+          "en": "The city will host a tennis tournament next summer, and players from twenty countries will take part.",
+          "zh": "這座城市明年夏天將主辦網球錦標賽，二十個國家的選手會參加。"
+        },
+        {
+          "en": "Our company sponsors a golf tournament every year to raise money for local schools and libraries.",
+          "zh": "我們公司每年贊助一場高爾夫錦標賽，為當地學校募款。"
+        },
+        {
+          "en": "The young player surprised everyone when she was able to win a tournament in her first year.",
+          "zh": "那位年輕選手第一年就贏得錦標賽，讓大家都很驚訝。"
+        },
+        {
+          "en": "Hotels near the stadium are fully booked during the tournament, so fans should reserve rooms early.",
+          "zh": "錦標賽期間體育場附近的飯店都客滿了，所以球迷應該提早訂房。"
+        },
+        {
+          "en": "The tennis tournament will be broadcast live on television, and tickets are already sold out.",
+          "zh": "網球錦標賽將在電視上現場直播，門票已經賣光了。"
+        }
+      ],
+      "distractors": [
+        "tour",
+        "ornament",
+        "torment"
+      ],
+      "note": "語塊：tennis tournament（網球錦標賽）、host a tournament（主辦錦標賽）、win a tournament（贏得錦標賽）。tournament 是「多場比賽的大型賽事」；match 是「一場比賽」；competition 是「比賽（統稱）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sufficient",
+      "word": "sufficient",
+      "pos": "形容詞",
+      "meaning": "足夠的；充分的",
+      "sentences": [
+        {
+          "en": "Please make sure there are sufficient funds in your account before you make the payment.",
+          "zh": "付款之前，請確認你的帳戶有足夠的資金。"
+        },
+        {
+          "en": "The team did not have sufficient time to finish the project, so the deadline was extended.",
+          "zh": "團隊沒有足夠的時間完成專案，所以截止日延長了。"
+        },
+        {
+          "en": "The police did not have sufficient evidence to prove that the company had broken the law.",
+          "zh": "警方沒有充分的證據證明那家公司違法。"
+        },
+        {
+          "en": "One hour should be sufficient time to tour the museum and see all of the main exhibits.",
+          "zh": "一小時應該足夠參觀博物館並看完所有主要展品。"
+        },
+        {
+          "en": "The bank will approve the loan only if the company can show that it has sufficient funds.",
+          "zh": "只有公司能證明它有足夠的資金，銀行才會核准貸款。"
+        }
+      ],
+      "distractors": [
+        "efficient",
+        "proficient",
+        "deficient"
+      ],
+      "note": "語塊：sufficient funds（足夠的資金）、sufficient time（足夠的時間）、sufficient evidence（充分的證據）。sufficient 和 enough 意思相同，比較正式；insufficient 是「不足的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-government-official",
+      "word": "government official",
+      "pos": "名詞",
+      "meaning": "政府官員",
+      "sentences": [
+        {
+          "en": "A senior government official will visit the factory next week to learn about its new technology.",
+          "zh": "一位高級政府官員下週會參觀工廠，了解它的新技術。"
+        },
+        {
+          "en": "The company's managers will meet with a government official to discuss the plans for the new airport.",
+          "zh": "公司的經理們將和一位政府官員會面，討論新機場的計畫。"
+        },
+        {
+          "en": "Every government official must follow strict rules about accepting gifts or money from businesses and individuals.",
+          "zh": "每位政府官員都必須遵守接受企業禮物的嚴格規定。"
+        },
+        {
+          "en": "The government official explained the new tax rules to small business owners at the meeting.",
+          "zh": "那位政府官員在會議上向小企業老闆說明新的稅務規定。"
+        },
+        {
+          "en": "A senior government official said that the new highway will be finished by the end of next year.",
+          "zh": "一位高級政府官員說新公路將在明年底完工。"
+        }
+      ],
+      "distractors": [
+        "public servant",
+        "official document",
+        "elected official"
+      ],
+      "note": "語塊：senior government official（高級政府官員）、meet with government officials（會見政府官員）。official 當名詞是「官員」；當形容詞是「正式的；官方的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-run",
+      "word": "run",
+      "pos": "動詞",
+      "meaning": "經營；運作；（車）行駛",
+      "sentences": [
+        {
+          "en": "Ms. Park has run a small bakery in the city center for more than twenty years.",
+          "zh": "朴小姐在市中心經營一家小麵包店二十多年了。"
+        },
+        {
+          "en": "The new software helps the factory run smoothly by tracking every order and every machine.",
+          "zh": "新軟體追蹤每筆訂單和每台機器，幫助工廠順利運作。"
+        },
+        {
+          "en": "Buses to the airport run every fifteen minutes from five in the morning until midnight.",
+          "zh": "往機場的公車從早上五點到午夜每十五分鐘一班。"
+        },
+        {
+          "en": "It takes a lot of hard work to run a business, especially during the first few years.",
+          "zh": "經營事業需要很多努力，尤其是頭幾年。"
+        },
+        {
+          "en": "The museum will run a special program for children during the long summer holidays in July and August.",
+          "zh": "博物館暑假期間將為孩子舉辦一個特別活動。"
+        }
+      ],
+      "distractors": [
+        "ran",
+        "rent",
+        "ruin"
+      ],
+      "note": "語塊：run a business（經營事業）、run smoothly（順利運作）、run every（每……一班）。run 除了「跑」，在商業上常指「經營、管理」；runner 是「跑者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specialized",
+      "word": "specialized",
+      "pos": "形容詞",
+      "meaning": "專門的；專業的",
+      "sentences": [
+        {
+          "en": "The job requires specialized training, so the company will send new employees to a course in Germany.",
+          "zh": "這份工作需要專業訓練，所以公司會送新員工去德國上課。"
+        },
+        {
+          "en": "The hospital bought specialized equipment for treating patients with heart problems and other serious illnesses last year.",
+          "zh": "醫院購買了治療心臟病患者的專門設備。"
+        },
+        {
+          "en": "The law firm is specialized in helping small businesses with contracts, taxes, and other legal issues.",
+          "zh": "那家律師事務所專精於協助小企業處理合約和稅務。"
+        },
+        {
+          "en": "Repairing this machine requires specialized tools that only a few technicians in the country have.",
+          "zh": "修理這台機器需要只有少數技師才有的專門工具。"
+        },
+        {
+          "en": "The store sells specialized equipment for mountain climbing and camping in very cold or snowy weather.",
+          "zh": "那家店販售在寒冷天氣登山和露營用的專門裝備。"
+        }
+      ],
+      "distractors": [
+        "specialist",
+        "socialized",
+        "special"
+      ],
+      "note": "語塊：specialized training（專業訓練）、specialized equipment（專門設備）、specialized in（專精於……）。specialized 是「專門針對某領域的」；specialize 是動詞（specialize in）；special 是「特別的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specialization",
+      "word": "specialization",
+      "pos": "名詞",
+      "meaning": "專業領域；專長",
+      "sentences": [
+        {
+          "en": "Dr. Lee's area of specialization is heart disease, and she has worked at the hospital for twenty years.",
+          "zh": "李醫師的專業領域是心臟病，她在醫院工作了二十年。"
+        },
+        {
+          "en": "The university offers a master's degree with a specialization in international business and trade for working adults.",
+          "zh": "那所大學開設專攻國際商務和貿易的碩士學位。"
+        },
+        {
+          "en": "Each lawyer at the firm has an area of specialization, such as taxes, contracts, or family law.",
+          "zh": "事務所的每位律師都有專業領域，例如稅務、合約或家事法。"
+        },
+        {
+          "en": "Her specialization in online marketing made her the best candidate for the new position in our team.",
+          "zh": "她在網路行銷方面的專長讓她成為新職位的最佳人選。"
+        },
+        {
+          "en": "Students must choose a specialization at the end of their second year of study at the university.",
+          "zh": "學生必須在大學第二年結束時選擇專業領域。"
+        }
+      ],
+      "distractors": [
+        "specification",
+        "speculation",
+        "socialization"
+      ],
+      "note": "語塊：area of specialization（專業領域）、specialization in（專攻……）。specialization 是名詞；specialize 是動詞（specialize in）；specialist 是「專家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reimbursement",
+      "word": "reimbursement",
+      "pos": "名詞",
+      "meaning": "報銷；償還",
+      "sentences": [
+        {
+          "en": "Employees can request reimbursement for travel expenses by submitting their receipts to the finance office within thirty days.",
+          "zh": "員工可以在三十天內提交收據，申請差旅費報銷。"
+        },
+        {
+          "en": "The company provides full reimbursement for training courses that are directly related to your current job.",
+          "zh": "公司對和工作相關的訓練課程提供全額報銷。"
+        },
+        {
+          "en": "Please attach the original receipts to the form when you request reimbursement for meals during business trips.",
+          "zh": "申請餐費報銷時，請在表格上附上原始收據。"
+        },
+        {
+          "en": "Reimbursement for hotel costs will be paid with your salary at the end of the month.",
+          "zh": "飯店費用的報銷會在月底和薪水一起發放。"
+        },
+        {
+          "en": "The finance department will process your reimbursement request within five business days of receiving it.",
+          "zh": "財務部會在五個工作天內處理你的報銷申請。"
+        }
+      ],
+      "distractors": [
+        "refund",
+        "disbursement",
+        "embarrassment"
+      ],
+      "note": "語塊：request reimbursement（申請報銷）、reimbursement for（……的報銷）、full reimbursement（全額報銷）。reimbursement 是「公司把你墊付的錢還給你」；reimburse 是動詞；refund 是「退款」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nominate",
+      "word": "nominate",
+      "pos": "動詞",
+      "meaning": "提名",
+      "sentences": [
+        {
+          "en": "Employees can nominate a colleague for the annual award by sending an email to human resources.",
+          "zh": "員工可以寄電子郵件給人資部，提名一位同事角逐年度獎項。"
+        },
+        {
+          "en": "The committee decided to nominate Ms. Ruiz for the position of chairperson of the association.",
+          "zh": "委員會決定提名 Ruiz 小姐擔任協會主席。"
+        },
+        {
+          "en": "Each department may nominate one person to represent the team at the international conference in Seoul.",
+          "zh": "每個部門可以提名一人代表團隊參加國際研討會。"
+        },
+        {
+          "en": "Customers can nominate their favorite restaurant for the award on the magazine's website until the end of May.",
+          "zh": "顧客可以在雜誌網站上提名他們最喜歡的餐廳角逐獎項。"
+        },
+        {
+          "en": "The board will nominate three candidates, and the members will vote for one of them in May.",
+          "zh": "董事會將提名三位候選人，會員將在五月投票選出其中一位。"
+        }
+      ],
+      "distractors": [
+        "dominate",
+        "denominate",
+        "eliminate"
+      ],
+      "note": "語塊：nominate sb for（提名某人角逐……）、be nominated as（被提名為）。nominate 是「正式推薦某人當候選人」；nomination 是名詞；nominee 是「被提名人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-excess-of",
+      "word": "in excess of",
+      "pos": "其他",
+      "meaning": "超過",
+      "sentences": [
+        {
+          "en": "The company earned profits in excess of ten million dollars last year, which was a new record.",
+          "zh": "公司去年獲利超過一千萬美元，創下新紀錄。"
+        },
+        {
+          "en": "Purchases in excess of five thousand dollars must be approved in writing by the finance director.",
+          "zh": "超過五千美元的採購必須經財務總監核准。"
+        },
+        {
+          "en": "The new stadium will be able to hold crowds in excess of fifty thousand people.",
+          "zh": "新體育場將能容納超過五萬人的觀眾。"
+        },
+        {
+          "en": "Passengers whose bags weigh in excess of twenty kilograms will have to pay an extra fee.",
+          "zh": "行李超過二十公斤的乘客必須支付額外費用。"
+        },
+        {
+          "en": "The project cost in excess of what was planned, so the board asked for a detailed report.",
+          "zh": "專案的花費超過原先的規劃，所以董事會要求一份詳細報告。"
+        }
+      ],
+      "distractors": [
+        "in exchange for",
+        "in favor of",
+        "in charge of"
+      ],
+      "note": "語塊：in excess of（超過……）。in excess of 比 more than 正式；excess 是名詞「過量」；excessive 是形容詞「過度的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commuter",
+      "word": "commuter",
+      "pos": "名詞",
+      "meaning": "通勤者",
+      "sentences": [
+        {
+          "en": "The new subway line will make it easier for every daily commuter who travels into the city center.",
+          "zh": "新捷運線會讓每位每天通勤到市中心的人更方便。"
+        },
+        {
+          "en": "The commuter train from the suburbs is very crowded between seven and nine o'clock in the morning.",
+          "zh": "從郊區出發的通勤列車在早上七點到九點之間非常擁擠。"
+        },
+        {
+          "en": "Commuter traffic on the highway is heavy, so many people prefer to take the bus to work.",
+          "zh": "公路上的通勤車潮很多，所以很多人比較喜歡搭公車上班。"
+        },
+        {
+          "en": "The café near the station opens early to serve coffee to every commuter on the way to work.",
+          "zh": "車站附近的咖啡館很早就開門，為每位上班途中的通勤者供應咖啡。"
+        },
+        {
+          "en": "The city added more buses to reduce commuter traffic in the downtown area during rush hour.",
+          "zh": "市政府增加公車班次，減少尖峰時段市中心的通勤車潮。"
+        }
+      ],
+      "distractors": [
+        "computer",
+        "commander",
+        "communicator"
+      ],
+      "note": "語塊：daily commuter（每天通勤的人）、commuter train（通勤列車）、commuter traffic（通勤車潮）。commuter 是「每天往返家和工作地點的人」；commute 是動詞或名詞「通勤」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-departure",
+      "word": "departure",
+      "pos": "名詞",
+      "meaning": "離開；出發",
+      "sentences": [
+        {
+          "en": "Please arrive at the airport at least two hours before your departure time for international flights.",
+          "zh": "搭國際航班時，請至少在出發時間前兩小時抵達機場。"
+        },
+        {
+          "en": "The departure gate for the flight to Tokyo has been changed from gate five to gate twelve.",
+          "zh": "飛往東京的班機登機門已從五號改為十二號。"
+        },
+        {
+          "en": "Passengers must check in at least one hour prior to departure, or they may not be allowed to board.",
+          "zh": "乘客必須在出發前至少一小時報到，否則可能無法登機。"
+        },
+        {
+          "en": "The manager's departure from the company surprised many employees who had worked with him for years.",
+          "zh": "經理離開公司讓很多和他共事多年的員工很驚訝。"
+        },
+        {
+          "en": "The departure time of the bus has been moved to eight o'clock because of the heavy traffic.",
+          "zh": "因為交通繁忙，巴士的出發時間改到八點。"
+        }
+      ],
+      "distractors": [
+        "department",
+        "deposit",
+        "depiction"
+      ],
+      "note": "語塊：departure time（出發時間）、departure gate（登機門）、prior to departure（出發前）。departure 是名詞；depart 是動詞「出發」；arrival 是「抵達」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-sure",
+      "word": "make sure",
+      "pos": "片語動詞",
+      "meaning": "確保；確認",
+      "sentences": [
+        {
+          "en": "Please make sure that all of the windows are closed before you leave the office this evening.",
+          "zh": "今晚離開辦公室之前，請確認所有的窗戶都關好了。"
+        },
+        {
+          "en": "Make sure to bring your passport and ticket with you when you go to the airport tomorrow.",
+          "zh": "明天去機場時務必帶護照和機票。"
+        },
+        {
+          "en": "The manager will make sure that everyone receives a copy of the new schedule by Friday.",
+          "zh": "經理會確保每個人在週五前都拿到一份新的時程表。"
+        },
+        {
+          "en": "Please make sure to save your work often, as the old computers sometimes stop suddenly.",
+          "zh": "請務必經常存檔，因為舊電腦有時會突然當機。"
+        },
+        {
+          "en": "We check every product carefully to make sure that it meets our high standards of quality.",
+          "zh": "我們仔細檢查每項產品，確保它符合我們的高品質標準。"
+        }
+      ],
+      "distractors": [
+        "make up",
+        "make out",
+        "make sense"
+      ],
+      "note": "語塊：make sure that（確保……）、make sure to（務必……）。make sure 是「確定、確認」；ensure 意思接近，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refusal",
+      "word": "refusal",
+      "pos": "名詞",
+      "meaning": "拒絕",
+      "sentences": [
+        {
+          "en": "The supplier's refusal to lower its prices forced us to look for another company quickly.",
+          "zh": "供應商拒絕降價，迫使我們找另一家公司。"
+        },
+        {
+          "en": "The bank sent a letter to explain its refusal of the loan application from the small business.",
+          "zh": "銀行寄信說明它拒絕那家小企業貸款申請的原因。"
+        },
+        {
+          "en": "The workers' refusal to work overtime caused delays at the factory during the busy season.",
+          "zh": "工人拒絕加班，造成工廠在旺季時延誤。"
+        },
+        {
+          "en": "After the refusal of her first proposal, Ms. Lee prepared a new one with a smaller budget.",
+          "zh": "第一份提案被拒絕後，李小姐準備了一份預算較少的新提案。"
+        },
+        {
+          "en": "The government's refusal to approve the new airport has disappointed many local business owners and residents.",
+          "zh": "政府拒絕核准新機場，讓很多當地商家很失望。"
+        }
+      ],
+      "distractors": [
+        "reversal",
+        "removal",
+        "referral"
+      ],
+      "note": "語塊：refusal to（拒絕做……）、a refusal of（對……的拒絕）。refusal 是名詞；refuse 是動詞「拒絕」；rejection 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-negligence",
+      "word": "negligence",
+      "pos": "名詞",
+      "meaning": "疏忽；過失",
+      "sentences": [
+        {
+          "en": "The accident at the factory was caused by negligence, as the machines had not been checked for months.",
+          "zh": "工廠的意外是疏忽造成的，因為機器好幾個月都沒有檢查。"
+        },
+        {
+          "en": "The company was found guilty of gross negligence and had to pay a large fine to the government.",
+          "zh": "那家公司被判定有重大過失，必須繳一大筆罰款給政府。"
+        },
+        {
+          "en": "Damage due to negligence is not covered by the warranty, so please follow the instructions carefully.",
+          "zh": "保固不包含因疏忽造成的損壞，所以請仔細遵守說明。"
+        },
+        {
+          "en": "The hotel apologized for the negligence of its staff, who forgot to clean the guest's room.",
+          "zh": "飯店為員工忘記清潔客人房間的疏忽道歉。"
+        },
+        {
+          "en": "The investigation found no evidence of negligence by the pilots or the airline's technicians on the ground.",
+          "zh": "調查沒有發現飛行員或航空公司技師有任何疏忽的證據。"
+        }
+      ],
+      "distractors": [
+        "negligible",
+        "intelligence",
+        "diligence"
+      ],
+      "note": "語塊：due to negligence（由於疏忽）、gross negligence（重大過失）、caused by negligence（疏忽造成）、evidence of negligence（疏忽的證據）、the negligence of（……的疏忽）。negligence 是「沒有盡到應有的小心」；negligent 是形容詞；neglect 是動詞「忽視」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-afford",
+      "word": "afford",
+      "pos": "動詞",
+      "meaning": "負擔得起",
+      "sentences": [
+        {
+          "en": "Many young families cannot afford to buy a house in the city center because prices are so high.",
+          "zh": "很多年輕家庭負擔不起在市中心買房，因為房價太高了。"
+        },
+        {
+          "en": "The small company cannot afford to hire more staff this year, so the team will have to work harder.",
+          "zh": "那家小公司今年負擔不起增聘人手，所以團隊必須更努力工作。"
+        },
+        {
+          "en": "If you cannot afford the full price, you can pay for the course in three monthly payments.",
+          "zh": "如果你負擔不起全額，可以分三個月付課程費用。"
+        },
+        {
+          "en": "The school provides free laptops to students whose families cannot afford to buy one for them.",
+          "zh": "學校為家裡買不起筆電的學生提供免費筆電。"
+        },
+        {
+          "en": "We can afford to spend a little more on advertising this year because sales have been strong.",
+          "zh": "今年我們可以在廣告上多花一點，因為銷售很好。"
+        }
+      ],
+      "distractors": [
+        "effort",
+        "afforest",
+        "accord"
+      ],
+      "note": "語塊：can afford to（負擔得起做……）、cannot afford（負擔不起）。afford 常和 can / cannot 連用；affordable 是形容詞「負擔得起的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
