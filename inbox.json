@@ -44538,6 +44538,706 @@
       ],
       "note": "語塊：building facade（建築正面）、restore the facade（修復正面外觀）。facade 是建築物「正面的外牆」，也可以比喻「表面的假象」；也寫作 façade。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-competitive",
+      "word": "competitive",
+      "pos": "形容詞",
+      "meaning": "有競爭力的；競爭激烈的",
+      "sentences": [
+        {
+          "en": "The company offers a competitive salary and excellent benefits to attract talented engineers from around the world.",
+          "zh": "公司提供有競爭力的薪水和優渥的福利，吸引優秀的工程師。"
+        },
+        {
+          "en": "Our products are sold at a competitive price, so many small businesses choose to buy from us.",
+          "zh": "我們的產品價格有競爭力，所以很多小企業選擇向我們購買。"
+        },
+        {
+          "en": "The smartphone market is highly competitive, and companies must release new and better models every year.",
+          "zh": "手機市場競爭激烈，公司每年都必須推出新機型。"
+        },
+        {
+          "en": "The hotel lowered its prices to stay competitive with the new hotels that opened near the airport.",
+          "zh": "飯店降價，以便和機場附近新開的飯店保持競爭力。"
+        },
+        {
+          "en": "Applicants for the job will face a highly competitive process, as more than five hundred people have applied.",
+          "zh": "應徵這份工作的人將面臨激烈的競爭，因為已經有五百多人申請。"
+        }
+      ],
+      "distractors": [
+        "comparative",
+        "compatible",
+        "competent"
+      ],
+      "note": "語塊：competitive price（有競爭力的價格）、competitive salary（有競爭力的薪水）、highly competitive（競爭激烈的）。competitive 可以是「價格有吸引力」或「競爭激烈的」；compete 是動詞；competition 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-edge",
+      "word": "edge",
+      "pos": "名詞",
+      "meaning": "優勢；邊緣",
+      "sentences": [
+        {
+          "en": "Our fast delivery service gives us a competitive edge over other online stores in the region.",
+          "zh": "我們快速的配送服務讓我們在地區網路商店中佔有競爭優勢。"
+        },
+        {
+          "en": "The hotel is located on the edge of the city, so it is quiet but still close to the airport.",
+          "zh": "那家飯店位於城市邊緣，所以很安靜，但離機場還是很近。"
+        },
+        {
+          "en": "The company invests heavily in research to stay at the cutting edge of technology in its industry.",
+          "zh": "公司在研究上投入大量資金，以保持在科技的最前端。"
+        },
+        {
+          "en": "Speaking several languages can give job applicants a competitive edge in the international job market today.",
+          "zh": "會說好幾種語言能讓求職者在國際市場上佔有競爭優勢。"
+        },
+        {
+          "en": "Please be careful near the edge of the platform when the train is arriving at the station.",
+          "zh": "火車進站時，請小心月台邊緣。"
+        }
+      ],
+      "distractors": [
+        "hedge",
+        "ledge",
+        "wedge"
+      ],
+      "note": "語塊：competitive edge（競爭優勢）、on the edge of（在……邊緣）、cutting edge（最前端）。edge 可以是「邊緣」，也可以是「優勢」；cutting-edge 是形容詞「最先進的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-high-end",
+      "word": "high-end",
+      "pos": "形容詞",
+      "meaning": "高檔的；高階的",
+      "sentences": [
+        {
+          "en": "The store sells high-end products such as designer bags, watches, and jewelry from Europe and Japan.",
+          "zh": "那家店販售名牌包、手錶和珠寶等高檔產品。"
+        },
+        {
+          "en": "The company plans to enter the high-end market by launching a new line of luxury cars.",
+          "zh": "公司計畫推出新系列豪華車，進軍高端市場。"
+        },
+        {
+          "en": "The couple celebrated their anniversary at a high-end restaurant on the top floor of the hotel.",
+          "zh": "那對夫妻在飯店頂樓的一家高級餐廳慶祝結婚週年。"
+        },
+        {
+          "en": "Many high-end hotels in the city offer free car service to and from the airport for their guests.",
+          "zh": "城裡很多高檔飯店為客人提供免費機場接送服務。"
+        },
+        {
+          "en": "The new laptop is a high-end model with a powerful processor and a very bright screen.",
+          "zh": "新筆電是一款有強大處理器和非常明亮螢幕的高階機型。"
+        }
+      ],
+      "distractors": [
+        "high-rise",
+        "high-tech",
+        "dead-end"
+      ],
+      "note": "語塊：high-end products（高檔產品）、high-end market（高端市場）、high-end restaurant（高級餐廳）。high-end 是「高價位、高品質的」；low-end 是「低價位的」；luxury 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exterior",
+      "word": "exterior",
+      "pos": "名詞",
+      "meaning": "外部；外觀",
+      "sentences": [
+        {
+          "en": "Workers will paint the exterior of the building during the summer, so please use the back entrance.",
+          "zh": "工人夏天會粉刷大樓外觀，所以請使用後門。"
+        },
+        {
+          "en": "The exterior walls of the old factory were cleaned and repaired as part of the renovation project.",
+          "zh": "舊工廠的外牆在翻修工程中被清洗和修繕。"
+        },
+        {
+          "en": "The car has a modern exterior design, and its interior is spacious and very comfortable.",
+          "zh": "那輛車有現代的外觀設計，內部寬敞又舒適。"
+        },
+        {
+          "en": "The exterior of the hotel looks very old, but the rooms inside were renovated last year.",
+          "zh": "飯店的外觀看起來很舊，但裡面的房間去年都翻修過了。"
+        },
+        {
+          "en": "The architect chose glass and steel for the exterior walls so that the building would be bright inside.",
+          "zh": "建築師選用玻璃和鋼材做外牆，讓建築內部明亮。"
+        }
+      ],
+      "distractors": [
+        "interior",
+        "inferior",
+        "ulterior"
+      ],
+      "note": "語塊：the exterior of（……的外觀）、exterior walls（外牆）、exterior design（外觀設計）。exterior 是「外面」；interior 是「裡面」；external 是「外部的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unconventional",
+      "word": "unconventional",
+      "pos": "形容詞",
+      "meaning": "非傳統的；不尋常的",
+      "sentences": [
+        {
+          "en": "The startup took an unconventional approach to marketing by using only social media and no advertisements.",
+          "zh": "那家新創公司採取不尋常的行銷方式，只用社群媒體，不打任何廣告。"
+        },
+        {
+          "en": "The museum's unconventional design has made it one of the most photographed buildings in the city.",
+          "zh": "博物館的非傳統設計讓它成為城裡最常被拍照的建築之一。"
+        },
+        {
+          "en": "The manager's unconventional ideas were not popular at first, but they helped the company grow quickly.",
+          "zh": "經理不尋常的點子起初不受歡迎，但幫助公司快速成長。"
+        },
+        {
+          "en": "Some customers found the unconventional shape of the new chair strange, but most found it comfortable.",
+          "zh": "有些顧客覺得新椅子的非傳統造型很奇怪，但大多數人覺得很舒服。"
+        },
+        {
+          "en": "The school uses an unconventional approach to teaching, with students learning outside the classroom twice a week.",
+          "zh": "那所學校採用不尋常的教學方式，學生每週兩次在教室外學習。"
+        }
+      ],
+      "distractors": [
+        "conventional",
+        "unconditional",
+        "unintentional"
+      ],
+      "note": "語塊：unconventional approach（不尋常的做法）、unconventional design（非傳統設計）。unconventional 是「和一般做法不同的」；conventional 是「傳統的、一般的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-architect",
+      "word": "architect",
+      "pos": "名詞",
+      "meaning": "建築師",
+      "sentences": [
+        {
+          "en": "The company decided to hire an architect to design a new office that uses less energy.",
+          "zh": "公司決定聘請一位建築師，設計一間更節能的新辦公室。"
+        },
+        {
+          "en": "The new museum was designed by an award-winning architect who is famous for using natural light.",
+          "zh": "新博物館由一位以運用自然光聞名的得獎建築師設計。"
+        },
+        {
+          "en": "A landscape architect was hired to plan the gardens and walking paths around the new hotel.",
+          "zh": "公司聘請一位景觀建築師規劃新飯店周圍的花園和步道。"
+        },
+        {
+          "en": "The architect showed the client several designs for the house before they chose the final one.",
+          "zh": "建築師在客戶選定最終設計之前，給他們看了好幾種房子的設計。"
+        },
+        {
+          "en": "Ms. Lee studied for seven years to become an architect, and she now designs schools and hospitals.",
+          "zh": "李小姐讀了七年書才成為建築師，現在設計學校和醫院。"
+        }
+      ],
+      "distractors": [
+        "architecture",
+        "archive",
+        "archer"
+      ],
+      "note": "語塊：hire an architect（聘請建築師）、award-winning architect（得獎建築師）、landscape architect（景觀建築師）。architect 是「建築師（人）」；architecture 是「建築」；architectural 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alleviate",
+      "word": "alleviate",
+      "pos": "動詞",
+      "meaning": "減輕；緩和",
+      "sentences": [
+        {
+          "en": "The doctor gave the patient some medicine to alleviate the pain in her back after the accident.",
+          "zh": "醫生給病人一些藥，減輕她車禍後的背痛。"
+        },
+        {
+          "en": "The new subway line is expected to alleviate traffic in the city center during rush hour.",
+          "zh": "新捷運線預計會緩解尖峰時段市中心的交通。"
+        },
+        {
+          "en": "The company offers yoga classes at lunch to help employees alleviate stress during busy periods.",
+          "zh": "公司在午餐時間開瑜伽課，幫助員工在忙碌期間減輕壓力。"
+        },
+        {
+          "en": "Hiring more staff will help alleviate the problem of long lines at the checkout counters.",
+          "zh": "增聘人手將有助於緩解結帳櫃台大排長龍的問題。"
+        },
+        {
+          "en": "The government introduced new programs to alleviate poverty in the rural areas of the country.",
+          "zh": "政府推出新計畫，減輕國內鄉村地區的貧窮問題。"
+        }
+      ],
+      "distractors": [
+        "elevate",
+        "alienate",
+        "evaluate"
+      ],
+      "note": "語塊：alleviate pain（減輕疼痛）、alleviate traffic（緩解交通）、alleviate stress（減輕壓力）。alleviate 比 reduce、ease 正式；relieve 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commonly",
+      "word": "commonly",
+      "pos": "副詞",
+      "meaning": "通常；普遍地",
+      "sentences": [
+        {
+          "en": "This software is commonly used by small businesses to manage their accounts and invoices every month.",
+          "zh": "這套軟體常被小企業用來管理帳目和發票。"
+        },
+        {
+          "en": "The plant, commonly known as the snake plant, is popular in offices because it is easy to care for.",
+          "zh": "那種俗稱虎尾蘭的植物在辦公室很受歡迎，因為很容易照顧。"
+        },
+        {
+          "en": "These birds are commonly found near rivers and lakes in the southern part of the country.",
+          "zh": "這些鳥在國內南部的河川和湖泊附近很常見。"
+        },
+        {
+          "en": "Credit cards are commonly accepted in shops and restaurants, but some small markets accept only cash.",
+          "zh": "商店和餐廳普遍接受信用卡，但有些小市場只收現金。"
+        },
+        {
+          "en": "The word is commonly used in business emails, so it is useful for office workers to learn it.",
+          "zh": "這個字常用在商業電子郵件中，所以上班族學起來很有用。"
+        }
+      ],
+      "distractors": [
+        "commonplace",
+        "comically",
+        "commonwealth"
+      ],
+      "note": "語塊：commonly used（常用的）、commonly known as（俗稱）、commonly found（常見的）。commonly 是「常見地、一般來說」；common 是形容詞「常見的」；usually 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supposedly",
+      "word": "supposedly",
+      "pos": "副詞",
+      "meaning": "據說；照理說",
+      "sentences": [
+        {
+          "en": "The new restaurant is supposedly the best in the city, but it is very difficult to get a reservation.",
+          "zh": "那家新餐廳據說是城裡最好的，但很難訂到位子。"
+        },
+        {
+          "en": "The package was supposedly delivered yesterday, but the customer says that it never arrived at her home.",
+          "zh": "包裹照理說昨天就送到了，但顧客說根本沒收到。"
+        },
+        {
+          "en": "The new software is supposedly easier to use, but many employees still prefer the old version.",
+          "zh": "新軟體據說比較好用，但很多員工還是比較喜歡舊版本。"
+        },
+        {
+          "en": "The hotel is supposedly only five minutes from the beach, but it actually takes twenty minutes to walk there.",
+          "zh": "那家飯店據說離海灘只有五分鐘，但實際上走路要二十分鐘。"
+        },
+        {
+          "en": "The meeting was supposedly canceled, but several people still came to the conference room anyway.",
+          "zh": "會議照理說已經取消了，但還是有好幾個人來到會議室。"
+        }
+      ],
+      "distractors": [
+        "supposed",
+        "supportively",
+        "purposely"
+      ],
+      "note": "語塊：supposedly the best（據說是最好的）、supposedly delivered（照理說已送達）、supposedly easier（據說比較容易）、supposedly canceled（照理說已取消）。supposedly 是「大家這麼說（但不一定是真的）」；supposed 是形容詞；allegedly 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-temporarily",
+      "word": "temporarily",
+      "pos": "副詞",
+      "meaning": "暫時地",
+      "sentences": [
+        {
+          "en": "The museum is temporarily closed while workers repair the roof of the main exhibition hall.",
+          "zh": "工人修理主展廳屋頂期間，博物館暫時關閉。"
+        },
+        {
+          "en": "The website is temporarily unavailable because of maintenance, but it will be back online by noon.",
+          "zh": "網站因為維護暫時無法使用，但中午前會恢復。"
+        },
+        {
+          "en": "Ms. Lee will temporarily manage the sales team until a new director is hired next month.",
+          "zh": "在下個月聘到新總監之前，李小姐會暫時管理業務團隊。"
+        },
+        {
+          "en": "The road near the school will be temporarily closed for two days while the new pipes are installed.",
+          "zh": "安裝新管線期間，學校附近的道路會暫時封閉兩天。"
+        },
+        {
+          "en": "Several flights were temporarily delayed this morning because of very strong winds at the airport.",
+          "zh": "今天早上因為機場風很大，好幾個航班暫時延誤。"
+        }
+      ],
+      "distractors": [
+        "temporally",
+        "contemporarily",
+        "tentatively"
+      ],
+      "note": "語塊：temporarily closed（暫時關閉）、temporarily unavailable（暫時無法使用）。temporarily 是副詞；temporary 是形容詞「暫時的」；permanently 是「永久地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-escalate",
+      "word": "escalate",
+      "pos": "動詞",
+      "meaning": "升高；擴大；（問題）上報",
+      "sentences": [
+        {
+          "en": "The dispute between the two companies could escalate if they do not reach an agreement soon.",
+          "zh": "如果兩家公司沒有很快達成協議，糾紛可能會擴大。"
+        },
+        {
+          "en": "If the customer is still unhappy, please escalate the problem to the manager on duty.",
+          "zh": "如果顧客還是不滿意，請把問題上報給值班經理。"
+        },
+        {
+          "en": "Prices for building materials began to escalate quickly after the storm damaged several large factories.",
+          "zh": "暴風雨損壞好幾座工廠後，建材價格開始迅速上漲。"
+        },
+        {
+          "en": "The staff are trained to stay calm so that small complaints do not escalate into serious problems.",
+          "zh": "員工受過訓練要保持冷靜，以免小抱怨變成嚴重的問題。"
+        },
+        {
+          "en": "Costs may escalate if the construction is delayed again, so we must finish the work on time.",
+          "zh": "如果工程再次延誤，成本可能會升高，所以我們必須準時完成。"
+        }
+      ],
+      "distractors": [
+        "elevate",
+        "estimate",
+        "evacuate"
+      ],
+      "note": "語塊：escalate quickly（迅速升高）、escalate a problem（把問題上報）。escalate 是「變得更嚴重」或「交給上級處理」；escalator 是「手扶梯」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-empathize",
+      "word": "empathize",
+      "pos": "動詞",
+      "meaning": "同理；感同身受",
+      "sentences": [
+        {
+          "en": "Good customer service staff can empathize with customers who are upset about late deliveries during the holidays.",
+          "zh": "好的客服人員能同理那些對延遲送貨感到不滿的顧客。"
+        },
+        {
+          "en": "Managers who empathize with their employees often have teams that are happier and more productive.",
+          "zh": "能同理員工的經理，團隊通常比較快樂、效率也比較高。"
+        },
+        {
+          "en": "The nurse was able to empathize with the patient because she had experienced the same illness.",
+          "zh": "那位護士能體會病人的感受，因為她得過同樣的病。"
+        },
+        {
+          "en": "It is important to empathize with clients and listen carefully before offering any solutions to their problems.",
+          "zh": "在提出任何解決辦法之前，同理客戶並仔細聆聽是很重要的。"
+        },
+        {
+          "en": "The training teaches teachers how to empathize with students who are having problems at home.",
+          "zh": "訓練教老師如何同理家裡有狀況的學生。"
+        }
+      ],
+      "distractors": [
+        "emphasize",
+        "sympathize",
+        "emancipate"
+      ],
+      "note": "語塊：empathize with（同理……）。empathize with sb 是「能體會別人的感受」；empathy 是名詞「同理心」；sympathize 是「同情」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-isolate",
+      "word": "isolate",
+      "pos": "動詞",
+      "meaning": "隔離；孤立；找出（問題）",
+      "sentences": [
+        {
+          "en": "The technicians are trying to isolate the problem that caused the network to fail this morning.",
+          "zh": "技師正在設法找出今天早上造成網路故障的問題所在。"
+        },
+        {
+          "en": "Patients with the flu are isolated from others, and nurses isolate them in a separate room.",
+          "zh": "得流感的病人會和其他人隔離，護士會把他們安置在另一個房間。"
+        },
+        {
+          "en": "Working from home can isolate some employees, so the company holds team events every month.",
+          "zh": "在家工作可能會讓一些員工感到孤立，所以公司每個月都舉辦團隊活動。"
+        },
+        {
+          "en": "The engineers will isolate the damaged part of the system so that the rest can keep working.",
+          "zh": "工程師會把系統中受損的部分隔離，讓其他部分能繼續運作。"
+        },
+        {
+          "en": "Living in a small village can isolate elderly people who do not have cars or family nearby.",
+          "zh": "住在小村莊可能會讓沒有車或附近沒有家人的長者感到孤立。"
+        }
+      ],
+      "distractors": [
+        "insulate",
+        "violate",
+        "oscillate"
+      ],
+      "note": "語塊：isolate the problem（找出問題所在）、isolate from（和……隔離）。isolate 是「把……分開來」；isolated 是形容詞「孤立的；偏遠的」；isolation 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-complement",
+      "word": "complement",
+      "pos": "動詞",
+      "meaning": "補充；使完美；與……相配",
+      "sentences": [
+        {
+          "en": "The two managers have different skills that complement each other very well on the project.",
+          "zh": "兩位經理擁有不同的技能，在專案上相輔相成。"
+        },
+        {
+          "en": "The wooden furniture will complement the design of the new office, which has many large windows.",
+          "zh": "木製家具會和新辦公室的設計很相配，那裡有很多大窗戶。"
+        },
+        {
+          "en": "The chef chose a light wine to complement the flavor of the fish dishes on the menu.",
+          "zh": "主廚選了一款清淡的葡萄酒，搭配菜單上魚料理的風味。"
+        },
+        {
+          "en": "Online lessons can complement classes in the classroom by giving students extra practice at home.",
+          "zh": "線上課程可以讓學生在家多練習，補充教室裡的課。"
+        },
+        {
+          "en": "The new products will complement our existing range and help us attract younger customers in the city.",
+          "zh": "新產品將補充我們現有的產品系列，幫助我們吸引更年輕的顧客。"
+        }
+      ],
+      "distractors": [
+        "compliment",
+        "implement",
+        "supplement"
+      ],
+      "note": "語塊：complement each other（相輔相成）、complement the design（和設計相配）、complement the flavor（搭配風味）、complement our existing range（補充現有產品系列）。complement 是「互補、搭配得好」；compliment 是「讚美」，只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ongoing",
+      "word": "ongoing",
+      "pos": "形容詞",
+      "meaning": "進行中的；持續的",
+      "sentences": [
+        {
+          "en": "The company provides ongoing support to customers who buy its software, including free updates and online help.",
+          "zh": "公司為購買軟體的顧客提供持續的支援，包括免費更新。"
+        },
+        {
+          "en": "The renovation of the train station is an ongoing project that will be finished next year.",
+          "zh": "火車站的整修是一項進行中的專案，將在明年完工。"
+        },
+        {
+          "en": "Traffic in the city center has been an ongoing problem, so the council plans to build a new road.",
+          "zh": "市中心的交通一直是持續的問題，所以議會計畫蓋一條新路。"
+        },
+        {
+          "en": "The investigation into the accident is ongoing, and the results will be shared next month.",
+          "zh": "事故調查還在進行中，結果將在下個月公布。"
+        },
+        {
+          "en": "Employees receive ongoing training throughout the year so that their skills stay up to date.",
+          "zh": "員工全年都接受持續的訓練，讓技能保持與時俱進。"
+        }
+      ],
+      "distractors": [
+        "outgoing",
+        "going on",
+        "oncoming"
+      ],
+      "note": "語塊：ongoing project（進行中的專案）、ongoing problem（持續的問題）、ongoing support（持續的支援）。ongoing 是「正在進行、還沒結束的」；continuing 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-plus",
+      "word": "plus",
+      "pos": "介系詞",
+      "meaning": "加上",
+      "sentences": [
+        {
+          "en": "The price of the hotel room is one hundred dollars per night plus tax and a small service charge.",
+          "zh": "飯店房價每晚一百美元，外加稅和一小筆服務費。"
+        },
+        {
+          "en": "The total cost of the order is fifty dollars plus shipping, which will be calculated at checkout.",
+          "zh": "訂單總價是五十美元加運費，運費會在結帳時計算。"
+        },
+        {
+          "en": "The job offers a good salary plus a yearly bonus and four weeks of paid vacation.",
+          "zh": "那份工作提供不錯的薪水，外加年終獎金和四週帶薪休假。"
+        },
+        {
+          "en": "The tour includes four nights at a hotel plus breakfast every day and a guided walk around the city.",
+          "zh": "行程包含四晚飯店住宿，外加每天早餐和一次城市導覽散步。"
+        },
+        {
+          "en": "Experience with social media is a plus, but it is not required for the marketing assistant position.",
+          "zh": "有社群媒體經驗是加分，但行銷助理這個職位不一定要有。"
+        }
+      ],
+      "distractors": [
+        "bonus",
+        "minus",
+        "surplus"
+      ],
+      "note": "語塊：plus tax（加稅）、plus shipping（加運費）、plus breakfast（外加早餐）、plus a yearly bonus（外加年終獎金）。plus 是「加上」；也可以當形容詞「有利的」（a plus 是「優點」）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fraction",
+      "word": "fraction",
+      "pos": "名詞",
+      "meaning": "一小部分；分數",
+      "sentences": [
+        {
+          "en": "The new printer costs only a fraction of the price of the old model, but it works much faster.",
+          "zh": "新印表機只要舊機型價格的零頭，但速度快很多。"
+        },
+        {
+          "en": "Only a small fraction of the customers who visit the website actually buy something from the store.",
+          "zh": "造訪網站的顧客中，只有一小部分真的會買東西。"
+        },
+        {
+          "en": "Online advertising costs a fraction of what television commercials cost, so many small businesses use it.",
+          "zh": "網路廣告的費用只有電視廣告的一小部分，所以很多小企業使用。"
+        },
+        {
+          "en": "The new machine can finish the job in a fraction of the time that it used to take by hand.",
+          "zh": "新機器只要過去人工所需時間的一小部分就能完成工作。"
+        },
+        {
+          "en": "A small fraction of the budget will be used to buy new computers for the training center.",
+          "zh": "預算中有一小部分會用來為訓練中心購買新電腦。"
+        }
+      ],
+      "distractors": [
+        "fracture",
+        "friction",
+        "faction"
+      ],
+      "note": "語塊：a fraction of（……的一小部分）、a small fraction（一小部分）。a fraction of the price 是「價格的零頭」；fracture 是「骨折」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-short-of",
+      "word": "short of",
+      "pos": "其他",
+      "meaning": "缺乏；不足",
+      "sentences": [
+        {
+          "en": "The restaurant is short of staff this weekend, so the manager will help in the kitchen.",
+          "zh": "那家餐廳這個週末人手不足，所以經理會到廚房幫忙。"
+        },
+        {
+          "en": "We are running short of paper, so please order more boxes before the end of the week.",
+          "zh": "我們的紙快用完了，所以請在週末前多訂幾箱。"
+        },
+        {
+          "en": "The hospital is short of nurses, and it is offering higher salaries to attract new staff.",
+          "zh": "那家醫院缺護士，正提供更高的薪水吸引新員工。"
+        },
+        {
+          "en": "The team was short of time, so they decided to focus only on the most important tasks.",
+          "zh": "團隊時間不夠，所以決定只專注於最重要的工作。"
+        },
+        {
+          "en": "The project was canceled because the company was short of money after a difficult year.",
+          "zh": "因為艱難的一年後公司資金不足，專案被取消了。"
+        }
+      ],
+      "distractors": [
+        "short for",
+        "sort of",
+        "shortly after"
+      ],
+      "note": "語塊：be short of（缺少……）、run short of（快用完）。be short of 是「不夠」；run short of 是「快要用完」；lack 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-operation",
+      "word": "operation",
+      "pos": "名詞",
+      "meaning": "營運；運作；手術",
+      "sentences": [
+        {
+          "en": "The new factory has been in operation since March and now employs more than three hundred workers.",
+          "zh": "新工廠從三月開始運作，現在僱用了三百多名工人。"
+        },
+        {
+          "en": "The company's business operation in Asia has grown quickly, especially in Vietnam, Thailand, and Malaysia.",
+          "zh": "公司在亞洲的業務營運成長迅速，尤其是在越南和泰國。"
+        },
+        {
+          "en": "Mr. Kim will undergo an operation on his knee next week and will return to work in a month.",
+          "zh": "金先生下週要動膝蓋手術，一個月後回來上班。"
+        },
+        {
+          "en": "The bus service will be in operation from six in the morning until midnight every day.",
+          "zh": "公車服務每天從早上六點運作到午夜。"
+        },
+        {
+          "en": "The new manager is responsible for the daily operation of the hotel, including its restaurant.",
+          "zh": "新經理負責飯店的日常營運，包括它的餐廳。"
+        }
+      ],
+      "distractors": [
+        "cooperation",
+        "opera",
+        "operator"
+      ],
+      "note": "語塊：business operation（業務營運）、in operation（運作中）、undergo an operation（動手術）。operation 可以是「營運、運作」，也可以是醫療的「手術」；operate 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-union",
+      "word": "union",
+      "pos": "名詞",
+      "meaning": "工會；聯盟",
+      "sentences": [
+        {
+          "en": "The labor union is negotiating with the company for higher wages and better working conditions.",
+          "zh": "工會正在和公司談判，爭取更高的薪資和更好的工作條件。"
+        },
+        {
+          "en": "Many factory workers decided to join a union so that they could have more power in discussions.",
+          "zh": "很多工廠工人決定加入工會，讓他們在協商時更有力量。"
+        },
+        {
+          "en": "The union said that its members would go on strike if the company did not agree to their demands.",
+          "zh": "工會表示，如果公司不同意他們的要求，成員就會罷工。"
+        },
+        {
+          "en": "The company met with union leaders to discuss the new schedule for the night shift workers.",
+          "zh": "公司和工會領袖開會，討論夜班工人的新班表。"
+        },
+        {
+          "en": "Each union member will vote on the new contract at a meeting next Thursday evening.",
+          "zh": "每位工會成員將在下週四晚上的會議上對新合約投票。"
+        }
+      ],
+      "distractors": [
+        "unit",
+        "onion",
+        "unity"
+      ],
+      "note": "語塊：labor union（工會）、join a union（加入工會）、union members（工會成員）。union 是「工會」或「聯合」；the European Union 是「歐盟」；unity 是「團結」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
