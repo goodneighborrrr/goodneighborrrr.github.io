@@ -14158,6 +14158,706 @@
       ],
       "note": "語塊：attract tenants（吸引房客）、a new tenant（新房客）、tenant of（……的承租人）。tenant 是「租房子的人」；landlord 是「房東」；tenet（信條）長得像。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-postpone",
+      "word": "postpone",
+      "pos": "動詞",
+      "meaning": "延期；延後",
+      "sentences": [
+        {
+          "en": "We have decided to postpone the meeting with the investors until the financial report has been finalized.",
+          "zh": "我們決定把和投資人的會議延到財報定案之後。"
+        },
+        {
+          "en": "The organizers had to postpone the outdoor concert until next Saturday because of the heavy rain forecast.",
+          "zh": "因為預報有大雨，主辦單位只好把戶外音樂會延到下週六。"
+        },
+        {
+          "en": "The company may postpone the launch of its new smartphone if the supply of parts does not improve.",
+          "zh": "如果零件供應沒有改善，公司可能會延後新手機的上市。"
+        },
+        {
+          "en": "Please let us know at least two days in advance if you need to postpone your appointment with the consultant.",
+          "zh": "如果你需要延後和顧問的約，請至少提前兩天告訴我們。"
+        },
+        {
+          "en": "The city council voted to postpone the construction of the new library until more funding becomes available.",
+          "zh": "市議會投票決定把新圖書館的興建延到有更多經費時再進行。"
+        }
+      ],
+      "distractors": [
+        "propose",
+        "position",
+        "proponent"
+      ],
+      "note": "語塊：postpone a meeting（會議延期）、postpone until（延到……）、postpone the launch（延後上市）。postpone 是「延後到之後再做」；cancel 是「取消」；put off 是口語的同義詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renovate",
+      "word": "renovate",
+      "pos": "動詞",
+      "meaning": "整修；翻新",
+      "sentences": [
+        {
+          "en": "The hotel plans to renovate the building's lobby and restaurant before the start of the tourist season.",
+          "zh": "飯店計畫在旅遊旺季開始前整修大樓的大廳和餐廳。"
+        },
+        {
+          "en": "The owners of the café hired a local contractor to renovate the kitchen and install new ovens.",
+          "zh": "咖啡廳老闆請了當地的承包商翻修廚房並安裝新烤箱。"
+        },
+        {
+          "en": "It will cost approximately two million dollars to renovate the old train station near the harbor.",
+          "zh": "整修港口附近的舊火車站大約要花兩百萬美元。"
+        },
+        {
+          "en": "The museum will be closed for six months while workers renovate the building's roof and exhibition halls.",
+          "zh": "工人整修屋頂和展覽廳期間，博物館將休館六個月。"
+        },
+        {
+          "en": "The landlord promised to renovate the bathrooms in every apartment before the new tenants move in.",
+          "zh": "房東承諾在新房客搬進來之前，翻修每間公寓的浴室。"
+        }
+      ],
+      "distractors": [
+        "innovate",
+        "rotate",
+        "navigate"
+      ],
+      "note": "語塊：renovate the building（整修大樓）、renovate the kitchen（翻修廚房）、be renovated（被翻新）。renovate 是「把舊建築整修變新」；innovate（創新）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-archaeological",
+      "word": "archaeological",
+      "pos": "形容詞",
+      "meaning": "考古學的",
+      "sentences": [
+        {
+          "en": "Construction of the shopping mall was stopped after workers found an archaeological site under the parking lot.",
+          "zh": "工人在停車場下面發現考古遺址後，購物中心的工程就停了下來。"
+        },
+        {
+          "en": "The archaeological discovery attracted thousands of tourists to the small village during the summer months.",
+          "zh": "那項考古發現在夏季吸引了數千名觀光客到那個小村莊。"
+        },
+        {
+          "en": "Our tour includes a visit to the national archaeological museum, which displays ancient tools and jewelry.",
+          "zh": "我們的行程包含參觀國立考古博物館，那裡展出古代的工具和珠寶。"
+        },
+        {
+          "en": "The city hired experts to protect the archaeological site before the new subway line is built.",
+          "zh": "市政府在新捷運線興建之前，聘請專家保護那處考古遺址。"
+        },
+        {
+          "en": "Visitors to the archaeological museum can watch a short film about how the ancient city was discovered.",
+          "zh": "參觀考古博物館的遊客可以看一部介紹那座古城如何被發現的短片。"
+        }
+      ],
+      "distractors": [
+        "architectural",
+        "astronomical",
+        "geographical"
+      ],
+      "note": "語塊：archaeological site（考古遺址）、archaeological discovery（考古發現）、archaeological museum（考古博物館）。archaeological 是形容詞；archaeology 是「考古學」；archaeologist 是「考古學家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-generate",
+      "word": "generate",
+      "pos": "動詞",
+      "meaning": "產生；創造（收入）",
+      "sentences": [
+        {
+          "en": "The new online store is expected to generate revenue of more than one million dollars in its first year.",
+          "zh": "新的網路商店預計第一年會創造超過一百萬美元的營收。"
+        },
+        {
+          "en": "The company hopes the television commercial will generate interest in its new line of sports drinks.",
+          "zh": "公司希望這支電視廣告能引起大家對新系列運動飲料的興趣。"
+        },
+        {
+          "en": "The solar panels on the roof generate electricity for the entire office building during the daytime.",
+          "zh": "屋頂的太陽能板白天為整棟辦公大樓發電。"
+        },
+        {
+          "en": "Hosting the international conference will generate revenue for many local hotels, restaurants, and taxi companies in the city.",
+          "zh": "舉辦國際研討會會替當地的飯店、餐廳和計程車公司帶來營收。"
+        },
+        {
+          "en": "The marketing team organized a free tasting event to generate interest before the restaurant's official opening.",
+          "zh": "行銷團隊在餐廳正式開幕前辦了一場免費試吃活動，引起大家的興趣。"
+        }
+      ],
+      "distractors": [
+        "generalize",
+        "regenerate",
+        "germinate"
+      ],
+      "note": "語塊：generate revenue（創造營收）、generate interest（引起興趣）、generate electricity（發電）。generate 常用在「產生營收、興趣、電力」；create 意思接近，但比較廣泛。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enterprise",
+      "word": "enterprise",
+      "pos": "名詞",
+      "meaning": "企業；事業",
+      "sentences": [
+        {
+          "en": "The government offers low-interest loans to help a small enterprise grow during its first few years.",
+          "zh": "政府提供低利貸款，幫助小企業在頭幾年成長。"
+        },
+        {
+          "en": "Mr. Okafor left his job at a large bank to start his own enterprise selling organic coffee.",
+          "zh": "Okafor 先生辭掉大銀行的工作，自己創業賣有機咖啡。"
+        },
+        {
+          "en": "The railway was operated by a state-owned enterprise until it was sold to a private company last year.",
+          "zh": "那條鐵路原本由國營企業經營，直到去年賣給一家民營公司。"
+        },
+        {
+          "en": "The conference will focus on how a private enterprise can work together with local governments.",
+          "zh": "研討會將聚焦在民營企業如何和地方政府合作。"
+        },
+        {
+          "en": "Every small enterprise in the program receives free advice from experienced business consultants every month.",
+          "zh": "計畫裡的每家小企業都能得到資深企業顧問的免費建議。"
+        }
+      ],
+      "distractors": [
+        "entrance",
+        "expertise",
+        "exercise"
+      ],
+      "note": "語塊：small enterprise（小企業）、private enterprise（民營企業）、state-owned enterprise（國營企業）。enterprise 是正式的「企業」；company、business 是一般說法；entrepreneur 是「創業家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-structure",
+      "word": "structure",
+      "pos": "名詞",
+      "meaning": "結構；建築物",
+      "sentences": [
+        {
+          "en": "The new CEO plans to simplify the organizational structure of the company by reducing the number of departments.",
+          "zh": "新執行長打算減少部門數量，簡化公司的組織架構。"
+        },
+        {
+          "en": "The gym changed its pricing structure so that members can now choose monthly or yearly payment plans.",
+          "zh": "健身房改變了價格結構，會員現在可以選擇月繳或年繳方案。"
+        },
+        {
+          "en": "A temporary structure will be built in the park to provide shade for visitors during the summer festival.",
+          "zh": "公園裡會搭建一個臨時建築，在夏季慶典期間替遊客遮陽。"
+        },
+        {
+          "en": "Engineers inspected the structure of the bridge after the earthquake to make sure it was still safe.",
+          "zh": "地震後，工程師檢查了橋的結構，確定它仍然安全。"
+        },
+        {
+          "en": "Employees were given a chart that explains the new organizational structure and lists each manager's responsibilities.",
+          "zh": "員工拿到一張圖表，說明新的組織架構並列出每位經理的職責。"
+        }
+      ],
+      "distractors": [
+        "stricture",
+        "sculpture",
+        "stature"
+      ],
+      "note": "語塊：organizational structure（組織架構）、pricing structure（價格結構）、temporary structure（臨時建築）。structure 可以是「結構」，也可以指「建築物」；construction 是「建造（的過程）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-print",
+      "word": "print",
+      "pos": "動詞",
+      "meaning": "印刷；列印",
+      "sentences": [
+        {
+          "en": "Please print out the agenda and bring it with you to the meeting in the main conference room.",
+          "zh": "請把議程列印出來，帶到大會議室開會。"
+        },
+        {
+          "en": "Could you print a copy of the contract for Mr. Silva so that he can review it on the train?",
+          "zh": "可以幫 Silva 先生印一份合約嗎？讓他在火車上看。"
+        },
+        {
+          "en": "The publisher plans to print twenty thousand copies of the cookbook for its first edition.",
+          "zh": "出版社計畫第一版印兩萬本那本食譜。"
+        },
+        {
+          "en": "To reduce paper waste, employees should print only the documents that they really need for their work.",
+          "zh": "為了減少紙張浪費，員工應該只列印真正需要的文件。"
+        },
+        {
+          "en": "Visitors can print out their tickets at home or show the barcode on their phones at the entrance.",
+          "zh": "參觀者可以在家把票印出來，或在入口出示手機上的條碼。"
+        }
+      ],
+      "distractors": [
+        "sprint",
+        "paint",
+        "point"
+      ],
+      "note": "語塊：print out（列印出來）、print a copy（印一份）、in print（已出版；還在發行）。print 是「印出來」；sprint（衝刺）多一個 s，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-correction",
+      "word": "correction",
+      "pos": "名詞",
+      "meaning": "更正；修正",
+      "sentences": [
+        {
+          "en": "The newspaper had to issue a correction after it printed the wrong date for the city festival.",
+          "zh": "報紙把市立慶典的日期印錯後，只好發布更正。"
+        },
+        {
+          "en": "Please make a correction to the sales figures on page three before the report is sent to the board.",
+          "zh": "報告寄給董事會之前，請修正第三頁的業績數字。"
+        },
+        {
+          "en": "The editor found only one small correction that needed to be made to the final version of the brochure.",
+          "zh": "編輯在小冊子定稿中只找到一個需要修正的小地方。"
+        },
+        {
+          "en": "If you notice any errors in your invoice, contact our billing department so that we can make a correction.",
+          "zh": "如果你發現發票有任何錯誤，請聯絡我們的帳務部，好讓我們更正。"
+        },
+        {
+          "en": "The magazine will issue a correction in next month's edition regarding the price of the hotel's rooms.",
+          "zh": "雜誌會在下個月號針對那家飯店的房價發布更正。"
+        }
+      ],
+      "distractors": [
+        "collection",
+        "connection",
+        "direction"
+      ],
+      "note": "語塊：make a correction（更正）、issue a correction（發布更正）、corrections to（對……的修正）。correction 是名詞，correct 是動詞「改正」；collection（收藏）只差一個字母。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-issue",
+      "word": "issue",
+      "pos": "名詞",
+      "meaning": "問題；議題；（刊物的）一期",
+      "sentences": [
+        {
+          "en": "The manager called an emergency meeting to address an issue with the delivery schedule for next week.",
+          "zh": "經理召開緊急會議處理出貨時程的問題。"
+        },
+        {
+          "en": "Rising rent has become a major issue for many small shops in the downtown area this year.",
+          "zh": "今年房租上漲已經成為市中心許多小店的重大問題。"
+        },
+        {
+          "en": "The latest issue of the magazine includes an interview with the founder of a popular coffee chain.",
+          "zh": "最新一期的雜誌刊登了對一家熱門咖啡連鎖店創辦人的專訪。"
+        },
+        {
+          "en": "If you have any issue with your account, please call our customer support line at any time.",
+          "zh": "如果你的帳戶有任何問題，請隨時撥打我們的客服專線。"
+        },
+        {
+          "en": "The committee will address an issue raised by employees about the lack of parking spaces near the office.",
+          "zh": "委員會將處理員工提出的辦公室附近停車位不足的問題。"
+        }
+      ],
+      "distractors": [
+        "tissue",
+        "assume",
+        "ensure"
+      ],
+      "note": "語塊：address an issue（處理問題）、a major issue（重大問題）、the latest issue（最新一期）。issue 可以指「問題、議題」，也可以指雜誌的「一期」；當動詞是「發布、核發」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-obtain",
+      "word": "obtain",
+      "pos": "動詞",
+      "meaning": "取得；獲得",
+      "sentences": [
+        {
+          "en": "Visitors must obtain permission from the security office before taking any photographs inside the factory.",
+          "zh": "訪客在工廠內拍照前，必須先取得保全室的許可。"
+        },
+        {
+          "en": "The restaurant needs to obtain a permit from the city before it can serve food on the sidewalk.",
+          "zh": "餐廳在人行道上供餐前，需要先取得市政府的許可證。"
+        },
+        {
+          "en": "Customers can obtain information about our products by visiting our website or calling our help desk.",
+          "zh": "顧客可以上我們的網站或打電話到服務台取得產品資訊。"
+        },
+        {
+          "en": "It usually takes about two weeks to obtain a permit for building a new garage on your property.",
+          "zh": "在自己的土地上蓋新車庫，通常要大約兩週才能取得許可證。"
+        },
+        {
+          "en": "Employees who wish to work from home must obtain permission from their direct supervisor first.",
+          "zh": "想在家工作的員工必須先取得直屬主管的許可。"
+        }
+      ],
+      "distractors": [
+        "attain",
+        "contain",
+        "retain"
+      ],
+      "note": "語塊：obtain permission（取得許可）、obtain a permit（取得許可證）、obtain information（取得資訊）。obtain 比 get 正式；名詞是 obtainment（較少用），一般用 acquisition。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fledgling",
+      "word": "fledgling",
+      "pos": "形容詞",
+      "meaning": "新興的；剛起步的",
+      "sentences": [
+        {
+          "en": "The government offers tax breaks to help a fledgling company survive its first two years in business.",
+          "zh": "政府提供減稅，幫助新創公司撐過頭兩年的營運。"
+        },
+        {
+          "en": "Ms. Choi invested her savings in a fledgling business that sells handmade soap at local markets.",
+          "zh": "崔小姐把積蓄投資在一個在當地市集賣手工肥皂、剛起步的事業。"
+        },
+        {
+          "en": "The electric vehicle market was a fledgling industry ten years ago, but it is now growing rapidly.",
+          "zh": "電動車市場十年前還是新興產業，但現在正快速成長。"
+        },
+        {
+          "en": "Mentors from large corporations volunteer to give advice to every fledgling company in the program.",
+          "zh": "來自大企業的導師自願給計畫裡每一家新創公司建議。"
+        },
+        {
+          "en": "Running a fledgling business requires patience, because profits often take several years to appear in the accounts.",
+          "zh": "經營一個剛起步的事業需要耐心，因為往往要好幾年才會有獲利。"
+        }
+      ],
+      "distractors": [
+        "fleeting",
+        "flexible",
+        "flourishing"
+      ],
+      "note": "語塊：fledgling company（新創公司）、fledgling business（剛起步的事業）、fledgling industry（新興產業）。fledgling 原指「剛學飛的小鳥」，引申為「剛起步、經驗不足的」；startup 是「新創公司」的一般說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-highly",
+      "word": "highly",
+      "pos": "副詞",
+      "meaning": "非常；高度地",
+      "sentences": [
+        {
+          "en": "The restaurant near the station is highly recommended by both local residents and food critics.",
+          "zh": "車站附近那家餐廳受到當地居民和美食評論家的極力推薦。"
+        },
+        {
+          "en": "We are looking for a highly qualified engineer with at least ten years of experience in bridge design.",
+          "zh": "我們在找一位非常合格、至少有十年橋樑設計經驗的工程師。"
+        },
+        {
+          "en": "The smartphone market is highly competitive, so companies must release new and improved models every year.",
+          "zh": "手機市場競爭非常激烈，所以公司每年都必須推出新機型。"
+        },
+        {
+          "en": "All of the candidates for the manager position were highly qualified, which made the final decision difficult.",
+          "zh": "經理職位的每位候選人都非常合格，讓最後的決定很難下。"
+        },
+        {
+          "en": "This training course is highly recommended for new employees who will be working directly with customers.",
+          "zh": "這門訓練課程極力推薦給將會直接接觸顧客的新員工。"
+        }
+      ],
+      "distractors": [
+        "highway",
+        "hardly",
+        "heavily"
+      ],
+      "note": "語塊：highly recommended（極力推薦）、highly qualified（非常合格的）、highly competitive（競爭非常激烈的）。highly 是「非常」，不是「高高地」；表示實際高度要用 high（fly high）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sanitation",
+      "word": "sanitation",
+      "pos": "名詞",
+      "meaning": "公共衛生；衛生設備",
+      "sentences": [
+        {
+          "en": "All restaurants in the city must meet strict sanitation standards and pass an inspection every year.",
+          "zh": "市內所有餐廳都必須符合嚴格的衛生標準，每年通過一次檢查。"
+        },
+        {
+          "en": "The city has hired fifty additional sanitation workers to keep the streets clean during the festival.",
+          "zh": "市政府額外聘了五十名清潔人員，在慶典期間保持街道整潔。"
+        },
+        {
+          "en": "Poor sanitation in the old factory led to several complaints from employees and a visit from inspectors.",
+          "zh": "舊工廠衛生條件差，引起好幾位員工抱怨，也招來檢查員到訪。"
+        },
+        {
+          "en": "The hotel improved its sanitation standards after a guest posted a negative review about the bathroom.",
+          "zh": "一位房客發表了對浴室的負評後，飯店提高了衛生標準。"
+        },
+        {
+          "en": "The charity raises money to provide clean water and better sanitation to villages in rural areas.",
+          "zh": "那個慈善團體募款，為鄉村地區的村莊提供乾淨的水和更好的衛生設備。"
+        }
+      ],
+      "distractors": [
+        "sanity",
+        "salutation",
+        "sensation"
+      ],
+      "note": "語塊：sanitation standards（衛生標準）、sanitation workers（清潔人員）、poor sanitation（衛生條件差）。sanitation 是「衛生（設施）」；sanity（理智）和 station（車站）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-salaried",
+      "word": "salaried",
+      "pos": "形容詞",
+      "meaning": "領固定薪水的；月薪制的",
+      "sentences": [
+        {
+          "en": "Every salaried employee at the firm is entitled to fifteen days of paid vacation each year.",
+          "zh": "公司每位月薪制員工每年都享有十五天的帶薪休假。"
+        },
+        {
+          "en": "Ms. Rivera left her part-time job to accept a salaried position at a large insurance company.",
+          "zh": "Rivera 小姐辭掉兼職工作，接受一家大型保險公司固定薪資的職位。"
+        },
+        {
+          "en": "Unlike hourly workers, a salaried employee usually does not receive extra pay for working overtime.",
+          "zh": "和時薪人員不同，月薪制員工加班通常沒有額外的薪水。"
+        },
+        {
+          "en": "The company plans to offer a salaried position to the interns who perform well this summer.",
+          "zh": "公司計畫提供固定薪資的職位給今年夏天表現好的實習生。"
+        },
+        {
+          "en": "Benefits for each salaried employee include health insurance, a retirement plan, and a yearly bonus.",
+          "zh": "每位月薪制員工的福利包括健康保險、退休金計畫和年終獎金。"
+        }
+      ],
+      "distractors": [
+        "salted",
+        "satisfied",
+        "sanitized"
+      ],
+      "note": "語塊：salaried employee（月薪制員工）、salaried position（固定薪資的職位）。salaried 是「領固定月薪」；hourly（時薪的）是相對的概念；salary 是「薪水」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wage",
+      "word": "wage",
+      "pos": "名詞",
+      "meaning": "工資；薪資（多指時薪、週薪）",
+      "sentences": [
+        {
+          "en": "The government announced that the minimum wage will rise by five percent at the beginning of next year.",
+          "zh": "政府宣布明年初最低工資將調漲百分之五。"
+        },
+        {
+          "en": "The coffee shop offers a competitive hourly wage and free meals to all of its part-time staff.",
+          "zh": "那家咖啡店提供所有兼職人員具競爭力的時薪和免費餐點。"
+        },
+        {
+          "en": "Factory workers received a wage increase after the company reported record profits in the last quarter of the year.",
+          "zh": "公司上一季公布創紀錄的獲利後，工廠員工獲得加薪。"
+        },
+        {
+          "en": "Many students choose jobs that pay more than the minimum wage so that they can save for tuition.",
+          "zh": "很多學生選擇薪水比最低工資高的工作，好存學費。"
+        },
+        {
+          "en": "The union is negotiating a wage increase for employees who work night shifts at the hospital.",
+          "zh": "工會正在為醫院上夜班的員工爭取加薪。"
+        }
+      ],
+      "distractors": [
+        "wager",
+        "wedge",
+        "stage"
+      ],
+      "note": "語塊：minimum wage（最低工資）、hourly wage（時薪）、wage increase（加薪）。wage 多指按時或按週領的「工資」；salary 是固定的「月薪、年薪」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compensation",
+      "word": "compensation",
+      "pos": "名詞",
+      "meaning": "補償；賠償；薪酬",
+      "sentences": [
+        {
+          "en": "Passengers whose flights were canceled will receive compensation of up to six hundred euros each.",
+          "zh": "航班被取消的乘客每人最多可以獲得六百歐元的賠償。"
+        },
+        {
+          "en": "The company offers a generous compensation package that includes stock options and a housing allowance.",
+          "zh": "公司提供優渥的薪酬方案，包括股票選擇權和住房津貼。"
+        },
+        {
+          "en": "Customers may request compensation for any items that were damaged during delivery by filling out a simple online form.",
+          "zh": "顧客只要填寫簡單的線上表單，就可以要求賠償運送過程中損壞的任何商品。"
+        },
+        {
+          "en": "Ms. Park accepted the job offer because the compensation package was much better than her current one.",
+          "zh": "朴小姐接受了那份工作，因為薪酬方案比她現在的好很多。"
+        },
+        {
+          "en": "Workers who are injured on the job are entitled to receive compensation for their medical expenses.",
+          "zh": "在工作中受傷的員工有權獲得醫療費用的賠償。"
+        }
+      ],
+      "distractors": [
+        "competition",
+        "complication",
+        "concentration"
+      ],
+      "note": "語塊：receive compensation（獲得賠償）、compensation package（薪酬方案）、compensation for（對……的賠償）。compensation 是「補償、賠償」，也可以指整體「薪酬」；名詞 compensation、動詞 compensate。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rely-on",
+      "word": "rely on",
+      "pos": "片語動詞",
+      "meaning": "依賴；依靠",
+      "sentences": [
+        {
+          "en": "Many small farms rely on seasonal workers to help harvest their crops in the autumn.",
+          "zh": "很多小農場在秋天依靠季節性工人幫忙收割作物。"
+        },
+        {
+          "en": "Our company has come to rely on its online store heavily, which accounts for most of our total sales.",
+          "zh": "我們公司非常依賴網路商店，那裡佔了大部分的總銷售額。"
+        },
+        {
+          "en": "Customers rely on us for fast delivery, so we cannot accept delays at the warehouse.",
+          "zh": "顧客依賴我們快速送貨，所以我們不能接受倉庫有延誤。"
+        },
+        {
+          "en": "Small businesses often rely on local banks for loans when they want to expand their operations.",
+          "zh": "小公司想擴大營運時，常常依賴當地銀行貸款。"
+        },
+        {
+          "en": "The hotel does not rely on travel agencies anymore because most guests now book rooms directly online.",
+          "zh": "飯店不再依賴旅行社，因為大部分客人現在都直接在網路上訂房。"
+        }
+      ],
+      "distractors": [
+        "rely to",
+        "relay",
+        "reply to"
+      ],
+      "note": "語塊：rely on sb for sth（依靠某人提供某物）、rely heavily on（非常依賴）。rely on 和 depend on、count on 意思接近；形容詞是 reliable（可靠的）、reliant（依賴的）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-objective",
+      "word": "objective",
+      "pos": "名詞",
+      "meaning": "目標；目的",
+      "sentences": [
+        {
+          "en": "The main objective of the training program is to improve communication between managers and staff.",
+          "zh": "這個訓練計畫的主要目標是改善經理和員工之間的溝通。"
+        },
+        {
+          "en": "The sales team worked overtime for several weeks in order to achieve an objective set by the director.",
+          "zh": "業務團隊連續好幾週加班，就為了達成主任設定的目標。"
+        },
+        {
+          "en": "At the beginning of each year, every department must set an objective for sales and share it with senior management.",
+          "zh": "每年年初，每個部門都必須設定一個業績目標並向高階主管報告。"
+        },
+        {
+          "en": "Reducing energy costs by ten percent is the main objective of the new environmental policy.",
+          "zh": "減少一成的能源成本是新環保政策的主要目標。"
+        },
+        {
+          "en": "If we want to achieve an objective like this, we will need more staff and a larger budget.",
+          "zh": "如果我們想達成這樣的目標，就需要更多人手和更多預算。"
+        }
+      ],
+      "distractors": [
+        "objection",
+        "subjective",
+        "obligation"
+      ],
+      "note": "語塊：main objective（主要目標）、achieve an objective（達成目標）、set an objective（設定目標）。objective 當名詞是「目標」，和 goal、aim 意思接近；當形容詞是「客觀的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-evaluate",
+      "word": "evaluate",
+      "pos": "動詞",
+      "meaning": "評估；評價",
+      "sentences": [
+        {
+          "en": "Managers will evaluate the performance of each employee at the end of the year before deciding on bonuses.",
+          "zh": "經理會在年底評估每位員工的績效，再決定獎金。"
+        },
+        {
+          "en": "The research team needs more time to evaluate the results of the customer survey before writing its report.",
+          "zh": "研究團隊需要更多時間評估顧客調查的結果，再寫報告。"
+        },
+        {
+          "en": "The committee will meet next Tuesday to evaluate a proposal for opening a branch office in Osaka.",
+          "zh": "委員會下週二會開會評估在大阪開設分公司的提案。"
+        },
+        {
+          "en": "An outside consultant was hired to evaluate the efficiency of our shipping and delivery process.",
+          "zh": "公司聘請一位外部顧問來評估我們運送和配送流程的效率。"
+        },
+        {
+          "en": "It is important to evaluate performance regularly so that employees know where they can improve.",
+          "zh": "定期評估績效很重要，這樣員工才知道哪裡可以改進。"
+        }
+      ],
+      "distractors": [
+        "elevate",
+        "evacuate",
+        "evaporate"
+      ],
+      "note": "語塊：evaluate performance（評估績效）、evaluate the results（評估結果）、evaluate a proposal（評估提案）。evaluate 是「仔細評估價值或品質」；assess 意思接近；elevate（提高）長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exclude",
+      "word": "exclude",
+      "pos": "動詞",
+      "meaning": "排除；不包括",
+      "sentences": [
+        {
+          "en": "The prices listed on our website exclude tax and shipping, which will be added at checkout.",
+          "zh": "我們網站上列出的價格不含稅和運費，結帳時會另外加上。"
+        },
+        {
+          "en": "Because of budget limits, we will exclude employees who joined after June from this year's bonus program.",
+          "zh": "因為預算有限，我們會把六月以後才進公司的員工排除在今年的獎金計畫之外。"
+        },
+        {
+          "en": "The report does not exclude the possibility that sales may decline slightly in some regions next year.",
+          "zh": "報告並不排除明年銷售可能小幅下滑的可能性。"
+        },
+        {
+          "en": "Please exclude any personal information from the files before you share them with the outside consultants.",
+          "zh": "在把檔案分享給外部顧問之前，請先排除任何個人資料。"
+        },
+        {
+          "en": "The hotel's special package does exclude meals, so guests will need to pay for breakfast separately.",
+          "zh": "飯店的特別方案確實不含餐點，所以客人需要另外付早餐的費用。"
+        }
+      ],
+      "distractors": [
+        "include",
+        "exceed",
+        "excuse"
+      ],
+      "note": "語塊：exclude from（把……排除在外）、exclude tax（不含稅）。exclude 是「不包括」；include（包括）是相反詞；excluding 常用來表示「不含……」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
