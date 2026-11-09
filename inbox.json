@@ -24308,6 +24308,706 @@
       ],
       "note": "語塊：train staff（培訓員工）、train technicians（訓練技師）、train new workers（訓練新人）。train 當動詞是「訓練」；trainee 是「受訓者」；trainer 是「訓練員」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regularly",
+      "word": "regularly",
+      "pos": "副詞",
+      "meaning": "定期地；經常",
+      "sentences": [
+        {
+          "en": "Please check your email regularly while you are traveling so that you do not miss any important messages.",
+          "zh": "出差期間請定期查看電子郵件，以免錯過任何重要訊息。"
+        },
+        {
+          "en": "The information on our website is regularly updated to include the latest prices and product details.",
+          "zh": "我們網站上的資訊會定期更新，包含最新的價格和產品細節。"
+        },
+        {
+          "en": "The members of the committee meet regularly to discuss the progress of the city's new transportation plan.",
+          "zh": "委員會成員定期開會，討論城市新交通計畫的進度。"
+        },
+        {
+          "en": "Customers who regularly shop at our store can join the loyalty program and receive special discounts.",
+          "zh": "經常在我們店購物的顧客可以加入忠誠計畫，享有特別折扣。"
+        },
+        {
+          "en": "The machines in the factory must be checked regularly to prevent accidents and expensive repairs.",
+          "zh": "工廠的機器必須定期檢查，以防止意外和昂貴的維修。"
+        }
+      ],
+      "distractors": [
+        "regally",
+        "rarely",
+        "readily"
+      ],
+      "note": "語塊：check regularly（定期檢查）、regularly updated（定期更新）、meet regularly（定期開會）。regularly 是「規律地、定期地」；frequently 偏「頻繁地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-satisfied-with",
+      "word": "satisfied with",
+      "pos": "其他",
+      "meaning": "對……感到滿意",
+      "sentences": [
+        {
+          "en": "If you are not satisfied with your purchase, you can return it within thirty days for a full refund.",
+          "zh": "如果您對購買的商品不滿意，可以在三十天內退貨並獲得全額退款。"
+        },
+        {
+          "en": "Most guests said that they were satisfied with the service at the hotel but not with the breakfast.",
+          "zh": "大部分客人說他們對飯店的服務滿意，但對早餐不滿意。"
+        },
+        {
+          "en": "The manager was fully satisfied with the results of the training program and plans to repeat it next year.",
+          "zh": "經理對訓練計畫的成果完全滿意，打算明年再辦一次。"
+        },
+        {
+          "en": "The client was not satisfied with the first design, so the team created three new versions for her to choose from.",
+          "zh": "客戶對第一版設計不滿意，所以團隊做了三個新版本讓她挑選。"
+        },
+        {
+          "en": "We want to make sure that every customer is fully satisfied with our products and our delivery service.",
+          "zh": "我們想確保每位顧客對我們的產品和配送服務都完全滿意。"
+        }
+      ],
+      "distractors": [
+        "satisfying",
+        "familiar with",
+        "fed up with"
+      ],
+      "note": "語塊：be satisfied with（對……滿意）、fully satisfied with（完全滿意）。be satisfied with 是「感到滿意」；satisfying 是「令人滿意的」；satisfactory 是「令人滿意的、合格的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-utility-company",
+      "word": "utility company",
+      "pos": "名詞",
+      "meaning": "公用事業公司（水電瓦斯公司）",
+      "sentences": [
+        {
+          "en": "Please contact the utility company if the electricity in your apartment goes off for more than an hour.",
+          "zh": "如果你公寓停電超過一小時，請聯絡電力公司。"
+        },
+        {
+          "en": "The local utility company will replace the old water pipes on our street during the next two weeks.",
+          "zh": "當地的公用事業公司在接下來兩週會更換我們街上的舊水管。"
+        },
+        {
+          "en": "Customers can now pay their bills to the utility company online or through a mobile app.",
+          "zh": "顧客現在可以在網路上或用 App 繳交水電公司的帳單。"
+        },
+        {
+          "en": "The utility company announced that electricity prices will increase by five percent starting in January.",
+          "zh": "電力公司宣布從一月起電價將調漲百分之五。"
+        },
+        {
+          "en": "Before moving into your new home, remember to contact the utility company to set up an account.",
+          "zh": "搬進新家之前，記得聯絡水電公司開戶。"
+        }
+      ],
+      "distractors": [
+        "utility bill",
+        "public company",
+        "holding company"
+      ],
+      "note": "語塊：contact the utility company（聯絡水電公司）、local utility company（當地公用事業公司）。utility 是「水電瓦斯等公用事業」；utilities 也可以指「水電費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-safety",
+      "word": "safety",
+      "pos": "名詞",
+      "meaning": "安全",
+      "sentences": [
+        {
+          "en": "All workers must follow the safety regulations and wear helmets while they are on the construction site.",
+          "zh": "所有工人在工地都必須遵守安全規定並戴安全帽。"
+        },
+        {
+          "en": "For safety reasons, the elevator will be closed while technicians carry out repairs on Saturday.",
+          "zh": "為了安全起見，技師週六維修期間電梯會關閉。"
+        },
+        {
+          "en": "The factory spent a large amount of money on new safety equipment after the inspection last year.",
+          "zh": "去年檢查之後，工廠花了很多錢購買新的安全裝備。"
+        },
+        {
+          "en": "Visitors to the laboratory must put on safety equipment such as glasses and gloves before entering.",
+          "zh": "參觀實驗室的訪客進入前必須戴上護目鏡和手套等安全裝備。"
+        },
+        {
+          "en": "For safety reasons, children under the age of twelve must be with an adult when they use the pool.",
+          "zh": "為了安全，十二歲以下的孩子使用泳池時必須有大人陪同。"
+        }
+      ],
+      "distractors": [
+        "safely",
+        "salary",
+        "saving"
+      ],
+      "note": "語塊：safety regulations（安全規定）、for safety reasons（為了安全）、safety equipment（安全裝備）。safety 是名詞「安全」；safe 是形容詞「安全的」或名詞「保險箱」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-public",
+      "word": "public",
+      "pos": "形容詞",
+      "meaning": "公共的；公開的",
+      "sentences": [
+        {
+          "en": "The new art museum will be open to the public every day except Mondays and national holidays.",
+          "zh": "新美術館除了週一和國定假日以外，每天都對外開放。"
+        },
+        {
+          "en": "Public opinion about the new airport has changed since the government promised to reduce noise.",
+          "zh": "政府承諾降低噪音之後，民眾對新機場的看法改變了。"
+        },
+        {
+          "en": "Many employees use public transportation to get to work because parking downtown is very expensive.",
+          "zh": "很多員工搭大眾運輸上班，因為市中心停車很貴。"
+        },
+        {
+          "en": "The city will hold a public meeting on Thursday evening to discuss plans for the new park.",
+          "zh": "市政府週四晚上會舉行公開會議，討論新公園的計畫。"
+        },
+        {
+          "en": "The garden behind the old palace is now open to the public after being closed for twenty years.",
+          "zh": "舊皇宮後面的花園在關閉二十年後，現在對外開放了。"
+        }
+      ],
+      "distractors": [
+        "publish",
+        "punctual",
+        "republic"
+      ],
+      "note": "語塊：public transportation（大眾運輸）、public opinion（輿論）、open to the public（對外開放）。public 是「公共的、公開的」；the public 是「大眾」；publicity 是「宣傳」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-react",
+      "word": "react",
+      "pos": "動詞",
+      "meaning": "反應；回應",
+      "sentences": [
+        {
+          "en": "Customers reacted well to the new design, and we expect the market to react to it positively too.",
+          "zh": "顧客對新設計反應很好，我們也預期市場會正面回應。"
+        },
+        {
+          "en": "It is important for companies to react quickly when customers complain about them on social media.",
+          "zh": "顧客在社群媒體上抱怨時，公司迅速反應很重要。"
+        },
+        {
+          "en": "The stock market is expected to react to the news of the merger when it opens on Monday morning.",
+          "zh": "股市預計會在週一早上開盤時，對合併的消息做出反應。"
+        },
+        {
+          "en": "Staff are trained to react calmly and follow the emergency plan if the fire alarm goes off.",
+          "zh": "員工受過訓練，火警警報響起時要冷靜反應並遵循緊急計畫。"
+        },
+        {
+          "en": "We need to react to the changes in the market before our competitors take our customers.",
+          "zh": "我們需要在競爭對手搶走我們的顧客之前，對市場變化做出反應。"
+        }
+      ],
+      "distractors": [
+        "enact",
+        "retract",
+        "redact"
+      ],
+      "note": "語塊：react to（對……做出反應）、react quickly（迅速反應）。react 是「對某事做出反應」；respond 意思接近；reaction 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-formula",
+      "word": "formula",
+      "pos": "名詞",
+      "meaning": "配方；公式；方法",
+      "sentences": [
+        {
+          "en": "The company has kept the secret formula for its famous soft drink locked in a safe for over one hundred years.",
+          "zh": "那家公司把著名汽水的秘密配方鎖在保險箱裡超過一百年。"
+        },
+        {
+          "en": "The shampoo now has a new formula that is gentler on the skin and better for the environment.",
+          "zh": "那款洗髮精現在有新配方，對皮膚更溫和，對環境也更好。"
+        },
+        {
+          "en": "There is no simple formula for success, but hard work and good planning certainly help.",
+          "zh": "成功沒有簡單的方法，但努力工作和良好的規劃一定有幫助。"
+        },
+        {
+          "en": "The scientists spent three years developing a new formula for paint that dries in only ten minutes.",
+          "zh": "科學家花了三年開發一種只要十分鐘就會乾的新油漆配方。"
+        },
+        {
+          "en": "The restaurant's formula for success is fresh local ingredients, friendly service, and very reasonable prices.",
+          "zh": "那家餐廳的成功方法是新鮮的食材、親切的服務和合理的價格。"
+        }
+      ],
+      "distractors": [
+        "formal",
+        "formulate",
+        "format"
+      ],
+      "note": "語塊：secret formula（秘密配方）、new formula（新配方）、a formula for（……的方法）。formula 可以是化學「配方」、數學「公式」，也可以比喻「成功的方法」；複數 formulas 或 formulae。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remain-to-be-seen",
+      "word": "remain to be seen",
+      "pos": "其他",
+      "meaning": "還有待觀察",
+      "sentences": [
+        {
+          "en": "It will remain to be seen whether the new store can attract enough customers in such a quiet area.",
+          "zh": "新店在這麼安靜的地區能否吸引足夠的顧客，還有待觀察。"
+        },
+        {
+          "en": "Whether the price increase will affect sales will remain to be seen until the end of the quarter.",
+          "zh": "漲價是否會影響銷售，要到季末才知道。"
+        },
+        {
+          "en": "The new law sounds helpful, but its effect on small businesses will remain to be seen for some time.",
+          "zh": "新法律聽起來有幫助，但它對小企業的影響還需要一段時間觀察。"
+        },
+        {
+          "en": "It may remain to be seen whether the merger will create more jobs or lead to job losses.",
+          "zh": "合併會創造更多工作還是導致失業，可能還有待觀察。"
+        },
+        {
+          "en": "How customers will react to the new design will remain to be seen until it is launched next month.",
+          "zh": "顧客會對新設計有什麼反應，要等下個月推出後才知道。"
+        }
+      ],
+      "distractors": [
+        "remain the same",
+        "remain open",
+        "come to be seen"
+      ],
+      "note": "語塊：it will remain to be seen（是否……還有待觀察）。remain to be seen 是「現在還不知道，要等之後才知道」；常用 It remains to be seen whether...。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-congressperson",
+      "word": "congressperson",
+      "pos": "名詞",
+      "meaning": "國會議員",
+      "sentences": [
+        {
+          "en": "Residents wrote letters to their local congressperson asking for more government funding for public schools.",
+          "zh": "居民寫信給當地的國會議員，要求增加公立學校的經費。"
+        },
+        {
+          "en": "The congressperson visited the factory to learn more about the challenges facing manufacturers in the region.",
+          "zh": "那位國會議員參觀了工廠，進一步了解地區製造業面臨的挑戰。"
+        },
+        {
+          "en": "If you have concerns about the new tax policy, you can contact your congressperson by phone or email.",
+          "zh": "如果你對新稅收政策有疑慮，可以打電話或寫電子郵件聯絡你的國會議員。"
+        },
+        {
+          "en": "Our local congressperson will speak at the opening ceremony of the new hospital on Saturday morning.",
+          "zh": "我們當地的國會議員週六早上會在新醫院的開幕典禮上致詞。"
+        },
+        {
+          "en": "The business association invited a congressperson to discuss how the new trade agreement will affect exports.",
+          "zh": "商業協會邀請一位國會議員討論新貿易協定會如何影響出口。"
+        }
+      ],
+      "distractors": [
+        "congregation",
+        "spokesperson",
+        "chairperson"
+      ],
+      "note": "語塊：local congressperson（當地國會議員）、contact your congressperson（聯絡你的國會議員）。congressperson 是不分性別的「國會議員」；也可以用 congressman、congresswoman，或 representative。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cashier",
+      "word": "cashier",
+      "pos": "名詞",
+      "meaning": "收銀員",
+      "sentences": [
+        {
+          "en": "Please show your membership card to the cashier when you pay to receive your discount.",
+          "zh": "付款時請向收銀員出示會員卡，以享有折扣。"
+        },
+        {
+          "en": "If you have a coupon, please give it to the cashier before your items are scanned.",
+          "zh": "如果你有優惠券，請在商品掃描前交給收銀員。"
+        },
+        {
+          "en": "The supermarket is hiring a part-time cashier who can work on weekends and holiday evenings.",
+          "zh": "超市正在招聘一位可以在週末和假日晚上上班的兼職收銀員。"
+        },
+        {
+          "en": "Customers can pay the cashier with cash, credit cards, or mobile payment apps at every register.",
+          "zh": "顧客在每個收銀台都可以用現金、信用卡或行動支付 App 向收銀員付款。"
+        },
+        {
+          "en": "If you would like a gift receipt, please ask the cashier when you are paying for your purchase.",
+          "zh": "如果你需要禮物收據，請在付款時詢問收銀員。"
+        }
+      ],
+      "distractors": [
+        "cashew",
+        "courier",
+        "carrier"
+      ],
+      "note": "語塊：ask the cashier（詢問收銀員）、pay the cashier（向收銀員付款）、cashier's desk（收銀台）。cashier 是「收銀員」；cash register 是「收銀機」；cashew 是「腰果」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-influx",
+      "word": "influx",
+      "pos": "名詞",
+      "meaning": "湧入；大量流入",
+      "sentences": [
+        {
+          "en": "The small town experienced an influx of tourists after it appeared in a popular television drama.",
+          "zh": "那個小鎮出現在熱門電視劇後，湧入了大量觀光客。"
+        },
+        {
+          "en": "Hotels in the city are preparing for an influx of visitors during the international film festival.",
+          "zh": "城裡的飯店正在為國際影展期間湧入的大量訪客做準備。"
+        },
+        {
+          "en": "A sudden influx of orders during the holiday sale caused delays at the company's warehouse.",
+          "zh": "節慶特賣期間突然湧入大量訂單，造成公司倉庫延誤。"
+        },
+        {
+          "en": "The new factory has led to an influx of workers from other regions looking for well-paid jobs.",
+          "zh": "新工廠吸引了大量從其他地區來找高薪工作的工人。"
+        },
+        {
+          "en": "To handle the sudden influx of customers, the restaurant hired several temporary staff for the weekend.",
+          "zh": "為了應付突然湧入的顧客，那家餐廳週末臨時聘了幾位員工。"
+        }
+      ],
+      "distractors": [
+        "influence",
+        "inflation",
+        "reflux"
+      ],
+      "note": "語塊：an influx of（大量湧入的……）、a sudden influx（突然湧入）。influx 是「大量的人或東西湧入」；influence（影響）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-comprehensive",
+      "word": "comprehensive",
+      "pos": "形容詞",
+      "meaning": "全面的；綜合的",
+      "sentences": [
+        {
+          "en": "The website offers a comprehensive guide to all of the restaurants, museums, and hotels in the city.",
+          "zh": "網站提供城裡所有餐廳、博物館和飯店的完整指南。"
+        },
+        {
+          "en": "We recommend purchasing comprehensive insurance for your car, especially if you drive long distances often.",
+          "zh": "我們建議為你的車買全險，尤其是如果你常常開長途。"
+        },
+        {
+          "en": "The company will conduct a comprehensive review of its spending before preparing next year's budget.",
+          "zh": "公司在準備明年預算之前，會全面檢討開支。"
+        },
+        {
+          "en": "New employees receive comprehensive training that covers everything from workplace safety to customer service skills.",
+          "zh": "新員工會接受全面的訓練，內容從安全到客服都有。"
+        },
+        {
+          "en": "The report provides a comprehensive review of the changes in the housing market over the past ten years.",
+          "zh": "報告全面回顧了過去十年房市的變化。"
+        }
+      ],
+      "distractors": [
+        "comprehensible",
+        "competitive",
+        "compulsive"
+      ],
+      "note": "語塊：comprehensive guide（完整指南）、comprehensive insurance（全險）、comprehensive review（全面檢討）。comprehensive 是「全面、包含一切的」；comprehensible 是「可以理解的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keep-up",
+      "word": "keep up",
+      "pos": "片語動詞",
+      "meaning": "維持；跟上；繼續",
+      "sentences": [
+        {
+          "en": "The manager told the team to keep up the good work after they finished the project ahead of schedule.",
+          "zh": "團隊提前完成專案後，經理要他們繼續保持好表現。"
+        },
+        {
+          "en": "It is difficult for small companies to keep up with the latest changes in technology.",
+          "zh": "小公司很難跟上科技的最新變化。"
+        },
+        {
+          "en": "The factory hired more workers to keep up with the growing demand for its electric bicycles.",
+          "zh": "工廠增聘工人，以跟上電動自行車日益成長的需求。"
+        },
+        {
+          "en": "Please read the weekly newsletter to keep up to date with news and events at the company.",
+          "zh": "請閱讀每週電子報，掌握公司的最新消息和活動。"
+        },
+        {
+          "en": "Our sales are strong this year, and we hope to keep up this level of growth in the coming months.",
+          "zh": "我們今年業績很好，希望接下來幾個月能維持這樣的成長。"
+        }
+      ],
+      "distractors": [
+        "keep on",
+        "keep off",
+        "keep out"
+      ],
+      "note": "語塊：keep up with（跟上）、keep up the good work（繼續保持好表現）、keep up to date（保持最新）。keep up with 是「跟上（速度、潮流）」；keep up the good work 是主管常說的鼓勵話。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convincing",
+      "word": "convincing",
+      "pos": "形容詞",
+      "meaning": "有說服力的；令人信服的",
+      "sentences": [
+        {
+          "en": "Ms. Park gave a convincing argument for moving the company's headquarters to a larger building.",
+          "zh": "朴小姐提出了一個有說服力的論點，支持把公司總部搬到更大的大樓。"
+        },
+        {
+          "en": "There is convincing evidence that regular exercise improves both health and productivity at work for most people.",
+          "zh": "有令人信服的證據顯示，規律運動能改善健康和工作效率。"
+        },
+        {
+          "en": "The sales team needs a more convincing presentation if it wants to win the contract with the hotel.",
+          "zh": "如果業務團隊想拿下和飯店的合約，需要一場更有說服力的簡報。"
+        },
+        {
+          "en": "The lawyer did not find the evidence convincing enough to take the case to court.",
+          "zh": "律師覺得證據不夠有說服力，不足以把案子告上法院。"
+        },
+        {
+          "en": "Our team won a convincing victory in the regional business competition, beating twenty other companies.",
+          "zh": "我們團隊在區域商業競賽中以壓倒性的優勢獲勝，擊敗了其他二十家公司。"
+        }
+      ],
+      "distractors": [
+        "confusing",
+        "convinced",
+        "conceiving"
+      ],
+      "note": "語塊：convincing argument（有說服力的論點）、convincing evidence（令人信服的證據）、a convincing win（壓倒性的勝利）。convincing 是「讓人相信的（事物）」；convinced 是「（人）確信的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tax-advantage",
+      "word": "tax advantage",
+      "pos": "名詞",
+      "meaning": "稅務優勢；節稅好處",
+      "sentences": [
+        {
+          "en": "Retirement savings accounts offer a tax advantage because you do not pay tax on the money until later.",
+          "zh": "退休儲蓄帳戶提供節稅好處，因為錢要到以後才需要繳稅。"
+        },
+        {
+          "en": "One tax advantage of buying an electric car is that owners can receive money back from the government.",
+          "zh": "買電動車的一個稅務優勢是車主可以從政府那裡拿回一些錢。"
+        },
+        {
+          "en": "The financial advisor explained the tax advantage of investing in government bonds to his clients.",
+          "zh": "理財顧問向客戶說明投資政府債券的稅務優勢。"
+        },
+        {
+          "en": "Many companies move their offices to the region because of the tax advantage it offers to new businesses.",
+          "zh": "很多公司把辦公室搬到那個地區，因為它對新企業提供稅務優勢。"
+        },
+        {
+          "en": "Donating to charity can offer a tax advantage, so please keep your receipts for your tax return.",
+          "zh": "捐款給慈善機構可以帶來節稅好處，所以請保留收據以便報稅。"
+        }
+      ],
+      "distractors": [
+        "tax return",
+        "tax rate",
+        "tax evasion"
+      ],
+      "note": "語塊：offer a tax advantage（提供節稅好處）、tax advantage of（……的稅務優勢）。tax advantage 指「能少繳稅的好處」；tax break、tax benefit 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refrain-from",
+      "word": "refrain from",
+      "pos": "片語動詞",
+      "meaning": "避免；克制不做",
+      "sentences": [
+        {
+          "en": "Please refrain from using your mobile phone during the performance so that you do not disturb others.",
+          "zh": "演出期間請勿使用手機，以免打擾其他人。"
+        },
+        {
+          "en": "Visitors are asked to kindly refrain from touching the paintings and sculptures in the museum.",
+          "zh": "參觀者請勿觸摸博物館裡的畫作和雕塑。"
+        },
+        {
+          "en": "Employees should refrain from discussing confidential information in public places such as restaurants, trains, and elevators.",
+          "zh": "員工應避免在餐廳等公共場所討論機密資訊。"
+        },
+        {
+          "en": "Passengers must refrain from smoking anywhere on the train or the platform, including in the bathrooms.",
+          "zh": "乘客在火車上任何地方都不可以抽菸，包括廁所。"
+        },
+        {
+          "en": "Please refrain from eating or drinking in the computer room in order to protect the expensive equipment.",
+          "zh": "為了保護設備，為了保護昂貴的設備，請勿在電腦室飲食。"
+        }
+      ],
+      "distractors": [
+        "refer to",
+        "recover from",
+        "resign from"
+      ],
+      "note": "語塊：please refrain from（請勿……）、refrain from using（避免使用）、refrain from smoking（禁止吸菸）、refrain from eating（勿飲食）。refrain from 是正式的「請不要」，常見於公告；avoid 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-capture",
+      "word": "capture",
+      "pos": "動詞",
+      "meaning": "捕捉；拍下；吸引（注意）；奪取",
+      "sentences": [
+        {
+          "en": "The bright colors of the advertisement are designed to capture the attention of young shoppers.",
+          "zh": "廣告鮮豔的顏色是為了吸引年輕購物者的注意。"
+        },
+        {
+          "en": "The photographer used a special camera to capture the moment when the new bridge was opened.",
+          "zh": "攝影師用一台特殊相機捕捉新橋啟用的那一刻。"
+        },
+        {
+          "en": "The company hopes to capture market share from its competitors by offering lower prices and faster delivery.",
+          "zh": "公司希望藉由提供更低的價格，從競爭對手那裡奪取市佔率。"
+        },
+        {
+          "en": "The security cameras capture images of everyone who enters or leaves the building at night.",
+          "zh": "監視器會拍下晚上進出大樓的每一個人。"
+        },
+        {
+          "en": "The opening scene of the movie was able to capture attention immediately, and critics loved it.",
+          "zh": "電影的開場一下子就吸引了注意，評論家很喜歡。"
+        }
+      ],
+      "distractors": [
+        "capital",
+        "caption",
+        "rupture"
+      ],
+      "note": "語塊：capture attention（吸引注意）、capture the moment（捕捉瞬間）、capture market share（奪取市佔率）。capture 可以是「抓住」、「拍攝下來」或「奪得（市場）」；captive 是「被俘虜的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specify",
+      "word": "specify",
+      "pos": "動詞",
+      "meaning": "明確說明；具體指定",
+      "sentences": [
+        {
+          "en": "Please specify the date and time that you would like to receive your delivery when you place the order.",
+          "zh": "下訂單時，請指定你希望收到貨的日期和時間。"
+        },
+        {
+          "en": "If you have any food allergies, please specify them on the form so that the chef can prepare a safe meal.",
+          "zh": "如果你有任何食物過敏，請在表格上註明，讓主廚準備安全的餐點。"
+        },
+        {
+          "en": "The contract should specify that the supplier must replace any damaged items at no extra cost.",
+          "zh": "合約應該明確說明，供應商必須免費更換任何損壞的物品。"
+        },
+        {
+          "en": "When you request a meeting room, please specify the number of people who will attend.",
+          "zh": "申請會議室時，請具體說明出席的人數。"
+        },
+        {
+          "en": "The client did not specify the color of the brochure, so the designer sent several options.",
+          "zh": "客戶沒有指定小冊子的顏色，所以設計師寄了幾個選項。"
+        }
+      ],
+      "distractors": [
+        "signify",
+        "justify",
+        "speculate"
+      ],
+      "note": "語塊：specify the date（指定日期）、specify the number of（說明……的數量）、specify that（明確說明……）。specify 是「講清楚細節」；specific 是形容詞「具體的」；specification 是「規格」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-paperwork",
+      "word": "paperwork",
+      "pos": "名詞",
+      "meaning": "文書工作；文件",
+      "sentences": [
+        {
+          "en": "New employees must complete the paperwork for their health insurance during their first week at the company.",
+          "zh": "新員工必須在第一週完成健康保險的文件。"
+        },
+        {
+          "en": "The new online system will reduce paperwork and allow staff to spend more time with customers.",
+          "zh": "新的線上系統會減少文書工作，讓員工有更多時間陪顧客。"
+        },
+        {
+          "en": "Doctors often complain that they spend too much time on paperwork instead of treating patients.",
+          "zh": "醫生常抱怨他們花太多時間在文書工作上，而不是治療病人。"
+        },
+        {
+          "en": "Please bring a copy of your passport so that we can complete the paperwork for your visa.",
+          "zh": "請帶一份護照影本，讓我們可以完成你的簽證文件。"
+        },
+        {
+          "en": "Buying a house involves a lot of paperwork, so many people ask a lawyer to help them.",
+          "zh": "買房子牽涉很多文書工作，所以很多人會請律師幫忙。"
+        }
+      ],
+      "distractors": [
+        "homework",
+        "framework",
+        "woodwork"
+      ],
+      "note": "語塊：complete the paperwork（完成文件）、reduce paperwork（減少文書工作）。paperwork 是不可數名詞，指「填表、整理文件等文書作業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accomplish",
+      "word": "accomplish",
+      "pos": "動詞",
+      "meaning": "完成；達成",
+      "sentences": [
+        {
+          "en": "The team worked late every night for two weeks to accomplish its goal of launching the website on time.",
+          "zh": "團隊連續兩週每晚加班，達成了準時推出網站的目標。"
+        },
+        {
+          "en": "With the right tools and training, our staff can accomplish the task in half the usual time.",
+          "zh": "有了合適的工具和訓練，我們的員工能以平常一半的時間完成任務。"
+        },
+        {
+          "en": "It is easier to accomplish a goal when you divide it into smaller steps with clear deadlines.",
+          "zh": "把目標拆成有明確期限的小步驟，比較容易達成。"
+        },
+        {
+          "en": "The company was able to accomplish a great deal in its first year, including opening three new stores.",
+          "zh": "公司第一年就完成了很多事，包括開了三家新店。"
+        },
+        {
+          "en": "Managers should give clear instructions so that employees know exactly how to accomplish a task.",
+          "zh": "經理應該給出清楚的指示，讓員工確切知道如何完成任務。"
+        }
+      ],
+      "distractors": [
+        "accompany",
+        "accommodate",
+        "account"
+      ],
+      "note": "語塊：accomplish a goal（達成目標）、accomplish a task（完成任務）。accomplish 和 achieve 意思接近；accomplished 是形容詞「有成就的、熟練的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
