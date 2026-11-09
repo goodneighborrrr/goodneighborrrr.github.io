@@ -14858,6 +14858,706 @@
       ],
       "note": "語塊：exclude from（把……排除在外）、exclude tax（不含稅）。exclude 是「不包括」；include（包括）是相反詞；excluding 常用來表示「不含……」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-documentation",
+      "word": "documentation",
+      "pos": "名詞",
+      "meaning": "證明文件；文件資料",
+      "sentences": [
+        {
+          "en": "Please attach all supporting documentation, such as receipts and invoices, to your monthly expense report.",
+          "zh": "請把收據和發票等所有證明文件附在你的支出報告上。"
+        },
+        {
+          "en": "Applicants must provide documentation showing that they have worked in the industry for at least three years.",
+          "zh": "申請人必須提供證明自己在這個產業至少工作三年的文件。"
+        },
+        {
+          "en": "Without proper documentation, the shipment cannot pass through customs and will be returned to the sender.",
+          "zh": "沒有適當的文件，貨物無法通關，會被退回給寄件人。"
+        },
+        {
+          "en": "The software comes with detailed documentation that explains how to install and use each feature.",
+          "zh": "這套軟體附有詳細的說明文件，解釋如何安裝和使用每項功能。"
+        },
+        {
+          "en": "Employees who request sick leave for more than three days must provide documentation from a doctor.",
+          "zh": "請病假超過三天的員工必須提供醫生的證明文件。"
+        }
+      ],
+      "distractors": [
+        "documentary",
+        "demonstration",
+        "domination"
+      ],
+      "note": "語塊：supporting documentation（證明文件）、provide documentation（提供文件）、proper documentation（適當的文件）。documentation 是不可數名詞，指「一整套證明文件」；document 是可數的「一份文件」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-manufacturer",
+      "word": "manufacturer",
+      "pos": "名詞",
+      "meaning": "製造商；廠商",
+      "sentences": [
+        {
+          "en": "Lumen Electronics is a leading manufacturer of solar panels with factories in three different countries.",
+          "zh": "Lumen 電子是一家領先的太陽能板製造商，在三個國家設有工廠。"
+        },
+        {
+          "en": "If the product stops working within one year, please contact the manufacturer directly for a free repair.",
+          "zh": "如果產品在一年內故障，請直接聯絡廠商免費維修。"
+        },
+        {
+          "en": "The car manufacturer announced that it will build a new production plant in the southern part of the country.",
+          "zh": "那家汽車製造商宣布，將在國內南部興建一座新的生產工廠。"
+        },
+        {
+          "en": "Our company has worked with the same manufacturer of office furniture for more than fifteen years.",
+          "zh": "我們公司和同一家辦公家具製造商合作了十五年以上。"
+        },
+        {
+          "en": "The manufacturer recommends that the air filters be replaced every six months for the best performance.",
+          "zh": "廠商建議每六個月更換一次空氣濾網，以獲得最佳效能。"
+        }
+      ],
+      "distractors": [
+        "manufacture",
+        "distributor",
+        "merchandiser"
+      ],
+      "note": "語塊：leading manufacturer（領先的製造商）、manufacturer of（……的製造商）、contact the manufacturer（聯絡廠商）。manufacturer 是「製造商」；manufacture 是動詞「製造」；retailer 是「零售商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-discover",
+      "word": "discover",
+      "pos": "動詞",
+      "meaning": "發現",
+      "sentences": [
+        {
+          "en": "Engineers hope to discover the problem before the factory reopens to workers on Monday morning.",
+          "zh": "工程師希望在工廠週一早上重新開工前找出問題。"
+        },
+        {
+          "en": "During the audit, the accountants may discover that some travel expenses were recorded twice by mistake.",
+          "zh": "在稽核過程中，會計師可能會發現有些支出被記錄了兩次。"
+        },
+        {
+          "en": "Many visitors are surprised to discover how many restaurants are located in the old part of the city.",
+          "zh": "很多遊客驚訝地發現，老城區裡竟然有這麼多餐廳。"
+        },
+        {
+          "en": "Customers who discover a problem with their order should contact us within seven days of delivery.",
+          "zh": "發現訂單有問題的顧客，應該在收到貨的七天內聯絡我們。"
+        },
+        {
+          "en": "The research team was excited to discover that the new material was both lighter and stronger than steel.",
+          "zh": "研究團隊很興奮地發現，新材料比鋼更輕也更堅固。"
+        }
+      ],
+      "distractors": [
+        "recover",
+        "uncover",
+        "discount"
+      ],
+      "note": "語塊：discover a problem（發現問題）、discover that（發現……）、be surprised to discover（驚訝地發現）。discover 是「發現本來就存在但不知道的事」；invent 是「發明新東西」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consumer-spending",
+      "word": "consumer spending",
+      "pos": "名詞",
+      "meaning": "消費支出",
+      "sentences": [
+        {
+          "en": "Economists reported a sharp increase in consumer spending during the holiday season at the end of this year.",
+          "zh": "經濟學家報告，今年節慶期間消費支出大幅增加。"
+        },
+        {
+          "en": "The government lowered taxes in order to boost consumer spending after the economy slowed down.",
+          "zh": "經濟放緩後，政府調降稅率以刺激消費。"
+        },
+        {
+          "en": "Retailers are worried that higher interest rates could reduce consumer spending on cars and furniture.",
+          "zh": "零售商擔心利率上升可能會減少民眾在汽車和家具上的消費支出。"
+        },
+        {
+          "en": "An increase in consumer spending usually helps restaurants, hotels, and many other service businesses grow.",
+          "zh": "消費支出增加通常會幫助餐廳、飯店和其他服務業成長。"
+        },
+        {
+          "en": "The report shows that consumer spending on online entertainment has doubled over the past five years.",
+          "zh": "報告顯示，過去五年線上娛樂的消費支出成長了一倍。"
+        }
+      ],
+      "distractors": [
+        "consumer goods",
+        "government spending",
+        "consumer survey"
+      ],
+      "note": "語塊：increase in consumer spending（消費支出增加）、boost consumer spending（刺激消費）。consumer spending 是經濟用語「民眾花錢消費的總額」；consumer 是「消費者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clause",
+      "word": "clause",
+      "pos": "名詞",
+      "meaning": "（合約的）條款",
+      "sentences": [
+        {
+          "en": "Please read each clause of the contract carefully before you sign it and return it to our office.",
+          "zh": "簽名並寄回我們辦公室之前，請仔細閱讀合約的每一條條款。"
+        },
+        {
+          "en": "The lawyer suggested that we include a clause that allows us to end the agreement with thirty days' notice.",
+          "zh": "律師建議我們加入一條條款，允許我們提前三十天通知就能終止協議。"
+        },
+        {
+          "en": "The rental agreement has a cancellation clause that requires tenants to pay a fee if they move out early.",
+          "zh": "租約有一條解約條款，規定房客提早搬走要付一筆費用。"
+        },
+        {
+          "en": "According to the third clause, the supplier must deliver all parts within ten business days of each order.",
+          "zh": "根據第三條條款，供應商必須在每次下單後十個工作天內交付所有零件。"
+        },
+        {
+          "en": "The two companies spent several weeks discussing a single contract clause about the sharing of profits.",
+          "zh": "兩家公司花了好幾週討論合約中一條關於利潤分配的條款。"
+        }
+      ],
+      "distractors": [
+        "claws",
+        "cause",
+        "close"
+      ],
+      "note": "語塊：contract clause（合約條款）、include a clause（加入條款）、cancellation clause（解約條款）。clause 是合約上的「條款」；claws（爪子）發音一樣，意思完全不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adherence",
+      "word": "adherence",
+      "pos": "名詞",
+      "meaning": "遵守；堅持",
+      "sentences": [
+        {
+          "en": "Strict adherence to safety rules has helped the factory avoid serious accidents for over five years.",
+          "zh": "嚴格遵守安全規定讓工廠五年多來都沒有發生嚴重事故。"
+        },
+        {
+          "en": "The airline is known for its adherence to schedules, and most of its flights arrive on time.",
+          "zh": "那家航空公司以遵守時刻表出名，大部分航班都準時抵達。"
+        },
+        {
+          "en": "Inspectors will check each restaurant's adherence to the rules about food storage and kitchen cleanliness.",
+          "zh": "檢查員會檢查每家餐廳是否遵守食物保存和清潔的規定。"
+        },
+        {
+          "en": "Managers emphasized that strict adherence to the dress code is expected when meeting with clients.",
+          "zh": "經理們強調，和客戶見面時應嚴格遵守服裝規定。"
+        },
+        {
+          "en": "Our success is based on careful planning and adherence to the highest standards of quality.",
+          "zh": "我們的成功建立在仔細的規劃和遵守最高的品質標準上。"
+        }
+      ],
+      "distractors": [
+        "adherent",
+        "inference",
+        "coherence"
+      ],
+      "note": "語塊：strict adherence to（嚴格遵守）、adherence to the rules（遵守規則）。adherence 是名詞，動詞是 adhere to（遵守）；compliance with 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-highway",
+      "word": "highway",
+      "pos": "名詞",
+      "meaning": "公路；高速公路",
+      "sentences": [
+        {
+          "en": "Traffic on the highway was very heavy this morning because of an accident near the airport exit.",
+          "zh": "今天早上公路上的交通很塞，因為機場出口附近發生了事故。"
+        },
+        {
+          "en": "Highway construction near the city center is expected to continue until the end of the year.",
+          "zh": "市中心附近的公路工程預計會持續到年底。"
+        },
+        {
+          "en": "If you take the highway, you can reach the conference center in about forty minutes from downtown.",
+          "zh": "如果你走公路，從市中心大約四十分鐘就能到會議中心。"
+        },
+        {
+          "en": "The new highway connecting the two cities will cut the travel time between them by almost half.",
+          "zh": "連接兩座城市的新公路將把兩地之間的車程縮短將近一半。"
+        },
+        {
+          "en": "Drivers should use caution on the highway tonight because heavy rain is expected after nine o'clock.",
+          "zh": "今晚開車上公路要小心，因為預計九點以後會下大雨。"
+        }
+      ],
+      "distractors": [
+        "hallway",
+        "railway",
+        "highly"
+      ],
+      "note": "語塊：on the highway（在公路上）、highway construction（公路工程）、take the highway（走公路）。highway 是「主要幹道、公路」；freeway、expressway 多指「高速公路」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-operating-expense",
+      "word": "operating expense",
+      "pos": "名詞",
+      "meaning": "營運費用",
+      "sentences": [
+        {
+          "en": "Moving to a smaller office will help the company reduce operating expense by about twenty percent.",
+          "zh": "搬到比較小的辦公室可以幫助公司降低大約兩成的營運費用。"
+        },
+        {
+          "en": "The annual operating expense of the museum is covered mostly by ticket sales and private donations.",
+          "zh": "博物館的年度營運費用大部分由門票收入和私人捐款支應。"
+        },
+        {
+          "en": "Rent is the largest operating expense for most restaurants located in the downtown business district.",
+          "zh": "對市中心商業區的大部分餐廳來說，租金是最大的營運費用。"
+        },
+        {
+          "en": "The new energy-saving lights are expected to reduce operating expense at all of our stores.",
+          "zh": "新的節能燈預計可以降低我們所有門市的營運費用。"
+        },
+        {
+          "en": "The finance team prepared a chart that compares this year's annual operating expense with last year's.",
+          "zh": "財務團隊準備了一張圖表，比較今年和去年的年度營運費用。"
+        }
+      ],
+      "distractors": [
+        "operating system",
+        "operating room",
+        "operating hours"
+      ],
+      "note": "語塊：reduce operating expense（降低營運費用）、annual operating expense（年度營運費用）。operating expense 常寫成 operating expenses（複數）或 OPEX，指公司日常營運的花費，例如租金、水電、薪水。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-form",
+      "word": "form",
+      "pos": "名詞",
+      "meaning": "表格；形式",
+      "sentences": [
+        {
+          "en": "Please fill out a form at the front desk before your first appointment with the doctor.",
+          "zh": "第一次看診前，請先在櫃台填一張表。"
+        },
+        {
+          "en": "The application form for the scholarship must be submitted online by the end of this month.",
+          "zh": "獎學金申請表必須在這個月底前在線上提交。"
+        },
+        {
+          "en": "Participants who want to attend the workshop should return the registration form by Friday afternoon.",
+          "zh": "想參加工作坊的人，應該在週五下午前交回報名表。"
+        },
+        {
+          "en": "Customers who wish to return a product must fill out a form and include the original receipt.",
+          "zh": "想退貨的顧客必須填寫表格並附上原始收據。"
+        },
+        {
+          "en": "The registration form asks for your name, email address, and the name of the company you work for.",
+          "zh": "報名表要填你的名字、電子信箱和你任職的公司名稱。"
+        }
+      ],
+      "distractors": [
+        "from",
+        "farm",
+        "foam"
+      ],
+      "note": "語塊：fill out a form（填表）、application form（申請表）、registration form（報名表）。form 當名詞常指「表格」；fill out 和 fill in 都可以表示「填寫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tax-policy",
+      "word": "tax policy",
+      "pos": "名詞",
+      "meaning": "稅收政策",
+      "sentences": [
+        {
+          "en": "The new tax policy will make it easier for small businesses to hire young workers.",
+          "zh": "新的稅收政策會讓小公司比較容易聘用年輕員工。"
+        },
+        {
+          "en": "Many business owners are waiting to see whether the government will change tax policy after the election.",
+          "zh": "很多老闆都在觀望政府選後是否會改變稅收政策。"
+        },
+        {
+          "en": "The finance minister explained the new tax policy at a press conference on Thursday afternoon.",
+          "zh": "財政部長在週四下午的記者會上說明新的稅收政策。"
+        },
+        {
+          "en": "Our accountants will hold a seminar to explain how the new tax policy affects our clients.",
+          "zh": "我們的會計師會舉辦講座，說明新的稅收政策如何影響我們的客戶。"
+        },
+        {
+          "en": "Experts believe that a stable tax policy encourages foreign companies to invest in the country.",
+          "zh": "專家認為，穩定的稅收政策會鼓勵外國公司到國內投資。"
+        }
+      ],
+      "distractors": [
+        "tax return",
+        "tax break",
+        "tax rate"
+      ],
+      "note": "語塊：change tax policy（改變稅收政策）、new tax policy（新稅收政策）。tax policy 是政府的「稅務政策」；tax return 是「報稅單」；tax break 是「減稅優惠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dominate",
+      "word": "dominate",
+      "pos": "動詞",
+      "meaning": "主導；支配；佔優勢",
+      "sentences": [
+        {
+          "en": "Two large companies continue to dominate the market for home appliances in most Asian countries.",
+          "zh": "兩家大公司持續主導大多數亞洲國家的家電市場。"
+        },
+        {
+          "en": "The startup hopes to dominate the industry within five years by offering cheaper and faster delivery.",
+          "zh": "那家新創公司希望藉由更便宜、更快速的配送，在五年內稱霸產業。"
+        },
+        {
+          "en": "The chairperson reminded everyone not to dominate the conversation so that all team members could share ideas.",
+          "zh": "主席提醒大家不要主導談話，讓所有組員都能分享想法。"
+        },
+        {
+          "en": "Electric cars are expected to dominate the market for new vehicles in Europe by the year 2035.",
+          "zh": "電動車預計在 2035 年前主導歐洲的新車市場。"
+        },
+        {
+          "en": "Discussions about the budget tend to dominate every board meeting at the end of the fiscal year.",
+          "zh": "在會計年度結束時，預算的討論往往主導每一場董事會。"
+        }
+      ],
+      "distractors": [
+        "donate",
+        "nominate",
+        "eliminate"
+      ],
+      "note": "語塊：dominate the market（主導市場）、dominate the industry（稱霸產業）、dominate the conversation（主導談話）。dominate 是「佔據主導地位」；dominant 是形容詞「佔優勢的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acquire",
+      "word": "acquire",
+      "pos": "動詞",
+      "meaning": "取得；收購；學到",
+      "sentences": [
+        {
+          "en": "The technology giant announced plans to acquire a small but successful software company based in Berlin.",
+          "zh": "那家科技巨頭宣布計畫收購一家總部在柏林的小型軟體公司。"
+        },
+        {
+          "en": "Interns have the chance to acquire skills in marketing, accounting, and customer service during the summer.",
+          "zh": "實習生在夏天有機會學到行銷、會計和客服的技能。"
+        },
+        {
+          "en": "Many young people take part-time jobs to acquire experience before they apply for full-time positions.",
+          "zh": "很多年輕人在申請全職工作前先做兼職，累積經驗。"
+        },
+        {
+          "en": "The museum hopes to acquire several paintings by the famous artist with the help of private donors.",
+          "zh": "博物館希望在私人捐款者的幫助下，取得那位知名藝術家的幾幅畫作。"
+        },
+        {
+          "en": "It took the company two years to acquire all of the land needed for the new shopping center.",
+          "zh": "公司花了兩年才取得興建新購物中心所需的全部土地。"
+        }
+      ],
+      "distractors": [
+        "require",
+        "inquire",
+        "admire"
+      ],
+      "note": "語塊：acquire a company（收購公司）、acquire skills（學到技能）、acquire experience（累積經驗）。acquire 比 get 正式；名詞 acquisition 是「收購」。require（需要）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-invalid",
+      "word": "invalid",
+      "pos": "形容詞",
+      "meaning": "無效的；作廢的",
+      "sentences": [
+        {
+          "en": "Your coupon is invalid because it expired on the last day of September and cannot be used.",
+          "zh": "你的優惠券無效，因為它已經在九月最後一天過期了。"
+        },
+        {
+          "en": "If you enter an invalid password three times, your account will be locked for thirty minutes.",
+          "zh": "如果你輸入無效密碼三次，你的帳號會被鎖住三十分鐘。"
+        },
+        {
+          "en": "Passengers with an invalid ticket will be asked to purchase a new one before boarding the train.",
+          "zh": "持無效車票的乘客在上車前會被要求購買新票。"
+        },
+        {
+          "en": "The contract will become invalid if either company fails to sign it before the end of the month.",
+          "zh": "如果任何一方在月底前沒有簽約，合約就會失效。"
+        },
+        {
+          "en": "The system displayed an error message saying that the credit card number was invalid and could not be processed.",
+          "zh": "系統顯示錯誤訊息，說信用卡號碼無效，無法處理。"
+        }
+      ],
+      "distractors": [
+        "valid",
+        "invaluable",
+        "inviting"
+      ],
+      "note": "語塊：invalid ticket（無效的票）、invalid password（無效的密碼）、become invalid（失效）。invalid 是「無效的」（in-VAL-id）；唸成 IN-va-lid 時是名詞「病人、殘疾人」。valid 是「有效的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-possible",
+      "word": "possible",
+      "pos": "形容詞",
+      "meaning": "可能的；可行的",
+      "sentences": [
+        {
+          "en": "Please reply to this email as soon as possible so that we can confirm the number of guests.",
+          "zh": "請盡快回覆這封郵件，讓我們確認客人的人數。"
+        },
+        {
+          "en": "If possible, we would like to schedule the meeting for Thursday morning instead of Friday afternoon.",
+          "zh": "如果可以的話，我們想把會議排在週四早上而不是週五下午。"
+        },
+        {
+          "en": "Employees are encouraged to take public transportation to work whenever possible to reduce air pollution in the city.",
+          "zh": "公司鼓勵員工只要有可能就搭大眾運輸上班，以減少污染。"
+        },
+        {
+          "en": "The technician will try to repair the copier as soon as possible, but the parts may take a few days to arrive.",
+          "zh": "技師會盡快修好影印機，但零件可能要幾天才會到。"
+        },
+        {
+          "en": "Our goal is to keep prices as low as possible without lowering the quality of our products.",
+          "zh": "我們的目標是在不降低產品品質的情況下，讓價格盡可能壓低。"
+        }
+      ],
+      "distractors": [
+        "passable",
+        "plausible",
+        "portable"
+      ],
+      "note": "語塊：as soon as possible（盡快）、if possible（如果可以的話）、whenever possible（只要有可能）。possible 是「可能的」；probable（很可能的）可能性更高；feasible（可行的）偏「做得到」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-broadcast",
+      "word": "broadcast",
+      "pos": "動詞",
+      "meaning": "播出；廣播",
+      "sentences": [
+        {
+          "en": "The television station will broadcast live the opening ceremony of the international film festival on Friday night.",
+          "zh": "電視台將現場直播國際影展的開幕典禮。"
+        },
+        {
+          "en": "The radio program will broadcast an interview with the mayor about the new public transportation plan.",
+          "zh": "那個廣播節目將播出對市長談新大眾運輸計畫的訪問。"
+        },
+        {
+          "en": "The company plans to broadcast its annual meeting online so that shareholders around the world can watch.",
+          "zh": "公司計畫在網路上播出年度大會，讓全世界的股東都能收看。"
+        },
+        {
+          "en": "The sports network has paid a large fee to broadcast nationwide every game of the championship series this year.",
+          "zh": "那家體育電視網付了一大筆費用，今年要全國播送冠軍系列賽的每一場比賽。"
+        },
+        {
+          "en": "Local news stations broadcast weather warnings every hour while the typhoon was approaching the island.",
+          "zh": "颱風接近島嶼期間，地方新聞台每小時播出天氣警報。"
+        }
+      ],
+      "distractors": [
+        "broadband",
+        "forecast",
+        "outcast"
+      ],
+      "note": "語塊：broadcast live（現場直播）、be broadcast on（在……播出）、broadcast nationwide（全國播送）。broadcast 過去式和過去分詞還是 broadcast；名詞也是 broadcast（節目、播送）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-go-ahead",
+      "word": "go ahead",
+      "pos": "片語動詞",
+      "meaning": "進行；著手做；（許可）請便",
+      "sentences": [
+        {
+          "en": "The city council decided to go ahead with the construction of the new sports center despite some objections.",
+          "zh": "儘管有些反對，市議會還是決定進行新運動中心的興建。"
+        },
+        {
+          "en": "If the weather is good on Saturday, we will go ahead with the company picnic at the lake as planned.",
+          "zh": "如果週六天氣好，我們會照計畫在湖邊辦公司野餐。"
+        },
+        {
+          "en": "The director told the design team to go ahead and finish the new logo before the end of the week.",
+          "zh": "主任告訴設計團隊直接著手，在週末前完成新商標。"
+        },
+        {
+          "en": "Once the budget is approved, the marketing department can go ahead with the advertising campaign.",
+          "zh": "預算一核准，行銷部就可以著手進行廣告活動。"
+        },
+        {
+          "en": "The board of directors refused to go ahead with the merger after reviewing the financial reports.",
+          "zh": "看過財務報告後，董事會拒絕進行這次合併。"
+        }
+      ],
+      "distractors": [
+        "go over",
+        "go through",
+        "go along"
+      ],
+      "note": "語塊：go ahead with（著手進行）、give the go-ahead（批准）。go ahead with 是「照原計畫進行」；go on 是「繼續」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-objectionable",
+      "word": "objectionable",
+      "pos": "形容詞",
+      "meaning": "令人反感的；不恰當的",
+      "sentences": [
+        {
+          "en": "The website removes any objectionable content that is posted in the comments section below each article.",
+          "zh": "網站會刪除每篇文章下方留言區張貼的任何令人反感的內容。"
+        },
+        {
+          "en": "Several viewers complained about objectionable language in the television commercial that aired on Channel 5 last night.",
+          "zh": "好幾位觀眾抱怨昨晚播出的電視廣告裡有不雅的言語。"
+        },
+        {
+          "en": "The magazine decided not to publish the photograph because many readers might find it objectionable.",
+          "zh": "雜誌決定不刊登那張照片，因為很多讀者可能會覺得反感。"
+        },
+        {
+          "en": "Employees who use objectionable language with customers will receive a written warning from their manager.",
+          "zh": "對顧客使用不雅言語的員工會收到經理的書面警告。"
+        },
+        {
+          "en": "Parents can use special settings to block objectionable content on the tablets that their children use.",
+          "zh": "家長可以用特殊設定，封鎖孩子使用的平板上令人反感的內容。"
+        }
+      ],
+      "distractors": [
+        "objective",
+        "obtainable",
+        "observable"
+      ],
+      "note": "語塊：objectionable content（令人反感的內容）、objectionable language（不雅的言語）。objectionable 是「令人反對、討厭的」；offensive 意思接近；objective（客觀的；目標）長得像，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suggestive",
+      "word": "suggestive",
+      "pos": "形容詞",
+      "meaning": "暗示的；引人聯想的",
+      "sentences": [
+        {
+          "en": "The bright colors in the hotel lobby are suggestive of a tropical beach, which makes guests feel relaxed.",
+          "zh": "飯店大廳明亮的顏色讓人聯想到熱帶海灘，讓客人覺得放鬆。"
+        },
+        {
+          "en": "The rise in online orders is suggestive of a trend toward shopping from home rather than visiting stores.",
+          "zh": "網路訂單增加，顯示大家越來越傾向在家購物而不是逛實體店。"
+        },
+        {
+          "en": "The name of the new perfume is suggestive of fresh flowers and early spring mornings.",
+          "zh": "那款新香水的名字讓人聯想到鮮花和初春的早晨。"
+        },
+        {
+          "en": "Some critics felt that the advertisement was too suggestive for a product aimed at young children.",
+          "zh": "有些評論者覺得那支廣告對於針對幼童的產品來說太有暗示性了。"
+        },
+        {
+          "en": "The drop in sales last month may be suggestive of a larger problem with the company's pricing strategy.",
+          "zh": "上個月的銷售下滑可能暗示公司的定價策略有更大的問題。"
+        }
+      ],
+      "distractors": [
+        "suggested",
+        "digestive",
+        "successive"
+      ],
+      "note": "語塊：be suggestive of（讓人聯想到）、suggestive of a trend（顯示某種趨勢）。suggestive of 是「讓人想到、暗示」；也可以指「有性暗示的」，用在商務時要小心。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-complaint",
+      "word": "complaint",
+      "pos": "名詞",
+      "meaning": "抱怨；投訴",
+      "sentences": [
+        {
+          "en": "Guests who wish to file a complaint should speak with the hotel manager at the front desk.",
+          "zh": "想提出投訴的房客請到櫃台找飯店經理。"
+        },
+        {
+          "en": "The restaurant received a complaint about the noise from its outdoor seating area late at night.",
+          "zh": "那家餐廳接到投訴，說深夜戶外座位區太吵。"
+        },
+        {
+          "en": "Every customer complaint is recorded in our system and answered by our staff within two business days.",
+          "zh": "每一則顧客投訴都會記錄在我們的系統裡，並在兩個工作天內回覆。"
+        },
+        {
+          "en": "After receiving a complaint from a tenant, the landlord sent a plumber to fix the leaking pipe.",
+          "zh": "接到房客的投訴後，房東派了水電工去修漏水的水管。"
+        },
+        {
+          "en": "The airline has improved its baggage service in order to reduce the number of complaint calls it receives.",
+          "zh": "航空公司改善了行李服務，以減少接到的投訴電話數量。"
+        }
+      ],
+      "distractors": [
+        "compliment",
+        "complement",
+        "compliance"
+      ],
+      "note": "語塊：file a complaint（提出投訴）、receive a complaint（接到投訴）、customer complaint（顧客投訴）。complaint 是名詞；complain 是動詞（complain about）；compliment（讚美）長得像，意思相反。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-response-to",
+      "word": "in response to",
+      "pos": "其他",
+      "meaning": "回應；因應",
+      "sentences": [
+        {
+          "en": "The bakery now opens at six in the morning in response to requests from commuters.",
+          "zh": "因應通勤族的要求，那家麵包店現在早上六點就開門。"
+        },
+        {
+          "en": "In response to demand from customers, the store has extended its opening hours on weekends.",
+          "zh": "因應顧客的需求，那家店延長了週末的營業時間。"
+        },
+        {
+          "en": "The software company released an update in response to feedback from users about the slow loading time.",
+          "zh": "那家軟體公司因應使用者對讀取速度慢的意見，推出了更新。"
+        },
+        {
+          "en": "The city added more buses to the airport route in response to the growing number of travelers.",
+          "zh": "市政府因應旅客人數增加，在機場路線上加開了公車。"
+        },
+        {
+          "en": "In response to feedback from employees, the company will offer more flexible working hours next year.",
+          "zh": "回應員工的意見，公司明年將提供更有彈性的工作時間。"
+        }
+      ],
+      "distractors": [
+        "in addition to",
+        "in regard to",
+        "in contrast to"
+      ],
+      "note": "語塊：in response to requests（回應要求）、in response to demand（因應需求）、in response to feedback（回應意見）。in response to + 名詞，表示「為了回應……」；as a response to 意思相同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
