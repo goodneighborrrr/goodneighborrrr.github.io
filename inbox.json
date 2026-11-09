@@ -43838,6 +43838,706 @@
       ],
       "note": "語塊：make reference to（提及……）。make reference to 比 mention 正式；refer to 意思相同；reference 是名詞「參考」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reflect",
+      "word": "reflect",
+      "pos": "動詞",
+      "meaning": "反映；反射；反思",
+      "sentences": [
+        {
+          "en": "The new prices reflect the rising cost of materials and transportation over the past year.",
+          "zh": "新價格反映了過去一年材料和運輸成本的上漲。"
+        },
+        {
+          "en": "Please take some time to reflect on what went well and what could be improved after the project.",
+          "zh": "專案結束後，請花點時間反思哪些地方做得好、哪些可以改進。"
+        },
+        {
+          "en": "The report will reflect the changes that were made to the budget at last week's meeting.",
+          "zh": "報告會反映上週會議對預算所做的修改。"
+        },
+        {
+          "en": "The growing number of customers who return every year seems to reflect the success of our new service.",
+          "zh": "每年回購的顧客越來越多，似乎反映出我們新服務的成功。"
+        },
+        {
+          "en": "The large windows reflect the sunlight, which keeps the inside of the building cool in summer.",
+          "zh": "大窗戶會反射陽光，讓建築內部在夏天保持涼爽。"
+        }
+      ],
+      "distractors": [
+        "deflect",
+        "refract",
+        "neglect"
+      ],
+      "note": "語塊：reflect on（反思……）、reflect the changes（反映變化）、reflect the success（反映成功）。reflect 可以是「反映」或「反射（光）」；reflection 是名詞「倒影；反思」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suspend",
+      "word": "suspend",
+      "pos": "動詞",
+      "meaning": "暫停；中止；停職",
+      "sentences": [
+        {
+          "en": "The airline decided to suspend service to the island until the damage from the storm is repaired.",
+          "zh": "航空公司決定暫停飛往那座島的服務，直到暴風雨的損害修復為止。"
+        },
+        {
+          "en": "The factory will suspend production for two weeks while new machines are installed and tested.",
+          "zh": "安裝新機器期間，工廠將暫停生產兩週。"
+        },
+        {
+          "en": "The bank may suspend your account if it notices any unusual activity, so please check your email.",
+          "zh": "如果銀行發現任何異常活動，可能會暫停你的帳戶，所以請查看你的電子郵件。"
+        },
+        {
+          "en": "The city had to suspend train service on the northern line because of problems with the tracks.",
+          "zh": "因為軌道出問題，市政府只好暫停北線的列車服務。"
+        },
+        {
+          "en": "The company will suspend the sale of the product until the safety problem has been solved.",
+          "zh": "公司會暫停販售那項產品，直到安全問題解決為止。"
+        }
+      ],
+      "distractors": [
+        "suspect",
+        "spend",
+        "suspense"
+      ],
+      "note": "語塊：suspend service（暫停服務）、suspend production（暫停生產）、be suspended from（被停職）。suspend 是「暫時停止」；suspension 是名詞；cancel 是「取消」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assistance",
+      "word": "assistance",
+      "pos": "名詞",
+      "meaning": "協助；幫助",
+      "sentences": [
+        {
+          "en": "If you need assistance with your luggage, please ask a member of our staff at the front desk.",
+          "zh": "如果你需要協助搬行李，請找櫃台的工作人員。"
+        },
+        {
+          "en": "The government will provide financial assistance to families who lost their homes in the flood.",
+          "zh": "政府將為在水災中失去家園的家庭提供經濟援助。"
+        },
+        {
+          "en": "Please do not hesitate to ask for assistance if you have any problems with the new software.",
+          "zh": "如果你使用新軟體有任何問題，請不要猶豫，儘管尋求協助。"
+        },
+        {
+          "en": "The volunteers provide assistance to elderly people who need help with shopping, cooking, and cleaning.",
+          "zh": "志工為需要幫忙購物和打掃的長者提供協助。"
+        },
+        {
+          "en": "Students who need financial assistance can apply for a scholarship before the end of March.",
+          "zh": "需要經濟援助的學生可以在三月底前申請獎學金。"
+        }
+      ],
+      "distractors": [
+        "assistant",
+        "assurance",
+        "resistance"
+      ],
+      "note": "語塊：ask for assistance（請求協助）、provide assistance（提供協助）、financial assistance（經濟援助）。assistance 是不可數名詞；assistant 是「助理（人）」；assist 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-duplicate",
+      "word": "duplicate",
+      "pos": "動詞",
+      "meaning": "複製；重複",
+      "sentences": [
+        {
+          "en": "Please do not duplicate any confidential documents without written permission from your manager or the director.",
+          "zh": "未經經理許可，請不要複製任何機密文件。"
+        },
+        {
+          "en": "The two departments should work together so that they do not duplicate efforts on the same project.",
+          "zh": "兩個部門應該合作，以免在同一個專案上重複做工。"
+        },
+        {
+          "en": "The store can duplicate your key in five minutes while you wait at the counter.",
+          "zh": "那家店可以在你在櫃台等候時，五分鐘內幫你打一把備份鑰匙。"
+        },
+        {
+          "en": "The new software will duplicate the files automatically so that nothing is lost if a computer breaks.",
+          "zh": "新軟體會自動複製檔案，這樣電腦壞掉時也不會遺失任何東西。"
+        },
+        {
+          "en": "It is difficult to duplicate the success of the first product, but the team is working hard to do so.",
+          "zh": "要複製第一項產品的成功很難，但團隊正努力這麼做。"
+        }
+      ],
+      "distractors": [
+        "dedicate",
+        "deplete",
+        "duplex"
+      ],
+      "note": "語塊：duplicate a document（複製文件）、duplicate efforts（重複做工）、duplicate your key（打備份鑰匙）、duplicate the files（複製檔案）、duplicate the success（複製成功）。duplicate 可以當動詞「複製」或名詞「副本」；a duplicate key 是「備份鑰匙」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-return",
+      "word": "return",
+      "pos": "動詞",
+      "meaning": "歸還；退回；返回",
+      "sentences": [
+        {
+          "en": "Customers can return a product within thirty days if they are not satisfied with it.",
+          "zh": "顧客如果不滿意，可以在三十天內退貨。"
+        },
+        {
+          "en": "Please return the borrowed equipment to the IT department before you leave for the weekend on Friday.",
+          "zh": "週五離開前，請把借用的設備歸還資訊部。"
+        },
+        {
+          "en": "Ms. Lee will return to the office on Monday after attending the conference in Tokyo.",
+          "zh": "李小姐參加完東京的研討會後，週一會回到辦公室。"
+        },
+        {
+          "en": "I am sorry I missed your phone call this morning, and I will return a call as soon as possible.",
+          "zh": "很抱歉我今天早上錯過你的電話，我會盡快回電。"
+        },
+        {
+          "en": "Library books must be returned within two weeks, and members who return them late must pay a fine.",
+          "zh": "圖書館的書必須在兩週內歸還，逾期歸還的會員必須繳罰款。"
+        }
+      ],
+      "distractors": [
+        "retain",
+        "retire",
+        "turn"
+      ],
+      "note": "語塊：return a product（退貨）、return to（回到……）、return a call（回電）。return 本身就是「回去、歸還」，不要說 return back；returnable 是「可退回的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-name",
+      "word": "name",
+      "pos": "動詞",
+      "meaning": "命名；任命；說出名字",
+      "sentences": [
+        {
+          "en": "The city plans to name the new library after the author who donated money to build it.",
+          "zh": "市政府打算以捐款興建新圖書館的那位作家為它命名。"
+        },
+        {
+          "en": "The board decided to name Ms. Park as the new director of the marketing department.",
+          "zh": "董事會決定任命朴小姐為行銷部的新總監。"
+        },
+        {
+          "en": "The seller refused to name a price until he had seen the condition of the car.",
+          "zh": "賣家在看到車子的狀況之前拒絕開價。"
+        },
+        {
+          "en": "The magazine will name the best restaurant in the city in its special issue next month.",
+          "zh": "那本雜誌將在下個月的特刊中選出城裡最好的餐廳。"
+        },
+        {
+          "en": "The company plans to name its new product after the small village where its founder was born.",
+          "zh": "公司打算以創辦人出生的小村莊為新產品命名。"
+        }
+      ],
+      "distractors": [
+        "nail",
+        "same",
+        "fame"
+      ],
+      "note": "語塊：name A after B（以 B 為 A 命名）、be named as（被任命為）、name a price（開價）。name 當動詞是「命名」或「任命」；name after 是「以……命名」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-found",
+      "word": "found",
+      "pos": "動詞",
+      "meaning": "創立；建立",
+      "sentences": [
+        {
+          "en": "Mr. Lopez decided to found a company that helps small farms sell their products online.",
+          "zh": "Lopez 先生決定創立一家幫助小農場在網路上賣產品的公司。"
+        },
+        {
+          "en": "The two friends plan to found a design studio together after they graduate from university.",
+          "zh": "那兩位朋友打算大學畢業後一起創立一間設計工作室。"
+        },
+        {
+          "en": "The wealthy family wants to found a museum that will display the paintings they collected from around the world.",
+          "zh": "那個富裕家族想創立一座博物館，展示他們從世界各地收藏的畫作。"
+        },
+        {
+          "en": "Ms. Kim used her savings to found a school that teaches computer skills to elderly people.",
+          "zh": "金小姐用她的積蓄創立了一所教長者電腦技能的學校。"
+        },
+        {
+          "en": "It takes a lot of courage to found a company in a small garage and grow it into a global business.",
+          "zh": "在小車庫創立公司並把它發展成全球企業，需要很大的勇氣。"
+        }
+      ],
+      "distractors": [
+        "find",
+        "fund",
+        "pound"
+      ],
+      "note": "語塊：found a company（創立公司）、found a school（創立學校）。found 當「創立」時是規則動詞（found-founded-founded）；別和 find 的過去式 found 搞混；founder 是「創辦人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reject",
+      "word": "reject",
+      "pos": "動詞",
+      "meaning": "拒絕；否決",
+      "sentences": [
+        {
+          "en": "The board decided to reject the proposal because the costs were much higher than expected.",
+          "zh": "董事會決定否決那份提案，因為成本比預期高很多。"
+        },
+        {
+          "en": "Ms. Lee chose to reject the offer from the bank because she wanted to stay at her current company.",
+          "zh": "李小姐選擇拒絕那家銀行的邀約，因為她想留在現在的公司。"
+        },
+        {
+          "en": "The bank may reject an application for a loan if the applicant does not have a stable income.",
+          "zh": "如果申請人沒有穩定收入，銀行可能會駁回貸款申請。"
+        },
+        {
+          "en": "The factory will reject any parts that do not meet its quality standards and return them to the supplier.",
+          "zh": "工廠會拒收任何不符合品質標準的零件，並退回給供應商。"
+        },
+        {
+          "en": "The city council voted to reject the plan to build a shopping center next to the old park.",
+          "zh": "市議會投票否決了在老公園旁蓋購物中心的計畫。"
+        }
+      ],
+      "distractors": [
+        "eject",
+        "inject",
+        "project"
+      ],
+      "note": "語塊：reject a proposal（否決提案）、reject an offer（拒絕提議）、reject an application（駁回申請）。reject 比 refuse 更正式，常用在提案、申請；rejection 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convene",
+      "word": "convene",
+      "pos": "動詞",
+      "meaning": "召開；召集",
+      "sentences": [
+        {
+          "en": "The chairman will convene a meeting of the board next week to discuss the merger.",
+          "zh": "主席下週將召開董事會會議討論合併。"
+        },
+        {
+          "en": "The city decided to convene a committee to study the problem of traffic in the downtown area.",
+          "zh": "市政府決定召集一個委員會研究市中心的交通問題。"
+        },
+        {
+          "en": "The organizers will convene the conference in Singapore because it is easy to reach from many countries.",
+          "zh": "主辦單位將在新加坡召開研討會，因為從很多國家都很容易抵達。"
+        },
+        {
+          "en": "The manager plans to convene a meeting of all department heads on Friday morning in the main office.",
+          "zh": "經理打算週五早上召集所有部門主管開會。"
+        },
+        {
+          "en": "The committee will convene again next month to review the results of the new program.",
+          "zh": "委員會將在下個月再次召開，檢討新計畫的成果。"
+        }
+      ],
+      "distractors": [
+        "convenient",
+        "convince",
+        "intervene"
+      ],
+      "note": "語塊：convene a meeting（召開會議）、convene a committee（召集委員會）。convene 是「正式召集（會議）」；convention 是名詞「大會」；convenient 是「方便的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-combine",
+      "word": "combine",
+      "pos": "動詞",
+      "meaning": "結合；合併",
+      "sentences": [
+        {
+          "en": "The new design will combine traditional materials with modern technology to create a unique building.",
+          "zh": "新設計將結合傳統材料和現代科技，打造一棟獨特的建築。"
+        },
+        {
+          "en": "The two companies decided to combine forces in order to compete with larger firms in the market.",
+          "zh": "兩家公司決定聯手，和市場上更大的公司競爭。"
+        },
+        {
+          "en": "The course will combine online lessons with practice sessions at the main office every Friday.",
+          "zh": "這門課將結合線上課程和每週五在辦公室的實作課。"
+        },
+        {
+          "en": "Many travelers combine a business trip with a short vacation so that they can see more of the country.",
+          "zh": "很多旅客把出差和短暫的假期結合在一起，好多看看那個國家。"
+        },
+        {
+          "en": "The restaurant's new menu will combine dishes from Japan and Italy in creative and delicious ways.",
+          "zh": "那家餐廳的新菜單將以創意的方式結合日本和義大利的料理。"
+        }
+      ],
+      "distractors": [
+        "comb",
+        "combat",
+        "compile"
+      ],
+      "note": "語塊：combine A with B（把 A 和 B 結合）、combine forces（聯手）。combine 是「把兩個以上的東西放在一起」；combination 是名詞「組合」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-witness",
+      "word": "witness",
+      "pos": "動詞",
+      "meaning": "目睹；見證",
+      "sentences": [
+        {
+          "en": "Visitors to the old town can witness a traditional festival every spring, when the streets are filled with music.",
+          "zh": "到老城區的遊客每年春天都能親眼看到傳統慶典，那時街上充滿音樂。"
+        },
+        {
+          "en": "Anyone who saw or might witness an accident on the highway should report it to the police immediately.",
+          "zh": "任何在公路上看到或目睹事故的人都應該立刻向警方通報。"
+        },
+        {
+          "en": "Over the past decade, the city has been able to witness a big change in the way people travel to work.",
+          "zh": "過去十年，這座城市見證了人們通勤方式的巨大改變。"
+        },
+        {
+          "en": "Visitors to the factory can witness every step of the process used to make the famous chocolate.",
+          "zh": "參觀工廠的遊客可以親眼看到製作那款知名巧克力的每一個步驟。"
+        },
+        {
+          "en": "Many people traveled to the coast to witness the launch of the new ship on Saturday morning.",
+          "zh": "很多人前往海岸，見證週六早上新船的下水典禮。"
+        }
+      ],
+      "distractors": [
+        "witless",
+        "wickedness",
+        "fitness"
+      ],
+      "note": "語塊：witness an accident（目擊事故）、witness a change（見證改變）、witness every step（親眼看到每一個步驟）、witness the launch（見證下水／發表）、witness a traditional festival（親眼看到傳統慶典）。witness 可以當動詞「目睹」或名詞「目擊者；證人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specified",
+      "word": "specified",
+      "pos": "形容詞",
+      "meaning": "指定的；明確規定的",
+      "sentences": [
+        {
+          "en": "Please deliver the furniture on the specified date, as no one will be at home on other days.",
+          "zh": "請在指定日期送家具過來，因為其他日子家裡沒人。"
+        },
+        {
+          "en": "All work must be completed as specified in the contract, including the type of materials used.",
+          "zh": "所有工作都必須依照合約規定完成，包括所使用的材料種類。"
+        },
+        {
+          "en": "Unless otherwise specified, all prices on our website include tax and free delivery to your home.",
+          "zh": "除非另有規定，我們網站上的所有價格都含稅和免運費。"
+        },
+        {
+          "en": "The package will arrive within the specified time, so please make sure someone is there to receive it.",
+          "zh": "包裹會在指定時間內送達，所以請確定有人在場簽收。"
+        },
+        {
+          "en": "The building was designed as specified by the client, with large windows and an open kitchen.",
+          "zh": "那棟建築依照客戶的規定設計，有大窗戶和開放式廚房。"
+        }
+      ],
+      "distractors": [
+        "specific",
+        "specialized",
+        "satisfied"
+      ],
+      "note": "語塊：specified date（指定日期）、unless otherwise specified（除非另有規定）、as specified（依照規定）。specified 是「被明確指定的」；specify 是動詞；specific 是「具體的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-merchandise",
+      "word": "merchandise",
+      "pos": "名詞",
+      "meaning": "商品；貨品",
+      "sentences": [
+        {
+          "en": "The store will display new merchandise in its windows every month to attract more customers.",
+          "zh": "那家店每個月都會在櫥窗陳列新商品，吸引更多顧客。"
+        },
+        {
+          "en": "Customers who receive damaged merchandise can return it within thirty days for a full refund.",
+          "zh": "收到損壞商品的顧客可以在三十天內退貨並全額退款。"
+        },
+        {
+          "en": "The museum shop sells merchandise such as books, posters, and cups with famous paintings on them.",
+          "zh": "博物館商店販售印有名畫的書、海報和杯子等商品。"
+        },
+        {
+          "en": "The company plans to sell merchandise online as well as in its stores starting next month.",
+          "zh": "公司計畫從下個月起除了門市之外也在網路上販售商品。"
+        },
+        {
+          "en": "All merchandise in the store will be fifty percent off during the closing sale this weekend.",
+          "zh": "這個週末結束營業特賣期間，店裡所有商品都打五折。"
+        }
+      ],
+      "distractors": [
+        "merchant",
+        "mercenary",
+        "marchioness"
+      ],
+      "note": "語塊：sell merchandise（販售商品）、display merchandise（陳列商品）、damaged merchandise（損壞的商品）。merchandise 是不可數名詞（商品總稱）；merchant 是「商人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-speculate",
+      "word": "speculate",
+      "pos": "動詞",
+      "meaning": "推測；臆測；投機",
+      "sentences": [
+        {
+          "en": "Many analysts speculate that the two companies will announce a merger at some point later this year.",
+          "zh": "很多分析師推測兩家公司今年稍晚會宣布合併。"
+        },
+        {
+          "en": "Reporters continued to speculate about the reasons for the CEO's sudden resignation last Friday afternoon.",
+          "zh": "記者持續推測執行長突然辭職的原因。"
+        },
+        {
+          "en": "It is too early to speculate about how the new law will affect small businesses in the region.",
+          "zh": "現在推測新法律會如何影響該地區的小企業還太早。"
+        },
+        {
+          "en": "Some people speculate that housing prices will fall next year because interest rates are rising.",
+          "zh": "有些人猜測明年房價會下跌，因為利率正在上升。"
+        },
+        {
+          "en": "The manager asked the staff not to speculate about the changes until the official announcement.",
+          "zh": "經理要求員工在正式宣布之前不要臆測會有什麼變動。"
+        }
+      ],
+      "distractors": [
+        "specialize",
+        "stimulate",
+        "spectate"
+      ],
+      "note": "語塊：speculate about（推測……）、speculate that（猜測……）。speculate 是「沒有確定的根據就猜」；speculation 是名詞；guess 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-travel-agent",
+      "word": "travel agent",
+      "pos": "名詞",
+      "meaning": "旅行社業務；旅遊代辦",
+      "sentences": [
+        {
+          "en": "Many people still book their vacations through a travel agent because it saves them time.",
+          "zh": "很多人還是透過旅行社業務預訂假期，因為比較省時間。"
+        },
+        {
+          "en": "If you would like help planning your trip to Japan, please contact a travel agent at our office.",
+          "zh": "如果你想有人幫忙規劃日本之旅，請聯絡我們辦公室的旅行社業務。"
+        },
+        {
+          "en": "The travel agent found a hotel near the beach that was much cheaper than the ones we found online.",
+          "zh": "旅行社業務找到一家海邊的飯店，比我們在網路上找到的便宜很多。"
+        },
+        {
+          "en": "Ms. Lee worked as a travel agent for ten years before she started her own tour company.",
+          "zh": "李小姐當了十年旅行社業務，之後自己開了一家旅遊公司。"
+        },
+        {
+          "en": "The company uses a travel agent to book flights and hotels for employees who go on business trips.",
+          "zh": "公司透過旅行社業務為出差的員工訂機票和飯店。"
+        }
+      ],
+      "distractors": [
+        "real estate agent",
+        "travel agency",
+        "travel guide"
+      ],
+      "note": "語塊：contact a travel agent（聯絡旅行社）、book through a travel agent（透過旅行社預訂）、the travel agent found（旅行社業務找到了）、uses a travel agent（請旅行社業務）、work as a travel agent（擔任旅行社業務）。travel agent 是「幫人安排旅行的人」；travel agency 是「旅行社（公司）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-characterize",
+      "word": "characterize",
+      "pos": "動詞",
+      "meaning": "描述……的特徵；以……為特色",
+      "sentences": [
+        {
+          "en": "Most employees characterize the new manager as friendly, patient, and very well organized in her work.",
+          "zh": "大部分員工形容新經理親切、有耐心又很有條理。"
+        },
+        {
+          "en": "Most visitors characterize the city as a place with narrow streets, small shops, and very old buildings.",
+          "zh": "大部分遊客形容這座城市有狹窄的街道、小商店和非常古老的建築。"
+        },
+        {
+          "en": "Critics characterize the new restaurant as one of the most creative places to eat in the city.",
+          "zh": "評論家形容那家新餐廳是城裡最有創意的用餐地點之一。"
+        },
+        {
+          "en": "Customers usually characterize our company as reliable because of its excellent service and high-quality products.",
+          "zh": "顧客通常形容我們公司很可靠，因為服務優質、產品品質高。"
+        },
+        {
+          "en": "How would you characterize the relationship between the sales team and the marketing team at your office?",
+          "zh": "你會如何描述業務團隊和行銷團隊之間的關係？"
+        }
+      ],
+      "distractors": [
+        "categorize",
+        "caricature",
+        "criticize"
+      ],
+      "note": "語塊：characterize as（形容為……）、characterize the relationship（描述關係）、characterize the city（描述城市）。characterize 是「描述特點」或「是……的特徵」；character 是「特性；角色」；characteristic 是「特徵」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-promotion",
+      "word": "promotion",
+      "pos": "名詞",
+      "meaning": "升遷；促銷",
+      "sentences": [
+        {
+          "en": "Ms. Park received a promotion to senior manager after five years of excellent work at the company.",
+          "zh": "朴小姐在公司表現優秀五年後，獲得升遷成為資深經理。"
+        },
+        {
+          "en": "The store is running a special promotion this week, with free gifts for customers who spend over fifty dollars.",
+          "zh": "那家店這週有特別促銷，消費超過五十美元的顧客可以拿到免費禮物。"
+        },
+        {
+          "en": "The sales promotion helped the company sell all of its winter clothing before the end of the season.",
+          "zh": "促銷活動幫助公司在季末前賣光了所有冬季服飾。"
+        },
+        {
+          "en": "Employees who complete the leadership course may be considered for a promotion at the end of next year.",
+          "zh": "完成領導力課程的員工明年可能會被考慮升遷。"
+        },
+        {
+          "en": "The restaurant's new promotion offers a free dessert to every customer who orders a main dish.",
+          "zh": "那家餐廳的新促銷活動為每位點主餐的顧客招待一份免費甜點。"
+        }
+      ],
+      "distractors": [
+        "commotion",
+        "emotion",
+        "motion"
+      ],
+      "note": "語塊：get a promotion（獲得升遷）、sales promotion（促銷活動）、special promotion（特別促銷）、considered for a promotion（被考慮升遷）、new promotion（新促銷活動）。promotion 有「升職」和「促銷」兩個意思；promote 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renovation",
+      "word": "renovation",
+      "pos": "名詞",
+      "meaning": "整修；翻新",
+      "sentences": [
+        {
+          "en": "The hotel lobby is currently under renovation, so guests should use the side entrance this month.",
+          "zh": "飯店大廳目前正在整修，所以客人這個月請使用側門。"
+        },
+        {
+          "en": "The renovation of the old train station will take about two years and cost several million dollars.",
+          "zh": "舊火車站的整修大約需要兩年，花費好幾百萬美元。"
+        },
+        {
+          "en": "Renovation work on the third floor may be noisy, so please close the doors to your offices.",
+          "zh": "三樓的整修工程可能會很吵，所以請關上辦公室的門。"
+        },
+        {
+          "en": "The museum will reopen next month after it completes the renovation of its main exhibition hall.",
+          "zh": "博物館完成主展廳的翻修後，將在下個月重新開放。"
+        },
+        {
+          "en": "The renovation of the kitchen included new cabinets, a larger refrigerator, and much better lighting.",
+          "zh": "廚房的翻修包括新櫥櫃、更大的冰箱和更好的照明。"
+        }
+      ],
+      "distractors": [
+        "innovation",
+        "reservation",
+        "restoration"
+      ],
+      "note": "語塊：under renovation（整修中）、complete the renovation（完成翻修）、renovation work（整修工程）。renovation 是名詞；renovate 是動詞「翻新」；innovation 是「創新」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-extensive",
+      "word": "extensive",
+      "pos": "形容詞",
+      "meaning": "廣泛的；大規模的",
+      "sentences": [
+        {
+          "en": "Mr. Kim has extensive experience in international trade and speaks four different languages very fluently.",
+          "zh": "金先生在國際貿易方面經驗豐富，能流利說四種語言。"
+        },
+        {
+          "en": "The company did extensive research before deciding to open a new store in the city center.",
+          "zh": "公司在決定於市中心開新店之前做了廣泛的研究。"
+        },
+        {
+          "en": "The storm caused extensive damage to buildings along the coast, and many roads were closed.",
+          "zh": "暴風雨對海岸沿線的建築造成大面積的損害，很多道路封閉了。"
+        },
+        {
+          "en": "The library has an extensive collection of books about history, art, science, and travel for all ages.",
+          "zh": "那座圖書館有大量關於歷史、藝術和科學的藏書。"
+        },
+        {
+          "en": "The hotel offers an extensive breakfast menu with dishes from Asia, Europe, and North America.",
+          "zh": "飯店提供豐富的早餐菜單，有來自亞洲、歐洲和北美的料理。"
+        }
+      ],
+      "distractors": [
+        "intensive",
+        "expensive",
+        "expansive"
+      ],
+      "note": "語塊：extensive experience（豐富的經驗）、extensive research（廣泛的研究）、extensive damage（大面積的損害）。extensive 是「範圍很大、很廣」；intensive 是「密集的」；extend 是動詞「延伸」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-facade",
+      "word": "facade",
+      "pos": "名詞",
+      "meaning": "（建築物的）正面；外觀",
+      "sentences": [
+        {
+          "en": "The old facade of the theater was carefully restored to look exactly as it did one hundred years ago.",
+          "zh": "劇院的舊正面被仔細修復成和一百年前一模一樣。"
+        },
+        {
+          "en": "The new hotel has a glass facade that reflects the mountains and the lake in front of it.",
+          "zh": "新飯店有一面玻璃正面，反射出前方的山和湖。"
+        },
+        {
+          "en": "Workers will clean and paint the facade of the building during the summer, so please use the back door.",
+          "zh": "工人夏天會清潔並粉刷大樓正面，所以請走後門。"
+        },
+        {
+          "en": "The city requires owners to keep the historic facade of their buildings when they renovate them.",
+          "zh": "市政府要求屋主翻修時保留建築的歷史正面。"
+        },
+        {
+          "en": "The architect designed a modern facade for the museum, but the inside still looks very traditional.",
+          "zh": "建築師為博物館設計了現代的外觀，但內部看起來仍然非常傳統。"
+        }
+      ],
+      "distractors": [
+        "cascade",
+        "arcade",
+        "decade"
+      ],
+      "note": "語塊：building facade（建築正面）、restore the facade（修復正面外觀）。facade 是建築物「正面的外牆」，也可以比喻「表面的假象」；也寫作 façade。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
