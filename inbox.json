@@ -81568,6 +81568,706 @@
       ],
       "note": "語塊：rehearse a speech（排練演講）、rehearse for（為……排練）。rehearse 是「正式表演或演講前先練習」；rehearsal 是名詞「排練」；practice 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-technical",
+      "word": "technical",
+      "pos": "形容詞",
+      "meaning": "技術的；專業的",
+      "sentences": [
+        {
+          "en": "Please call our technical support team if you have any problems installing the new software on your computer.",
+          "zh": "如果安裝新軟體時遇到任何問題，請打電話給我們的技術支援團隊。"
+        },
+        {
+          "en": "The flight was delayed for two hours because of a technical problem with one of the engines.",
+          "zh": "因為其中一具引擎有技術問題，班機延誤了兩小時。"
+        },
+        {
+          "en": "Applicants for the engineering position must have strong technical skills and at least five years of experience.",
+          "zh": "應徵工程職位的人必須有很強的技術能力和至少五年經驗。"
+        },
+        {
+          "en": "The meeting was stopped for ten minutes because of a technical problem with the projector.",
+          "zh": "會議因為投影機的技術問題暫停了十分鐘。"
+        },
+        {
+          "en": "The company offers free technical support twenty-four hours a day to every customer who buys a laptop.",
+          "zh": "公司為每位買筆電的顧客提供二十四小時免費技術支援。"
+        }
+      ],
+      "distractors": [
+        "technique",
+        "tactical",
+        "typical"
+      ],
+      "note": "語塊：technical support（技術支援）、technical problem（技術問題）、technical skills（技術能力）。technical 是「和技術有關的」；technique 是「技巧」；technician 是「技術人員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-promise",
+      "word": "promise",
+      "pos": "動詞",
+      "meaning": "承諾；答應",
+      "sentences": [
+        {
+          "en": "The manager will promise to look into the problem and call the customer back before the end of the day.",
+          "zh": "經理會答應調查這個問題，並在今天下班前回電給顧客。"
+        },
+        {
+          "en": "Good leaders always keep a promise to their team, so employees trust them completely and work harder.",
+          "zh": "好的領導者總是遵守對團隊的承諾，所以員工完全信任他們，也更努力工作。"
+        },
+        {
+          "en": "The company will promise free delivery for all orders over fifty dollars during the holiday season.",
+          "zh": "公司將在假期期間承諾所有超過五十元的訂單都免運費。"
+        },
+        {
+          "en": "If you break a promise to a client, it can be very difficult to win back their trust.",
+          "zh": "如果你違背對客戶的承諾，就很難再贏回他們的信任。"
+        },
+        {
+          "en": "The mayor will promise to build more affordable housing for young families in the city.",
+          "zh": "市長將承諾為市內年輕家庭興建更多平價住宅。"
+        }
+      ],
+      "distractors": [
+        "premise",
+        "compromise",
+        "promote"
+      ],
+      "note": "語塊：promise to do（承諾做……）、keep a promise（遵守承諾）、break a promise（違背承諾）。promise 可以當動詞或名詞「承諾」；promising 是形容詞「有前途的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-urban",
+      "word": "urban",
+      "pos": "形容詞",
+      "meaning": "都市的；城市的",
+      "sentences": [
+        {
+          "en": "More than half of the country's population now lives in urban areas, especially near the capital.",
+          "zh": "現在全國一半以上的人口住在都市地區，特別是首都附近。"
+        },
+        {
+          "en": "Ms. Chen studied urban planning at university, and now she designs parks and streets for the city.",
+          "zh": "陳小姐大學念都市計畫，現在為市政府設計公園和街道。"
+        },
+        {
+          "en": "Many young people enjoy urban life because there are more jobs, restaurants, and entertainment than in small towns.",
+          "zh": "很多年輕人喜歡都市生活，因為工作、餐廳和娛樂都比小鎮多。"
+        },
+        {
+          "en": "Air pollution is a serious problem in many urban areas, so the government is encouraging electric buses.",
+          "zh": "空氣污染在很多都市地區是嚴重問題，所以政府鼓勵使用電動公車。"
+        },
+        {
+          "en": "The conference will focus on urban planning and how cities can become greener and safer.",
+          "zh": "研討會將聚焦都市計畫，以及城市如何變得更環保、更安全。"
+        }
+      ],
+      "distractors": [
+        "rural",
+        "suburban",
+        "urbane"
+      ],
+      "note": "語塊：urban area（都市地區）、urban planning（都市計畫）、urban life（都市生活）。urban 是「城市的」；rural 是相反「鄉村的」；suburban 是「郊區的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-announcement",
+      "word": "announcement",
+      "pos": "名詞",
+      "meaning": "宣布；公告",
+      "sentences": [
+        {
+          "en": "The CEO will make an announcement about the new factory at the press conference tomorrow morning.",
+          "zh": "執行長明天早上會在記者會上宣布新工廠的消息。"
+        },
+        {
+          "en": "Passengers should listen carefully to the announcement about changes to the train schedule at the station today.",
+          "zh": "乘客應該仔細聽今天車站列車時刻變更的廣播。"
+        },
+        {
+          "en": "The official announcement of the merger will be made after both companies sign the agreement.",
+          "zh": "合併的正式公告會在兩家公司簽署協議後發布。"
+        },
+        {
+          "en": "The announcement of the new working hours surprised many employees, so the manager explained it again.",
+          "zh": "新工作時間的公告讓很多員工很驚訝，所以經理又解釋了一次。"
+        },
+        {
+          "en": "Please read the announcement on the notice board about the fire drill on Thursday afternoon.",
+          "zh": "請閱讀公告欄上關於週四下午消防演習的公告。"
+        }
+      ],
+      "distractors": [
+        "pronouncement",
+        "amusement",
+        "arrangement"
+      ],
+      "note": "語塊：make an announcement（宣布）、official announcement（正式公告）、announcement of（……的公告）。announcement 是 announce（宣布）的名詞；notice 是「公告；通知」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expertly",
+      "word": "expertly",
+      "pos": "副詞",
+      "meaning": "熟練地；專業地",
+      "sentences": [
+        {
+          "en": "The furniture is expertly made by local craftspeople who have worked with wood for many years.",
+          "zh": "這些家具由在木工方面經驗豐富的當地工匠精心製作。"
+        },
+        {
+          "en": "The new office was expertly designed to make the best use of natural light and space.",
+          "zh": "新辦公室設計得非常專業，充分利用自然光和空間。"
+        },
+        {
+          "en": "The chef expertly prepared the fish in front of the guests, who were very impressed.",
+          "zh": "主廚在客人面前熟練地料理那條魚，客人都印象深刻。"
+        },
+        {
+          "en": "The tour guide expertly answered every question about the history of the old town and its temples.",
+          "zh": "導遊專業地回答了每一個關於老城區和寺廟歷史的問題。"
+        },
+        {
+          "en": "The repair was expertly done, so the machine now works as well as it did when it was new.",
+          "zh": "修理做得非常專業，所以機器現在和新的一樣好用。"
+        }
+      ],
+      "distractors": [
+        "exactly",
+        "expressly",
+        "expensively"
+      ],
+      "note": "語塊：expertly made（做工精良）、expertly designed（設計精良）、expertly prepared（熟練料理）、expertly answered（專業回答）、expertly done（做得專業）。expertly 是 expert（專家；熟練的）的副詞；skillfully 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unexpectedly",
+      "word": "unexpectedly",
+      "pos": "副詞",
+      "meaning": "出乎意料地；突然地",
+      "sentences": [
+        {
+          "en": "Sales of the new product were unexpectedly high, so the factory had to increase production quickly.",
+          "zh": "新產品的銷售高得出乎意料，所以工廠必須快速增產。"
+        },
+        {
+          "en": "The client arrived unexpectedly on Monday morning, so the manager had to change her schedule.",
+          "zh": "客戶週一早上突然到訪，所以經理必須調整行程。"
+        },
+        {
+          "en": "The meeting ended unexpectedly early because the director suddenly had to leave for the airport.",
+          "zh": "會議出乎意料地提早結束，因為主任突然必須趕去機場。"
+        },
+        {
+          "en": "The price of fuel rose unexpectedly last month, so many airlines raised their ticket prices.",
+          "zh": "上個月燃料價格意外上漲，所以很多航空公司調高票價。"
+        },
+        {
+          "en": "The weather changed unexpectedly during the hike, so the group decided to return before it started raining.",
+          "zh": "健行途中天氣突然變化，所以團隊決定在下雨前回去。"
+        }
+      ],
+      "distractors": [
+        "unexpected",
+        "unhappily",
+        "unusually"
+      ],
+      "note": "語塊：unexpectedly high（高得出乎意料）、arrived unexpectedly（突然抵達）、ended unexpectedly（意外結束）、rose unexpectedly（意外上漲）、changed unexpectedly（突然變化）。unexpectedly 是 unexpected（意外的）的副詞；suddenly 是「突然地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-maximum",
+      "word": "maximum",
+      "pos": "形容詞",
+      "meaning": "最大的；最高的",
+      "sentences": [
+        {
+          "en": "The maximum number of people allowed in the elevator is ten, so please wait for the next one.",
+          "zh": "電梯最多允許十人搭乘，所以請等下一班。"
+        },
+        {
+          "en": "The maximum speed on this road is fifty kilometers per hour, because there is a school nearby.",
+          "zh": "這條路的最高速限是時速五十公里，因為附近有學校。"
+        },
+        {
+          "en": "The conference hall has a maximum capacity of one thousand people, so tickets will sell out quickly.",
+          "zh": "會議廳最多可容納一千人，所以門票很快就會賣光。"
+        },
+        {
+          "en": "Each passenger can bring a maximum of two bags, and each bag must weigh less than twenty kilograms.",
+          "zh": "每位乘客最多可以帶兩件行李，每件必須不超過二十公斤。"
+        },
+        {
+          "en": "The new machine works at maximum speed only when the temperature in the factory is low.",
+          "zh": "新機器只有在工廠溫度低的時候才會以最高速度運作。"
+        }
+      ],
+      "distractors": [
+        "minimum",
+        "maxim",
+        "optimum"
+      ],
+      "note": "語塊：maximum number（最大數量）、maximum speed（最高速度）、maximum capacity（最大容量）。maximum 可以當名詞或形容詞；minimum 是相反「最小的」；maximize 是動詞「使最大化」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ingredient",
+      "word": "ingredient",
+      "pos": "名詞",
+      "meaning": "材料；成分",
+      "sentences": [
+        {
+          "en": "Every fresh ingredient in the restaurant comes from local farms, so the menu changes every season.",
+          "zh": "那家餐廳的每一樣新鮮食材都來自當地農場，所以菜單每季都會換。"
+        },
+        {
+          "en": "Rice is the main ingredient in many traditional dishes in Asia, such as sushi and fried rice.",
+          "zh": "米是亞洲很多傳統料理的主要成分，例如壽司和炒飯。"
+        },
+        {
+          "en": "Good communication is a key ingredient of success for any team, especially when people work remotely.",
+          "zh": "良好溝通是任何團隊成功的關鍵要素，特別是遠端工作時。"
+        },
+        {
+          "en": "Please read the list of every ingredient on the package if you have any food allergies.",
+          "zh": "如果你有任何食物過敏，請閱讀包裝上的每一項成分。"
+        },
+        {
+          "en": "The chef will not tell anyone the secret ingredient that makes her soup so delicious.",
+          "zh": "主廚不會告訴任何人讓她的湯這麼好喝的祕密材料。"
+        }
+      ],
+      "distractors": [
+        "gradient",
+        "intelligent",
+        "incident"
+      ],
+      "note": "語塊：fresh ingredient（新鮮食材）、main ingredient（主要成分）、key ingredient（關鍵要素）。ingredient 是「做菜的材料」或「成功的要素」；component 是「零件；組成部分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-designer",
+      "word": "designer",
+      "pos": "名詞",
+      "meaning": "設計師",
+      "sentences": [
+        {
+          "en": "Ms. Romano works as a fashion designer and creates clothes for famous actors and singers.",
+          "zh": "羅馬諾小姐是時裝設計師，為知名演員和歌手設計服裝。"
+        },
+        {
+          "en": "The company hired a graphic designer to create a new logo and website before the product launch.",
+          "zh": "公司在產品上市前雇了一位平面設計師，設計新標誌和網站。"
+        },
+        {
+          "en": "An interior designer helped us choose the furniture and colors for the new office downtown.",
+          "zh": "一位室內設計師幫我們挑選市中心新辦公室的家具和顏色。"
+        },
+        {
+          "en": "The young designer won an award at the international competition for her creative use of recycled materials.",
+          "zh": "那位年輕設計師因為創意運用回收材料，在國際比賽中得獎。"
+        },
+        {
+          "en": "The hotel asked a famous interior designer to redecorate all of its rooms next year.",
+          "zh": "飯店請了一位知名室內設計師，明年重新裝潢所有房間。"
+        }
+      ],
+      "distractors": [
+        "design",
+        "designate",
+        "resigner"
+      ],
+      "note": "語塊：fashion designer（時裝設計師）、graphic designer（平面設計師）、interior designer（室內設計師）。designer 是「做設計的人」；design 是「設計」；designer brand 是「名牌」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-net-worth",
+      "word": "net worth",
+      "pos": "名詞",
+      "meaning": "淨資產；身價",
+      "sentences": [
+        {
+          "en": "The bank offers special services to customers with a high net worth, such as private advisors.",
+          "zh": "銀行為高資產顧客提供特別服務，例如私人理財顧問。"
+        },
+        {
+          "en": "The magazine publishes a list of the richest people in the country and their net worth every year.",
+          "zh": "那本雜誌每年公布全國最富有的人和他們的身價。"
+        },
+        {
+          "en": "The company's net worth has doubled in the past five years because of strong sales in Asia.",
+          "zh": "因為亞洲的強勁銷售，公司的淨資產在過去五年增加了一倍。"
+        },
+        {
+          "en": "Before you apply for a large loan, the bank will ask you to calculate your net worth.",
+          "zh": "申請大額貸款前，銀行會請你計算你的淨資產。"
+        },
+        {
+          "en": "The founder's net worth increased sharply after the company's stock value rose sharply last month.",
+          "zh": "上個月公司股價大漲後，創辦人的身價大幅增加。"
+        }
+      ],
+      "distractors": [
+        "net profit",
+        "self-worth",
+        "net weight"
+      ],
+      "note": "語塊：net worth of（……的淨資產）、high net worth（高資產）。net worth 是「所有財產減掉負債後的價值」；asset 是「資產」；income 是「收入」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-approximation",
+      "word": "approximation",
+      "pos": "名詞",
+      "meaning": "近似值；估計",
+      "sentences": [
+        {
+          "en": "The number in the report is only a rough approximation, so the final cost may be slightly higher.",
+          "zh": "報告裡的數字只是粗略估計，所以最後費用可能會稍高一點。"
+        },
+        {
+          "en": "The engineer gave a close approximation of how long the repairs would take, and she was almost exactly right.",
+          "zh": "工程師給了一個很接近的維修時間估算，結果幾乎完全正確。"
+        },
+        {
+          "en": "This map is only an approximation, so please use your phone to find the exact location of the hotel.",
+          "zh": "這張地圖只是大概的位置，所以請用手機找飯店的確切位置。"
+        },
+        {
+          "en": "Can you give me a rough approximation of the number of guests who will attend the dinner?",
+          "zh": "你能粗略估計一下會有多少賓客出席晚宴嗎？"
+        },
+        {
+          "en": "The sales forecast is an approximation based on the results of the last three years.",
+          "zh": "銷售預測是根據過去三年結果所做的估計。"
+        }
+      ],
+      "distractors": [
+        "appreciation",
+        "application",
+        "appropriation"
+      ],
+      "note": "語塊：rough approximation（粗略估計）、close approximation（接近的估算）。approximation 是 approximate（大約的）的名詞；estimate 意思接近；approximately 是「大約」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-agreeable",
+      "word": "agreeable",
+      "pos": "形容詞",
+      "meaning": "令人愉快的；可接受的",
+      "sentences": [
+        {
+          "en": "The two companies are trying to find a mutually agreeable date for signing the contract.",
+          "zh": "兩家公司正在找雙方都能接受的簽約日期。"
+        },
+        {
+          "en": "The weather was very agreeable during our trip, so we spent most of the time outdoors.",
+          "zh": "我們旅行期間天氣非常宜人，所以大部分時間都在戶外。"
+        },
+        {
+          "en": "If the price is agreeable to you, we can send the products to your office next week.",
+          "zh": "如果您可以接受這個價格，我們下週就能把產品送到您的辦公室。"
+        },
+        {
+          "en": "The new manager is very agreeable and always listens carefully to everyone's ideas during meetings.",
+          "zh": "新經理非常隨和，開會時總是仔細聆聽每個人的想法。"
+        },
+        {
+          "en": "Both sides finally reached a mutually agreeable solution after three long days of discussion at the hotel.",
+          "zh": "在飯店經過漫長的三天討論，雙方終於達成一個彼此都能接受的解決方案。"
+        }
+      ],
+      "distractors": [
+        "agreement",
+        "arguable",
+        "available"
+      ],
+      "note": "語塊：agreeable to（可以接受……的）、mutually agreeable（雙方都接受的）、agreeable weather（宜人的天氣）。agreeable 是「讓人舒服的」或「願意同意的」；agreement 是「協議」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-respectable",
+      "word": "respectable",
+      "pos": "形容詞",
+      "meaning": "體面的；相當不錯的",
+      "sentences": [
+        {
+          "en": "The small company made a respectable profit in its first year, which surprised many investors.",
+          "zh": "那家小公司第一年就有不錯的獲利，讓很多投資人很驚訝。"
+        },
+        {
+          "en": "Many parents want their children to find a respectable job with a stable salary and good benefits.",
+          "zh": "很多父母希望孩子找到一份薪水穩定、福利好的體面工作。"
+        },
+        {
+          "en": "The charity raised a respectable amount of money at the fundraiser, but it still needs more.",
+          "zh": "慈善機構在募款活動中募到相當可觀的金額，但還需要更多。"
+        },
+        {
+          "en": "The hotel is not luxurious, but it is clean and respectable, and the prices are reasonable.",
+          "zh": "那家飯店不豪華，但乾淨體面，價格也合理。"
+        },
+        {
+          "en": "The team finished in a respectable third place in the national competition this year, which made everyone proud.",
+          "zh": "團隊今年在全國比賽中拿下相當不錯的第三名，讓大家都很驕傲。"
+        }
+      ],
+      "distractors": [
+        "respectful",
+        "respective",
+        "responsible"
+      ],
+      "note": "語塊：respectable job（體面的工作）、respectable amount（相當可觀的數量）、respectable profit（不錯的獲利）、clean and respectable（乾淨體面）、respectable third place（不錯的第三名）。respectable 是「值得尊重的；還不錯的」；respectful 是「有禮貌的；尊敬的」，兩個不一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-major",
+      "word": "major",
+      "pos": "形容詞",
+      "meaning": "主要的；重大的",
+      "sentences": [
+        {
+          "en": "The new subway line will connect all of the major cities in the region by the year 2030.",
+          "zh": "新地鐵線將在 2030 年前連接這個地區所有的主要城市。"
+        },
+        {
+          "en": "The company is planning a major change to its computer system, so employees will receive training.",
+          "zh": "公司正計畫對電腦系統做重大改變，所以員工會接受訓練。"
+        },
+        {
+          "en": "Traffic is a major problem in the city center, especially during rush hour on weekdays.",
+          "zh": "交通是市中心的重大問題，特別是平日尖峰時段。"
+        },
+        {
+          "en": "The storm caused major damage to several buildings near the coast, but nobody was hurt.",
+          "zh": "暴風雨對海岸附近好幾棟建築造成重大損害，但沒有人受傷。"
+        },
+        {
+          "en": "Ms. Kim played a major role in the success of the project and received an award for her work.",
+          "zh": "金小姐在專案成功中扮演重要角色，並因此獲獎。"
+        }
+      ],
+      "distractors": [
+        "minor",
+        "mayor",
+        "majesty"
+      ],
+      "note": "語塊：major problem（重大問題）、major change（重大改變）、major cities（主要城市）、major damage（重大損害）、major role（重要角色）。major 是「大的、重要的」；minor 是相反「次要的」；majority 是「大多數」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-leave",
+      "word": "on leave",
+      "pos": "其他",
+      "meaning": "休假中",
+      "sentences": [
+        {
+          "en": "Ms. Lee is on leave until next Monday, so please contact her assistant if you need help.",
+          "zh": "李小姐休假到下週一，所以需要協助的話請聯絡她的助理。"
+        },
+        {
+          "en": "Mr. Kim will be on leave for two weeks because he is sick, so his team will cover his work.",
+          "zh": "金先生因為生病會休假兩週，所以他的團隊會分擔他的工作。"
+        },
+        {
+          "en": "After her baby is born in March, the manager will be on leave for six months.",
+          "zh": "經理三月生產後會休假六個月。"
+        },
+        {
+          "en": "While the director is on leave, Ms. Park will make all of the important decisions for the department.",
+          "zh": "主任休假期間，部門所有重要決定都由朴小姐做。"
+        },
+        {
+          "en": "Employees who are on leave can still check their e-mail, but they do not have to answer it.",
+          "zh": "休假中的員工還是可以看電子郵件，但不必回覆。"
+        }
+      ],
+      "distractors": [
+        "on duty",
+        "on call",
+        "on hold"
+      ],
+      "note": "語塊：on leave until（休假到……）、on leave for（休假……時間）、be on leave（休假中）。on leave 是「請假不在公司」；leave 當名詞是「假」；annual leave 是「年假」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acting",
+      "word": "acting",
+      "pos": "形容詞",
+      "meaning": "代理的",
+      "sentences": [
+        {
+          "en": "Ms. Park will be the acting manager while Mr. Lee is on leave for the next three months.",
+          "zh": "李先生接下來三個月休假期間，朴小姐將擔任代理經理。"
+        },
+        {
+          "en": "The acting director signed the contract because the director was traveling abroad on business that week.",
+          "zh": "因為主任那週在國外出差洽公，由代理主任簽了合約。"
+        },
+        {
+          "en": "The board appointed an acting president until they can find a permanent replacement for the position.",
+          "zh": "董事會任命了一位代理總裁，直到找到這個職位的正式接任者。"
+        },
+        {
+          "en": "As acting manager, Mr. Chen is responsible for the schedule and the budget of the whole team.",
+          "zh": "身為代理經理，陳先生負責整個團隊的班表和預算。"
+        },
+        {
+          "en": "The acting director held a meeting with all employees to explain the new policy and answer their questions.",
+          "zh": "代理主任和全體員工開會，說明新的政策並回答問題。"
+        }
+      ],
+      "distractors": [
+        "active",
+        "exacting",
+        "action"
+      ],
+      "note": "語塊：acting manager（代理經理）、acting director（代理主任）。acting 是「暫時代替某人職位的」；temporary 是「暫時的」；acting 當名詞是「表演」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spread",
+      "word": "spread",
+      "pos": "動詞",
+      "meaning": "傳播；散布；分散",
+      "sentences": [
+        {
+          "en": "News about the new restaurant will spread quickly on social media, so we expect many customers.",
+          "zh": "新餐廳的消息會在社群媒體上迅速傳開，所以我們預期會有很多顧客。"
+        },
+        {
+          "en": "Please spread the news to everyone on your team that the office will be closed on Friday.",
+          "zh": "請把辦公室週五休息的消息告訴你團隊的每個人。"
+        },
+        {
+          "en": "The company decided to spread the payments over six months so that the cost is easier to manage.",
+          "zh": "公司決定把款項分成六個月支付，讓費用比較好管理。"
+        },
+        {
+          "en": "If you wash your hands often, colds will not spread so easily to other people in the office.",
+          "zh": "如果你經常洗手，感冒就不會那麼容易傳染給辦公室的其他人。"
+        },
+        {
+          "en": "The tables at the event will spread out across the garden so that guests have plenty of space.",
+          "zh": "活動的桌子會分散在花園各處，讓賓客有足夠的空間。"
+        }
+      ],
+      "distractors": [
+        "sprout",
+        "spray",
+        "bread"
+      ],
+      "note": "語塊：spread quickly（迅速傳開）、spread the news（傳播消息）、spread out（分散開）。spread 過去式和過去分詞都是 spread；也可以當名詞「傳播」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-somehow",
+      "word": "somehow",
+      "pos": "副詞",
+      "meaning": "不知怎麼地；設法",
+      "sentences": [
+        {
+          "en": "The team somehow managed to finish the project on time, even though two members were sick.",
+          "zh": "即使有兩名成員生病，團隊還是設法準時完成了專案。"
+        },
+        {
+          "en": "My phone somehow stopped working this morning, so I could not answer your call or read your messages.",
+          "zh": "我的手機今天早上不知怎麼就壞了，所以沒辦法接你的電話或看你的訊息。"
+        },
+        {
+          "en": "We need to somehow reduce costs this year without asking any employees to leave the company.",
+          "zh": "我們今年需要設法在不裁員的情況下降低成本。"
+        },
+        {
+          "en": "The package was somehow sent to the wrong address, so the customer received it three days late.",
+          "zh": "包裹不知怎麼被寄到錯的地址，所以顧客晚了三天才收到。"
+        },
+        {
+          "en": "The small restaurant somehow survived the difficult year and is now busier than ever before.",
+          "zh": "那家小餐廳設法撐過艱難的一年，現在比以往都忙。"
+        }
+      ],
+      "distractors": [
+        "somewhat",
+        "anyhow",
+        "somewhere"
+      ],
+      "note": "語塊：somehow managed（設法做到）、somehow stopped（不知怎麼停了）、somehow reduce（設法降低）、somehow sent（不知怎麼被寄）、somehow survived（設法撐過）。somehow 是「用某種方法（不知道怎麼做到的）」；anyhow 是「無論如何」；somewhat 是「有點」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assuming-that",
+      "word": "assuming that",
+      "pos": "連接詞",
+      "meaning": "假設……；如果……",
+      "sentences": [
+        {
+          "en": "Assuming that the weather is good, the outdoor concert will begin at seven o'clock on Saturday evening.",
+          "zh": "假設天氣好，戶外演唱會將在週六晚上七點開始。"
+        },
+        {
+          "en": "Assuming that the materials arrive on time, we will finish the building by the end of next year.",
+          "zh": "假設材料準時到貨，我們會在明年底前完成大樓。"
+        },
+        {
+          "en": "The trip will cost about five hundred dollars per person, assuming that we stay in a cheap hotel.",
+          "zh": "假設我們住便宜的飯店，這趟旅行每人大約五百元。"
+        },
+        {
+          "en": "Assuming that sales continue to grow, the company plans to open three new stores next year.",
+          "zh": "假設銷售持續成長，公司計畫明年開三家新店。"
+        },
+        {
+          "en": "We can start the meeting at nine, assuming that everyone arrives on time this morning.",
+          "zh": "假設大家今天早上都準時到，我們可以九點開始開會。"
+        }
+      ],
+      "distractors": [
+        "provided that",
+        "given that",
+        "so that"
+      ],
+      "note": "語塊：assuming that + 句子（假設……）。assuming that 是「先假設某件事是真的」；provided that 是「只要」；if 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-screen",
+      "word": "screen",
+      "pos": "動詞",
+      "meaning": "篩選；審查；放映",
+      "sentences": [
+        {
+          "en": "The human resources department will screen applicants by phone before inviting them to an interview.",
+          "zh": "人資部會先電話篩選應徵者，再邀請他們面試。"
+        },
+        {
+          "en": "The theater will screen the new film for one week before it is available on online services.",
+          "zh": "戲院會先放映那部新片一週，之後才會在線上平台播出。"
+        },
+        {
+          "en": "Security staff will screen all bags at the entrance of the stadium before the concert begins.",
+          "zh": "演唱會開始前，保全人員會在體育場入口檢查所有包包。"
+        },
+        {
+          "en": "The company uses software to screen the hundreds of résumés it receives for each job every week.",
+          "zh": "公司用軟體篩選每週每個職缺收到的數百份履歷。"
+        },
+        {
+          "en": "Doctors recommend that adults screen for high blood pressure at least once a year after the age of forty.",
+          "zh": "醫生建議成年人四十歲後每年至少做一次高血壓篩檢。"
+        }
+      ],
+      "distractors": [
+        "scream",
+        "scheme",
+        "scene"
+      ],
+      "note": "語塊：screen applicants（篩選應徵者）、screen a film（放映電影）、be screened for（接受……篩檢）。screen 當動詞是「篩選檢查」或「放映」；當名詞是「螢幕」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
