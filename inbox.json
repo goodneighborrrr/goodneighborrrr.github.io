@@ -70403,6 +70403,706 @@
       ],
       "note": "語塊：good nutrition（良好的營養）、nutrition facts（營養標示）、sports nutrition（運動營養）。nutrition 是「營養（攝取）」；nutrient 是「營養素」；nutritious 是形容詞「有營養的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cognitive",
+      "word": "cognitive",
+      "pos": "形容詞",
+      "meaning": "認知的",
+      "sentences": [
+        {
+          "en": "Studies show that regular exercise can improve cognitive ability in older adults who live alone.",
+          "zh": "研究顯示規律運動可以改善獨居長者的認知能力。"
+        },
+        {
+          "en": "The new toys are designed to help young children develop cognitive skills such as memory and problem-solving.",
+          "zh": "新玩具的設計是要幫助幼童培養記憶和解決問題等認知技能。"
+        },
+        {
+          "en": "Good nutrition in the first years of life is important for a child's cognitive development.",
+          "zh": "人生最初幾年良好的營養對孩子的認知發展很重要。"
+        },
+        {
+          "en": "The company tests the cognitive skills of job applicants with a short online exam before the interview.",
+          "zh": "公司在面試前用簡短的線上測驗評估應徵者的認知技能。"
+        },
+        {
+          "en": "Doctors say that getting enough sleep is one of the best ways to protect your cognitive ability as you age.",
+          "zh": "醫生說，睡飽是隨著年齡增長保護認知能力最好的方法之一。"
+        }
+      ],
+      "distractors": [
+        "cognate",
+        "conductive",
+        "collective"
+      ],
+      "note": "語塊：cognitive ability（認知能力）、cognitive skills（認知技能）、cognitive development（認知發展）。cognitive 是「和思考、記憶、理解有關的」；recognize 是「認出」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-engage",
+      "word": "engage",
+      "pos": "動詞",
+      "meaning": "參與；吸引；聘請",
+      "sentences": [
+        {
+          "en": "Employees are encouraged to engage in volunteer work, and they can take two paid days off each year for it.",
+          "zh": "公司鼓勵員工參與志工服務，每年可以有兩天帶薪假去做。"
+        },
+        {
+          "en": "The new social media campaign is designed to engage customers who are between twenty and thirty years old.",
+          "zh": "新的社群媒體宣傳活動是設計來吸引二十到三十歲的顧客。"
+        },
+        {
+          "en": "Good teachers try to engage with every student, even those who are quiet in class.",
+          "zh": "好的老師會試著和每位學生互動，即使是上課很安靜的學生。"
+        },
+        {
+          "en": "The company does not engage in any business that harms the environment or local communities.",
+          "zh": "公司不參與任何傷害環境或當地社區的生意。"
+        },
+        {
+          "en": "The museum uses interactive screens to engage visitors of all ages and make history more interesting.",
+          "zh": "博物館用互動螢幕吸引各年齡層的參觀者，讓歷史更有趣。"
+        }
+      ],
+      "distractors": [
+        "enrage",
+        "encourage",
+        "arrange"
+      ],
+      "note": "語塊：engage in（從事；參與）、engage customers（吸引顧客）、engage with（與……互動）。engage in + 活動 是「參與」；engaged 也可以是「訂婚的」；engagement 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attentive",
+      "word": "attentive",
+      "pos": "形容詞",
+      "meaning": "專心的；體貼周到的",
+      "sentences": [
+        {
+          "en": "The hotel is famous for its attentive staff, who remember the names of every guest who stays there.",
+          "zh": "那家飯店以服務周到的員工聞名，他們記得每位住客的名字。"
+        },
+        {
+          "en": "Good managers are attentive to the needs of their team and offer help before problems become serious.",
+          "zh": "好的主管會留心團隊的需求，在問題變嚴重前提供協助。"
+        },
+        {
+          "en": "The students were very attentive during the lecture because the speaker told many interesting stories about her work.",
+          "zh": "學生在講座中非常專心，因為講者說了很多關於她工作的有趣故事。"
+        },
+        {
+          "en": "An attentive listener can understand what a customer really wants, even if they do not say it clearly.",
+          "zh": "一位專注的聆聽者能了解顧客真正想要什麼，即使他們沒有說清楚。"
+        },
+        {
+          "en": "The restaurant received excellent reviews for its delicious food, fair prices, and attentive service in every review.",
+          "zh": "那家餐廳在每篇評論中都因美味的食物、公道的價格和周到的服務獲得極佳評價。"
+        }
+      ],
+      "distractors": [
+        "attractive",
+        "tentative",
+        "retentive"
+      ],
+      "note": "語塊：attentive staff（服務周到的員工）、attentive to（留心……）、attentive listener（專注的聆聽者）。attentive 是「很注意、很照顧別人需求的」；attention 是名詞「注意」；attendant 是「服務員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shed-light-on",
+      "word": "shed light on",
+      "pos": "其他",
+      "meaning": "闡明；使清楚",
+      "sentences": [
+        {
+          "en": "The new study will shed light on why some customers stop buying our products after only one purchase.",
+          "zh": "新研究將釐清為什麼有些顧客只買一次就不再購買我們的產品。"
+        },
+        {
+          "en": "The engineers hope that the test results will shed light on the cause of the machine's frequent problems.",
+          "zh": "工程師希望測試結果能找出機器經常出問題的原因。"
+        },
+        {
+          "en": "The documents found in the old library shed light on the early history of the town.",
+          "zh": "在舊圖書館找到的文件讓小鎮早期的歷史變得清楚。"
+        },
+        {
+          "en": "The manager asked the team to shed light on the problem before the meeting with the client.",
+          "zh": "經理請團隊在和客戶開會前把問題釐清。"
+        },
+        {
+          "en": "The museum's new exhibition will shed light on how people lived in the region two thousand years ago.",
+          "zh": "博物館的新展覽將呈現這個地區兩千年前人們如何生活。"
+        }
+      ],
+      "distractors": [
+        "shed tears",
+        "cast doubt on",
+        "focus on"
+      ],
+      "note": "語塊：shed light on the problem（釐清問題）、shed light on the cause（找出原因）、shed light on why（釐清為什麼）、shed light on the history（讓歷史變清楚）、shed light on how（呈現如何……）。shed light on 是「讓原本不清楚的事變清楚」；clarify 意思接近；shed 是「散發」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-solely",
+      "word": "solely",
+      "pos": "副詞",
+      "meaning": "唯一地；完全地",
+      "sentences": [
+        {
+          "en": "Ms. Kim is solely responsible for the budget of the marketing department, so please send all requests to her.",
+          "zh": "金小姐全權負責行銷部的預算，所以請把所有申請寄給她。"
+        },
+        {
+          "en": "The parking lot is solely for hotel guests, so visitors should use the public parking across the street.",
+          "zh": "停車場只限飯店住客使用，所以訪客應使用對面的公共停車場。"
+        },
+        {
+          "en": "The winner of the competition will be chosen based solely on the quality of the design.",
+          "zh": "比賽得主將完全根據設計品質選出。"
+        },
+        {
+          "en": "The company does not rely solely on online sales, because many older customers still prefer to visit stores.",
+          "zh": "公司不完全依賴網路銷售，因為很多年長顧客還是比較喜歡去實體店。"
+        },
+        {
+          "en": "The money from the fundraiser will be used solely for buying new books for the school library.",
+          "zh": "募款活動的錢將只用於為學校圖書館買新書。"
+        }
+      ],
+      "distractors": [
+        "slowly",
+        "solidly",
+        "surely"
+      ],
+      "note": "語塊：solely responsible（全權負責）、solely for（只為了……）、based solely on（完全根據……）。solely 是「只、單獨地」；only 意思接近；sole 是形容詞「唯一的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adoption",
+      "word": "adoption",
+      "pos": "名詞",
+      "meaning": "採用；收養",
+      "sentences": [
+        {
+          "en": "The adoption of the new software has helped the company reduce the time it takes to process orders.",
+          "zh": "採用新軟體幫助公司縮短處理訂單的時間。"
+        },
+        {
+          "en": "The animal shelter holds a pet adoption event every Saturday in the park near the train station.",
+          "zh": "動物收容所每週六在火車站附近的公園舉辦寵物認養活動。"
+        },
+        {
+          "en": "The widespread adoption of smartphones has changed the way people shop, read news, and pay bills.",
+          "zh": "智慧型手機的廣泛採用改變了人們購物、看新聞和繳帳單的方式。"
+        },
+        {
+          "en": "The board voted to approve the adoption of a new policy on working from home starting next month.",
+          "zh": "董事會投票通過從下個月開始採用新的在家工作政策。"
+        },
+        {
+          "en": "The adoption of electric buses has helped the city reduce air pollution in the downtown area.",
+          "zh": "採用電動公車幫助城市減少市中心的空氣污染。"
+        }
+      ],
+      "distractors": [
+        "adaptation",
+        "option",
+        "addition"
+      ],
+      "note": "語塊：adoption of（……的採用）、pet adoption（寵物認養）、widespread adoption（廣泛採用）。adoption 是 adopt（採用；收養）的名詞；adaptation 是「適應；改編」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-representation",
+      "word": "representation",
+      "pos": "名詞",
+      "meaning": "代表；呈現",
+      "sentences": [
+        {
+          "en": "Small businesses often cannot afford legal representation when they have a problem with a large company.",
+          "zh": "小公司和大公司有糾紛時，常常負擔不起法律代理。"
+        },
+        {
+          "en": "The painting is a beautiful representation of the city as it looked more than a hundred years ago.",
+          "zh": "那幅畫美麗地呈現了這座城市一百多年前的樣子。"
+        },
+        {
+          "en": "Workers want better representation on the board so that their opinions are heard when decisions are made.",
+          "zh": "工人希望在董事會有更好的代表，讓做決定時他們的意見被聽到。"
+        },
+        {
+          "en": "The chart gives a clear representation of how sales have changed over the past five years.",
+          "zh": "這張圖表清楚呈現了過去五年銷售的變化。"
+        },
+        {
+          "en": "Every employee has the right to legal representation if there is a serious problem with their contract.",
+          "zh": "如果合約出現嚴重問題，每位員工都有權取得法律代理。"
+        }
+      ],
+      "distractors": [
+        "presentation",
+        "reputation",
+        "representative"
+      ],
+      "note": "語塊：legal representation（法律代理）、representation of（……的呈現）。representation 是 represent（代表）的名詞；representative 是「代表人；業務代表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bank",
+      "word": "bank",
+      "pos": "名詞",
+      "meaning": "銀行；岸邊",
+      "sentences": [
+        {
+          "en": "Many families enjoy walking along the river bank in the evening, especially in spring when the flowers bloom.",
+          "zh": "很多家庭喜歡傍晚沿著河岸散步，特別是春天花開的時候。"
+        },
+        {
+          "en": "You need a bank account in the country before the company can pay your salary every month.",
+          "zh": "你需要在這個國家有銀行帳戶，公司才能每個月付你薪水。"
+        },
+        {
+          "en": "The restaurant owner got a bank loan to open a second location near the university campus.",
+          "zh": "餐廳老闆申請了銀行貸款，在大學校園附近開第二家店。"
+        },
+        {
+          "en": "The new bike path along the river bank will connect the old town with the new shopping center.",
+          "zh": "沿著河岸的新自行車道將連接老城區和新購物中心。"
+        },
+        {
+          "en": "Please bring your passport when you open a bank account, because the staff need to check your identity.",
+          "zh": "開銀行帳戶時請帶護照，因為行員需要確認你的身分。"
+        }
+      ],
+      "distractors": [
+        "bench",
+        "band",
+        "blank"
+      ],
+      "note": "語塊：river bank（河岸）、bank account（銀行帳戶）、bank loan（銀行貸款）。bank 除了「銀行」，也可以是河或湖的「岸」；bench 是「長椅」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chair",
+      "word": "chair",
+      "pos": "動詞",
+      "meaning": "主持（會議）",
+      "sentences": [
+        {
+          "en": "Ms. Park will chair the meeting on Monday because the director is on a business trip in Tokyo.",
+          "zh": "因為主任在東京出差，週一的會議由朴小姐主持。"
+        },
+        {
+          "en": "Mr. Lee was asked to chair a committee that will plan the company's fiftieth anniversary celebration.",
+          "zh": "李先生受邀擔任籌劃公司五十週年慶祝活動的委員會主席。"
+        },
+        {
+          "en": "The professor will chair a discussion about clean energy at the international conference next month.",
+          "zh": "教授下個月將在國際研討會上主持一場關於乾淨能源的討論。"
+        },
+        {
+          "en": "It is difficult to chair a meeting with thirty people, so please keep your comments short and clear.",
+          "zh": "主持三十人的會議很困難，所以請讓你的發言簡短清楚。"
+        },
+        {
+          "en": "The new president will chair the board for three years before a new election is held.",
+          "zh": "新總裁在下次改選之前將擔任董事會主席三年。"
+        }
+      ],
+      "distractors": [
+        "cheer",
+        "charm",
+        "share"
+      ],
+      "note": "語塊：chair a meeting（主持會議）、chair a committee（擔任委員會主席）。chair 當動詞是「主持」；chairperson / chairman 是「主席」；當名詞是「椅子」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nobility",
+      "word": "nobility",
+      "pos": "名詞",
+      "meaning": "貴族；高貴",
+      "sentences": [
+        {
+          "en": "The old castle was built for members of the nobility, and it is now one of the most popular museums in the country.",
+          "zh": "那座古堡是為貴族建造的，現在是國內最受歡迎的博物館之一。"
+        },
+        {
+          "en": "The exhibition shows clothes and jewelry that were worn by the nobility more than three hundred years ago.",
+          "zh": "展覽展出三百多年前貴族穿戴的服飾和珠寶。"
+        },
+        {
+          "en": "In the past, only members of the nobility could afford to have their portraits painted by famous artists.",
+          "zh": "過去只有貴族才付得起請知名藝術家畫肖像。"
+        },
+        {
+          "en": "The tour guide explained how the nobility lived in the palace and what they ate every day.",
+          "zh": "導遊解說了貴族如何在宮殿裡生活，以及他們每天吃什麼。"
+        },
+        {
+          "en": "Many of the beautiful gardens in the city were first created for the nobility and later opened to the public.",
+          "zh": "市內很多美麗的花園最初是為貴族打造的，後來才開放給大眾。"
+        }
+      ],
+      "distractors": [
+        "mobility",
+        "ability",
+        "stability"
+      ],
+      "note": "語塊：members of the nobility（貴族成員）、built for the nobility（為貴族建造）、worn by the nobility（貴族穿戴的）、how the nobility lived（貴族如何生活）。nobility 是「貴族（階級）」或「高尚的品格」；noble 是形容詞「高貴的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-heritage",
+      "word": "heritage",
+      "pos": "名詞",
+      "meaning": "遺產；傳統文化",
+      "sentences": [
+        {
+          "en": "The old town is an important part of the country's cultural heritage, so the buildings cannot be torn down.",
+          "zh": "老城區是國家文化遺產的重要部分，所以那些建築不能拆除。"
+        },
+        {
+          "en": "More than one million tourists visit the heritage site every year to see the ancient temples and gardens.",
+          "zh": "每年有一百多萬名遊客造訪那處古蹟，參觀古老的寺廟和花園。"
+        },
+        {
+          "en": "The government spends a lot of money to protect its national heritage, including old castles and churches.",
+          "zh": "政府花很多錢保護國家遺產，包括古堡和教堂。"
+        },
+        {
+          "en": "The festival celebrates the cultural heritage of the region with traditional music, dance, and food.",
+          "zh": "這個節慶用傳統音樂、舞蹈和美食慶祝這個地區的文化遺產。"
+        },
+        {
+          "en": "The old train station was named a heritage site, so the refurbishment must keep its original design.",
+          "zh": "舊火車站被列為古蹟，所以整修時必須保留原始設計。"
+        }
+      ],
+      "distractors": [
+        "hermitage",
+        "inheritance",
+        "vintage"
+      ],
+      "note": "語塊：cultural heritage（文化遺產）、heritage site（古蹟）、national heritage（國家遺產）。heritage 是「從過去留傳下來的文化、建築或傳統」；inheritance 是「繼承的財產」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-slogan",
+      "word": "slogan",
+      "pos": "名詞",
+      "meaning": "標語；口號",
+      "sentences": [
+        {
+          "en": "The marketing team spent weeks creating a catchy slogan for the new energy drink that young people would remember.",
+          "zh": "行銷團隊花了好幾週為新能量飲料想一個年輕人會記得、朗朗上口的標語。"
+        },
+        {
+          "en": "The company's slogan, which is printed on every bag, says that quality always comes first.",
+          "zh": "公司的口號印在每個袋子上，寫著品質永遠第一。"
+        },
+        {
+          "en": "The new advertising slogan helped increase sales by twenty percent in the first three months.",
+          "zh": "新的廣告標語在頭三個月讓銷售增加了兩成。"
+        },
+        {
+          "en": "Customers were invited to suggest a slogan for the store's anniversary, and the winner received a free trip.",
+          "zh": "顧客受邀為店慶提出標語，得獎者獲得免費旅遊。"
+        },
+        {
+          "en": "A good advertising slogan should be short, easy to understand, and connected to what the product does.",
+          "zh": "好的廣告標語應該簡短、好懂，並和產品的功能有關。"
+        }
+      ],
+      "distractors": [
+        "logo",
+        "motto",
+        "sloping"
+      ],
+      "note": "語塊：advertising slogan（廣告標語）、company slogan（公司口號）、catchy slogan（朗朗上口的標語）。slogan 是簡短好記的宣傳句子；logo 是「標誌」；motto 是「座右銘」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decorative",
+      "word": "decorative",
+      "pos": "形容詞",
+      "meaning": "裝飾性的",
+      "sentences": [
+        {
+          "en": "The store sells decorative items for the home, such as vases, candles, and small wooden sculptures.",
+          "zh": "那家店販售居家裝飾品，例如花瓶、蠟燭和小木雕。"
+        },
+        {
+          "en": "The city hangs decorative lights along the main street every December to celebrate the holiday season.",
+          "zh": "市政府每年十二月沿著主要街道掛上裝飾燈，慶祝假期。"
+        },
+        {
+          "en": "The fireplace in the hotel lobby is purely decorative, because the building uses modern heating.",
+          "zh": "飯店大廳的壁爐純粹是裝飾用的，因為大樓使用現代暖氣設備。"
+        },
+        {
+          "en": "Please do not touch the decorative plates on the wall, because some of them are more than a hundred years old.",
+          "zh": "請不要觸摸牆上的裝飾盤，因為有些已經超過一百年了。"
+        },
+        {
+          "en": "The designer added a few decorative items to the office to make it feel warmer and more welcoming.",
+          "zh": "設計師在辦公室加了幾件裝飾品，讓它感覺更溫暖、更親切。"
+        }
+      ],
+      "distractors": [
+        "declarative",
+        "cooperative",
+        "directive"
+      ],
+      "note": "語塊：decorative items（裝飾品）、decorative lights（裝飾燈）、purely decorative（純裝飾用的）。decorative 是 decorate（裝飾）的形容詞；decoration 是名詞「裝飾」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-street-sign",
+      "word": "street sign",
+      "pos": "名詞",
+      "meaning": "路標；街道標誌",
+      "sentences": [
+        {
+          "en": "Please look for the street sign for Main Street, and turn left at the next corner to find the hotel.",
+          "zh": "請找主街的路牌，在下一個轉角左轉就能找到飯店。"
+        },
+        {
+          "en": "The city replaced every old street sign in the downtown area with a new one that is easier to read.",
+          "zh": "市政府把市中心每個舊路標都換成比較好讀的新路標。"
+        },
+        {
+          "en": "Many tourists got lost because the street sign near the station was covered by a large tree.",
+          "zh": "很多觀光客迷路，因為車站附近的路標被一棵大樹擋住了。"
+        },
+        {
+          "en": "The new street sign shows the name of the road in both Chinese and English for foreign visitors.",
+          "zh": "新路標同時用中文和英文標示路名，方便外國遊客。"
+        },
+        {
+          "en": "If you cannot read the street sign, you can use the map on your phone to find the restaurant.",
+          "zh": "如果你看不清路標，可以用手機地圖找那家餐廳。"
+        }
+      ],
+      "distractors": [
+        "traffic light",
+        "road map",
+        "signature"
+      ],
+      "note": "語塊：read the street sign（看路標）、street sign for（……的路牌）。street sign 是寫著街道名稱或方向的牌子；traffic sign 是「交通標誌」；signboard 是「招牌」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-security",
+      "word": "security",
+      "pos": "名詞",
+      "meaning": "安全；保全",
+      "sentences": [
+        {
+          "en": "A security guard stands at the entrance of the building twenty-four hours a day to check visitors' ID cards.",
+          "zh": "大樓入口二十四小時都有一位警衛站崗，檢查訪客的證件。"
+        },
+        {
+          "en": "All passengers must go through a security check before they can enter the boarding area of the airport.",
+          "zh": "所有乘客都必須通過安全檢查，才能進入機場登機區。"
+        },
+        {
+          "en": "Many people choose government jobs because they offer good job security and a stable salary.",
+          "zh": "很多人選擇公家機關的工作，因為工作有保障、薪水穩定。"
+        },
+        {
+          "en": "The company spent a lot of money to improve the security of its computer system after the attack.",
+          "zh": "遭到攻擊後，公司花了很多錢加強電腦系統的安全。"
+        },
+        {
+          "en": "Please arrive at the stadium early, because the security check at the entrance may take a long time.",
+          "zh": "請提早到體育場，因為入口的安全檢查可能要花很久。"
+        }
+      ],
+      "distractors": [
+        "severity",
+        "society",
+        "sincerity"
+      ],
+      "note": "語塊：security guard（警衛）、security check（安全檢查）、job security（工作保障）。security 是 secure（安全的）的名詞；safety 多指「人身安全」；security 多指「防範犯罪或攻擊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attendance",
+      "word": "attendance",
+      "pos": "名詞",
+      "meaning": "出席（人數）；參加",
+      "sentences": [
+        {
+          "en": "Attendance at the weekly meeting is required for all members of the sales team, even if they work from home.",
+          "zh": "業務團隊所有成員都必須出席每週會議，即使在家工作也一樣。"
+        },
+        {
+          "en": "The festival had record attendance this year, with more than two hundred thousand visitors over three days.",
+          "zh": "今年的節慶出席人數創紀錄，三天內有二十多萬名遊客。"
+        },
+        {
+          "en": "The school's attendance rate improved after it started offering free breakfast to students every morning before class.",
+          "zh": "學校開始每天上課前提供學生免費早餐後，出席率提高了。"
+        },
+        {
+          "en": "More than five hundred guests were in attendance at the charity dinner, which raised a lot of money.",
+          "zh": "五百多位賓客出席了慈善晚宴，募到很多錢。"
+        },
+        {
+          "en": "The manager checks the attendance rate of every training session to see which courses are most popular.",
+          "zh": "經理會查看每場訓練課程的出席率，了解哪些課程最受歡迎。"
+        }
+      ],
+      "distractors": [
+        "attendant",
+        "assistance",
+        "acceptance"
+      ],
+      "note": "語塊：attendance rate（出席率）、record attendance（創紀錄的出席人數）、in attendance（出席）。attendance 是 attend（參加）的名詞；attendee 是「參加者」；attendant 是「服務員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-follow-through-with",
+      "word": "follow through with",
+      "pos": "片語動詞",
+      "meaning": "貫徹；把……做完",
+      "sentences": [
+        {
+          "en": "The company decided to follow through with its plan to open a new factory, even though costs had increased.",
+          "zh": "即使成本增加，公司還是決定貫徹開設新工廠的計畫。"
+        },
+        {
+          "en": "Good leaders always follow through with their promises, so their teams trust them completely and work harder.",
+          "zh": "好的領導者總是履行承諾，所以團隊完全信任他們，也更努力工作。"
+        },
+        {
+          "en": "If we do not follow through with the changes, customers will think that we do not care about their complaints.",
+          "zh": "如果我們不把改變貫徹到底，顧客會認為我們不在乎他們的抱怨。"
+        },
+        {
+          "en": "The city will follow through with the plan to build new bike paths, despite some complaints from drivers.",
+          "zh": "儘管有些駕駛抱怨，市政府還是會貫徹興建新自行車道的計畫。"
+        },
+        {
+          "en": "Please follow through with the client after the meeting and send her the price quote by Friday.",
+          "zh": "會議後請把客戶的事處理完，在週五前把報價寄給她。"
+        }
+      ],
+      "distractors": [
+        "follow up on",
+        "go through with",
+        "keep up with"
+      ],
+      "note": "語塊：follow through with a plan（貫徹計畫）、follow through with a promise（履行承諾）。follow through with 是「把開始的事情做到最後」；carry out 意思接近；follow up 是「後續追蹤」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-time-frame",
+      "word": "time frame",
+      "pos": "名詞",
+      "meaning": "時間範圍；期限",
+      "sentences": [
+        {
+          "en": "The project must be completed within the time frame agreed in the contract, or we will pay a penalty.",
+          "zh": "專案必須在合約約定的期限內完成，否則我們要付罰款。"
+        },
+        {
+          "en": "The team is working with a tight time frame, so everyone will have to work late this week.",
+          "zh": "團隊的期限很趕，所以這週每個人都要加班。"
+        },
+        {
+          "en": "Please give the client a realistic time frame for the repairs so that she can plan her schedule.",
+          "zh": "請給客戶一個實際可行的維修時程，讓她可以安排行程。"
+        },
+        {
+          "en": "The time frame for submitting applications is two weeks, starting from the first of March.",
+          "zh": "提交申請的時間範圍是兩週，從三月一日開始。"
+        },
+        {
+          "en": "It is difficult to finish such a large project within the time frame unless we hire more workers.",
+          "zh": "除非多雇工人，否則很難在期限內完成這麼大的專案。"
+        }
+      ],
+      "distractors": [
+        "time zone",
+        "time limit",
+        "picture frame"
+      ],
+      "note": "語塊：within the time frame（在期限內）、tight time frame（很趕的期限）、realistic time frame（實際可行的時程）。time frame 是「做某事的一段時間或期限」；deadline 是「截止日」；schedule 是「時間表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-over",
+      "word": "look over",
+      "pos": "片語動詞",
+      "meaning": "大致查看；過目",
+      "sentences": [
+        {
+          "en": "Could you look over the report before I send it to the director, because I want to make sure there are no mistakes?",
+          "zh": "我寄報告給主任之前，你可以幫我看一下嗎？我想確定沒有錯誤。"
+        },
+        {
+          "en": "The lawyer will look over the contract carefully and tell us if there are any problems.",
+          "zh": "律師會仔細看一下合約，告訴我們有沒有任何問題。"
+        },
+        {
+          "en": "Please look over the menu and tell the waiter when you are ready to order.",
+          "zh": "請看一下菜單，準備好點餐時再告訴服務生。"
+        },
+        {
+          "en": "The manager asked me to look over the budget for next year and suggest ways to reduce costs.",
+          "zh": "經理請我看一下明年的預算，並提出降低成本的方法。"
+        },
+        {
+          "en": "Before you sign the lease, ask someone you trust to look over the agreement with you.",
+          "zh": "簽租約之前，請找一位你信任的人和你一起看過協議。"
+        }
+      ],
+      "distractors": [
+        "look through",
+        "look after",
+        "overlook"
+      ],
+      "note": "語塊：look over the report（過目報告）、look over the contract（看一下合約）、look over the menu（看一下菜單）、look over the budget（看一下預算）、look over the agreement（看過協議）。look over 是「快速檢查一遍」；look through 是「從頭翻閱」；overlook 是「忽略」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-put-out",
+      "word": "put out",
+      "pos": "片語動詞",
+      "meaning": "撲滅；發布；拿出來",
+      "sentences": [
+        {
+          "en": "Firefighters were able to put out the fire in the factory quickly, and nobody was hurt.",
+          "zh": "消防員很快就撲滅了工廠的火，沒有人受傷。"
+        },
+        {
+          "en": "The company will put out a statement this afternoon to explain why the website stopped working.",
+          "zh": "公司今天下午會發表聲明，說明網站為什麼停止運作。"
+        },
+        {
+          "en": "Please put out fifty chairs in the main hall before the guests arrive for the presentation.",
+          "zh": "請在賓客來聽簡報之前，在大廳擺出五十張椅子。"
+        },
+        {
+          "en": "In summer, the restaurant will put out tables on the street so that customers can eat outside.",
+          "zh": "夏天那家餐廳會把桌子擺到街上，讓顧客在外面用餐。"
+        },
+        {
+          "en": "The government will put out a new report on air pollution in the city at the end of the month.",
+          "zh": "政府月底會發布一份關於市區空氣污染的新報告。"
+        }
+      ],
+      "distractors": [
+        "put off",
+        "put on",
+        "put up"
+      ],
+      "note": "語塊：put out a fire（滅火）、put out a statement（發表聲明）、put out chairs（把椅子擺出來）。put out 是「熄滅」、「發布」或「拿出來擺好」；put off 是「延後」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
