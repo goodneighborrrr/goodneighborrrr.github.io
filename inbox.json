@@ -83668,6 +83668,706 @@
       ],
       "note": "語塊：reach out to（主動聯絡……）。reach out to sb 是「主動和某人聯絡或提供幫助」；contact 意思接近；reach 是「到達」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expose",
+      "word": "expose",
+      "pos": "動詞",
+      "meaning": "使暴露；使接觸",
+      "sentences": [
+        {
+          "en": "Please do not expose the medicine to direct sunlight, because heat can make it less effective.",
+          "zh": "請不要讓藥物曝曬在陽光下，因為高溫會降低藥效。"
+        },
+        {
+          "en": "Working abroad will expose you to new cultures and ideas that can help your career.",
+          "zh": "在國外工作會讓你接觸新的文化和想法，對職涯有幫助。"
+        },
+        {
+          "en": "Workers must wear ear protection if their jobs expose them to loud noise in the factory every day.",
+          "zh": "如果工作讓工人每天暴露在工廠噪音中，就必須戴耳罩。"
+        },
+        {
+          "en": "The program aims to expose young students to science by letting them visit real laboratories.",
+          "zh": "這個計畫讓年輕學生參觀真正的實驗室，目的是讓他們接觸科學。"
+        },
+        {
+          "en": "If you expose the paper to water, the ink may run and the document will be difficult to read.",
+          "zh": "如果紙碰到水，墨水可能會暈開，文件會很難讀。"
+        }
+      ],
+      "distractors": [
+        "exposé",
+        "oppose",
+        "impose"
+      ],
+      "note": "語塊：expose to（使接觸……；暴露在……）、be exposed to（暴露於……）。expose 是「讓……接觸到或被看到」；exposure 是名詞；expose 也有「揭發」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-essential",
+      "word": "essential",
+      "pos": "形容詞",
+      "meaning": "必要的；不可或缺的",
+      "sentences": [
+        {
+          "en": "Good communication skills are essential for anyone who wants to work in customer service or sales.",
+          "zh": "良好的溝通能力對任何想從事客服或業務的人都是必要的。"
+        },
+        {
+          "en": "It is essential that all workers wear helmets when they enter the construction site near the river.",
+          "zh": "所有工人進入河邊工地時都必須戴安全帽。"
+        },
+        {
+          "en": "Fresh ingredients are an essential part of every dish that the chef prepares in the restaurant.",
+          "zh": "新鮮食材是主廚在餐廳做的每道菜不可或缺的部分。"
+        },
+        {
+          "en": "Water and food are essential items that every family should keep at home in case of an emergency.",
+          "zh": "水和食物是每個家庭應該存放在家以防緊急狀況的必要物品。"
+        },
+        {
+          "en": "Regular maintenance is essential for keeping the machines safe and avoiding costly repairs in the future.",
+          "zh": "定期保養對維持機器安全和避免未來昂貴修理費是必要的。"
+        }
+      ],
+      "distractors": [
+        "essence",
+        "potential",
+        "eventual"
+      ],
+      "note": "語塊：essential for（對……必要）、it is essential that（……是必要的）、essential part（不可或缺的部分）。essential 是「非常重要、一定要有的」；necessary 意思接近；essence 是「本質」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acknowledge",
+      "word": "acknowledge",
+      "pos": "動詞",
+      "meaning": "承認；確認收到；感謝",
+      "sentences": [
+        {
+          "en": "Please acknowledge receipt of this e-mail so that we know the documents arrived safely at your office.",
+          "zh": "請確認收到這封電子郵件，讓我們知道文件安全送達貴辦公室。"
+        },
+        {
+          "en": "The CEO will acknowledge that the company made a mistake and promise to fix the problem quickly.",
+          "zh": "執行長會承認公司犯了錯，並承諾快速解決問題。"
+        },
+        {
+          "en": "We would like to acknowledge the support of every volunteer who helped at the festival this year.",
+          "zh": "我們想感謝今年在節慶幫忙的每位志工的支持。"
+        },
+        {
+          "en": "The manager will acknowledge the hard work of the team at the annual dinner next Friday.",
+          "zh": "經理會在下週五的年度晚宴上肯定團隊的辛勤工作。"
+        },
+        {
+          "en": "The supplier did not acknowledge our order, so please call them to make sure they received it.",
+          "zh": "供應商沒有確認我們的訂單，所以請打電話確認他們收到了。"
+        }
+      ],
+      "distractors": [
+        "knowledge",
+        "acknowledgement",
+        "admit"
+      ],
+      "note": "語塊：acknowledge receipt（確認收到）、acknowledge that（承認……）、acknowledge the support（感謝支持）。acknowledge 是「承認某事是真的」或「表示收到、感謝」；acknowledgment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occupancy",
+      "word": "occupancy",
+      "pos": "名詞",
+      "meaning": "入住率；占用",
+      "sentences": [
+        {
+          "en": "The hotel's occupancy rate is usually above ninety percent during the summer holiday season every year.",
+          "zh": "飯店的入住率每年暑假旺季通常超過九成。"
+        },
+        {
+          "en": "The sign in the elevator shows the maximum occupancy, which is twelve people at one time.",
+          "zh": "電梯裡的標示寫著最大容納人數是一次十二人。"
+        },
+        {
+          "en": "Hotels in the city center have very high occupancy during the large international conference every year.",
+          "zh": "每年國際研討會期間，市中心的飯店入住率都非常高。"
+        },
+        {
+          "en": "The new advertising campaign helped the resort increase its occupancy rate by fifteen percent this year.",
+          "zh": "新的廣告活動幫助度假村今年把入住率提高了一成五。"
+        },
+        {
+          "en": "The maximum occupancy of the meeting room is fifty people, so we need a larger space for the event.",
+          "zh": "會議室最多容納五十人，所以我們需要更大的場地辦活動。"
+        }
+      ],
+      "distractors": [
+        "occupation",
+        "accuracy",
+        "vacancy"
+      ],
+      "note": "語塊：occupancy rate（入住率）、maximum occupancy（最大容納人數）、high occupancy（高入住率）。occupancy 是「房間或空間被使用的程度」；occupy 是動詞「占用」；occupation 是「職業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-tune",
+      "word": "in tune",
+      "pos": "形容詞",
+      "meaning": "協調的；合拍的；音準正確的",
+      "sentences": [
+        {
+          "en": "Successful companies stay in tune with what their customers want and change their products quickly.",
+          "zh": "成功的公司會掌握顧客的需求，並快速調整產品。"
+        },
+        {
+          "en": "The new manager is very much in tune with the needs of the team, so everyone enjoys working with her.",
+          "zh": "新經理非常了解團隊的需求，所以大家都很喜歡和她共事。"
+        },
+        {
+          "en": "Please check that the piano is in tune before the concert begins on Saturday evening.",
+          "zh": "週六晚上音樂會開始前，請確認鋼琴音準正確。"
+        },
+        {
+          "en": "The designer's work is in tune with the latest trends, so young customers love her clothes.",
+          "zh": "那位設計師的作品跟得上最新潮流，所以年輕顧客很喜歡她的衣服。"
+        },
+        {
+          "en": "The company's plans are not in tune with the needs of the local community, so many residents are against them.",
+          "zh": "公司的計畫和當地社區的需求不一致，所以很多居民反對。"
+        }
+      ],
+      "distractors": [
+        "in turn",
+        "in time",
+        "in touch"
+      ],
+      "note": "語塊：in tune with（和……協調一致）、out of tune（走音；不協調）。in tune with 是「了解、跟得上」；out of tune 是「走音」；tune 是「曲調」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trade-in",
+      "word": "trade in",
+      "pos": "片語動詞",
+      "meaning": "以舊換新",
+      "sentences": [
+        {
+          "en": "Customers can trade in their old phone and receive a discount of up to two hundred dollars on a new one.",
+          "zh": "顧客可以用舊手機換新，購買新手機最多折抵兩百元。"
+        },
+        {
+          "en": "Many people trade in their cars every five years so that they always have a safe and modern vehicle.",
+          "zh": "很多人每五年換一次車，讓自己總是有一台安全又新的車。"
+        },
+        {
+          "en": "If you trade in your old laptop this month, you will get a free bag with your new computer.",
+          "zh": "如果你這個月用舊筆電換新，買新電腦時會送你一個免費包包。"
+        },
+        {
+          "en": "The store will check the condition of your old phone before you trade in the phone for a new model.",
+          "zh": "你用舊手機換購新機之前，店家會先檢查它的狀況。"
+        },
+        {
+          "en": "You can trade in any old television, even if it is broken, and the store will recycle it for you.",
+          "zh": "你可以用任何舊電視換新，即使壞了也可以，店家會幫你回收。"
+        }
+      ],
+      "distractors": [
+        "trade off",
+        "trade on",
+        "turn in"
+      ],
+      "note": "語塊：trade in an old phone（舊手機換新）、trade in for（換購……）。trade in 是「把舊的拿去抵錢買新的」；trade-in 是名詞「以舊換新」；exchange 是「交換」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-professionally",
+      "word": "professionally",
+      "pos": "副詞",
+      "meaning": "專業地；職業上",
+      "sentences": [
+        {
+          "en": "All of our staff are professionally trained to help customers choose the right product for their needs.",
+          "zh": "我們所有員工都受過專業訓練，幫助顧客選擇符合需求的產品。"
+        },
+        {
+          "en": "Please behave professionally when you meet clients, even if they are angry or difficult to deal with.",
+          "zh": "見客戶時請表現專業，即使他們很生氣或很難打交道。"
+        },
+        {
+          "en": "The photos for the new brochure were taken professionally, so they look much better than before.",
+          "zh": "新簡介的照片是專業拍攝的，所以看起來比以前好很多。"
+        },
+        {
+          "en": "Ms. Lee handled the difficult situation professionally and solved the problem in a few minutes.",
+          "zh": "李小姐專業地處理了困難的狀況，幾分鐘就解決了問題。"
+        },
+        {
+          "en": "The wedding cake was professionally decorated with edible flowers and small gold leaves for the bride and groom.",
+          "zh": "婚禮蛋糕由專業人員用可食用花朵和小金箔為新人裝飾。"
+        }
+      ],
+      "distractors": [
+        "personally",
+        "provisionally",
+        "proportionally"
+      ],
+      "note": "語塊：professionally trained（受過專業訓練）、behave professionally（表現專業）、taken professionally（專業拍攝）、handled professionally（專業處理）、professionally decorated（專業裝飾）。professionally 是 professional（專業的）的副詞；expertly 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proficient",
+      "word": "proficient",
+      "pos": "形容詞",
+      "meaning": "精通的；熟練的",
+      "sentences": [
+        {
+          "en": "Applicants must be proficient in English and have experience using basic computer programs at work.",
+          "zh": "應徵者必須精通英文，並有在工作中使用基本電腦程式的經驗。"
+        },
+        {
+          "en": "Ms. Kim is highly proficient at writing reports, so the manager often asks her to check our work.",
+          "zh": "金小姐非常擅長寫報告，所以經理常常請她檢查我們的工作。"
+        },
+        {
+          "en": "After six months of training, the new workers became proficient in using the machines safely.",
+          "zh": "經過六個月訓練，新工人已經能熟練又安全地使用機器。"
+        },
+        {
+          "en": "The company is looking for designers who are proficient in several kinds of design software.",
+          "zh": "公司在找精通好幾種設計軟體的設計師。"
+        },
+        {
+          "en": "Being proficient in a second language can help you get a better job in an international company.",
+          "zh": "精通第二外語能幫你在跨國公司找到更好的工作。"
+        }
+      ],
+      "distractors": [
+        "efficient",
+        "sufficient",
+        "deficient"
+      ],
+      "note": "語塊：proficient in（精通……）、proficient at（擅長……）、highly proficient（非常熟練）。proficient 是「做得很好、很熟練的」；skilled 意思接近；proficiency 是名詞「熟練度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-business-hours",
+      "word": "business hours",
+      "pos": "名詞",
+      "meaning": "營業時間",
+      "sentences": [
+        {
+          "en": "Our customer care center is open during business hours, from nine in the morning until six in the evening.",
+          "zh": "我們的客服中心在營業時間開放，從早上九點到晚上六點。"
+        },
+        {
+          "en": "The store will have extended business hours during the holiday season, so it will close at ten o'clock.",
+          "zh": "假期期間那家店會延長營業時間，所以會到十點才打烊。"
+        },
+        {
+          "en": "Please call the bank during regular business hours if you want to speak to a person.",
+          "zh": "如果你想和真人說話，請在正常營業時間打電話給銀行。"
+        },
+        {
+          "en": "The museum's business hours are posted on its website, and they change during the winter months.",
+          "zh": "博物館的營業時間公布在網站上，冬季期間會有變動。"
+        },
+        {
+          "en": "Orders placed outside business hours will be processed by our staff on the next working day.",
+          "zh": "營業時間外下的訂單會由我們的員工在下一個工作天處理。"
+        }
+      ],
+      "distractors": [
+        "office hours",
+        "rush hours",
+        "working hours"
+      ],
+      "note": "語塊：during business hours（營業時間內）、regular business hours（正常營業時間）、extended business hours（延長營業時間）。business hours 是「店或公司開門的時間」；office hours 是「上班時間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-method",
+      "word": "method",
+      "pos": "名詞",
+      "meaning": "方法",
+      "sentences": [
+        {
+          "en": "Please choose a payment method, such as credit card or bank transfer, before you complete your order.",
+          "zh": "完成訂單前，請選擇付款方式，例如信用卡或銀行轉帳。"
+        },
+        {
+          "en": "The school uses a new teaching method that helps students learn English through games and songs.",
+          "zh": "學校使用一種新的教學方法，幫助學生透過遊戲和歌曲學英文。"
+        },
+        {
+          "en": "The engineers developed a new method of producing batteries that is cheaper and faster than the old one.",
+          "zh": "工程師開發出一種比舊方法更便宜又更快的電池生產方法。"
+        },
+        {
+          "en": "The restaurant uses a traditional method to make its bread, so it takes more than ten hours.",
+          "zh": "那家餐廳用傳統方法做麵包，所以要花十多個小時。"
+        },
+        {
+          "en": "Online banking has become the most popular payment method for young people in the city.",
+          "zh": "網路銀行已經成為市內年輕人最常用的付款方式。"
+        }
+      ],
+      "distractors": [
+        "meteor",
+        "metal",
+        "motive"
+      ],
+      "note": "語塊：payment method（付款方式）、teaching method（教學方法）、method of（……的方法）。method 是「有步驟的做法」；way 是一般的「方法」；technique 是「技巧」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-equipped",
+      "word": "equipped",
+      "pos": "形容詞",
+      "meaning": "配備……的；有能力的",
+      "sentences": [
+        {
+          "en": "Every meeting room in the hotel is equipped with a projector, a large screen, and fast wireless internet.",
+          "zh": "飯店每間會議室都配備投影機、大螢幕和高速無線網路。"
+        },
+        {
+          "en": "The new hospital is well equipped, so patients do not need to travel to the capital for treatment.",
+          "zh": "新醫院設備齊全，所以病人不必到首都治療。"
+        },
+        {
+          "en": "The apartment has a fully equipped kitchen, so guests can cook their own meals during their stay.",
+          "zh": "那間公寓有設備完善的廚房，所以房客住宿期間可以自己煮飯。"
+        },
+        {
+          "en": "The training program makes sure that every new manager is equipped to deal with difficult situations.",
+          "zh": "訓練計畫確保每位新主管都有能力處理困難的情況。"
+        },
+        {
+          "en": "The factory is equipped with modern machines that can work twenty-four hours a day without stopping.",
+          "zh": "工廠配備可以一天二十四小時不停運作的現代化機器。"
+        }
+      ],
+      "distractors": [
+        "equipment",
+        "equated",
+        "escaped"
+      ],
+      "note": "語塊：be equipped with（配備有……）、well equipped（設備齊全的）、fully equipped（設備完善的）。equipped 是 equip（裝備）的過去分詞；equipment 是名詞「設備」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entertainment",
+      "word": "entertainment",
+      "pos": "名詞",
+      "meaning": "娛樂；表演",
+      "sentences": [
+        {
+          "en": "The hotel offers live entertainment in the lobby every evening, including music and dance performances.",
+          "zh": "飯店每晚在大廳提供現場表演，包括音樂和舞蹈。"
+        },
+        {
+          "en": "Ms. Kim has worked in the entertainment industry for ten years, first as an actor and later as a director.",
+          "zh": "金小姐在娛樂產業工作了十年，先當演員，後來當導演。"
+        },
+        {
+          "en": "Many families visit the park on weekends for entertainment, because there are games and food stalls.",
+          "zh": "很多家庭週末去公園休閒娛樂，因為那裡有遊戲和小吃攤。"
+        },
+        {
+          "en": "The cruise ship has a theater, a cinema, and other entertainment for passengers of all ages.",
+          "zh": "郵輪有劇院、電影院和其他適合各年齡乘客的娛樂。"
+        },
+        {
+          "en": "The company spent a lot of money on entertainment for its anniversary party, including a famous singer.",
+          "zh": "公司在週年派對的表演上花了很多錢，包括請一位知名歌手。"
+        }
+      ],
+      "distractors": [
+        "entertainer",
+        "employment",
+        "establishment"
+      ],
+      "note": "語塊：live entertainment（現場表演）、entertainment industry（娛樂產業）、for entertainment（作為娛樂）。entertainment 是 entertain（娛樂；招待）的名詞；amusement 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-solicit",
+      "word": "solicit",
+      "pos": "動詞",
+      "meaning": "徵求；募集",
+      "sentences": [
+        {
+          "en": "The company will solicit feedback from customers before it changes the design of its website.",
+          "zh": "公司在修改網站設計前會先向顧客徵求意見。"
+        },
+        {
+          "en": "The charity will solicit donations from local businesses to build a new playground for the school.",
+          "zh": "慈善機構會向當地企業募集捐款，為學校蓋新的遊樂場。"
+        },
+        {
+          "en": "The manager decided to solicit opinions from every team member before making the final decision.",
+          "zh": "經理決定在做最後決定前，先徵詢每位組員的意見。"
+        },
+        {
+          "en": "The city will solicit ideas from residents about how to use the empty land near the river.",
+          "zh": "市政府會向居民徵求河邊空地使用方式的點子。"
+        },
+        {
+          "en": "Please do not solicit customers in the parking lot, because it is against the rules of the shopping mall.",
+          "zh": "請不要在停車場向顧客推銷，因為這違反購物中心的規定。"
+        }
+      ],
+      "distractors": [
+        "elicit",
+        "illicit",
+        "solidify"
+      ],
+      "note": "語塊：solicit feedback（徵求意見）、solicit donations（募集捐款）、solicit opinions（徵詢意見）。solicit 是正式的「請求、徵求」；ask for 意思接近；solicitor 是英式「律師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-branch-office",
+      "word": "branch office",
+      "pos": "名詞",
+      "meaning": "分公司；分處",
+      "sentences": [
+        {
+          "en": "The company will open a branch office in Singapore next year to serve customers in Southeast Asia.",
+          "zh": "公司明年將在新加坡開設分公司，服務東南亞的客戶。"
+        },
+        {
+          "en": "Ms. Lee was transferred to the branch office in Osaka, where she will manage a team of ten people.",
+          "zh": "李小姐被調到大阪分公司，在那裡管理一個十人團隊。"
+        },
+        {
+          "en": "Each branch office sends a monthly report on sales and expenses to the head office.",
+          "zh": "每家分公司每個月都會向總公司提交銷售和開支的報告。"
+        },
+        {
+          "en": "The new branch office is located near the airport, so it is easy for clients to visit.",
+          "zh": "新分公司在機場附近，所以客戶很方便前往。"
+        },
+        {
+          "en": "The bank plans to close one small branch office in the town because most customers now use online banking.",
+          "zh": "銀行計畫關閉鎮上一家小分行，因為現在大部分顧客都用網路銀行。"
+        }
+      ],
+      "distractors": [
+        "head office",
+        "box office",
+        "post office"
+      ],
+      "note": "語塊：open a branch office（開設分公司）、branch office in（在……的分公司）、each branch office（每家分公司）、new branch office（新分公司）、close a branch office（關閉分公司）。branch office 是公司在其他地方的辦公室；head office 是「總公司」；branch 也可以單獨用。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exquisite",
+      "word": "exquisite",
+      "pos": "形容詞",
+      "meaning": "精緻的；精美的",
+      "sentences": [
+        {
+          "en": "The hotel restaurant serves exquisite food that is prepared by a famous chef from France.",
+          "zh": "飯店餐廳供應由一位知名法國主廚烹調的精緻料理。"
+        },
+        {
+          "en": "The museum displays exquisite jewelry that was made for the royal family more than two hundred years ago.",
+          "zh": "博物館展出兩百多年前為王室製作的精美珠寶。"
+        },
+        {
+          "en": "The wedding dress has an exquisite design with small flowers that were made by hand in Italy.",
+          "zh": "那件婚紗有精美的設計，上面有在義大利手工製作的小花。"
+        },
+        {
+          "en": "The designer is known for her exquisite taste, so many famous people ask her to decorate their homes.",
+          "zh": "那位設計師以高雅的品味聞名，所以很多名人請她裝潢家裡。"
+        },
+        {
+          "en": "The craftspeople spent months making the exquisite wooden doors and windows for the old temple.",
+          "zh": "工匠花了好幾個月為古老的寺廟製作精美的木門和窗戶。"
+        }
+      ],
+      "distractors": [
+        "explicit",
+        "exclusive",
+        "requisite"
+      ],
+      "note": "語塊：exquisite design（精美的設計）、exquisite taste（高雅的品味）、exquisite food（精緻的料理）。exquisite 是「非常美、做工很細的」；elegant 意思接近；exquisitely 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-winery",
+      "word": "winery",
+      "pos": "名詞",
+      "meaning": "酒莊；釀酒廠",
+      "sentences": [
+        {
+          "en": "The tour includes a visit to a local winery, where guests can try several kinds of wine.",
+          "zh": "行程包括參觀一間當地酒莊，客人可以品嚐好幾種葡萄酒。"
+        },
+        {
+          "en": "The winery is open to visitors every weekend, and it offers lunch in its beautiful garden.",
+          "zh": "那間酒莊每個週末開放參觀，還在美麗的花園提供午餐。"
+        },
+        {
+          "en": "The family has run the winery for more than one hundred years, and their wine is sold around the world.",
+          "zh": "那個家族經營酒莊超過一百年，他們的葡萄酒銷往世界各地。"
+        },
+        {
+          "en": "Many tourists rent bicycles to visit every winery in the valley during the autumn harvest.",
+          "zh": "很多觀光客在秋收期間租自行車，參觀山谷裡的每一間酒莊。"
+        },
+        {
+          "en": "The hotel can arrange a day trip to a winery for guests who are interested in wine.",
+          "zh": "飯店可以為對葡萄酒有興趣的客人安排到酒莊的一日遊。"
+        }
+      ],
+      "distractors": [
+        "vineyard",
+        "brewery",
+        "bakery"
+      ],
+      "note": "語塊：visit a winery（參觀酒莊）、local winery（當地酒莊）。winery 是「釀葡萄酒的地方」；vineyard 是「葡萄園」；brewery 是「啤酒廠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-definitely",
+      "word": "definitely",
+      "pos": "副詞",
+      "meaning": "一定；肯定地",
+      "sentences": [
+        {
+          "en": "The new restaurant is definitely worth a visit, especially if you like fresh seafood and good wine.",
+          "zh": "那家新餐廳絕對值得一去，特別是如果你喜歡新鮮海鮮和好酒。"
+        },
+        {
+          "en": "I will definitely attend the meeting on Friday, so please save a seat for me.",
+          "zh": "我週五一定會參加會議，所以請幫我留個位子。"
+        },
+        {
+          "en": "The museum is definitely worth visiting, because its collection of paintings is one of the best in Asia.",
+          "zh": "那座博物館絕對值得參觀，因為它的畫作收藏是亞洲最好的之一。"
+        },
+        {
+          "en": "We will definitely not raise our prices this year, even though the cost of materials has increased.",
+          "zh": "即使材料成本上漲，我們今年也絕對不會漲價。"
+        },
+        {
+          "en": "If you are interested in the job, you should definitely send your résumé before the end of the month.",
+          "zh": "如果你對這份工作有興趣，一定要在月底前寄出履歷。"
+        }
+      ],
+      "distractors": [
+        "definitively",
+        "delicately",
+        "deliberately"
+      ],
+      "note": "語塊：definitely worth（絕對值得）、definitely not（絕對不）。definitely 是「毫無疑問地」；certainly 意思接近；definite 是形容詞「明確的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-uncomfortable",
+      "word": "uncomfortable",
+      "pos": "形容詞",
+      "meaning": "不舒服的；不自在的",
+      "sentences": [
+        {
+          "en": "The old chairs in the meeting room are very uncomfortable, so the company will buy new ones next month.",
+          "zh": "會議室的舊椅子很不舒服，所以公司下個月會買新的。"
+        },
+        {
+          "en": "Some new employees feel uncomfortable speaking in front of large groups, so the training helps them.",
+          "zh": "有些新員工在一大群人面前說話會感到不自在，所以訓練會幫助他們。"
+        },
+        {
+          "en": "The long flight was uncomfortable because the seats were small and the plane was very full.",
+          "zh": "長途飛行很不舒服，因為座位很小、飛機又很滿。"
+        },
+        {
+          "en": "Please tell your manager if you feel uncomfortable with any part of your job or your workplace.",
+          "zh": "如果你對工作或職場的任何部分感到不自在，請告訴主管。"
+        },
+        {
+          "en": "The shoes looked nice, but they were uncomfortable, so the customer returned them the next day.",
+          "zh": "那雙鞋看起來很好看，但穿起來不舒服，所以顧客隔天就退貨了。"
+        }
+      ],
+      "distractors": [
+        "unforgettable",
+        "uncontrollable",
+        "unconventional"
+      ],
+      "note": "語塊：feel uncomfortable（感到不自在）、uncomfortable chair（不舒服的椅子）。uncomfortable 是「身體不舒服或心裡不自在」；comfortable 是相反詞；comfort 是「舒適」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reorganize",
+      "word": "reorganize",
+      "pos": "動詞",
+      "meaning": "重新整理；改組",
+      "sentences": [
+        {
+          "en": "The new manager plans to reorganize the sales department so that each team focuses on one region.",
+          "zh": "新經理計畫改組業務部，讓每個團隊專注一個地區。"
+        },
+        {
+          "en": "We will reorganize the office this weekend, so please put your personal items in a box on Friday.",
+          "zh": "我們這個週末會重新整理辦公室，所以請在週五把個人物品放進箱子。"
+        },
+        {
+          "en": "The library will reorganize its books so that visitors and students can find them more easily.",
+          "zh": "圖書館會重新整理書籍，讓參觀者和學生更容易找到。"
+        },
+        {
+          "en": "The company decided to reorganize its website after customers said that it was difficult to use.",
+          "zh": "顧客說網站很難用之後，公司決定重新整理網站。"
+        },
+        {
+          "en": "Please reorganize the files on the shared computer so that everyone can find the reports quickly.",
+          "zh": "請重新整理共用電腦上的檔案，讓每個人都能很快找到報告。"
+        }
+      ],
+      "distractors": [
+        "recognize",
+        "reorder",
+        "reorient"
+      ],
+      "note": "語塊：reorganize the office（重新整理辦公室）、reorganize the sales department（改組業務部）、reorganize its books（重新整理書籍）、reorganize its website（重新整理網站）、reorganize the files（重新整理檔案）。reorganize 是「重新安排組織或順序」；restructure 意思接近；reorganization 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-office-supply",
+      "word": "office supply",
+      "pos": "名詞",
+      "meaning": "辦公用品",
+      "sentences": [
+        {
+          "en": "Please tell the office manager when we need to order any office supply, such as pens or paper.",
+          "zh": "需要訂購任何辦公用品，例如筆或紙時，請告訴辦公室經理。"
+        },
+        {
+          "en": "The office supply store near the station sells printer ink at a lower price than most shops.",
+          "zh": "車站附近的辦公用品店印表機墨水賣得比大部分店便宜。"
+        },
+        {
+          "en": "The company spends about two thousand dollars on office supply every month for its three offices.",
+          "zh": "公司三間辦公室每個月大約花兩千元在辦公用品上。"
+        },
+        {
+          "en": "Each department can order office supply online, and the items will arrive the next morning.",
+          "zh": "每個部門都可以在線上訂購辦公用品，隔天早上就會送到。"
+        },
+        {
+          "en": "The new office supply system helps us keep track of how much paper each team uses.",
+          "zh": "新的辦公用品系統幫助我們追蹤每個團隊用了多少紙。"
+        }
+      ],
+      "distractors": [
+        "office space",
+        "office hours",
+        "power supply"
+      ],
+      "note": "語塊：office supply store（辦公用品店）、order office supply（訂購辦公用品）。office supplies 常用複數，指筆、紙、資料夾等；stationery 是「文具」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
