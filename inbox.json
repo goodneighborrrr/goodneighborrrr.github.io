@@ -61303,6 +61303,706 @@
       ],
       "note": "語塊：upon completion（完成時）、completion date（完工日期）、near completion（接近完成）。completion 是 complete（完成）的名詞；completely 是副詞「完全地」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exhibit",
+      "word": "exhibit",
+      "pos": "動詞",
+      "meaning": "展示；展出",
+      "sentences": [
+        {
+          "en": "The gallery will exhibit works by young artists from all over Asia during the month of December.",
+          "zh": "畫廊十二月將展出來自亞洲各地年輕藝術家的作品。"
+        },
+        {
+          "en": "More than three hundred companies will exhibit at the technology fair in Berlin next spring.",
+          "zh": "明年春天將有三百多家公司在柏林的科技展參展。"
+        },
+        {
+          "en": "The museum plans to exhibit the ancient ceramic bowls that were found by the underwater archaeology team.",
+          "zh": "博物館打算展出水下考古團隊發現的古代陶碗。"
+        },
+        {
+          "en": "Our company will exhibit its new electric bicycles at the trade show, so please visit our booth.",
+          "zh": "我們公司會在展覽上展出新的電動自行車，請來我們的攤位參觀。"
+        },
+        {
+          "en": "The potter was invited to exhibit works at a famous gallery in Tokyo after winning an international award.",
+          "zh": "那位陶藝家贏得國際獎後，受邀在東京一家知名藝廊展出作品。"
+        }
+      ],
+      "distractors": [
+        "inhibit",
+        "exit",
+        "exist"
+      ],
+      "note": "語塊：exhibit works（展出作品）、exhibit at（在……展出）。exhibit 可以當動詞「展示」或名詞「展品；展覽」；exhibition 是「展覽（會）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-provide",
+      "word": "provide",
+      "pos": "動詞",
+      "meaning": "提供",
+      "sentences": [
+        {
+          "en": "The hotel will provide guests with free breakfast, parking, and airport transportation during their stay.",
+          "zh": "飯店會在住宿期間提供客人免費早餐、停車和機場接送。"
+        },
+        {
+          "en": "The company will provide laptops for all new employees on their first day of work.",
+          "zh": "公司會在第一天上班時為所有新員工提供筆電。"
+        },
+        {
+          "en": "We provide free delivery for customers who live within ten kilometers of the store or spend over fifty dollars.",
+          "zh": "我們為住在店家十公里內或消費超過五十元的顧客提供免費送貨。"
+        },
+        {
+          "en": "The city plans to provide residents with more information about recycling through a new mobile app.",
+          "zh": "市政府打算透過新的手機 App 提供居民更多回收資訊。"
+        },
+        {
+          "en": "The training program will provide workers with the skills they need to operate the new machinery safely.",
+          "zh": "訓練計畫會提供工人安全操作新機械所需的技能。"
+        }
+      ],
+      "distractors": [
+        "prove",
+        "divide",
+        "proceed"
+      ],
+      "note": "語塊：provide sb with（提供某人……）、provide sth for（為……提供）、provided that（只要……）。provide sb with sth 或 provide sth for/to sb；provider 是「提供者」；provided that 是「只要」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-project",
+      "word": "project",
+      "pos": "動詞",
+      "meaning": "預測；預估",
+      "sentences": [
+        {
+          "en": "Analysts project growth of about five percent in the tourism sector over the next two years.",
+          "zh": "分析師預估觀光業在未來兩年會成長約百分之五。"
+        },
+        {
+          "en": "The finance team will project sales for next year based on the results of the last three years.",
+          "zh": "財務團隊會根據過去三年的結果預估明年的銷售。"
+        },
+        {
+          "en": "Economists project that housing prices will continue to rise in the capital until at least next summer.",
+          "zh": "經濟學家預測首都房價至少會持續上漲到明年夏天。"
+        },
+        {
+          "en": "The company did not project growth in the European market, so the strong sales there were a surprise.",
+          "zh": "公司沒有預估歐洲市場的成長，所以那裡的銷售強勁是個驚喜。"
+        },
+        {
+          "en": "Experts project sales of electric cars to double in the region within the next five years.",
+          "zh": "專家預估這一區電動車的銷量在未來五年內會加倍。"
+        }
+      ],
+      "distractors": [
+        "protect",
+        "reject",
+        "inject"
+      ],
+      "note": "語塊：be projected to（預計會……）、project growth（預估成長）、project sales（預估銷售）。project 當動詞（重音在後）是「預估、投射」；當名詞（重音在前）是「專案」；projection 是「預測」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-managing-director",
+      "word": "managing director",
+      "pos": "名詞",
+      "meaning": "總經理；常務董事",
+      "sentences": [
+        {
+          "en": "The board will appoint a managing director for the new Asian division at its meeting next week.",
+          "zh": "董事會下週開會時會為新的亞洲事業部任命總經理。"
+        },
+        {
+          "en": "Ms. Fischer has been the managing director of the company since it was founded fifteen years ago.",
+          "zh": "費雪小姐從公司十五年前創立以來一直擔任總經理。"
+        },
+        {
+          "en": "The managing director will visit every branch this month to meet employees and listen to their ideas.",
+          "zh": "總經理這個月會走訪每家分公司，和員工見面並聽取他們的意見。"
+        },
+        {
+          "en": "Mr. Choi was promoted to managing director after he helped the company double its profits in three years.",
+          "zh": "崔先生幫公司在三年內獲利加倍後，被升為總經理。"
+        },
+        {
+          "en": "All requests for large purchases must be approved by the managing director before the order is placed.",
+          "zh": "所有大筆採購申請都必須在下單前由總經理核准。"
+        }
+      ],
+      "distractors": [
+        "marketing director",
+        "managing editor",
+        "board director"
+      ],
+      "note": "語塊：appoint a managing director（任命總經理）、managing director of（……的總經理）。managing director 常縮寫成 MD，英式公司裡常等於 CEO；manager 是一般「經理」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subsidiary",
+      "word": "subsidiary",
+      "pos": "名詞",
+      "meaning": "子公司",
+      "sentences": [
+        {
+          "en": "The airline is a wholly owned subsidiary of a large company that also runs hotels and travel agencies.",
+          "zh": "那家航空公司是一家大企業的全資子公司，母公司也經營飯店和旅行社。"
+        },
+        {
+          "en": "The company opened an overseas subsidiary in Vietnam to produce clothing at a lower cost.",
+          "zh": "公司在越南設立海外子公司，以較低成本生產服裝。"
+        },
+        {
+          "en": "Ms. Ng was sent to manage the overseas subsidiary in Brazil for three years before she returned to the head office.",
+          "zh": "吳小姐被派去管理巴西的海外子公司三年，才回到總公司。"
+        },
+        {
+          "en": "The software company became a subsidiary of a larger technology firm after the merger last year.",
+          "zh": "那家軟體公司在去年合併後成為一家較大科技公司的子公司。"
+        },
+        {
+          "en": "Each subsidiary must send its financial report to the parent company at the end of every quarter.",
+          "zh": "每家子公司都必須在每季末把財務報告交給母公司。"
+        }
+      ],
+      "distractors": [
+        "subsidy",
+        "auxiliary",
+        "secondary"
+      ],
+      "note": "語塊：wholly owned subsidiary（全資子公司）、overseas subsidiary（海外子公司）、subsidiary of（……的子公司）。subsidiary 是被母公司控制的「子公司」；parent company 是「母公司」；subsidy 是「補助金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deal",
+      "word": "deal",
+      "pos": "名詞",
+      "meaning": "交易；優惠；協議",
+      "sentences": [
+        {
+          "en": "Buying a phone during the holiday sale is a good deal, because prices are usually thirty percent lower.",
+          "zh": "在假期特賣買手機很划算，因為價格通常便宜三成。"
+        },
+        {
+          "en": "Our sales team worked for six months to close a deal with the largest supermarket chain in the country.",
+          "zh": "我們的業務團隊努力了六個月，跟全國最大的連鎖超市談成交易。"
+        },
+        {
+          "en": "The customer service staff are trained to deal with complaints from customers quickly, politely, and professionally.",
+          "zh": "客服人員都受過訓練，要快速、有禮貌又專業地處理顧客的投訴。"
+        },
+        {
+          "en": "The two companies finally reached a deal after several weeks of difficult negotiations about prices and delivery dates.",
+          "zh": "經過好幾週關於價格和交貨日期的艱難談判，兩家公司終於達成協議。"
+        },
+        {
+          "en": "If you book your hotel and flight together on our website, you will get a better deal.",
+          "zh": "如果在我們網站上同時訂飯店和機票，可以拿到更划算的價格。"
+        }
+      ],
+      "distractors": [
+        "dial",
+        "deed",
+        "dealer"
+      ],
+      "note": "語塊：good deal（划算的交易）、close a deal（談成交易）、deal with（處理）。deal 當名詞是「交易、優惠」；deal with 是片語「處理」；a great deal of 是「大量的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-superior",
+      "word": "superior",
+      "pos": "形容詞",
+      "meaning": "較好的；上級的",
+      "sentences": [
+        {
+          "en": "Our products are more expensive, but they are made with superior quality materials that last much longer.",
+          "zh": "我們的產品比較貴，但用的是優良品質的材料，可以用更久。"
+        },
+        {
+          "en": "The new model is superior to the old one in speed, battery life, and design.",
+          "zh": "新機型在速度、電池續航力和設計上都優於舊機型。"
+        },
+        {
+          "en": "The hotel is famous for its superior service, and many guests write positive reviews online.",
+          "zh": "那家飯店以優質服務聞名，很多客人在網路上寫好評。"
+        },
+        {
+          "en": "Many customers believe that handmade furniture is superior to furniture produced in large factories overseas.",
+          "zh": "很多顧客認為手工家具優於海外大工廠生產的家具。"
+        },
+        {
+          "en": "The company won the contract because it offered superior quality and service at a very reasonable price.",
+          "zh": "那家公司拿下合約，是因為它以非常合理的價格提供優良品質和服務。"
+        }
+      ],
+      "distractors": [
+        "inferior",
+        "senior",
+        "supervisor"
+      ],
+      "note": "語塊：superior quality（優良品質）、superior to（優於……）、superior service（優質服務）。superior to 用 to，不用 than；inferior 是相反詞「較差的」；當名詞是「上司」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-upscale",
+      "word": "upscale",
+      "pos": "形容詞",
+      "meaning": "高檔的；高級的",
+      "sentences": [
+        {
+          "en": "The chef left the hotel to open an upscale restaurant in the city center, where dinner costs about a hundred dollars.",
+          "zh": "那位主廚離開飯店，在市中心開了一家高檔餐廳，晚餐大約一百元。"
+        },
+        {
+          "en": "Apartments in this upscale neighborhood are expensive, but they are close to parks, schools, and good shops.",
+          "zh": "這個高級住宅區的公寓很貴，但靠近公園、學校和好的商店。"
+        },
+        {
+          "en": "The fashion brand wants to enter the upscale market by selling high-quality bags at higher prices.",
+          "zh": "那個時尚品牌想用較高的價格販售高品質包包，進入高端市場。"
+        },
+        {
+          "en": "The new shopping mall is full of upscale stores that sell jewelry, watches, and designer clothes.",
+          "zh": "新購物中心滿是販售珠寶、手錶和名牌服飾的高檔商店。"
+        },
+        {
+          "en": "Many young professionals are moving into the upscale neighborhood near the river because of the new subway line.",
+          "zh": "因為新的地鐵線，很多年輕專業人士搬進河邊的高級住宅區。"
+        }
+      ],
+      "distractors": [
+        "upstairs",
+        "upset",
+        "update"
+      ],
+      "note": "語塊：upscale restaurant（高檔餐廳）、upscale neighborhood（高級住宅區）、upscale market（高端市場）。upscale 是美式說法「高檔的」；luxury 意思接近；downscale 是「低價位的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reminder",
+      "word": "reminder",
+      "pos": "名詞",
+      "meaning": "提醒；提醒通知",
+      "sentences": [
+        {
+          "en": "The dentist's office will send a reminder by text message one day before your appointment.",
+          "zh": "牙醫診所會在你預約的前一天傳簡訊提醒你。"
+        },
+        {
+          "en": "This is a friendly reminder that the office will be closed on Monday for the national holiday.",
+          "zh": "友善提醒，辦公室週一因國定假日休息。"
+        },
+        {
+          "en": "As a reminder, all employees must complete the online safety training by the end of this week.",
+          "zh": "提醒一下，所有員工都必須在本週末前完成線上安全訓練。"
+        },
+        {
+          "en": "The library sends a reminder to every member whose books are due in three days.",
+          "zh": "圖書館會寄提醒給每位借的書三天後到期的會員。"
+        },
+        {
+          "en": "Please send a reminder to the client about the payment, because the invoice is now two weeks late.",
+          "zh": "請寄一封付款提醒給客戶，因為請款單已經逾期兩週了。"
+        }
+      ],
+      "distractors": [
+        "remainder",
+        "remedy",
+        "remover"
+      ],
+      "note": "語塊：send a reminder（寄提醒）、friendly reminder（友善提醒）、as a reminder（提醒一下）。reminder 是 remind（提醒）的名詞；remind sb of / to do 是「提醒某人……」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-audiovisual",
+      "word": "audiovisual",
+      "pos": "形容詞",
+      "meaning": "視聽的",
+      "sentences": [
+        {
+          "en": "All meeting rooms in the hotel are equipped with modern audiovisual equipment, including projectors and speakers.",
+          "zh": "飯店所有會議室都配有現代化的視聽設備，包括投影機和喇叭。"
+        },
+        {
+          "en": "Please contact the technician if you need help setting up the audiovisual equipment for your presentation.",
+          "zh": "如果你需要協助架設簡報用的視聽設備，請聯絡技術人員。"
+        },
+        {
+          "en": "The language school uses audiovisual materials such as videos and songs to make lessons more interesting.",
+          "zh": "那間語言學校使用影片和歌曲等視聽教材，讓課程更有趣。"
+        },
+        {
+          "en": "The conference center will replace all of its old audiovisual equipment before the international meeting in May.",
+          "zh": "會議中心會在五月的國際會議前更換所有舊的視聽設備。"
+        },
+        {
+          "en": "Teachers can borrow audiovisual materials from the library for up to two weeks at no cost.",
+          "zh": "老師可以免費向圖書館借視聽教材，最多兩週。"
+        }
+      ],
+      "distractors": [
+        "audible",
+        "visual",
+        "audition"
+      ],
+      "note": "語塊：audiovisual equipment（視聽設備）、audiovisual materials（視聽教材）。audiovisual 常縮寫成 AV；audio 是「聲音的」，visual 是「視覺的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ahead-of-time",
+      "word": "ahead of time",
+      "pos": "副詞",
+      "meaning": "提前；事先",
+      "sentences": [
+        {
+          "en": "Please arrive ahead of time for the interview so that you can fill out the application form at the front desk.",
+          "zh": "面試請提早到，這樣你可以在櫃台填申請表。"
+        },
+        {
+          "en": "Tickets for the museum are cheaper if you book ahead of time on the website instead of buying them at the door.",
+          "zh": "博物館門票在網站上事先預訂會比現場買便宜。"
+        },
+        {
+          "en": "Good speakers always prepare ahead of time and practice their presentation at least three times.",
+          "zh": "好的講者總是事先準備，至少練習三次簡報。"
+        },
+        {
+          "en": "The team finished the project two weeks ahead of time, so the manager gave everyone a day off.",
+          "zh": "團隊提前兩週完成專案，所以經理讓每個人放一天假。"
+        },
+        {
+          "en": "If you need a special meal on the flight, please tell the airline ahead of time when you book your ticket.",
+          "zh": "如果你在飛機上需要特殊餐點，請在訂票時事先告訴航空公司。"
+        }
+      ],
+      "distractors": [
+        "on time",
+        "in time",
+        "behind time"
+      ],
+      "note": "語塊：arrive ahead of time（提早到）、book ahead of time（事先預訂）、prepare ahead of time（事先準備）。ahead of time 等於 in advance；ahead of schedule 是「比預定時間早」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-strictly",
+      "word": "strictly",
+      "pos": "副詞",
+      "meaning": "嚴格地；完全地",
+      "sentences": [
+        {
+          "en": "Smoking is strictly prohibited in all areas of the hospital, including the parking lot and the garden.",
+          "zh": "醫院所有區域都嚴格禁止吸菸，包括停車場和花園。"
+        },
+        {
+          "en": "The information in this report is strictly confidential and should not be shared with anyone outside the team.",
+          "zh": "這份報告的資訊極機密，不應該分享給團隊以外的任何人。"
+        },
+        {
+          "en": "All workers must strictly follow the safety rules when they operate heavy machinery in the factory.",
+          "zh": "所有工人在工廠操作重型機械時都必須嚴格遵守安全規定。"
+        },
+        {
+          "en": "Taking photos is strictly prohibited inside the gallery, because the light can damage the paintings.",
+          "zh": "畫廊內嚴格禁止拍照，因為光線會損傷畫作。"
+        },
+        {
+          "en": "The new contract is strictly confidential until both companies officially announce the deal at the press conference next Monday.",
+          "zh": "在兩家公司下週一於記者會正式宣布交易之前，新合約都是極機密。"
+        }
+      ],
+      "distractors": [
+        "straightly",
+        "stiffly",
+        "directly"
+      ],
+      "note": "語塊：strictly prohibited（嚴格禁止）、strictly confidential（極機密）、strictly follow（嚴格遵守）。strictly 是 strict（嚴格的）的副詞；strictly speaking 是「嚴格來說」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-separately",
+      "word": "separately",
+      "pos": "副詞",
+      "meaning": "分開地；個別地",
+      "sentences": [
+        {
+          "en": "The printer comes with one ink cartridge, but extra cartridges are sold separately at the counter.",
+          "zh": "印表機附一個墨水匣，但額外的墨水匣在櫃台另售。"
+        },
+        {
+          "en": "Each guest can pay separately at the end of the meal, so there is no need to split the bill yourselves.",
+          "zh": "每位客人用餐後都可以分開付款，所以不用自己分帳。"
+        },
+        {
+          "en": "The two teams will work separately on the project for a month and then share their results.",
+          "zh": "兩個團隊會分開做這個專案一個月，然後分享結果。"
+        },
+        {
+          "en": "Please keep your receipts for the trip separately from your personal receipts so that accounting can check them easily.",
+          "zh": "請把出差收據和個人收據分開放，方便會計檢查。"
+        },
+        {
+          "en": "The batteries are sold separately, so please remember to buy them if you want to use the toy right away.",
+          "zh": "電池另售，所以如果想馬上玩這個玩具，請記得買電池。"
+        }
+      ],
+      "distractors": [
+        "separable",
+        "desperately",
+        "seriously"
+      ],
+      "note": "語塊：sold separately（另售）、pay separately（分開付款）、separately from（與……分開）。separately 是 separate（分開的）的副詞；together 是相反詞「一起」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-session",
+      "word": "session",
+      "pos": "名詞",
+      "meaning": "（一段）會議；課程；時段",
+      "sentences": [
+        {
+          "en": "All new employees must attend a training session on the computer system during their first week.",
+          "zh": "所有新員工第一週都必須參加電腦系統的訓練課程。"
+        },
+        {
+          "en": "The speech will be followed by a question-and-answer session, so please prepare your questions in advance.",
+          "zh": "演講之後會有問答時間，所以請事先準備好問題。"
+        },
+        {
+          "en": "The morning session of the conference will focus on marketing, and the afternoon will focus on finance.",
+          "zh": "研討會上午場會聚焦行銷，下午則聚焦財務。"
+        },
+        {
+          "en": "If you cannot attend the training session on Monday, please sign up for the one on Thursday instead.",
+          "zh": "如果你無法參加週一的訓練課程，請改報名週四那場。"
+        },
+        {
+          "en": "Each session at the gym lasts one hour and is led by an experienced fitness instructor.",
+          "zh": "健身房的每堂課都是一小時，由經驗豐富的健身教練帶領。"
+        }
+      ],
+      "distractors": [
+        "section",
+        "cession",
+        "passion"
+      ],
+      "note": "語塊：training session（訓練課程）、question-and-answer session（問答時間）、morning session（上午場）。session 是「一段時間的活動」；section 是「部分；區域」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-first-come-first-served",
+      "word": "first-come, first-served",
+      "pos": "其他",
+      "meaning": "先到先得",
+      "sentences": [
+        {
+          "en": "Free tickets for the concert will be given out on a first-come, first-served basis at the city hall.",
+          "zh": "演唱會的免費門票會在市政府以先到先得的方式發放。"
+        },
+        {
+          "en": "Parking spaces near the entrance are first-come, first-served, so please arrive early if you want one.",
+          "zh": "入口附近的停車位是先到先得，所以如果想要請早點到。"
+        },
+        {
+          "en": "Seats at the seminar are available on a first-come, first-served basis, so we recommend registering soon.",
+          "zh": "研討會座位採先到先得，所以我們建議盡早報名。"
+        },
+        {
+          "en": "The free gifts will be handed out on a first-come, first-served basis until all of them are gone.",
+          "zh": "免費禮物會以先到先得的方式發放，直到發完為止。"
+        },
+        {
+          "en": "Rooms at the training center are assigned on a first-come, first-served basis, so please book early.",
+          "zh": "訓練中心的房間以先到先得的方式分配，所以請提早預訂。"
+        }
+      ],
+      "distractors": [
+        "first-class",
+        "first-hand",
+        "first-rate"
+      ],
+      "note": "語塊：on a first-come, first-served basis（以先到先得的方式）。first-come, first-served 是「誰先來誰先拿到」，常和 basis 一起用。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sole-proprietor",
+      "word": "sole proprietor",
+      "pos": "名詞",
+      "meaning": "獨資經營者",
+      "sentences": [
+        {
+          "en": "Mr. Garcia is the sole proprietor of the bakery, so he makes all of the decisions about the business.",
+          "zh": "賈西亞先生是麵包店的獨資經營者，所以生意上的所有決定都由他做。"
+        },
+        {
+          "en": "Many designers work as a sole proprietor because it is easy to start and does not require many employees.",
+          "zh": "很多設計師以獨資方式經營，因為容易起步，也不需要很多員工。"
+        },
+        {
+          "en": "As the sole proprietor of the shop, Ms. Kim is responsible for paying all of its taxes and debts.",
+          "zh": "身為那家店的獨資經營者，金小姐要負責支付店裡所有的稅金和債務。"
+        },
+        {
+          "en": "The bank asked every sole proprietor who applied for a loan to show tax records from the past three years.",
+          "zh": "銀行要求每位申請貸款的獨資經營者出示過去三年的稅務紀錄。"
+        },
+        {
+          "en": "After working as a sole proprietor for ten years, Mr. Lee decided to form a company with two partners.",
+          "zh": "以獨資方式經營十年後，李先生決定和兩位合夥人成立公司。"
+        }
+      ],
+      "distractors": [
+        "sole agent",
+        "co-owner",
+        "shareholder"
+      ],
+      "note": "語塊：sole proprietor of（……的獨資經營者）、work as a sole proprietor（以獨資方式經營）。sole 是「唯一的」；proprietor 是「業主、老闆」；sole proprietorship 是「獨資企業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spotless",
+      "word": "spotless",
+      "pos": "形容詞",
+      "meaning": "一塵不染的；非常乾淨的",
+      "sentences": [
+        {
+          "en": "The hotel staff work hard to keep spotless every room, bathroom, and hallway in the building.",
+          "zh": "飯店員工很努力讓大樓裡的每間房間、浴室和走廊都保持一塵不染。"
+        },
+        {
+          "en": "The kitchen in the restaurant was spotless, so the health inspector gave it the highest score.",
+          "zh": "那家餐廳的廚房一塵不染，所以衛生稽查員給了最高分。"
+        },
+        {
+          "en": "Mr. Lopez has a spotless record as a driver and has never had an accident in thirty years.",
+          "zh": "羅培茲先生的駕駛紀錄完美，三十年來從沒出過事故。"
+        },
+        {
+          "en": "The new office looked spotless when the employees arrived on Monday morning after the move.",
+          "zh": "搬家後員工週一早上抵達時，新辦公室看起來一塵不染。"
+        },
+        {
+          "en": "Customers often say that our stores are spotless and that the staff are always friendly.",
+          "zh": "顧客常說我們的店非常乾淨，員工也總是很親切。"
+        }
+      ],
+      "distractors": [
+        "spotlight",
+        "speechless",
+        "pointless"
+      ],
+      "note": "語塊：keep spotless（保持一塵不染）、spotless record（完美紀錄）、spotless kitchen（一塵不染的廚房）、look spotless（看起來一塵不染）。spotless 是「一點污點都沒有」；spot 是「斑點；地點」；immaculate 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-drapery",
+      "word": "drapery",
+      "pos": "名詞",
+      "meaning": "窗簾；布簾",
+      "sentences": [
+        {
+          "en": "The hotel replaced the old drapery in every room with new curtains that block out more light.",
+          "zh": "飯店把每間房間的舊窗簾換成能擋更多光的新窗簾。"
+        },
+        {
+          "en": "The drapery store downtown sells beautiful fabric in more than two hundred colors and patterns.",
+          "zh": "市中心的窗簾店販售兩百多種顏色和花樣的布料。"
+        },
+        {
+          "en": "Heavy drapery helps keep the meeting room quiet and warm during the cold winter months.",
+          "zh": "厚重的窗簾在寒冷的冬季幫助會議室保持安靜和溫暖。"
+        },
+        {
+          "en": "The designer chose a light drapery fabric that matches the color of the sofa and the carpet.",
+          "zh": "設計師選了一種和沙發、地毯顏色相配的輕薄窗簾布料。"
+        },
+        {
+          "en": "Please measure the windows in every room carefully before you order drapery from our online store.",
+          "zh": "從我們的網路商店訂購窗簾之前，請仔細量好每個房間的窗戶尺寸。"
+        }
+      ],
+      "distractors": [
+        "draper",
+        "bravery",
+        "drawer"
+      ],
+      "note": "語塊：drapery fabric（窗簾布料）、drapery store（窗簾店）、heavy drapery（厚重的窗簾）。drapery 多指厚重的「窗簾、布簾」；curtain 是一般「窗簾」；drape 是動詞「覆蓋」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stopover",
+      "word": "stopover",
+      "pos": "名詞",
+      "meaning": "中途停留；短暫停留",
+      "sentences": [
+        {
+          "en": "We will make a stopover in Singapore for two days on our way to Australia next month.",
+          "zh": "下個月去澳洲途中，我們會在新加坡中途停留兩天。"
+        },
+        {
+          "en": "The airline offers a free hotel room for passengers who have an overnight stopover in Dubai.",
+          "zh": "航空公司為在杜拜過夜停留的乘客提供免費飯店房間。"
+        },
+        {
+          "en": "The cheapest ticket includes a stopover in Hong Kong, which adds about five hours to the trip.",
+          "zh": "最便宜的機票包含在香港的中途停留，行程會多大約五小時。"
+        },
+        {
+          "en": "Many travelers choose a stopover in Istanbul so that they can visit the city before flying to Europe.",
+          "zh": "很多旅客選擇在伊斯坦堡中途停留，在飛往歐洲之前參觀這座城市。"
+        },
+        {
+          "en": "The tour includes an overnight stopover in Kyoto, where guests can enjoy a traditional dinner.",
+          "zh": "這個行程包含在京都過夜停留，客人可以享用傳統晚餐。"
+        }
+      ],
+      "distractors": [
+        "layover",
+        "takeover",
+        "leftover"
+      ],
+      "note": "語塊：make a stopover（中途停留）、overnight stopover（過夜停留）、stopover in（在……停留）。stopover 是長途旅行中途的短暫停留；layover 意思接近，多指轉機等待時間。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-intent",
+      "word": "intent",
+      "pos": "名詞",
+      "meaning": "意圖；目的",
+      "sentences": [
+        {
+          "en": "The two companies signed a letter of intent to work together on a new solar plant project.",
+          "zh": "兩家公司簽了意向書，要合作一個新的太陽能電廠專案。"
+        },
+        {
+          "en": "The new rules were written with the intent of making the workplace safer for every employee.",
+          "zh": "新規定是為了讓職場對每位員工都更安全而制定的。"
+        },
+        {
+          "en": "The firm announced its intent to buy a smaller competitor in the European market next year.",
+          "zh": "那家公司宣布有意在明年收購歐洲市場一家較小的競爭對手。"
+        },
+        {
+          "en": "Please send us a letter of intent if you are interested in becoming a supplier for our stores.",
+          "zh": "如果您有興趣成為我們店的供應商，請寄一封意向書給我們。"
+        },
+        {
+          "en": "The CEO said that it was never his intent to close the factory or reduce the number of workers.",
+          "zh": "執行長說他從來沒有要關閉工廠或裁員的意圖。"
+        }
+      ],
+      "distractors": [
+        "intend",
+        "content",
+        "extent"
+      ],
+      "note": "語塊：letter of intent（意向書）、with the intent of（為了……）、intent to（意圖……）。intent 是較正式的「意圖」；intention 意思一樣，較常用；intend 是動詞「打算」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
