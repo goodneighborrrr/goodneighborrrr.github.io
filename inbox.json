@@ -82268,6 +82268,706 @@
       ],
       "note": "語塊：screen applicants（篩選應徵者）、screen a film（放映電影）、be screened for（接受……篩檢）。screen 當動詞是「篩選檢查」或「放映」；當名詞是「螢幕」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instruct",
+      "word": "instruct",
+      "pos": "動詞",
+      "meaning": "指示；教導",
+      "sentences": [
+        {
+          "en": "The manager will instruct all employees to leave the building by the stairs during the fire drill.",
+          "zh": "經理會指示所有員工在消防演習時走樓梯離開大樓。"
+        },
+        {
+          "en": "Please instruct the new staff on how to use the cash register before they start working on Saturday.",
+          "zh": "請在新員工週六開始上班前，教他們如何使用收銀機。"
+        },
+        {
+          "en": "The pilot will instruct passengers to fasten their seat belts when the plane enters bad weather.",
+          "zh": "飛機進入惡劣天氣時，機長會指示乘客繫好安全帶。"
+        },
+        {
+          "en": "The doctor will instruct the patient to rest for two weeks and avoid lifting anything heavy.",
+          "zh": "醫生會指示病人休息兩週，避免提重物。"
+        },
+        {
+          "en": "The trainer will instruct each new worker on the safety rules before they operate any machine.",
+          "zh": "訓練員會在新工人操作任何機器前教導他們安全規定。"
+        }
+      ],
+      "distractors": [
+        "construct",
+        "obstruct",
+        "destruct"
+      ],
+      "note": "語塊：instruct sb to do（指示某人做……）、be instructed to（被指示……）。instruct 是正式的「指示、教」；instruction 是名詞「指示；說明」；instructor 是「講師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-differentiation",
+      "word": "differentiation",
+      "pos": "名詞",
+      "meaning": "區分；差異化",
+      "sentences": [
+        {
+          "en": "Product differentiation is important for small companies that want to compete with large international brands.",
+          "zh": "產品差異化對想和大型國際品牌競爭的小公司很重要。"
+        },
+        {
+          "en": "The report explains the differentiation between the two services, so customers can choose the right one.",
+          "zh": "報告說明兩種服務之間的區分，讓顧客能選對適合的。"
+        },
+        {
+          "en": "The company focuses on product differentiation by offering unique designs that no other store in the city sells.",
+          "zh": "公司專注於產品差異化，提供市內其他店都沒有賣的獨特設計。"
+        },
+        {
+          "en": "Without clear differentiation, customers will simply choose the cheapest product on the shelf every time.",
+          "zh": "如果沒有明確的差異化，顧客每次都會直接選貨架上最便宜的產品。"
+        },
+        {
+          "en": "The marketing team will discuss product differentiation at the meeting with the designers next week.",
+          "zh": "行銷團隊下週會和設計師開會討論產品差異化。"
+        }
+      ],
+      "distractors": [
+        "difference",
+        "determination",
+        "diversification"
+      ],
+      "note": "語塊：product differentiation（產品差異化）、differentiation between（……之間的區分）。differentiation 是 differentiate（區分）的名詞；difference 是「差異」；distinction 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gala",
+      "word": "gala",
+      "pos": "名詞",
+      "meaning": "盛會；慶祝晚會",
+      "sentences": [
+        {
+          "en": "The museum will hold a charity gala next month to raise money for the refurbishment of its main hall.",
+          "zh": "博物館下個月將舉辦慈善晚會，為大廳整修募款。"
+        },
+        {
+          "en": "More than five hundred guests attended the gala dinner, including the mayor and several famous actors.",
+          "zh": "五百多位賓客出席了盛大晚宴，包括市長和好幾位知名演員。"
+        },
+        {
+          "en": "The annual gala is the most important event of the year for the theater, and tickets sell out quickly.",
+          "zh": "年度盛會是劇院一年中最重要的活動，門票很快就賣光。"
+        },
+        {
+          "en": "Guests at the charity gala must wear formal clothes, because it is a black-tie event.",
+          "zh": "慈善晚會的賓客必須穿正式服裝，因為這是一場正式晚宴。"
+        },
+        {
+          "en": "The hotel's main hall will be decorated with flowers and lights for the gala dinner on Saturday.",
+          "zh": "飯店大廳將為週六的盛大晚宴佈置鮮花和燈飾。"
+        }
+      ],
+      "distractors": [
+        "galaxy",
+        "gale",
+        "gallery"
+      ],
+      "note": "語塊：charity gala（慈善晚會）、gala dinner（盛大晚宴）、annual gala（年度盛會）。gala 是正式、盛大的慶祝活動；party 是一般「派對」；galaxy 是「銀河」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-routinely",
+      "word": "routinely",
+      "pos": "副詞",
+      "meaning": "例行地；經常",
+      "sentences": [
+        {
+          "en": "The security staff routinely check every bag at the entrance of the building before visitors go upstairs.",
+          "zh": "保全人員在訪客上樓前例行檢查大樓入口的每個包包。"
+        },
+        {
+          "en": "Engineers routinely test the machines in the factory to make sure that they are safe to use.",
+          "zh": "工程師例行測試工廠的機器，確保它們可以安全使用。"
+        },
+        {
+          "en": "Many office workers routinely use their phones to check e-mail before they arrive at work.",
+          "zh": "很多上班族經常在抵達公司前用手機查看電子郵件。"
+        },
+        {
+          "en": "The hotel routinely replaces the towels and sheets, even if guests stay for only one night.",
+          "zh": "即使客人只住一晚，飯店也會例行更換毛巾和床單。"
+        },
+        {
+          "en": "Doctors routinely ask patients about their diet, sleep, and exercise during their yearly health checks.",
+          "zh": "醫生在年度健康檢查時經常會詢問病人的飲食、睡眠和運動狀況。"
+        }
+      ],
+      "distractors": [
+        "routine",
+        "roughly",
+        "rudely"
+      ],
+      "note": "語塊：routinely check（例行檢查）、routinely use（經常使用）。routinely 是「按照慣例、經常地」；regularly 意思接近；routine 是「例行公事」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gratefully",
+      "word": "gratefully",
+      "pos": "副詞",
+      "meaning": "感激地",
+      "sentences": [
+        {
+          "en": "The museum gratefully accepted the donation, which will be used to repair the roof of the old building.",
+          "zh": "博物館感激地接受了這筆捐款，將用來修理舊建築的屋頂。"
+        },
+        {
+          "en": "We gratefully acknowledge the support of the local businesses that helped make the festival possible.",
+          "zh": "我們衷心感謝讓節慶得以舉辦的當地企業的支持。"
+        },
+        {
+          "en": "The family gratefully thanked the firefighters who saved their home from the fire last night.",
+          "zh": "那家人感激地向昨晚從火災中救下他們家的消防員道謝。"
+        },
+        {
+          "en": "The school will gratefully accept any old books or computers that you no longer need.",
+          "zh": "學校會感激地接受任何你不再需要的舊書或電腦。"
+        },
+        {
+          "en": "The new employee gratefully accepted the help of her colleagues during her first difficult week.",
+          "zh": "新員工在艱難的第一週感激地接受了同事的幫忙。"
+        }
+      ],
+      "distractors": [
+        "gracefully",
+        "greatly",
+        "thankfully"
+      ],
+      "note": "語塊：gratefully accept（感激地接受）、gratefully acknowledge（衷心感謝）。gratefully 是 grateful（感激的）的副詞；thankfully 是「幸好；感激地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quantity",
+      "word": "quantity",
+      "pos": "名詞",
+      "meaning": "數量",
+      "sentences": [
+        {
+          "en": "The company bought a large quantity of paper because it was cheaper to order a lot at once.",
+          "zh": "公司買了大量的紙，因為一次大量訂購比較便宜。"
+        },
+        {
+          "en": "Please check the quantity of each product in the shipment before you sign for the delivery.",
+          "zh": "簽收貨物之前，請先確認這批貨裡每項產品的數量。"
+        },
+        {
+          "en": "Customers who buy in quantity can receive a discount of up to twenty percent on every order.",
+          "zh": "大量購買的顧客每筆訂單最多可以打八折。"
+        },
+        {
+          "en": "The restaurant cooks a large quantity of rice every morning, because it is used in many dishes.",
+          "zh": "那家餐廳每天早上煮大量的飯，因為很多菜都會用到。"
+        },
+        {
+          "en": "The quantity of orders increased sharply during the holiday season, so we hired extra staff.",
+          "zh": "假期期間訂單數量大增，所以我們多雇了人手。"
+        }
+      ],
+      "distractors": [
+        "quality",
+        "quantify",
+        "quarterly"
+      ],
+      "note": "語塊：large quantity（大量）、in quantity（大量地）、quantity of（……的數量）。quantity 是「多少」；quality 是「品質」，拼法很像；amount 用在不可數名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-serene",
+      "word": "serene",
+      "pos": "形容詞",
+      "meaning": "寧靜的；安詳的",
+      "sentences": [
+        {
+          "en": "The hotel is located next to a serene lake, so guests can relax and enjoy the quiet view.",
+          "zh": "飯店就在一座平靜的湖邊，客人可以放鬆並欣賞寧靜的景色。"
+        },
+        {
+          "en": "The garden has a serene atmosphere, which makes it a perfect place for meditation and reading.",
+          "zh": "花園有一種寧靜的氣氛，是冥想和閱讀的完美地點。"
+        },
+        {
+          "en": "After a busy week in the city, many families visit the serene villages in the mountains.",
+          "zh": "在城市忙碌一週後，很多家庭會去山上寧靜的村莊。"
+        },
+        {
+          "en": "The spa offers a serene place where guests can forget about work and rest for a few hours.",
+          "zh": "水療中心提供一個寧靜的地方，讓客人忘掉工作休息幾小時。"
+        },
+        {
+          "en": "The temple is surrounded by a serene forest, and visitors are asked to speak quietly inside.",
+          "zh": "寺廟被寧靜的森林圍繞，參觀者被要求在裡面輕聲說話。"
+        }
+      ],
+      "distractors": [
+        "severe",
+        "sincere",
+        "scene"
+      ],
+      "note": "語塊：serene atmosphere（寧靜的氣氛）、serene lake（平靜的湖）、serene villages（寧靜的村莊）、serene place（寧靜的地方）、serene forest（寧靜的森林）。serene 是「非常平靜、沒有吵鬧的」；calm、peaceful 意思接近；serenity 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-proceeds",
+      "word": "proceeds",
+      "pos": "名詞",
+      "meaning": "收益；所得",
+      "sentences": [
+        {
+          "en": "All of the proceeds from the charity concert will be donated to the children's hospital in the city.",
+          "zh": "慈善音樂會的所有收益都將捐給市內的兒童醫院。"
+        },
+        {
+          "en": "The school will use the proceeds from the book sale to buy new computers for the library.",
+          "zh": "學校會用書展義賣的收益為圖書館買新電腦。"
+        },
+        {
+          "en": "The company decided to donate the proceeds from the first day of sales to families in need.",
+          "zh": "公司決定把第一天的銷售收益捐給貧困家庭。"
+        },
+        {
+          "en": "The proceeds from the auction were higher than expected, so the museum can start the repairs early.",
+          "zh": "拍賣的收益比預期高，所以博物館可以提早開始修繕。"
+        },
+        {
+          "en": "Half of the proceeds from every ticket will go to the local animal shelter near the river.",
+          "zh": "每張門票一半的收益會捐給河邊的當地動物收容所。"
+        }
+      ],
+      "distractors": [
+        "process",
+        "proceed",
+        "products"
+      ],
+      "note": "語塊：the proceeds from（……的收益）、donate the proceeds（捐出收益）。proceeds 永遠用複數，是「活動或銷售賺到的錢」；proceed 是動詞「繼續進行」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-effort",
+      "word": "effort",
+      "pos": "名詞",
+      "meaning": "努力",
+      "sentences": [
+        {
+          "en": "The company will make an effort to reduce plastic waste by using paper bags in all of its stores.",
+          "zh": "公司會努力在所有分店改用紙袋，減少塑膠垃圾。"
+        },
+        {
+          "en": "In an effort to save money, the office will turn off all lights and computers after seven o'clock.",
+          "zh": "為了省錢，辦公室七點後會關掉所有燈和電腦。"
+        },
+        {
+          "en": "The successful product launch was a team effort, so the manager thanked everyone at the dinner.",
+          "zh": "產品成功上市是團隊努力的成果，所以經理在晚宴上感謝每個人。"
+        },
+        {
+          "en": "Please make an effort to arrive on time, because the meeting will start exactly at nine.",
+          "zh": "請盡量準時到，因為會議會在九點整開始。"
+        },
+        {
+          "en": "The city made a great effort to clean the beach after the oil spill damaged the coastal waters.",
+          "zh": "漏油破壞沿海水域後，市政府付出很大努力清理海灘。"
+        }
+      ],
+      "distractors": [
+        "afford",
+        "effect",
+        "comfort"
+      ],
+      "note": "語塊：make an effort（努力）、in an effort to（為了……而努力）、team effort（團隊努力）。effort 常用 make an effort to do；efforts 複數表示「各種努力」；afford 是「負擔得起」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occasionally",
+      "word": "occasionally",
+      "pos": "副詞",
+      "meaning": "偶爾",
+      "sentences": [
+        {
+          "en": "Ms. Lee usually works from home, but she occasionally comes to the office for important meetings.",
+          "zh": "李小姐通常在家工作，但偶爾會進辦公室開重要會議。"
+        },
+        {
+          "en": "The machine occasionally makes a strange noise, so the technician will check it next week.",
+          "zh": "機器偶爾會發出奇怪的聲音，所以技術人員下週會檢查。"
+        },
+        {
+          "en": "We only occasionally receive complaints about our service, and we answer every one of them quickly.",
+          "zh": "我們只是偶爾收到對服務的投訴，而且每一則都會快速回覆。"
+        },
+        {
+          "en": "The restaurant only occasionally offers special dishes that are made with fresh seasonal ingredients from local farms.",
+          "zh": "那家餐廳只是偶爾推出用當地農場新鮮當季食材做的特別菜色。"
+        },
+        {
+          "en": "The train is occasionally late in the morning, so please leave home a few minutes early.",
+          "zh": "早上火車偶爾會誤點，所以請提早幾分鐘出門。"
+        }
+      ],
+      "distractors": [
+        "accidentally",
+        "additionally",
+        "exceptionally"
+      ],
+      "note": "語塊：only occasionally（只是偶爾）、occasionally comes（偶爾來）、occasionally late（偶爾遲到）、occasionally makes（偶爾發出）。occasionally 是「不常、有時候」；sometimes 意思接近；occasional 是形容詞「偶爾的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stinging",
+      "word": "stinging",
+      "pos": "形容詞",
+      "meaning": "刺痛的；尖刻的",
+      "sentences": [
+        {
+          "en": "If the cream causes a stinging pain on your skin, please wash it off and stop using it.",
+          "zh": "如果乳霜讓你的皮膚有刺痛感，請洗掉並停止使用。"
+        },
+        {
+          "en": "The newspaper published stinging criticism of the city's plan to close the old library in the town center.",
+          "zh": "報紙刊登了對市政府關閉市中心舊圖書館計畫的尖刻批評。"
+        },
+        {
+          "en": "The CEO answered the stinging criticism from investors by promising to reduce costs next year.",
+          "zh": "執行長以承諾明年降低成本，回應投資人的尖刻批評。"
+        },
+        {
+          "en": "The smoke caused a stinging pain in the workers' eyes, so they left the building immediately.",
+          "zh": "煙霧讓工人的眼睛刺痛，所以他們立刻離開大樓。"
+        },
+        {
+          "en": "The report contained stinging criticism of the company's customer service, so the manager made changes.",
+          "zh": "報告對公司的客服提出尖刻批評，所以經理做了改變。"
+        }
+      ],
+      "distractors": [
+        "stinking",
+        "swinging",
+        "stunning"
+      ],
+      "note": "語塊：stinging pain（刺痛）、stinging criticism（尖刻的批評）。stinging 是「像被刺到一樣痛的」或「很尖銳的（批評）」；sting 是動詞「刺；螫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ideally",
+      "word": "ideally",
+      "pos": "副詞",
+      "meaning": "理想上；最好是",
+      "sentences": [
+        {
+          "en": "The hotel is ideally located near the beach and the train station, so it is popular with tourists.",
+          "zh": "飯店位置理想，靠近海灘和火車站，所以很受觀光客歡迎。"
+        },
+        {
+          "en": "Ideally, we would like to finish the project before the end of the month, but it may take longer.",
+          "zh": "理想上我們希望在月底前完成專案，但可能會花更久。"
+        },
+        {
+          "en": "Ms. Park is ideally suited for the position because she has experience in both sales and marketing.",
+          "zh": "朴小姐非常適合這個職位，因為她有業務和行銷兩方面的經驗。"
+        },
+        {
+          "en": "Ideally, every employee should take a short break every two hours to stay focused and healthy.",
+          "zh": "理想上，每位員工每兩小時應該休息一下，以保持專注和健康。"
+        },
+        {
+          "en": "The new office is ideally located in the city center, only a short walk from several subway stations.",
+          "zh": "新辦公室位置理想，在市中心，走一小段路就到好幾個地鐵站。"
+        }
+      ],
+      "distractors": [
+        "idly",
+        "identically",
+        "really"
+      ],
+      "note": "語塊：ideally located（位置理想）、ideally suited（非常適合）。ideally 是「在最理想的情況下」；ideal 是形容詞「理想的」；perfectly 是「完美地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-generosity",
+      "word": "generosity",
+      "pos": "名詞",
+      "meaning": "慷慨；大方",
+      "sentences": [
+        {
+          "en": "Thanks to the generosity of local businesses, the school was able to buy new computers for every classroom.",
+          "zh": "多虧當地企業的慷慨，學校得以為每間教室買新電腦。"
+        },
+        {
+          "en": "We would like to thank everyone for their generosity during the fundraiser for the children's hospital.",
+          "zh": "我們想感謝大家在兒童醫院募款活動中的慷慨解囊。"
+        },
+        {
+          "en": "The generosity of the volunteers made it possible to clean the entire beach in just one day.",
+          "zh": "志工們的慷慨付出讓整片海灘在一天內就清理完畢。"
+        },
+        {
+          "en": "The museum thanked the famous collector for his generosity after he donated fifty paintings to its collection.",
+          "zh": "那位知名收藏家把五十幅畫作捐給館藏後，博物館感謝他的慷慨。"
+        },
+        {
+          "en": "The town is known for the generosity of its residents, who often help visitors who get lost.",
+          "zh": "那座小鎮以居民的慷慨聞名，他們常常幫助迷路的遊客。"
+        }
+      ],
+      "distractors": [
+        "generation",
+        "curiosity",
+        "gentility"
+      ],
+      "note": "語塊：thank sb for their generosity（感謝某人的慷慨）、generosity of（……的慷慨）。generosity 是 generous（慷慨的）的名詞；kindness 是「善意」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-permanently",
+      "word": "permanently",
+      "pos": "副詞",
+      "meaning": "永久地",
+      "sentences": [
+        {
+          "en": "The old shopping mall will be permanently closed at the end of the year, because a new one opened nearby.",
+          "zh": "舊購物中心年底將永久關閉，因為附近開了一家新的。"
+        },
+        {
+          "en": "Ms. Lee decided to move permanently to Tokyo after working there happily for two years at the bank.",
+          "zh": "在東京的銀行愉快地工作兩年後，李小姐決定永久搬到那裡。"
+        },
+        {
+          "en": "Please do not delete any files permanently until you have checked with the IT department.",
+          "zh": "在和資訊部確認之前，請不要永久刪除任何檔案。"
+        },
+        {
+          "en": "The road near the school will be permanently closed to cars so that children can walk safely.",
+          "zh": "學校附近的道路將永久禁止汽車通行，讓孩子可以安全行走。"
+        },
+        {
+          "en": "The company plans to permanently replace paper documents with digital files in every office by next year.",
+          "zh": "公司計畫明年前在每間辦公室永久用電子檔案取代紙本文件。"
+        }
+      ],
+      "distractors": [
+        "temporarily",
+        "prominently",
+        "pertinently"
+      ],
+      "note": "語塊：permanently closed（永久關閉）、permanently move（永久搬遷）。permanently 是 permanent（永久的）的副詞；temporarily 是相反「暫時地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-identical",
+      "word": "identical",
+      "pos": "形容詞",
+      "meaning": "完全相同的",
+      "sentences": [
+        {
+          "en": "The two phones look almost identical, but the new one has a better camera and a larger battery.",
+          "zh": "兩支手機看起來幾乎一樣，但新的那支相機更好、電池更大。"
+        },
+        {
+          "en": "The new store is identical to the old one, so customers will easily find what they are looking for.",
+          "zh": "新店和舊店一模一樣，所以顧客很容易找到要買的東西。"
+        },
+        {
+          "en": "Every hotel room has an identical design, with a large bed, a desk, and a view of the city.",
+          "zh": "每間飯店房間的設計都一樣，有大床、書桌和城市景觀。"
+        },
+        {
+          "en": "The two reports contain almost identical information, so we only need to read one of them.",
+          "zh": "兩份報告的資訊幾乎一樣，所以我們只需要讀其中一份。"
+        },
+        {
+          "en": "Please make sure that the copy is identical to the original contract before you send it to the client.",
+          "zh": "寄給客戶之前，請確認影本和合約正本完全相同。"
+        }
+      ],
+      "distractors": [
+        "identifiable",
+        "identity",
+        "ideal"
+      ],
+      "note": "語塊：identical to（和……一模一樣）、almost identical（幾乎一樣）。identical 是「完全一樣的」；similar 是「相似的」；identity 是「身分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-point-out",
+      "word": "point out",
+      "pos": "片語動詞",
+      "meaning": "指出",
+      "sentences": [
+        {
+          "en": "The manager will point out that sales had increased by twenty percent since the new advertising campaign began.",
+          "zh": "經理會指出，自從新廣告活動開始以來，銷售增加了兩成。"
+        },
+        {
+          "en": "Thank you for taking the time to point out the mistake in the invoice before we sent it to the client.",
+          "zh": "謝謝你在我們寄給客戶之前花時間指出請款單上的錯誤。"
+        },
+        {
+          "en": "The consultant will point out several ways to reduce costs without cutting the number of employees.",
+          "zh": "顧問會指出幾個不必裁員就能降低成本的方法。"
+        },
+        {
+          "en": "If you find any problems with the new software, please point out the details to the IT team immediately.",
+          "zh": "如果你發現新軟體有任何問題，請立刻把細節告訴資訊團隊。"
+        },
+        {
+          "en": "Several customers often point out that the instructions in the manual are difficult to understand.",
+          "zh": "好幾位顧客指出手冊裡的說明很難懂。"
+        }
+      ],
+      "distractors": [
+        "point at",
+        "pick out",
+        "put out"
+      ],
+      "note": "語塊：point out that（指出……）、point out a mistake（指出錯誤）。point out 是「讓別人注意到某事」；mention 是「提到」；indicate 是「表示」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-a-timely-fashion",
+      "word": "in a timely fashion",
+      "pos": "副詞",
+      "meaning": "及時地；適時地",
+      "sentences": [
+        {
+          "en": "Our customer care team will respond to every complaint in a timely fashion, usually within one day.",
+          "zh": "我們的客服團隊會及時回應每一則投訴，通常在一天內。"
+        },
+        {
+          "en": "Please submit your reports in a timely fashion so that the manager has time to review them.",
+          "zh": "請及時提交報告，讓經理有時間審閱。"
+        },
+        {
+          "en": "The supplier failed to deliver the materials in a timely fashion, so the project was delayed.",
+          "zh": "供應商沒有及時交付材料，所以專案延誤了。"
+        },
+        {
+          "en": "It is important to pay your bills in a timely fashion to avoid late fees and interest charges.",
+          "zh": "及時繳清帳單很重要，以免產生滯納金和利息。"
+        },
+        {
+          "en": "The repairs were completed in a timely fashion, so the hotel was able to open on schedule.",
+          "zh": "修繕及時完成，所以飯店能如期開幕。"
+        }
+      ],
+      "distractors": [
+        "in a hurry",
+        "in fashion",
+        "in the meantime"
+      ],
+      "note": "語塊：respond in a timely fashion（及時回應）、submit in a timely fashion（及時提交）、deliver in a timely fashion（及時交付）、completed in a timely fashion（及時完成）。in a timely fashion 是「在適當的時間內完成」；in a timely manner 意思一樣；on time 是「準時」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-put-up-for-sale",
+      "word": "put up for sale",
+      "pos": "片語動詞",
+      "meaning": "掛牌出售",
+      "sentences": [
+        {
+          "en": "The owners plan to put up for sale the old hotel near the beach, because they want to retire.",
+          "zh": "業主打算把海邊那家老飯店拿出來賣，因為他們想退休。"
+        },
+        {
+          "en": "The company will put up for sale two of its factories, because it wants to focus on online sales.",
+          "zh": "公司將出售旗下兩座工廠，因為它想專注於網路銷售。"
+        },
+        {
+          "en": "Many families decided to put up for sale the houses they owned after the new airport was built nearby.",
+          "zh": "附近蓋了新機場後，很多家庭決定把房子掛牌出售。"
+        },
+        {
+          "en": "The collector will put up for sale the famous painting at an auction in London next month.",
+          "zh": "那位收藏家下個月將在倫敦的拍賣會上出售那幅名畫。"
+        },
+        {
+          "en": "If we put up for sale the old office furniture, we can use the money to buy new chairs.",
+          "zh": "如果我們把舊辦公家具拿去賣，就可以用那筆錢買新椅子。"
+        }
+      ],
+      "distractors": [
+        "put up with",
+        "put on sale",
+        "put off"
+      ],
+      "note": "語塊：put a house up for sale（把房子掛牌出售）、be put up for sale（被拿出來賣）。put up for sale 是「拿出來賣」；for sale 是「待售」；on sale 是「特價中」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-celebrated",
+      "word": "celebrated",
+      "pos": "形容詞",
+      "meaning": "著名的；知名的",
+      "sentences": [
+        {
+          "en": "A celebrated chef from Paris will cook a special dinner at the hotel restaurant next Friday evening.",
+          "zh": "一位來自巴黎的名廚下週五晚上將在飯店餐廳烹調特別晚餐。"
+        },
+        {
+          "en": "The museum's new exhibition shows the work of a celebrated artist who lived in the town a century ago.",
+          "zh": "博物館的新展覽展出一位一百年前住在鎮上的知名藝術家作品。"
+        },
+        {
+          "en": "The region is celebrated for its wine and cheese, which are sold in stores all over the world.",
+          "zh": "那個地區以葡萄酒和起司著稱，在全世界的商店都買得到。"
+        },
+        {
+          "en": "The celebrated architect from Japan designed the new library, which has already won several international awards.",
+          "zh": "那位來自日本的知名建築師設計了新圖書館，它已經得了好幾個國際獎。"
+        },
+        {
+          "en": "The film was made by a celebrated director, so many people expect it to be a great success.",
+          "zh": "那部電影由一位知名導演拍攝，所以很多人預期它會大獲成功。"
+        }
+      ],
+      "distractors": [
+        "celebrity",
+        "cerebrated",
+        "calibrated"
+      ],
+      "note": "語塊：celebrated chef（名廚）、celebrated artist（知名藝術家）、celebrated for（以……著稱）。celebrated 當形容詞是「很有名、受讚揚的」；famous 意思接近；celebrate 是動詞「慶祝」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outskirts",
+      "word": "outskirts",
+      "pos": "名詞",
+      "meaning": "郊區；市郊",
+      "sentences": [
+        {
+          "en": "The company built its new factory on the outskirts of the city, where land is much cheaper.",
+          "zh": "公司把新工廠蓋在城市郊區，那裡的土地便宜很多。"
+        },
+        {
+          "en": "Many families moved to the outskirts because apartments in the city center are too expensive.",
+          "zh": "很多家庭搬到郊區，因為市中心的公寓太貴了。"
+        },
+        {
+          "en": "The airport is located on the outskirts of town, about forty minutes from the downtown area by car.",
+          "zh": "機場位於城鎮郊區，開車到市中心大約四十分鐘。"
+        },
+        {
+          "en": "A new shopping mall will open on the outskirts next year, with more than two hundred stores.",
+          "zh": "一座新購物中心明年將在郊區開幕，有兩百多家店。"
+        },
+        {
+          "en": "The hotel on the outskirts of the city offers free buses to the center every thirty minutes.",
+          "zh": "城市郊區的那家飯店每三十分鐘提供一班免費巴士到市中心。"
+        }
+      ],
+      "distractors": [
+        "outlets",
+        "outposts",
+        "outlines"
+      ],
+      "note": "語塊：on the outskirts of（在……郊區）。outskirts 永遠用複數，是「城市的外圍」；suburbs 是「郊區（住宅區）」；downtown 是「市中心」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
