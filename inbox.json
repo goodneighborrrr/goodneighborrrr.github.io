@@ -75268,6 +75268,706 @@
       ],
       "note": "語塊：round-trip ticket（來回票）、round-trip flight（來回航班）。round-trip 是「去和回」；one-way 是「單程的」；return ticket 是英式「來回票」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-distinguished",
+      "word": "distinguished",
+      "pos": "形容詞",
+      "meaning": "傑出的；卓越的",
+      "sentences": [
+        {
+          "en": "The university invited a distinguished scholar from London to give a lecture on economics next month.",
+          "zh": "大學邀請一位來自倫敦的傑出學者，下個月來演講經濟學。"
+        },
+        {
+          "en": "Please welcome our distinguished guest, who has worked in the energy industry for more than forty years.",
+          "zh": "請歡迎我們的貴賓，他在能源產業工作了四十多年。"
+        },
+        {
+          "en": "Mr. Kato had a distinguished career as a lawyer before he became the president of the company.",
+          "zh": "加藤先生在當上公司總裁之前，有一段傑出的律師職涯。"
+        },
+        {
+          "en": "The award is given every year to a distinguished scientist who has made important discoveries.",
+          "zh": "這個獎每年頒給一位有重要發現的傑出科學家。"
+        },
+        {
+          "en": "Several distinguished guests attended the opening ceremony of the new museum, including the mayor and the chancellor of the university.",
+          "zh": "好幾位貴賓出席了新博物館的開幕典禮，包括市長和大學校長。"
+        }
+      ],
+      "distractors": [
+        "distinctive",
+        "extinguished",
+        "distributed"
+      ],
+      "note": "語塊：distinguished guest（貴賓）、distinguished career（傑出的職涯）、distinguished scholar（傑出學者）。distinguished 是「很有成就、受人尊敬的」；distinguish 是動詞「區分」；distinct 是「明顯不同的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sensitive",
+      "word": "sensitive",
+      "pos": "形容詞",
+      "meaning": "敏感的；機密的",
+      "sentences": [
+        {
+          "en": "This cream is designed for people with sensitive skin, so it does not contain any perfume.",
+          "zh": "這款乳霜是為敏感肌膚的人設計的，所以不含任何香料。"
+        },
+        {
+          "en": "Employees must not share sensitive information about customers with anyone outside the company, including family members.",
+          "zh": "員工不得把顧客的機密資訊分享給公司以外的任何人，包括家人。"
+        },
+        {
+          "en": "Some customers are very sensitive to price changes, so the store announces them well in advance.",
+          "zh": "有些顧客對價格變動非常敏感，所以店家會提早很久公告。"
+        },
+        {
+          "en": "The documents contain sensitive information, so please lock them in the cabinet before you leave.",
+          "zh": "這些文件包含機密資訊，所以離開前請鎖進櫃子裡。"
+        },
+        {
+          "en": "Children have sensitive skin, so parents should choose soap and shampoo without strong chemicals or perfume.",
+          "zh": "小孩的皮膚很敏感，所以家長應該選擇不含強烈化學物質或香料的肥皂和洗髮精。"
+        }
+      ],
+      "distractors": [
+        "sensible",
+        "sensory",
+        "sentimental"
+      ],
+      "note": "語塊：sensitive skin（敏感肌膚）、sensitive information（機密資訊）、sensitive to（對……敏感）。sensitive 是「容易受影響的；需要小心處理的」；sensible 是「明智的」，很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-irritation",
+      "word": "irritation",
+      "pos": "名詞",
+      "meaning": "刺激；發炎；惱怒",
+      "sentences": [
+        {
+          "en": "Stop using the cream immediately if it causes skin irritation, and talk to a doctor.",
+          "zh": "如果乳霜造成皮膚刺激，請立刻停用並諮詢醫生。"
+        },
+        {
+          "en": "Smoke and dust in the air can cause eye irritation, so workers in the factory wear safety glasses.",
+          "zh": "空氣中的煙霧和灰塵會造成眼睛不適，所以工廠工人戴護目鏡。"
+        },
+        {
+          "en": "The new soap was tested on people with sensitive skin and did not cause any irritation.",
+          "zh": "新肥皂在敏感肌膚的人身上測試過，沒有造成任何刺激。"
+        },
+        {
+          "en": "Some cleaning products can cause skin irritation, so please wear gloves when you use them.",
+          "zh": "有些清潔用品會造成皮膚刺激，所以使用時請戴手套。"
+        },
+        {
+          "en": "Customers expressed their irritation about the long lines at the store during the holiday sale.",
+          "zh": "顧客對假期特賣期間店裡大排長龍表達不滿。"
+        }
+      ],
+      "distractors": [
+        "irrigation",
+        "imitation",
+        "invitation"
+      ],
+      "note": "語塊：skin irritation（皮膚刺激）、eye irritation（眼睛不適）、cause irritation（造成刺激）。irritation 是 irritate（使發炎；激怒）的名詞；irritating 是「令人煩躁的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ray",
+      "word": "ray",
+      "pos": "名詞",
+      "meaning": "光線；射線",
+      "sentences": [
+        {
+          "en": "A ray of sunlight came through the window and lit up the old painting on the wall of the gallery.",
+          "zh": "一道陽光從窗戶照進來，照亮了畫廊牆上的老畫。"
+        },
+        {
+          "en": "The good sales figures gave the company a ray of hope after a very difficult year.",
+          "zh": "經過非常艱難的一年，好的銷售數字給了公司一線希望。"
+        },
+        {
+          "en": "Every morning, the first ray of sunlight reaches the hotel's rooftop garden at about six o'clock.",
+          "zh": "每天早上大約六點，第一道陽光就會照到飯店的頂樓花園。"
+        },
+        {
+          "en": "The news about the new factory was a ray of hope for workers who had lost their jobs.",
+          "zh": "新工廠的消息對失業的工人來說是一線希望。"
+        },
+        {
+          "en": "The designer added a small window so that a ray of light could reach the dark hallway.",
+          "zh": "設計師加了一扇小窗，讓一道光線能照進昏暗的走廊。"
+        }
+      ],
+      "distractors": [
+        "rag",
+        "raid",
+        "tray"
+      ],
+      "note": "語塊：ray of sunlight（一道陽光）、ray of hope（一線希望）、ray of light（一道光線）。ray 是「一道光線」；beam 意思接近；複數 rays 常指陽光中的紫外線（UV rays）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accumulate",
+      "word": "accumulate",
+      "pos": "動詞",
+      "meaning": "累積；積聚",
+      "sentences": [
+        {
+          "en": "Members can accumulate points every time they shop and use them to get discounts later.",
+          "zh": "會員每次購物都可以累積點數，之後用來折抵。"
+        },
+        {
+          "en": "Dust can accumulate inside the computer and the printer, so please clean them every few months.",
+          "zh": "灰塵會在電腦和印表機裡堆積，所以請每隔幾個月清理一次。"
+        },
+        {
+          "en": "Many people work hard for years to accumulate enough money to buy a house in the city.",
+          "zh": "很多人努力工作多年，才能累積足夠的錢在城裡買房。"
+        },
+        {
+          "en": "If you do not check your e-mail every day, hundreds of messages will accumulate in your inbox.",
+          "zh": "如果你沒有每天查看電子郵件，收件匣會累積數百封信。"
+        },
+        {
+          "en": "Frequent flyers can accumulate miles quickly and use them for free flights or hotel stays.",
+          "zh": "飛行常客可以快速累積里程，兌換免費機票或飯店住宿。"
+        }
+      ],
+      "distractors": [
+        "accommodate",
+        "calculate",
+        "circulate"
+      ],
+      "note": "語塊：accumulate points（累積點數）、accumulate money（累積財富）、accumulate miles（累積里程）、dust can accumulate（灰塵會堆積）、messages will accumulate（訊息會累積）。accumulate 是「慢慢越積越多」；accumulation 是名詞；collect 是「收集」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-portable",
+      "word": "portable",
+      "pos": "形容詞",
+      "meaning": "可攜帶的；手提的",
+      "sentences": [
+        {
+          "en": "Please bring a portable charger on the trip, because there may be nowhere to charge your phone.",
+          "zh": "旅行時請帶行動電源，因為可能沒有地方幫手機充電。"
+        },
+        {
+          "en": "The small portable speaker is perfect for picnics in the park or parties on the beach.",
+          "zh": "這個小型隨身喇叭非常適合在公園野餐或在海邊辦派對。"
+        },
+        {
+          "en": "Portable devices such as tablets are very popular with salespeople who visit many clients every day.",
+          "zh": "平板之類的攜帶型裝置很受每天拜訪很多客戶的業務員歡迎。"
+        },
+        {
+          "en": "The hotel lends portable chargers to guests at the front desk at no extra cost.",
+          "zh": "飯店在櫃台免費出借行動電源給客人。"
+        },
+        {
+          "en": "The new portable air conditioner can be moved easily from one room to another without any help.",
+          "zh": "新的移動式冷氣不用別人幫忙就能輕鬆從一個房間搬到另一個房間。"
+        }
+      ],
+      "distractors": [
+        "potable",
+        "notable",
+        "foldable"
+      ],
+      "note": "語塊：portable charger（行動電源）、portable speaker（隨身喇叭）、portable device（攜帶型裝置）。portable 是「輕巧、方便帶著走的」；port 是「港口」；potable 是「可飲用的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hydration",
+      "word": "hydration",
+      "pos": "名詞",
+      "meaning": "補充水分；保濕",
+      "sentences": [
+        {
+          "en": "Proper hydration is important for athletes, so the coach reminds them to drink water every hour.",
+          "zh": "適當補水對運動員很重要，所以教練提醒他們每小時都要喝水。"
+        },
+        {
+          "en": "The new face cream improves skin hydration and is perfect for people who live in dry climates.",
+          "zh": "新的面霜能改善肌膚保濕，非常適合住在乾燥氣候的人。"
+        },
+        {
+          "en": "Runners can find hydration stations with free water every five kilometers along the marathon route.",
+          "zh": "跑者在馬拉松路線上每五公里都能找到提供免費水的補水站。"
+        },
+        {
+          "en": "Doctors say that good hydration helps office workers stay focused and avoid headaches during long days.",
+          "zh": "醫生說良好的水分補充能幫助上班族保持專注並在長時間工作時避免頭痛。"
+        },
+        {
+          "en": "The hiking shop sells hydration packs that allow hikers to drink water without stopping on the trail.",
+          "zh": "登山用品店販售水袋背包，讓登山客在步道上不用停下來就能喝水。"
+        }
+      ],
+      "distractors": [
+        "dehydration",
+        "hydrant",
+        "duration"
+      ],
+      "note": "語塊：stay hydrated（保持水分）、proper hydration（適當補水）、skin hydration（肌膚保濕）。hydration 是「讓身體或皮膚有足夠的水分」；hydrate 是動詞；dehydration 是「脫水」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-durable",
+      "word": "durable",
+      "pos": "形容詞",
+      "meaning": "耐用的；持久的",
+      "sentences": [
+        {
+          "en": "The backpack is made of a durable material that can carry heavy books for many years.",
+          "zh": "這個背包用耐用的材料製成，可以裝很重的書用很多年。"
+        },
+        {
+          "en": "Sales of durable goods such as cars and refrigerators increased by five percent last month.",
+          "zh": "汽車和冰箱等耐用品的銷售上個月增加了百分之五。"
+        },
+        {
+          "en": "The new phone case is highly durable and will protect your phone if you drop it on the floor.",
+          "zh": "新手機殼非常耐用，手機掉在地上時能保護它。"
+        },
+        {
+          "en": "Wooden furniture is more expensive, but it is also more durable than furniture made of plastic.",
+          "zh": "木製家具比較貴，但也比塑膠家具更耐用。"
+        },
+        {
+          "en": "The company only uses durable materials, so most of its products come with a five-year warranty.",
+          "zh": "公司只用耐用的材料，所以大部分產品都有五年保固。"
+        }
+      ],
+      "distractors": [
+        "duration",
+        "during",
+        "curable"
+      ],
+      "note": "語塊：durable material（耐用的材料）、durable goods（耐用品）、highly durable（非常耐用）。durable 是「不容易壞、可以用很久的」；durability 是名詞「耐用性」；duration 是「持續時間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-leak-proof",
+      "word": "leak-proof",
+      "pos": "形容詞",
+      "meaning": "防漏的",
+      "sentences": [
+        {
+          "en": "This leak-proof bottle can be carried in your bag without any water getting on your laptop.",
+          "zh": "這個防漏水瓶可以放在包包裡，水不會沾到你的筆電。"
+        },
+        {
+          "en": "The restaurant uses leak-proof containers for takeout orders, so soup will not spill during delivery.",
+          "zh": "那家餐廳外帶用防漏容器，所以湯在外送時不會灑出來。"
+        },
+        {
+          "en": "Please put all liquids in a leak-proof container before you pack them in your suitcase.",
+          "zh": "把所有液體裝進行李箱前，請先放進防漏容器裡。"
+        },
+        {
+          "en": "The company's new leak-proof bottle has become very popular with students and office workers this year.",
+          "zh": "公司的新防漏水瓶在學生和上班族之間今年變得很受歡迎。"
+        },
+        {
+          "en": "The lunch box has a leak-proof lid, so you can bring soup or salad to work without any problems.",
+          "zh": "這個便當盒有防漏蓋，所以你可以放心帶湯或沙拉去上班。"
+        }
+      ],
+      "distractors": [
+        "waterproof",
+        "soundproof",
+        "fireproof"
+      ],
+      "note": "語塊：leak-proof bottle（防漏水瓶）、leak-proof container（防漏容器）。leak-proof 是「不會漏水的」；leak 是「漏」；-proof 是「防……的」（waterproof、soundproof）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-flexible",
+      "word": "flexible",
+      "pos": "形容詞",
+      "meaning": "有彈性的；靈活的",
+      "sentences": [
+        {
+          "en": "The company offers flexible hours, so employees can start work any time between seven and ten.",
+          "zh": "公司提供彈性工時，所以員工可以在七點到十點之間任何時間開始上班。"
+        },
+        {
+          "en": "Many parents look for jobs with a flexible schedule so that they can pick up their children from school.",
+          "zh": "很多家長找有彈性時間表的工作，以便到學校接小孩。"
+        },
+        {
+          "en": "The phone case is made of a flexible material that protects the phone when it falls.",
+          "zh": "手機殼用有彈性的材料製成，手機掉落時能保護它。"
+        },
+        {
+          "en": "Our travel plans are flexible, so we can change the date if the weather is bad that weekend.",
+          "zh": "我們的旅行計畫很有彈性，所以如果那個週末天氣不好可以改日期。"
+        },
+        {
+          "en": "Working from home gives employees a more flexible schedule and saves them time on their commute.",
+          "zh": "在家工作讓員工的時間表更有彈性，也省下通勤時間。"
+        }
+      ],
+      "distractors": [
+        "feasible",
+        "flammable",
+        "reflexive"
+      ],
+      "note": "語塊：flexible hours（彈性工時）、flexible schedule（彈性的時間表）、flexible material（有彈性的材料）。flexible 是「可以改變、調整的」；flexibility 是名詞「彈性」；rigid 是相反「僵硬的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-insulate",
+      "word": "insulate",
+      "pos": "動詞",
+      "meaning": "使隔熱；使絕緣；隔離",
+      "sentences": [
+        {
+          "en": "The company will insulate the walls of the old building to keep it warm in winter and cool in summer.",
+          "zh": "公司會為舊大樓的牆壁做隔熱，讓它冬暖夏涼。"
+        },
+        {
+          "en": "These bottles insulate drinks very well, so your coffee will stay hot for at least six hours.",
+          "zh": "這些瓶子保溫效果很好，所以你的咖啡至少能保持熱六小時。"
+        },
+        {
+          "en": "The thick windows insulate the hotel rooms from the noise of the busy street outside.",
+          "zh": "厚窗戶讓飯店房間和外面繁忙街道的噪音隔絕。"
+        },
+        {
+          "en": "If you insulate your house properly, you can reduce your heating bill by almost thirty percent.",
+          "zh": "如果房子做好隔熱，暖氣費可以減少將近三成。"
+        },
+        {
+          "en": "Workers must insulate the electric wires carefully so that nobody gets hurt when touching them.",
+          "zh": "工人必須仔細為電線做絕緣，以免有人碰到時受傷。"
+        }
+      ],
+      "distractors": [
+        "isolate",
+        "insult",
+        "inflate"
+      ],
+      "note": "語塊：insulate the walls（牆壁隔熱）、insulate from（使與……隔絕）、well insulated（隔熱良好）。insulate 是「用材料擋住熱、冷或電」；insulation 是名詞「隔熱材料」；isolate 是「隔離」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fastener",
+      "word": "fastener",
+      "pos": "名詞",
+      "meaning": "扣件；固定器",
+      "sentences": [
+        {
+          "en": "The jacket has a metal fastener at the top, so it stays closed even in strong wind.",
+          "zh": "外套頂端有一個金屬扣件，所以即使在強風中也能保持扣好。"
+        },
+        {
+          "en": "The factory produces every kind of fastener, from small screws to large bolts for bridges.",
+          "zh": "那家工廠生產各種扣件，從小螺絲到橋樑用的大螺栓都有。"
+        },
+        {
+          "en": "Please check that each fastener on the shelf is tight before you put heavy boxes on it.",
+          "zh": "把重箱子放上架子之前，請確認每個固定器都鎖緊了。"
+        },
+        {
+          "en": "The bag has a magnetic fastener, so you can open and close it quickly with one hand.",
+          "zh": "這個包包有磁扣，所以你單手就能快速開關。"
+        },
+        {
+          "en": "The engineer found that a broken fastener caused the machine to make a strange noise.",
+          "zh": "工程師發現一個壞掉的扣件讓機器發出奇怪的聲音。"
+        }
+      ],
+      "distractors": [
+        "fastening",
+        "faster",
+        "fastidious"
+      ],
+      "note": "語塊：metal fastener（金屬扣件）、magnetic fastener（磁扣）、every kind of fastener（各種扣件）、each fastener（每個固定器）、broken fastener（壞掉的扣件）。fastener 是用來把東西扣緊的小零件；fasten 是動詞「繫緊」（fasten your seat belt）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-toll-free",
+      "word": "toll-free",
+      "pos": "形容詞",
+      "meaning": "免付費的",
+      "sentences": [
+        {
+          "en": "Customers can call our toll-free number at any time if they have questions about their orders.",
+          "zh": "顧客如果對訂單有疑問，可以隨時撥打我們的免付費電話。"
+        },
+        {
+          "en": "The toll-free number for customer care is printed on the back of every product box.",
+          "zh": "客服的免付費電話印在每個產品盒子的背面。"
+        },
+        {
+          "en": "You can call toll-free from anywhere in the country to book a room at any of our hotels.",
+          "zh": "你可以從全國任何地方撥打免付費電話，預訂我們任何一家飯店的房間。"
+        },
+        {
+          "en": "The bank added a toll-free number for customers who want to report a lost card at night.",
+          "zh": "銀行為想在晚上掛失卡片的顧客增設了一支免付費電話。"
+        },
+        {
+          "en": "Please write down the toll-free number in case you need help with the installation of the machine.",
+          "zh": "請記下免付費電話，以防安裝機器時需要協助。"
+        }
+      ],
+      "distractors": [
+        "tax-free",
+        "duty-free",
+        "hands-free"
+      ],
+      "note": "語塊：toll-free number（免付費電話）、call toll-free（撥打免付費電話）。toll-free 是「打電話不用付費的」；toll 是「通行費；長途電話費」；free of charge 是「免費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enthusiast",
+      "word": "enthusiast",
+      "pos": "名詞",
+      "meaning": "愛好者；熱衷者",
+      "sentences": [
+        {
+          "en": "The new museum is a great place for any car enthusiast, with more than two hundred old cars on display.",
+          "zh": "新博物館對任何汽車迷來說都是好去處，展出兩百多輛老車。"
+        },
+        {
+          "en": "The music festival attracts every kind of music enthusiast, from young students to retired people.",
+          "zh": "音樂節吸引各種音樂愛好者，從年輕學生到退休人士都有。"
+        },
+        {
+          "en": "The store sells special equipment for the sports enthusiast who wants to run marathons or climb mountains.",
+          "zh": "那家店販售特殊裝備，給想跑馬拉松或爬山的運動迷。"
+        },
+        {
+          "en": "Mr. Lopez is a coffee enthusiast who visits a new café every weekend to try different beans.",
+          "zh": "羅培茲先生是咖啡愛好者，每個週末都去一家新咖啡廳嘗試不同的咖啡豆。"
+        },
+        {
+          "en": "The magazine is written for the car enthusiast who wants to learn more about electric vehicles.",
+          "zh": "那本雜誌是為想多了解電動車的汽車迷寫的。"
+        }
+      ],
+      "distractors": [
+        "enthusiasm",
+        "specialist",
+        "tourist"
+      ],
+      "note": "語塊：music enthusiast（音樂愛好者）、car enthusiast（汽車迷）、sports enthusiast（運動迷）。enthusiast 是「非常喜歡某事的人」；enthusiasm 是名詞「熱情」；enthusiastic 是形容詞「熱情的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disassemble",
+      "word": "disassemble",
+      "pos": "動詞",
+      "meaning": "拆解；拆卸",
+      "sentences": [
+        {
+          "en": "The technician had to disassemble the machine to find out why it was making a strange noise.",
+          "zh": "技術人員必須把機器拆開，找出它發出怪聲的原因。"
+        },
+        {
+          "en": "The furniture is easy to disassemble, so you can move it to a new apartment without any trouble.",
+          "zh": "這套家具很容易拆卸，所以搬到新公寓時一點也不麻煩。"
+        },
+        {
+          "en": "Please do not disassemble the printer yourself, because it will cancel the warranty on the machine.",
+          "zh": "請不要自己拆解印表機，因為機器的保固會失效。"
+        },
+        {
+          "en": "Workers will disassemble the stage after the concert and move it to the next city by truck.",
+          "zh": "演唱會結束後，工人會拆除舞台，用卡車運到下一個城市。"
+        },
+        {
+          "en": "The new bicycle is designed so that you can disassemble it and carry it in a small bag.",
+          "zh": "新自行車的設計讓你可以拆開，裝在小袋子裡帶著走。"
+        }
+      ],
+      "distractors": [
+        "assemble",
+        "dissemble",
+        "disassociate"
+      ],
+      "note": "語塊：disassemble the machine（拆解機器）、easy to disassemble（容易拆卸）、disassemble the printer（拆解印表機）、disassemble the stage（拆除舞台）、disassemble it（把它拆開）。disassemble 是「把組裝好的東西拆開」；assemble 是相反「組裝」；dismantle 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-directory",
+      "word": "directory",
+      "pos": "名詞",
+      "meaning": "名錄；目錄；（大樓）樓層指引",
+      "sentences": [
+        {
+          "en": "You can find the phone number of every employee in the company's online directory on the website.",
+          "zh": "你可以在公司網站的線上名錄找到每位員工的電話號碼。"
+        },
+        {
+          "en": "Please check the building directory in the lobby to find which floor the dentist is on.",
+          "zh": "請查看大廳的樓層指引，找出牙醫在哪一層樓。"
+        },
+        {
+          "en": "The city publishes an online directory of local restaurants, shops, and other small businesses in the area.",
+          "zh": "市政府發布一份當地餐廳、商店和這一區其他小商家的線上名錄。"
+        },
+        {
+          "en": "Our company is listed in the business directory, so new customers can find us easily.",
+          "zh": "我們公司有列在商業名錄裡，所以新客戶很容易找到我們。"
+        },
+        {
+          "en": "The new phone directory will be sent to all employees by e-mail at the beginning of next month.",
+          "zh": "新的電話名錄將在下個月初用電子郵件寄給所有員工。"
+        }
+      ],
+      "distractors": [
+        "director",
+        "direction",
+        "dictionary"
+      ],
+      "note": "語塊：phone directory（電話簿）、online directory（線上名錄）、building directory（樓層指引）。directory 是「列出名字、電話或位置的清單」；director 是「主任；導演」；direction 是「方向」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-former",
+      "word": "former",
+      "pos": "形容詞",
+      "meaning": "以前的；前任的",
+      "sentences": [
+        {
+          "en": "The former president of the company still attends the annual meeting and gives advice to the board.",
+          "zh": "公司的前總裁仍會出席年會，並給董事會建議。"
+        },
+        {
+          "en": "Several former employees came back to visit the factory last week to celebrate its fiftieth anniversary.",
+          "zh": "好幾位前員工上週回來參觀工廠，慶祝它的五十週年。"
+        },
+        {
+          "en": "The museum is located in a former train station that was built more than a hundred years ago.",
+          "zh": "博物館位於一座一百多年前建造的舊火車站。"
+        },
+        {
+          "en": "Ms. Park is a former teacher who now writes books about education for parents and young teachers.",
+          "zh": "朴小姐以前是老師，現在為家長和年輕老師寫教育相關的書。"
+        },
+        {
+          "en": "The restaurant is run by a former chef from a famous hotel in Paris and his wife.",
+          "zh": "那家餐廳由一位曾在巴黎知名飯店任職的前主廚和他的太太經營。"
+        }
+      ],
+      "distractors": [
+        "formal",
+        "farmer",
+        "formula"
+      ],
+      "note": "語塊：former employee（前員工）、former president（前總裁）、former train station（舊火車站）、former teacher（前老師）、former chef（前主廚）。former 是「之前的」；the former 是「前者」，the latter 是「後者」；formal 是「正式的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-governor",
+      "word": "governor",
+      "pos": "名詞",
+      "meaning": "州長；首長；理事",
+      "sentences": [
+        {
+          "en": "The governor will visit the new factory next week to thank the company for creating jobs in the state.",
+          "zh": "州長下週會參觀新工廠，感謝公司在州內創造工作機會。"
+        },
+        {
+          "en": "The central bank governor announced that interest rates will stay the same for the next six months.",
+          "zh": "央行總裁宣布，未來六個月利率將維持不變。"
+        },
+        {
+          "en": "The governor of the central bank will vote on the new budget at the meeting in March.",
+          "zh": "央行總裁將在三月的會議上對新預算投票。"
+        },
+        {
+          "en": "Many residents wrote letters to the governor to ask for more money for schools and hospitals.",
+          "zh": "很多居民寫信給州長，要求增加學校和醫院的經費。"
+        },
+        {
+          "en": "The governor promised to build new roads and bridges in the northern part of the state.",
+          "zh": "州長承諾在州的北部興建新道路和橋樑。"
+        }
+      ],
+      "distractors": [
+        "government",
+        "governess",
+        "gardener"
+      ],
+      "note": "語塊：state governor（州長）、central bank governor（央行總裁）、board of governors（理事會）。governor 是「地方首長」或某些機構的「總裁、理事」；government 是「政府」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-genealogy",
+      "word": "genealogy",
+      "pos": "名詞",
+      "meaning": "家譜；家系研究",
+      "sentences": [
+        {
+          "en": "The library offers free classes for people who want to research their family genealogy online.",
+          "zh": "圖書館為想在網路上研究家族家譜的人提供免費課程。"
+        },
+        {
+          "en": "Many people use special websites to study genealogy and find relatives who live in other countries.",
+          "zh": "很多人用特別的網站研究家系，找到住在其他國家的親戚。"
+        },
+        {
+          "en": "Mr. Kim became interested in genealogy after he found old letters from his grandfather in the attic.",
+          "zh": "金先生在閣樓發現祖父的舊信件後，開始對家族族譜感興趣。"
+        },
+        {
+          "en": "The museum's genealogy center helps visitors find information about their ancestors who lived in the town.",
+          "zh": "博物館的家系中心幫助參觀者找到曾住在鎮上的祖先資料。"
+        },
+        {
+          "en": "The book explains the genealogy of the royal family from the twelfth century to today.",
+          "zh": "那本書解說了從十二世紀到現在的王室家譜。"
+        }
+      ],
+      "distractors": [
+        "geology",
+        "generation",
+        "geography"
+      ],
+      "note": "語塊：family genealogy（家族家譜）、study genealogy（研究家系）、interested in genealogy（對家譜有興趣）、genealogy center（家系中心）。genealogy 是「研究家族歷史和祖先」；ancestry 是「祖先；血統」；generation 是「世代」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scatter",
+      "word": "scatter",
+      "pos": "動詞",
+      "meaning": "分散；撒",
+      "sentences": [
+        {
+          "en": "The strong wind will scatter the papers if you leave them on the table near the open window.",
+          "zh": "如果你把文件放在開著的窗戶旁邊的桌上，強風會把它們吹散。"
+        },
+        {
+          "en": "The company decided to scatter its small offices across Asia, so most meetings are now held online.",
+          "zh": "公司決定把小型辦公室分散設在亞洲各地，所以現在大部分會議都在線上進行。"
+        },
+        {
+          "en": "Farmers scatter seeds over the fields in spring and harvest the vegetables in the summer.",
+          "zh": "農民春天在田裡撒種子，夏天收成蔬菜。"
+        },
+        {
+          "en": "After the concert, the crowd began to scatter, and the streets around the stadium became quiet again.",
+          "zh": "演唱會結束後人群開始散去，體育場周圍的街道又安靜了下來。"
+        },
+        {
+          "en": "Please do not scatter your tools around the workshop, because someone might trip over them.",
+          "zh": "請不要把工具散落在工作室裡，因為可能有人會被絆倒。"
+        }
+      ],
+      "distractors": [
+        "shatter",
+        "chatter",
+        "flatter"
+      ],
+      "note": "語塊：scatter seeds（撒種子）、scatter across（分散在……各地）、scatter the papers（吹散文件）。scatter 是「往四處散開」；spread 意思接近；gather 是相反「聚集」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
