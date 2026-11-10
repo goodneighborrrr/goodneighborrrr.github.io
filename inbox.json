@@ -82968,6 +82968,706 @@
       ],
       "note": "語塊：on the outskirts of（在……郊區）。outskirts 永遠用複數，是「城市的外圍」；suburbs 是「郊區（住宅區）」；downtown 是「市中心」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-account-of",
+      "word": "on account of",
+      "pos": "介系詞",
+      "meaning": "因為；由於",
+      "sentences": [
+        {
+          "en": "The outdoor concert was canceled on account of the heavy rain, and all tickets will be refunded.",
+          "zh": "戶外演唱會因為大雨取消，所有門票都會退款。"
+        },
+        {
+          "en": "Mr. Kim could not attend the meeting on account of illness, so his assistant took notes for him.",
+          "zh": "金先生因病無法參加會議，所以由助理替他做筆記。"
+        },
+        {
+          "en": "The flight was delayed for two hours on account of the strong wind at the airport.",
+          "zh": "因為機場強風，班機延誤了兩小時。"
+        },
+        {
+          "en": "The store will close early today on account of the national holiday tomorrow and will open again on Thursday.",
+          "zh": "因為明天是國定假日，店今天會提早打烊，週四再開。"
+        },
+        {
+          "en": "Many tourists canceled their trips on account of the typhoon warning for the island this weekend.",
+          "zh": "因為這個週末島上的颱風警報，很多觀光客取消了行程。"
+        }
+      ],
+      "distractors": [
+        "on behalf of",
+        "in spite of",
+        "by means of"
+      ],
+      "note": "語塊：on account of the rain（因為下雨）、on account of illness（因病）、on account of the wind（因為強風）、on account of the holiday（因為假日）、on account of the typhoon（因為颱風）。on account of 是比較正式的「因為」，後面接名詞；because of、due to 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-status",
+      "word": "status",
+      "pos": "名詞",
+      "meaning": "狀態；地位",
+      "sentences": [
+        {
+          "en": "You can check the status of your order on our website by entering the order number.",
+          "zh": "你可以在我們網站輸入訂單號碼，查詢訂單狀態。"
+        },
+        {
+          "en": "The manager asked each team to send a status update on their projects every Friday afternoon.",
+          "zh": "經理請每個團隊每週五下午寄送專案的狀態更新。"
+        },
+        {
+          "en": "In some countries, owning a large car is a sign of high social status and success.",
+          "zh": "在某些國家，擁有大車是高社會地位和成功的象徵。"
+        },
+        {
+          "en": "The website shows the status of every flight, so passengers know if there are any delays.",
+          "zh": "網站會顯示每個航班的狀態，讓乘客知道有沒有延誤。"
+        },
+        {
+          "en": "Please call the customer care center if the status of your order has not changed for three days.",
+          "zh": "如果你的訂單狀態三天沒有變化，請打電話給客服中心。"
+        }
+      ],
+      "distractors": [
+        "statue",
+        "stature",
+        "statute"
+      ],
+      "note": "語塊：order status（訂單狀態）、social status（社會地位）、status update（狀態更新）。status 是「目前的情況」或「身分地位」；state 是「狀態；州」；statue 是「雕像」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-discourage",
+      "word": "discourage",
+      "pos": "動詞",
+      "meaning": "勸阻；使氣餒",
+      "sentences": [
+        {
+          "en": "The high prices may discourage young people from buying apartments in the city center near their offices.",
+          "zh": "高價格可能會讓年輕人打消在公司附近的市中心買公寓的念頭。"
+        },
+        {
+          "en": "The city put up signs to discourage drivers from parking in front of the school entrance.",
+          "zh": "市政府設置告示，勸阻駕駛在校門口停車。"
+        },
+        {
+          "en": "Please do not let one bad review discourage you, because most customers love our products.",
+          "zh": "請不要因為一則負評而氣餒，因為大部分顧客都很喜歡我們的產品。"
+        },
+        {
+          "en": "The new rules are designed to discourage employees from using their phones and laptops during long meetings.",
+          "zh": "新規定的目的是勸阻員工在冗長會議中使用手機和筆電。"
+        },
+        {
+          "en": "Long waiting times at the counter can discourage customers from visiting the restaurant again next time.",
+          "zh": "櫃台等候時間太長，會讓顧客下次不想再去那家餐廳。"
+        }
+      ],
+      "distractors": [
+        "encourage",
+        "disclose",
+        "discover"
+      ],
+      "note": "語塊：discourage sb from doing（勸阻某人做……）、be discouraged（感到氣餒）。discourage from + V-ing 是「勸人不要做」；encourage 是相反「鼓勵」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-silent",
+      "word": "silent",
+      "pos": "形容詞",
+      "meaning": "安靜的；沉默的",
+      "sentences": [
+        {
+          "en": "Please put your phone on silent mode during the presentation so that it does not disturb anyone.",
+          "zh": "簡報期間請把手機調成靜音模式，以免打擾別人。"
+        },
+        {
+          "en": "The museum asks visitors to remain silent in the gallery so that everyone can enjoy the paintings.",
+          "zh": "博物館請參觀者在展廳保持安靜，讓每個人都能欣賞畫作。"
+        },
+        {
+          "en": "The charity held a silent auction, where guests wrote their offers on paper instead of speaking.",
+          "zh": "慈善機構舉辦了一場無聲拍賣，賓客把出價寫在紙上而不是喊價。"
+        },
+        {
+          "en": "The new air conditioner is almost silent, so it is perfect for bedrooms and libraries.",
+          "zh": "新冷氣幾乎沒有聲音，所以非常適合臥室和圖書館。"
+        },
+        {
+          "en": "The CEO remained silent about the merger until both companies were ready to announce it.",
+          "zh": "執行長對合併保持沉默，直到兩家公司都準備好宣布。"
+        }
+      ],
+      "distractors": [
+        "silence",
+        "salient",
+        "slight"
+      ],
+      "note": "語塊：remain silent（保持沉默）、silent mode（靜音模式）、silent auction（無聲拍賣）。silent 是「沒有聲音的」；silence 是名詞「安靜」；quiet 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-portability",
+      "word": "portability",
+      "pos": "名詞",
+      "meaning": "便攜性；可攜帶性",
+      "sentences": [
+        {
+          "en": "The new laptop is very light, and customers love its portability and long battery life.",
+          "zh": "新筆電非常輕，顧客很喜歡它的便攜性和長電池續航力。"
+        },
+        {
+          "en": "The speaker was designed for portability, so you can carry it easily to the beach or the park.",
+          "zh": "這個喇叭是為了方便攜帶而設計的，所以你可以輕鬆帶到海邊或公園。"
+        },
+        {
+          "en": "The portability of tablets makes them popular with salespeople who visit many clients every day.",
+          "zh": "平板的便攜性讓它們很受每天拜訪很多客戶的業務員歡迎。"
+        },
+        {
+          "en": "Some customers care more about portability than about the size of the screen or the color.",
+          "zh": "有些顧客比起螢幕大小或顏色，更在乎便攜性。"
+        },
+        {
+          "en": "The company improved the portability of its printer by making it smaller and lighter than before.",
+          "zh": "公司把印表機做得比以前更小更輕，提升了便攜性。"
+        }
+      ],
+      "distractors": [
+        "possibility",
+        "profitability",
+        "durability"
+      ],
+      "note": "語塊：for portability（為了方便攜帶）、portability of（……的便攜性）。portability 是 portable（可攜帶的）的名詞；mobility 是「移動性」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overnight",
+      "word": "overnight",
+      "pos": "副詞",
+      "meaning": "一夜之間；過夜",
+      "sentences": [
+        {
+          "en": "The package will be sent by overnight delivery, so it will arrive at your office tomorrow morning.",
+          "zh": "包裹會用隔夜送達寄出，所以明天早上就會到你的辦公室。"
+        },
+        {
+          "en": "Many guests stay overnight at the hotel before they catch an early flight from the airport.",
+          "zh": "很多客人會在搭早班飛機前在飯店住一晚。"
+        },
+        {
+          "en": "The small café became famous overnight after a popular singer posted a photo of its cake online.",
+          "zh": "一位知名歌手在網路上貼出蛋糕照片後，那家小咖啡廳一夜之間爆紅。"
+        },
+        {
+          "en": "Please leave the machine on overnight so that it can finish updating the software before tomorrow morning.",
+          "zh": "請讓機器開著過夜，讓它在明天早上前完成軟體更新。"
+        },
+        {
+          "en": "Success does not happen overnight, so the team will need to work hard for several years.",
+          "zh": "成功不會一夜之間發生，所以團隊需要努力好幾年。"
+        }
+      ],
+      "distractors": [
+        "overtime",
+        "overlook",
+        "overhead"
+      ],
+      "note": "語塊：stay overnight（過夜）、overnight delivery（隔夜送達）、famous overnight（一夜爆紅）、on overnight（開著過夜）、happen overnight（一夕發生）。overnight 可以當副詞或形容詞（an overnight trip）；over night 分開寫是錯的。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-restricted",
+      "word": "restricted",
+      "pos": "形容詞",
+      "meaning": "受限制的；限制進入的",
+      "sentences": [
+        {
+          "en": "The server room is a restricted area, so only employees from the IT department can enter it.",
+          "zh": "機房是禁區，只有資訊部的員工可以進入。"
+        },
+        {
+          "en": "Access to the factory floor is restricted to workers who have completed the safety training.",
+          "zh": "工廠作業區只限完成安全訓練的工人進入。"
+        },
+        {
+          "en": "Parking on this street is restricted to residents, so visitors should use the public parking garage.",
+          "zh": "這條街的停車只限居民，所以訪客應該使用公共停車場。"
+        },
+        {
+          "en": "The museum has a restricted area where old documents are stored at a low temperature.",
+          "zh": "博物館有一個禁區，舊文件在低溫下存放在那裡。"
+        },
+        {
+          "en": "Some websites are restricted on office computers, so employees cannot use them during work hours.",
+          "zh": "辦公室電腦會限制部分網站，所以員工上班時間不能使用。"
+        }
+      ],
+      "distractors": [
+        "restrained",
+        "respected",
+        "resisted"
+      ],
+      "note": "語塊：restricted area（禁區）、restricted access（限制進入）。restricted 是「被規定不能隨便進入或使用的」；restrict 是動詞「限制」；limited 是「有限的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-personnel",
+      "word": "personnel",
+      "pos": "名詞",
+      "meaning": "（全體）人員；人事部門",
+      "sentences": [
+        {
+          "en": "Only authorized personnel are allowed to enter the laboratory, so please show your ID at the door.",
+          "zh": "只有獲授權人員可以進入實驗室，所以請在門口出示證件。"
+        },
+        {
+          "en": "Medical personnel from three hospitals helped the people who were injured in the accident on the highway.",
+          "zh": "三家醫院的醫護人員協助了高速公路事故中受傷的人。"
+        },
+        {
+          "en": "Please send your application to the personnel department before the end of the month with your résumé.",
+          "zh": "請在月底前把申請書連同履歷寄到人事部。"
+        },
+        {
+          "en": "The hotel trains all of its personnel to handle emergencies such as fires and earthquakes.",
+          "zh": "飯店訓練所有人員處理火災和地震等緊急狀況。"
+        },
+        {
+          "en": "Security personnel will check every bag at the entrance of the stadium before the game.",
+          "zh": "比賽前保全人員會在體育場入口檢查每個包包。"
+        }
+      ],
+      "distractors": [
+        "personal",
+        "personality",
+        "persona"
+      ],
+      "note": "語塊：security personnel（保全人員）、medical personnel（醫護人員）、personnel department（人事部）。personnel 是「人員」的集合名詞，重音在最後；personal 是「個人的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-habit",
+      "word": "habit",
+      "pos": "名詞",
+      "meaning": "習慣",
+      "sentences": [
+        {
+          "en": "Reading every day is a good habit that can help you learn new words and ideas.",
+          "zh": "每天閱讀是好習慣，能幫你學到新字和新想法。"
+        },
+        {
+          "en": "Checking e-mail late at night is a bad habit, because it can make it difficult to sleep well.",
+          "zh": "深夜查看電子郵件是壞習慣，因為會讓人很難睡好。"
+        },
+        {
+          "en": "Ms. Lee has a habit of arriving at the office early so that she can plan her day quietly.",
+          "zh": "李小姐習慣提早到辦公室，這樣可以安靜地規劃一天。"
+        },
+        {
+          "en": "The survey looked at the shopping habit of young customers who prefer to buy things online.",
+          "zh": "調查研究了偏好網購的年輕顧客的購物習慣。"
+        },
+        {
+          "en": "It takes about two months to form a new habit, so please do not give up too quickly.",
+          "zh": "養成新習慣大約需要兩個月，所以請不要太快放棄。"
+        }
+      ],
+      "distractors": [
+        "habitat",
+        "rabbit",
+        "exhibit"
+      ],
+      "note": "語塊：good habit（好習慣）、bad habit（壞習慣）、habit of（……的習慣）。habit 是「個人的習慣」；custom 是「社會習俗」；habitat 是「棲息地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-operating-cost",
+      "word": "operating cost",
+      "pos": "名詞",
+      "meaning": "營運成本",
+      "sentences": [
+        {
+          "en": "The company is trying to reduce its operating cost by using less electricity in every office.",
+          "zh": "公司正試著在每間辦公室少用電，以降低營運成本。"
+        },
+        {
+          "en": "Electric buses have a lower operating cost than diesel buses, because they need less fuel and fewer repairs.",
+          "zh": "電動公車的營運成本比柴油公車低，因為需要的燃料和維修都比較少。"
+        },
+        {
+          "en": "The high operating cost of the old factory is one reason why the company decided to close it.",
+          "zh": "舊工廠的高營運成本是公司決定關閉它的原因之一。"
+        },
+        {
+          "en": "Moving to a smaller office will help the business lower its operating cost by about twenty percent.",
+          "zh": "搬到較小的辦公室會幫公司降低約兩成的營運成本。"
+        },
+        {
+          "en": "The new machines are expensive, but their operating cost is much lower than that of the old ones.",
+          "zh": "新機器很貴，但營運成本比舊機器低很多。"
+        }
+      ],
+      "distractors": [
+        "operating system",
+        "operating room",
+        "fixed cost"
+      ],
+      "note": "語塊：reduce its operating cost（降低營運成本）、lower its operating cost（降低營運成本）、high operating cost（高營運成本）。operating cost 是「維持公司或機器運作的費用」；operational 是「營運的」；cost 是「成本」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-devote",
+      "word": "devote",
+      "pos": "動詞",
+      "meaning": "致力於；投入",
+      "sentences": [
+        {
+          "en": "Ms. Park plans to devote more time to her family after she retires from the company next year.",
+          "zh": "朴小姐打算明年從公司退休後，投入更多時間陪家人。"
+        },
+        {
+          "en": "The company will devote a large part of its budget to research on clean energy over the next five years.",
+          "zh": "公司未來五年將把大部分預算投入乾淨能源的研究。"
+        },
+        {
+          "en": "Mr. Kim decided to devote himself to helping young people in his hometown start their own businesses.",
+          "zh": "金先生決定全心投入幫助家鄉的年輕人創業。"
+        },
+        {
+          "en": "The new manager wants to devote the first month to meeting every member of the team.",
+          "zh": "新經理想把第一個月用來和每位組員見面。"
+        },
+        {
+          "en": "Many retired people devote their free time to volunteer work at hospitals and libraries in the city.",
+          "zh": "很多退休人士把空閒時間投入市內醫院和圖書館的志工服務。"
+        }
+      ],
+      "distractors": [
+        "devour",
+        "denote",
+        "vote"
+      ],
+      "note": "語塊：devote time to（投入時間在……）、devote oneself to（全心投入……）、be devoted to（致力於……）。devote to 後面接名詞或 V-ing（devote time to studying）；devotion 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-librarian",
+      "word": "librarian",
+      "pos": "名詞",
+      "meaning": "圖書館員",
+      "sentences": [
+        {
+          "en": "If you cannot find the book you need, please ask the librarian at the information desk for help.",
+          "zh": "如果找不到你需要的書，請向服務台的圖書館員求助。"
+        },
+        {
+          "en": "The school librarian helps students find books and teaches them how to use the online database.",
+          "zh": "學校圖書館員幫學生找書，並教他們如何使用線上資料庫。"
+        },
+        {
+          "en": "Ms. Lee has worked as a librarian for twenty years and knows almost every book in the building.",
+          "zh": "李小姐當圖書館員二十年了，幾乎認識館裡每一本書。"
+        },
+        {
+          "en": "The librarian will read stories to young children every Saturday morning in the children's room.",
+          "zh": "圖書館員每週六早上會在兒童室為小朋友講故事。"
+        },
+        {
+          "en": "Please ask the librarian if you want to reserve a study room for your group.",
+          "zh": "如果你想為小組預約自習室，請詢問圖書館員。"
+        }
+      ],
+      "distractors": [
+        "library",
+        "vegetarian",
+        "veterinarian"
+      ],
+      "note": "語塊：school librarian（學校圖書館員）、ask the librarian（詢問圖書館員）。librarian 是在圖書館工作的人；library 是「圖書館」；bookstore 是「書店」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-check-out",
+      "word": "check out",
+      "pos": "片語動詞",
+      "meaning": "退房；借出；結帳；看看",
+      "sentences": [
+        {
+          "en": "Guests must check out of their rooms by eleven o'clock, but they can leave their luggage at the front desk.",
+          "zh": "客人必須在十一點前退房，但可以把行李寄放在櫃台。"
+        },
+        {
+          "en": "Students can check out up to ten books at a time from the university library.",
+          "zh": "學生一次可以從大學圖書館借最多十本書。"
+        },
+        {
+          "en": "Please check out our new website, which has more information about our products and prices.",
+          "zh": "請看看我們的新網站，上面有更多產品和價格的資訊。"
+        },
+        {
+          "en": "Customers can check out quickly by using the self-service machines near the entrance of the store.",
+          "zh": "顧客可以用店門口附近的自助結帳機快速結帳。"
+        },
+        {
+          "en": "If you check out late, the hotel may charge you an extra fee for the room.",
+          "zh": "如果你晚退房，飯店可能會加收房間費用。"
+        }
+      ],
+      "distractors": [
+        "check in",
+        "check up",
+        "check over"
+      ],
+      "note": "語塊：check out of a hotel（退房）、check out books（借書）、check out a website（看看網站）。check out 有很多意思：「退房」、「借書」、「結帳」、「去看看」；check in 是「報到；入住」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unforgettable",
+      "word": "unforgettable",
+      "pos": "形容詞",
+      "meaning": "難忘的",
+      "sentences": [
+        {
+          "en": "The trip to the mountains was an unforgettable experience, and the whole team wants to go again next year.",
+          "zh": "去山上的旅行是一次難忘的經驗，整個團隊明年都想再去。"
+        },
+        {
+          "en": "The hotel promises an unforgettable stay, with a beautiful view, excellent food, and friendly staff.",
+          "zh": "飯店保證讓客人有一次難忘的住宿，有美景、好菜和親切的員工。"
+        },
+        {
+          "en": "The concert was unforgettable, and thousands of fans sang together with the band at the end.",
+          "zh": "那場演唱會令人難忘，結尾時數千名歌迷和樂團一起合唱。"
+        },
+        {
+          "en": "Our travel agency can help you plan an unforgettable trip to Japan during the cherry blossom season.",
+          "zh": "我們的旅行社可以幫你規劃櫻花季去日本的難忘旅行。"
+        },
+        {
+          "en": "Working abroad for a year was an unforgettable experience that changed the way Ms. Lin thinks about work.",
+          "zh": "在國外工作一年是一次難忘的經驗，改變了林小姐對工作的看法。"
+        }
+      ],
+      "distractors": [
+        "unforgivable",
+        "unpredictable",
+        "unavoidable"
+      ],
+      "note": "語塊：unforgettable experience（難忘的經驗）、unforgettable trip（難忘的旅行）。unforgettable 是「忘不了的」；memorable 意思接近；forget 是「忘記」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-protocol",
+      "word": "protocol",
+      "pos": "名詞",
+      "meaning": "規範；協議；禮儀",
+      "sentences": [
+        {
+          "en": "All workers must follow the safety protocol when they handle hazardous materials in the laboratory.",
+          "zh": "所有工人在實驗室處理有害物質時，都必須遵守安全規範。"
+        },
+        {
+          "en": "The hospital has a strict protocol for cleaning rooms carefully after each patient leaves the ward.",
+          "zh": "醫院對每位病人離開病房後仔細清潔房間有嚴格的規範。"
+        },
+        {
+          "en": "Please follow the protocol in the handbook if there is a fire or another emergency in the building.",
+          "zh": "如果大樓發生火災或其他緊急狀況，請遵守手冊中的規範。"
+        },
+        {
+          "en": "The new safety protocol requires every visitor to wear a helmet and sign in at the front gate.",
+          "zh": "新的安全規範要求每位訪客戴安全帽並在大門登記。"
+        },
+        {
+          "en": "Staff who do not follow the protocol may be asked to attend the training session again.",
+          "zh": "沒有遵守規範的員工可能會被要求再上一次訓練課程。"
+        }
+      ],
+      "distractors": [
+        "prototype",
+        "procedure",
+        "portfolio"
+      ],
+      "note": "語塊：safety protocol（安全規範）、follow the protocol（遵守規範）。protocol 是「正式的程序或規則」；procedure 是「程序」；prototype 是「原型」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commemorative",
+      "word": "commemorative",
+      "pos": "形容詞",
+      "meaning": "紀念的",
+      "sentences": [
+        {
+          "en": "The bank will release a commemorative coin to celebrate the one hundredth anniversary of the city.",
+          "zh": "銀行將發行紀念幣，慶祝城市成立一百週年。"
+        },
+        {
+          "en": "Collectors lined up at the post office to buy the new commemorative stamp on its first day.",
+          "zh": "收藏家在郵局排隊，在第一天購買新的紀念郵票。"
+        },
+        {
+          "en": "The company held a commemorative event to celebrate fifty years since its first store opened.",
+          "zh": "公司舉辦紀念活動，慶祝第一家店開業五十週年。"
+        },
+        {
+          "en": "Every guest at the anniversary dinner received a commemorative gift with the company logo on it.",
+          "zh": "週年晚宴的每位賓客都收到一份印有公司標誌的紀念禮物。"
+        },
+        {
+          "en": "The museum shop sells a commemorative book about the history of the old train station.",
+          "zh": "博物館商店販售一本關於舊火車站歷史的紀念書。"
+        }
+      ],
+      "distractors": [
+        "cooperative",
+        "communicative",
+        "comparative"
+      ],
+      "note": "語塊：commemorative coin（紀念幣）、commemorative stamp（紀念郵票）、commemorative event（紀念活動）。commemorative 是 commemorate（紀念）的形容詞；memorial 是「紀念的；紀念碑」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-walking-distance",
+      "word": "walking distance",
+      "pos": "名詞",
+      "meaning": "步行可到的距離",
+      "sentences": [
+        {
+          "en": "The hotel is within walking distance of the beach, so guests do not need a car during their stay.",
+          "zh": "飯店走路就能到海灘，所以客人住宿期間不需要車。"
+        },
+        {
+          "en": "Many restaurants and shops are within walking distance of our new office in the city center.",
+          "zh": "很多餐廳和商店都在我們市中心新辦公室走路可到的範圍內。"
+        },
+        {
+          "en": "The apartment is in walking distance of a good school, which is why many families want to live there.",
+          "zh": "那間公寓走路就到一所好學校，這也是很多家庭想住那裡的原因。"
+        },
+        {
+          "en": "The conference center is within walking distance of the train station, so attendees can arrive easily.",
+          "zh": "會議中心從火車站走路就能到，所以參加者可以輕鬆抵達。"
+        },
+        {
+          "en": "Please choose a hotel within walking distance of the client's office, so that you do not need a taxi.",
+          "zh": "請選一家走路就能到客戶辦公室的飯店，這樣就不用搭計程車。"
+        }
+      ],
+      "distractors": [
+        "walking stick",
+        "long distance",
+        "social distance"
+      ],
+      "note": "語塊：within walking distance（步行可到）、in walking distance of（離……走路就到）。within walking distance of 是「走路就能到」；driving distance 是「開車距離」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convenience-store",
+      "word": "convenience store",
+      "pos": "名詞",
+      "meaning": "便利商店",
+      "sentences": [
+        {
+          "en": "There is a convenience store on the first floor of the building, and it is open twenty-four hours a day.",
+          "zh": "大樓一樓有一家便利商店，二十四小時營業。"
+        },
+        {
+          "en": "Many office workers buy breakfast at the convenience store near the station on their way to work.",
+          "zh": "很多上班族在上班途中到車站附近的便利商店買早餐。"
+        },
+        {
+          "en": "You can pay your phone bill and buy train tickets at any convenience store in the city.",
+          "zh": "你可以在市內任何一家便利商店繳電話費和買火車票。"
+        },
+        {
+          "en": "The company plans to open a convenience store in every new apartment building it builds.",
+          "zh": "公司計畫在它蓋的每棟新公寓大樓開一家便利商店。"
+        },
+        {
+          "en": "The convenience store near the university sells cheap meals and drinks that are very popular with students.",
+          "zh": "大學附近的便利商店販售便宜的餐點和飲料，很受學生歡迎。"
+        }
+      ],
+      "distractors": [
+        "department store",
+        "grocery store",
+        "thrift store"
+      ],
+      "note": "語塊：open a convenience store（開便利商店）、at the convenience store（在便利商店）。convenience 是「方便」；convenient 是形容詞「方便的」；supermarket 是「超市」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bill",
+      "word": "bill",
+      "pos": "名詞",
+      "meaning": "帳單；法案",
+      "sentences": [
+        {
+          "en": "Please pay the electricity bill before the end of the month, or a late fee will be added.",
+          "zh": "請在月底前繳電費，否則會加收滯納金。"
+        },
+        {
+          "en": "After the business dinner tonight, the manager will pay the bill with the company credit card.",
+          "zh": "今晚商務晚餐後，經理會用公司信用卡付帳。"
+        },
+        {
+          "en": "The phone bill was much higher than usual because Ms. Kim made many calls while she was abroad.",
+          "zh": "電話費帳單比平常高很多，因為金小姐在國外時打了很多電話。"
+        },
+        {
+          "en": "Installing solar panels can reduce your electricity bill by about thirty percent every month during the summer.",
+          "zh": "安裝太陽能板夏天每個月可以讓電費減少大約三成。"
+        },
+        {
+          "en": "Customers can pay the bill online, at the bank, or at any convenience store near their home.",
+          "zh": "顧客可以在網路上、銀行或家附近任何一家便利商店付帳。"
+        }
+      ],
+      "distractors": [
+        "ball",
+        "pill",
+        "bell"
+      ],
+      "note": "語塊：pay the bill（付帳）、electricity bill（電費帳單）、phone bill（電話費帳單）。bill 可以是「帳單」或「法案」；check 在美式餐廳也指「帳單」；invoice 是「請款單」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reach-out",
+      "word": "reach out",
+      "pos": "片語動詞",
+      "meaning": "主動聯絡；伸出援手",
+      "sentences": [
+        {
+          "en": "Please reach out to me if you have any questions about the new project or the schedule.",
+          "zh": "如果你對新專案或時程有任何問題，請主動聯絡我。"
+        },
+        {
+          "en": "The company will reach out to every customer who was affected by the problem with the website.",
+          "zh": "公司會主動聯絡每位受到網站問題影響的顧客。"
+        },
+        {
+          "en": "Many volunteers reach out to older people who live alone, especially during the cold winter months.",
+          "zh": "很多志工會主動關心獨居長者，特別是在寒冷的冬季。"
+        },
+        {
+          "en": "Our sales team will reach out to potential clients at the trade show next month.",
+          "zh": "我們的業務團隊下個月會在展覽上主動接觸潛在客戶。"
+        },
+        {
+          "en": "If you feel stressed at work, do not hesitate to reach out to your manager or a colleague.",
+          "zh": "如果你工作上感到壓力，請不要猶豫，主動找主管或同事聊聊。"
+        }
+      ],
+      "distractors": [
+        "reach for",
+        "reach an agreement",
+        "make out"
+      ],
+      "note": "語塊：reach out to（主動聯絡……）。reach out to sb 是「主動和某人聯絡或提供幫助」；contact 意思接近；reach 是「到達」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
