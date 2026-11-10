@@ -66203,6 +66203,706 @@
       ],
       "note": "語塊：look up information（查詢資訊）、look up a word（查單字）、look up days（查詢天數）。look up 是「查」或「好轉」；look up to sb 是「尊敬某人」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-perfume",
+      "word": "perfume",
+      "pos": "名詞",
+      "meaning": "香水",
+      "sentences": [
+        {
+          "en": "The department store has a perfume counter on the first floor where customers can try new scents.",
+          "zh": "百貨公司一樓有香水專櫃，顧客可以試聞新的香味。"
+        },
+        {
+          "en": "Staff in the hospital are asked not to wear perfume, because strong smells can bother some patients.",
+          "zh": "醫院員工被要求不要擦香水，因為濃烈的味道會讓有些病人不舒服。"
+        },
+        {
+          "en": "Mr. Lin bought a bottle of perfume at the airport as a birthday gift for his girlfriend.",
+          "zh": "林先生在機場買了一瓶香水，當作女朋友的生日禮物。"
+        },
+        {
+          "en": "The perfume counter is having a special sale this weekend, with free gift wrapping for every purchase.",
+          "zh": "香水專櫃這週末有特賣，每次購買都免費包裝。"
+        },
+        {
+          "en": "The famous fashion brand will launch a new perfume for men and women in December.",
+          "zh": "那個知名時尚品牌十二月將推出男女都適用的新香水。"
+        }
+      ],
+      "distractors": [
+        "costume",
+        "volume",
+        "presume"
+      ],
+      "note": "語塊：wear perfume（擦香水）、bottle of perfume（一瓶香水）、perfume counter（香水專櫃）。perfume 是「香水」；fragrance 是「香氣」；cologne 多指男用古龍水。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-praiseworthy",
+      "word": "praiseworthy",
+      "pos": "形容詞",
+      "meaning": "值得稱讚的",
+      "sentences": [
+        {
+          "en": "The team made a praiseworthy effort to finish the project on time even though two members were sick.",
+          "zh": "即使有兩位成員生病，團隊還是付出值得稱讚的努力準時完成專案。"
+        },
+        {
+          "en": "Reducing plastic waste by half is a praiseworthy goal, but it will take the company several years.",
+          "zh": "把塑膠垃圾減半是值得讚揚的目標，但公司需要好幾年才能做到。"
+        },
+        {
+          "en": "The manager thanked Ms. Park for her praiseworthy effort to help new employees learn the system.",
+          "zh": "經理感謝朴小姐幫新員工學習系統所付出的值得稱讚的努力。"
+        },
+        {
+          "en": "The city's plan to plant ten thousand trees is a praiseworthy goal that most residents support.",
+          "zh": "市政府種一萬棵樹的計畫是一個大部分居民都支持、值得讚揚的目標。"
+        },
+        {
+          "en": "The judges said the young designer's work was praiseworthy because it used only recycled materials.",
+          "zh": "評審說那位年輕設計師的作品值得稱讚，因為只用回收材料。"
+        }
+      ],
+      "distractors": [
+        "trustworthy",
+        "newsworthy",
+        "noteworthy"
+      ],
+      "note": "語塊：praiseworthy effort（值得稱讚的努力）、praiseworthy goal（值得讚揚的目標）。praiseworthy 是 praise（稱讚）＋ worthy（值得的）；admirable 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assess",
+      "word": "assess",
+      "pos": "動詞",
+      "meaning": "評估；估算",
+      "sentences": [
+        {
+          "en": "An insurance expert will visit the factory tomorrow to assess the damage caused by the storm.",
+          "zh": "保險專家明天會到工廠評估暴風雨造成的損害。"
+        },
+        {
+          "en": "The manager will assess the situation carefully before deciding whether to hire more staff for the busy season.",
+          "zh": "經理會仔細評估情況，再決定旺季是否增聘人手。"
+        },
+        {
+          "en": "Banks must assess the risk before they lend a large amount of money to a new business.",
+          "zh": "銀行借大筆錢給新企業之前，必須評估風險。"
+        },
+        {
+          "en": "Teachers will assess each student's English level with a short test on the first day of class.",
+          "zh": "老師會在第一天上課用簡短測驗評估每位學生的英文程度。"
+        },
+        {
+          "en": "The consultant was hired to assess the risk of opening a new store in a city with many competitors.",
+          "zh": "那位顧問受聘評估在競爭者眾多的城市開新店的風險。"
+        }
+      ],
+      "distractors": [
+        "access",
+        "asset",
+        "possess"
+      ],
+      "note": "語塊：assess the damage（評估損害）、assess the situation（評估情況）、assess the risk（評估風險）。assess 是「仔細判斷價值或程度」；evaluate 意思接近；assessment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inflate",
+      "word": "inflate",
+      "pos": "動詞",
+      "meaning": "充氣；抬高（價格、數字）",
+      "sentences": [
+        {
+          "en": "Some hotels inflate prices during the festival because they know visitors have few other choices.",
+          "zh": "有些飯店在節慶期間哄抬價格，因為知道遊客沒什麼其他選擇。"
+        },
+        {
+          "en": "Please inflate the tires on the company car before you drive to the client's office this afternoon.",
+          "zh": "今天下午開車去客戶辦公室前，請先幫公司車的輪胎打氣。"
+        },
+        {
+          "en": "The manager was fired after the auditors found that he had tried to inflate the numbers in the sales report.",
+          "zh": "稽核人員發現經理試圖在業績報告上灌水數字後，他被開除了。"
+        },
+        {
+          "en": "The government warned stores not to inflate prices of food and water after the typhoon.",
+          "zh": "政府警告店家颱風過後不得哄抬食物和水的價格。"
+        },
+        {
+          "en": "The workers will inflate the giant balloons in the park early in the morning before the parade starts.",
+          "zh": "工人會在遊行開始前一大早在公園給巨大的氣球充氣。"
+        }
+      ],
+      "distractors": [
+        "inflict",
+        "infiltrate",
+        "deflate"
+      ],
+      "note": "語塊：inflate prices（哄抬價格）、inflate a tire（給輪胎打氣）、inflate the numbers（灌水數字）。inflate 是「使膨脹」；inflation 是名詞「通貨膨脹」；deflate 是相反「洩氣」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stability",
+      "word": "stability",
+      "pos": "名詞",
+      "meaning": "穩定（性）",
+      "sentences": [
+        {
+          "en": "Many young people choose to work for the government because it offers job stability and good benefits.",
+          "zh": "很多年輕人選擇當公務員，因為工作穩定、福利又好。"
+        },
+        {
+          "en": "The company's financial stability helped it survive the difficult years when sales were very low.",
+          "zh": "公司的財務穩定幫助它度過銷售低迷的艱難時期。"
+        },
+        {
+          "en": "The central bank's main goal is to protect economic stability and keep prices from rising too quickly.",
+          "zh": "中央銀行的主要目標是維護經濟穩定，防止物價漲得太快。"
+        },
+        {
+          "en": "Investors look for companies with financial stability before they decide to buy shares or invest their money.",
+          "zh": "投資人決定買股票之前，會先找財務穩定的公司。"
+        },
+        {
+          "en": "For many workers, job stability is more important than a high salary or a famous company name.",
+          "zh": "對很多上班族來說，工作穩定比高薪或知名公司名號更重要。"
+        }
+      ],
+      "distractors": [
+        "ability",
+        "mobility",
+        "nobility"
+      ],
+      "note": "語塊：financial stability（財務穩定）、job stability（工作穩定）、economic stability（經濟穩定）。stability 是 stable（穩定的）的名詞；stabilize 是動詞「使穩定」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-voluntary",
+      "word": "voluntary",
+      "pos": "形容詞",
+      "meaning": "自願的；義務的",
+      "sentences": [
+        {
+          "en": "Attending the training session on Saturday is voluntary, but employees who attend will receive extra pay.",
+          "zh": "參加週六的訓練課程是自願的，但參加的員工會有額外報酬。"
+        },
+        {
+          "en": "Many retired people do voluntary work at the hospital, helping visitors find their way around the building.",
+          "zh": "很多退休人士在醫院做志工，幫訪客在大樓裡找路。"
+        },
+        {
+          "en": "The museum does not charge an entrance fee, but visitors can make a voluntary donation at the door.",
+          "zh": "博物館不收入場費，但參觀者可以在門口自由捐款。"
+        },
+        {
+          "en": "Staff help at the charity event on a voluntary basis, so nobody is paid for working that day.",
+          "zh": "員工以自願的方式在慈善活動幫忙，所以那天沒有人領薪水。"
+        },
+        {
+          "en": "Taking part in the customer survey is completely voluntary, and all answers will be kept private.",
+          "zh": "參加顧客調查完全是自願的，所有答案都會保密。"
+        }
+      ],
+      "distractors": [
+        "volunteer",
+        "voluminous",
+        "momentary"
+      ],
+      "note": "語塊：voluntary work（志工工作）、on a voluntary basis（以自願的方式）、voluntary donation（自由捐款）。voluntary 是「出於自願、不是被強迫的」；volunteer 是「志工」；compulsory 是「強制的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-defeat",
+      "word": "defeat",
+      "pos": "動詞",
+      "meaning": "擊敗；打敗",
+      "sentences": [
+        {
+          "en": "Our team managed to defeat a strong rival and win the contract to build the new airport terminal.",
+          "zh": "我們團隊成功擊敗強勁對手，拿下新航廈的建設合約。"
+        },
+        {
+          "en": "The local football club hopes to defeat the team from the capital in the final game on Sunday.",
+          "zh": "當地足球俱樂部希望在週日的決賽中擊敗首都來的隊伍。"
+        },
+        {
+          "en": "The small company was able to defeat larger competitors by offering better service at lower prices.",
+          "zh": "那家小公司以更低的價格提供更好的服務，打敗了較大的競爭對手。"
+        },
+        {
+          "en": "The mayor will try to defeat her rival in next year's election by focusing on public transit.",
+          "zh": "市長將專注於大眾運輸議題，試圖在明年選舉中擊敗對手。"
+        },
+        {
+          "en": "The team narrowly managed to defeat a rival company in the national design competition last week.",
+          "zh": "上週團隊在全國設計比賽中險勝一家對手公司。"
+        }
+      ],
+      "distractors": [
+        "default",
+        "deflect",
+        "defect"
+      ],
+      "note": "語塊：defeat a rival（擊敗對手）、narrowly defeat（險勝）。defeat 可以當動詞或名詞「失敗」（suffer a defeat）；beat 意思接近，比較口語。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-random",
+      "word": "random",
+      "pos": "形容詞",
+      "meaning": "隨機的；任意的",
+      "sentences": [
+        {
+          "en": "Security staff will carry out a random check of bags at the entrance to the stadium.",
+          "zh": "保全人員會在體育場入口隨機抽查包包。"
+        },
+        {
+          "en": "The winners of the sweepstakes will be chosen at random from all of the customers who entered.",
+          "zh": "抽獎的得主會從所有參加的顧客中隨機選出。"
+        },
+        {
+          "en": "The researchers asked a random sample of one thousand shoppers in the city about their favorite brands.",
+          "zh": "研究人員隨機抽樣了市內一千位購物者，詢問他們最喜歡的品牌。"
+        },
+        {
+          "en": "Inspectors make a random check of restaurants in the city to make sure the kitchens are clean.",
+          "zh": "稽查員會隨機抽查市內的餐廳，確保廚房乾淨。"
+        },
+        {
+          "en": "The computer selects questions at random, so every student will take a slightly different test.",
+          "zh": "電腦會隨機選題，所以每位學生的考卷都會有點不同。"
+        }
+      ],
+      "distractors": [
+        "ransom",
+        "tandem",
+        "rancid"
+      ],
+      "note": "語塊：at random（隨機地）、random check（抽查）、random sample（隨機樣本）。random 是「沒有規律、隨便選的」；at random 是「隨機地」；randomly 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-defend",
+      "word": "defend",
+      "pos": "動詞",
+      "meaning": "為……辯護；保衛",
+      "sentences": [
+        {
+          "en": "The CEO had to defend the decision to close the factory at a meeting with angry workers.",
+          "zh": "執行長必須在和憤怒工人的會議上為關廠的決定辯護。"
+        },
+        {
+          "en": "The new software helps companies defend against computer attacks that try to steal customer information.",
+          "zh": "新軟體幫助公司防禦企圖竊取顧客資料的電腦攻擊。"
+        },
+        {
+          "en": "The manager was asked to defend the decision to spend so much money on the new office furniture.",
+          "zh": "經理被要求為在新辦公家具上花這麼多錢的決定辯護。"
+        },
+        {
+          "en": "Every country must be able to defend against natural disasters such as floods and earthquakes.",
+          "zh": "每個國家都必須能夠防範水災和地震等天然災害。"
+        },
+        {
+          "en": "The lawyer will defend the company in court next month against claims that its product is unsafe.",
+          "zh": "下個月律師將在法庭上為公司辯護，反駁產品不安全的指控。"
+        }
+      ],
+      "distractors": [
+        "offend",
+        "depend",
+        "descend"
+      ],
+      "note": "語塊：defend a decision（為決定辯護）、defend against（防禦……）、defend oneself（為自己辯護）。defend 是「保護、辯護」；defense 是名詞；offend 是「冒犯」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-drop",
+      "word": "drop",
+      "pos": "動詞",
+      "meaning": "下降；放下；順道送",
+      "sentences": [
+        {
+          "en": "Sales of winter coats usually drop sharply in March when the weather becomes warmer in the city.",
+          "zh": "三月市區天氣變暖時，冬季大衣的銷量通常會大幅下降。"
+        },
+        {
+          "en": "Please drop off the documents at the front desk before five o'clock so that the manager can sign them.",
+          "zh": "請在五點前把文件放到櫃台，讓經理可以簽名。"
+        },
+        {
+          "en": "Feel free to drop by my office any time this afternoon if you have questions about the project.",
+          "zh": "如果你對專案有問題，今天下午隨時歡迎到我辦公室來。"
+        },
+        {
+          "en": "The taxi will drop off passengers at the main entrance of the hotel and then return to the station.",
+          "zh": "計程車會讓乘客在飯店正門下車，然後回到車站。"
+        },
+        {
+          "en": "Prices of fresh fruit tend to drop sharply in summer when many farms are harvesting at the same time.",
+          "zh": "夏天很多農場同時採收時，新鮮水果的價格往往會大幅下降。"
+        }
+      ],
+      "distractors": [
+        "drip",
+        "droop",
+        "prop"
+      ],
+      "note": "語塊：drop sharply（大幅下降）、drop off（放下；送到）、drop by（順道拜訪）。drop 可以當動詞或名詞「下降」（a drop in sales）；drop off 是「讓人下車；送東西過去」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-profit",
+      "word": "profit",
+      "pos": "名詞",
+      "meaning": "利潤；獲利",
+      "sentences": [
+        {
+          "en": "The small café started to make a profit in its second year after it began selling lunch sets.",
+          "zh": "那家小咖啡廳開始賣午餐套餐後，第二年就開始獲利。"
+        },
+        {
+          "en": "The company's net profit increased by fifteen percent last year thanks to strong sales in Asia.",
+          "zh": "多虧亞洲的強勁銷售，公司去年淨利成長了一成五。"
+        },
+        {
+          "en": "Supermarkets usually have a low profit margin, so they need to sell a large number of products.",
+          "zh": "超市的利潤率通常很低，所以需要賣出大量商品。"
+        },
+        {
+          "en": "It may take three years for the new factory to make a profit, according to the business plan.",
+          "zh": "根據營運計畫，新工廠可能要三年才能獲利。"
+        },
+        {
+          "en": "The board wants to increase the profit margin by reducing costs instead of raising prices.",
+          "zh": "董事會想透過降低成本而不是漲價來提高利潤率。"
+        }
+      ],
+      "distractors": [
+        "prophet",
+        "proffer",
+        "pivot"
+      ],
+      "note": "語塊：make a profit（獲利）、net profit（淨利）、profit margin（利潤率）。profit 是「賺到的錢」；profitable 是形容詞「有利可圖的」；prophet（先知）發音一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-workload",
+      "word": "workload",
+      "pos": "名詞",
+      "meaning": "工作量",
+      "sentences": [
+        {
+          "en": "Many nurses have a heavy workload during the winter, when more patients come to the hospital.",
+          "zh": "冬天來醫院的病人變多時，很多護理師的工作量都很大。"
+        },
+        {
+          "en": "The company hired two new assistants to reduce the workload of the sales team during the busy season.",
+          "zh": "公司雇了兩位新助理來減輕業務團隊旺季的工作量。"
+        },
+        {
+          "en": "Good managers help their employees manage a workload so that nobody has to work late every night.",
+          "zh": "好的主管會幫員工管理工作量，讓沒有人每晚都要加班。"
+        },
+        {
+          "en": "Because of the heavy workload this month, the deadline for the report has been pushed back a week.",
+          "zh": "因為這個月工作量很大，報告的截止日延後了一週。"
+        },
+        {
+          "en": "The new software will reduce the workload in the accounting department by doing many tasks automatically.",
+          "zh": "新軟體會自動處理很多工作，減輕會計部門的工作量。"
+        }
+      ],
+      "distractors": [
+        "overload",
+        "workplace",
+        "download"
+      ],
+      "note": "語塊：heavy workload（工作量很大）、reduce the workload（減輕工作量）、manage a workload（管理工作量）。workload 是「一個人要做的工作總量」；overload 是「超載」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-excessive",
+      "word": "excessive",
+      "pos": "形容詞",
+      "meaning": "過度的；過多的",
+      "sentences": [
+        {
+          "en": "Excessive use of air conditioning in summer can make the electricity bill very high for families.",
+          "zh": "夏天過度使用冷氣會讓家庭的電費變得很高。"
+        },
+        {
+          "en": "Residents complained about excessive noise from the construction site early every morning, even on weekends.",
+          "zh": "居民抱怨工地每天一大早就有過大的噪音，連週末也是。"
+        },
+        {
+          "en": "The restaurant was fined for using an excessive amount of salt in the food it served to schools.",
+          "zh": "那家餐廳因為供應給學校的餐點用鹽過量而被罰款。"
+        },
+        {
+          "en": "Some employees work excessive hours during the busy season, so the company is hiring more staff.",
+          "zh": "有些員工在旺季工時過長，所以公司正在增聘人手。"
+        },
+        {
+          "en": "Doctors warn that excessive use of smartphones before bed can make it difficult to sleep well.",
+          "zh": "醫生警告睡前過度使用智慧型手機會讓人很難睡好。"
+        }
+      ],
+      "distractors": [
+        "expensive",
+        "extensive",
+        "exclusive"
+      ],
+      "note": "語塊：excessive use（過度使用）、excessive noise（過大的噪音）、excessive amount（過量）。excessive 是「超過正常、合理程度的」；excess 是名詞「過量」；exceed 是動詞「超過」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-configuration",
+      "word": "configuration",
+      "pos": "名詞",
+      "meaning": "配置；設定",
+      "sentences": [
+        {
+          "en": "The IT team will change the system configuration this weekend so that the website loads faster.",
+          "zh": "資訊團隊這個週末會調整系統配置，讓網站載入更快。"
+        },
+        {
+          "en": "The hotel can change the room configuration for business meetings, large conferences, or wedding parties on weekends.",
+          "zh": "飯店可以為商務會議、大型研討會或週末婚宴調整場地配置。"
+        },
+        {
+          "en": "If the printer stops working, please reset it to the default configuration and try again.",
+          "zh": "如果印表機停止運作，請把它重設為預設設定再試一次。"
+        },
+        {
+          "en": "The engineer explained the configuration of the new production line to the factory workers before the first day of production.",
+          "zh": "工程師在開工第一天前向工廠工人說明新生產線的配置。"
+        },
+        {
+          "en": "Please do not change the system configuration on your computer without permission from the IT department.",
+          "zh": "未經資訊部許可，請不要更改電腦的系統配置。"
+        }
+      ],
+      "distractors": [
+        "conversation",
+        "conformation",
+        "confirmation"
+      ],
+      "note": "語塊：system configuration（系統配置）、room configuration（房間配置）、default configuration（預設設定）。configuration 是「各部分如何排列或設定」；configure 是動詞「設定」；setting 是比較口語的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expectation",
+      "word": "expectation",
+      "pos": "名詞",
+      "meaning": "期望；預期",
+      "sentences": [
+        {
+          "en": "The new product did not meet the expectation of the sales team, so the company stopped selling it after six months.",
+          "zh": "新產品不符合業務團隊的期望，所以公司六個月後就停止販售。"
+        },
+        {
+          "en": "The concert was a great success and seemed to exceed every expectation of the organizers.",
+          "zh": "演唱會非常成功，似乎超出主辦單位所有的預期。"
+        },
+        {
+          "en": "Customers now have a high expectation of fast delivery, so companies must ship orders on the same day.",
+          "zh": "顧客現在對快速送貨有很高的期望，所以公司必須當天出貨。"
+        },
+        {
+          "en": "The hotel always tries to exceed every expectation by giving guests small surprises such as free desserts.",
+          "zh": "飯店總是用免費甜點這類小驚喜，努力超出客人的所有預期。"
+        },
+        {
+          "en": "There is a high expectation that the new manager will improve sales within her first year.",
+          "zh": "大家高度期望新經理能在第一年內提升業績。"
+        }
+      ],
+      "distractors": [
+        "expiration",
+        "exception",
+        "explanation"
+      ],
+      "note": "語塊：meet an expectation（符合期望）、exceed every expectation（超出所有預期）、high expectation（高度期望）。expectation 是 expect（預期）的名詞；常用複數 expectations（meet expectations）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-increase",
+      "word": "increase",
+      "pos": "動詞",
+      "meaning": "增加；提高",
+      "sentences": [
+        {
+          "en": "The company plans to increase production by twenty percent to meet the growing demand from Asia.",
+          "zh": "公司計畫增產兩成，以應付亞洲日益增加的需求。"
+        },
+        {
+          "en": "The price of coffee is expected to increase sharply because of the dry weather in South America.",
+          "zh": "因為南美洲天氣乾燥，咖啡價格預計將大幅上漲。"
+        },
+        {
+          "en": "The new advertising campaign helped increase the number of visitors to the website by half.",
+          "zh": "新的廣告活動讓網站造訪人數增加了一半。"
+        },
+        {
+          "en": "Many workers asked for a pay raise after the cost of living began to increase sharply last year.",
+          "zh": "去年生活費開始大幅上漲後，很多員工要求加薪。"
+        },
+        {
+          "en": "The city will increase the number of buses on the main roads during rush hour starting next month.",
+          "zh": "市政府從下個月起會在尖峰時段增加主要道路的公車班次。"
+        }
+      ],
+      "distractors": [
+        "decrease",
+        "crease",
+        "release"
+      ],
+      "note": "語塊：increase by（增加了……）、increase sharply（大幅增加）、increase in（……的增加）。increase 可以當動詞或名詞（an increase in prices）；decrease 是相反「減少」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depreciate",
+      "word": "depreciate",
+      "pos": "動詞",
+      "meaning": "貶值；折舊",
+      "sentences": [
+        {
+          "en": "New cars depreciate quickly, so many people prefer to buy used cars that are only a few years old.",
+          "zh": "新車貶值得很快，所以很多人比較喜歡買車齡只有幾年的二手車。"
+        },
+        {
+          "en": "Computers and phones depreciate in value very quickly because new models come out every year.",
+          "zh": "電腦和手機的價值下跌得很快，因為每年都有新機型推出。"
+        },
+        {
+          "en": "Experts expect the currency to depreciate further if the central bank does not raise interest rates.",
+          "zh": "專家預期如果中央銀行不升息，貨幣將進一步貶值。"
+        },
+        {
+          "en": "Office furniture will depreciate in value over time, so the accountant records a small loss each year.",
+          "zh": "辦公家具的價值會隨時間下跌，所以會計每年都會記錄一點損失。"
+        },
+        {
+          "en": "Houses near the new airport may depreciate because of the noise from planes taking off and landing.",
+          "zh": "新機場附近的房子可能會因為飛機起降的噪音而貶值。"
+        }
+      ],
+      "distractors": [
+        "appreciate",
+        "deprecate",
+        "deteriorate"
+      ],
+      "note": "語塊：depreciate in value（價值下跌）、depreciate quickly（快速貶值）。depreciate 是「價值變低」；appreciate 在這裡是相反「增值」；depreciation 是名詞「折舊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-statistics",
+      "word": "statistics",
+      "pos": "名詞",
+      "meaning": "統計數字；統計學",
+      "sentences": [
+        {
+          "en": "According to statistics from the government, more people are working from home than ever before.",
+          "zh": "根據政府的統計，在家工作的人比以往任何時候都多。"
+        },
+        {
+          "en": "Official statistics show that the number of tourists visiting the city has doubled in five years.",
+          "zh": "官方統計顯示，造訪這座城市的觀光客人數五年內加倍了。"
+        },
+        {
+          "en": "The marketing team uses statistics about customer habits to decide which products to advertise each month.",
+          "zh": "行銷團隊用顧客習慣的統計數字來決定每個月要廣告哪些產品。"
+        },
+        {
+          "en": "Recent statistics show that young people spend more money on travel than on clothes or cars.",
+          "zh": "最近的統計顯示，年輕人花在旅遊上的錢比花在衣服或車子上的多。"
+        },
+        {
+          "en": "According to statistics, most traffic accidents in the city happen during rush hour on weekdays.",
+          "zh": "根據統計，市內大部分交通事故發生在平日的尖峰時段。"
+        }
+      ],
+      "distractors": [
+        "statics",
+        "status",
+        "statue"
+      ],
+      "note": "語塊：according to statistics（根據統計）、official statistics（官方統計）、statistics show（統計顯示）。statistics 當「統計數字」時是複數；當「統計學」時是單數；statistical 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-policymaking",
+      "word": "policymaking",
+      "pos": "名詞",
+      "meaning": "政策制定",
+      "sentences": [
+        {
+          "en": "Local residents want to be more involved in policymaking about new buildings in their neighborhood.",
+          "zh": "當地居民希望更參與社區新建築相關的政策制定。"
+        },
+        {
+          "en": "The report explains how the policymaking process works in the city government and who makes the final decision.",
+          "zh": "報告說明市政府的政策制定過程如何運作，以及誰做最後決定。"
+        },
+        {
+          "en": "Experts from universities are often invited to take part in policymaking on health and education.",
+          "zh": "大學的專家常受邀參與健康和教育方面的政策制定。"
+        },
+        {
+          "en": "The new website lets citizens follow the policymaking process closely and share their ideas online with officials.",
+          "zh": "新網站讓市民可以密切追蹤政策制定過程，並在網路上和官員分享想法。"
+        },
+        {
+          "en": "Good policymaking depends on accurate statistics and careful discussion with all of the people affected.",
+          "zh": "好的政策制定取決於準確的統計數字，以及和所有受影響的人仔細討論。"
+        }
+      ],
+      "distractors": [
+        "peacemaking",
+        "policyholder",
+        "filmmaking"
+      ],
+      "note": "語塊：involved in policymaking（參與政策制定）、policymaking process（政策制定過程）。policymaking 是「制定政策的過程」；policymaker 是「政策制定者」；policy 是「政策」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decision-making",
+      "word": "decision-making",
+      "pos": "名詞",
+      "meaning": "決策",
+      "sentences": [
+        {
+          "en": "The company wants all employees to be involved in decision-making about changes to the office.",
+          "zh": "公司希望所有員工都參與辦公室改變相關的決策。"
+        },
+        {
+          "en": "The new software makes the decision-making process faster by showing managers clear sales data every morning.",
+          "zh": "新軟體每天早上顯示清楚的銷售數據給主管，讓決策過程更快。"
+        },
+        {
+          "en": "Good decision-making skills are important for anyone who wants to become a manager in the future.",
+          "zh": "好的決策能力對任何未來想當主管的人都很重要。"
+        },
+        {
+          "en": "The training course focuses on teamwork, communication, and decision-making skills for new leaders in the company.",
+          "zh": "訓練課程聚焦於公司新任領導者的團隊合作、溝通和決策能力。"
+        },
+        {
+          "en": "Customers were invited to take part in the decision-making process when the company chose its new logo.",
+          "zh": "公司選新標誌時，邀請顧客參與決策過程。"
+        }
+      ],
+      "distractors": [
+        "decision maker",
+        "policymaking",
+        "problem-solving"
+      ],
+      "note": "語塊：decision-making process（決策過程）、involved in decision-making（參與決策）、decision-making skills（決策能力）。decision-making 是「做決定的過程」；decision 是「決定」；decisive 是「果斷的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
