@@ -87168,6 +87168,461 @@
       ],
       "note": "語塊：ask for clarification（請求說明）、need clarification（需要說明）、clarification of（……的說明）。clarification 是 clarify（澄清）的名詞；explanation 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-move-in",
+      "word": "move in",
+      "pos": "片語動詞",
+      "meaning": "搬進；入住",
+      "sentences": [
+        {
+          "en": "The new apartments will be ready to move in next spring, and more than half of them have already been sold.",
+          "zh": "新公寓明年春天就可以入住，已經賣出一半以上了。"
+        },
+        {
+          "en": "Tenants can move in on the first day of the month after they pay the security deposit and the first rent.",
+          "zh": "房客付了押金和第一個月房租後，就可以在月初搬進來。"
+        },
+        {
+          "en": "The company will move in to the new office building after the refurbishment is finished in March.",
+          "zh": "三月翻修完成後，公司會搬進新的辦公大樓。"
+        },
+        {
+          "en": "Please tell the management office the date when you plan to move in so that they can reserve the elevator.",
+          "zh": "請告訴管理處你打算搬進來的日期，讓他們預留電梯。"
+        },
+        {
+          "en": "Many students move in to the university housing a week before classes begin in September.",
+          "zh": "很多學生在九月開學前一週搬進大學宿舍。"
+        }
+      ],
+      "distractors": [
+        "move out",
+        "move on",
+        "move up"
+      ],
+      "note": "語塊：move in to（搬進……）、ready to move in（可以入住）。move in 是「搬進新家或新辦公室」；move out 是相反「搬出」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-steam",
+      "word": "steam",
+      "pos": "名詞",
+      "meaning": "蒸氣",
+      "sentences": [
+        {
+          "en": "The hotel spa has a steam room and a sauna, which guests can use for free during their stay.",
+          "zh": "飯店水療中心有蒸氣室和三溫暖，客人住宿期間可以免費使用。"
+        },
+        {
+          "en": "The museum displays an old steam engine that was used on the first railway in the country.",
+          "zh": "博物館展出一台國內第一條鐵路使用過的舊蒸汽機。"
+        },
+        {
+          "en": "Many office workers go to the gym after work to let off steam and relax after a long day.",
+          "zh": "很多上班族下班後去健身房發洩情緒，在漫長的一天後放鬆一下。"
+        },
+        {
+          "en": "Please be careful when you open the machine, because hot steam may come out of it.",
+          "zh": "打開機器時請小心，因為可能會冒出熱蒸氣。"
+        },
+        {
+          "en": "The new coffee machine uses steam to heat the milk, so the coffee tastes like it comes from a café.",
+          "zh": "新咖啡機用蒸氣加熱牛奶，所以咖啡喝起來像咖啡廳的一樣。"
+        }
+      ],
+      "distractors": [
+        "stream",
+        "steel",
+        "stem"
+      ],
+      "note": "語塊：steam engine（蒸汽機）、let off steam（發洩情緒）、steam room（蒸氣室）。steam 可以當名詞或動詞「蒸」（steam vegetables）；stream 是「小溪」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-polish",
+      "word": "polish",
+      "pos": "動詞",
+      "meaning": "擦亮；潤飾",
+      "sentences": [
+        {
+          "en": "The cleaning staff polish the floors of the hotel lobby every night after the guests have gone to bed.",
+          "zh": "清潔人員每天晚上在客人睡覺後把飯店大廳的地板擦亮。"
+        },
+        {
+          "en": "Ms. Park will polish her speech this weekend before she gives it at the conference on Monday.",
+          "zh": "朴小姐這個週末會潤飾演講稿，週一在研討會上發表。"
+        },
+        {
+          "en": "The training course helps new employees polish their skills in writing clear e-mails and reports for clients.",
+          "zh": "訓練課程幫助新員工磨練為客戶寫清楚電子郵件和報告的技能。"
+        },
+        {
+          "en": "Please polish the glasses carefully before the guests arrive for the important dinner this evening.",
+          "zh": "今晚賓客來重要晚宴之前，請把玻璃杯仔細擦亮。"
+        },
+        {
+          "en": "The designer asked her team to polish the presentation so that it looks professional for the client.",
+          "zh": "設計師請團隊潤飾簡報，讓它在客戶面前看起來專業。"
+        }
+      ],
+      "distractors": [
+        "publish",
+        "punish",
+        "abolish"
+      ],
+      "note": "語塊：polish the floor（把地板擦亮）、polish a speech（潤飾演講稿）、polish one's skills（磨練技能）。polish 是「擦得亮亮的」或「讓東西更完美」；Polish（大寫）是「波蘭的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-render",
+      "word": "render",
+      "pos": "動詞",
+      "meaning": "提供；使成為；呈現",
+      "sentences": [
+        {
+          "en": "The company will render the service within two weeks of receiving the payment from the client.",
+          "zh": "公司會在收到客戶付款後兩週內提供服務。"
+        },
+        {
+          "en": "The heavy rain may render the outdoor stage unsafe, so the concert could move inside.",
+          "zh": "大雨可能讓戶外舞台變得不安全，所以音樂會可能移到室內。"
+        },
+        {
+          "en": "Please send the invoice for the services you render to the accounting department by Friday.",
+          "zh": "請在週五前把你提供服務的請款單寄給會計部。"
+        },
+        {
+          "en": "A small mistake in the software can render the whole system useless for several hours.",
+          "zh": "軟體裡的一個小錯誤可能讓整個系統好幾個小時無法使用。"
+        },
+        {
+          "en": "The new design software can render a building in three dimensions, so clients can see it clearly.",
+          "zh": "新的設計軟體可以把建築以 3D 呈現，讓客戶看得很清楚。"
+        }
+      ],
+      "distractors": [
+        "rent",
+        "surrender",
+        "tender"
+      ],
+      "note": "語塊：render a service（提供服務）、render sth useless（使……無用）。render 是正式的「給予；使變成某種狀態」；provide 意思接近；rent 是「租」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-realty",
+      "word": "realty",
+      "pos": "名詞",
+      "meaning": "不動產；房地產",
+      "sentences": [
+        {
+          "en": "Ms. Kim works for a realty company that helps families buy and sell houses in the suburbs.",
+          "zh": "金小姐在一家房地產公司工作，幫家庭買賣郊區的房子。"
+        },
+        {
+          "en": "The realty office near the station has a list of apartments for rent in every part of the city.",
+          "zh": "車站附近的房仲公司有市內每一區的出租公寓清單。"
+        },
+        {
+          "en": "The realty company expects house prices to rise next year because many people are moving to the area.",
+          "zh": "房地產公司預期明年房價會上漲，因為很多人搬到這一區。"
+        },
+        {
+          "en": "Please contact the realty office if you want to see the apartment before you sign the lease.",
+          "zh": "如果你想在簽租約前看房，請聯絡房仲公司。"
+        },
+        {
+          "en": "The new realty company offers free advice to young families who are buying their first home.",
+          "zh": "新的房地產公司為第一次買房的年輕家庭提供免費建議。"
+        }
+      ],
+      "distractors": [
+        "reality",
+        "royalty",
+        "loyalty"
+      ],
+      "note": "語塊：realty company（房地產公司）、realty office（房仲公司）。realty 是美式「不動產」；real estate 意思一樣；reality 是「現實」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-celebrate",
+      "word": "celebrate",
+      "pos": "動詞",
+      "meaning": "慶祝",
+      "sentences": [
+        {
+          "en": "The company will celebrate its fiftieth anniversary with a big party for all employees and their families.",
+          "zh": "公司將為所有員工和家屬舉辦盛大派對，慶祝五十週年。"
+        },
+        {
+          "en": "The team went out for dinner to celebrate the success of the new product launch last week.",
+          "zh": "團隊上週出去吃晚餐，慶祝新產品發表成功。"
+        },
+        {
+          "en": "The restaurant offers a free cake to guests who celebrate a birthday there with their families.",
+          "zh": "那家餐廳為和家人在那裡慶生的客人提供免費蛋糕。"
+        },
+        {
+          "en": "The city will celebrate the opening of the new bridge with fireworks and a concert on Saturday.",
+          "zh": "市政府週六將以煙火和音樂會慶祝新橋通車。"
+        },
+        {
+          "en": "Many families celebrate the new year by eating traditional food and visiting their relatives in the countryside.",
+          "zh": "很多家庭吃傳統食物、拜訪鄉下的親戚來慶祝新年。"
+        }
+      ],
+      "distractors": [
+        "celebrity",
+        "cerebrate",
+        "calibrate"
+      ],
+      "note": "語塊：celebrate an anniversary（慶祝週年）、celebrate the success（慶祝成功）、celebrate a birthday（慶生）。celebrate 是「為好事舉辦活動」；celebration 是名詞；celebrity 是「名人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-envision",
+      "word": "envision",
+      "pos": "動詞",
+      "meaning": "設想；展望",
+      "sentences": [
+        {
+          "en": "The CEO will envision a future in which every product the company sells is made from recycled materials.",
+          "zh": "執行長將展望一個公司銷售的每項產品都用回收材料製成的未來。"
+        },
+        {
+          "en": "The city planners envision a downtown area for the future with more parks, bike paths, and fewer cars.",
+          "zh": "都市計畫人員設想一個公園和自行車道更多、車子更少的市中心。"
+        },
+        {
+          "en": "It is difficult to envision how much technology will change the way we work in twenty years.",
+          "zh": "很難想像二十年後科技會讓我們的工作方式改變多少。"
+        },
+        {
+          "en": "The architect asked the client to envision how the family will use each room before she designed the house.",
+          "zh": "建築師設計房子前，請客戶設想家人會怎麼使用每個房間。"
+        },
+        {
+          "en": "The young designer likes to envision a world where everyone can afford beautiful and comfortable furniture.",
+          "zh": "那位年輕設計師喜歡設想一個人人都買得起美麗又舒適家具的世界。"
+        }
+      ],
+      "distractors": [
+        "envy",
+        "revision",
+        "supervise"
+      ],
+      "note": "語塊：envision a future（展望未來）、envision a world（設想一個世界）。envision 是「在心裡想像未來的樣子」；imagine 意思接近；vision 是「願景」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-under-the-leadership-of",
+      "word": "under the leadership of",
+      "pos": "介系詞",
+      "meaning": "在……的領導下",
+      "sentences": [
+        {
+          "en": "Under the leadership of the new CEO, the company has doubled its profits in just three years.",
+          "zh": "在新執行長的領導下，公司只花三年就讓獲利加倍。"
+        },
+        {
+          "en": "The project was completed on time under the leadership of an experienced engineer from Germany.",
+          "zh": "在一位來自德國、經驗豐富的工程師領導下，專案準時完成。"
+        },
+        {
+          "en": "The team won the national championship under the leadership of a young coach who joined last year.",
+          "zh": "在去年加入的年輕教練領導下，那支隊伍贏得了全國冠軍。"
+        },
+        {
+          "en": "Under the leadership of Ms. Park, the marketing department has become one of the best in the industry.",
+          "zh": "在朴小姐的領導下，行銷部成為業界最好的部門之一。"
+        },
+        {
+          "en": "The hospital improved its services under the leadership of a director who listened carefully to patients.",
+          "zh": "在一位仔細聆聽病人意見的院長領導下，醫院改善了服務。"
+        }
+      ],
+      "distractors": [
+        "under the control of",
+        "under the supervision of",
+        "under the influence of"
+      ],
+      "note": "語塊：under the leadership of the new CEO（在新執行長的領導下）、under the leadership of an engineer（在工程師領導下）、under the leadership of a coach（在教練領導下）、under the leadership of a director（在院長領導下）。under the leadership of 是「由某人帶領」；leadership 是「領導（能力）」；leader 是「領導者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-misprint",
+      "word": "misprint",
+      "pos": "名詞",
+      "meaning": "印刷錯誤；印錯的地方",
+      "sentences": [
+        {
+          "en": "The price in the brochure was a misprint, so the store will sell the product at the correct lower price.",
+          "zh": "簡介裡的價格印錯了，所以店家會用正確的較低價格販售產品。"
+        },
+        {
+          "en": "The newspaper apologized for a misprint in yesterday's article about the opening of the new library.",
+          "zh": "報紙為昨天關於新圖書館開幕的報導中的印刷錯誤致歉。"
+        },
+        {
+          "en": "Please check the menu for any misprint before we send it to the print shop on Friday.",
+          "zh": "週五送去印刷店之前，請檢查菜單有沒有任何印錯的地方。"
+        },
+        {
+          "en": "The company had to print the books again because the first copies contained a misprint on the cover.",
+          "zh": "公司必須重印那些書，因為第一批的封面有印刷錯誤。"
+        },
+        {
+          "en": "The date on the ticket was a misprint, and the concert will take place on Saturday, not Sunday.",
+          "zh": "票上的日期印錯了，演唱會是在週六而不是週日舉行。"
+        }
+      ],
+      "distractors": [
+        "mistake",
+        "misplace",
+        "fingerprint"
+      ],
+      "note": "語塊：was a misprint（印錯了）、contained a misprint（有印刷錯誤）、for a misprint（因為印刷錯誤）、for any misprint（有沒有印錯）。misprint 是「印錯的字或數字」；typo 是「打字錯誤」；mis- 是「錯誤地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specialize-in",
+      "word": "specialize in",
+      "pos": "片語動詞",
+      "meaning": "專攻；專門從事",
+      "sentences": [
+        {
+          "en": "The law firm will specialize in helping small businesses with contracts, hiring, and tax problems.",
+          "zh": "那家律師事務所將專門協助小企業處理合約、招募和稅務問題。"
+        },
+        {
+          "en": "The restaurant decided to specialize in fresh seafood, because the owner's family has been fishing for many years.",
+          "zh": "那家餐廳決定專做新鮮海鮮，因為老闆家族捕魚很多年了。"
+        },
+        {
+          "en": "Many doctors at the hospital specialize in heart problems, so patients come from all over the country.",
+          "zh": "醫院很多醫生專攻心臟疾病，所以病人來自全國各地。"
+        },
+        {
+          "en": "The company plans to specialize in electric bicycles instead of selling every kind of bike.",
+          "zh": "公司計畫專做電動自行車，而不是賣各種自行車。"
+        },
+        {
+          "en": "Ms. Lin wants to specialize in interior design after she graduates from the art school next year.",
+          "zh": "林小姐明年從藝術學校畢業後，想專攻室內設計。"
+        }
+      ],
+      "distractors": [
+        "focus on",
+        "major in",
+        "deal in"
+      ],
+      "note": "語塊：specialize in（專門從事……）。specialize in + 領域 是「專門做某類事」；specialist 是「專家」；specialty 是「專長；招牌菜」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resounding",
+      "word": "resounding",
+      "pos": "形容詞",
+      "meaning": "巨大的；響亮的",
+      "sentences": [
+        {
+          "en": "The festival was a resounding success, with more than two hundred thousand visitors over three days.",
+          "zh": "節慶大獲成功，三天內有二十多萬名遊客。"
+        },
+        {
+          "en": "The new product launch was a resounding success, so the company is already planning the next model.",
+          "zh": "新產品發表大獲成功，所以公司已經在規劃下一款機型。"
+        },
+        {
+          "en": "The team won a resounding victory in the final game and brought the trophy home to the town.",
+          "zh": "那支隊伍在決賽中贏得壓倒性勝利，把獎盃帶回小鎮。"
+        },
+        {
+          "en": "The charity dinner was a resounding success and raised more money than any other event this year.",
+          "zh": "慈善晚宴非常成功，募到的錢比今年任何其他活動都多。"
+        },
+        {
+          "en": "The mayor won a resounding victory in the election, because most residents liked her plans for the city.",
+          "zh": "市長在選舉中贏得壓倒性勝利，因為大部分居民都喜歡她對城市的規劃。"
+        }
+      ],
+      "distractors": [
+        "rebounding",
+        "surrounding",
+        "astounding"
+      ],
+      "note": "語塊：resounding success（巨大的成功）、resounding victory（壓倒性勝利）。resounding 是「非常明顯、大家都知道的（成功）」；huge 意思接近；resound 是動詞「迴響」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inundate",
+      "word": "inundate",
+      "pos": "動詞",
+      "meaning": "使應接不暇；淹沒",
+      "sentences": [
+        {
+          "en": "After the advertisement appeared on television, customers began to inundate the store with phone calls.",
+          "zh": "電視廣告播出後，顧客的電話開始大量湧進店裡。"
+        },
+        {
+          "en": "The new website may inundate the customer care team with questions during its first week.",
+          "zh": "新網站上線第一週，客服團隊可能會被問題淹沒。"
+        },
+        {
+          "en": "Fans will inundate the singer's social media with messages after her concert at the stadium this weekend.",
+          "zh": "這個週末在體育場的演唱會後，歌迷會在那位歌手的社群媒體上大量留言。"
+        },
+        {
+          "en": "The hotel expects guests to inundate the front desk with requests during the busy holiday season.",
+          "zh": "飯店預期忙碌的假期期間，櫃台會被客人的各種要求淹沒。"
+        },
+        {
+          "en": "Job seekers may inundate the company with applications after it announces one hundred new positions.",
+          "zh": "公司宣布一百個新職缺後，求職者的申請可能會蜂擁而至。"
+        }
+      ],
+      "distractors": [
+        "innovate",
+        "inaugurate",
+        "indicate"
+      ],
+      "note": "語塊：be inundated with（被……淹沒）、inundate with（用……淹沒）。inundate 是「大量湧入讓人處理不完」；flood 意思接近；be inundated with requests 是「請求多到應付不來」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-urge",
+      "word": "urge",
+      "pos": "動詞",
+      "meaning": "敦促；力勸",
+      "sentences": [
+        {
+          "en": "The city will urge residents to save water during the dry season by taking shorter showers.",
+          "zh": "市政府會在乾季敦促居民縮短淋浴時間來節約用水。"
+        },
+        {
+          "en": "Doctors strongly urge everyone to wash their hands often to stop colds from spreading in winter.",
+          "zh": "醫生強烈呼籲大家冬天經常洗手，避免感冒傳播。"
+        },
+        {
+          "en": "The manager will urge all employees to finish the online safety training before the end of the month.",
+          "zh": "經理會敦促所有員工在月底前完成線上安全訓練。"
+        },
+        {
+          "en": "We urge all passengers to arrive at the airport at least two hours before international flights.",
+          "zh": "我們呼籲所有乘客搭國際航班時至少提前兩小時抵達機場。"
+        },
+        {
+          "en": "The bank will urge customers to change their passwords after the problem with the website.",
+          "zh": "網站出問題後，銀行會敦促顧客更改密碼。"
+        }
+      ],
+      "distractors": [
+        "surge",
+        "merge",
+        "purge"
+      ],
+      "note": "語塊：urge residents to（敦促居民……）、strongly urge everyone to（強烈呼籲大家……）、urge all employees to（敦促所有員工……）、urge all passengers to（呼籲所有乘客……）、urge customers to（敦促顧客……）。urge sb to do 是「強烈要求某人去做」；encourage 是「鼓勵」，語氣比較輕；urgent 是「緊急的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
