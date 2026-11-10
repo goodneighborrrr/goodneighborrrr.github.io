@@ -52238,6 +52238,706 @@
       ],
       "note": "語塊：be under no obligation（沒有義務）、legal obligation（法律義務）、obligation to（……的義務）。obligation 是「必須做的責任」；obligate 是動詞；oblige 是「使有義務」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-indicator",
+      "word": "indicator",
+      "pos": "名詞",
+      "meaning": "指標；指示器",
+      "sentences": [
+        {
+          "en": "Unemployment is an important economic indicator that shows how well the economy of a country is doing.",
+          "zh": "失業率是顯示經濟表現好壞的重要經濟指標。"
+        },
+        {
+          "en": "Customer satisfaction is a key indicator of the success of our new service in every store.",
+          "zh": "顧客滿意度是我們每家門市新服務成功與否的關鍵指標。"
+        },
+        {
+          "en": "The number of visitors to our website is a good indicator of how popular the new product is.",
+          "zh": "網站的造訪人數是新產品受歡迎程度的好指標。"
+        },
+        {
+          "en": "A red light on the machine is an indicator that the paper tray needs to be refilled.",
+          "zh": "機器上的紅燈是紙匣需要補紙的指示。"
+        },
+        {
+          "en": "Rising house prices are often seen as an indicator of a strong economy in the region.",
+          "zh": "房價上漲常被視為該地區經濟強勁的指標。"
+        }
+      ],
+      "distractors": [
+        "indication",
+        "dedicator",
+        "indicative"
+      ],
+      "note": "語塊：economic indicator（經濟指標）、key indicator（關鍵指標）、a good indicator of（……的好指標）。indicator 是「顯示狀況的東西」；indicate 是動詞「指出」；indication 是「跡象」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-turn-in",
+      "word": "turn in",
+      "pos": "片語動詞",
+      "meaning": "繳交；提交",
+      "sentences": [
+        {
+          "en": "Please turn in your expense report to the accounting department by the end of the week.",
+          "zh": "請在週末前把支出報告交給會計部。"
+        },
+        {
+          "en": "Students who turn in their assignments late will lose points unless they have a good reason.",
+          "zh": "遲交作業的學生會被扣分，除非有好理由。"
+        },
+        {
+          "en": "All employees must turn in their old badges before they receive the new ones on Monday.",
+          "zh": "所有員工在週一拿到新識別證之前，必須先繳交舊的。"
+        },
+        {
+          "en": "The manager asked the team to turn in a report about the results of the customer survey.",
+          "zh": "經理要求團隊交一份顧客調查結果的報告。"
+        },
+        {
+          "en": "If you find a wallet in the building, please turn in the item to the security office on the first floor.",
+          "zh": "如果你在大樓裡撿到錢包，請把它交到一樓的保全室。"
+        }
+      ],
+      "distractors": [
+        "turn down",
+        "turn on",
+        "turn up"
+      ],
+      "note": "語塊：turn in a report（交報告）、turn in an assignment（交作業）。turn in 是「交出去（給上級或老師）」；hand in、submit 意思接近；turn down 是「拒絕」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-over",
+      "word": "take over",
+      "pos": "片語動詞",
+      "meaning": "接管；接手",
+      "sentences": [
+        {
+          "en": "Ms. Kim will take over the role of marketing director when Mr. Lopez retires next month.",
+          "zh": "下個月 Lopez 先生退休後，金小姐將接任行銷總監一職。"
+        },
+        {
+          "en": "A large technology firm plans to take over a small software company based in Berlin.",
+          "zh": "一家大型科技公司計畫收購一家總部在柏林的小軟體公司。"
+        },
+        {
+          "en": "Could you take over the project while I am on vacation for two weeks in August?",
+          "zh": "我八月休假兩週期間，你可以接手這個專案嗎？"
+        },
+        {
+          "en": "The new manager will take over from Ms. Park, who is moving to the office in Singapore.",
+          "zh": "新經理將接替要調到新加坡辦公室的朴小姐。"
+        },
+        {
+          "en": "The son is expected to take over the family business when his father retires next year.",
+          "zh": "兒子預計在父親明年退休時接手家族事業。"
+        }
+      ],
+      "distractors": [
+        "take on",
+        "take off",
+        "take up"
+      ],
+      "note": "語塊：take over a company（收購公司）、take over the role（接任職務）、take over from（接替……）。take over 是「接手管理」；takeover 是名詞「收購」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-collect",
+      "word": "collect",
+      "pos": "動詞",
+      "meaning": "收集；領取；收取",
+      "sentences": [
+        {
+          "en": "The research team will collect data from customers through a short online survey next month.",
+          "zh": "研究團隊下個月會透過線上問卷向顧客收集資料。"
+        },
+        {
+          "en": "Passengers can collect their luggage at the end of the hall after they pass through immigration.",
+          "zh": "乘客通過入境審查後，可以在大廳盡頭領取行李。"
+        },
+        {
+          "en": "The company will collect payment from customers when the furniture is delivered to their homes.",
+          "zh": "家具送到顧客家時，公司會向他們收款。"
+        },
+        {
+          "en": "Volunteers will collect old clothes and books for the charity at the entrance of the shopping center.",
+          "zh": "志工會在購物中心入口為慈善團體收集舊衣服和書。"
+        },
+        {
+          "en": "Please collect your name badge at the registration desk before entering the main conference hall.",
+          "zh": "進入會議廳之前，請到報到處領取名牌。"
+        }
+      ],
+      "distractors": [
+        "correct",
+        "connect",
+        "select"
+      ],
+      "note": "語塊：collect data（收集資料）、collect payment（收款）、collect one's luggage（領取行李）。collect 可以是「收集」或「去拿」；collection 是名詞；collector 是「收藏家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-partner",
+      "word": "partner",
+      "pos": "名詞",
+      "meaning": "夥伴；合夥人",
+      "sentences": [
+        {
+          "en": "Mr. Lee and his business partner opened their first restaurant in the city center ten years ago.",
+          "zh": "李先生和他的事業夥伴十年前在市中心開了第一家餐廳。"
+        },
+        {
+          "en": "The company is looking for a strategic partner to help it sell its products in South America.",
+          "zh": "公司在找一位策略夥伴，協助它在南美販售產品。"
+        },
+        {
+          "en": "The hotel decided to partner with local restaurants to offer guests special discounts on dinner.",
+          "zh": "飯店決定和當地餐廳合作，為客人提供晚餐的特別折扣。"
+        },
+        {
+          "en": "Our firm has worked with the same partner in Japan for more than twenty years.",
+          "zh": "我們公司和同一位日本夥伴合作了二十多年。"
+        },
+        {
+          "en": "The two companies became partners after they realized that each partner had skills the other needed.",
+          "zh": "兩家公司發現雙方擁有對方需要的技能後，成為了合作夥伴。"
+        }
+      ],
+      "distractors": [
+        "parent",
+        "painter",
+        "partition"
+      ],
+      "note": "語塊：business partner（事業夥伴）、strategic partner（策略夥伴）、partner with（和……合作）。partner 可以當名詞或動詞（partner with）；partnership 是「合夥關係」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prospect",
+      "word": "prospect",
+      "pos": "名詞",
+      "meaning": "前景；可能性；潛在客戶",
+      "sentences": [
+        {
+          "en": "The prospect of working abroad for two years excited Ms. Lee, so she accepted the offer.",
+          "zh": "能到國外工作兩年的可能性讓李小姐很興奮，所以她接受了那份工作。"
+        },
+        {
+          "en": "The sales team will meet with every prospect who visited our booth at the trade fair last week.",
+          "zh": "業務團隊會和上週在商展造訪我們攤位的每一位潛在客戶見面。"
+        },
+        {
+          "en": "Many investors see electric cars as a good prospect because more people want clean transportation.",
+          "zh": "很多投資人認為電動車前景很好，因為越來越多人想要乾淨的交通工具。"
+        },
+        {
+          "en": "The prospect of a long delay at the airport made many travelers decide to take the train instead.",
+          "zh": "機場可能長時間延誤，讓很多旅客決定改搭火車。"
+        },
+        {
+          "en": "Each new prospect receives a free sample and a phone call from a sales representative within a week.",
+          "zh": "每位新的潛在客戶都會在一週內收到一份免費樣品和業務代表的電話。"
+        }
+      ],
+      "distractors": [
+        "perspective",
+        "respect",
+        "inspect"
+      ],
+      "note": "語塊：the prospect of（……的可能性）、a good prospect（好的前景）、every prospect（每一位潛在客戶）。prospect 可以是「未來的可能性」或「潛在客戶」；常用複數 prospects（前景）；prospective 是形容詞「潛在的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-to-the-best-of",
+      "word": "to the best of",
+      "pos": "其他",
+      "meaning": "盡……所能",
+      "sentences": [
+        {
+          "en": "To the best of my knowledge, the meeting has not been canceled, but I will check with the manager.",
+          "zh": "就我所知，會議還沒取消，但我會和經理確認。"
+        },
+        {
+          "en": "The team will finish the project to the best of their ability, even though the deadline is very tight.",
+          "zh": "即使截止日很緊，團隊也會盡全力完成專案。"
+        },
+        {
+          "en": "To the best of our knowledge, all of the information in this brochure is correct and up to date.",
+          "zh": "就我們所知，這本小冊子裡的所有資訊都是正確且最新的。"
+        },
+        {
+          "en": "Please answer every question on the form to the best of your ability and ask for help if you need it.",
+          "zh": "請盡你所能回答表格上的每個問題，需要時請尋求協助。"
+        },
+        {
+          "en": "To the best of my knowledge, the store will be open on the national holiday next Monday.",
+          "zh": "就我所知，那家店下週一國定假日會營業。"
+        }
+      ],
+      "distractors": [
+        "at the best of",
+        "to the point of",
+        "to the extent of"
+      ],
+      "note": "語塊：to the best of my knowledge（就我所知）、to the best of one's ability（盡全力）。to the best of my knowledge 是「就我所知」；as far as I know 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-properly",
+      "word": "properly",
+      "pos": "副詞",
+      "meaning": "正確地；適當地",
+      "sentences": [
+        {
+          "en": "If the printer does not work properly, please turn it off and call the IT department.",
+          "zh": "如果印表機不能正常運作，請關機並打給資訊部。"
+        },
+        {
+          "en": "All workers must be properly trained before they are allowed to use the machines in the factory.",
+          "zh": "所有工人在被允許使用工廠機器之前，都必須受過適當的訓練。"
+        },
+        {
+          "en": "Employees who meet with clients are expected to dress properly and arrive on time for every meeting.",
+          "zh": "和客戶見面的員工應該穿著得體並準時到達。"
+        },
+        {
+          "en": "Please make sure that the doors are properly locked before you leave the office at night.",
+          "zh": "晚上離開辦公室前，請確認門都鎖好了。"
+        },
+        {
+          "en": "The food must be stored properly in the refrigerator so that it stays fresh for several days.",
+          "zh": "食物必須妥善存放在冰箱裡，才能保鮮好幾天。"
+        }
+      ],
+      "distractors": [
+        "property",
+        "probably",
+        "promptly"
+      ],
+      "note": "語塊：work properly（正常運作）、properly trained（受過適當訓練）、dress properly（穿著得體）。properly 是「以正確的方式」；proper 是形容詞「適當的」；correctly 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accounting",
+      "word": "accounting",
+      "pos": "名詞",
+      "meaning": "會計；會計學",
+      "sentences": [
+        {
+          "en": "Please send all of your receipts to the accounting department by the fifth day of every month.",
+          "zh": "請在每月五日前把所有收據寄到會計部。"
+        },
+        {
+          "en": "Ms. Park works at an accounting firm that helps small businesses prepare their tax returns.",
+          "zh": "朴小姐在一家幫小企業準備報稅資料的會計師事務所工作。"
+        },
+        {
+          "en": "The company bought new accounting software that makes it easier to track income and expenses.",
+          "zh": "公司買了新的會計軟體，讓追蹤收入和支出更容易。"
+        },
+        {
+          "en": "Mr. Kim studied accounting at university before he started working at the bank as an analyst.",
+          "zh": "金先生大學讀會計，之後才到銀行擔任分析師。"
+        },
+        {
+          "en": "The accounting department will be closed on Friday afternoon for a special training session on taxes.",
+          "zh": "會計部週五下午將因訓練課程暫停服務。"
+        }
+      ],
+      "distractors": [
+        "accountant",
+        "accounting for",
+        "counting"
+      ],
+      "note": "語塊：accounting department（會計部）、accounting firm（會計師事務所）、accounting software（會計軟體）。accounting 是「會計（工作、學科）」；accountant 是「會計（人）」；account 是「帳戶」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-notice",
+      "word": "notice",
+      "pos": "名詞",
+      "meaning": "通知；告示；注意",
+      "sentences": [
+        {
+          "en": "Employees must give two weeks of advance notice if they want to take a vacation.",
+          "zh": "員工如果要休假，必須提前兩週通知。"
+        },
+        {
+          "en": "The museum will be closed until further notice because of damage to the roof caused by the storm.",
+          "zh": "因為屋頂被暴風雨損壞，博物館將關閉直到另行通知。"
+        },
+        {
+          "en": "Ms. Lee decided to give notice and leave the company at the end of the month to start her own business.",
+          "zh": "李小姐決定提出辭職，月底離開公司自己創業。"
+        },
+        {
+          "en": "A notice was posted on the bulletin board to tell employees about the new parking rules.",
+          "zh": "公告欄上貼了一則通知，告訴員工新的停車規定。"
+        },
+        {
+          "en": "Prices may change without notice, so please check our website before you place an order.",
+          "zh": "價格可能隨時變動、恕不另行通知，所以下單前請先查看我們的網站。"
+        }
+      ],
+      "distractors": [
+        "notion",
+        "novice",
+        "notify"
+      ],
+      "note": "語塊：advance notice（事先通知）、until further notice（直到另行通知）、give notice（提出辭職通知）。notice 可以當名詞「通知」或動詞「注意到」；noticeable 是「明顯的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bulletin-board",
+      "word": "bulletin board",
+      "pos": "名詞",
+      "meaning": "公告欄；布告欄",
+      "sentences": [
+        {
+          "en": "The new work schedule has been posted on the bulletin board in the break room.",
+          "zh": "新的工作時程表已經貼在茶水間的公告欄上了。"
+        },
+        {
+          "en": "Please check the bulletin board every Monday for news about company events and training sessions.",
+          "zh": "請每週一查看公告欄，了解公司活動和訓練課程的消息。"
+        },
+        {
+          "en": "Students can find information about part-time jobs on the bulletin board outside the main library.",
+          "zh": "學生可以在圖書館外的公告欄找到兼職工作的資訊。"
+        },
+        {
+          "en": "Anyone who wants to sell used furniture can post a notice on the bulletin board in the lobby.",
+          "zh": "想賣二手家具的人可以在大廳的公告欄貼一則告示。"
+        },
+        {
+          "en": "The manager posted a thank-you letter on the bulletin board for everyone who helped with the event.",
+          "zh": "經理在公告欄貼了一封感謝信，給所有幫忙活動的人。"
+        }
+      ],
+      "distractors": [
+        "billboard",
+        "dashboard",
+        "keyboard"
+      ],
+      "note": "語塊：post on the bulletin board（貼在公告欄）、check the bulletin board（看公告欄）。bulletin board 是「張貼公告的板子」；notice board 是英式說法；bulletin 是「公告」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-measurement",
+      "word": "measurement",
+      "pos": "名詞",
+      "meaning": "測量；尺寸",
+      "sentences": [
+        {
+          "en": "The tailor will take a measurement of your shoulders and arms before making the new suit.",
+          "zh": "裁縫在做新西裝之前會量你肩膀和手臂的尺寸。"
+        },
+        {
+          "en": "An accurate measurement of the room is necessary before we order the new carpet for the office.",
+          "zh": "我們訂購新地毯之前，必須先精確測量房間。"
+        },
+        {
+          "en": "Please write down each measurement in centimeters so that the factory can make the table correctly.",
+          "zh": "請把每個尺寸都用公分寫下來，讓工廠能正確製作桌子。"
+        },
+        {
+          "en": "The engineers use special tools to make sure that every measurement on the bridge is correct.",
+          "zh": "工程師用特殊工具確保橋上的每一個測量都是正確的。"
+        },
+        {
+          "en": "The kitchen designer came to our home to take a measurement of the space for the new cabinets.",
+          "zh": "廚房設計師到我們家，為新櫥櫃丈量空間。"
+        }
+      ],
+      "distractors": [
+        "management",
+        "merriment",
+        "movement"
+      ],
+      "note": "語塊：take measurements（量尺寸）、accurate measurement（精確的測量）、unit of measurement（測量單位）。measurement 是名詞「尺寸、測量」；measure 是動詞「測量」或名詞「措施」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advice",
+      "word": "advice",
+      "pos": "名詞",
+      "meaning": "建議；忠告",
+      "sentences": [
+        {
+          "en": "If you are not sure which plan to choose, our staff will be happy to give advice.",
+          "zh": "如果你不確定要選哪個方案，我們的員工很樂意給你建議。"
+        },
+        {
+          "en": "Small business owners can seek advice from experts at the city's business center for free.",
+          "zh": "小企業老闆可以在市政府的商業中心免費向專家尋求建議。"
+        },
+        {
+          "en": "My manager gave me a piece of advice that I still remember: always listen before you speak.",
+          "zh": "我的經理給了我一個至今仍記得的建議：說話之前一定要先聽。"
+        },
+        {
+          "en": "Before you sign the contract, it is a good idea to get advice from a lawyer.",
+          "zh": "簽合約之前，最好先聽聽律師的建議。"
+        },
+        {
+          "en": "The doctor's advice was to rest for one week and drink plenty of water every day.",
+          "zh": "醫生的建議是休息一週，每天多喝水。"
+        }
+      ],
+      "distractors": [
+        "advise",
+        "device",
+        "advance"
+      ],
+      "note": "語塊：give advice（給建議）、seek advice（尋求建議）、a piece of advice（一個建議）。advice 是不可數名詞（不能說 an advice）；advise 是動詞「建議」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-newest",
+      "word": "newest",
+      "pos": "形容詞",
+      "meaning": "最新的",
+      "sentences": [
+        {
+          "en": "The store will display the newest model of the phone in its window starting next Monday.",
+          "zh": "那家店從下週一起將在櫥窗展示最新型號的手機。"
+        },
+        {
+          "en": "Our newest product is a coffee machine that can make ten different drinks at the touch of a button.",
+          "zh": "我們的最新產品是一台按一下就能做十種不同飲料的咖啡機。"
+        },
+        {
+          "en": "The newest employees will attend a training session on their first day at the company.",
+          "zh": "最新進的員工到職第一天會參加訓練課程。"
+        },
+        {
+          "en": "The hotel's newest restaurant is located on the top floor and offers a view of the whole city.",
+          "zh": "飯店最新的餐廳位於頂樓，可以看到整座城市。"
+        },
+        {
+          "en": "Customers can see the newest products at the trade fair before they are sold in stores.",
+          "zh": "顧客可以在商展上看到還沒在門市販售的最新產品。"
+        }
+      ],
+      "distractors": [
+        "nearest",
+        "neatest",
+        "fewest"
+      ],
+      "note": "語塊：the newest model（最新型號）、newest product（最新產品）。newest 是 new 的最高級；latest 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-browse",
+      "word": "browse",
+      "pos": "動詞",
+      "meaning": "瀏覽；隨意看看",
+      "sentences": [
+        {
+          "en": "Customers can browse the website to see all of our products before they visit the store.",
+          "zh": "顧客可以先瀏覽網站，看我們所有的產品，再到店裡。"
+        },
+        {
+          "en": "Many people like to browse the shelves of the bookstore on weekends, even if they do not buy anything.",
+          "zh": "很多人週末喜歡逛書店的書架，即使什麼都沒買。"
+        },
+        {
+          "en": "You can browse online for hotels in the city and compare their prices before you book a room.",
+          "zh": "訂房之前，你可以在網路上瀏覽城裡的飯店並比較價格。"
+        },
+        {
+          "en": "The store has comfortable chairs so that customers can relax while they browse the new books.",
+          "zh": "那家店有舒服的椅子，讓顧客瀏覽新書時可以放鬆。"
+        },
+        {
+          "en": "Please feel free to browse our collection, and let us know if you have any questions.",
+          "zh": "請隨意瀏覽我們的商品，有任何問題請告訴我們。"
+        }
+      ],
+      "distractors": [
+        "brows",
+        "bruise",
+        "arouse"
+      ],
+      "note": "語塊：browse the website（瀏覽網站）、browse the shelves（逛書架）、browse online（線上瀏覽）。browse 是「隨便看看、瀏覽」；browser 是「瀏覽器」；brows（眉毛）只少一個 e。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accurate",
+      "word": "accurate",
+      "pos": "形容詞",
+      "meaning": "準確的；精確的",
+      "sentences": [
+        {
+          "en": "Please make sure that all of the information on the form is accurate before you submit it.",
+          "zh": "送出表格之前，請確認上面的所有資訊都是準確的。"
+        },
+        {
+          "en": "The accountant keeps accurate records of every payment that the company receives and makes each month.",
+          "zh": "會計師對公司的每一筆收付款都有精確的紀錄。"
+        },
+        {
+          "en": "The weather forecast was not accurate, and it rained heavily during the outdoor concert on Saturday.",
+          "zh": "天氣預報不準確，戶外音樂會期間下了大雨。"
+        },
+        {
+          "en": "The new machine is more accurate than the old one, so there are fewer mistakes in production.",
+          "zh": "新機器比舊的更精確，所以生產中的錯誤比較少。"
+        },
+        {
+          "en": "Journalists must check their facts carefully so that the information in their articles is accurate.",
+          "zh": "記者必須仔細查證事實，讓文章中的資訊是準確的。"
+        }
+      ],
+      "distractors": [
+        "adequate",
+        "accrue",
+        "curate"
+      ],
+      "note": "語塊：accurate information（準確的資訊）、accurate records（精確的紀錄）。accurate 是「正確、沒有錯誤的」；accuracy 是名詞；inaccurate 是「不準確的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-its-entirety",
+      "word": "in its entirety",
+      "pos": "其他",
+      "meaning": "全部地；完整地",
+      "sentences": [
+        {
+          "en": "Please read the contract in its entirety before you sign it, as some important details are on the last page.",
+          "zh": "簽約前請把合約全部讀完，因為有些重要細節在最後一頁。"
+        },
+        {
+          "en": "The concert will be broadcast in its entirety on national television at eight on Saturday evening.",
+          "zh": "演唱會將在週六晚上在電視上完整播出。"
+        },
+        {
+          "en": "The report was published in its entirety on the company's website for all employees to read.",
+          "zh": "報告完整刊登在公司網站上，供所有員工閱讀。"
+        },
+        {
+          "en": "The old building will not be torn down in its entirety, as the historic facade will be kept.",
+          "zh": "那棟老建築不會被全部拆除，因為歷史正面會被保留。"
+        },
+        {
+          "en": "The new policy will be explained in its entirety at the staff meeting next Thursday.",
+          "zh": "新政策將在下週四的員工會議上完整說明。"
+        }
+      ],
+      "distractors": [
+        "in its infancy",
+        "in its place",
+        "in its wake"
+      ],
+      "note": "語塊：read in its entirety（全部讀完）、broadcast in its entirety（完整播出）、published in its entirety（完整刊登）、explained in its entirety（完整說明）。in its entirety 是「整個、全部」；completely、as a whole 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reduce",
+      "word": "reduce",
+      "pos": "動詞",
+      "meaning": "減少；降低",
+      "sentences": [
+        {
+          "en": "The company hopes to reduce costs by moving its office to a smaller building outside the city.",
+          "zh": "公司希望把辦公室搬到城外一棟比較小的大樓來降低成本。"
+        },
+        {
+          "en": "The restaurant has introduced several changes to reduce waste, such as using smaller plates and recycling food.",
+          "zh": "那家餐廳推行了幾項減少浪費的改變，例如使用比較小的盤子。"
+        },
+        {
+          "en": "Regular exercise can reduce the risk of heart disease and help people live longer and healthier lives.",
+          "zh": "規律運動可以降低心臟病的風險，幫助人們活得更久。"
+        },
+        {
+          "en": "The city plans to reduce traffic in the downtown area by building more bicycle lanes.",
+          "zh": "市政府計畫增建自行車道來減少市中心的交通量。"
+        },
+        {
+          "en": "Using energy-efficient lights can reduce the cost of electricity by about thirty percent each year.",
+          "zh": "使用節能燈每年可以減少大約三成的電費。"
+        }
+      ],
+      "distractors": [
+        "induce",
+        "deduce",
+        "produce"
+      ],
+      "note": "語塊：reduce costs（降低成本）、reduce waste（減少浪費）、reduce the risk（降低風險）。reduce 是「減少」；reduction 是名詞；increase 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hand-baggage",
+      "word": "hand baggage",
+      "pos": "名詞",
+      "meaning": "手提行李",
+      "sentences": [
+        {
+          "en": "Each passenger may bring one piece of hand baggage on the plane, and it must fit under the seat.",
+          "zh": "每位乘客可以帶一件手提行李上飛機，而且必須放得進座位下方。"
+        },
+        {
+          "en": "Please check the hand baggage allowance on your ticket before you pack for the trip.",
+          "zh": "打包行李前，請先確認機票上的手提行李限額。"
+        },
+        {
+          "en": "Liquids in your hand baggage must be in small bottles and placed in a clear plastic bag.",
+          "zh": "手提行李中的液體必須裝在小瓶子裡，並放進透明塑膠袋。"
+        },
+        {
+          "en": "Passengers who carry hand baggage only can go directly to the gate after they check in online.",
+          "zh": "只帶手提行李的乘客線上報到後就可以直接前往登機門。"
+        },
+        {
+          "en": "Your laptop should be packed in your hand baggage rather than in the suitcase that you check in.",
+          "zh": "你的筆電應該放在手提行李裡，而不是託運的行李箱。"
+        }
+      ],
+      "distractors": [
+        "checked baggage",
+        "baggage claim",
+        "handbag"
+      ],
+      "note": "語塊：carry hand baggage（攜帶手提行李）、hand baggage allowance（手提行李限額）、piece of hand baggage（一件手提行李）、in your hand baggage（在你的手提行李中）。hand baggage 是「隨身帶上飛機的行李」；carry-on luggage 是美式說法；checked baggage 是「託運行李」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pediatric",
+      "word": "pediatric",
+      "pos": "形容詞",
+      "meaning": "小兒科的",
+      "sentences": [
+        {
+          "en": "The hospital opened a new pediatric clinic for children who need special care after surgery.",
+          "zh": "醫院為手術後需要特別照護的孩子開設一間新的兒科診所。"
+        },
+        {
+          "en": "Dr. Lee is a pediatric doctor who has worked with young patients for more than twenty years.",
+          "zh": "李醫師是一位照顧年幼病人二十多年的小兒科醫生。"
+        },
+        {
+          "en": "The charity raises money to improve pediatric care in hospitals in rural areas of the country.",
+          "zh": "那個慈善團體募款改善國內鄉村地區醫院的兒童醫療。"
+        },
+        {
+          "en": "Parents can bring their children to the pediatric clinic without an appointment on Saturday mornings.",
+          "zh": "週六早上家長不用預約就可以帶孩子去兒科診所。"
+        },
+        {
+          "en": "The new pediatric ward has colorful walls and toys to help young patients feel more comfortable.",
+          "zh": "新的兒科病房有色彩繽紛的牆壁和玩具，讓年幼病人覺得更自在。"
+        }
+      ],
+      "distractors": [
+        "pedestrian",
+        "geriatric",
+        "psychiatric"
+      ],
+      "note": "語塊：pediatric doctor（小兒科醫生）、pediatric clinic（兒科診所）、pediatric care（兒童醫療）。pediatric 是「兒童醫療的」；pediatrician 是「小兒科醫生」；英式拼法 paediatric。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
