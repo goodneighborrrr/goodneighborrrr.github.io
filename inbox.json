@@ -66903,6 +66903,706 @@
       ],
       "note": "語塊：decision-making process（決策過程）、involved in decision-making（參與決策）、decision-making skills（決策能力）。decision-making 是「做決定的過程」；decision 是「決定」；decisive 是「果斷的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resource",
+      "word": "resource",
+      "pos": "名詞",
+      "meaning": "資源",
+      "sentences": [
+        {
+          "en": "Water is the most important natural resource in this dry region, so the city asks everyone to use less.",
+          "zh": "在這個乾燥的地區，水是最重要的天然資源，所以市政府請大家少用一點。"
+        },
+        {
+          "en": "The library is a valuable resource for students who cannot afford to buy expensive textbooks.",
+          "zh": "對買不起昂貴教科書的學生來說，圖書館是寶貴的資源。"
+        },
+        {
+          "en": "Experienced employees are a valuable resource, so the company tries hard to keep them happy.",
+          "zh": "資深員工是寶貴的資源，所以公司努力讓他們滿意。"
+        },
+        {
+          "en": "Oil is the main natural resource of the country, and it is sold to many countries in Asia.",
+          "zh": "石油是那個國家主要的天然資源，賣給亞洲很多國家。"
+        },
+        {
+          "en": "The new website is a useful resource for small business owners who need advice about taxes.",
+          "zh": "新網站對需要稅務建議的小企業主來說是很有用的資源。"
+        }
+      ],
+      "distractors": [
+        "source",
+        "recourse",
+        "resort"
+      ],
+      "note": "語塊：natural resource（天然資源）、valuable resource（寶貴的資源）、human resources（人力資源；人資部）。resource 常用複數 resources；resourceful 是「足智多謀的」；source 是「來源」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-downtime",
+      "word": "downtime",
+      "pos": "名詞",
+      "meaning": "停機時間；休息時間",
+      "sentences": [
+        {
+          "en": "The new machines will reduce downtime in the factory because they need fewer repairs than the old ones.",
+          "zh": "新機器會減少工廠的停機時間，因為比舊機器更少需要維修。"
+        },
+        {
+          "en": "There will be planned downtime on the website from midnight to two in the morning for routine maintenance.",
+          "zh": "網站午夜到凌晨兩點會因為例行維修進行計畫性停機。"
+        },
+        {
+          "en": "System downtime cost the bank a lot of money because customers could not use their cards for hours.",
+          "zh": "系統停機讓銀行損失很多錢，因為顧客好幾個小時不能刷卡。"
+        },
+        {
+          "en": "Employees need some downtime after a busy project, so the manager gave everyone a long weekend.",
+          "zh": "員工在忙碌的專案後需要休息，所以經理讓大家放一個長週末。"
+        },
+        {
+          "en": "Engineers check the machines every week to reduce downtime and keep the production line running.",
+          "zh": "工程師每週檢查機器，以減少停機時間並維持生產線運作。"
+        }
+      ],
+      "distractors": [
+        "overtime",
+        "daytime",
+        "uptime"
+      ],
+      "note": "語塊：system downtime（系統停機）、reduce downtime（減少停機時間）、planned downtime（計畫性停機）。downtime 可以指機器「不能運作的時間」，也可以指人「休息放鬆的時間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-obvious",
+      "word": "obvious",
+      "pos": "形容詞",
+      "meaning": "明顯的；顯而易見的",
+      "sentences": [
+        {
+          "en": "For obvious reasons, the outdoor festival will be canceled if there is a typhoon warning.",
+          "zh": "基於明顯的原因，如果有颱風警報，戶外節慶就會取消。"
+        },
+        {
+          "en": "Ms. Lee was the obvious choice for the manager position because she had the most experience.",
+          "zh": "李小姐是經理職位理所當然的人選，因為她經驗最豐富。"
+        },
+        {
+          "en": "It is obvious that customers prefer the new design, because sales have doubled since it was launched.",
+          "zh": "很明顯顧客比較喜歡新設計，因為上市後銷量加倍了。"
+        },
+        {
+          "en": "There is no obvious reason why the machine stopped working, so the technician will check it again.",
+          "zh": "機器停止運作沒有明顯的原因，所以技術人員會再檢查一次。"
+        },
+        {
+          "en": "The hotel near the station is the obvious choice for business travelers who need to catch early trains.",
+          "zh": "對要趕早班車的商務旅客來說，車站附近的飯店是理所當然的選擇。"
+        }
+      ],
+      "distractors": [
+        "oblivious",
+        "previous",
+        "devious"
+      ],
+      "note": "語塊：obvious reason（明顯的原因）、obvious choice（理所當然的選擇）、it is obvious that（很明顯……）。obvious 是「很容易看出來的」；obviously 是副詞「顯然」；clear 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-frequent",
+      "word": "frequent",
+      "pos": "形容詞",
+      "meaning": "頻繁的；經常的",
+      "sentences": [
+        {
+          "en": "Every frequent flyer can use the airport lounge for free and receive an extra baggage allowance.",
+          "zh": "每位飛行常客都可以免費使用機場貴賓室，還有額外的行李限額。"
+        },
+        {
+          "en": "As a frequent customer, Mr. Kim receives a discount every time he eats at the restaurant.",
+          "zh": "身為常客，金先生每次在那家餐廳用餐都有折扣。"
+        },
+        {
+          "en": "The manager's frequent visits to the factory helped her understand the problems that workers face.",
+          "zh": "經理經常走訪工廠，幫助她了解工人面臨的問題。"
+        },
+        {
+          "en": "There have been frequent delays on the subway line this month because of repairs to the tracks.",
+          "zh": "這個月地鐵線因為軌道維修頻繁延誤。"
+        },
+        {
+          "en": "The airline offers special rewards to frequent flyers who travel more than twenty times a year.",
+          "zh": "航空公司為一年搭機超過二十次的飛行常客提供特別獎勵。"
+        }
+      ],
+      "distractors": [
+        "fluent",
+        "frequency",
+        "recurrent"
+      ],
+      "note": "語塊：frequent flyer（飛行常客）、frequent customer（常客）、frequent visits（頻繁的拜訪）。frequent 是形容詞；frequently 是副詞「經常」；frequency 是名詞「頻率」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scenery",
+      "word": "scenery",
+      "pos": "名詞",
+      "meaning": "風景；景色",
+      "sentences": [
+        {
+          "en": "The train ride through the mountains is famous for its beautiful scenery, especially in autumn.",
+          "zh": "穿越山區的火車之旅以美麗的風景聞名，特別是在秋天。"
+        },
+        {
+          "en": "Many tourists stop at the lake to enjoy the scenery and take photos before continuing their trip.",
+          "zh": "很多遊客會在湖邊停下來欣賞風景、拍照，再繼續旅程。"
+        },
+        {
+          "en": "The hotel is surrounded by mountain scenery, so guests can go hiking right outside the door.",
+          "zh": "飯店被山景環繞，所以客人一出門就能去健行。"
+        },
+        {
+          "en": "The company holds its annual meeting at a resort with beautiful scenery so that employees can relax.",
+          "zh": "公司在風景優美的度假村舉辦年會，讓員工可以放鬆。"
+        },
+        {
+          "en": "Visitors can enjoy the scenery from the top of the tower, which is open until ten at night.",
+          "zh": "遊客可以從塔頂欣賞風景，塔開放到晚上十點。"
+        }
+      ],
+      "distractors": [
+        "scene",
+        "senior",
+        "sincerity"
+      ],
+      "note": "語塊：beautiful scenery（美麗的風景）、enjoy the scenery（欣賞風景）、mountain scenery（山景）。scenery 是不可數名詞，指整體的「自然景色」；scene 是「一個場景」；view 是「視野」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-auditorium",
+      "word": "auditorium",
+      "pos": "名詞",
+      "meaning": "禮堂；演講廳",
+      "sentences": [
+        {
+          "en": "The opening speech will take place in the main auditorium, which can hold more than eight hundred people.",
+          "zh": "開幕演講會在可容納八百多人的主禮堂舉行。"
+        },
+        {
+          "en": "The graduation ceremony will be held in the school auditorium next Saturday morning at ten.",
+          "zh": "畢業典禮下週六早上十點在學校禮堂舉行。"
+        },
+        {
+          "en": "Please turn off your phone before you enter the auditorium, because the concert will be recorded.",
+          "zh": "進入禮堂前請關機，因為音樂會會錄影。"
+        },
+        {
+          "en": "The company rented the university's main auditorium for its annual meeting with shareholders in November.",
+          "zh": "公司租了大學的主禮堂，舉行十一月的年度股東大會。"
+        },
+        {
+          "en": "The new auditorium has comfortable seats, excellent sound, and a large screen for presentations and films.",
+          "zh": "新禮堂有舒適的座位、很好的音響，以及一個簡報和播電影用的大螢幕。"
+        }
+      ],
+      "distractors": [
+        "aquarium",
+        "stadium",
+        "sanatorium"
+      ],
+      "note": "語塊：main auditorium（主禮堂）、school auditorium（學校禮堂）、in the auditorium（在禮堂裡）。auditorium 是有很多座位、用來聽演講或看表演的大廳；gymnasium 是「體育館」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lounge",
+      "word": "lounge",
+      "pos": "名詞",
+      "meaning": "休息室；貴賓室",
+      "sentences": [
+        {
+          "en": "Business class passengers can relax in the airport lounge and enjoy free food before their flight.",
+          "zh": "商務艙乘客在登機前可以在機場貴賓室放鬆，享用免費餐點。"
+        },
+        {
+          "en": "The staff lounge on the third floor has a coffee machine, a microwave, and comfortable sofas.",
+          "zh": "三樓的員工休息室有咖啡機、微波爐和舒適的沙發。"
+        },
+        {
+          "en": "Guests can meet their visitors in the hotel lounge, which serves drinks and light meals until midnight.",
+          "zh": "客人可以在飯店交誼廳和訪客見面，那裡供應飲料和輕食到午夜。"
+        },
+        {
+          "en": "The company renovated the staff lounge so that employees have a nice place to eat lunch.",
+          "zh": "公司整修了員工休息室，讓員工有個好地方吃午餐。"
+        },
+        {
+          "en": "Members of the reward program can use the airport lounge for free when they fly with our airline.",
+          "zh": "獎勵方案會員搭乘我們的航班時，可以免費使用機場貴賓室。"
+        }
+      ],
+      "distractors": [
+        "lunge",
+        "lounger",
+        "sponge"
+      ],
+      "note": "語塊：airport lounge（機場貴賓室）、staff lounge（員工休息室）、hotel lounge（飯店交誼廳）。lounge 是讓人坐著休息的地方；lobby 是「大廳」；longe 不是英文字。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exceptionally",
+      "word": "exceptionally",
+      "pos": "副詞",
+      "meaning": "格外地；特別地",
+      "sentences": [
+        {
+          "en": "The new product sold exceptionally well during the holiday season, so the factory increased production.",
+          "zh": "新產品在假期購物季賣得格外好，所以工廠增加了產量。"
+        },
+        {
+          "en": "Prices for hotel rooms are exceptionally high this week because of the large international conference downtown.",
+          "zh": "因為市中心的大型國際研討會，這週飯店房價特別高。"
+        },
+        {
+          "en": "The restaurant has been exceptionally busy since a famous food blogger wrote about it online.",
+          "zh": "自從一位知名美食部落客在網路上寫了那家餐廳後，它就特別忙。"
+        },
+        {
+          "en": "Ms. Park performed exceptionally well in her first year, so she received a large bonus.",
+          "zh": "朴小姐第一年表現格外好，所以拿到一大筆獎金。"
+        },
+        {
+          "en": "The weather was exceptionally warm in December, so the ski resort could not open on time.",
+          "zh": "十二月天氣格外溫暖，所以滑雪度假村無法準時開放。"
+        }
+      ],
+      "distractors": [
+        "especially",
+        "essentially",
+        "accidentally"
+      ],
+      "note": "語塊：exceptionally well（格外好）、exceptionally high（特別高）、exceptionally busy（特別忙）。exceptionally 是「比平常更……」；exceptional 是形容詞「傑出的；例外的」；except 是「除了」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-maintain",
+      "word": "maintain",
+      "pos": "動詞",
+      "meaning": "維持；保養；堅稱",
+      "sentences": [
+        {
+          "en": "The company will maintain the quality of its products even though the cost of materials has increased.",
+          "zh": "即使材料成本上漲，公司仍會維持產品品質。"
+        },
+        {
+          "en": "The hotel works hard to maintain a high standard of service for every guest who stays there.",
+          "zh": "飯店努力為每位住客維持高標準的服務。"
+        },
+        {
+          "en": "Please maintain contact with the client by phone and e-mail while the manager is on vacation next week.",
+          "zh": "下週經理休假時，請透過電話和電子郵件和客戶保持聯絡。"
+        },
+        {
+          "en": "Workers must maintain the machines regularly so that they continue to work safely for many years.",
+          "zh": "工人必須定期保養機器，讓它們多年持續安全運作。"
+        },
+        {
+          "en": "It is difficult to maintain a high standard when the team is too small to handle all of the work.",
+          "zh": "團隊人數太少、無法處理所有工作時，很難維持高標準。"
+        }
+      ],
+      "distractors": [
+        "remain",
+        "contain",
+        "obtain"
+      ],
+      "note": "語塊：maintain quality（維持品質）、maintain a high standard（維持高標準）、maintain contact（保持聯絡）。maintain 是「保持某種狀態」或「保養」；maintenance 是名詞；maintain that 是「堅稱」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-noteworthy",
+      "word": "noteworthy",
+      "pos": "形容詞",
+      "meaning": "值得注意的；顯著的",
+      "sentences": [
+        {
+          "en": "It is noteworthy that sales increased even though the company spent less money on advertising.",
+          "zh": "值得注意的是，即使公司減少廣告支出，銷售還是增加了。"
+        },
+        {
+          "en": "Winning the international award was a noteworthy achievement for such a small design company in a small town.",
+          "zh": "對這麼一家小鎮上的小設計公司來說，贏得國際獎是值得一提的成就。"
+        },
+        {
+          "en": "The report lists several noteworthy changes in how young people shop for food and clothes.",
+          "zh": "報告列出年輕人購買食物和衣服方式的幾個值得注意的變化。"
+        },
+        {
+          "en": "One noteworthy achievement this year was the opening of our first store in South America.",
+          "zh": "今年一項值得一提的成就是在南美洲開了第一家店。"
+        },
+        {
+          "en": "It is noteworthy that most customers who complained about the product still bought it again.",
+          "zh": "值得注意的是，大部分抱怨過產品的顧客還是又買了一次。"
+        }
+      ],
+      "distractors": [
+        "praiseworthy",
+        "trustworthy",
+        "newsworthy"
+      ],
+      "note": "語塊：noteworthy achievement（值得一提的成就）、it is noteworthy that（值得注意的是）。noteworthy 是 note（注意）＋ worthy（值得的）；remarkable 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-usually",
+      "word": "usually",
+      "pos": "副詞",
+      "meaning": "通常",
+      "sentences": [
+        {
+          "en": "It usually takes about three days for orders to arrive, but it may take longer during the holiday season.",
+          "zh": "訂單通常大約三天到貨，但假期期間可能會更久。"
+        },
+        {
+          "en": "The office is usually quiet on Friday afternoons because many employees work from home at the end of the week.",
+          "zh": "週五下午辦公室通常很安靜，因為很多員工週末前在家工作。"
+        },
+        {
+          "en": "Ms. Chen usually takes the subway to work, but today she drove because of the heavy rain.",
+          "zh": "陳小姐通常搭地鐵上班，但今天因為大雨開車。"
+        },
+        {
+          "en": "The store is usually busy on weekends, so we recommend shopping there on weekday mornings instead.",
+          "zh": "那家店週末通常很忙，所以我們建議改在平日早上去逛。"
+        },
+        {
+          "en": "Meetings with the client usually take about an hour, so please do not plan anything else that afternoon.",
+          "zh": "和客戶開會通常要花一個小時左右，所以那天下午請不要安排其他事。"
+        }
+      ],
+      "distractors": [
+        "unusually",
+        "casually",
+        "visually"
+      ],
+      "note": "語塊：usually take（通常要花）、as usual（照常）。usually 是頻率副詞，放在一般動詞前、be 動詞後；usual 是形容詞「通常的」；unusually 是「異常地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-excellently",
+      "word": "excellently",
+      "pos": "副詞",
+      "meaning": "極好地；出色地",
+      "sentences": [
+        {
+          "en": "The new software has worked excellently since it was installed, and nobody has reported any problems.",
+          "zh": "新軟體自從安裝以來運作得很好，沒有人回報任何問題。"
+        },
+        {
+          "en": "Ms. Kim performed excellently during her first year, so she was promoted to team leader.",
+          "zh": "金小姐第一年表現出色，所以被升為組長。"
+        },
+        {
+          "en": "The hotel staff handled the large conference excellently, and every guest was very satisfied with the service.",
+          "zh": "飯店員工把大型研討會處理得非常好，每位客人都對服務很滿意。"
+        },
+        {
+          "en": "The team worked excellently together and finished the difficult project two weeks earlier than planned.",
+          "zh": "團隊合作得非常好，比預計提早兩週完成了困難的專案。"
+        },
+        {
+          "en": "The new machines perform excellently even in very cold weather, which is important for factories in the north.",
+          "zh": "新機器即使在非常寒冷的天氣也表現出色，這對北部的工廠很重要。"
+        }
+      ],
+      "distractors": [
+        "excessively",
+        "exceptionally",
+        "eloquently"
+      ],
+      "note": "語塊：perform excellently（表現出色）、work excellently（運作得很好）。excellently 是 excellent（極好的）的副詞；well 是一般的「好地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keep-track-of",
+      "word": "keep track of",
+      "pos": "片語動詞",
+      "meaning": "記錄；掌握……的動態",
+      "sentences": [
+        {
+          "en": "Please keep track of your expenses during the business trip and give the receipts to the accounting office.",
+          "zh": "出差期間請記錄你的開支，並把收據交給會計室。"
+        },
+        {
+          "en": "The speaker forgot to keep track of time, so the presentation lasted thirty minutes longer than planned.",
+          "zh": "講者忘了注意時間，所以簡報比預計多了三十分鐘。"
+        },
+        {
+          "en": "The new app helps small businesses keep track of orders and deliveries from their phones.",
+          "zh": "新的 App 幫助小企業用手機追蹤訂單和送貨。"
+        },
+        {
+          "en": "It is difficult to keep track of every project when the team is working on ten different things at once.",
+          "zh": "團隊同時做十件不同的事時，很難掌握每個專案的進度。"
+        },
+        {
+          "en": "Managers use a shared calendar to keep track of when each employee is on vacation.",
+          "zh": "主管用共用行事曆掌握每位員工什麼時候休假。"
+        }
+      ],
+      "distractors": [
+        "keep pace with",
+        "keep an eye on",
+        "keep in touch with"
+      ],
+      "note": "語塊：keep track of expenses（記錄開支）、keep track of time（注意時間）、keep track of orders（追蹤訂單）。keep track of 是「持續記錄、掌握」；lose track of 是相反「搞不清楚；失去聯繫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-numeral",
+      "word": "numeral",
+      "pos": "名詞",
+      "meaning": "數字（符號）",
+      "sentences": [
+        {
+          "en": "The old clock in the hotel lobby uses a Roman numeral for each hour instead of normal numbers.",
+          "zh": "飯店大廳的老時鐘每個小時都用羅馬數字，而不是一般的數字。"
+        },
+        {
+          "en": "Please write each amount as an Arabic numeral on the form, not in words or letters.",
+          "zh": "請在表格上把每個金額用阿拉伯數字寫，不要用文字或字母。"
+        },
+        {
+          "en": "The chapters in the old book are numbered with a Roman numeral, which some readers find confusing.",
+          "zh": "那本舊書的章節用羅馬數字編號，有些讀者覺得很難懂。"
+        },
+        {
+          "en": "The designer chose a large numeral for each floor so that visitors can see it clearly from the elevator.",
+          "zh": "設計師為每層樓選了大大的數字，讓訪客從電梯就能清楚看到。"
+        },
+        {
+          "en": "Children learn to read and write each Arabic numeral before they start learning simple math.",
+          "zh": "孩子在開始學簡單數學之前，先學讀寫每個阿拉伯數字。"
+        }
+      ],
+      "distractors": [
+        "numerous",
+        "mineral",
+        "neutral"
+      ],
+      "note": "語塊：Roman numeral（羅馬數字）、Arabic numeral（阿拉伯數字）。numeral 是「表示數字的符號」；number 是一般的「數字；號碼」；numerous 是「許多的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-a-regular-basis",
+      "word": "on a regular basis",
+      "pos": "副詞",
+      "meaning": "定期地；經常地",
+      "sentences": [
+        {
+          "en": "The machines in the factory are checked on a regular basis to make sure they are safe to use.",
+          "zh": "工廠的機器會定期檢查，確保使用安全。"
+        },
+        {
+          "en": "Managers should meet with their team members on a regular basis to talk about problems and goals.",
+          "zh": "主管應該定期和組員開會，談談問題和目標。"
+        },
+        {
+          "en": "The company updates its website on a regular basis so that customers can see the newest products.",
+          "zh": "公司定期更新網站，讓顧客看到最新產品。"
+        },
+        {
+          "en": "Please back up your files on a regular basis in case your computer stops working suddenly.",
+          "zh": "請定期備份你的檔案，以防電腦突然故障。"
+        },
+        {
+          "en": "The hotel replaces the towels and sheets on a regular basis, even if guests stay for only one night.",
+          "zh": "即使客人只住一晚，飯店也會定期更換毛巾和床單。"
+        }
+      ],
+      "distractors": [
+        "on a daily basis",
+        "on a first-come basis",
+        "on a temporary basis"
+      ],
+      "note": "語塊：check on a regular basis（定期檢查）、meet on a regular basis（定期開會）、update on a regular basis（定期更新）、back up on a regular basis（定期備份）、replace on a regular basis（定期更換）。on a regular basis 等於 regularly；on a daily basis 是「每天」；on a weekly basis 是「每週」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-notification",
+      "word": "notification",
+      "pos": "名詞",
+      "meaning": "通知",
+      "sentences": [
+        {
+          "en": "Customers will receive a notification on their phone when their package is ready for pickup.",
+          "zh": "包裹可以取貨時，顧客的手機會收到通知。"
+        },
+        {
+          "en": "The bank will send a notification by e-mail if someone tries to use your card in another country.",
+          "zh": "如果有人試圖在其他國家使用你的卡，銀行會用電子郵件發送通知。"
+        },
+        {
+          "en": "You can turn off the push notification in the app settings if you do not want to receive news every day.",
+          "zh": "如果你不想每天收到消息，可以在 App 設定裡關掉推播通知。"
+        },
+        {
+          "en": "Employees received a notification that the office will be closed on Monday because of the storm.",
+          "zh": "員工收到通知，辦公室週一會因暴風雨關閉。"
+        },
+        {
+          "en": "Please send a notification to all customers about the new opening hours before the end of the week.",
+          "zh": "請在本週末前發送新營業時間的通知給所有顧客。"
+        }
+      ],
+      "distractors": [
+        "notation",
+        "nomination",
+        "modification"
+      ],
+      "note": "語塊：receive a notification（收到通知）、send a notification（發送通知）、push notification（推播通知）。notification 是 notify（通知）的名詞；notice 是「告示；通知」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-managerial",
+      "word": "managerial",
+      "pos": "形容詞",
+      "meaning": "管理的；經理的",
+      "sentences": [
+        {
+          "en": "Applicants for the managerial position must have at least five years of experience in sales.",
+          "zh": "應徵管理職的人必須有至少五年的業務經驗。"
+        },
+        {
+          "en": "The training program helps new team leaders develop the managerial skills they need to lead a team.",
+          "zh": "訓練計畫幫助新組長培養帶領團隊所需的管理能力。"
+        },
+        {
+          "en": "Mr. Wong has a lot of managerial experience, so he was chosen to run the new branch in Seoul.",
+          "zh": "王先生有很多管理經驗，所以被選去經營首爾的新分公司。"
+        },
+        {
+          "en": "Many workers want a managerial position because it usually comes with a higher salary and more responsibility.",
+          "zh": "很多員工想要管理職，因為通常薪水更高、責任也更大。"
+        },
+        {
+          "en": "Good managerial skills include planning, communication, and the ability to solve problems quickly and calmly.",
+          "zh": "好的管理能力包括規劃、溝通以及快速又冷靜解決問題的能力。"
+        }
+      ],
+      "distractors": [
+        "ministerial",
+        "material",
+        "memorial"
+      ],
+      "note": "語塊：managerial position（管理職）、managerial skills（管理能力）、managerial experience（管理經驗）。managerial 是 manager / management 的形容詞；administrative 是「行政的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-practical",
+      "word": "practical",
+      "pos": "形容詞",
+      "meaning": "實用的；實際的",
+      "sentences": [
+        {
+          "en": "The internship gives students practical experience in a real office before they graduate from university.",
+          "zh": "實習讓學生在大學畢業前就能在真正的辦公室累積實務經驗。"
+        },
+        {
+          "en": "The book offers practical advice for people who want to start their own small business.",
+          "zh": "那本書為想自己創業的人提供實用的建議。"
+        },
+        {
+          "en": "The engineers found a practical solution that fixed the problem without stopping the production line.",
+          "zh": "工程師找到一個實際可行的辦法，不用停下生產線就解決了問題。"
+        },
+        {
+          "en": "Employers prefer candidates who have practical experience instead of only a university degree and good grades.",
+          "zh": "雇主比較喜歡有實務經驗的人，而不是只有大學學位和好成績的應徵者。"
+        },
+        {
+          "en": "The workshop is very practical, so participants will spend most of the time doing exercises.",
+          "zh": "工作坊非常實用，所以參加者大部分時間都在做練習。"
+        }
+      ],
+      "distractors": [
+        "practicable",
+        "tactical",
+        "particular"
+      ],
+      "note": "語塊：practical experience（實務經驗）、practical advice（實用的建議）、practical solution（實際可行的辦法）。practical 是「實際可行、有用的」；practically 是副詞「幾乎；實際上」；practice 是「練習」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enlightening",
+      "word": "enlightening",
+      "pos": "形容詞",
+      "meaning": "有啟發性的；使人豁然開朗的",
+      "sentences": [
+        {
+          "en": "Many participants said the seminar was an enlightening experience that changed how they think about money.",
+          "zh": "很多參加者說研討會是一次有啟發性的經驗，改變了他們對金錢的想法。"
+        },
+        {
+          "en": "The scientist gave an enlightening talk about how climate change affects the food we eat.",
+          "zh": "那位科學家發表了一場發人深省的演講，談氣候變遷如何影響我們吃的食物。"
+        },
+        {
+          "en": "Working abroad for a year was an enlightening experience for Ms. Lin, and she learned a lot about other cultures.",
+          "zh": "在國外工作一年對林小姐來說是一次很有啟發的經驗，她學到很多其他文化的事。"
+        },
+        {
+          "en": "The museum tour was enlightening, because the guide explained the history behind every painting in the gallery.",
+          "zh": "博物館導覽很有啟發性，因為導覽員解說了展廳裡每幅畫背後的歷史。"
+        },
+        {
+          "en": "Students found the guest speaker's enlightening talk about running a small business very useful for their future.",
+          "zh": "學生覺得客座講者那場關於經營小事業、發人深省的演講對他們的未來非常有用。"
+        }
+      ],
+      "distractors": [
+        "frightening",
+        "lightning",
+        "tightening"
+      ],
+      "note": "語塊：enlightening experience（有啟發性的經驗）、enlightening talk（發人深省的演講）。enlightening 是「讓人更了解、有收穫的」；informative 意思接近；enlighten 是動詞「啟發」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dining",
+      "word": "dining",
+      "pos": "名詞",
+      "meaning": "用餐；餐飲",
+      "sentences": [
+        {
+          "en": "The hotel has a large dining area where breakfast is served every morning from six to ten.",
+          "zh": "飯店有一個大用餐區，每天早上六點到十點供應早餐。"
+        },
+        {
+          "en": "The restaurant offers fine dining with a seven-course menu and excellent wine from local vineyards.",
+          "zh": "那家餐廳提供高級餐飲，有七道菜的套餐和當地葡萄園的優質葡萄酒。"
+        },
+        {
+          "en": "The dining room on the top floor has a beautiful view of the city and can seat fifty guests.",
+          "zh": "頂樓的餐廳有美麗的城市景色，可以容納五十位客人。"
+        },
+        {
+          "en": "Outdoor dining is popular in summer, so many cafés put tables on the street in front of their shops.",
+          "zh": "戶外用餐在夏天很受歡迎，所以很多咖啡廳在店門口的街上擺桌子。"
+        },
+        {
+          "en": "The new shopping mall has a dining area on the fifth floor with more than twenty restaurants.",
+          "zh": "新購物中心五樓有一個用餐區，有二十多家餐廳。"
+        }
+      ],
+      "distractors": [
+        "dinner",
+        "diner",
+        "lining"
+      ],
+      "note": "語塊：dining area（用餐區）、fine dining（高級餐飲）、dining room（餐廳；飯廳）。dining 是 dine（用餐）的名詞；dinner 是「晚餐」；diner 是「用餐者」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
