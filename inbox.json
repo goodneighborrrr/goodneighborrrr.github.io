@@ -59203,6 +59203,706 @@
       ],
       "note": "語塊：keep out the rain（擋雨）、keep out of（遠離；不進入）、keep out the cold（禦寒）。keep out 是「把……擋在外面」或「不要進入」；Keep Out 是告示牌上的「禁止進入」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-patented",
+      "word": "patented",
+      "pos": "形容詞",
+      "meaning": "有專利的",
+      "sentences": [
+        {
+          "en": "The company's patented technology allows the battery to charge fully in less than fifteen minutes.",
+          "zh": "公司的專利技術讓電池能在十五分鐘內充飽。"
+        },
+        {
+          "en": "Our shoes have a patented design that reduces pressure on the feet during long walks or runs.",
+          "zh": "我們的鞋子有專利設計，可以在長時間走路或跑步時減輕腳的壓力。"
+        },
+        {
+          "en": "Other companies cannot copy the patented technology without paying a fee to the inventor and getting written permission.",
+          "zh": "其他公司不付費給發明人並取得書面許可，就不能抄襲這項專利技術。"
+        },
+        {
+          "en": "The patented cleaning system uses less water than any other dishwasher on the market today.",
+          "zh": "這套專利清潔系統比市面上任何洗碗機都更省水。"
+        },
+        {
+          "en": "The designer showed the patented design of the new chair to investors at the trade show in Milan.",
+          "zh": "設計師在米蘭的展覽上向投資人展示新椅子的專利設計。"
+        }
+      ],
+      "distractors": [
+        "patient",
+        "painted",
+        "patterned"
+      ],
+      "note": "語塊：patented technology（專利技術）、patented design（專利設計）。patented 是「取得專利的」；patent 是名詞「專利」或動詞「取得專利」；patient 是「病人；有耐心的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-moisture",
+      "word": "moisture",
+      "pos": "名詞",
+      "meaning": "濕氣；水分",
+      "sentences": [
+        {
+          "en": "Please store the paper in a dry place, because it can easily absorb moisture and become hard to print on.",
+          "zh": "請把紙存放在乾燥的地方，因為它很容易吸收濕氣，變得很難列印。"
+        },
+        {
+          "en": "The new boxes protect electronic products from moisture during long trips by ship across the ocean.",
+          "zh": "新的箱子在橫渡大洋的長途海運時可以保護電子產品防潮。"
+        },
+        {
+          "en": "Workers check the moisture level in the warehouse every morning to keep the wood from getting damaged.",
+          "zh": "工人每天早上檢查倉庫的濕度，以免木材受損。"
+        },
+        {
+          "en": "This cream helps keep moisture in your skin, so it is popular with customers during the dry winter months.",
+          "zh": "這款乳霜幫助肌膚保濕，所以在乾燥的冬季很受顧客歡迎。"
+        },
+        {
+          "en": "Too much moisture in the basement caused the walls to turn black, so the owner had to repair them.",
+          "zh": "地下室濕氣太重讓牆壁變黑，所以屋主必須修理。"
+        }
+      ],
+      "distractors": [
+        "mixture",
+        "posture",
+        "moisten"
+      ],
+      "note": "語塊：absorb moisture（吸收濕氣）、protect from moisture（防潮）、moisture level（濕度）。moisture 是不可數名詞；moist 是形容詞「微濕的」；humidity 是空氣中的「濕度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-water-resistant",
+      "word": "water-resistant",
+      "pos": "形容詞",
+      "meaning": "防水的；耐水的",
+      "sentences": [
+        {
+          "en": "This water-resistant watch can be worn while swimming, but it should not be used for deep diving.",
+          "zh": "這款防水手錶可以戴著游泳，但不應該用於深潛。"
+        },
+        {
+          "en": "The jacket is made of a light water-resistant material that is perfect for walking in the rain.",
+          "zh": "這件外套是用輕巧的防水材料做的，非常適合在雨中散步。"
+        },
+        {
+          "en": "All of our new phones are water-resistant, so they will still work if you drop them in a puddle.",
+          "zh": "我們所有的新手機都防水，所以掉進水坑裡還是能用。"
+        },
+        {
+          "en": "The company uses a water-resistant material for its backpacks to protect laptops and documents inside.",
+          "zh": "公司的背包使用防水材料，保護裡面的筆電和文件。"
+        },
+        {
+          "en": "Please note that the watch is water-resistant only to thirty meters, as explained in the user manual.",
+          "zh": "請注意，如使用手冊所述，這款手錶只能防水到三十公尺。"
+        }
+      ],
+      "distractors": [
+        "waterproof",
+        "heat-resistant",
+        "water-soluble"
+      ],
+      "note": "語塊：water-resistant watch（防水手錶）、water-resistant material（防水材料）。water-resistant 是「能抵擋一些水」；waterproof 是「完全防水」，程度更高。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-degree",
+      "word": "degree",
+      "pos": "名詞",
+      "meaning": "學位；程度；度數",
+      "sentences": [
+        {
+          "en": "Applicants for the position must have a bachelor's degree in accounting or a related field.",
+          "zh": "這個職位的應徵者必須有會計或相關科系的學士學位。"
+        },
+        {
+          "en": "Ms. Lin is studying for a master's degree in business while she works full-time at the bank.",
+          "zh": "林小姐一邊在銀行全職工作，一邊攻讀企管碩士學位。"
+        },
+        {
+          "en": "To some degree, the success of the product depends on how well we advertise it on social media.",
+          "zh": "在某種程度上，產品的成功取決於我們在社群媒體上的宣傳做得多好。"
+        },
+        {
+          "en": "Even a change of one degree in the server room can cause the computers to stop working properly.",
+          "zh": "機房裡即使只變化一度，也可能讓電腦無法正常運作。"
+        },
+        {
+          "en": "The company pays part of the cost for employees who want to earn a master's degree in the evening.",
+          "zh": "公司會為想在晚上攻讀碩士學位的員工負擔部分費用。"
+        }
+      ],
+      "distractors": [
+        "decree",
+        "agree",
+        "pedigree"
+      ],
+      "note": "語塊：bachelor's degree（學士學位）、master's degree（碩士學位）、to some degree（在某種程度上）。degree 可以是「學位」、「程度」或溫度的「度」；diploma 是「畢業證書」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-requirement",
+      "word": "requirement",
+      "pos": "名詞",
+      "meaning": "要求；必要條件",
+      "sentences": [
+        {
+          "en": "Unfortunately, your application does not meet the requirement for at least three years of experience in sales.",
+          "zh": "很遺憾，您的申請不符合至少三年業務經驗的要求。"
+        },
+        {
+          "en": "A good level of English is the minimum requirement for all staff who work at the hotel's front desk.",
+          "zh": "良好的英文程度是所有飯店櫃台員工的最低要求。"
+        },
+        {
+          "en": "The university raised its entry requirement this year, so fewer students were accepted into the program.",
+          "zh": "那所大學今年提高了入學條件，所以錄取這個學程的學生變少了。"
+        },
+        {
+          "en": "Every new product must meet the safety requirement set by the government before it can be sold in stores.",
+          "zh": "每項新產品都必須符合政府訂的安全要求，才能在店裡販售。"
+        },
+        {
+          "en": "The job has one important requirement: the person must be willing to travel abroad several times a year.",
+          "zh": "這份工作有一個重要的必要條件：這個人必須願意一年出國好幾次。"
+        }
+      ],
+      "distractors": [
+        "retirement",
+        "refinement",
+        "recruitment"
+      ],
+      "note": "語塊：meet the requirements（符合要求）、minimum requirement（最低要求）、entry requirement（入學條件）。requirement 是 require（需要）的名詞；常用複數 requirements。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inventory",
+      "word": "inventory",
+      "pos": "名詞",
+      "meaning": "庫存；存貨清單",
+      "sentences": [
+        {
+          "en": "The store will close early on Sunday so that the staff can take inventory of all of the products.",
+          "zh": "店週日會提早關門，讓員工盤點所有產品。"
+        },
+        {
+          "en": "The new inventory control system tells managers exactly when they need to order more supplies.",
+          "zh": "新的庫存管理系統會告訴主管什麼時候需要再訂貨。"
+        },
+        {
+          "en": "Many companies try to keep inventory low so that they do not waste money on products that do not sell.",
+          "zh": "很多公司盡量壓低庫存，以免把錢浪費在賣不出去的產品上。"
+        },
+        {
+          "en": "We take inventory at the end of every month to check whether any items are missing or damaged.",
+          "zh": "我們每個月底盤點，檢查有沒有任何商品遺失或損壞。"
+        },
+        {
+          "en": "The warehouse manager is responsible for inventory control and for training new staff in the department.",
+          "zh": "倉庫經理負責庫存管理，以及訓練部門的新員工。"
+        }
+      ],
+      "distractors": [
+        "invention",
+        "inventor",
+        "itinerary"
+      ],
+      "note": "語塊：take inventory（盤點）、inventory control（庫存管理）、keep inventory low（壓低庫存）。inventory 是「庫存（的貨）」或「存貨清單」；stock 意思接近；invention 是「發明」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pile-up",
+      "word": "pile up",
+      "pos": "片語動詞",
+      "meaning": "堆積；越積越多",
+      "sentences": [
+        {
+          "en": "If you take a long vacation, the work will pile up and you will be very busy when you return.",
+          "zh": "如果你休長假，工作會堆積如山，回來後會非常忙。"
+        },
+        {
+          "en": "Many small businesses close because the bills pile up faster than the money they earn.",
+          "zh": "很多小公司倒閉，是因為帳單堆積的速度比賺錢的速度快。"
+        },
+        {
+          "en": "Please do not let documents pile up on the desk, because important papers may get lost.",
+          "zh": "請不要讓文件堆在桌上，因為重要的文件可能會不見。"
+        },
+        {
+          "en": "During the holiday season, orders pile up quickly, so the warehouse hires extra staff for December.",
+          "zh": "假期期間訂單會快速累積，所以倉庫十二月會雇用額外的人手。"
+        },
+        {
+          "en": "The e-mails began to pile up while Mr. Ross was sick, so his assistant answered the most urgent ones.",
+          "zh": "羅斯先生生病期間電子郵件越積越多，所以他的助理回覆了最緊急的那些。"
+        }
+      ],
+      "distractors": [
+        "pick up",
+        "fill up",
+        "pull up"
+      ],
+      "note": "語塊：work piles up（工作堆積）、bills pile up（帳單越積越多）、pile up on the desk（堆在桌上）。pile up 是「（東西、工作）越堆越多」；pile 當名詞是「一堆」（a pile of papers）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pay-attention-to",
+      "word": "pay attention to",
+      "pos": "片語動詞",
+      "meaning": "注意；留意",
+      "sentences": [
+        {
+          "en": "Our designers pay attention to details, so every product looks good and works well for many years.",
+          "zh": "我們的設計師注重細節，所以每項產品都好看又耐用多年。"
+        },
+        {
+          "en": "Please pay attention to the safety instructions before you start using the new machine in the factory.",
+          "zh": "在工廠開始使用新機器之前，請注意安全說明。"
+        },
+        {
+          "en": "Investors always pay attention to the company's annual report to see whether profits are increasing.",
+          "zh": "投資人總是會注意公司的年報，看看獲利是否在增加。"
+        },
+        {
+          "en": "Drivers must pay attention to the road signs, because the speed limit changes near the school.",
+          "zh": "駕駛必須注意路標，因為學校附近的速限會改變。"
+        },
+        {
+          "en": "Managers should pay attention to how employees feel about the new working hours and the extra weekend shifts.",
+          "zh": "主管應該留意員工對新工作時間和額外週末班的感受。"
+        }
+      ],
+      "distractors": [
+        "pay tribute to",
+        "pay a visit to",
+        "pay respect to"
+      ],
+      "note": "語塊：pay attention to details（注意細節）、pay attention to safety（注意安全）、pay attention to the road（注意路況）。pay attention to 後面接名詞或 V-ing；attention 是名詞「注意力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-costly",
+      "word": "costly",
+      "pos": "形容詞",
+      "meaning": "昂貴的；代價高的",
+      "sentences": [
+        {
+          "en": "Sending the wrong products to the client was a costly mistake that the company will not make again.",
+          "zh": "把錯的產品寄給客戶是一個代價很高的錯誤，公司不會再犯了。"
+        },
+        {
+          "en": "The old building needs costly repairs, so the owners have decided to sell it instead.",
+          "zh": "那棟舊大樓需要昂貴的修理費，所以業主決定把它賣掉。"
+        },
+        {
+          "en": "It can be costly to replace all of the computers at once, so we will buy new ones over three years.",
+          "zh": "一次換掉所有電腦可能很貴，所以我們會分三年買新的。"
+        },
+        {
+          "en": "A delay in the construction project would be very costly for both the builder and the city.",
+          "zh": "建設專案延誤對建商和市政府來說代價都很高。"
+        },
+        {
+          "en": "Regular maintenance helps companies avoid costly repairs when their machines break down suddenly during busy periods.",
+          "zh": "定期保養幫助公司避免機器在忙碌時期突然故障時昂貴的修理費。"
+        }
+      ],
+      "distractors": [
+        "cosy",
+        "coastal",
+        "mostly"
+      ],
+      "note": "語塊：costly mistake（代價高的錯誤）、costly repairs（昂貴的修理費）。costly 長得像副詞，其實是形容詞（= expensive）；cost 是名詞或動詞「花費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spill",
+      "word": "spill",
+      "pos": "動詞",
+      "meaning": "灑出；溢出",
+      "sentences": [
+        {
+          "en": "Please be careful not to spill coffee on the computer, because it could damage the keyboard.",
+          "zh": "請小心不要把咖啡灑在電腦上，因為可能會弄壞鍵盤。"
+        },
+        {
+          "en": "If you spill water on the floor, please clean it up right away so that nobody slips and falls.",
+          "zh": "如果你把水灑在地上，請馬上擦乾，以免有人滑倒。"
+        },
+        {
+          "en": "The government fined the company after a large oil spill polluted the beaches near the port.",
+          "zh": "大規模漏油污染了港口附近的海灘後，政府對那家公司開罰。"
+        },
+        {
+          "en": "Waiters are trained to carry trays carefully so that they do not spill drinks on the customers.",
+          "zh": "服務生受過訓練要小心端托盤，以免把飲料灑在顧客身上。"
+        },
+        {
+          "en": "Cleaning up an oil spill can take months and cost millions of dollars, so ships must follow strict rules.",
+          "zh": "清理漏油可能要花好幾個月和數百萬元，所以船隻必須遵守嚴格的規定。"
+        }
+      ],
+      "distractors": [
+        "spell",
+        "spin",
+        "split"
+      ],
+      "note": "語塊：spill coffee（打翻咖啡）、spill water（灑出水）、oil spill（漏油）。spill 可以當動詞或名詞「灑出、溢出」；過去式是 spilled 或 spilt。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-monetary",
+      "word": "monetary",
+      "pos": "形容詞",
+      "meaning": "金錢的；貨幣的",
+      "sentences": [
+        {
+          "en": "Employees who suggest ideas that save money will receive a monetary reward at the end of the year.",
+          "zh": "提出省錢點子的員工年底會得到金錢獎勵。"
+        },
+        {
+          "en": "The central bank changed its monetary policy to control rising prices and protect the value of the currency.",
+          "zh": "中央銀行調整了貨幣政策，以控制物價上漲並保護貨幣價值。"
+        },
+        {
+          "en": "The old letters have no monetary value, but they are very important to the history of the company.",
+          "zh": "那些舊信件沒有金錢價值，但對公司的歷史非常重要。"
+        },
+        {
+          "en": "Many volunteers help at the festival every year without any monetary reward because they love the town.",
+          "zh": "很多志工每年都在節慶幫忙、不拿任何金錢報酬，因為他們熱愛這個小鎮。"
+        },
+        {
+          "en": "Experts expect the government to announce a new monetary policy after the meeting next week.",
+          "zh": "專家預期政府會在下週的會議後宣布新的貨幣政策。"
+        }
+      ],
+      "distractors": [
+        "momentary",
+        "monitory",
+        "sanitary"
+      ],
+      "note": "語塊：monetary reward（金錢獎勵）、monetary policy（貨幣政策）、monetary value（金錢價值）。monetary 是「和錢有關的」；financial 意思接近；monitor 是「監控」，拼法有點像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-donation",
+      "word": "donation",
+      "pos": "名詞",
+      "meaning": "捐款；捐贈",
+      "sentences": [
+        {
+          "en": "The company will make a donation to the local children's hospital for every product sold this month.",
+          "zh": "這個月每賣出一件產品，公司就會捐款給當地的兒童醫院。"
+        },
+        {
+          "en": "Thanks to a generous donation from a former student, the school was able to build a new library.",
+          "zh": "多虧一位校友的慷慨捐款，學校才得以蓋一座新圖書館。"
+        },
+        {
+          "en": "Customers can make a donation at the counter, and all of the money will go to families affected by the flood.",
+          "zh": "顧客可以在櫃台捐款，所有的錢都會給受水災影響的家庭。"
+        },
+        {
+          "en": "The museum received a generous donation of paintings from a famous collector who lived in the city.",
+          "zh": "博物館收到一位住在這座城市的知名收藏家慷慨捐贈的畫作。"
+        },
+        {
+          "en": "Every donation to the charity, no matter how small, will help provide food for people in need.",
+          "zh": "每一筆捐給慈善機構的款項，不論多少，都會幫助提供食物給需要的人。"
+        }
+      ],
+      "distractors": [
+        "duration",
+        "domination",
+        "notation"
+      ],
+      "note": "語塊：make a donation（捐款）、generous donation（慷慨的捐款）、donation to（捐給……）。donation 是 donate（捐贈）的名詞；donor 是「捐贈者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dominant",
+      "word": "dominant",
+      "pos": "形容詞",
+      "meaning": "主導的；佔優勢的",
+      "sentences": [
+        {
+          "en": "The company has held a dominant position in the smartphone market for more than ten years.",
+          "zh": "那家公司在智慧型手機市場佔據主導地位十多年了。"
+        },
+        {
+          "en": "After the merger, the new company will become the dominant player in the airline industry in Asia.",
+          "zh": "合併後，新公司將成為亞洲航空業的主要業者。"
+        },
+        {
+          "en": "Social media now plays a dominant role in how young people choose which products to buy.",
+          "zh": "社群媒體現在在年輕人選購產品上扮演主導角色。"
+        },
+        {
+          "en": "Small shops find it difficult to compete with a dominant player that can offer much lower prices.",
+          "zh": "小店很難和能提供低很多價格的主要業者競爭。"
+        },
+        {
+          "en": "The government is worried that one dominant company may control the prices of electricity in the region.",
+          "zh": "政府擔心一家佔優勢的公司可能會控制這一區的電價。"
+        }
+      ],
+      "distractors": [
+        "dormant",
+        "domestic",
+        "diminutive"
+      ],
+      "note": "語塊：dominant position（主導地位）、dominant player（主要業者）、dominant role（主導角色）。dominant 是「最強、最主要的」；dominate 是動詞「主宰」；dormant 是「休眠的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supervise",
+      "word": "supervise",
+      "pos": "動詞",
+      "meaning": "監督；管理",
+      "sentences": [
+        {
+          "en": "Ms. Chen will supervise the staff in the warehouse while the manager is on vacation next month.",
+          "zh": "下個月經理休假時，陳小姐會管理倉庫的員工。"
+        },
+        {
+          "en": "Managers should closely supervise new employees during their first month and work with them every day.",
+          "zh": "主管應該在新員工第一個月密切監督他們，每天和他們一起工作。"
+        },
+        {
+          "en": "Mr. Diaz was hired to supervise the project to build a new terminal at the airport.",
+          "zh": "迪亞茲先生受聘監督機場新航廈的建設專案。"
+        },
+        {
+          "en": "Teachers supervise students carefully in the playground during lunch break to make sure that everyone stays safe.",
+          "zh": "午休時老師會在操場仔細看顧學生，確保每個人都安全。"
+        },
+        {
+          "en": "An experienced engineer will supervise the installation of the new machines in the factory next week.",
+          "zh": "一位經驗豐富的工程師下週會監督工廠新機器的安裝。"
+        }
+      ],
+      "distractors": [
+        "surprise",
+        "supersede",
+        "survive"
+      ],
+      "note": "語塊：supervise staff（管理員工）、closely supervise（密切監督）、supervise a project（監督專案）。supervise 是「在旁邊看著並管理」；supervisor 是「主管」；supervision 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retire",
+      "word": "retire",
+      "pos": "動詞",
+      "meaning": "退休",
+      "sentences": [
+        {
+          "en": "Mr. Okada plans to retire from the company next spring after working here for almost forty years.",
+          "zh": "岡田先生在這裡工作將近四十年後，打算明年春天從公司退休。"
+        },
+        {
+          "en": "More people want to retire early so that they can travel and spend more time with their families.",
+          "zh": "越來越多人想提早退休，好去旅行並多陪家人。"
+        },
+        {
+          "en": "The manager, who is soon to retire, is training his successor to take over the department.",
+          "zh": "即將退休的經理正在訓練接班人接管部門。"
+        },
+        {
+          "en": "Workers who retire from the factory receive a monthly pension and free health checks every year.",
+          "zh": "從工廠退休的員工每個月領退休金，每年也有免費健康檢查。"
+        },
+        {
+          "en": "Ms. Rivera decided to retire early because she wanted to start a small bakery in her hometown.",
+          "zh": "里維拉小姐決定提早退休，因為她想在家鄉開一家小麵包店。"
+        }
+      ],
+      "distractors": [
+        "resign",
+        "retain",
+        "retreat"
+      ],
+      "note": "語塊：retire from（從……退休）、retire early（提早退休）、soon to retire（即將退休）。retire 是動詞；retirement 是名詞；retiree 是「退休人員」；resign 是「辭職」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-have-a-hand-in",
+      "word": "have a hand in",
+      "pos": "其他",
+      "meaning": "參與；插手",
+      "sentences": [
+        {
+          "en": "Many employees will have a hand in the project, but Ms. Kim was the one who came up with the original idea.",
+          "zh": "很多員工都會參與這個專案，但想出最初點子的是金小姐。"
+        },
+        {
+          "en": "Mr. Tan was proud to have a hand in the design of the new library, which won an international award.",
+          "zh": "譚先生很驕傲參與了新圖書館的設計，那座圖書館還得了國際獎。"
+        },
+        {
+          "en": "Our customers will have a hand in choosing the new flavors, because we will ask them to vote online.",
+          "zh": "我們的顧客會參與選擇新口味，因為我們會請他們在網路上投票。"
+        },
+        {
+          "en": "The famous chef did not have a hand in the restaurant's new menu, although his name is on the door.",
+          "zh": "雖然那位知名主廚的名字掛在門口，但他並沒有參與餐廳的新菜單。"
+        },
+        {
+          "en": "Every member of the team will have a hand in the project, from planning the budget to meeting the clients.",
+          "zh": "每位組員都會參與這個專案，從規劃預算到和客戶見面。"
+        }
+      ],
+      "distractors": [
+        "have a word with",
+        "give a hand",
+        "on the other hand"
+      ],
+      "note": "語塊：have a hand in the project（參與專案）、have a hand in the design（參與設計）、have a hand in choosing（參與挑選）。have a hand in 是「在某事中出了一份力」；take part in 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-successor",
+      "word": "successor",
+      "pos": "名詞",
+      "meaning": "接班人；繼任者",
+      "sentences": [
+        {
+          "en": "The board will choose a successor to the current CEO, who plans to retire at the end of next year.",
+          "zh": "董事會將為明年底打算退休的現任執行長選出接班人。"
+        },
+        {
+          "en": "Ms. Patel was named as the successor to Mr. Clark as head of the marketing department.",
+          "zh": "帕特爾小姐被任命為克拉克先生的繼任者，擔任行銷部主管。"
+        },
+        {
+          "en": "Before he leaves the company, Mr. Wong will spend three months helping to train a successor.",
+          "zh": "王先生離開公司前，會花三個月幫忙培養接班人。"
+        },
+        {
+          "en": "The founder has not yet decided who will be his successor, but many people think it will be his daughter.",
+          "zh": "創辦人還沒決定誰當接班人，但很多人認為會是他的女兒。"
+        },
+        {
+          "en": "Choosing the right successor is one of the most important decisions that a company's leader can make.",
+          "zh": "選對接班人是公司領導人能做的最重要決定之一。"
+        }
+      ],
+      "distractors": [
+        "predecessor",
+        "successive",
+        "success"
+      ],
+      "note": "語塊：choose a successor（選出接班人）、successor to（……的繼任者）、train a successor（培養接班人）。successor 是「接替職位的人」；predecessor 是「前任」；success 是「成功」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-blame",
+      "word": "blame",
+      "pos": "動詞",
+      "meaning": "責怪；歸咎",
+      "sentences": [
+        {
+          "en": "Customers often blame the store for late deliveries, even when the problem is caused by the shipping company.",
+          "zh": "顧客常因為送貨延遲責怪店家，即使問題是貨運公司造成的。"
+        },
+        {
+          "en": "The report found that nobody was to blame for the accident, which was caused by a sudden storm.",
+          "zh": "報告發現沒有人需要為事故負責，那是一場突如其來的暴風雨造成的。"
+        },
+        {
+          "en": "The manager did not blame the team for the mistake and instead asked how they could prevent it next time.",
+          "zh": "經理沒有因為錯誤責怪團隊，而是問他們下次要怎麼避免。"
+        },
+        {
+          "en": "Some experts blame the drop in sales on the rainy weather, while others say prices are simply too high.",
+          "zh": "有些專家把銷售下滑歸咎於多雨的天氣，其他人則說價格就是太高了。"
+        },
+        {
+          "en": "It is easy to blame others when things go wrong, but good leaders take responsibility for their decisions.",
+          "zh": "出問題時責怪別人很容易，但好的領導者會為自己的決定負責。"
+        }
+      ],
+      "distractors": [
+        "blade",
+        "flame",
+        "claim"
+      ],
+      "note": "語塊：blame A for B（因 B 責怪 A）、be to blame（該負責）、blame A on B（把 A 歸咎於 B）。blame 可以當動詞或名詞；take the blame 是「承擔責任」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hidden",
+      "word": "hidden",
+      "pos": "形容詞",
+      "meaning": "隱藏的；不明顯的",
+      "sentences": [
+        {
+          "en": "Please read the contract carefully, because some phone companies add hidden costs to their monthly plans.",
+          "zh": "請仔細閱讀合約，因為有些電信公司會在月租方案裡加上隱藏費用。"
+        },
+        {
+          "en": "Our bank has no hidden fees, so customers always know exactly how much they will pay each month.",
+          "zh": "我們銀行沒有隱藏收費，所以顧客總是清楚知道每個月要付多少。"
+        },
+        {
+          "en": "During the office party, we discovered that our accountant has a hidden talent for singing.",
+          "zh": "在公司派對上，我們發現會計有唱歌的隱藏才能。"
+        },
+        {
+          "en": "Many travelers complain about hidden fees, such as extra charges for bags and seat selection on flights.",
+          "zh": "很多旅客抱怨隱藏收費，例如航班上的行李和選位額外費用。"
+        },
+        {
+          "en": "The hotel's website clearly shows the total price, so there are no hidden costs when you check out.",
+          "zh": "飯店網站清楚顯示總價，所以退房時不會有隱藏費用。"
+        }
+      ],
+      "distractors": [
+        "hiding",
+        "bidden",
+        "ridden"
+      ],
+      "note": "語塊：hidden costs（隱藏費用）、hidden fees（隱藏收費）、hidden talent（隱藏的才能）。hidden 是 hide（隱藏）的過去分詞，當形容詞用；secret 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-carrier",
+      "word": "carrier",
+      "pos": "名詞",
+      "meaning": "運輸業者；航空公司；電信業者",
+      "sentences": [
+        {
+          "en": "The national air carrier will start direct flights between Taipei and Seattle starting next summer.",
+          "zh": "國家航空公司明年夏天會開始台北和西雅圖之間的直飛航班。"
+        },
+        {
+          "en": "We use a shipping carrier that can deliver packages to any city in the country within two days.",
+          "zh": "我們使用一家兩天內能把包裹送到全國任何城市的貨運業者。"
+        },
+        {
+          "en": "Customers can choose their mobile carrier when they buy a new phone at our store.",
+          "zh": "顧客在我們店裡買新手機時，可以選擇電信業者。"
+        },
+        {
+          "en": "The shipping carrier lost three of our packages last month, so we are looking for a new company.",
+          "zh": "那家貨運業者上個月弄丟了我們三個包裹，所以我們在找新的公司。"
+        },
+        {
+          "en": "At least one low-cost air carrier now flies to the island, which has made it much more popular with tourists.",
+          "zh": "現在至少有一家低成本航空公司飛那座島，讓它更受觀光客歡迎。"
+        }
+      ],
+      "distractors": [
+        "career",
+        "courier",
+        "barrier"
+      ],
+      "note": "語塊：air carrier（航空公司）、shipping carrier（貨運業者）、mobile carrier（電信業者）。carrier 是「運送人或貨物的公司」；carry 是動詞「攜帶；運送」；career 是「職涯」，拼法很像。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
