@@ -57838,6 +57838,671 @@
       ],
       "note": "語塊：available exclusively（獨家販售）、exclusively for（專門給……）。exclusively 是「只、獨家」；exclusive 是形容詞「獨家的；高級的」；only 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contractor",
+      "word": "contractor",
+      "pos": "名詞",
+      "meaning": "承包商；約聘人員",
+      "sentences": [
+        {
+          "en": "The building contractor promised that the new office would be finished before the end of September.",
+          "zh": "營造承包商保證新辦公室會在九月底前完工。"
+        },
+        {
+          "en": "We plan to hire a contractor to repair the roof and paint the walls of the warehouse next month.",
+          "zh": "我們打算下個月雇用承包商修理屋頂並粉刷倉庫的牆壁。"
+        },
+        {
+          "en": "Ms. Ford works as an independent contractor and designs websites for several small businesses in the city.",
+          "zh": "福特小姐是獨立承包人，為市內幾家小公司設計網站。"
+        },
+        {
+          "en": "The city will hire a contractor from another region because no local company could do the job on time.",
+          "zh": "因為沒有本地公司能準時完成工作，市政府會雇用其他地區的承包商。"
+        },
+        {
+          "en": "Before you hire a contractor, please ask for a written estimate and check reviews from previous customers.",
+          "zh": "雇用承包商之前，請先索取書面估價，並查看之前客戶的評價。"
+        }
+      ],
+      "distractors": [
+        "contributor",
+        "conductor",
+        "contracture"
+      ],
+      "note": "語塊：building contractor（營造承包商）、hire a contractor（雇用承包商）、independent contractor（獨立承包人）。contractor 是接案或承包工程的人或公司；contract 是「合約」；contractual 是「合約上的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-graduate",
+      "word": "graduate",
+      "pos": "名詞",
+      "meaning": "畢業生",
+      "sentences": [
+        {
+          "en": "Every recent graduate who joins the sales team will receive six months of training before meeting any customers.",
+          "zh": "每位加入業務團隊的應屆畢業生在見客戶之前都會接受六個月的訓練。"
+        },
+        {
+          "en": "Every university graduate who joins our company will work in three different departments during the first year.",
+          "zh": "每位加入公司的大學畢業生第一年都會在三個不同的部門工作。"
+        },
+        {
+          "en": "Ms. Ito plans to graduate from business school next spring and hopes to work in the finance industry.",
+          "zh": "伊藤小姐打算明年春天從商學院畢業，希望在金融業工作。"
+        },
+        {
+          "en": "This program helps each recent graduate find a job that matches his or her skills and interests.",
+          "zh": "這個計畫幫助每位應屆畢業生找到符合自己技能和興趣的工作。"
+        },
+        {
+          "en": "The bank is looking for a university graduate with a degree in economics and strong computer skills.",
+          "zh": "那家銀行在找一位有經濟學學位、電腦能力強的大學畢業生。"
+        }
+      ],
+      "distractors": [
+        "gradual",
+        "graduation",
+        "gradient"
+      ],
+      "note": "語塊：recent graduate（應屆畢業生）、university graduate（大學畢業生）、graduate from（從……畢業）。graduate 可以當名詞「畢業生」或動詞「畢業」（graduate from）；graduation 是「畢業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-loyal-customer",
+      "word": "loyal customer",
+      "pos": "名詞",
+      "meaning": "忠實顧客",
+      "sentences": [
+        {
+          "en": "As a thank-you, the café gives every loyal customer a free cup of coffee after ten visits.",
+          "zh": "為了表示感謝，咖啡廳讓每位忠實顧客在消費十次後得到一杯免費咖啡。"
+        },
+        {
+          "en": "The store sends a special discount to each loyal customer on his or her birthday every year.",
+          "zh": "那家店每年在每位忠實顧客生日時寄送特別折扣。"
+        },
+        {
+          "en": "It is much cheaper to keep a loyal customer than to find a new one, so good service is very important.",
+          "zh": "留住一位忠實顧客比找一位新顧客便宜很多，所以好的服務非常重要。"
+        },
+        {
+          "en": "The hotel wants to reward every loyal customer by offering a free room upgrade during the holiday season.",
+          "zh": "飯店想在假期期間提供免費升等來回饋每位忠實顧客。"
+        },
+        {
+          "en": "Mr. Kim has been a loyal customer of our bank for more than thirty years, so we invited him to our anniversary party.",
+          "zh": "金先生當我們銀行的忠實顧客三十多年了，所以我們邀請他參加週年派對。"
+        }
+      ],
+      "distractors": [
+        "loyal fan",
+        "regular customer",
+        "potential customer"
+      ],
+      "note": "語塊：loyal customer of（……的忠實顧客）、reward a loyal customer（回饋忠實顧客）、keep a loyal customer（留住忠實顧客）。loyal 是「忠誠的」；loyalty 是名詞（loyalty program 是「會員回饋方案」）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-swiftly",
+      "word": "swiftly",
+      "pos": "副詞",
+      "meaning": "迅速地",
+      "sentences": [
+        {
+          "en": "The company had to act swiftly to fix the problem after hundreds of customers complained on social media.",
+          "zh": "數百名顧客在社群媒體上抱怨後，公司必須迅速行動解決問題。"
+        },
+        {
+          "en": "Our customer service team will respond swiftly to every e-mail, usually within two hours on weekdays.",
+          "zh": "我們的客服團隊會迅速回覆每封電子郵件，平日通常兩小時內就會回覆。"
+        },
+        {
+          "en": "The two companies moved swiftly to complete the merger before the end of the financial year.",
+          "zh": "兩家公司快速推進，在會計年度結束前完成了合併。"
+        },
+        {
+          "en": "The fire department responded swiftly, and nobody was hurt when the fire started in the kitchen.",
+          "zh": "消防局迅速反應，廚房起火時沒有人受傷。"
+        },
+        {
+          "en": "If the government does not act swiftly, the price of rice may continue to rise for several months.",
+          "zh": "如果政府不迅速行動，米價可能會持續上漲好幾個月。"
+        }
+      ],
+      "distractors": [
+        "swiftness",
+        "shiftily",
+        "stiffly"
+      ],
+      "note": "語塊：act swiftly（迅速行動）、respond swiftly（迅速回應）、move swiftly（快速推進）。swiftly 是 swift（迅速的）的副詞；quickly 意思一樣；shiftily 是「狡猾地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-securely",
+      "word": "securely",
+      "pos": "副詞",
+      "meaning": "安全地；牢固地",
+      "sentences": [
+        {
+          "en": "All customer information is stored securely on our servers and cannot be seen by anyone outside the company.",
+          "zh": "所有顧客資料都安全地存放在我們的伺服器上，公司以外的人無法看到。"
+        },
+        {
+          "en": "Please make sure your seat belt is fastened securely before the plane takes off and during the whole flight.",
+          "zh": "飛機起飛前和整個飛行期間，請確認安全帶已牢牢繫緊。"
+        },
+        {
+          "en": "The doors of the warehouse must be securely locked every night after the last delivery truck leaves.",
+          "zh": "每天晚上最後一台送貨卡車離開後，倉庫的門都必須牢牢鎖上。"
+        },
+        {
+          "en": "Packages are wrapped securely in thick paper so that nothing inside is damaged during delivery.",
+          "zh": "包裹都用厚紙牢牢包好，讓裡面的東西在運送中不會損壞。"
+        },
+        {
+          "en": "Employees can now pay their bills securely through the company's new mobile app without visiting the bank.",
+          "zh": "員工現在可以透過公司的新手機 App 安全地繳帳單，不用跑銀行。"
+        }
+      ],
+      "distractors": [
+        "surely",
+        "severely",
+        "sincerely"
+      ],
+      "note": "語塊：store securely（安全地保存）、fasten securely（牢牢繫緊）、securely locked（牢牢鎖上）。securely 是 secure（安全的；牢固的）的副詞；safely 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-blizzard",
+      "word": "blizzard",
+      "pos": "名詞",
+      "meaning": "暴風雪",
+      "sentences": [
+        {
+          "en": "All flights from the airport were canceled yesterday because of a severe blizzard that lasted for twelve hours.",
+          "zh": "因為一場持續十二小時的嚴重暴風雪，昨天機場所有航班都取消了。"
+        },
+        {
+          "en": "The government issued a blizzard warning, so most schools and offices in the city will be closed tomorrow.",
+          "zh": "政府發布了暴風雪警報，所以市區大部分的學校和辦公室明天都會關閉。"
+        },
+        {
+          "en": "The delivery company warned customers that packages might arrive late because of the blizzard in the north.",
+          "zh": "貨運公司提醒顧客，因為北部的暴風雪，包裹可能會晚到。"
+        },
+        {
+          "en": "Several drivers were stuck on the highway for hours during the blizzard until rescue teams arrived.",
+          "zh": "暴風雪期間，好幾位駕駛被困在高速公路上好幾個小時，直到救援隊抵達。"
+        },
+        {
+          "en": "Please stay indoors during the blizzard warning and do not drive unless it is an emergency.",
+          "zh": "暴風雪警報期間請待在室內，除非緊急情況否則不要開車。"
+        }
+      ],
+      "distractors": [
+        "buzzard",
+        "lizard",
+        "wizard"
+      ],
+      "note": "語塊：severe blizzard（嚴重的暴風雪）、blizzard warning（暴風雪警報）。blizzard 是強風加大雪的「暴風雪」；snowstorm 意思接近但較弱；hailstorm 是「冰雹」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-visibility",
+      "word": "visibility",
+      "pos": "名詞",
+      "meaning": "能見度；曝光度",
+      "sentences": [
+        {
+          "en": "The flight was delayed because of poor visibility caused by thick fog over the airport.",
+          "zh": "班機因為機場上空濃霧造成的能見度差而延誤。"
+        },
+        {
+          "en": "Drivers should slow down and turn on their lights when there is low visibility on the highway.",
+          "zh": "高速公路上能見度低時，駕駛應該減速並打開車燈。"
+        },
+        {
+          "en": "Advertising on social media can increase visibility for small businesses that do not have a large budget.",
+          "zh": "在社群媒體打廣告可以為預算不多的小公司提高曝光度。"
+        },
+        {
+          "en": "The marketing team hopes the sports event will increase visibility of our brand among young people.",
+          "zh": "行銷團隊希望這場運動賽事能提高我們品牌在年輕人之間的曝光度。"
+        },
+        {
+          "en": "Because of poor visibility, the ferry service between the two islands was stopped for the whole afternoon.",
+          "zh": "因為能見度差，兩座島之間的渡輪服務整個下午都停駛。"
+        }
+      ],
+      "distractors": [
+        "availability",
+        "vision",
+        "viability"
+      ],
+      "note": "語塊：poor visibility（能見度差）、low visibility（能見度低）、increase visibility（提高曝光度）。visibility 是 visible（看得見的）的名詞；可以指天氣的「能見度」或品牌的「曝光度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sincerely",
+      "word": "sincerely",
+      "pos": "副詞",
+      "meaning": "真誠地；衷心地",
+      "sentences": [
+        {
+          "en": "We sincerely apologize for the delay in your order and will give you a discount on your next purchase.",
+          "zh": "我們對您訂單的延誤誠心道歉，下次購物會給您折扣。"
+        },
+        {
+          "en": "I sincerely hope that you will be able to attend our anniversary dinner at the hotel next Friday.",
+          "zh": "我衷心希望您能參加下週五在飯店舉行的週年晚宴。"
+        },
+        {
+          "en": "The manager sincerely thanked the team for working late every night to finish the project on time.",
+          "zh": "經理真誠地感謝團隊每天晚上加班，準時完成專案。"
+        },
+        {
+          "en": "The company would like to sincerely apologize to all passengers who were affected by the cancellation of the flight.",
+          "zh": "公司想向所有受到航班取消影響的乘客誠心道歉。"
+        },
+        {
+          "en": "We sincerely hope that the new schedule will make it easier for employees to balance work and family life.",
+          "zh": "我們衷心希望新的班表能讓員工更容易兼顧工作和家庭生活。"
+        }
+      ],
+      "distractors": [
+        "securely",
+        "severely",
+        "seriously"
+      ],
+      "note": "語塊：sincerely apologize（誠心道歉）、sincerely hope（衷心希望）、Yours sincerely（敬上）。sincerely 是 sincere（真誠的）的副詞；常用在信件結尾 Sincerely / Yours sincerely。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transit",
+      "word": "transit",
+      "pos": "名詞",
+      "meaning": "運輸；轉運；大眾運輸",
+      "sentences": [
+        {
+          "en": "The package is still in transit, but it should arrive at your office by Thursday afternoon.",
+          "zh": "包裹還在運送中，但應該會在週四下午前送到你的辦公室。"
+        },
+        {
+          "en": "Many people in the city use public transit to get to work because parking downtown is very expensive.",
+          "zh": "市區很多人搭大眾運輸上班，因為市中心停車非常貴。"
+        },
+        {
+          "en": "Each transit passenger must stay in the airport and show a boarding pass for the next flight.",
+          "zh": "每位轉機旅客都必須待在機場內，並出示下一班飛機的登機證。"
+        },
+        {
+          "en": "Some of the glasses were broken in transit, so we will send you a new set at no extra cost.",
+          "zh": "有些玻璃杯在運送途中破了，所以我們會免費寄一組新的給您。"
+        },
+        {
+          "en": "The government plans to improve public transit by adding more buses and extending the subway lines.",
+          "zh": "政府計畫增加公車班次、延長地鐵路線來改善大眾運輸。"
+        }
+      ],
+      "distractors": [
+        "transition",
+        "transient",
+        "transmit"
+      ],
+      "note": "語塊：in transit（運送中）、public transit（大眾運輸）、transit passenger（轉機旅客）。transit 是「運送、通過」；transition 是「轉變」；transport 是「運輸」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decline",
+      "word": "decline",
+      "pos": "動詞",
+      "meaning": "下降；婉拒",
+      "sentences": [
+        {
+          "en": "Sales of printed newspapers continue to decline sharply as more people read the news on their phones.",
+          "zh": "隨著更多人用手機看新聞，紙本報紙的銷量持續大幅下降。"
+        },
+        {
+          "en": "Mr. Hughes decided to decline the offer from the bank because he wanted to stay closer to his family.",
+          "zh": "休斯先生決定婉拒那家銀行的工作邀請，因為他想離家人近一點。"
+        },
+        {
+          "en": "Unfortunately, I must decline your invitation to the dinner because I will be on a business trip that week.",
+          "zh": "很遺憾，我必須婉拒您的晚餐邀請，因為那週我要出差。"
+        },
+        {
+          "en": "The number of visitors to the museum began to decline after the new art center opened downtown.",
+          "zh": "市中心新的藝術中心開幕後，博物館的參觀人數開始下降。"
+        },
+        {
+          "en": "The company may decline an offer to buy its factory if the price is lower than the value of the land.",
+          "zh": "如果價格低於土地價值，公司可能會婉拒收購工廠的提議。"
+        }
+      ],
+      "distractors": [
+        "recline",
+        "define",
+        "incline"
+      ],
+      "note": "語塊：decline sharply（大幅下降）、decline an offer（婉拒提議）、decline an invitation（婉拒邀請）。decline 可以是「減少、下降」或「禮貌地拒絕」；當名詞是「下降」（a decline in sales）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mention",
+      "word": "mention",
+      "pos": "動詞",
+      "meaning": "提到；提及",
+      "sentences": [
+        {
+          "en": "Please mention that you are a member of our reward program when you make a reservation by phone.",
+          "zh": "打電話訂位時，請提到你是我們獎勵方案的會員。"
+        },
+        {
+          "en": "The manager did not mention the new policy during the meeting, so many employees were surprised by the e-mail.",
+          "zh": "經理在會議中沒有提到新規定，所以很多員工看到電子郵件時都很驚訝。"
+        },
+        {
+          "en": "The hotel has a great view of the ocean, not to mention a beautiful pool and an excellent restaurant.",
+          "zh": "那家飯店有很棒的海景，更不用說還有漂亮的游泳池和很棒的餐廳。"
+        },
+        {
+          "en": "In his speech, the CEO will mention that the company plans to open three new stores in Asia next year.",
+          "zh": "執行長會在演講中提到，公司明年打算在亞洲開三家新店。"
+        },
+        {
+          "en": "Did the client mention whether she would like to meet on Tuesday or Wednesday next week?",
+          "zh": "客戶有提到她想在下週二還是週三見面嗎？"
+        }
+      ],
+      "distractors": [
+        "mansion",
+        "menu",
+        "motion"
+      ],
+      "note": "語塊：mention that（提到……）、as mentioned（如前所述）、not to mention（更不用說）。mention 後面直接接受詞，不加 about（mention the problem）；當名詞是「提及」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-satisfactory",
+      "word": "satisfactory",
+      "pos": "形容詞",
+      "meaning": "令人滿意的；符合要求的",
+      "sentences": [
+        {
+          "en": "After three months of testing, the engineers finally achieved a satisfactory result with the new battery.",
+          "zh": "經過三個月的測試，工程師終於在新電池上得到令人滿意的結果。"
+        },
+        {
+          "en": "Employees who show satisfactory performance during the probation period will be offered a permanent contract.",
+          "zh": "試用期間表現合格的員工會獲得正式合約。"
+        },
+        {
+          "en": "The customer said that the service at the hotel was less than satisfactory and asked for a partial refund.",
+          "zh": "那位顧客說飯店的服務不太令人滿意，並要求部分退款。"
+        },
+        {
+          "en": "If the quality of the products is not satisfactory, we will replace them or give you your money back.",
+          "zh": "如果產品品質不令人滿意，我們會更換或退款給您。"
+        },
+        {
+          "en": "The report says the factory's safety standards are satisfactory, but there are still a few areas to improve.",
+          "zh": "報告說工廠的安全標準符合要求，但還是有幾個地方需要改進。"
+        }
+      ],
+      "distractors": [
+        "satisfied",
+        "sanitary",
+        "statutory"
+      ],
+      "note": "語塊：satisfactory result（令人滿意的結果）、satisfactory performance（合格的表現）、less than satisfactory（不太令人滿意）。satisfactory 是「夠好、符合標準的」；satisfied 是「（人）感到滿意的」；satisfying 是「令人滿足的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unfortunately",
+      "word": "unfortunately",
+      "pos": "副詞",
+      "meaning": "不幸地；遺憾的是",
+      "sentences": [
+        {
+          "en": "Unfortunately, the item you ordered is out of stock, but we can send it to you next week.",
+          "zh": "很遺憾，您訂購的商品缺貨，但我們下週可以寄給您。"
+        },
+        {
+          "en": "The outdoor event was unfortunately canceled because of the heavy rain, so all tickets will be refunded.",
+          "zh": "戶外活動很遺憾地因大雨取消，所以所有門票都會退款。"
+        },
+        {
+          "en": "Unfortunately, Ms. Brown will not be able to attend the meeting because her flight from London was delayed.",
+          "zh": "很遺憾，布朗小姐無法參加會議，因為她從倫敦出發的班機延誤了。"
+        },
+        {
+          "en": "We received many excellent applications, but unfortunately we can only offer the position to one person.",
+          "zh": "我們收到很多很優秀的申請，但很遺憾，這個職位只能錄取一個人。"
+        },
+        {
+          "en": "Unfortunately, the restaurant is fully booked on Friday evening, so would you like a table on Saturday instead?",
+          "zh": "很遺憾，餐廳週五晚上已經訂滿了，您要改訂週六的位子嗎？"
+        }
+      ],
+      "distractors": [
+        "fortunately",
+        "unintentionally",
+        "unnecessarily"
+      ],
+      "note": "語塊：unfortunately, …（很遺憾，……）。unfortunately 常放句首表示「很遺憾」；fortunately 是相反「幸好」；unfortunate 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disregard",
+      "word": "disregard",
+      "pos": "動詞",
+      "meaning": "忽視；不理會",
+      "sentences": [
+        {
+          "en": "If you have already paid your bill, please disregard this message and accept our thanks.",
+          "zh": "如果您已經繳費，請忽略這則訊息，並接受我們的感謝。"
+        },
+        {
+          "en": "Workers who disregard the safety rules in the factory may be asked to leave their jobs.",
+          "zh": "在工廠裡無視安全規定的工人可能會被要求離職。"
+        },
+        {
+          "en": "Some drivers disregard the warning signs and drive too fast on the narrow mountain road.",
+          "zh": "有些駕駛不理警告標誌，在狹窄的山路上開太快。"
+        },
+        {
+          "en": "Please disregard the e-mail you received this morning, because it contained the wrong meeting time.",
+          "zh": "請忽略您今天早上收到的電子郵件，因為裡面的會議時間錯了。"
+        },
+        {
+          "en": "Managers should never disregard complaints from customers, even if they seem small or unimportant at first.",
+          "zh": "主管絕對不應該忽視顧客的抱怨，即使一開始看起來很小或不重要。"
+        }
+      ],
+      "distractors": [
+        "regard",
+        "discard",
+        "dismiss"
+      ],
+      "note": "語塊：please disregard（請忽略）、disregard the rules（無視規定）、disregard the warning（不理警告）。disregard 是「不理會、不當一回事」；ignore 意思接近；regard 是「看待」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hazardous",
+      "word": "hazardous",
+      "pos": "形容詞",
+      "meaning": "有危險的；有害的",
+      "sentences": [
+        {
+          "en": "Workers must wear gloves and masks when they handle hazardous materials in the laboratory or the storage room.",
+          "zh": "工人在實驗室或儲藏室處理有害物質時必須戴手套和口罩。"
+        },
+        {
+          "en": "The factory pays a special company to remove its hazardous waste safely from the site every month.",
+          "zh": "工廠每個月付錢請專門的公司從廠區安全地清除有害廢棄物。"
+        },
+        {
+          "en": "Because of hazardous conditions on the roads, the city asked residents to stay at home during the storm.",
+          "zh": "因為道路狀況危險，市政府請居民在暴風雨期間待在家裡。"
+        },
+        {
+          "en": "Batteries are hazardous waste, so please do not throw them away with your normal garbage.",
+          "zh": "電池是有害廢棄物，所以請不要和一般垃圾一起丟掉。"
+        },
+        {
+          "en": "All containers of hazardous materials must have clear labels that explain how to store them safely.",
+          "zh": "所有裝有害物質的容器都必須有清楚的標籤，說明如何安全存放。"
+        }
+      ],
+      "distractors": [
+        "harmonious",
+        "humorous",
+        "hazy"
+      ],
+      "note": "語塊：hazardous materials（有害物質）、hazardous waste（有害廢棄物）、hazardous conditions（危險的狀況）。hazardous 是 hazard（危險）的形容詞；dangerous 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-seasoned",
+      "word": "seasoned",
+      "pos": "形容詞",
+      "meaning": "經驗豐富的；調味過的",
+      "sentences": [
+        {
+          "en": "The company hired a seasoned professional with twenty years of experience to manage its overseas offices.",
+          "zh": "公司雇用了一位有二十年經驗的資深專業人士來管理海外辦公室。"
+        },
+        {
+          "en": "As a seasoned traveler, Ms. Wong always packs light and never checks in any luggage.",
+          "zh": "身為旅行老手，王小姐總是輕裝出門，從不託運行李。"
+        },
+        {
+          "en": "The chicken is seasoned with garlic, lemon, and fresh herbs before it is grilled over an open fire.",
+          "zh": "雞肉在明火燒烤前會先用大蒜、檸檬和新鮮香草調味。"
+        },
+        {
+          "en": "The new project manager is a seasoned professional who has worked on many large construction projects.",
+          "zh": "新的專案經理是一位資深專業人士，參與過很多大型建設案。"
+        },
+        {
+          "en": "Even a seasoned traveler can get lost in this city because the streets are narrow and the signs are confusing.",
+          "zh": "即使是旅行老手在這座城市也會迷路，因為街道很窄、路標也很混亂。"
+        }
+      ],
+      "distractors": [
+        "seasonal",
+        "reasoned",
+        "seated"
+      ],
+      "note": "語塊：seasoned professional（資深專業人士）、seasoned traveler（旅行老手）、seasoned with（用……調味）。seasoned 指人時是「老練的」（= experienced）；指食物時是「調味過的」；season 是「季節；調味」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-invaluable",
+      "word": "invaluable",
+      "pos": "形容詞",
+      "meaning": "非常寶貴的；無價的",
+      "sentences": [
+        {
+          "en": "Working at the international hotel gave me invaluable experience in dealing with customers from many countries.",
+          "zh": "在國際飯店工作讓我獲得和各國顧客打交道的寶貴經驗。"
+        },
+        {
+          "en": "Thank you for your invaluable advice, which helped us choose the right location for our new store.",
+          "zh": "謝謝您寶貴的建議，幫助我們為新店選對地點。"
+        },
+        {
+          "en": "The new software will prove invaluable for managers who need to check sales figures quickly.",
+          "zh": "新軟體對需要快速查看銷售數字的主管會非常有用。"
+        },
+        {
+          "en": "Ms. Ahmed has been an invaluable member of the team, and we will miss her when she retires next month.",
+          "zh": "阿哈邁德小姐一直是團隊非常寶貴的成員，她下個月退休時我們會很想念她。"
+        },
+        {
+          "en": "The mentor program gives new employees invaluable advice from people who have worked here for many years.",
+          "zh": "導師計畫讓新員工得到在這裡工作多年的人的寶貴建議。"
+        }
+      ],
+      "distractors": [
+        "valueless",
+        "invariable",
+        "unavailable"
+      ],
+      "note": "語塊：invaluable experience（寶貴的經驗）、invaluable advice（寶貴的建議）、prove invaluable（證明非常有用）。invaluable 是「非常有價值的」，不是「沒價值」！沒價值是 valueless 或 worthless。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-put-off",
+      "word": "put off",
+      "pos": "片語動詞",
+      "meaning": "延後；推遲",
+      "sentences": [
+        {
+          "en": "The manager had to put off the meeting until Friday because several team members were sick this week.",
+          "zh": "因為這週好幾位組員生病，經理不得不把會議延到週五。"
+        },
+        {
+          "en": "The board decided to put off a decision about the new factory until the market research is finished.",
+          "zh": "董事會決定等市場調查完成後再做新工廠的決定。"
+        },
+        {
+          "en": "Many people put off doing their taxes until the last week, so the tax office is always very busy in May.",
+          "zh": "很多人把報稅拖到最後一週，所以稅務局五月總是非常忙。"
+        },
+        {
+          "en": "Please do not put off the repairs any longer, because the broken window could cause an accident.",
+          "zh": "請不要再延後修理了，因為破掉的窗戶可能會造成意外。"
+        },
+        {
+          "en": "The company may put off the product launch until next year if the engineers cannot fix the problem in time.",
+          "zh": "如果工程師無法及時解決問題，公司可能會把產品發表延到明年。"
+        }
+      ],
+      "distractors": [
+        "put on",
+        "put out",
+        "put up"
+      ],
+      "note": "語塊：put off a meeting（延後會議）、put off a decision（延後決定）、put off doing（延後做……）。put off 後面接名詞或 V-ing（put off making a decision）；postpone 意思一樣，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accommodation",
+      "word": "accommodation",
+      "pos": "名詞",
+      "meaning": "住宿；住處",
+      "sentences": [
+        {
+          "en": "The price of the conference includes hotel accommodation for three nights and all meals during the event.",
+          "zh": "研討會的價格包含三晚的飯店住宿和活動期間的所有餐點。"
+        },
+        {
+          "en": "Our travel department will arrange accommodation for all employees who are attending the training in Seoul.",
+          "zh": "我們的旅遊部門會為所有參加首爾訓練的員工安排住宿。"
+        },
+        {
+          "en": "The company will pay all accommodation costs for staff who travel to other cities for work.",
+          "zh": "公司會支付因公到其他城市出差員工的所有住宿費。"
+        },
+        {
+          "en": "Students who come from other countries can find cheap accommodation in the area near the university campus.",
+          "zh": "從其他國家來的學生可以在大學校園附近一帶找到便宜的住處。"
+        },
+        {
+          "en": "Please send your receipts for accommodation costs to the accounting office within a week of your return.",
+          "zh": "請在回來後一週內把住宿費的收據交給會計室。"
+        }
+      ],
+      "distractors": [
+        "accumulation",
+        "recommendation",
+        "accomplishment"
+      ],
+      "note": "語塊：hotel accommodation（飯店住宿）、arrange accommodation（安排住宿）、accommodation costs（住宿費）。accommodation 是「住宿」；英式常用不可數，美式常用複數 accommodations；accommodate 是動詞「容納」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
