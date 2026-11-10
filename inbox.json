@@ -73868,6 +73868,706 @@
       ],
       "note": "語塊：tentatively scheduled（暫定）、tentatively planned（初步計畫）。tentatively 是「先暫時這樣決定，之後可能改」；tentative 是形容詞「暫定的」；temporarily 是「暫時地」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-networking",
+      "word": "networking",
+      "pos": "名詞",
+      "meaning": "建立人脈；聯網",
+      "sentences": [
+        {
+          "en": "The conference includes a networking event on Friday evening where attendees can meet potential clients.",
+          "zh": "研討會週五晚上有一場交流活動，參加者可以認識潛在客戶。"
+        },
+        {
+          "en": "Joining the alumni association is a great networking opportunity for recent graduates looking for jobs.",
+          "zh": "加入校友會對正在找工作的應屆畢業生來說是拓展人脈的好機會。"
+        },
+        {
+          "en": "Many people find new jobs through networking with friends and colleagues rather than by answering advertisements online.",
+          "zh": "很多人是透過朋友和同事的人脈找到新工作，而不是應徵網路上的廣告。"
+        },
+        {
+          "en": "The networking event will be held at a hotel downtown, and drinks and snacks will be provided.",
+          "zh": "交流活動將在市中心一家飯店舉行，會提供飲料和點心。"
+        },
+        {
+          "en": "Trade shows offer an excellent networking opportunity for small companies that want to find new suppliers.",
+          "zh": "展覽為想找新供應商的小公司提供拓展人脈的絕佳機會。"
+        }
+      ],
+      "distractors": [
+        "netting",
+        "working",
+        "notarizing"
+      ],
+      "note": "語塊：networking event（交流活動）、networking opportunity（拓展人脈的機會）。networking 是「認識新的人、建立工作人脈」；network 是「網路；人脈」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-portion",
+      "word": "portion",
+      "pos": "名詞",
+      "meaning": "部分；一份",
+      "sentences": [
+        {
+          "en": "The restaurant serves a large portion of rice with every dish, so many customers take food home in a box.",
+          "zh": "那家餐廳每道菜都配大份量的飯，所以很多顧客會打包帶回家。"
+        },
+        {
+          "en": "A portion of the profits from every sale will be donated to the children's hospital this month.",
+          "zh": "這個月每筆銷售的一部分利潤將捐給兒童醫院。"
+        },
+        {
+          "en": "Only a small portion of the budget was spent on advertising, because most of it went to new machines.",
+          "zh": "只有一小部分預算花在廣告上，因為大部分都用在新機器。"
+        },
+        {
+          "en": "The first portion of the training is online, and the second part will take place in the office.",
+          "zh": "訓練的第一部分在線上，第二部分在辦公室進行。"
+        },
+        {
+          "en": "A large portion of our customers are young families who live in the apartments near the store.",
+          "zh": "我們很大一部分的顧客是住在店附近公寓的年輕家庭。"
+        }
+      ],
+      "distractors": [
+        "potion",
+        "position",
+        "proportion"
+      ],
+      "note": "語塊：large portion（大份量）、portion of（……的一部分）、a portion of the profits（一部分利潤）。portion 是「一部分」或餐點的「一份」；part 意思接近；proportion 是「比例」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outstanding",
+      "word": "outstanding",
+      "pos": "形容詞",
+      "meaning": "傑出的；未付清的",
+      "sentences": [
+        {
+          "en": "Ms. Park received an award for her outstanding performance in sales during the past year.",
+          "zh": "朴小姐因為過去一年在業務上的傑出表現獲獎。"
+        },
+        {
+          "en": "Please pay the outstanding balance on your account by the end of the month to avoid a late fee.",
+          "zh": "請在月底前付清帳戶的未付餘額，以免產生滯納金。"
+        },
+        {
+          "en": "The hotel won the award for outstanding service because its staff always go the extra mile for guests.",
+          "zh": "那家飯店獲得卓越服務獎，因為員工總是為客人多做一步。"
+        },
+        {
+          "en": "The new manager has done an outstanding job of improving communication between the departments this year.",
+          "zh": "新經理今年在改善部門之間的溝通上做得非常出色。"
+        },
+        {
+          "en": "Several invoices from last year are still outstanding, so the accounting team will contact the clients.",
+          "zh": "去年有幾張請款單還沒付清，所以會計團隊會聯絡客戶。"
+        }
+      ],
+      "distractors": [
+        "outgoing",
+        "understanding",
+        "outlasting"
+      ],
+      "note": "語塊：outstanding performance（傑出表現）、outstanding balance（未付餘額）、outstanding service（卓越服務）。outstanding 有「非常優秀的」和「還沒付清或處理的」兩個意思；excellent 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-periodically",
+      "word": "periodically",
+      "pos": "副詞",
+      "meaning": "定期地；週期性地",
+      "sentences": [
+        {
+          "en": "Please check your e-mail periodically during the trip, because the client may need to contact you.",
+          "zh": "出差期間請定期查看電子郵件，因為客戶可能需要聯絡你。"
+        },
+        {
+          "en": "The company updates its prices periodically to match the changing cost of materials and shipping.",
+          "zh": "公司會定期更新價格，以配合變動的材料和運輸成本。"
+        },
+        {
+          "en": "Workers must check the machines periodically to make sure that they are working safely and correctly.",
+          "zh": "工人必須定期檢查機器，確保它們安全且正確地運作。"
+        },
+        {
+          "en": "The website is updated periodically with news about new products, upcoming events, and special offers.",
+          "zh": "網站會定期更新新產品、近期活動和特別優惠的消息。"
+        },
+        {
+          "en": "Managers should periodically meet with their team to discuss goals and any problems they face.",
+          "zh": "主管應該定期和團隊開會，討論目標和遇到的任何問題。"
+        }
+      ],
+      "distractors": [
+        "particularly",
+        "practically",
+        "politically"
+      ],
+      "note": "語塊：check periodically（定期檢查）、update periodically（定期更新）。periodically 是「每隔一段時間」；regularly 意思接近；periodic 是形容詞「定期的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pose",
+      "word": "pose",
+      "pos": "動詞",
+      "meaning": "造成（問題、威脅）；擺姿勢",
+      "sentences": [
+        {
+          "en": "Old electrical wires can pose a risk of fire, so the building owner will replace them next month.",
+          "zh": "舊電線可能造成火災風險，所以屋主下個月會更換。"
+        },
+        {
+          "en": "Strong winds may pose a problem for flights tomorrow, so passengers should check the airline's website.",
+          "zh": "強風可能會對明天的航班造成問題，所以乘客應查看航空公司網站。"
+        },
+        {
+          "en": "The new competitor does not pose a threat to our business, because its prices are much higher.",
+          "zh": "新競爭對手不會對我們的生意構成威脅，因為他們的價格高很多。"
+        },
+        {
+          "en": "The singer agreed to pose for photos with fans after the concert at the stadium.",
+          "zh": "那位歌手同意在體育場的演唱會後和粉絲合照。"
+        },
+        {
+          "en": "Heavy snow could pose a risk to drivers on the mountain roads, so the city has closed them.",
+          "zh": "大雪可能對山路上的駕駛造成風險，所以市政府封閉了道路。"
+        }
+      ],
+      "distractors": [
+        "post",
+        "pause",
+        "dose"
+      ],
+      "note": "語塊：pose a risk（造成風險）、pose a threat（構成威脅）、pose a problem（造成問題）。pose 當動詞常和 risk、threat、problem、question 連用；也可以是「擺姿勢拍照」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-risk",
+      "word": "risk",
+      "pos": "名詞",
+      "meaning": "風險；危險",
+      "sentences": [
+        {
+          "en": "Starting a new business is always a risk, but careful planning can help you succeed.",
+          "zh": "創業總是有風險，但仔細規劃可以幫助你成功。"
+        },
+        {
+          "en": "Many jobs are at risk because the factory may close at the end of the year.",
+          "zh": "很多工作岌岌可危，因為工廠可能在年底關閉。"
+        },
+        {
+          "en": "Wearing a helmet can reduce the risk of serious injury when you ride a bicycle in the city.",
+          "zh": "在市區騎自行車時戴安全帽可以降低重傷的風險。"
+        },
+        {
+          "en": "The bank did not want to take a risk, so it asked the company for more information before approving the loan.",
+          "zh": "銀行不想冒險，所以在核准貸款前要求公司提供更多資料。"
+        },
+        {
+          "en": "Washing your hands often can reduce the risk of getting sick during the winter months.",
+          "zh": "經常洗手可以降低冬季生病的風險。"
+        }
+      ],
+      "distractors": [
+        "rink",
+        "brisk",
+        "disk"
+      ],
+      "note": "語塊：take a risk（冒險）、at risk（處於危險中）、reduce the risk（降低風險）。risk 可以當名詞或動詞「冒……的風險」（risk losing）；risky 是形容詞「有風險的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convention",
+      "word": "convention",
+      "pos": "名詞",
+      "meaning": "大會；慣例",
+      "sentences": [
+        {
+          "en": "The new convention center can hold more than ten thousand people and has a large hotel next to it.",
+          "zh": "新的會議中心可以容納一萬多人，旁邊還有一家大飯店。"
+        },
+        {
+          "en": "The annual convention of the restaurant association will be held in Tokyo this year for the first time.",
+          "zh": "餐飲協會的年度大會今年將首次在東京舉行。"
+        },
+        {
+          "en": "In many countries, it is a social convention to bring a small gift when you visit someone's home.",
+          "zh": "在很多國家，去別人家拜訪時帶個小禮物是一種社會慣例。"
+        },
+        {
+          "en": "Hotels near the convention center are usually fully booked during large international events and trade shows.",
+          "zh": "大型國際活動和展覽期間，會議中心附近的飯店通常都客滿。"
+        },
+        {
+          "en": "More than five hundred companies will display their products at the annual convention next month.",
+          "zh": "下個月的年度大會將有五百多家公司展示產品。"
+        }
+      ],
+      "distractors": [
+        "conversion",
+        "contention",
+        "invention"
+      ],
+      "note": "語塊：convention center（會議中心）、annual convention（年度大會）、social convention（社會慣例）。convention 是大型的「大會、展會」或「習俗、慣例」；conventional 是「傳統的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tidy",
+      "word": "tidy",
+      "pos": "形容詞",
+      "meaning": "整齊的；整潔的",
+      "sentences": [
+        {
+          "en": "Please keep your desk tidy, because clients often walk through the office during the day.",
+          "zh": "請保持桌面整潔，因為白天客戶常常會經過辦公室。"
+        },
+        {
+          "en": "The hotel rooms are always neat and tidy, and the staff clean them carefully every morning.",
+          "zh": "飯店房間總是整齊乾淨，員工每天早上都仔細打掃。"
+        },
+        {
+          "en": "After the party, everyone helped to tidy up the meeting room and the kitchen before going home.",
+          "zh": "派對結束後，大家在回家前都幫忙收拾會議室和廚房。"
+        },
+        {
+          "en": "A tidy workplace helps employees find things quickly and work more efficiently every single day of the week.",
+          "zh": "每天保持整潔的工作場所幫助員工快速找到東西，工作更有效率。"
+        },
+        {
+          "en": "The store manager asks staff to keep the shelves tidy so that customers can find products easily.",
+          "zh": "店長要求員工保持貨架整齊，讓顧客容易找到商品。"
+        }
+      ],
+      "distractors": [
+        "tiny",
+        "tide",
+        "timid"
+      ],
+      "note": "語塊：keep tidy（保持整潔）、neat and tidy（整齊乾淨）、tidy up（收拾）。tidy 可以當形容詞或動詞（tidy up 是「整理」）；neat 意思接近；messy 是相反「凌亂的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hourly-rate",
+      "word": "hourly rate",
+      "pos": "名詞",
+      "meaning": "時薪；按小時計費",
+      "sentences": [
+        {
+          "en": "The company pays part-time workers an hourly rate of fifteen dollars, which is higher than in most stores.",
+          "zh": "公司給兼職員工每小時十五元的時薪，比大部分店家高。"
+        },
+        {
+          "en": "The lawyer charges an hourly rate, so please prepare your questions before the meeting to save time.",
+          "zh": "律師按小時計費，所以請在會面前準備好問題以節省時間。"
+        },
+        {
+          "en": "Workers who work on national holidays receive twice their normal hourly rate for every hour they work.",
+          "zh": "在國定假日上班的員工每工作一小時可以領平常兩倍的時薪。"
+        },
+        {
+          "en": "The consultant's hourly rate is high, but her advice saved the company thousands of dollars.",
+          "zh": "那位顧問的時薪很高，但她的建議幫公司省下了數千元。"
+        },
+        {
+          "en": "Please write your hourly rate and the number of hours you worked on the invoice.",
+          "zh": "請在請款單上寫明你的時薪和工作時數。"
+        }
+      ],
+      "distractors": [
+        "hourly wage",
+        "exchange rate",
+        "flat rate"
+      ],
+      "note": "語塊：hourly rate of（每小時……）、charge an hourly rate（按時計費）。hourly 是「每小時的」；rate 是「費率；比率」；salary 是「月薪；年薪」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-public-relations",
+      "word": "public relations",
+      "pos": "名詞",
+      "meaning": "公共關係；公關",
+      "sentences": [
+        {
+          "en": "The company hired a public relations firm to improve its image after the problems with its products.",
+          "zh": "產品出問題後，公司雇用了一家公關公司來改善形象。"
+        },
+        {
+          "en": "Ms. Chen works in public relations and writes press releases for several large companies in the city.",
+          "zh": "陳小姐從事公關工作，為市內幾家大公司撰寫新聞稿。"
+        },
+        {
+          "en": "The public relations department will prepare a statement for the newspapers about the new factory.",
+          "zh": "公關部會準備一份關於新工廠的聲明給報社。"
+        },
+        {
+          "en": "Good public relations can help a small business become well known without spending much on advertising.",
+          "zh": "好的公關能幫助小公司在不花大筆廣告費的情況下打響知名度。"
+        },
+        {
+          "en": "Please send all questions from reporters to the public relations department instead of answering them yourself.",
+          "zh": "請把所有記者的問題轉給公關部，不要自己回答。"
+        }
+      ],
+      "distractors": [
+        "human resources",
+        "customer service",
+        "labor relations"
+      ],
+      "note": "語塊：public relations firm（公關公司）、public relations department（公關部）、work in public relations（從事公關）。public relations 常縮寫成 PR；relation 是「關係」；publicity 是「宣傳；曝光」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-restructure",
+      "word": "restructure",
+      "pos": "動詞",
+      "meaning": "重組；改組",
+      "sentences": [
+        {
+          "en": "The new CEO plans to restructure the company so that decisions can be made more quickly.",
+          "zh": "新任執行長打算重組公司，讓決策能更快做出。"
+        },
+        {
+          "en": "The board decided to restructure the sales department after profits fell for three consecutive quarters.",
+          "zh": "獲利連續三季下滑後，董事會決定改組業務部。"
+        },
+        {
+          "en": "The bank agreed to help the small company restructure its debt so that it could keep operating.",
+          "zh": "銀行同意協助那家小公司重整債務，讓它能繼續營運。"
+        },
+        {
+          "en": "Several managers will lose their positions when the company decides to restructure its offices in Europe.",
+          "zh": "公司決定重組歐洲辦公室時，好幾位經理會失去職位。"
+        },
+        {
+          "en": "The consultant suggested that we restructure the team into smaller groups that focus on different customers.",
+          "zh": "顧問建議我們把團隊重組成專注不同客群的小組。"
+        }
+      ],
+      "distractors": [
+        "reconstruct",
+        "restrict",
+        "restore"
+      ],
+      "note": "語塊：restructure the company（重組公司）、restructure the department（改組部門）、restructure debt（重整債務）。restructure 是「重新安排組織或結構」；reorganize 意思接近；restructuring 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lately",
+      "word": "lately",
+      "pos": "副詞",
+      "meaning": "最近；近來",
+      "sentences": [
+        {
+          "en": "The office has been very busy lately because many clients want their projects finished before the holidays.",
+          "zh": "辦公室最近非常忙，因為很多客戶希望專案在假期前完成。"
+        },
+        {
+          "en": "Sales of electric bicycles have increased sharply lately, especially among people who commute to work.",
+          "zh": "電動自行車的銷量最近大幅增加，特別是通勤上班的人。"
+        },
+        {
+          "en": "Have you noticed that the trains have been late lately, especially in the morning rush hour?",
+          "zh": "你有注意到最近火車常常誤點嗎？特別是早上尖峰時段。"
+        },
+        {
+          "en": "Lately, many customers have asked whether the store will open on Sundays and national holidays as well.",
+          "zh": "最近很多顧客問店家週日和國定假日是否也會營業。"
+        },
+        {
+          "en": "The weather has been very cold lately, so the café has been selling more hot drinks than usual.",
+          "zh": "最近天氣非常冷，所以咖啡廳的熱飲賣得比平常多。"
+        }
+      ],
+      "distractors": [
+        "later",
+        "lastly",
+        "latterly"
+      ],
+      "note": "語塊：lately, …（最近……）、have been busy lately（最近很忙）。lately 常和現在完成式一起用；recently 意思接近；late 是「晚的；遲的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-station",
+      "word": "station",
+      "pos": "名詞",
+      "meaning": "車站；站點",
+      "sentences": [
+        {
+          "en": "The hotel is only a five-minute walk from the central train station, so it is easy to reach.",
+          "zh": "飯店離中央火車站走路只要五分鐘，所以很容易到。"
+        },
+        {
+          "en": "The city plans to build a charging station in every district so that electric car owners can charge their cars easily.",
+          "zh": "市政府計畫在每個區蓋一座充電站，讓電動車車主方便充電。"
+        },
+        {
+          "en": "If you lose your wallet, please report it at the nearest police station as soon as possible.",
+          "zh": "如果你的錢包掉了，請盡快到最近的警察局報案。"
+        },
+        {
+          "en": "The new train station has shops, restaurants, and a large waiting area with free wireless internet.",
+          "zh": "新火車站有商店、餐廳，還有一個提供免費無線網路的大型候車區。"
+        },
+        {
+          "en": "There is a charging station in the parking garage, and hotel guests can use it at no extra cost.",
+          "zh": "停車場裡有一座充電站，飯店住客可以免費使用。"
+        }
+      ],
+      "distractors": [
+        "stadium",
+        "statue",
+        "status"
+      ],
+      "note": "語塊：train station（火車站）、charging station（充電站）、police station（警察局）。station 是「站；局」；stationary 是「靜止的」；stationery 是「文具」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-job-advertisement",
+      "word": "job advertisement",
+      "pos": "名詞",
+      "meaning": "徵才廣告",
+      "sentences": [
+        {
+          "en": "The company will place a job advertisement in several newspapers and on its website next week.",
+          "zh": "公司下週會在好幾家報紙和公司網站上刊登徵才廣告。"
+        },
+        {
+          "en": "Ms. Kim answered a job advertisement for an assistant manager and was invited to an interview.",
+          "zh": "金小姐應徵了一則副理的徵才廣告，並受邀參加面試。"
+        },
+        {
+          "en": "Please read the job advertisement carefully, because the position requires at least three years of experience in sales.",
+          "zh": "請仔細閱讀徵才廣告，因為這個職位需要至少三年業務經驗。"
+        },
+        {
+          "en": "The job advertisement says that the salary depends on experience and that the position includes health insurance.",
+          "zh": "徵才廣告寫著薪水依經驗而定，而且這個職位有健康保險。"
+        },
+        {
+          "en": "More than two hundred people answered the job advertisement within the first three days after it was published.",
+          "zh": "刊出後頭三天就有兩百多人應徵那則徵才廣告。"
+        }
+      ],
+      "distractors": [
+        "job description",
+        "job offer",
+        "job fair"
+      ],
+      "note": "語塊：place a job advertisement（刊登徵才廣告）、answer a job advertisement（應徵廣告）。job advertisement 也常說 job ad 或 job posting；advertisement 是「廣告」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-by-all-means",
+      "word": "by all means",
+      "pos": "其他",
+      "meaning": "當然可以；務必",
+      "sentences": [
+        {
+          "en": "If you have any questions about the contract, by all means call me at any time this week.",
+          "zh": "如果你對合約有任何問題，這週當然隨時都可以打給我。"
+        },
+        {
+          "en": "By all means take a short break if you feel tired, because we still have two hours of work left.",
+          "zh": "如果覺得累，當然可以稍微休息一下，因為我們還有兩小時的工作。"
+        },
+        {
+          "en": "If you are interested in the position, by all means send us your résumé before the end of the month.",
+          "zh": "如果你對這個職位有興趣，務必在月底前寄履歷給我們。"
+        },
+        {
+          "en": "You can by all means bring your family to the company party, because it is a family event.",
+          "zh": "你當然可以帶家人來公司派對，因為這是家庭活動。"
+        },
+        {
+          "en": "If you would like to see the factory, by all means let us know and we will arrange a tour.",
+          "zh": "如果你想參觀工廠，務必告訴我們，我們會安排參觀。"
+        }
+      ],
+      "distractors": [
+        "by no means",
+        "by any means",
+        "by means of"
+      ],
+      "note": "語塊：by all means, …（當然可以……）。by all means 是很客氣地「當然可以、請便」；by no means 是相反「絕不」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prefer",
+      "word": "prefer",
+      "pos": "動詞",
+      "meaning": "比較喜歡；偏好",
+      "sentences": [
+        {
+          "en": "Many busy customers prefer shopping online to visiting stores because it saves a lot of time.",
+          "zh": "很多忙碌的顧客比起逛實體店更喜歡網購，因為省很多時間。"
+        },
+        {
+          "en": "Ms. Lee would prefer to take the train to work, because she can read or check her e-mails on the way.",
+          "zh": "李小姐比較想搭火車上班，因為途中可以看書或查看電子郵件。"
+        },
+        {
+          "en": "Some employees prefer to work from home, while others like the quiet atmosphere of the office.",
+          "zh": "有些員工比較喜歡在家工作，其他人則喜歡辦公室安靜的氣氛。"
+        },
+        {
+          "en": "Do you prefer a window seat or an aisle seat for your flight to Tokyo next week?",
+          "zh": "你下週飛東京比較想要靠窗還是靠走道的座位？"
+        },
+        {
+          "en": "Many young people prefer to rent apartments in the city instead of buying houses in the suburbs.",
+          "zh": "很多年輕人比較想在城市租公寓，而不是在郊區買房子。"
+        }
+      ],
+      "distractors": [
+        "refer",
+        "offer",
+        "proffer"
+      ],
+      "note": "語塊：prefer A to B（比起 B 更喜歡 A）、prefer to do（比較想做……）。prefer A to B 用 to，不用 than；preference 是名詞「偏好」；preferable 是「較好的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-athlete",
+      "word": "athlete",
+      "pos": "名詞",
+      "meaning": "運動員",
+      "sentences": [
+        {
+          "en": "The sports company hired a famous professional athlete to appear in its new television commercial.",
+          "zh": "那家運動用品公司請了一位知名職業運動員拍新的電視廣告。"
+        },
+        {
+          "en": "The program gives every young athlete in the city the chance to train with experienced coaches every weekend.",
+          "zh": "這個計畫讓城市裡每位年輕運動員每週末都有機會和資深教練一起訓練。"
+        },
+        {
+          "en": "A top athlete usually eats a special diet and gets plenty of sleep before important competitions.",
+          "zh": "頂尖運動員在重要比賽前通常會吃特別的飲食並充分睡眠。"
+        },
+        {
+          "en": "The new shoes were designed with the help of a professional athlete who runs marathons.",
+          "zh": "新鞋是在一位跑馬拉松的職業運動員協助下設計的。"
+        },
+        {
+          "en": "The city built a new stadium so that every young athlete in the region has a good place to train.",
+          "zh": "市政府蓋了一座新體育場，讓這一區每位年輕運動員都有好地方訓練。"
+        }
+      ],
+      "distractors": [
+        "athletic",
+        "atlas",
+        "ballet"
+      ],
+      "note": "語塊：professional athlete（職業運動員）、young athlete（年輕運動員）、top athlete（頂尖運動員）。athlete 是「運動員」；athletic 是形容詞「運動的；健壯的」；athletics 是「田徑運動」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-invite",
+      "word": "invite",
+      "pos": "動詞",
+      "meaning": "邀請",
+      "sentences": [
+        {
+          "en": "The company will invite all of its employees and their families to the anniversary party next month.",
+          "zh": "公司下個月會邀請所有員工和家人參加週年派對。"
+        },
+        {
+          "en": "The university will invite Ms. Park to give a speech about her business at the university's commencement ceremony.",
+          "zh": "大學將邀請朴小姐在畢業典禮上發表關於她事業的演講。"
+        },
+        {
+          "en": "The city will invite applications from local artists to paint the walls of the new subway station.",
+          "zh": "市政府將徵求當地藝術家申請，為新地鐵站的牆面作畫。"
+        },
+        {
+          "en": "We would like to invite you to the opening of our new store on Saturday morning at ten o'clock.",
+          "zh": "我們誠摯邀請您參加週六早上十點新店的開幕。"
+        },
+        {
+          "en": "The hotel will invite a famous chef to cook a special dinner for guests during the holiday season.",
+          "zh": "飯店會邀請一位知名主廚在假期期間為客人烹調特別晚餐。"
+        }
+      ],
+      "distractors": [
+        "invent",
+        "involve",
+        "insight"
+      ],
+      "note": "語塊：invite sb to（邀請某人參加……）、be invited to（受邀……）、invite applications（徵求申請）。invite sb to + 活動 或 invite sb to do；invitation 是名詞「邀請（函）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-addition",
+      "word": "addition",
+      "pos": "名詞",
+      "meaning": "增加；新成員",
+      "sentences": [
+        {
+          "en": "In addition to a higher salary, the new job offers four weeks of paid vacation every year.",
+          "zh": "除了更高的薪水，新工作每年還有四週的帶薪假。"
+        },
+        {
+          "en": "Ms. Lin is a new addition to our sales team, and she has ten years of experience in the industry.",
+          "zh": "林小姐是我們業務團隊的新成員，她有十年的產業經驗。"
+        },
+        {
+          "en": "The new swimming pool is a great addition to the hotel, and guests can use it for free.",
+          "zh": "新游泳池是飯店很棒的新增設施，客人可以免費使用。"
+        },
+        {
+          "en": "In addition to selling furniture, the store offers interior design services for homes and offices.",
+          "zh": "除了賣家具之外，那家店還提供住家和辦公室的室內設計服務。"
+        },
+        {
+          "en": "The museum's newest addition is a large sculpture that was donated by a famous collector.",
+          "zh": "博物館最新的收藏是一位知名收藏家捐贈的大型雕塑。"
+        }
+      ],
+      "distractors": [
+        "edition",
+        "audition",
+        "tradition"
+      ],
+      "note": "語塊：in addition to（除了……之外還有）、a new addition（新成員；新增的東西）。in addition to 後面接名詞或 V-ing；additional 是形容詞「額外的」；edition 是「版本」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enjoyment",
+      "word": "enjoyment",
+      "pos": "名詞",
+      "meaning": "樂趣；享受",
+      "sentences": [
+        {
+          "en": "The hotel offers free music performances in the lobby every evening for the enjoyment of its guests.",
+          "zh": "飯店每晚在大廳提供免費音樂表演，供客人享受。"
+        },
+        {
+          "en": "Many retired people get a lot of enjoyment from gardening and walking in the park every morning.",
+          "zh": "很多退休人士從每天早上園藝和在公園散步中得到很多樂趣。"
+        },
+        {
+          "en": "The new park was designed for the enjoyment of families, with playgrounds, gardens, and walking paths.",
+          "zh": "新公園是為家庭的休閒樂趣設計的，有遊樂場、花園和步道。"
+        },
+        {
+          "en": "Reading is a great source of enjoyment, so the library offers free books for children every month.",
+          "zh": "閱讀是很大的樂趣來源，所以圖書館每個月提供兒童免費書籍。"
+        },
+        {
+          "en": "Employees work better when they get some enjoyment from their jobs and feel respected by their managers.",
+          "zh": "員工從工作中得到一些樂趣、又感到被主管尊重時，會做得更好。"
+        }
+      ],
+      "distractors": [
+        "employment",
+        "engagement",
+        "enrichment"
+      ],
+      "note": "語塊：for one's enjoyment（供……享受）、get enjoyment from（從……得到樂趣）。enjoyment 是 enjoy（享受）的名詞；pleasure 意思接近；enjoyable 是形容詞「令人愉快的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
