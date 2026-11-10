@@ -69003,6 +69003,706 @@
       ],
       "note": "語塊：look through the documents（翻閱文件）、look through the catalog（瀏覽目錄）、look through the applications（翻閱申請書）、look through every page（每一頁都看過）、look through the old files（翻找舊檔案）。look through 是「從頭到尾看一遍」；look over 是「大致檢查」；look into 是「調查」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-weeklong",
+      "word": "weeklong",
+      "pos": "形容詞",
+      "meaning": "為期一週的",
+      "sentences": [
+        {
+          "en": "The city will hold a weeklong festival in July with concerts, food markets, and fireworks every night.",
+          "zh": "市政府七月將舉辦為期一週的節慶，每晚都有音樂會、美食市集和煙火。"
+        },
+        {
+          "en": "New employees must attend a weeklong training course before they start working with customers in the stores.",
+          "zh": "新員工在開始在店裡接觸顧客之前，必須參加為期一週的訓練課程。"
+        },
+        {
+          "en": "Ms. Kim went on a weeklong trip to Japan to visit suppliers and attend a trade show in Osaka.",
+          "zh": "金小姐去日本進行為期一週的出差，拜訪供應商並參加大阪的展覽。"
+        },
+        {
+          "en": "The weeklong conference attracted more than two thousand people from over forty countries around the world.",
+          "zh": "為期一週的研討會吸引了世界各地四十多個國家、兩千多人參加。"
+        },
+        {
+          "en": "The store is having a weeklong sale with discounts of up to fifty percent on all winter clothing.",
+          "zh": "那家店正在舉行為期一週的特賣，所有冬季服飾最多打五折。"
+        }
+      ],
+      "distractors": [
+        "weekly",
+        "lifelong",
+        "weekend"
+      ],
+      "note": "語塊：weeklong festival（為期一週的節慶）、weeklong trip（一週的旅行）、weeklong training（一週的訓練）。weeklong 放在名詞前面；也可以寫成 week-long；monthlong 是「為期一個月的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entry",
+      "word": "entry",
+      "pos": "名詞",
+      "meaning": "進入；參賽作品；條目",
+      "sentences": [
+        {
+          "en": "The entry fee for the marathon is thirty dollars, which includes a T-shirt and a medal for every runner.",
+          "zh": "馬拉松的報名費是三十元，包含每位跑者的 T 恤和獎牌。"
+        },
+        {
+          "en": "Children under six can enjoy free entry to the museum, but they must be with an adult at all times.",
+          "zh": "六歲以下兒童可以免費入場，但必須隨時有大人陪同。"
+        },
+        {
+          "en": "Each designer may send only one contest entry, and the judges will choose the winner in March.",
+          "zh": "每位設計師只能寄一件參賽作品，評審會在三月選出得主。"
+        },
+        {
+          "en": "Each contest entry must include a short description of the design and a photo of the designer.",
+          "zh": "每件參賽作品都必須附上設計的簡短說明和設計師的照片。"
+        },
+        {
+          "en": "Visitors with a membership card get free entry to all of the special exhibitions this year.",
+          "zh": "持會員卡的訪客今年可以免費進入所有特展。"
+        }
+      ],
+      "distractors": [
+        "entrance",
+        "sentry",
+        "pantry"
+      ],
+      "note": "語塊：entry fee（參賽費；入場費）、free entry（免費入場）、contest entry（參賽作品）。entry 是「進入」或「參加比賽的作品」；entrance 是「入口」；enter 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-site",
+      "word": "on-site",
+      "pos": "形容詞",
+      "meaning": "現場的；就地的",
+      "sentences": [
+        {
+          "en": "The hotel offers free on-site parking for guests, so you do not need to look for a space on the street.",
+          "zh": "飯店為客人提供免費現場停車，所以你不用在街上找車位。"
+        },
+        {
+          "en": "The company provides on-site training for new workers so that they can learn how to use the machines.",
+          "zh": "公司為新工人提供現場訓練，讓他們學習如何使用機器。"
+        },
+        {
+          "en": "If you have any problems during the event, please speak to the on-site staff wearing blue jackets.",
+          "zh": "活動期間如果有任何問題，請找穿藍色夾克的現場人員。"
+        },
+        {
+          "en": "The new office building has an on-site gym and a café, which employees can use for free.",
+          "zh": "新辦公大樓有附設健身房和咖啡廳，員工可以免費使用。"
+        },
+        {
+          "en": "The factory has an on-site clinic where workers can see a nurse if they feel sick during their shift.",
+          "zh": "工廠有附設診所，工人值班時如果身體不舒服可以找護理師。"
+        }
+      ],
+      "distractors": [
+        "offsite",
+        "onside",
+        "online"
+      ],
+      "note": "語塊：on-site parking（現場停車）、on-site training（現場訓練）、on-site staff（現場人員）。on-site 是「在那個地點的」；off-site 是「在別處的」；also 可以當副詞（work on-site）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attendee",
+      "word": "attendee",
+      "pos": "名詞",
+      "meaning": "參加者；出席者",
+      "sentences": [
+        {
+          "en": "Each attendee will receive a name badge and a bag with information about the conference.",
+          "zh": "每位參加者都會拿到一個名牌和一個裝有研討會資訊的袋子。"
+        },
+        {
+          "en": "Every conference attendee can enjoy free coffee and snacks in the lobby during the morning and afternoon breaks.",
+          "zh": "每位研討會參加者在上下午休息時間都可以在大廳享用免費咖啡和點心。"
+        },
+        {
+          "en": "The organizers sent an e-mail to every attendee with a map of the venue and the schedule for the day.",
+          "zh": "主辦單位寄給每位參加者一封附有場地地圖和當天時程的電子郵件。"
+        },
+        {
+          "en": "Almost every conference attendee came from overseas this year, so all of the talks were given in English.",
+          "zh": "今年幾乎每位研討會參加者都來自海外，所以所有演講都用英文進行。"
+        },
+        {
+          "en": "Each attendee must register at the front desk before entering the main hall for the opening speech.",
+          "zh": "每位參加者進入大廳聽開幕演講之前，都必須在櫃台報到。"
+        }
+      ],
+      "distractors": [
+        "attendant",
+        "attendance",
+        "absentee"
+      ],
+      "note": "語塊：conference attendee（研討會參加者）、each attendee（每位參加者）。attendee 是「參加活動的人」；attend 是動詞「參加」；attendance 是「出席（人數）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hand-out",
+      "word": "hand out",
+      "pos": "片語動詞",
+      "meaning": "分發；發放",
+      "sentences": [
+        {
+          "en": "Volunteers will hand out flyers about the new park at the train station on Saturday morning.",
+          "zh": "志工週六早上會在火車站發新公園的傳單。"
+        },
+        {
+          "en": "The store staff will hand out samples of the new chocolate to customers near the entrance.",
+          "zh": "店員會在入口附近發送新巧克力的試吃品給顧客。"
+        },
+        {
+          "en": "The CEO will hand out awards to the best employees of the year at the annual dinner.",
+          "zh": "執行長會在年度晚宴上頒獎給年度最佳員工。"
+        },
+        {
+          "en": "Please hand out the training materials to everyone before the session begins at nine o'clock.",
+          "zh": "請在九點課程開始前把訓練教材發給每個人。"
+        },
+        {
+          "en": "The organizers will hand out free water to all of the runners along the route of the marathon.",
+          "zh": "主辦單位會在馬拉松路線上發免費的水給所有跑者。"
+        }
+      ],
+      "distractors": [
+        "hand in",
+        "hand over",
+        "hold out"
+      ],
+      "note": "語塊：hand out flyers（發傳單）、hand out samples（發送試用品）、hand out awards（頒獎）。hand out 是「把東西發給很多人」；handout 是名詞「講義；傳單」；hand in 是「繳交」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consumption",
+      "word": "consumption",
+      "pos": "名詞",
+      "meaning": "消耗（量）；消費",
+      "sentences": [
+        {
+          "en": "The new building was designed to reduce energy consumption by forty percent compared to the old one.",
+          "zh": "新大樓的設計比舊大樓減少四成的能源消耗。"
+        },
+        {
+          "en": "Electric buses have no fuel consumption, which helps the city reduce air pollution and save money.",
+          "zh": "電動公車沒有油耗，幫助城市減少空氣污染又省錢。"
+        },
+        {
+          "en": "Food consumption usually increases during the holiday season, so supermarkets order extra products in December.",
+          "zh": "假期期間食物消費量通常會增加，所以超市十二月會多進貨。"
+        },
+        {
+          "en": "The company is trying to lower its energy consumption by turning off computers and lights every night.",
+          "zh": "公司試著每晚關掉電腦和燈，以降低能源消耗。"
+        },
+        {
+          "en": "Cars with low fuel consumption are becoming more popular because gas prices have risen sharply this year.",
+          "zh": "低油耗的車越來越受歡迎，因為今年油價大漲。"
+        }
+      ],
+      "distractors": [
+        "assumption",
+        "resumption",
+        "contribution"
+      ],
+      "note": "語塊：energy consumption（能源消耗）、fuel consumption（油耗）、food consumption（食物消費量）。consumption 是 consume（消耗）的名詞；consumer 是「消費者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-hand",
+      "word": "on hand",
+      "pos": "其他",
+      "meaning": "在場；備有；隨時可用",
+      "sentences": [
+        {
+          "en": "Our staff will be on hand to answer any questions that visitors have about the new products.",
+          "zh": "我們的員工會在場回答訪客對新產品的任何問題。"
+        },
+        {
+          "en": "Please keep some extra paper and ink on hand so that the printer never stops in the middle of a job.",
+          "zh": "請隨時備著一些額外的紙和墨水，讓印表機不會在工作中途停下來。"
+        },
+        {
+          "en": "A doctor will be on hand at the marathon in case any of the runners need medical help.",
+          "zh": "馬拉松現場會有醫生在場，以防有跑者需要醫療協助。"
+        },
+        {
+          "en": "Technicians will be on hand during the conference to fix any problems with the projectors.",
+          "zh": "研討會期間技術人員會在場，處理投影機的任何問題。"
+        },
+        {
+          "en": "The store always keeps a large number of umbrellas on hand during the rainy season.",
+          "zh": "那家店在雨季總是備有大量的雨傘。"
+        }
+      ],
+      "distractors": [
+        "at hand",
+        "in hand",
+        "by hand"
+      ],
+      "note": "語塊：be on hand to（在場……）、keep on hand（隨時備著）。on hand 是「就在身邊、可以馬上用的」；at hand 是「近在眼前」；on the other hand 是「另一方面」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-query",
+      "word": "query",
+      "pos": "名詞",
+      "meaning": "疑問；詢問",
+      "sentences": [
+        {
+          "en": "If you have a query about your bill, please call our customer care team at any time.",
+          "zh": "如果您對帳單有疑問，請隨時致電我們的客服團隊。"
+        },
+        {
+          "en": "Our staff try to answer every customer query within one hour during normal business hours.",
+          "zh": "在正常營業時間內，我們的員工會盡量在一小時內回覆每一則顧客詢問。"
+        },
+        {
+          "en": "The new chat service on the website can answer a simple query without the help of a real person.",
+          "zh": "網站上新的聊天服務不需要真人協助就能回答簡單的詢問。"
+        },
+        {
+          "en": "Please send any query about the job to the human resources department by e-mail before Friday.",
+          "zh": "關於這份工作的任何疑問，請在週五前用電子郵件寄給人資部。"
+        },
+        {
+          "en": "After the company changed its prices last month, almost every customer query was about the new monthly plans.",
+          "zh": "公司上個月調整價格後，幾乎每一則顧客詢問都和新的月租方案有關。"
+        }
+      ],
+      "distractors": [
+        "quarry",
+        "queue",
+        "quest"
+      ],
+      "note": "語塊：have a query（有疑問）、answer a query（回答詢問）、customer query（顧客詢問）。query 是比較正式的「問題、詢問」；question 是一般的「問題」；inquiry 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-calculator",
+      "word": "calculator",
+      "pos": "名詞",
+      "meaning": "計算機",
+      "sentences": [
+        {
+          "en": "Students are allowed to use a calculator during the math test, but phones are not permitted.",
+          "zh": "學生考數學時可以用計算機，但不准用手機。"
+        },
+        {
+          "en": "The bank's website has an online calculator that shows how much you need to pay each month for a loan.",
+          "zh": "銀行網站有一個線上計算機，顯示你每月要付多少貸款。"
+        },
+        {
+          "en": "Please use a calculator to check the totals in the report, because some of the numbers look wrong.",
+          "zh": "請用計算機檢查報告裡的總數，因為有些數字看起來不對。"
+        },
+        {
+          "en": "The new online calculator helps customers find out how much they can save by using solar energy.",
+          "zh": "新的線上計算機幫助顧客算出使用太陽能可以省多少錢。"
+        },
+        {
+          "en": "The accountant always keeps a calculator on her desk, even though she uses a computer for most of her work.",
+          "zh": "雖然會計大部分工作都用電腦，她桌上還是一直放著一台計算機。"
+        }
+      ],
+      "distractors": [
+        "calendar",
+        "circulator",
+        "regulator"
+      ],
+      "note": "語塊：use a calculator（用計算機）、online calculator（線上計算機）。calculator 是計算用的機器；calculate 是動詞「計算」；calculation 是名詞「計算」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-establishment",
+      "word": "establishment",
+      "pos": "名詞",
+      "meaning": "機構；場所；建立",
+      "sentences": [
+        {
+          "en": "The health inspectors visit every dining establishment in the city at least once a year.",
+          "zh": "衛生稽查員每年至少會到市內每家餐飲場所檢查一次。"
+        },
+        {
+          "en": "Smoking is not allowed in any business establishment, including restaurants, bars, hotels, and shopping malls.",
+          "zh": "任何營業場所都禁止吸菸，包括餐廳、酒吧、飯店和購物中心。"
+        },
+        {
+          "en": "The establishment of the new research center will create more than two hundred jobs in the area.",
+          "zh": "新研究中心的成立將為這一區創造兩百多個工作機會。"
+        },
+        {
+          "en": "The hotel is a family establishment that has welcomed guests for more than a hundred years.",
+          "zh": "那家飯店是一個家族經營的場所，已經接待客人一百多年了。"
+        },
+        {
+          "en": "Every business establishment must display its license near the front door where customers can see it.",
+          "zh": "每個營業場所都必須把執照掛在前門附近顧客看得到的地方。"
+        }
+      ],
+      "distractors": [
+        "entertainment",
+        "embarrassment",
+        "enlargement"
+      ],
+      "note": "語塊：dining establishment（餐飲場所）、business establishment（營業場所）、establishment of（……的建立）。establishment 是 establish（建立）的名詞；也可以指「店、餐廳、公司等營業場所」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outlet",
+      "word": "outlet",
+      "pos": "名詞",
+      "meaning": "暢貨中心；插座；銷售點",
+      "sentences": [
+        {
+          "en": "The new outlet mall near the highway sells brand-name clothes at prices up to seventy percent lower than in stores.",
+          "zh": "高速公路附近新的暢貨中心販售名牌衣服，價格比一般店面低多達七成。"
+        },
+        {
+          "en": "Every seat on the train has a power outlet, so passengers can charge their laptops and phones during the trip.",
+          "zh": "火車上每個座位都有電源插座，乘客在旅途中可以幫筆電和手機充電。"
+        },
+        {
+          "en": "The company plans to open a new retail outlet in every major shopping center across the country next year.",
+          "zh": "公司計畫明年在全國每個主要購物中心開設一個新的零售據點。"
+        },
+        {
+          "en": "Please do not plug too many machines into one power outlet, because it could cause a fire.",
+          "zh": "請不要在同一個電源插座插太多機器，因為可能會引起火災。"
+        },
+        {
+          "en": "Many tourists visit the outlet mall on their last day to buy gifts before they fly home.",
+          "zh": "很多觀光客在最後一天去暢貨中心買禮物，再搭飛機回家。"
+        }
+      ],
+      "distractors": [
+        "outline",
+        "outlay",
+        "inlet"
+      ],
+      "note": "語塊：outlet mall（暢貨中心）、power outlet（電源插座）、retail outlet（零售據點）。outlet 可以是「插座」、「直營暢貨店」或「抒發管道」；inlet 是「入口；水灣」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-permissible",
+      "word": "permissible",
+      "pos": "形容詞",
+      "meaning": "允許的；容許的",
+      "sentences": [
+        {
+          "en": "The amount of chemicals in the water must stay below the permissible level set by the government.",
+          "zh": "水中化學物質的含量必須維持在政府訂定的容許標準以下。"
+        },
+        {
+          "en": "Is it legally permissible to record a phone call with a customer without telling them first?",
+          "zh": "不先告知顧客就錄下和他們的電話通話，在法律上是允許的嗎？"
+        },
+        {
+          "en": "Noise from the construction site was above the permissible level, so the builder had to pay a fine.",
+          "zh": "工地的噪音超過容許標準，所以建商必須繳罰款。"
+        },
+        {
+          "en": "Using company cars for personal trips is not permissible unless your manager gives you written permission.",
+          "zh": "除非主管給你書面許可，否則不允許開公司車辦私事。"
+        },
+        {
+          "en": "The factory checks the air every day to make sure the pollution stays within the permissible level.",
+          "zh": "工廠每天檢查空氣，確保污染維持在容許標準內。"
+        }
+      ],
+      "distractors": [
+        "permeable",
+        "possible",
+        "admissible"
+      ],
+      "note": "語塊：permissible level（容許標準）、legally permissible（法律允許的）。permissible 是「被規定允許的」；permit 是動詞「允許」；allowable 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-non-refundable",
+      "word": "non-refundable",
+      "pos": "形容詞",
+      "meaning": "不可退款的",
+      "sentences": [
+        {
+          "en": "Please note that the deposit is non-refundable if you cancel your booking less than a week before the event.",
+          "zh": "請注意，如果在活動前不到一週取消預訂，訂金恕不退還。"
+        },
+        {
+          "en": "The cheapest airline tickets are non-refundable, so you will lose your money if you cannot travel.",
+          "zh": "最便宜的機票不可退款，所以如果你無法出發就會損失這筆錢。"
+        },
+        {
+          "en": "The hotel asks for a non-refundable deposit of one hundred dollars to hold the room during the festival.",
+          "zh": "節慶期間飯店會收取一百元不可退還的訂金來保留房間。"
+        },
+        {
+          "en": "All tickets for the concert are non-refundable, but you can give them to a friend if you cannot go.",
+          "zh": "演唱會所有門票都不可退款，但如果你不能去可以轉送朋友。"
+        },
+        {
+          "en": "The workshop fee is non-refundable, so please make sure you can attend before you pay.",
+          "zh": "工作坊的費用不可退款，所以付款前請確認你能參加。"
+        }
+      ],
+      "distractors": [
+        "non-transferable",
+        "non-negotiable",
+        "refundable"
+      ],
+      "note": "語塊：non-refundable deposit（不可退還的訂金）、non-refundable ticket（不可退票的票）。refund 是「退款」；refundable 是「可退款的」；non- 是「不」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-crew",
+      "word": "crew",
+      "pos": "名詞",
+      "meaning": "全體工作人員；組員",
+      "sentences": [
+        {
+          "en": "The flight crew will serve dinner about one hour after the plane takes off from Taipei.",
+          "zh": "機組人員會在飛機從台北起飛後大約一小時供應晚餐。"
+        },
+        {
+          "en": "A film crew from Japan will shoot a television commercial in the old town next weekend.",
+          "zh": "一組日本攝影團隊下週末會在老城區拍電視廣告。"
+        },
+        {
+          "en": "The cleaning crew comes to the office every evening after the employees have gone home.",
+          "zh": "清潔人員每天晚上在員工下班回家後來辦公室打掃。"
+        },
+        {
+          "en": "The ship's crew helped all of the passengers leave the ship safely after it stopped near the island.",
+          "zh": "船在小島附近停下後，船員協助所有乘客安全下船。"
+        },
+        {
+          "en": "The construction crew will start work on the new road at seven o'clock every morning this month.",
+          "zh": "施工人員這個月每天早上七點開始修新道路。"
+        }
+      ],
+      "distractors": [
+        "crow",
+        "screw",
+        "cruise"
+      ],
+      "note": "語塊：flight crew（機組人員）、film crew（攝影團隊）、cleaning crew（清潔人員）。crew 是一起工作的一組人，常用在飛機、船或拍片；staff 是一般「員工」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wooden",
+      "word": "wooden",
+      "pos": "形容詞",
+      "meaning": "木製的；木頭的",
+      "sentences": [
+        {
+          "en": "The store sells handmade wooden furniture that is made by skilled craftspeople in the mountains.",
+          "zh": "那家店販售由山區技術純熟的工匠手工製作的木製家具。"
+        },
+        {
+          "en": "The hotel rooms have wooden floors and large windows that look out over the lake.",
+          "zh": "飯店房間有木地板和面向湖景的大窗戶。"
+        },
+        {
+          "en": "Many parents prefer wooden toys because they are safer and last longer than plastic ones.",
+          "zh": "很多父母比較喜歡木製玩具，因為比塑膠玩具安全又耐用。"
+        },
+        {
+          "en": "The old wooden bridge in the park will be replaced with a new one made of steel next year.",
+          "zh": "公園裡的舊木橋明年會換成鋼造的新橋。"
+        },
+        {
+          "en": "The café uses wooden tables and chairs to create a warm and comfortable feeling for customers.",
+          "zh": "咖啡廳使用木頭桌椅，為顧客營造溫暖舒適的感覺。"
+        }
+      ],
+      "distractors": [
+        "woolen",
+        "golden",
+        "wooded"
+      ],
+      "note": "語塊：wooden furniture（木製家具）、wooden floor（木地板）、wooden toys（木製玩具）。wooden 是「用木頭做的」；wood 是名詞「木頭」；woolen 是「羊毛的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-flooring",
+      "word": "flooring",
+      "pos": "名詞",
+      "meaning": "地板材料；地板",
+      "sentences": [
+        {
+          "en": "The restaurant replaced its old carpet with wooden flooring that is much easier to clean.",
+          "zh": "那家餐廳把舊地毯換成好清理很多的木地板。"
+        },
+        {
+          "en": "A local company will install new flooring in every room of the office during the long holiday weekend.",
+          "zh": "一家當地公司會在連假期間為辦公室每個房間鋪新地板。"
+        },
+        {
+          "en": "The price of the apartment includes new flooring in every room and a modern kitchen.",
+          "zh": "公寓價格包含每個房間的新地板和現代化廚房。"
+        },
+        {
+          "en": "Please choose flooring that is water-resistant for the bathroom and the kitchen, because they get wet often.",
+          "zh": "浴室和廚房請選擇防水的地板材料，因為它們常常會弄濕。"
+        },
+        {
+          "en": "The hotel chose dark wooden flooring for the lobby because it looks elegant and lasts for many years.",
+          "zh": "飯店大廳選了深色木地板，因為看起來很高雅又耐用多年。"
+        }
+      ],
+      "distractors": [
+        "ceiling",
+        "roofing",
+        "flowering"
+      ],
+      "note": "語塊：wooden flooring（木地板）、new flooring（新地板）、install new flooring（鋪新地板）。flooring 是「鋪地板的材料」；floor 是「地板；樓層」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-repave",
+      "word": "repave",
+      "pos": "動詞",
+      "meaning": "重新鋪路面",
+      "sentences": [
+        {
+          "en": "The city will repave the main road next week, so drivers should use other streets during the work.",
+          "zh": "市政府下週將重新鋪設主要道路，所以施工期間駕駛應改走其他街道。"
+        },
+        {
+          "en": "The shopping mall plans to repave the parking lot because there are many holes in the old surface.",
+          "zh": "購物中心計畫重鋪停車場，因為舊路面有很多坑洞。"
+        },
+        {
+          "en": "Workers will repave the road at night so that traffic during the day is not affected.",
+          "zh": "工人會在晚上重新鋪路，讓白天的交通不受影響。"
+        },
+        {
+          "en": "The parking lot will be closed for three days while the workers repave it and paint new lines.",
+          "zh": "工人重鋪停車場和畫新線的三天期間，停車場會關閉。"
+        },
+        {
+          "en": "Residents asked the city to repave the road near the school because it had become dangerous for children.",
+          "zh": "居民要求市政府重新鋪設學校附近的道路，因為它對孩子來說變得很危險。"
+        }
+      ],
+      "distractors": [
+        "repair",
+        "replace",
+        "repay"
+      ],
+      "note": "語塊：repave the road（重新鋪路）、repave the parking lot（重鋪停車場）。repave 是「重新鋪柏油或路面」；pave 是「鋪路」；pavement 是「人行道；路面」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-underground",
+      "word": "underground",
+      "pos": "形容詞",
+      "meaning": "地下的",
+      "sentences": [
+        {
+          "en": "The new office building has underground parking for more than three hundred cars and fifty motorcycles.",
+          "zh": "新辦公大樓有可停三百多輛汽車和五十輛機車的地下停車場。"
+        },
+        {
+          "en": "The underground station is only a five-minute walk from the hotel, so it is easy to get around the city.",
+          "zh": "地下車站離飯店走路只要五分鐘，所以在城裡移動很方便。"
+        },
+        {
+          "en": "Many people in London take the underground train to work because driving downtown is very slow.",
+          "zh": "倫敦很多人搭地鐵上班，因為開車到市中心很慢。"
+        },
+        {
+          "en": "Customers can use the underground parking for free if they spend more than fifty dollars in the mall.",
+          "zh": "在購物中心消費超過五十元的顧客可以免費使用地下停車場。"
+        },
+        {
+          "en": "The city plans to build a new underground station near the stadium before the next international games.",
+          "zh": "市政府計畫在下屆國際運動會之前，在體育場附近蓋一座新的地下車站。"
+        }
+      ],
+      "distractors": [
+        "undergo",
+        "undergrowth",
+        "background"
+      ],
+      "note": "語塊：underground parking（地下停車場）、underground station（地下車站）、underground train（地鐵）。underground 可以當形容詞「地下的」或名詞「（英式）地鐵」；subway 是美式說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-minimal",
+      "word": "minimal",
+      "pos": "形容詞",
+      "meaning": "最少的；極小的",
+      "sentences": [
+        {
+          "en": "The storm caused only minimal damage to the factory, so production will start again tomorrow.",
+          "zh": "暴風雨只對工廠造成輕微損壞，所以明天就會恢復生產。"
+        },
+        {
+          "en": "The new software can be installed at minimal cost, and it will save the company a lot of time.",
+          "zh": "新軟體能以極低的成本安裝，還會幫公司省很多時間。"
+        },
+        {
+          "en": "The repairs will be done at night to cause minimal disturbance to guests staying at the hotel.",
+          "zh": "維修會在晚上進行，盡量減少對飯店住客的打擾。"
+        },
+        {
+          "en": "With minimal effort, you can reduce your electricity bill by turning off lights in empty rooms.",
+          "zh": "只要花一點點力氣隨手關掉沒人房間的燈，就能降低電費。"
+        },
+        {
+          "en": "The hotel's design uses minimal decoration, which gives the rooms a clean and modern look.",
+          "zh": "飯店的設計使用極少的裝飾，讓房間看起來乾淨又現代。"
+        }
+      ],
+      "distractors": [
+        "minimum",
+        "nominal",
+        "marginal"
+      ],
+      "note": "語塊：minimal cost（極低的成本）、minimal damage（輕微損壞）、minimal effort（最少的力氣）。minimal 是「最少、很小的」；minimum 是名詞或形容詞「最低限度」；maximal 是「最大的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disturbance",
+      "word": "disturbance",
+      "pos": "名詞",
+      "meaning": "打擾；干擾；騷動",
+      "sentences": [
+        {
+          "en": "We apologize for any disturbance caused by the construction work in the building next week.",
+          "zh": "對於下週大樓施工造成的任何打擾，我們深感抱歉。"
+        },
+        {
+          "en": "The workers will start at nine in the morning to minimize disturbance to the residents.",
+          "zh": "工人會在早上九點才開工，以減少對居民的打擾。"
+        },
+        {
+          "en": "A passenger who caused a disturbance on the plane was asked to leave when it landed.",
+          "zh": "一位在飛機上鬧事的乘客在降落後被要求離開。"
+        },
+        {
+          "en": "Several guests complained about noise disturbance from the party in the hotel garden last night.",
+          "zh": "好幾位客人抱怨昨晚飯店花園派對的噪音干擾。"
+        },
+        {
+          "en": "To minimize disturbance, please keep your phone on silent during the presentation and the questions afterward.",
+          "zh": "為了減少打擾，簡報和之後的提問時間請把手機調成靜音。"
+        }
+      ],
+      "distractors": [
+        "distance",
+        "disturbing",
+        "endurance"
+      ],
+      "note": "語塊：cause a disturbance（造成騷動）、minimize disturbance（減少打擾）、noise disturbance（噪音干擾）。disturbance 是 disturb（打擾）的名詞；interruption 是「中斷」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
