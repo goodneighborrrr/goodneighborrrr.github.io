@@ -71803,6 +71803,671 @@
       ],
       "note": "語塊：free installation（免費安裝）、installation fee（安裝費）、installation process（安裝過程）。installation 是 install（安裝）的名詞；installment 是「分期付款」，拼法很像。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-situate",
+      "word": "situate",
+      "pos": "動詞",
+      "meaning": "使位於；設置於",
+      "sentences": [
+        {
+          "en": "The company decided to situate its new factory near the port so that products can be shipped easily.",
+          "zh": "公司決定把新工廠設在港口附近，讓產品方便運送。"
+        },
+        {
+          "en": "The hotel chose to situate its new restaurant on the top floor, where guests can enjoy a view of the city.",
+          "zh": "飯店選擇把新餐廳設在頂樓，讓客人可以欣賞城市景色。"
+        },
+        {
+          "en": "The city plans to situate the new hospital in an area where many older people live.",
+          "zh": "市政府計畫把新醫院設在很多長者居住的地區。"
+        },
+        {
+          "en": "The architects will situate the library next to the park so that readers can enjoy the trees from the windows.",
+          "zh": "建築師會把圖書館設在公園旁邊，讓讀者能從窗戶欣賞樹景。"
+        },
+        {
+          "en": "Many companies prefer to situate their offices near subway stations, because employees can get to work quickly.",
+          "zh": "很多公司偏好把辦公室設在地鐵站附近，因為員工可以很快到公司。"
+        }
+      ],
+      "distractors": [
+        "saturate",
+        "situation",
+        "stipulate"
+      ],
+      "note": "語塊：situate near（設在……附近）、situate in（設在……裡）、situate next to（設在……旁邊）。situate 常用被動 be situated（= be located，位於）；situation 是「情況」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-real-estate",
+      "word": "real estate",
+      "pos": "名詞",
+      "meaning": "房地產；不動產",
+      "sentences": [
+        {
+          "en": "Ms. Wong works as a real estate agent and helps families find apartments near good schools.",
+          "zh": "王小姐是房仲，幫家庭找好學區附近的公寓。"
+        },
+        {
+          "en": "The real estate market in the capital has grown quickly, so prices have doubled in ten years.",
+          "zh": "首都的房地產市場成長很快，所以價格十年內加倍了。"
+        },
+        {
+          "en": "Many people prefer to invest in real estate because they believe it is safer than buying stocks.",
+          "zh": "很多人比較喜歡投資房地產，因為他們認為比買股票安全。"
+        },
+        {
+          "en": "The real estate agent showed us five apartments in one day, but none of them had enough space.",
+          "zh": "房仲一天帶我們看了五間公寓，但沒有一間空間夠大。"
+        },
+        {
+          "en": "Experts say the real estate market may slow down next year because interest rates are rising.",
+          "zh": "專家說房地產市場明年可能會趨緩，因為利率在上升。"
+        }
+      ],
+      "distractors": [
+        "estate tax",
+        "real income",
+        "state"
+      ],
+      "note": "語塊：real estate agent（房仲）、real estate market（房地產市場）、invest in real estate（投資房地產）。real estate 是不可數名詞；property 是「房產；財產」；realtor 是美式「房仲」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-short-term",
+      "word": "short-term",
+      "pos": "形容詞",
+      "meaning": "短期的",
+      "sentences": [
+        {
+          "en": "Our short-term goal is to increase sales by ten percent before the end of the year.",
+          "zh": "我們的短期目標是在年底前讓銷售增加一成。"
+        },
+        {
+          "en": "The company hired several workers on a short-term contract to help during the busy holiday season.",
+          "zh": "公司以短期合約雇用了好幾位員工，在忙碌的假期期間幫忙。"
+        },
+        {
+          "en": "The bank offers a short-term loan for small businesses that need money quickly to buy supplies.",
+          "zh": "銀行為需要快速資金購買用品的小企業提供短期貸款。"
+        },
+        {
+          "en": "Cutting staff may save money in the short-term, but it can hurt the quality of customer service.",
+          "zh": "裁員在短期內可能省錢，但會傷害客服品質。"
+        },
+        {
+          "en": "Every employee should set a short-term goal and a long-term goal at the beginning of the year.",
+          "zh": "每位員工都應該在年初設定一個短期目標和一個長期目標。"
+        }
+      ],
+      "distractors": [
+        "short-sighted",
+        "short-lived",
+        "long-term"
+      ],
+      "note": "語塊：short-term goal（短期目標）、short-term contract（短期合約）、short-term loan（短期貸款）。short-term 放在名詞前面；long-term 是「長期的」；temporary 是「暫時的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-auction",
+      "word": "auction",
+      "pos": "名詞",
+      "meaning": "拍賣（會）",
+      "sentences": [
+        {
+          "en": "The famous painting was sold at auction for more than ten million dollars last week.",
+          "zh": "那幅名畫上週在拍賣會上以超過一千萬元售出。"
+        },
+        {
+          "en": "The charity will hold an auction next month to raise money for the new children's hospital in the city.",
+          "zh": "慈善機構下個月將舉辦拍賣會，為市內新的兒童醫院募款。"
+        },
+        {
+          "en": "Many people buy used furniture and collectible items through an online auction website instead of going to stores.",
+          "zh": "很多人透過網路拍賣網站購買二手家具和收藏品，而不是去實體店。"
+        },
+        {
+          "en": "The old hotel's furniture will be sold at auction next spring before the building is refurbished.",
+          "zh": "舊飯店的家具會在明年春天大樓翻新之前拍賣出售。"
+        },
+        {
+          "en": "More than three hundred people attended the auction, which raised half a million dollars for the school.",
+          "zh": "三百多人參加了拍賣會，為學校募得五十萬元。"
+        }
+      ],
+      "distractors": [
+        "caution",
+        "action",
+        "option"
+      ],
+      "note": "語塊：online auction（網路拍賣）、hold an auction（舉辦拍賣會）、sold at auction（拍賣出售）、attend the auction（參加拍賣會）。auction 可以當名詞或動詞「拍賣」；auctioneer 是「拍賣官」；bid 是「出價」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-local",
+      "word": "local",
+      "pos": "形容詞",
+      "meaning": "當地的；本地的",
+      "sentences": [
+        {
+          "en": "The festival is a great way for local businesses to sell their products to tourists from other cities.",
+          "zh": "這個節慶是在地商家向外地觀光客販售產品的好方法。"
+        },
+        {
+          "en": "The flight will arrive in Tokyo at seven o'clock in the evening, local time, after a three-hour flight.",
+          "zh": "班機飛行三小時後，將在當地時間晚上七點抵達東京。"
+        },
+        {
+          "en": "The restaurant uses fresh vegetables from local farms, so the menu changes every season of the year.",
+          "zh": "那家餐廳使用當地農場的新鮮蔬菜，所以菜單一年四季都會換。"
+        },
+        {
+          "en": "Many local residents were against the plan to build a large shopping mall next to the park.",
+          "zh": "很多當地居民反對在公園旁邊蓋大型購物中心的計畫。"
+        },
+        {
+          "en": "The city gives grants to help local business owners repair their shops after the storm.",
+          "zh": "市政府提供補助，幫助在地商家在暴風雨後修繕店面。"
+        }
+      ],
+      "distractors": [
+        "vocal",
+        "loyal",
+        "locale"
+      ],
+      "note": "語塊：local residents（當地居民）、local business（在地商家）、local time（當地時間）。local 是「這個地區的」；locate 是動詞「找到位置」；location 是「地點」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-region",
+      "word": "region",
+      "pos": "名詞",
+      "meaning": "地區；區域",
+      "sentences": [
+        {
+          "en": "The company is the largest employer in the region, with more than five thousand workers in three factories.",
+          "zh": "那家公司是這個地區最大的雇主，三座工廠有五千多名員工。"
+        },
+        {
+          "en": "The coastal region is famous for its fresh seafood and beautiful beaches, so it attracts many tourists.",
+          "zh": "那個沿海地區以新鮮海鮮和美麗海灘聞名，所以吸引很多觀光客。"
+        },
+        {
+          "en": "Prices for apartments in the region have increased because many people moved there for new jobs.",
+          "zh": "這個地區的公寓價格上漲了，因為很多人為了新工作搬去那裡。"
+        },
+        {
+          "en": "The weather in this region can change quickly, so please check the forecast before you go hiking.",
+          "zh": "這個地區的天氣變化很快，所以去健行前請先看天氣預報。"
+        },
+        {
+          "en": "Our sales team will visit every city in the region next month to meet with potential customers.",
+          "zh": "我們的業務團隊下個月會走訪這個地區的每座城市，拜訪潛在客戶。"
+        }
+      ],
+      "distractors": [
+        "religion",
+        "legion",
+        "reason"
+      ],
+      "note": "語塊：in the region（在這個地區）、coastal region（沿海地區）、region of（……地區）。region 是較大的「地區」；area 是一般的「區域」；regional 是形容詞「地區的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-housewares",
+      "word": "housewares",
+      "pos": "名詞",
+      "meaning": "家居用品；家用器具",
+      "sentences": [
+        {
+          "en": "The housewares department on the fifth floor sells plates, cups, pots, and other kitchen items.",
+          "zh": "五樓的家居用品部販售盤子、杯子、鍋子和其他廚房用品。"
+        },
+        {
+          "en": "The new housewares store downtown has a large selection of products for people who just moved into a new home.",
+          "zh": "市中心新的家居用品店有很多商品，適合剛搬新家的人。"
+        },
+        {
+          "en": "Sales in the housewares department usually increase before the holidays, when many people buy gifts.",
+          "zh": "家居用品部的銷售通常會在假期前增加，因為很多人在買禮物。"
+        },
+        {
+          "en": "Ms. Lee is the manager of the housewares department, and she chooses which products the store sells.",
+          "zh": "李小姐是家居用品部的經理，由她決定店裡要賣哪些商品。"
+        },
+        {
+          "en": "The housewares store offers free delivery for customers who spend more than one hundred dollars.",
+          "zh": "家居用品店為消費超過一百元的顧客提供免費送貨。"
+        }
+      ],
+      "distractors": [
+        "warehouse",
+        "hardware",
+        "software"
+      ],
+      "note": "語塊：housewares department（家居用品部）、housewares store（家居用品店）。housewares 是廚房用具、杯盤等家用小物，常用複數；household 是「家庭的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-collectible",
+      "word": "collectible",
+      "pos": "名詞",
+      "meaning": "收藏品",
+      "sentences": [
+        {
+          "en": "The shop near the station sells every kind of collectible, such as old coins, stamps, and toys from the 1960s.",
+          "zh": "車站附近那家店販售各種收藏品，例如 1960 年代的舊硬幣、郵票和玩具。"
+        },
+        {
+          "en": "Each collectible item comes with a certificate that shows where and when it was made.",
+          "zh": "每件收藏品都附有證書，說明它在何時何地製造。"
+        },
+        {
+          "en": "Collectible toys from popular films can be worth a lot of money if they are kept in their original boxes.",
+          "zh": "熱門電影的收藏型玩具如果保存在原本的盒子裡，可能很值錢。"
+        },
+        {
+          "en": "The auction included several collectible items that once belonged to a famous singer from the 1980s.",
+          "zh": "拍賣會包含好幾件曾屬於一位 1980 年代知名歌手的收藏品。"
+        },
+        {
+          "en": "The museum shop sells a collectible item for each exhibition, and many visitors buy one every year.",
+          "zh": "博物館商店每個展覽都會販售一件收藏品，很多參觀者每年都會買一件。"
+        }
+      ],
+      "distractors": [
+        "collective",
+        "collision",
+        "compatible"
+      ],
+      "note": "語塊：rare collectible（稀有收藏品）、collectible item（收藏品）、collectible toys（收藏型玩具）。collectible 可以當名詞或形容詞「有收藏價值的」；collect 是動詞「收集」；collection 是「收藏」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-qualification",
+      "word": "qualification",
+      "pos": "名詞",
+      "meaning": "資格；學歷證照",
+      "sentences": [
+        {
+          "en": "A degree in accounting is a necessary qualification for this position at the bank's main office downtown.",
+          "zh": "會計學位是應徵這家銀行市中心總行這個職位的必要資格。"
+        },
+        {
+          "en": "Ms. Park earned a professional qualification in project management while she was working full-time at the hospital.",
+          "zh": "朴小姐在醫院全職工作期間取得了專案管理的專業證照。"
+        },
+        {
+          "en": "The main qualification for the job is at least five years of experience in customer service.",
+          "zh": "這份工作的主要資格是至少五年的客服經驗。"
+        },
+        {
+          "en": "Employees who earn a new professional qualification will receive a bonus and a higher salary.",
+          "zh": "取得新專業證照的員工會獲得獎金和更高的薪水。"
+        },
+        {
+          "en": "Please list every qualification you have on the application form, including language tests and certificates.",
+          "zh": "請在申請表上列出你所有的資格，包括語言測驗和證書。"
+        }
+      ],
+      "distractors": [
+        "quantification",
+        "clarification",
+        "modification"
+      ],
+      "note": "語塊：necessary qualification（必要資格）、professional qualification（專業證照）、qualification for（……的資格）。qualification 是 qualify（使有資格）的名詞；常用複數 qualifications。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-asset",
+      "word": "asset",
+      "pos": "名詞",
+      "meaning": "資產；寶貴的人或物",
+      "sentences": [
+        {
+          "en": "Ms. Park is a valuable asset to the team because she speaks three languages and knows many clients.",
+          "zh": "朴小姐是團隊寶貴的資產，因為她會說三種語言又認識很多客戶。"
+        },
+        {
+          "en": "The old building was the company's most valuable asset, so selling it paid for the entire new factory.",
+          "zh": "那棟舊大樓是公司最寶貴的資產，所以賣掉它就支付了整座新工廠的費用。"
+        },
+        {
+          "en": "Good customer relationships are the most valuable asset that a small business in a busy city can have.",
+          "zh": "良好的客戶關係是繁忙城市裡的小企業能擁有的最寶貴資產。"
+        },
+        {
+          "en": "The bank asks every customer who applies for a large loan to list each financial asset they own.",
+          "zh": "銀行要求每位申請大筆貸款的顧客列出自己擁有的每一項金融資產。"
+        },
+        {
+          "en": "Experienced workers are a valuable asset, so the company offers them training and higher salaries.",
+          "zh": "有經驗的員工是寶貴的資產，所以公司提供他們訓練和更高的薪水。"
+        }
+      ],
+      "distractors": [
+        "assess",
+        "assent",
+        "aspect"
+      ],
+      "note": "語塊：valuable asset（寶貴的資產）、company asset（公司資產）、financial asset（金融資產）。asset 是「有價值的東西或人」；liability 是相反「負債；累贅」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-economical",
+      "word": "economical",
+      "pos": "形容詞",
+      "meaning": "節省的；經濟實惠的",
+      "sentences": [
+        {
+          "en": "Small cars are more economical than large ones, because they use less fuel and are cheaper to repair.",
+          "zh": "小車比大車經濟實惠，因為比較省油，修理也比較便宜。"
+        },
+        {
+          "en": "Taking the train is the most economical way to travel between the two cities, especially on weekdays.",
+          "zh": "搭火車是兩個城市之間最省錢的交通方式，特別是平日。"
+        },
+        {
+          "en": "The new heating system is more economical and will reduce the electricity bill by thirty percent.",
+          "zh": "新的暖氣系統更省錢，會讓電費降低三成。"
+        },
+        {
+          "en": "Buying office supplies in large amounts is more economical than buying small amounts of them every week.",
+          "zh": "大量購買辦公用品比每週少量購買更划算。"
+        },
+        {
+          "en": "Many families choose an economical car with low fuel consumption because gas prices have risen.",
+          "zh": "因為油價上漲，很多家庭選擇低油耗的經濟型車。"
+        }
+      ],
+      "distractors": [
+        "economic",
+        "ecological",
+        "eccentric"
+      ],
+      "note": "語塊：economical car（省油的車）、economical way（省錢的方法）。economical 是「省錢、不浪費的」；economic 是「經濟上的」（economic growth），兩個很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-get-around",
+      "word": "get around",
+      "pos": "片語動詞",
+      "meaning": "四處走動；到處移動",
+      "sentences": [
+        {
+          "en": "The hotel is near the subway station, so it is easy to get around the city without a car.",
+          "zh": "飯店在地鐵站附近，所以沒有車也很容易在城裡移動。"
+        },
+        {
+          "en": "Many tourists rent bicycles to get around the old town, because the streets are too narrow for cars.",
+          "zh": "很多觀光客租自行車在老城區四處逛，因為街道太窄不適合開車。"
+        },
+        {
+          "en": "It is cheap to get around by bus in this city, and a day pass costs only five dollars.",
+          "zh": "在這座城市搭公車四處走很便宜，一日票只要五元。"
+        },
+        {
+          "en": "The new app helps visitors get around the museum by showing a map of every gallery.",
+          "zh": "新的 App 會顯示每個展廳的地圖，幫助參觀者在博物館裡移動。"
+        },
+        {
+          "en": "Older residents find it difficult to get around the town because there are no buses on Sundays.",
+          "zh": "年長居民覺得在小鎮裡移動很不方便，因為週日沒有公車。"
+        }
+      ],
+      "distractors": [
+        "get along",
+        "get over",
+        "get across"
+      ],
+      "note": "語塊：get around the city（在城裡移動）、get around by bus（搭公車四處走）、easy to get around（交通方便）。get around 是「在一個地方到處走動」；get along 是「相處」；get over 是「克服」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dweller",
+      "word": "dweller",
+      "pos": "名詞",
+      "meaning": "居民；居住者",
+      "sentences": [
+        {
+          "en": "For a busy city dweller, a weekend in the mountains is a great chance to enjoy clean air and quiet.",
+          "zh": "對忙碌的都市居民來說，到山上度週末是享受乾淨空氣和寧靜的好機會。"
+        },
+        {
+          "en": "The new park gives every apartment dweller in the area a place to walk their dogs and let their children play.",
+          "zh": "新公園讓這一區的每位公寓住戶都有地方遛狗和讓小孩玩耍。"
+        },
+        {
+          "en": "A small electric scooter is a popular choice for any city dweller who wants to avoid traffic jams.",
+          "zh": "小型電動滑板車是任何想避開塞車的都市居民的熱門選擇。"
+        },
+        {
+          "en": "The store sells compact furniture that is perfect for an apartment dweller with very little space.",
+          "zh": "那家店販售小巧的家具，非常適合空間很小的公寓住戶。"
+        },
+        {
+          "en": "According to a recent survey, the average city dweller would like more trees and green spaces in the neighborhood.",
+          "zh": "根據最近的調查，一般都市居民希望社區有更多樹木和綠地。"
+        }
+      ],
+      "distractors": [
+        "dwelling",
+        "driller",
+        "traveler"
+      ],
+      "note": "語塊：city dweller（都市居民）、apartment dweller（公寓住戶）、every dweller（每位居民）。dweller 是「住在某處的人」，常和 city、apartment 連用；dwell 是動詞「居住」；resident 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-upright",
+      "word": "upright",
+      "pos": "形容詞",
+      "meaning": "直立的；挺直的",
+      "sentences": [
+        {
+          "en": "Please return your seat to the upright position before the plane begins to land at the airport.",
+          "zh": "飛機開始降落機場前，請把座椅調回直立位置。"
+        },
+        {
+          "en": "The boxes should be stored upright so that the glass bottles inside do not break.",
+          "zh": "箱子應該直立存放，裡面的玻璃瓶才不會破。"
+        },
+        {
+          "en": "The school bought an upright piano for the music room because it takes less space than a large one.",
+          "zh": "學校為音樂教室買了一台直立式鋼琴，因為它比大鋼琴更省空間。"
+        },
+        {
+          "en": "The new office chairs help employees sit upright and reduce back pain during long working days.",
+          "zh": "新辦公椅幫助員工坐直，減少長時間工作造成的背痛。"
+        },
+        {
+          "en": "Passengers must keep their seats in the upright position during takeoff and while meals are being served.",
+          "zh": "起飛時和供餐期間，乘客必須保持座椅直立。"
+        }
+      ],
+      "distractors": [
+        "uptight",
+        "outright",
+        "upgrade"
+      ],
+      "note": "語塊：upright position（直立位置）、stand upright（直立）、upright piano（直立式鋼琴）。upright 是「直的、豎起來的」；也可以形容人「正直的」；vertical 是「垂直的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-foldable",
+      "word": "foldable",
+      "pos": "形容詞",
+      "meaning": "可折疊的",
+      "sentences": [
+        {
+          "en": "The company provides foldable chairs for outdoor events, so they can be stored easily after use.",
+          "zh": "公司為戶外活動提供折疊椅，用完後很容易收納。"
+        },
+        {
+          "en": "Many office workers ride a foldable bike to the train station and carry it onto the train.",
+          "zh": "很多上班族騎折疊自行車到火車站，再把它帶上火車。"
+        },
+        {
+          "en": "The new foldable phone has a large screen that becomes as small as a wallet when you close it.",
+          "zh": "新的折疊手機有一個大螢幕，闔起來時跟錢包一樣小。"
+        },
+        {
+          "en": "The hotel room has a foldable bed, so it can be used by families with small children.",
+          "zh": "飯店房間有一張折疊床，所以有小孩的家庭也能使用。"
+        },
+        {
+          "en": "Foldable tables are popular with small restaurants that need to change their seating for large groups.",
+          "zh": "折疊桌很受需要為大團體調整座位的小餐廳歡迎。"
+        }
+      ],
+      "distractors": [
+        "fordable",
+        "holdable",
+        "portable"
+      ],
+      "note": "語塊：foldable chair（折疊椅）、foldable bike（折疊自行車）、foldable phone（折疊手機）。foldable 是「可以折起來的」；fold 是動詞「折疊」；folding 也可以當形容詞（folding table）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-all-weather",
+      "word": "all-weather",
+      "pos": "形容詞",
+      "meaning": "全天候的；適合各種天氣的",
+      "sentences": [
+        {
+          "en": "This all-weather jacket keeps you dry in the rain and warm on cold winter days.",
+          "zh": "這件全天候外套在雨中能保持乾爽，冬天寒冷時也很保暖。"
+        },
+        {
+          "en": "Please put all-weather tires on the company cars before winter, because the mountain roads can be icy.",
+          "zh": "冬天前請幫公司車換上四季輪胎，因為山路可能結冰。"
+        },
+        {
+          "en": "The school built a new all-weather field, so students can play football even after heavy rain.",
+          "zh": "學校蓋了一座新的全天候球場，所以即使下大雨後學生也能踢足球。"
+        },
+        {
+          "en": "The store sells all-weather furniture for gardens and balconies that does not break in strong sun or rain.",
+          "zh": "那家店販售花園和陽台用的全天候家具，在烈日或雨中都不會壞。"
+        },
+        {
+          "en": "The new stadium has an all-weather field and a roof that can be closed during storms.",
+          "zh": "新體育場有一座全天候球場，以及暴風雨時可以關上的屋頂。"
+        }
+      ],
+      "distractors": [
+        "all-purpose",
+        "all-inclusive",
+        "all-day"
+      ],
+      "note": "語塊：all-weather jacket（全天候外套）、all-weather tires（四季輪胎）、all-weather field（全天候球場）。all-weather 是「不管什麼天氣都能用」；weatherproof 是「防風雨的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aspect",
+      "word": "aspect",
+      "pos": "名詞",
+      "meaning": "方面；層面",
+      "sentences": [
+        {
+          "en": "The consultant will review every aspect of the business, from marketing and sales to customer service.",
+          "zh": "顧問會檢視事業的每個方面，從行銷、業務到客服都包括。"
+        },
+        {
+          "en": "Safety is the most important aspect of working in a factory, so all workers receive regular training.",
+          "zh": "安全是在工廠工作最重要的一面，所以所有工人都會定期受訓。"
+        },
+        {
+          "en": "The course covers every aspect of starting a business, including finance, law, marketing, and hiring staff.",
+          "zh": "這個課程涵蓋創業的每個方面，包括財務、法律、行銷和招募員工。"
+        },
+        {
+          "en": "Price is an important aspect for many customers, but quality and service also matter a lot.",
+          "zh": "價格對很多顧客來說是重要的一面，但品質和服務也很重要。"
+        },
+        {
+          "en": "The new manager is involved in every aspect of the project and checks the progress every day.",
+          "zh": "新經理參與專案的每個方面，每天都會檢查進度。"
+        }
+      ],
+      "distractors": [
+        "respect",
+        "suspect",
+        "prospect"
+      ],
+      "note": "語塊：every aspect of（……的每個方面）、important aspect（重要的方面）。aspect 是「事情的一個面向」；respect 是「尊重；方面」（in this respect）；expect 是「預期」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-familiarity",
+      "word": "familiarity",
+      "pos": "名詞",
+      "meaning": "熟悉（程度）",
+      "sentences": [
+        {
+          "en": "Familiarity with the local market is an important qualification for the new sales manager in Osaka.",
+          "zh": "熟悉當地市場是大阪新任業務經理的重要資格。"
+        },
+        {
+          "en": "All applicants for the job should have some familiarity with basic accounting software and spreadsheets.",
+          "zh": "所有應徵這份工作的人都應該對基本會計軟體和試算表有一些熟悉度。"
+        },
+        {
+          "en": "Her familiarity with the city made her the perfect person to plan the company trip.",
+          "zh": "她對這座城市很熟，讓她成為規劃公司旅遊的最佳人選。"
+        },
+        {
+          "en": "The training course will give new employees familiarity with the company's products, services, and customers.",
+          "zh": "訓練課程會讓新員工熟悉公司的產品、服務和顧客。"
+        },
+        {
+          "en": "Familiarity with the safety rules is required before any worker is allowed to use the machines.",
+          "zh": "任何工人在被允許使用機器前，都必須熟悉安全規定。"
+        }
+      ],
+      "distractors": [
+        "similarity",
+        "popularity",
+        "formality"
+      ],
+      "note": "語塊：familiarity with（對……的熟悉）。familiarity 是 familiar（熟悉的）的名詞；knowledge 是「知識」；similarity 是「相似」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trainee",
+      "word": "trainee",
+      "pos": "名詞",
+      "meaning": "受訓者；實習生",
+      "sentences": [
+        {
+          "en": "Every management trainee at the bank receives twelve months of training in several different departments of the company.",
+          "zh": "那家銀行的每位儲備幹部都會在公司好幾個不同部門接受十二個月的培訓。"
+        },
+        {
+          "en": "Each new trainee will work with an experienced employee for the first three weeks of the program.",
+          "zh": "每位新進受訓人員在計畫的前三週都會和一位資深員工一起工作。"
+        },
+        {
+          "en": "The trainee asked many good questions during the session, so the manager was very impressed.",
+          "zh": "那位受訓者在課程中問了很多好問題，所以經理印象很深刻。"
+        },
+        {
+          "en": "Each management trainee spends time in every department so that she or he understands how the company works.",
+          "zh": "每位儲備幹部都會在每個部門待一段時間，了解公司如何運作。"
+        },
+        {
+          "en": "The hotel provides free meals and a uniform for every trainee during the training program.",
+          "zh": "飯店在培訓期間為每位受訓者提供免費餐點和制服。"
+        }
+      ],
+      "distractors": [
+        "trainer",
+        "training",
+        "employee"
+      ],
+      "note": "語塊：management trainee（儲備幹部）、new trainee（新進受訓人員）。trainee 是「接受訓練的人」；trainer 是「訓練員」；intern 是「實習生」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
