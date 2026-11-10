@@ -51538,6 +51538,706 @@
       ],
       "note": "語塊：hire an accountant（聘請會計師）、certified accountant（有證照的會計師）、experienced accountant（有經驗的會計師）、send ... to the accountant（寄給會計師）。accountant 是「會計（人）」；accounting 是「會計（工作、學科）」；account 是「帳戶」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-main-office",
+      "word": "main office",
+      "pos": "名詞",
+      "meaning": "總辦公室；總部",
+      "sentences": [
+        {
+          "en": "All employees must attend the training session at the main office in Taipei next Monday morning.",
+          "zh": "所有員工下週一早上都必須到台北總辦公室參加訓練課程。"
+        },
+        {
+          "en": "Please contact the main office if you have any questions about your salary or health insurance.",
+          "zh": "如果你對薪水或健康保險有任何問題，請聯絡總辦公室。"
+        },
+        {
+          "en": "The company plans to move its main office to a larger building near the train station next year.",
+          "zh": "公司計畫明年把總辦公室搬到火車站附近一棟比較大的大樓。"
+        },
+        {
+          "en": "Important documents should be sent to the main office rather than to the local branches.",
+          "zh": "重要文件應該寄到總辦公室，而不是當地分公司。"
+        },
+        {
+          "en": "Ms. Lee works at the main office, but she visits the stores in other cities twice a month.",
+          "zh": "李小姐在總辦公室上班，但每個月會到其他城市的門市兩次。"
+        }
+      ],
+      "distractors": [
+        "branch office",
+        "box office",
+        "post office"
+      ],
+      "note": "語塊：at the main office（在總辦公室）、contact the main office（聯絡總辦公室）。main office 是「主要辦公室」；head office、headquarters 意思接近；branch office 是「分公司」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adequately",
+      "word": "adequately",
+      "pos": "副詞",
+      "meaning": "充分地；適當地",
+      "sentences": [
+        {
+          "en": "All workers must be adequately trained before they are allowed to use the heavy machines in the factory.",
+          "zh": "所有工人在被允許使用工廠重型機器前都必須受過足夠的訓練。"
+        },
+        {
+          "en": "Please make sure that you are adequately prepared for the presentation, as the clients will ask many questions.",
+          "zh": "請確認你為簡報做了充分準備，因為客戶會問很多問題。"
+        },
+        {
+          "en": "The old building was not adequately protected from the storm, so the roof was badly damaged.",
+          "zh": "那棟老建築沒有受到充分的保護，所以屋頂在暴風雨中嚴重損壞。"
+        },
+        {
+          "en": "The report did not adequately explain why the project was so much more expensive than planned.",
+          "zh": "報告沒有充分說明為什麼專案比計畫貴那麼多。"
+        },
+        {
+          "en": "The hotel staff are adequately trained to deal with emergencies such as fires and medical problems.",
+          "zh": "飯店員工受過足夠的訓練，能處理火災和醫療等緊急狀況。"
+        }
+      ],
+      "distractors": [
+        "accurately",
+        "adequate",
+        "adamantly"
+      ],
+      "note": "語塊：adequately prepared（準備充分）、adequately trained（受過足夠訓練）、adequately protected（受到充分保護）。adequately 是「足夠地、夠好地」；adequate 是形容詞「足夠的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-area-of-expertise",
+      "word": "area of expertise",
+      "pos": "名詞",
+      "meaning": "專業領域",
+      "sentences": [
+        {
+          "en": "Dr. Kim's area of expertise is heart disease, and she has worked at the hospital for twenty years.",
+          "zh": "金醫師的專業領域是心臟病，她在醫院工作了二十年。"
+        },
+        {
+          "en": "The question is outside my area of expertise, so I will ask a colleague from the legal department.",
+          "zh": "這個問題超出我的專業範圍，所以我會去問法務部的同事。"
+        },
+        {
+          "en": "Each consultant at the firm has a different area of expertise, such as marketing, finance, or law.",
+          "zh": "事務所的每位顧問都有不同的專業領域，例如行銷、財務或法律。"
+        },
+        {
+          "en": "Please describe your area of expertise in the application so that we can match you with the right project.",
+          "zh": "請在申請表中描述你的專業領域，讓我們能把你配到合適的專案。"
+        },
+        {
+          "en": "Her area of expertise in online marketing helped the company increase its sales to young customers.",
+          "zh": "她在網路行銷的專業領域幫助公司提高了對年輕顧客的銷售。"
+        }
+      ],
+      "distractors": [
+        "area of interest",
+        "expert",
+        "experience"
+      ],
+      "note": "語塊：one's area of expertise（某人的專業領域）、outside one's area of expertise（超出專業範圍）。expertise 是「專業知識或技能」；area 在這裡是「領域」；field 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-yield",
+      "word": "yield",
+      "pos": "動詞",
+      "meaning": "產出；帶來（結果）",
+      "sentences": [
+        {
+          "en": "The new marketing strategy is expected to yield results within the first three months of next year.",
+          "zh": "新的行銷策略預計在頭三個月內就會產生成果。"
+        },
+        {
+          "en": "The investment in solar panels will yield a profit for the company within five years.",
+          "zh": "投資太陽能板將在五年內為公司帶來利潤。"
+        },
+        {
+          "en": "The farm is able to yield crops twice a year because of the warm weather and rich soil.",
+          "zh": "因為天氣溫暖、土壤肥沃，那座農場一年可以收成兩次。"
+        },
+        {
+          "en": "Careful planning and hard work usually yield good results in any kind of business, large or small.",
+          "zh": "周詳的規劃和努力工作在任何生意中，不論大小，通常都會帶來好的成果。"
+        },
+        {
+          "en": "The research did not yield any useful information, so the team will try a different method.",
+          "zh": "那項研究沒有產生任何有用的資訊，所以團隊會嘗試不同的方法。"
+        }
+      ],
+      "distractors": [
+        "field",
+        "wield",
+        "shield"
+      ],
+      "note": "語塊：yield results（產生成果）、yield a profit（帶來利潤）、yield crops（收成作物）。yield 可以當動詞「產出」或名詞「產量；收益」；也有「讓步」的意思（交通標誌 YIELD）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-agricultural",
+      "word": "agricultural",
+      "pos": "形容詞",
+      "meaning": "農業的",
+      "sentences": [
+        {
+          "en": "The region exports agricultural products such as rice, fruit, and tea to many countries in Asia.",
+          "zh": "那個地區把稻米、水果和茶等農產品出口到亞洲很多國家。"
+        },
+        {
+          "en": "Much of the agricultural land near the city has been turned into houses and shopping centers.",
+          "zh": "城市附近很多農地已經變成住宅和購物中心。"
+        },
+        {
+          "en": "The company sells agricultural machinery to farmers across the country and offers free repairs for one year.",
+          "zh": "那家公司把農業機械賣給全國的農民，並提供免費維修。"
+        },
+        {
+          "en": "The government provides support to agricultural workers whose crops were damaged by the storm last month.",
+          "zh": "政府為作物被暴風雨損壞的農業工作者提供支援。"
+        },
+        {
+          "en": "The university has an agricultural research center that develops new ways to grow vegetables and fruit.",
+          "zh": "那所大學有一個開發種植蔬菜新方法的農業研究中心。"
+        }
+      ],
+      "distractors": [
+        "architectural",
+        "cultural",
+        "horticultural"
+      ],
+      "note": "語塊：agricultural products（農產品）、agricultural land（農地）、agricultural machinery（農業機械）。agricultural 是形容詞；agriculture 是名詞「農業」；architectural 是「建築的」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-work-out",
+      "word": "work out",
+      "pos": "片語動詞",
+      "meaning": "運動；解決；想出",
+      "sentences": [
+        {
+          "en": "Many employees work out at the gym in the building during their lunch break every day.",
+          "zh": "很多員工午休時間在大樓的健身房運動。"
+        },
+        {
+          "en": "The two companies need to work out a plan for sharing the costs of the new warehouse.",
+          "zh": "兩家公司需要想出分攤新倉庫費用的計畫。"
+        },
+        {
+          "en": "The manager met with the team to work out a problem with the delivery schedule.",
+          "zh": "經理和團隊開會解決配送時程的問題。"
+        },
+        {
+          "en": "It took several weeks to work out the details of the contract, but both sides are now happy with it.",
+          "zh": "花了好幾週才把合約細節談妥，但雙方現在都很滿意。"
+        },
+        {
+          "en": "Doctors recommend that people work out for at least thirty minutes three times a week.",
+          "zh": "醫生建議大家每週至少運動三次，每次三十分鐘。"
+        }
+      ],
+      "distractors": [
+        "work on",
+        "work off",
+        "wear out"
+      ],
+      "note": "語塊：work out a plan（想出計畫）、work out a problem（解決問題）、work out at the gym（在健身房運動）。work out 可以是「運動」或「想辦法解決」；workout 是名詞「健身」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bring-down",
+      "word": "bring down",
+      "pos": "片語動詞",
+      "meaning": "降低；使下降",
+      "sentences": [
+        {
+          "en": "The company hopes that the new machines will bring down costs by about twenty percent.",
+          "zh": "公司希望新機器能把成本降低大約兩成。"
+        },
+        {
+          "en": "Competition from online stores has helped bring down prices for electronics such as phones and laptops.",
+          "zh": "網路商店的競爭幫助降低了手機和筆電等電子產品的價格。"
+        },
+        {
+          "en": "The government is taking steps to bring down the cost of housing for young families in the city.",
+          "zh": "政府正採取措施降低城市年輕家庭的住房成本。"
+        },
+        {
+          "en": "Buying in bulk can bring down the price of office supplies for small businesses in the area.",
+          "zh": "大量購買可以降低小企業辦公用品的價格。"
+        },
+        {
+          "en": "The new medicine helped bring down the patient's fever within a few hours of taking it.",
+          "zh": "新藥在幾小時內幫病人退了燒。"
+        }
+      ],
+      "distractors": [
+        "bring up",
+        "break down",
+        "put down"
+      ],
+      "note": "語塊：bring down costs（降低成本）、bring down prices（降低價格）。bring down 是「讓……下降」；reduce、lower 意思接近；bring up 是「提出」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pass-through",
+      "word": "pass through",
+      "pos": "片語動詞",
+      "meaning": "經過；通過",
+      "sentences": [
+        {
+          "en": "All passengers must pass through security before they go to the gate for their flight.",
+          "zh": "所有乘客在前往登機門之前都必須通過安檢。"
+        },
+        {
+          "en": "The train will pass through several small towns before it arrives in the capital this evening.",
+          "zh": "火車今晚抵達首都之前會經過幾個小鎮。"
+        },
+        {
+          "en": "Visitors must pass through the main entrance and show their tickets to the staff at the door.",
+          "zh": "訪客必須通過正門並向工作人員出示門票。"
+        },
+        {
+          "en": "The parade will pass through the city center on Saturday, so several streets will be closed.",
+          "zh": "遊行週六會經過市中心，所以有好幾條街道會封閉。"
+        },
+        {
+          "en": "It can take more than an hour to pass through security at the airport during the holiday season.",
+          "zh": "節慶期間在機場通過安檢可能要一個多小時。"
+        }
+      ],
+      "distractors": [
+        "pass by",
+        "pass out",
+        "pass up"
+      ],
+      "note": "語塊：pass through security（通過安檢）、pass through a town（經過一個小鎮）。pass through 是「從……穿過」；go through 意思接近；pass by 是「經過旁邊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interest-rate",
+      "word": "interest rate",
+      "pos": "名詞",
+      "meaning": "利率",
+      "sentences": [
+        {
+          "en": "The bank decided to raise the interest rate on home loans by half a percent starting next month.",
+          "zh": "銀行決定從下個月起把房貸利率調高半個百分點。"
+        },
+        {
+          "en": "Many people bought houses last year because the interest rate on loans was very low.",
+          "zh": "很多人去年買房，因為貸款利率很低。"
+        },
+        {
+          "en": "A fixed interest rate means that your monthly payment will stay the same for the whole loan.",
+          "zh": "固定利率表示你的每月還款金額在整個貸款期間都會一樣。"
+        },
+        {
+          "en": "The central bank may lower the interest rate to help the economy grow more quickly.",
+          "zh": "央行可能會調降利率，幫助經濟更快成長。"
+        },
+        {
+          "en": "Before choosing a savings account, compare the interest rate offered by several different banks in your area.",
+          "zh": "選擇儲蓄帳戶之前，先比較好幾家不同銀行提供的利率。"
+        }
+      ],
+      "distractors": [
+        "exchange rate",
+        "tax rate",
+        "interest group"
+      ],
+      "note": "語塊：raise interest rates（調高利率）、low interest rate（低利率）、fixed interest rate（固定利率）。interest rate 是「借錢或存錢的利率」；interest 也可以指「興趣」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-savings-account",
+      "word": "savings account",
+      "pos": "名詞",
+      "meaning": "儲蓄帳戶；活存帳戶",
+      "sentences": [
+        {
+          "en": "Many parents open a savings account for their children so that they can save money for university.",
+          "zh": "很多父母為孩子開儲蓄帳戶，為上大學存錢。"
+        },
+        {
+          "en": "The bank offers a higher interest rate to customers who open a savings account online.",
+          "zh": "銀行為在網路上開儲蓄帳戶的顧客提供更高的利率。"
+        },
+        {
+          "en": "Ms. Lee puts part of her salary into a savings account every month for her retirement.",
+          "zh": "李小姐每個月把一部分薪水存進儲蓄帳戶，為退休做準備。"
+        },
+        {
+          "en": "You can move money from your savings account to your checking account by using the mobile app.",
+          "zh": "你可以用手機 App 把錢從儲蓄帳戶轉到支票帳戶。"
+        },
+        {
+          "en": "Experts recommend keeping enough money in a savings account to pay for six months of expenses.",
+          "zh": "專家建議在儲蓄帳戶裡存足夠支付六個月開銷的錢。"
+        }
+      ],
+      "distractors": [
+        "checking account",
+        "bank account",
+        "savings bond"
+      ],
+      "note": "語塊：open a savings account（開儲蓄帳戶）、put money into a savings account（把錢存進儲蓄帳戶）、from your savings account（從你的儲蓄帳戶）、in a savings account（在儲蓄帳戶裡）。savings account 是「用來存錢的帳戶」；savings 一定加 s；checking account 是「支票帳戶」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-build-up",
+      "word": "build up",
+      "pos": "片語動詞",
+      "meaning": "累積；建立；增強",
+      "sentences": [
+        {
+          "en": "It took Ms. Lee ten years to build up a business that now has stores in five cities.",
+          "zh": "李小姐花了十年才建立起現在在五個城市都有門市的事業。"
+        },
+        {
+          "en": "Young workers should start to build up savings as early as possible for emergencies and retirement.",
+          "zh": "年輕上班族應該盡早開始累積存款，以備不時之需。"
+        },
+        {
+          "en": "Working part-time while studying helps students build up experience in the workplace before they graduate.",
+          "zh": "邊讀書邊兼職幫助學生在畢業前累積經驗。"
+        },
+        {
+          "en": "Dust can build up inside the machines, so they should be cleaned at least once a month.",
+          "zh": "灰塵可能會在機器裡累積，所以至少每個月要清潔一次。"
+        },
+        {
+          "en": "The company plans to build up its online sales by offering free delivery on every order.",
+          "zh": "公司計畫提供每筆訂單免運費來增加網路銷售。"
+        }
+      ],
+      "distractors": [
+        "build on",
+        "break up",
+        "bring up"
+      ],
+      "note": "語塊：build up savings（累積存款）、build up a business（建立事業）、build up experience（累積經驗）。build up 是「慢慢增加、建立起來」；buildup 是名詞「累積」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-complicated",
+      "word": "complicated",
+      "pos": "形容詞",
+      "meaning": "複雜的",
+      "sentences": [
+        {
+          "en": "The old system for ordering supplies was very complicated, so the company introduced a simpler one.",
+          "zh": "舊的用品訂購系統非常複雜，所以公司推出了一個比較簡單的。"
+        },
+        {
+          "en": "Many customers said that the instructions were too complicated and asked for a shorter version.",
+          "zh": "很多顧客說說明書太複雜，要求一個比較短的版本。"
+        },
+        {
+          "en": "Applying for a visa can be a complicated process, so the company helps employees with the paperwork.",
+          "zh": "申請簽證可能是一個複雜的流程，所以公司會協助員工處理文件。"
+        },
+        {
+          "en": "The new software is not as complicated as it looks, and most employees learn it in one day.",
+          "zh": "新軟體沒有看起來那麼複雜，大部分員工一天就學會了。"
+        },
+        {
+          "en": "The tax rules for small businesses are complicated, so many owners hire an accountant to help them.",
+          "zh": "小企業的稅務規定很複雜，所以很多老闆會請會計師幫忙。"
+        }
+      ],
+      "distractors": [
+        "complimentary",
+        "compliant",
+        "complete"
+      ],
+      "note": "語塊：complicated process（複雜的流程）、complicated instructions（複雜的說明）、too complicated（太複雜）、very complicated（非常複雜）、not as complicated（沒那麼複雜）。complicated 是「很複雜、難懂的」；complex 意思接近；complicate 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resources",
+      "word": "resources",
+      "pos": "名詞",
+      "meaning": "資源；資金",
+      "sentences": [
+        {
+          "en": "The company has limited resources, so it must choose its new projects very carefully this year.",
+          "zh": "公司的資源有限，所以必須仔細挑選專案。"
+        },
+        {
+          "en": "The country is rich in natural resources such as oil, gas, and wood, which it exports to Asia.",
+          "zh": "那個國家擁有豐富的石油、天然氣和木材等自然資源，出口到亞洲。"
+        },
+        {
+          "en": "The human resources department is responsible for hiring and training new employees in every department.",
+          "zh": "人力資源部負責招聘和訓練新員工。"
+        },
+        {
+          "en": "The library offers many free resources for students, including books, computers, and quiet study rooms.",
+          "zh": "圖書館為學生提供很多免費資源，包括書、電腦和自習室。"
+        },
+        {
+          "en": "Small businesses with limited resources often find it difficult to compete with large companies in the market.",
+          "zh": "資源有限的小企業常常覺得很難和大公司競爭。"
+        }
+      ],
+      "distractors": [
+        "recourses",
+        "sources",
+        "resorts"
+      ],
+      "note": "語塊：human resources（人力資源）、natural resources（自然資源）、limited resources（有限的資源）。resources 常用複數，指「可以使用的錢、人力、材料」；resourceful 是「足智多謀的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-handle",
+      "word": "handle",
+      "pos": "動詞",
+      "meaning": "處理；應付",
+      "sentences": [
+        {
+          "en": "The customer service team is trained to handle complaints from angry customers quickly and politely.",
+          "zh": "客服團隊受過訓練，能快速又有禮貌地處理投訴。"
+        },
+        {
+          "en": "Please handle the boxes with care, as they contain glass bottles that can break easily.",
+          "zh": "請小心處理這些箱子，因為裡面有容易破的玻璃瓶。"
+        },
+        {
+          "en": "The manager stayed calm and was able to handle the situation when the power went out.",
+          "zh": "停電時經理保持冷靜，處理好了狀況。"
+        },
+        {
+          "en": "Our warehouse can handle more than five thousand orders a day during the holiday season.",
+          "zh": "我們的倉庫在節慶期間每天能處理五千多筆訂單。"
+        },
+        {
+          "en": "The new assistant will handle all of the travel arrangements for the conference in Tokyo.",
+          "zh": "新助理會處理東京研討會的所有行程安排。"
+        }
+      ],
+      "distractors": [
+        "candle",
+        "bundle",
+        "handy"
+      ],
+      "note": "語塊：handle complaints（處理投訴）、handle with care（小心輕放）、handle the situation（處理情況）。handle 當動詞是「處理」；當名詞是「把手」；handling 是「處理」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-periodical",
+      "word": "periodical",
+      "pos": "名詞",
+      "meaning": "期刊；定期刊物",
+      "sentences": [
+        {
+          "en": "The library has a large collection of periodicals, and each periodical is kept on the second floor.",
+          "zh": "圖書館有大量期刊，每一本期刊都放在二樓。"
+        },
+        {
+          "en": "Dr. Kim's research was published in an academic periodical that is read by doctors around the world.",
+          "zh": "金博士的研究刊登在一本全世界醫生都會閱讀的學術期刊上。"
+        },
+        {
+          "en": "The company publishes a monthly periodical for its customers with news about new products and services.",
+          "zh": "公司為顧客發行一本月刊，介紹新產品的消息。"
+        },
+        {
+          "en": "Students can borrow any periodical from the library for one week, but they cannot take reference books home.",
+          "zh": "學生可以從圖書館借任何期刊一週，但參考書不能帶回家。"
+        },
+        {
+          "en": "The magazine is a popular periodical for people who are interested in cooking and travel.",
+          "zh": "那本雜誌是對烹飪和旅遊有興趣的人很喜歡的定期刊物。"
+        }
+      ],
+      "distractors": [
+        "periodic",
+        "particle",
+        "vertical"
+      ],
+      "note": "語塊：academic periodical（學術期刊）、monthly periodical（月刊）、each periodical（每一本期刊）、any periodical（任何期刊）、popular periodical（受歡迎的刊物）。periodical 是「定期出版的雜誌或期刊」；periodic 是形容詞「定期的」；magazine 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gather",
+      "word": "gather",
+      "pos": "動詞",
+      "meaning": "聚集；收集",
+      "sentences": [
+        {
+          "en": "The research team will gather information from customers by sending them a short online survey.",
+          "zh": "研究團隊會寄一份簡短的線上問卷，向顧客收集資訊。"
+        },
+        {
+          "en": "Employees will gather in the main hall at nine o'clock to hear the CEO's announcement.",
+          "zh": "員工九點會聚集在大廳聽執行長宣布消息。"
+        },
+        {
+          "en": "It took the scientists two years to gather data about the birds that live near the river.",
+          "zh": "科學家花了兩年收集住在河邊的鳥類的資料。"
+        },
+        {
+          "en": "The family likes to gather together for a large dinner during the national holidays every year.",
+          "zh": "那家人每年國定假日都喜歡聚在一起吃一頓豐盛的晚餐。"
+        },
+        {
+          "en": "Before writing the report, please gather all of the receipts and invoices from the last three months.",
+          "zh": "寫報告之前，請收集最近三個月所有的收據和發票。"
+        }
+      ],
+      "distractors": [
+        "father",
+        "rather",
+        "lather"
+      ],
+      "note": "語塊：gather information（收集資訊）、gather data（收集資料）、gather together（聚在一起）。gather 是「聚集、收集」；collect 意思接近；gathering 是名詞「聚會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stable",
+      "word": "stable",
+      "pos": "形容詞",
+      "meaning": "穩定的",
+      "sentences": [
+        {
+          "en": "The bank will approve the loan only if the applicant has a stable income from a full-time job.",
+          "zh": "只有申請人有全職工作的穩定收入，銀行才會核准貸款。"
+        },
+        {
+          "en": "Prices for food have remained stable this year, which is good news for families and restaurants.",
+          "zh": "今年食物價格保持穩定，對家庭和餐廳來說是好消息。"
+        },
+        {
+          "en": "A stable economy encourages companies to invest in new factories and hire more local workers.",
+          "zh": "穩定的經濟會鼓勵公司投資新工廠並聘用更多工人。"
+        },
+        {
+          "en": "The patient's condition is now stable, and doctors expect him to leave the hospital next week.",
+          "zh": "病人的狀況現在很穩定，醫生預期他下週就能出院。"
+        },
+        {
+          "en": "The company has been able to keep its prices stable for three years by reducing its costs.",
+          "zh": "公司透過降低成本，三年來一直讓價格保持穩定。"
+        }
+      ],
+      "distractors": [
+        "table",
+        "staple",
+        "suitable"
+      ],
+      "note": "語塊：stable income（穩定的收入）、stable economy（穩定的經濟）、remain stable（保持穩定）。stable 是「不會大幅變動的」；stability 是名詞；unstable 是「不穩定的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-middleman",
+      "word": "middleman",
+      "pos": "名詞",
+      "meaning": "中間商；仲介",
+      "sentences": [
+        {
+          "en": "By selling directly to customers online, the farm can cut out the middleman and offer lower prices.",
+          "zh": "透過在網路上直接賣給顧客，農場可以不經過中間商，提供更低的價格。"
+        },
+        {
+          "en": "The company acts as a middleman between small factories in Asia and large stores in Europe.",
+          "zh": "那家公司擔任亞洲小工廠和歐洲大型商店之間的中間商。"
+        },
+        {
+          "en": "Buying from the middleman is more expensive, but it saves time because they handle all of the shipping.",
+          "zh": "向中間商購買比較貴，但能省時間，因為他們處理所有運送。"
+        },
+        {
+          "en": "Many farmers prefer to sell at local markets so that they do not have to pay a middleman.",
+          "zh": "很多農民比較喜歡在當地市場賣，這樣就不用付錢給中間商。"
+        },
+        {
+          "en": "The new app allows customers to book hotels directly without using a middleman such as a travel agency.",
+          "zh": "新 App 讓顧客可以直接訂飯店，不用透過旅行社之類的中間人。"
+        }
+      ],
+      "distractors": [
+        "middle class",
+        "midnight",
+        "milkman"
+      ],
+      "note": "語塊：cut out the middleman（不經過中間商）、act as a middleman（擔任中間人）、pay a middleman（付錢給中間商）、using a middleman（透過中間人）、from the middleman（向中間商）。middleman 是「在買賣雙方之間賺差價的人」；broker、agent 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assignment",
+      "word": "assignment",
+      "pos": "名詞",
+      "meaning": "任務；作業；指派",
+      "sentences": [
+        {
+          "en": "Each team member will receive an assignment and must complete it before the meeting on Friday.",
+          "zh": "每位組員都會收到一項任務，必須在週五開會前完成。"
+        },
+        {
+          "en": "The teacher gave the students a writing assignment about a company that they admire and respect.",
+          "zh": "老師給學生一份寫作作業，寫一家他們欣賞的公司。"
+        },
+        {
+          "en": "The journalist is on assignment in Tokyo and will return to the office at the end of the month.",
+          "zh": "那位記者正在東京執行採訪任務，月底會回到辦公室。"
+        },
+        {
+          "en": "Ms. Park accepted a new assignment in the marketing department after working in sales for five years.",
+          "zh": "朴小姐在業務部工作五年後，接受了行銷部的新任務。"
+        },
+        {
+          "en": "Please let me know if you need more time to complete the assignment, as the deadline is flexible.",
+          "zh": "如果你需要更多時間完成任務，請告訴我，因為截止日很有彈性。"
+        }
+      ],
+      "distractors": [
+        "alignment",
+        "consignment",
+        "arrangement"
+      ],
+      "note": "語塊：complete an assignment（完成任務）、writing assignment（寫作作業）、on assignment（出差執行任務）。assignment 是「被分配的工作」；assign 是動詞「指派」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-obligation",
+      "word": "obligation",
+      "pos": "名詞",
+      "meaning": "義務；責任",
+      "sentences": [
+        {
+          "en": "You are under no obligation to buy anything if you attend the free demonstration this weekend.",
+          "zh": "如果你參加這個週末的免費示範，沒有義務購買任何東西。"
+        },
+        {
+          "en": "Employers have a legal obligation to provide a safe working environment for all of their employees.",
+          "zh": "雇主有法律義務為員工提供安全的工作環境。"
+        },
+        {
+          "en": "The company has an obligation to tell customers about any problems with the safety of its products.",
+          "zh": "公司有義務告訴顧客其產品的任何安全問題。"
+        },
+        {
+          "en": "Landlords have an obligation to repair any problems with the heating or water in their apartments.",
+          "zh": "房東有義務修理公寓暖氣或用水的任何問題。"
+        },
+        {
+          "en": "The free trial lasts for thirty days, and you are under no obligation to continue after that.",
+          "zh": "免費試用為期三十天，之後你沒有義務繼續使用。"
+        }
+      ],
+      "distractors": [
+        "obligate",
+        "oblivion",
+        "operation"
+      ],
+      "note": "語塊：be under no obligation（沒有義務）、legal obligation（法律義務）、obligation to（……的義務）。obligation 是「必須做的責任」；obligate 是動詞；oblige 是「使有義務」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
