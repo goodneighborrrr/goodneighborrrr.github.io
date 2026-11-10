@@ -48038,6 +48038,706 @@
       ],
       "note": "語塊：main function（主要功能）、perform a function（發揮作用）、social function（社交活動）。function 可以是「功能」或正式的「宴會、活動」；functional 是形容詞「實用的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-typically",
+      "word": "typically",
+      "pos": "副詞",
+      "meaning": "通常；典型地",
+      "sentences": [
+        {
+          "en": "Delivery typically takes three to five business days, but it may take longer during the holidays.",
+          "zh": "送貨通常需要三到五個工作天，但節慶期間可能會更久。"
+        },
+        {
+          "en": "This type of software is typically used by small businesses to manage their accounts and invoices.",
+          "zh": "這種軟體通常被小企業用來管理帳目和發票。"
+        },
+        {
+          "en": "The store is typically busiest on Saturday afternoons, so we schedule more staff at that time.",
+          "zh": "那家店通常在週六下午最忙，所以我們在那個時段排更多人手。"
+        },
+        {
+          "en": "New employees typically receive two weeks of training before they begin working with customers on their own.",
+          "zh": "新員工通常在開始接觸顧客前接受兩週的訓練。"
+        },
+        {
+          "en": "The weather in the region is typically warm and dry in the summer, which attracts many tourists.",
+          "zh": "那個地區夏天通常溫暖乾燥，吸引很多觀光客。"
+        }
+      ],
+      "distractors": [
+        "topically",
+        "tropically",
+        "tactically"
+      ],
+      "note": "語塊：typically take（通常需要）、typically used（通常用於）、typically busiest（通常最忙）、typically receive（通常會得到）、typically warm（通常溫暖）。typically 是「一般情況下」；usually、normally 意思接近；typical 是形容詞「典型的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overly",
+      "word": "overly",
+      "pos": "副詞",
+      "meaning": "過度地；太",
+      "sentences": [
+        {
+          "en": "Some customers think the new phone is overly expensive for the features that it offers.",
+          "zh": "有些顧客認為新手機就它提供的功能來說太貴了。"
+        },
+        {
+          "en": "The manager warned that the sales forecast for next year might be overly optimistic about the economy.",
+          "zh": "經理警告明年的銷售預測可能過度樂觀。"
+        },
+        {
+          "en": "The instructions for the machine are overly complicated, so we will write a simpler version.",
+          "zh": "機器的說明書太複雜了，所以我們會寫一個比較簡單的版本。"
+        },
+        {
+          "en": "Please do not be overly worried about the test, as most people pass it on their first attempt.",
+          "zh": "請不要對考試過度擔心，因為大部分人第一次就通過。"
+        },
+        {
+          "en": "The design of the website was overly complicated, so many customers had trouble finding products.",
+          "zh": "網站的設計太複雜了，所以很多顧客找不到產品。"
+        }
+      ],
+      "distractors": [
+        "orderly",
+        "overall",
+        "openly"
+      ],
+      "note": "語塊：overly expensive（太貴）、overly optimistic（過度樂觀）、overly complicated（太複雜）。overly 是「太……、過度地」；too 意思接近；over 當字首也有「過度」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-call-into-question",
+      "word": "call into question",
+      "pos": "片語動詞",
+      "meaning": "使……受到質疑",
+      "sentences": [
+        {
+          "en": "The new study may call into question the safety of the chemicals used in some cleaning products.",
+          "zh": "新研究可能讓人質疑某些清潔用品中化學物質的安全性。"
+        },
+        {
+          "en": "The mistakes in the report call into question the reliability of the data that the team collected.",
+          "zh": "報告中的錯誤讓人質疑團隊收集的資料的可靠性。"
+        },
+        {
+          "en": "The delays could call into question whether the company can finish the bridge before next summer.",
+          "zh": "延誤可能讓人質疑公司能否在明年夏天前完成那座橋。"
+        },
+        {
+          "en": "The manager's sudden resignation will call into question the future of the project he was leading.",
+          "zh": "經理突然辭職，會讓人質疑他所帶領的專案的未來。"
+        },
+        {
+          "en": "Several experts call into question the claim that the new diet helps people lose weight quickly.",
+          "zh": "好幾位專家質疑新飲食法能幫助人快速減重的說法。"
+        }
+      ],
+      "distractors": [
+        "call for",
+        "call off",
+        "call on"
+      ],
+      "note": "語塊：call into question（質疑……）。call sth into question 是「讓人開始懷疑某事」；question 當動詞也是「質疑」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-patiently",
+      "word": "patiently",
+      "pos": "副詞",
+      "meaning": "耐心地",
+      "sentences": [
+        {
+          "en": "Customers waited patiently in line outside the store for the new phone to go on sale.",
+          "zh": "顧客在店外耐心排隊，等新手機開賣。"
+        },
+        {
+          "en": "The teacher explained patiently how to use the new software until every student understood it.",
+          "zh": "老師耐心地解釋如何使用軟體，直到每位學生都懂為止。"
+        },
+        {
+          "en": "Thank you for waiting patiently while we repaired the problem with the elevator this morning.",
+          "zh": "謝謝你在今天早上我們修理電梯問題時耐心等候。"
+        },
+        {
+          "en": "The customer service representative listened patiently to the complaint and then offered a full refund.",
+          "zh": "客服代表耐心聆聽投訴，並提供全額退款。"
+        },
+        {
+          "en": "Passengers waited patiently at the airport for several hours until the terrible storm had passed.",
+          "zh": "乘客在機場耐心等了好幾個小時，直到暴風雨過去。"
+        }
+      ],
+      "distractors": [
+        "patently",
+        "passionately",
+        "partially"
+      ],
+      "note": "語塊：wait patiently（耐心等候）、explain patiently（耐心解釋）。patiently 是副詞；patient 是形容詞「有耐心的」或名詞「病人」；patience 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-schedule",
+      "word": "schedule",
+      "pos": "名詞",
+      "meaning": "時程表；行程",
+      "sentences": [
+        {
+          "en": "The construction of the new library is on schedule and will be finished in October.",
+          "zh": "新圖書館的工程按進度進行，將在十月完工。"
+        },
+        {
+          "en": "The team finished the project two weeks ahead of schedule, so the client was very pleased.",
+          "zh": "團隊提前兩週完成專案，所以客戶非常滿意。"
+        },
+        {
+          "en": "The project is behind schedule because some of the materials arrived late from the supplier.",
+          "zh": "專案落後進度，因為有些材料從供應商那裡晚到了。"
+        },
+        {
+          "en": "Please check the schedule on the website before you visit, as the museum closes early on Mondays.",
+          "zh": "參觀前請先查看網站上的時程表，因為博物館週一提早閉館。"
+        },
+        {
+          "en": "The manager will send everyone a copy of the new work schedule for next month by Friday.",
+          "zh": "經理會在週五前寄給每個人一份下個月的新工作時程表。"
+        }
+      ],
+      "distractors": [
+        "scheme",
+        "scheduler",
+        "module"
+      ],
+      "note": "語塊：on schedule（按進度）、ahead of schedule（提前）、behind schedule（落後進度）。schedule 可以當名詞或動詞「安排時間」；timetable 是「時刻表」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inexperienced",
+      "word": "inexperienced",
+      "pos": "形容詞",
+      "meaning": "沒有經驗的；生疏的",
+      "sentences": [
+        {
+          "en": "Inexperienced staff will work with a senior employee during their first month at the company.",
+          "zh": "缺乏經驗的員工在公司的第一個月會和一位資深員工一起工作。"
+        },
+        {
+          "en": "An inexperienced driver should avoid driving on narrow mountain roads when the weather is bad.",
+          "zh": "新手駕駛在天氣不好時應該避免開山路。"
+        },
+        {
+          "en": "The company prefers to hire inexperienced workers and train them in its own way from the start.",
+          "zh": "公司比較喜歡聘用沒有經驗的員工，再用自己的方式訓練他們。"
+        },
+        {
+          "en": "Many inexperienced investors lose money because they do not understand the risks of the stock market.",
+          "zh": "很多沒經驗的投資人賠錢，因為他們不了解股市的風險。"
+        },
+        {
+          "en": "The manager was patient with the inexperienced team and explained every step of the process carefully.",
+          "zh": "經理對缺乏經驗的團隊很有耐心，仔細解說流程的每一個步驟。"
+        }
+      ],
+      "distractors": [
+        "inexpensive",
+        "unexpected",
+        "inexplicable"
+      ],
+      "note": "語塊：inexperienced staff（缺乏經驗的員工）、inexperienced driver（新手駕駛）、inexperienced workers（沒經驗的員工）、inexperienced investors（沒經驗的投資人）、inexperienced team（缺乏經驗的團隊）。inexperienced 是「經驗不足的」；experienced 是「有經驗的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resume",
+      "word": "resume",
+      "pos": "動詞",
+      "meaning": "恢復；重新開始",
+      "sentences": [
+        {
+          "en": "Train service will resume on Monday morning after the damaged tracks near the station have been repaired.",
+          "zh": "受損的軌道修好後，火車服務將在週一早上恢復。"
+        },
+        {
+          "en": "The meeting will resume after a short break, so please return to the conference room by eleven.",
+          "zh": "會議短暫休息後會繼續，所以請在十一點前回到會議室。"
+        },
+        {
+          "en": "The factory will resume production next week once the new machines have been installed and tested.",
+          "zh": "新機器安裝並測試完成後，工廠將在下週恢復生產。"
+        },
+        {
+          "en": "Workers will resume work on the bridge when the weather improves later this week, the manager said.",
+          "zh": "這週稍晚天氣好轉時，工人將恢復橋樑的工程。"
+        },
+        {
+          "en": "The airline plans to resume service to the island after the airport is repaired next month.",
+          "zh": "機場下個月修好後，航空公司計畫恢復飛往那座島的服務。"
+        }
+      ],
+      "distractors": [
+        "assume",
+        "consume",
+        "presume"
+      ],
+      "note": "語塊：resume work（恢復工作）、resume service（恢復服務）、resume production（恢復生產）。resume 當動詞（re-ZOOM）是「恢復」；résumé（REZ-oo-may）是名詞「履歷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gathering",
+      "word": "gathering",
+      "pos": "名詞",
+      "meaning": "聚會；集會",
+      "sentences": [
+        {
+          "en": "The hotel has a private room that is perfect for a small gathering or a business dinner with clients.",
+          "zh": "飯店有一間私人包廂，非常適合小型聚會或和客戶的商務晚餐。"
+        },
+        {
+          "en": "Many families travel long distances to attend a family gathering during the long national holidays.",
+          "zh": "很多家庭在國定假日長途跋涉參加家庭聚會。"
+        },
+        {
+          "en": "The police closed the main street for a large gathering of people who were celebrating the team's victory.",
+          "zh": "警方因為大批民眾聚集慶祝球隊勝利而封閉主要街道。"
+        },
+        {
+          "en": "The company organizes a social gathering every Friday evening so that employees can get to know each other.",
+          "zh": "公司每週五晚上舉辦社交聚會，讓員工彼此認識。"
+        },
+        {
+          "en": "The park is a popular place for a family gathering on weekends, especially when the weather is warm.",
+          "zh": "那座公園是週末家庭聚會的熱門地點，尤其是天氣溫暖的時候。"
+        }
+      ],
+      "distractors": [
+        "gardening",
+        "gaining",
+        "greeting"
+      ],
+      "note": "語塊：social gathering（社交聚會）、family gathering（家庭聚會）、a large gathering（大型集會）、a small gathering（小型聚會）。gathering 是「聚在一起的活動」；gather 是動詞「聚集；收集」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-additional",
+      "word": "additional",
+      "pos": "形容詞",
+      "meaning": "額外的；附加的",
+      "sentences": [
+        {
+          "en": "For additional information about our services, please visit our website or call our main office.",
+          "zh": "想了解我們服務的更多資訊，請上我們的網站或打電話到辦公室。"
+        },
+        {
+          "en": "Customers can upgrade to a larger room at no additional charge if they book before the end of the week.",
+          "zh": "顧客如果在週末前訂房，可以免費升等到較大的房間。"
+        },
+        {
+          "en": "The hotel charges an additional cost for guests who want to check out after noon.",
+          "zh": "飯店對想在中午後退房的客人收取額外費用。"
+        },
+        {
+          "en": "The company plans to hire additional staff during the busy holiday season to help in the warehouse.",
+          "zh": "公司計畫在忙碌的節慶期間增聘人手到倉庫幫忙。"
+        },
+        {
+          "en": "If you need additional time to finish the report, please let the manager know before Friday.",
+          "zh": "如果你需要更多時間完成報告，請在週五前告訴經理。"
+        }
+      ],
+      "distractors": [
+        "addictive",
+        "traditional",
+        "conditional"
+      ],
+      "note": "語塊：additional cost（額外費用）、additional information（更多資訊）、at no additional charge（不另收費）。additional 是「另外多的」；extra 意思接近；additionally 是副詞「此外」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overwhelming",
+      "word": "overwhelming",
+      "pos": "形容詞",
+      "meaning": "壓倒性的；勢不可擋的",
+      "sentences": [
+        {
+          "en": "The new product received an overwhelming response from customers, and it sold out within a week.",
+          "zh": "新產品獲得顧客熱烈的回應，一週內就賣光了。"
+        },
+        {
+          "en": "An overwhelming majority of employees voted in favor of the new flexible working hours last week.",
+          "zh": "壓倒性多數的員工投票支持新的彈性工時。"
+        },
+        {
+          "en": "The plan to build a new park received overwhelming support from residents of the neighborhood.",
+          "zh": "興建新公園的計畫獲得社區居民壓倒性的支持。"
+        },
+        {
+          "en": "The amount of work can feel overwhelming at first, but it becomes easier after a few weeks.",
+          "zh": "工作量一開始可能會讓人招架不住，但幾週後就會變得比較容易。"
+        },
+        {
+          "en": "The charity thanked donors for the overwhelming response to its campaign to help families after the flood.",
+          "zh": "那個慈善團體感謝捐款人對它水災後幫助家庭的活動給予熱烈回應。"
+        }
+      ],
+      "distractors": [
+        "overweight",
+        "overlapping",
+        "overlooking"
+      ],
+      "note": "語塊：overwhelming response（熱烈的回應）、overwhelming majority（壓倒性多數）、overwhelming support（壓倒性的支持）。overwhelming 是「多到讓人招架不住的」；overwhelmed 是「（人）不知所措的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-demand",
+      "word": "demand",
+      "pos": "名詞",
+      "meaning": "需求；要求",
+      "sentences": [
+        {
+          "en": "The factory hired more workers to meet the demand for its electric bicycles during the summer.",
+          "zh": "工廠增聘工人，以滿足夏天對電動自行車的需求。"
+        },
+        {
+          "en": "Experienced nurses are in high demand, so hospitals are offering higher salaries to attract them.",
+          "zh": "有經驗的護士需求很高，所以醫院提供更高的薪水吸引他們。"
+        },
+        {
+          "en": "There has been a sharp increase in demand for online courses since more people started working from home.",
+          "zh": "自從更多人開始在家工作，線上課程的需求大幅增加。"
+        },
+        {
+          "en": "The store could not meet the demand for the new phone, so many customers had to wait for weeks.",
+          "zh": "那家店無法滿足新手機的需求，所以很多顧客要等好幾週。"
+        },
+        {
+          "en": "The demand for organic food is growing quickly, especially among young families in large cities.",
+          "zh": "有機食品的需求正快速成長，尤其是在大城市的年輕家庭之間。"
+        }
+      ],
+      "distractors": [
+        "command",
+        "remand",
+        "depend"
+      ],
+      "note": "語塊：demand for（對……的需求）、meet the demand（滿足需求）、in high demand（需求很高）。demand 可以當名詞或動詞「要求」；supply and demand 是「供給與需求」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-performance",
+      "word": "performance",
+      "pos": "名詞",
+      "meaning": "表現；績效；演出",
+      "sentences": [
+        {
+          "en": "Managers will review the job performance of every employee at the end of the year.",
+          "zh": "經理會在年底檢討每位員工的工作表現。"
+        },
+        {
+          "en": "Each employee has a performance review with their manager twice a year to discuss their goals.",
+          "zh": "每位員工一年和經理進行兩次績效考核，討論他們的目標。"
+        },
+        {
+          "en": "The band's live performance at the music festival was the most popular event of the weekend.",
+          "zh": "那個樂團在音樂節的現場演出是週末最受歡迎的活動。"
+        },
+        {
+          "en": "The new software has improved the performance of our computers, which now run much faster.",
+          "zh": "新軟體改善了我們電腦的效能，現在跑得快多了。"
+        },
+        {
+          "en": "Bonuses are based on each employee's performance and the overall profits of the company each year.",
+          "zh": "獎金根據每位員工的表現和公司的整體獲利決定。"
+        }
+      ],
+      "distractors": [
+        "preference",
+        "persistence",
+        "perseverance"
+      ],
+      "note": "語塊：job performance（工作表現）、performance review（績效考核）、live performance（現場演出）。performance 可以是「工作表現」或「演出」；perform 是動詞；performer 是「表演者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-claim",
+      "word": "claim",
+      "pos": "動詞",
+      "meaning": "聲稱；索取；申請",
+      "sentences": [
+        {
+          "en": "Some companies claim that their phones have the longest battery life, but tests often show otherwise.",
+          "zh": "有些公司聲稱自家手機電池續航最久，但測試常常顯示並非如此。"
+        },
+        {
+          "en": "Customers can claim a refund within thirty days if they are not satisfied with their purchase.",
+          "zh": "顧客如果不滿意購買的商品，可以在三十天內要求退款。"
+        },
+        {
+          "en": "Passengers can claim baggage at the end of the hall after they pass through immigration.",
+          "zh": "乘客通過入境審查後，可以在大廳盡頭領取行李。"
+        },
+        {
+          "en": "Employees who travel for work can claim expenses for meals and local transportation each month.",
+          "zh": "因公出差的員工每個月可以申請餐費和交通費。"
+        },
+        {
+          "en": "Some critics claim that the new law will hurt small businesses, but the government disagrees.",
+          "zh": "有些批評者聲稱新法律會傷害小企業，但政府不同意。"
+        }
+      ],
+      "distractors": [
+        "clam",
+        "clean",
+        "acclaim"
+      ],
+      "note": "語塊：claim that（聲稱……）、claim a refund（要求退款）、claim baggage（領取行李）。claim 可以是「聲稱」或「要求得到（權利、物品）」；baggage claim 是「行李提領處」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-acceptable",
+      "word": "acceptable",
+      "pos": "形容詞",
+      "meaning": "可接受的",
+      "sentences": [
+        {
+          "en": "The price of the new office is acceptable to the board, so they will sign the lease next week.",
+          "zh": "新辦公室的價格董事會可以接受，所以下週會簽租約。"
+        },
+        {
+          "en": "After several weeks of negotiations, the two companies agreed on an acceptable price for the land.",
+          "zh": "經過幾週的談判，兩家公司對土地達成了可接受的價格。"
+        },
+        {
+          "en": "The handbook explains what kinds of acceptable behavior are expected from employees at work and at events.",
+          "zh": "手冊說明了員工在工作中應有的可接受行為。"
+        },
+        {
+          "en": "Is the delivery date acceptable to you, or would you prefer us to send the order earlier?",
+          "zh": "送貨日期你可以接受嗎，還是你希望我們早點寄出訂單？"
+        },
+        {
+          "en": "The quality of the samples was acceptable, so the company placed a large order with the supplier.",
+          "zh": "樣品的品質可以接受，所以公司向那家供應商下了一筆大訂單。"
+        }
+      ],
+      "distractors": [
+        "accessible",
+        "affordable",
+        "adaptable"
+      ],
+      "note": "語塊：acceptable to（……可以接受的）、an acceptable price（可接受的價格）、acceptable behavior（可接受的行為）。acceptable 是「可以被接受的」；unacceptable 是「無法接受的」；accept 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appreciation",
+      "word": "appreciation",
+      "pos": "名詞",
+      "meaning": "感謝；欣賞；增值",
+      "sentences": [
+        {
+          "en": "The company held a dinner in appreciation of the employees who worked overtime during the busy season.",
+          "zh": "公司舉辦了一場晚宴，感謝在旺季加班的員工。"
+        },
+        {
+          "en": "The manager sent a card to each volunteer to show appreciation for their help with the event.",
+          "zh": "經理寄卡片給每位志工，表示對他們協助活動的感謝。"
+        },
+        {
+          "en": "The museum offers free classes to help children develop an appreciation of art from an early age.",
+          "zh": "博物館提供免費課程，幫助孩子從小培養藝術欣賞能力。"
+        },
+        {
+          "en": "In appreciation of his thirty years of service, Mr. Lopez received a gift from the company.",
+          "zh": "為了感謝 Lopez 先生三十年的服務，他收到公司送的一份禮物。"
+        },
+        {
+          "en": "Customers showed their appreciation for the new service by leaving many positive reviews on the website.",
+          "zh": "顧客在網路上留下很多正面評價，表達他們對新服務的欣賞。"
+        }
+      ],
+      "distractors": [
+        "appreciable",
+        "depreciation",
+        "application"
+      ],
+      "note": "語塊：in appreciation of（為了感謝……）、show appreciation（表示感謝）、appreciation of art（藝術欣賞）。appreciation 是名詞；appreciate 是動詞「感謝；欣賞」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-discrete",
+      "word": "discrete",
+      "pos": "形容詞",
+      "meaning": "分開的；獨立的",
+      "sentences": [
+        {
+          "en": "The project has been divided into five discrete parts, and each team is responsible for one part.",
+          "zh": "專案被分成五個獨立的部分，每個團隊負責一部分。"
+        },
+        {
+          "en": "The training course is made up of several discrete steps that students can complete at their own pace.",
+          "zh": "訓練課程由幾個分開的步驟組成，學員可以按自己的步調完成。"
+        },
+        {
+          "en": "The factory has discrete areas for storing raw materials, spare parts, and finished products safely.",
+          "zh": "工廠有分開的區域存放原料和成品。"
+        },
+        {
+          "en": "The report divides customers into discrete groups based on their age and where they live.",
+          "zh": "報告根據顧客的年齡和居住地，把他們分成幾個獨立的群組。"
+        },
+        {
+          "en": "Each discrete part of the machine can be replaced easily if it stops working properly.",
+          "zh": "機器的每個獨立零件如果不能正常運作，都可以很容易地更換。"
+        }
+      ],
+      "distractors": [
+        "discreet",
+        "concrete",
+        "complete"
+      ],
+      "note": "語塊：discrete parts（獨立的部分）、discrete steps（分開的步驟）。discrete 是「各自分開的」；discreet 是「謹慎的、低調的」，發音一樣但意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commit",
+      "word": "commit",
+      "pos": "動詞",
+      "meaning": "承諾；致力於；犯（錯）",
+      "sentences": [
+        {
+          "en": "The company will commit to reducing its plastic waste by fifty percent over the next five years.",
+          "zh": "公司承諾在未來五年把塑膠垃圾減少一半。"
+        },
+        {
+          "en": "The government plans to commit resources to improving public schools and hospitals in rural areas.",
+          "zh": "政府計畫投入資源改善鄉村地區的公立學校。"
+        },
+        {
+          "en": "Please check your work carefully so that you do not commit a mistake in the financial report.",
+          "zh": "請仔細檢查你的工作，以免在財務報告中犯錯。"
+        },
+        {
+          "en": "Before you commit to a long-term contract, compare the prices offered by several different suppliers.",
+          "zh": "在承諾簽長期合約之前，先比較幾家供應商的價格。"
+        },
+        {
+          "en": "The new CEO promised to commit more money to research and the development of new products.",
+          "zh": "新執行長承諾投入更多資金在研究和新產品開發上。"
+        }
+      ],
+      "distractors": [
+        "comment",
+        "commute",
+        "submit"
+      ],
+      "note": "語塊：commit to（承諾……）、commit resources（投入資源）、commit a mistake（犯錯）。commit to 的 to 是介系詞，後面接名詞或 V-ing；committed 是形容詞「投入的」；commitment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-for",
+      "word": "look for",
+      "pos": "片語動詞",
+      "meaning": "尋找",
+      "sentences": [
+        {
+          "en": "Many graduates move to large cities to look for a job in technology or finance.",
+          "zh": "很多畢業生搬到大城市找科技或金融方面的工作。"
+        },
+        {
+          "en": "The engineers will look for ways to save energy in the factory without slowing down production.",
+          "zh": "工程師會在不拖慢生產的情況下，尋找讓工廠節能的方法。"
+        },
+        {
+          "en": "If you cannot find the room, please look for the signs on the wall near the elevator.",
+          "zh": "如果你找不到房間，請找電梯附近牆上的標示。"
+        },
+        {
+          "en": "The manager asked the team to look for a cheaper supplier because prices have increased.",
+          "zh": "因為價格上漲，經理要團隊尋找更便宜的供應商。"
+        },
+        {
+          "en": "Tourists often look for restaurants that serve traditional food when they visit a new city.",
+          "zh": "觀光客造訪新城市時常常會尋找供應傳統食物的餐廳。"
+        }
+      ],
+      "distractors": [
+        "look after",
+        "look into",
+        "look up"
+      ],
+      "note": "語塊：look for a job（找工作）、look for ways to（尋找方法）、look for the signs（找標示）、look for a cheaper（找更便宜的……）、look for restaurants（找餐廳）。look for 是「尋找」；search for 意思接近；look after 是「照顧」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fast-paced",
+      "word": "fast-paced",
+      "pos": "形容詞",
+      "meaning": "快節奏的",
+      "sentences": [
+        {
+          "en": "We are looking for someone who enjoys working in a fast-paced environment with tight deadlines.",
+          "zh": "我們在找喜歡在截止期限緊、快節奏環境中工作的人。"
+        },
+        {
+          "en": "Technology is a fast-paced industry, so employees must learn new skills and tools every single year.",
+          "zh": "科技是一個快節奏的產業，所以員工每一年都必須學新技能。"
+        },
+        {
+          "en": "Working in a fast-paced restaurant kitchen requires good teamwork and clear communication between the cooks.",
+          "zh": "在快節奏的餐廳廚房工作需要良好的團隊合作和清楚的溝通。"
+        },
+        {
+          "en": "The fast-paced training program prepares new employees to work with customers in only two weeks.",
+          "zh": "快節奏的訓練計畫讓新員工只要兩週就能準備好接待顧客。"
+        },
+        {
+          "en": "Some people enjoy the fast-paced life of the city, while others prefer the quiet countryside.",
+          "zh": "有些人喜歡城市快節奏的生活，有些人則比較喜歡安靜的鄉下。"
+        }
+      ],
+      "distractors": [
+        "well-paid",
+        "fast-food",
+        "fast-moving"
+      ],
+      "note": "語塊：fast-paced environment（快節奏的環境）、fast-paced industry（快節奏的產業）、fast-paced restaurant（快節奏的餐廳）、fast-paced life（快節奏的生活）。fast-paced 放在名詞前要加連字號；slow-paced 是「步調緩慢的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-time-constraint",
+      "word": "time constraint",
+      "pos": "名詞",
+      "meaning": "時間限制",
+      "sentences": [
+        {
+          "en": "Because of a time constraint, we will discuss only the most important items at today's meeting.",
+          "zh": "因為時間有限，我們今天的會議只討論最重要的項目。"
+        },
+        {
+          "en": "The team had to work under a strict time constraint to finish the project before the holiday.",
+          "zh": "團隊必須在嚴格的時間限制下工作，在假期前完成專案。"
+        },
+        {
+          "en": "The speaker could not answer every question because of the time constraint at the end of the session.",
+          "zh": "因為場次最後時間有限，講者無法回答每個問題。"
+        },
+        {
+          "en": "A tight time constraint made it difficult for the designers to try several different ideas.",
+          "zh": "緊迫的時間限制讓設計師很難嘗試好幾個不同的點子。"
+        },
+        {
+          "en": "Good planning can help employees deal with any time constraint that they face at work.",
+          "zh": "良好的規劃能幫助員工應付工作中遇到的任何時間限制。"
+        }
+      ],
+      "distractors": [
+        "time limit",
+        "time zone",
+        "time frame"
+      ],
+      "note": "語塊：because of time constraints（因為時間有限）、work under time constraints（在時間壓力下工作）。time constraint 常用複數 time constraints；constraint 是「限制」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
