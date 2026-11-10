@@ -75968,6 +75968,706 @@
       ],
       "note": "語塊：scatter seeds（撒種子）、scatter across（分散在……各地）、scatter the papers（吹散文件）。scatter 是「往四處散開」；spread 意思接近；gather 是相反「聚集」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inquire",
+      "word": "inquire",
+      "pos": "動詞",
+      "meaning": "詢問；打聽",
+      "sentences": [
+        {
+          "en": "Many customers called to inquire about the new phone before it went on sale last week.",
+          "zh": "上週新手機開賣前，很多顧客打電話詢問。"
+        },
+        {
+          "en": "Please contact the front desk if you would like to inquire about room prices for the holiday season.",
+          "zh": "如果您想詢問假期期間的房價，請聯絡櫃台。"
+        },
+        {
+          "en": "The government will inquire into the causes of the accident at the factory and publish a report.",
+          "zh": "政府將調查工廠事故的原因並發布報告。"
+        },
+        {
+          "en": "Ms. Kim sent an e-mail to inquire about the job advertisement she saw on the company website.",
+          "zh": "金小姐寄了一封電子郵件，詢問她在公司網站上看到的徵才廣告。"
+        },
+        {
+          "en": "Visitors who want to inquire about guided tours should go to the information desk near the entrance.",
+          "zh": "想詢問導覽的參觀者應該到入口附近的服務台。"
+        }
+      ],
+      "distractors": [
+        "acquire",
+        "require",
+        "enquire"
+      ],
+      "note": "語塊：inquire about（詢問有關……）、inquire into（調查……）。inquire 比 ask 正式；inquiry 是名詞「詢問」；require 是「需要」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-behalf-of",
+      "word": "on behalf of",
+      "pos": "介系詞",
+      "meaning": "代表；為了",
+      "sentences": [
+        {
+          "en": "On behalf of the company, I would like to thank all of you for your hard work this year.",
+          "zh": "我謹代表公司，感謝大家今年的辛勤工作。"
+        },
+        {
+          "en": "Ms. Park accepted the award on behalf of the entire team, who could not attend the ceremony.",
+          "zh": "朴小姐代表無法出席典禮的整個團隊領獎。"
+        },
+        {
+          "en": "The lawyer will sign the contract on behalf of the client, who is traveling abroad this week.",
+          "zh": "律師會代表這週在國外出差的客戶簽約。"
+        },
+        {
+          "en": "On behalf of everyone at the hotel, we hope you enjoy your stay and come back again soon.",
+          "zh": "我們謹代表飯店全體同仁，希望您住得愉快並很快再度光臨。"
+        },
+        {
+          "en": "The manager wrote a letter on behalf of the company to apologize for the late delivery.",
+          "zh": "經理代表公司寫信為延遲送貨道歉。"
+        }
+      ],
+      "distractors": [
+        "in favor of",
+        "in place of",
+        "by way of"
+      ],
+      "note": "語塊：on behalf of the company（代表公司）、on behalf of everyone（代表大家）。on behalf of 是「代表某人或某單位」；instead of 是「代替；而不是」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-press",
+      "word": "press",
+      "pos": "名詞",
+      "meaning": "新聞界；媒體",
+      "sentences": [
+        {
+          "en": "The company will hold a press conference tomorrow to announce the name of its new CEO.",
+          "zh": "公司明天將召開記者會，宣布新任執行長的名字。"
+        },
+        {
+          "en": "The new product received a lot of attention from the press after the launch event in Tokyo.",
+          "zh": "新產品在東京的發表活動後受到媒體很多關注。"
+        },
+        {
+          "en": "Please send the press release to every newspaper in the city before noon on Friday.",
+          "zh": "請在週五中午前把新聞稿寄給市內每一家報社。"
+        },
+        {
+          "en": "The mayor answered questions from the press about the plan to build a new stadium near the river.",
+          "zh": "市長回答媒體關於在河邊蓋新體育場計畫的提問。"
+        },
+        {
+          "en": "Only members of the press can enter the room before the event begins, so please show your ID card.",
+          "zh": "活動開始前只有媒體人員可以進入會場，所以請出示證件。"
+        }
+      ],
+      "distractors": [
+        "dress",
+        "pressure",
+        "express"
+      ],
+      "note": "語塊：press conference（記者會）、press release（新聞稿）、the press（新聞媒體）。the press 是「新聞界、記者們」；press 當動詞是「按；壓」；pressure 是「壓力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-black-tie",
+      "word": "black-tie",
+      "pos": "形容詞",
+      "meaning": "需穿正式晚禮服的",
+      "sentences": [
+        {
+          "en": "The charity will hold a black-tie dinner at the hotel to raise money for the children's hospital.",
+          "zh": "慈善機構將在飯店舉辦一場正式晚宴，為兒童醫院募款。"
+        },
+        {
+          "en": "Guests at the black-tie event must wear formal clothes, such as suits and evening dresses.",
+          "zh": "正式晚宴的賓客必須穿正式服裝，例如西裝和晚禮服。"
+        },
+        {
+          "en": "The company's anniversary party will be a black-tie event, so please rent a suit if you do not have one.",
+          "zh": "公司的週年派對是正式晚宴，所以如果你沒有西裝請去租一套。"
+        },
+        {
+          "en": "More than three hundred people attended the black-tie dinner, including several famous actors and the mayor of the city.",
+          "zh": "三百多人參加了那場正式晚宴，包括好幾位知名演員和市長。"
+        },
+        {
+          "en": "The hotel's main hall is often used for black-tie events, such as weddings and award ceremonies.",
+          "zh": "飯店大廳常用來舉辦婚禮和頒獎典禮等正式晚宴。"
+        }
+      ],
+      "distractors": [
+        "white-collar",
+        "blue-collar",
+        "red-carpet"
+      ],
+      "note": "語塊：black-tie event（正式晚宴）、black-tie dinner（正式晚宴）。black-tie 是「男士要打黑領結、穿禮服」的正式場合；casual 是「輕便的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-participate",
+      "word": "participate",
+      "pos": "動詞",
+      "meaning": "參加；參與",
+      "sentences": [
+        {
+          "en": "All employees are encouraged to participate in the charity run that the company organizes every spring.",
+          "zh": "公司鼓勵所有員工參加每年春天舉辦的慈善路跑。"
+        },
+        {
+          "en": "Students who actively participate in class discussions usually get better grades at the end of the course.",
+          "zh": "積極參與課堂討論的學生，課程結束時通常成績比較好。"
+        },
+        {
+          "en": "More than two hundred companies will participate in the international trade show in Shanghai next month.",
+          "zh": "下個月將有兩百多家公司參加在上海舉辦的國際展覽。"
+        },
+        {
+          "en": "Customers who participate in the survey will receive a ten percent discount on their next purchase.",
+          "zh": "參加調查的顧客下次購物可以打九折。"
+        },
+        {
+          "en": "The manager wants every team member to participate in the meeting and share their ideas.",
+          "zh": "經理希望每位組員都參與會議並分享想法。"
+        }
+      ],
+      "distractors": [
+        "precipitate",
+        "anticipate",
+        "particular"
+      ],
+      "note": "語塊：participate in（參加……）、actively participate（積極參與）。participate in 等於 take part in；participant 是「參加者」；participation 是名詞「參與」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fundraising",
+      "word": "fundraising",
+      "pos": "名詞",
+      "meaning": "募款",
+      "sentences": [
+        {
+          "en": "The school's fundraising event raised more than ten thousand dollars for new books and computers.",
+          "zh": "學校的募款活動為新書和電腦募到一萬多元。"
+        },
+        {
+          "en": "The hospital started a fundraising campaign to build a new children's ward and buy medical equipment next year.",
+          "zh": "醫院發起一項募款運動，要在明年蓋一間新的兒童病房並購買醫療設備。"
+        },
+        {
+          "en": "The museum reached its fundraising goal two months early thanks to donations from local businesses.",
+          "zh": "多虧當地企業的捐款，博物館提早兩個月達成募款目標。"
+        },
+        {
+          "en": "Volunteers helped with the fundraising event by selling food and drinks at the park on Saturday.",
+          "zh": "志工週六在公園賣食物和飲料，幫忙募款活動。"
+        },
+        {
+          "en": "The charity uses social media for its fundraising campaign, and many young people have donated online.",
+          "zh": "慈善機構用社群媒體進行募款運動，很多年輕人在網路上捐款。"
+        }
+      ],
+      "distractors": [
+        "fundamental",
+        "funding",
+        "fundraiser"
+      ],
+      "note": "語塊：fundraising event（募款活動）、fundraising campaign（募款運動）、fundraising goal（募款目標）。fundraising 是「募款這件事」；fundraiser 是「募款活動或募款人」；fund 是「資金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-delighted",
+      "word": "delighted",
+      "pos": "形容詞",
+      "meaning": "非常高興的",
+      "sentences": [
+        {
+          "en": "We are delighted to announce that Ms. Park has been promoted to director of the marketing department.",
+          "zh": "我們很高興宣布朴小姐被升為行銷部總監。"
+        },
+        {
+          "en": "The customers were delighted with the new menu and left many positive reviews on the restaurant's website.",
+          "zh": "顧客對新菜單非常滿意，在餐廳網站上留下很多好評。"
+        },
+        {
+          "en": "I would be delighted to attend the dinner, and I will bring my business partner with me.",
+          "zh": "我很樂意參加晚宴，我會帶我的事業夥伴一起去。"
+        },
+        {
+          "en": "The team was delighted to hear that the project had won an international award for design.",
+          "zh": "團隊聽到專案獲得國際設計獎時非常高興。"
+        },
+        {
+          "en": "Ms. Lee was delighted with the results of the survey, which showed that customers loved the new service.",
+          "zh": "李小姐對調查結果非常滿意，結果顯示顧客很喜歡新服務。"
+        }
+      ],
+      "distractors": [
+        "delightful",
+        "delegated",
+        "deleted"
+      ],
+      "note": "語塊：be delighted to（很高興……）、be delighted with（對……很滿意）。delighted 比 happy 更強烈、更正式；delightful 是「令人愉快的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scholarship",
+      "word": "scholarship",
+      "pos": "名詞",
+      "meaning": "獎學金",
+      "sentences": [
+        {
+          "en": "Ms. Lin received a full scholarship to study business at a famous university in London.",
+          "zh": "林小姐獲得全額獎學金，到倫敦一所知名大學念商科。"
+        },
+        {
+          "en": "Students with excellent grades can apply for a scholarship that covers all of their university fees.",
+          "zh": "成績優秀的學生可以申請涵蓋全部大學學費的獎學金。"
+        },
+        {
+          "en": "The company offers a scholarship every year to the children of employees who study engineering.",
+          "zh": "公司每年提供獎學金給就讀工程科系的員工子女。"
+        },
+        {
+          "en": "Thanks to a full scholarship, Mr. Kim was able to finish his studies without borrowing any money.",
+          "zh": "多虧全額獎學金，金先生不用借任何錢就完成了學業。"
+        },
+        {
+          "en": "The deadline to apply for a scholarship is the end of March, so please send your documents early.",
+          "zh": "申請獎學金的截止日是三月底，所以請提早寄出文件。"
+        }
+      ],
+      "distractors": [
+        "citizenship",
+        "fellowship",
+        "partnership"
+      ],
+      "note": "語塊：receive a scholarship（獲得獎學金）、apply for a scholarship（申請獎學金）、full scholarship（全額獎學金）。scholarship 是「給學生的獎學金」；scholar 是「學者」；grant 是「補助金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-honorary",
+      "word": "honorary",
+      "pos": "形容詞",
+      "meaning": "榮譽的；名譽的",
+      "sentences": [
+        {
+          "en": "The university will give an honorary degree to the famous scientist at the commencement ceremony.",
+          "zh": "大學將在畢業典禮上頒發榮譽學位給那位知名科學家。"
+        },
+        {
+          "en": "Mr. Wong was made an honorary member of the association because of his work for the community.",
+          "zh": "王先生因為對社區的貢獻，被授予協會的榮譽會員。"
+        },
+        {
+          "en": "The city named the famous singer an honorary citizen after she gave a free concert in the park.",
+          "zh": "那位知名歌手在公園舉辦免費演唱會後，市政府授予她榮譽市民。"
+        },
+        {
+          "en": "The former CEO received an honorary degree from the business school where he studied forty years ago.",
+          "zh": "前任執行長獲得他四十年前就讀的商學院頒發的榮譽學位。"
+        },
+        {
+          "en": "Each honorary member of the club can use the gym and the restaurant for free for the rest of his life.",
+          "zh": "俱樂部的每位榮譽會員終身都可以免費使用健身房和餐廳。"
+        }
+      ],
+      "distractors": [
+        "honorable",
+        "ordinary",
+        "monetary"
+      ],
+      "note": "語塊：honorary degree（榮譽學位）、honorary member（榮譽會員）、honorary citizen（榮譽市民）。honorary 是「為了表示尊敬而給的，不是正式取得的」；honorable 是「值得尊敬的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pop-culture",
+      "word": "pop culture",
+      "pos": "名詞",
+      "meaning": "流行文化",
+      "sentences": [
+        {
+          "en": "The museum's new exhibition shows how pop culture has changed over the past fifty years.",
+          "zh": "博物館的新展覽呈現流行文化在過去五十年如何變化。"
+        },
+        {
+          "en": "Many young people learn English by watching American pop culture, such as films and music videos.",
+          "zh": "很多年輕人藉由看美國流行文化學英文，例如電影和音樂影片。"
+        },
+        {
+          "en": "The magazine writes about pop culture, including popular television shows, singers, films, and fashion trends.",
+          "zh": "那本雜誌報導流行文化，包括熱門電視節目、歌手、電影和時尚潮流。"
+        },
+        {
+          "en": "The company uses pop culture in its advertisements to attract customers who are under thirty.",
+          "zh": "公司在廣告中運用流行文化，吸引三十歲以下的顧客。"
+        },
+        {
+          "en": "The course on pop culture at the university is so popular that it is full every semester.",
+          "zh": "大學的流行文化課程非常熱門，每學期都額滿。"
+        }
+      ],
+      "distractors": [
+        "pop music",
+        "pop-up store",
+        "subculture"
+      ],
+      "note": "語塊：American pop culture（美國流行文化）、pop culture changed（流行文化改變）、writes about pop culture（報導流行文化）、uses pop culture（運用流行文化）、course on pop culture（流行文化課程）。pop 是 popular 的縮寫；pop music 是「流行音樂」；culture 是「文化」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quarterly",
+      "word": "quarterly",
+      "pos": "形容詞",
+      "meaning": "每季的",
+      "sentences": [
+        {
+          "en": "The company will publish its quarterly report next week, and investors expect profits to increase.",
+          "zh": "公司下週將公布季報，投資人預期獲利會增加。"
+        },
+        {
+          "en": "All department heads must attend the quarterly meeting to discuss sales and plans for the next three months.",
+          "zh": "所有部門主管都必須參加季會，討論銷售和未來三個月的計畫。"
+        },
+        {
+          "en": "Quarterly sales of the new phone were higher than expected, so the factory increased production.",
+          "zh": "新手機的每季銷售高於預期，所以工廠增加了產量。"
+        },
+        {
+          "en": "The magazine is a quarterly publication, so a new issue comes out every three months.",
+          "zh": "那本雜誌是季刊，所以每三個月出一期。"
+        },
+        {
+          "en": "The finance team is preparing the quarterly report, which will be sent to the board on Friday.",
+          "zh": "財務團隊正在準備季報，週五會送交董事會。"
+        }
+      ],
+      "distractors": [
+        "quarrelsome",
+        "quietly",
+        "orderly"
+      ],
+      "note": "語塊：quarterly report（季報）、quarterly meeting（季會）、quarterly sales（每季銷售）。quarterly 是「每三個月一次的」；quarter 是「四分之一；一季」；monthly 是「每月的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-title",
+      "word": "title",
+      "pos": "名詞",
+      "meaning": "職稱；標題；頭銜",
+      "sentences": [
+        {
+          "en": "Please write your full name and job title on the registration form for the conference.",
+          "zh": "請在研討會報名表上寫下你的全名和職稱。"
+        },
+        {
+          "en": "The title of the book is simple, but the story inside is very touching and interesting.",
+          "zh": "那本書的書名很簡單，但裡面的故事非常感人又有趣。"
+        },
+        {
+          "en": "Ms. Park's new job title is director of marketing, and she will manage a team of twenty people.",
+          "zh": "朴小姐的新職稱是行銷總監，她將管理一個二十人的團隊。"
+        },
+        {
+          "en": "The title of the report should explain the main topic clearly in no more than ten words.",
+          "zh": "報告的標題應該用不超過十個字清楚說明主題。"
+        },
+        {
+          "en": "The local football team won the national title for the first time in thirty years.",
+          "zh": "當地足球隊三十年來第一次贏得全國冠軍。"
+        }
+      ],
+      "distractors": [
+        "tile",
+        "little",
+        "tittle"
+      ],
+      "note": "語塊：job title（職稱）、book title（書名）、title of（……的標題）。title 可以是「職稱」、「標題」或比賽的「冠軍頭銜」；entitle 是動詞「使有資格」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accounting-department",
+      "word": "accounting department",
+      "pos": "名詞",
+      "meaning": "會計部",
+      "sentences": [
+        {
+          "en": "Please send all of your receipts from the business trip to the accounting department by Friday.",
+          "zh": "請在週五前把出差的所有收據寄給會計部。"
+        },
+        {
+          "en": "If you have a question about your salary, please contact the accounting department on the third floor.",
+          "zh": "如果你對薪水有疑問，請聯絡三樓的會計部。"
+        },
+        {
+          "en": "The accounting department checks every invoice carefully before any payment is made to suppliers each month.",
+          "zh": "會計部在每月付款給供應商之前，會仔細檢查每張請款單。"
+        },
+        {
+          "en": "Ms. Chen has worked in the accounting department for ten years and knows the budget very well.",
+          "zh": "陳小姐在會計部工作了十年，非常了解預算。"
+        },
+        {
+          "en": "The accounting department will be closed on Monday afternoon because the staff are attending a training session.",
+          "zh": "會計部週一下午會關閉，因為員工要參加訓練課程。"
+        }
+      ],
+      "distractors": [
+        "marketing department",
+        "sales department",
+        "legal department"
+      ],
+      "note": "語塊：contact the accounting department（聯絡會計部）、send to the accounting department（寄給會計部）、in the accounting department（在會計部）、the accounting department checks（會計部檢查）、the accounting department will be closed（會計部會關閉）。accounting 是「會計」；accountant 是「會計師」；account 是「帳戶；帳目」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-urgent",
+      "word": "urgent",
+      "pos": "形容詞",
+      "meaning": "緊急的；急迫的",
+      "sentences": [
+        {
+          "en": "Please call me immediately if there is an urgent matter while I am on vacation next week.",
+          "zh": "下週我休假時如果有緊急事件，請立刻打給我。"
+        },
+        {
+          "en": "There is an urgent need for more nurses at the hospital, so it is hiring staff from abroad.",
+          "zh": "醫院迫切需要更多護理師，所以正在從國外招募人員。"
+        },
+        {
+          "en": "The manager left an urgent message asking everyone to attend a meeting at three o'clock.",
+          "zh": "經理留了一則緊急訊息，請大家三點參加會議。"
+        },
+        {
+          "en": "The repair is urgent, because the broken pipe could damage the floor of the warehouse.",
+          "zh": "這個維修很緊急，因為破掉的水管可能會損壞倉庫地板。"
+        },
+        {
+          "en": "If your request is not urgent, please send an e-mail instead of calling the customer care center.",
+          "zh": "如果您的需求不緊急，請寄電子郵件，不要打電話到客服中心。"
+        }
+      ],
+      "distractors": [
+        "urge",
+        "argent",
+        "current"
+      ],
+      "note": "語塊：urgent matter（緊急事件）、urgent need（迫切需要）、urgent message（緊急訊息）。urgent 是「需要馬上處理的」；urgency 是名詞；emergency 是「緊急狀況」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attach",
+      "word": "attach",
+      "pos": "動詞",
+      "meaning": "附上；裝上",
+      "sentences": [
+        {
+          "en": "Please attach your résumé and a photo when you send the application to us by e-mail.",
+          "zh": "用電子郵件寄申請給我們時，請附上履歷和照片。"
+        },
+        {
+          "en": "I forgot to attach the file to my e-mail, so I will send it again in a few minutes.",
+          "zh": "我忘了在電子郵件附上檔案，所以幾分鐘後會再寄一次。"
+        },
+        {
+          "en": "Please attach a name tag to your luggage so that the airline can return it if it is lost.",
+          "zh": "請在行李上掛上名牌，萬一遺失航空公司才能歸還。"
+        },
+        {
+          "en": "The technician will attach the new camera to the wall above the main entrance tomorrow.",
+          "zh": "技術人員明天會把新監視器裝在正門上方的牆上。"
+        },
+        {
+          "en": "Please attach a copy of the receipt to the form, or the accounting department cannot pay you.",
+          "zh": "請在表格上附上收據影本，否則會計部無法付款給你。"
+        }
+      ],
+      "distractors": [
+        "attack",
+        "detach",
+        "attain"
+      ],
+      "note": "語塊：attach a file（附加檔案）、attach to（附在……上）、be attached to（附在……；喜愛……）。attach 是「附上、連接」；attachment 是名詞「附件」；detach 是相反「拆下」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-patience",
+      "word": "patience",
+      "pos": "名詞",
+      "meaning": "耐心",
+      "sentences": [
+        {
+          "en": "Thank you for your patience while we fix the problem with the website this morning.",
+          "zh": "今天早上我們修復網站問題期間，感謝您的耐心等候。"
+        },
+        {
+          "en": "Some customers began to lose patience because the line at the counter was very long.",
+          "zh": "因為櫃台的隊伍很長，有些顧客開始失去耐心。"
+        },
+        {
+          "en": "Teaching young children requires a lot of patience, but it can also be very rewarding.",
+          "zh": "教小孩需要很多耐心，但也可能非常有成就感。"
+        },
+        {
+          "en": "We thank all passengers for their patience during the delay, and we will offer free drinks on board.",
+          "zh": "感謝所有乘客在延誤期間的耐心，我們會在機上提供免費飲料。"
+        },
+        {
+          "en": "Learning a new language takes patience, so please practice a little every day, even when you are busy.",
+          "zh": "學新語言需要耐心，所以即使很忙，也請每天練習一點。"
+        }
+      ],
+      "distractors": [
+        "patients",
+        "patent",
+        "passion"
+      ],
+      "note": "語塊：thank you for your patience（感謝您的耐心）、lose patience（失去耐心）、require patience（需要耐心）。patience 是名詞；patient 是形容詞「有耐心的」或名詞「病人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-time",
+      "word": "in time",
+      "pos": "副詞",
+      "meaning": "及時；來得及",
+      "sentences": [
+        {
+          "en": "Please send the documents today so that they arrive in time for the meeting on Monday.",
+          "zh": "請今天寄出文件，讓它們能及時在週一開會前送到。"
+        },
+        {
+          "en": "We arrived at the airport just in time to catch our flight to Tokyo this morning.",
+          "zh": "今天早上我們剛好及時趕到機場搭上飛東京的班機。"
+        },
+        {
+          "en": "The new store will open in time for the holiday season, so we expect many customers in December.",
+          "zh": "新店會及時在假期購物季前開幕，所以我們預期十二月會有很多顧客。"
+        },
+        {
+          "en": "If you order before noon, the cake will be ready in time for your party in the evening.",
+          "zh": "如果你中午前訂，蛋糕會及時在晚上的派對前做好。"
+        },
+        {
+          "en": "The repairs were finished just in time, because the guests started to arrive an hour later.",
+          "zh": "維修剛好及時完成，因為客人一小時後就開始抵達了。"
+        }
+      ],
+      "distractors": [
+        "on time",
+        "at times",
+        "in no time"
+      ],
+      "note": "語塊：in time for（及時趕上……）、just in time（剛好趕上）。in time 是「來得及、沒有太晚」；on time 是「準時」；in no time 是「很快地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-grateful",
+      "word": "grateful",
+      "pos": "形容詞",
+      "meaning": "感激的",
+      "sentences": [
+        {
+          "en": "We are grateful for your support, and we hope to continue working with you next year.",
+          "zh": "我們感謝您的支持，希望明年繼續和您合作。"
+        },
+        {
+          "en": "I am deeply grateful to my team for helping me finish the project while I was sick.",
+          "zh": "我深深感謝我的團隊在我生病時幫我完成專案。"
+        },
+        {
+          "en": "The museum is grateful for the donation, which will be used to repair the old roof.",
+          "zh": "博物館很感謝這筆捐款，它將用來修理舊屋頂。"
+        },
+        {
+          "en": "Many residents were grateful to the firefighters who worked around the clock during the storm.",
+          "zh": "很多居民很感謝在暴風雨期間日夜工作的消防員。"
+        },
+        {
+          "en": "I would be grateful if you could send me the price quote by the end of the week.",
+          "zh": "如果您能在本週末前寄給我報價，我會很感激。"
+        }
+      ],
+      "distractors": [
+        "graceful",
+        "great",
+        "hateful"
+      ],
+      "note": "語塊：be grateful for（對……感激）、be grateful to（對某人感激）、deeply grateful（深深感激）。grateful 是「感謝的」；gratitude 是名詞「感激」；great 是「很棒的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-confusion",
+      "word": "confusion",
+      "pos": "名詞",
+      "meaning": "混亂；困惑",
+      "sentences": [
+        {
+          "en": "The new parking rules caused confusion among drivers, so the city put up more signs.",
+          "zh": "新的停車規定造成駕駛混亂，所以市政府增設了更多標誌。"
+        },
+        {
+          "en": "To avoid confusion, please write the date and your name clearly on every document you submit.",
+          "zh": "為了避免混淆，請在你提交的每份文件上清楚寫上日期和你的名字。"
+        },
+        {
+          "en": "There was some confusion about the time of the meeting, so several people arrived late.",
+          "zh": "大家對會議時間有些搞混，所以好幾個人遲到了。"
+        },
+        {
+          "en": "The manager sent an e-mail to explain the new schedule and avoid confusion among the staff.",
+          "zh": "經理寄了一封電子郵件說明新班表，避免員工混淆。"
+        },
+        {
+          "en": "Changing the name of the product may cause confusion for customers who are used to the old one.",
+          "zh": "更改產品名稱可能會讓習慣舊名稱的顧客混淆。"
+        }
+      ],
+      "distractors": [
+        "conclusion",
+        "confession",
+        "fusion"
+      ],
+      "note": "語塊：cause confusion（造成混亂）、avoid confusion（避免混淆）、confusion about（對……的困惑）。confusion 是 confuse（使困惑）的名詞；confused 是「感到困惑的」；confusing 是「令人困惑的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-forward",
+      "word": "forward",
+      "pos": "動詞",
+      "meaning": "轉寄；轉交",
+      "sentences": [
+        {
+          "en": "Please forward the e-mail from the client to everyone on the sales team before the meeting.",
+          "zh": "開會前請把客戶的電子郵件轉寄給業務團隊的每個人。"
+        },
+        {
+          "en": "The receptionist will forward your message to Mr. Lee as soon as he returns from lunch.",
+          "zh": "李先生午餐回來後，接待員會立刻把你的留言轉給他。"
+        },
+        {
+          "en": "If you move to a new address, the post office can forward your mail for three months.",
+          "zh": "如果你搬到新地址，郵局可以幫你轉寄郵件三個月。"
+        },
+        {
+          "en": "We look forward to seeing you at the conference and hearing your ideas about the project.",
+          "zh": "我們期待在研討會上見到您，並聽聽您對專案的想法。"
+        },
+        {
+          "en": "Please forward any questions about the new policy to the human resources department by e-mail.",
+          "zh": "關於新規定的任何問題，請用電子郵件轉給人資部。"
+        }
+      ],
+      "distractors": [
+        "foreword",
+        "backward",
+        "toward"
+      ],
+      "note": "語塊：forward an e-mail（轉寄電子郵件）、forward to（轉給……）、look forward to（期待）。forward 當動詞是「轉寄」；當副詞是「向前」；look forward to 後面接名詞或 V-ing。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
