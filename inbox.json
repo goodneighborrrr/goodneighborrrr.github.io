@@ -72468,6 +72468,706 @@
       ],
       "note": "語塊：management trainee（儲備幹部）、new trainee（新進受訓人員）。trainee 是「接受訓練的人」；trainer 是「訓練員」；intern 是「實習生」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-upper",
+      "word": "upper",
+      "pos": "形容詞",
+      "meaning": "上面的；上層的；較高的",
+      "sentences": [
+        {
+          "en": "The meeting rooms are on the upper floor of the building, so please take the elevator to the tenth floor.",
+          "zh": "會議室在大樓的上層，所以請搭電梯到十樓。"
+        },
+        {
+          "en": "The upper limit for each hotel room is two adults and two children under the age of twelve.",
+          "zh": "每間飯店房間的上限是兩位大人和兩位十二歲以下的小孩。"
+        },
+        {
+          "en": "The decision to close the factory was made by upper management, not by the local manager.",
+          "zh": "關閉工廠的決定是高層管理做的，不是當地經理。"
+        },
+        {
+          "en": "The restaurant on the upper floor of the tower has a stunning view of the river and the mountains.",
+          "zh": "塔上層的餐廳有河流和山脈的絕美景色。"
+        },
+        {
+          "en": "Please send your suggestions to upper management through the online form on the company website.",
+          "zh": "請透過公司網站上的線上表單，把你的建議寄給高層管理。"
+        }
+      ],
+      "distractors": [
+        "uppermost",
+        "super",
+        "supper"
+      ],
+      "note": "語塊：upper floor（上層樓）、upper limit（上限）、upper management（高層管理）。upper 是「位置或等級較高的」；lower 是相反「較低的」；upper 不能單獨當比較級用（不說 upper than）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incoming",
+      "word": "incoming",
+      "pos": "形容詞",
+      "meaning": "即將到來的；新任的；打進來的",
+      "sentences": [
+        {
+          "en": "The receptionist answers every incoming call politely and connects it to the right department or person.",
+          "zh": "接待員禮貌地接聽每一通來電，並轉接到正確的部門或人員。"
+        },
+        {
+          "en": "The incoming president will start her new job on the first of January after the current one retires.",
+          "zh": "新任總裁會在現任總裁退休後，於一月一日上任。"
+        },
+        {
+          "en": "The airport added more staff to handle the large number of incoming flights during the holidays.",
+          "zh": "機場增加人手，以處理假期期間大量抵達的航班。"
+        },
+        {
+          "en": "Please check every incoming shipment carefully and report any damage to the supplier immediately by e-mail.",
+          "zh": "請仔細檢查每一批進貨，有任何損壞立刻用電子郵件通報供應商。"
+        },
+        {
+          "en": "The incoming manager met with each member of the team to learn about their work and goals.",
+          "zh": "新任經理和團隊每位成員見面，了解他們的工作和目標。"
+        }
+      ],
+      "distractors": [
+        "outgoing",
+        "income",
+        "ongoing"
+      ],
+      "note": "語塊：incoming calls（來電）、incoming president（新任總裁）、incoming flights（抵達的航班）。incoming 是「進來的；即將上任的」；outgoing 是相反「離開的；外向的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-located",
+      "word": "located",
+      "pos": "形容詞",
+      "meaning": "位於……的",
+      "sentences": [
+        {
+          "en": "Our new office is located on the fifth floor of the building next to the central train station.",
+          "zh": "我們的新辦公室位於中央火車站旁那棟大樓的五樓。"
+        },
+        {
+          "en": "The hotel is conveniently located near the airport, so it is popular with business travelers.",
+          "zh": "飯店位置便利，靠近機場，所以很受商務旅客歡迎。"
+        },
+        {
+          "en": "The restaurant is centrally located, so it is easy to reach by subway, bus, or taxi from anywhere.",
+          "zh": "那家餐廳位於市中心，所以從任何地方搭地鐵、公車或計程車都很容易到。"
+        },
+        {
+          "en": "The factory is located in a quiet area outside the city, where land is much cheaper than downtown.",
+          "zh": "工廠位於城外一個安靜的地區，那裡的土地比市中心便宜很多。"
+        },
+        {
+          "en": "The museum is conveniently located next to a large park, so families can visit both on the same day.",
+          "zh": "博物館位置便利，就在一座大公園旁邊，所以家庭可以同一天參觀兩處。"
+        }
+      ],
+      "distractors": [
+        "allocated",
+        "dislocated",
+        "relocated"
+      ],
+      "note": "語塊：be located in（位於……）、conveniently located（位置便利）、centrally located（位於市中心）。located 常用 be located in/at/near；situated 意思一樣；locate 是動詞「找出位置」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retail-space",
+      "word": "retail space",
+      "pos": "名詞",
+      "meaning": "零售空間；店面",
+      "sentences": [
+        {
+          "en": "The new building has retail space on the first floor and apartments on the floors above it.",
+          "zh": "新大樓一樓是零售空間，樓上是公寓。"
+        },
+        {
+          "en": "Many small businesses cannot afford to rent retail space downtown because the rent is very high.",
+          "zh": "很多小公司租不起市中心的店面，因為租金非常高。"
+        },
+        {
+          "en": "There is retail space for lease in the shopping mall, and the owner is offering three months of free rent.",
+          "zh": "購物中心有店面出租，業主提供三個月免租金。"
+        },
+        {
+          "en": "The company plans to rent retail space near the university to open a café for students.",
+          "zh": "公司計畫在大學附近租一個店面，開一家給學生的咖啡廳。"
+        },
+        {
+          "en": "Demand for retail space has fallen because more people are shopping online instead of in stores.",
+          "zh": "店面的需求下降了，因為越來越多人在網路上購物而不是去實體店。"
+        }
+      ],
+      "distractors": [
+        "office space",
+        "parking space",
+        "storage space"
+      ],
+      "note": "語塊：rent retail space（租店面）、retail space for lease（店面出租）。retail space 是商場或街上開店用的空間；office space 是「辦公空間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-famed",
+      "word": "famed",
+      "pos": "形容詞",
+      "meaning": "著名的；有名的",
+      "sentences": [
+        {
+          "en": "The town is famed for its hot springs, which attract thousands of visitors every winter.",
+          "zh": "那座小鎮以溫泉聞名，每年冬天吸引數千名遊客。"
+        },
+        {
+          "en": "A famed chef from Paris will cook a special dinner at the hotel restaurant next Friday evening.",
+          "zh": "一位來自巴黎的名廚下週五晚上將在飯店餐廳烹調特別晚餐。"
+        },
+        {
+          "en": "The region is famed for its wine, and many tourists visit the vineyards in the autumn.",
+          "zh": "那個地區以葡萄酒聞名，很多觀光客秋天去參觀葡萄園。"
+        },
+        {
+          "en": "The famed architect designed the new museum, which has already won several international awards for its design.",
+          "zh": "那位著名建築師設計了新博物館，它的設計已經得了好幾個國際獎。"
+        },
+        {
+          "en": "The bakery is famed for its bread, so there is always a long line outside the shop in the morning.",
+          "zh": "那家麵包店以麵包聞名，所以早上店外總是大排長龍。"
+        }
+      ],
+      "distractors": [
+        "famous",
+        "framed",
+        "fabled"
+      ],
+      "note": "語塊：famed for（以……聞名）、famed chef（名廚）。famed 是比較正式的「有名的」；famous 是一般說法；renowned 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-foreign",
+      "word": "foreign",
+      "pos": "形容詞",
+      "meaning": "外國的；外來的",
+      "sentences": [
+        {
+          "en": "Speaking a foreign language is a useful skill for anyone who wants to work in an international company.",
+          "zh": "會說外語對任何想在跨國公司工作的人來說是很有用的技能。"
+        },
+        {
+          "en": "You can change foreign currency at the counter in the arrival area of the airport.",
+          "zh": "你可以在機場入境大廳的櫃台換外幣。"
+        },
+        {
+          "en": "The government hopes to attract more foreign investment by lowering taxes for new factories and research centers.",
+          "zh": "政府希望藉由降低新工廠和研究中心的稅金來吸引更多外資。"
+        },
+        {
+          "en": "Many foreign students choose this university because it offers many classes in both English and Chinese.",
+          "zh": "很多外國學生選擇這所大學，因為它提供很多英文和中文授課的課程。"
+        },
+        {
+          "en": "The store accepts foreign currency, but the exchange rate may not be as good as at a bank.",
+          "zh": "那家店收外幣，但匯率可能沒有銀行好。"
+        }
+      ],
+      "distractors": [
+        "forging",
+        "foreman",
+        "forfeit"
+      ],
+      "note": "語塊：foreign language（外語）、foreign currency（外幣）、foreign investment（外資）。foreign 是「來自其他國家的」；foreigner 是「外國人」；overseas 是「海外的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cardholder",
+      "word": "cardholder",
+      "pos": "名詞",
+      "meaning": "持卡人",
+      "sentences": [
+        {
+          "en": "The cardholder must sign the receipt when paying for any purchase that costs over one hundred dollars.",
+          "zh": "購買任何超過一百元的商品時，持卡人必須在收據上簽名。"
+        },
+        {
+          "en": "Please enter the cardholder name exactly as it appears on the front of your credit card.",
+          "zh": "請輸入和信用卡正面完全一樣的持卡人姓名。"
+        },
+        {
+          "en": "Every cardholder receives a free coffee on his or her birthday at any of our stores.",
+          "zh": "每位持卡人生日時都可以在我們任何一家店得到一杯免費咖啡。"
+        },
+        {
+          "en": "The bank will send a text message to the cardholder if someone tries to use the card in another country.",
+          "zh": "如果有人試圖在其他國家使用卡片，銀行會傳簡訊給持卡人。"
+        },
+        {
+          "en": "Only the primary cardholder can ask the bank to increase the credit limit on the account.",
+          "zh": "只有主卡持卡人可以要求銀行提高帳戶的信用額度。"
+        }
+      ],
+      "distractors": [
+        "stakeholder",
+        "shareholder",
+        "householder"
+      ],
+      "note": "語塊：primary cardholder（主卡持卡人）、cardholder name（持卡人姓名）、every cardholder（每位持卡人）、the cardholder must（持卡人必須）、send to the cardholder（通知持卡人）。cardholder 是「擁有信用卡或會員卡的人」；card holder 也可以指「名片夾」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-storage",
+      "word": "storage",
+      "pos": "名詞",
+      "meaning": "儲存；倉儲",
+      "sentences": [
+        {
+          "en": "The new apartment has plenty of storage space, including large closets in every bedroom and the hallway.",
+          "zh": "新公寓有很多儲存空間，包括每間臥室和走廊都有大衣櫃。"
+        },
+        {
+          "en": "Old documents are kept in the storage room in the basement for at least seven years.",
+          "zh": "舊文件存放在地下室的儲藏室至少七年。"
+        },
+        {
+          "en": "The winter clothes are in storage at the warehouse and will be moved to the store in October.",
+          "zh": "冬季服飾存放在倉庫，十月會搬到店裡。"
+        },
+        {
+          "en": "The company pays a monthly fee for storage of its extra furniture while the office is being refurbished.",
+          "zh": "辦公室翻修期間，公司每月付費存放多餘的家具。"
+        },
+        {
+          "en": "Please do not put any boxes in front of the storage room door, because it is also an emergency exit.",
+          "zh": "請不要在儲藏室門前放任何箱子，因為那裡也是緊急出口。"
+        }
+      ],
+      "distractors": [
+        "shortage",
+        "stoppage",
+        "sausage"
+      ],
+      "note": "語塊：storage space（儲存空間）、storage room（儲藏室）、in storage（存放中）。storage 是 store（儲存）的名詞；warehouse 是「倉庫」；stock 是「庫存」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-temperature",
+      "word": "temperature",
+      "pos": "名詞",
+      "meaning": "溫度；體溫",
+      "sentences": [
+        {
+          "en": "Please store the medicine in a cupboard at room temperature, away from direct sunlight, heat, and moisture.",
+          "zh": "請把藥物存放在室溫的櫃子裡，避免陽光直射、高溫和潮濕。"
+        },
+        {
+          "en": "The temperature in the server room must stay below twenty degrees, or the computers may stop working.",
+          "zh": "機房的溫度必須保持在二十度以下，否則電腦可能會停止運作。"
+        },
+        {
+          "en": "High temperature during the summer can damage some products, so the warehouse has air conditioning.",
+          "zh": "夏天的高溫會損壞某些產品，所以倉庫裝了冷氣。"
+        },
+        {
+          "en": "The nurse will take your temperature and check your blood pressure before you see the doctor.",
+          "zh": "看醫生之前，護理師會幫你量體溫和血壓。"
+        },
+        {
+          "en": "The temperature is expected to drop sharply tonight, so please bring a warm jacket if you go out.",
+          "zh": "今晚氣溫預計會大幅下降，所以如果出門請帶件保暖外套。"
+        }
+      ],
+      "distractors": [
+        "temper",
+        "temperament",
+        "literature"
+      ],
+      "note": "語塊：room temperature（室溫）、high temperature（高溫）、take sb's temperature（量體溫）。temperature 是「溫度」；temper 是「脾氣」；temperate 是「溫和的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-control",
+      "word": "control",
+      "pos": "動詞",
+      "meaning": "控制；管理",
+      "sentences": [
+        {
+          "en": "The company must control costs carefully this year because the price of materials has increased.",
+          "zh": "因為材料價格上漲，公司今年必須小心控制成本。"
+        },
+        {
+          "en": "The new system can control the temperature in every room of the building automatically, day and night.",
+          "zh": "新系統可以日夜自動控制大樓每個房間的溫度。"
+        },
+        {
+          "en": "Every product goes through quality control before it leaves the factory, so mistakes are very rare.",
+          "zh": "每件產品出廠前都經過品質管控，所以很少出錯。"
+        },
+        {
+          "en": "The city hired more police officers to control traffic near the stadium during the big game.",
+          "zh": "市政府增派警察，在大比賽期間管制體育場附近的交通。"
+        },
+        {
+          "en": "It is difficult to control costs when the price of fuel changes so quickly every month.",
+          "zh": "每個月燃料價格變動這麼快的時候，很難控制成本。"
+        }
+      ],
+      "distractors": [
+        "patrol",
+        "consult",
+        "contrast"
+      ],
+      "note": "語塊：control costs（控制成本）、control the temperature（控制溫度）、quality control（品質管控）。control 可以當動詞或名詞（under control 是「在控制中」）；controller 是「控制器；主計」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trial-period",
+      "word": "trial period",
+      "pos": "名詞",
+      "meaning": "試用期",
+      "sentences": [
+        {
+          "en": "The software comes with a free trial period of thirty days, so you can try it before you buy it.",
+          "zh": "這套軟體有三十天的免費試用期，所以你可以先試用再購買。"
+        },
+        {
+          "en": "During the trial period, new employees will work with a mentor who answers their questions.",
+          "zh": "試用期間，新員工會跟著一位導師工作，由導師回答他們的問題。"
+        },
+        {
+          "en": "Ms. Kim passed her three-month trial period and received a permanent contract from the company last week.",
+          "zh": "金小姐通過了三個月的試用期，上週拿到公司的正式合約。"
+        },
+        {
+          "en": "Customers can cancel the service at any time during the trial period without paying any fee.",
+          "zh": "顧客在試用期間可以隨時取消服務，不需支付任何費用。"
+        },
+        {
+          "en": "The gym offers a free trial period of one week for anyone who wants to try the classes.",
+          "zh": "健身房為想試上課程的人提供一週的免費試用期。"
+        }
+      ],
+      "distractors": [
+        "grace period",
+        "waiting period",
+        "trial run"
+      ],
+      "note": "語塊：free trial period（免費試用期）、during the trial period（試用期間）、three-month trial period（三個月試用期）。trial 是「試用；審判」；probation period 是員工的「試用期」；trial period 也常用在產品服務。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-irreparable",
+      "word": "irreparable",
+      "pos": "形容詞",
+      "meaning": "無法修復的；無可挽回的",
+      "sentences": [
+        {
+          "en": "The flood caused irreparable damage to the old library, so the city decided to build a new one.",
+          "zh": "洪水對舊圖書館造成無法修復的損害，所以市政府決定蓋一座新的。"
+        },
+        {
+          "en": "Dropping the camera in the sea caused irreparable damage, so the store could not repair it under warranty.",
+          "zh": "相機掉進海裡造成無法修復的損壞，所以店家無法以保固修理。"
+        },
+        {
+          "en": "Experts warn that pollution could cause irreparable harm to the coral in the coastal waters.",
+          "zh": "專家警告污染可能對沿海水域的珊瑚造成無可挽回的傷害。"
+        },
+        {
+          "en": "The fire caused irreparable damage to several paintings, but most of the museum's collection was saved.",
+          "zh": "火災對好幾幅畫造成無法修復的損害，但博物館大部分的收藏都保住了。"
+        },
+        {
+          "en": "Bad reviews online can cause irreparable harm to a small business if they are not answered quickly.",
+          "zh": "網路負評如果沒有快速回應，可能對小公司造成無可挽回的傷害。"
+        }
+      ],
+      "distractors": [
+        "irreplaceable",
+        "irrelevant",
+        "inseparable"
+      ],
+      "note": "語塊：irreparable damage（無法修復的損害）、irreparable harm（無可挽回的傷害）。irreparable 是「修不好的」；repair 是「修理」；repairable 是「可修理的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-lieu-of",
+      "word": "in lieu of",
+      "pos": "介系詞",
+      "meaning": "代替；取代",
+      "sentences": [
+        {
+          "en": "Employees who work on the holiday can take another day off in lieu of overtime pay.",
+          "zh": "假日上班的員工可以改休另一天，代替加班費。"
+        },
+        {
+          "en": "The family asked guests to make a donation to the hospital in lieu of flowers.",
+          "zh": "家屬請賓客捐款給醫院，代替送花。"
+        },
+        {
+          "en": "The store offered a gift card in lieu of a cash refund because the customer did not have a receipt.",
+          "zh": "因為顧客沒有收據，店家改提供禮物卡代替現金退款。"
+        },
+        {
+          "en": "Students can write a research paper in lieu of taking the final exam if the teacher agrees.",
+          "zh": "如果老師同意，學生可以寫研究報告代替期末考。"
+        },
+        {
+          "en": "The hotel gave the guest a free dinner in lieu of a discount after the problem with the room.",
+          "zh": "房間出問題後，飯店招待客人一頓免費晚餐代替折扣。"
+        }
+      ],
+      "distractors": [
+        "in light of",
+        "in charge of",
+        "in favor of"
+      ],
+      "note": "語塊：in lieu of overtime pay（代替加班費）、in lieu of flowers（代替送花）、in lieu of a refund（代替退款）、in lieu of a discount（代替折扣）、in lieu of taking（代替參加）。in lieu of 是正式的「代替」（lieu 唸作 /luː/）；instead of 是一般說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-guideline",
+      "word": "guideline",
+      "pos": "名詞",
+      "meaning": "指導方針；準則",
+      "sentences": [
+        {
+          "en": "All employees must follow every safety guideline when they work with chemicals in the laboratory.",
+          "zh": "所有員工在實驗室處理化學物質時，都必須遵守每一條安全準則。"
+        },
+        {
+          "en": "The company gave clear guideline about how to use social media, so employees know what they can post.",
+          "zh": "公司對如何使用社群媒體給了明確的指引，讓員工知道可以發什麼。"
+        },
+        {
+          "en": "Please read the guideline for writing reports before you send your first report to the director.",
+          "zh": "第一次寄報告給主任之前，請先閱讀撰寫報告的準則。"
+        },
+        {
+          "en": "The new guideline says that meetings should not last longer than one hour unless it is necessary.",
+          "zh": "新的準則規定，除非必要，會議不應超過一小時。"
+        },
+        {
+          "en": "Every restaurant in the city must follow the health guideline on how to store fresh food safely.",
+          "zh": "市內每家餐廳都必須遵守如何安全保存生鮮食品的衛生準則。"
+        }
+      ],
+      "distractors": [
+        "guidance",
+        "deadline",
+        "headline"
+      ],
+      "note": "語塊：follow the guidelines（遵守準則）、safety guideline（安全準則）、clear guideline（明確的指引）。guideline 常用複數 guidelines；rule 是「規則」；guidance 是「指導」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adjust",
+      "word": "adjust",
+      "pos": "動詞",
+      "meaning": "調整；適應",
+      "sentences": [
+        {
+          "en": "It usually takes a few weeks for new employees to adjust to the working hours and the office culture.",
+          "zh": "新員工通常需要幾週來適應工作時間和辦公室文化。"
+        },
+        {
+          "en": "The company will adjust the price of its products next month because the cost of materials has increased.",
+          "zh": "因為材料成本上漲，公司下個月將調整產品價格。"
+        },
+        {
+          "en": "Please adjust the schedule so that every team member can attend the training session on Thursday.",
+          "zh": "請調整時程，讓每位組員都能參加週四的訓練課程。"
+        },
+        {
+          "en": "You can adjust the height of the new office chairs so that you can sit comfortably at your desk.",
+          "zh": "你可以調整新辦公椅的高度，讓自己在桌前坐得舒服。"
+        },
+        {
+          "en": "Many families need time to adjust to life in a new country, so the company offers language classes.",
+          "zh": "很多家庭需要時間適應在新國家的生活，所以公司提供語言課程。"
+        }
+      ],
+      "distractors": [
+        "adapt",
+        "adjunct",
+        "admit"
+      ],
+      "note": "語塊：adjust to（適應……）、adjust the price（調整價格）、adjust the schedule（調整時程）。adjust 是「稍微改變以符合需求」；adjustment 是名詞；adapt 是「適應；改編」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-customs",
+      "word": "customs",
+      "pos": "名詞",
+      "meaning": "海關",
+      "sentences": [
+        {
+          "en": "All passengers must go through customs after they collect their luggage at the international airport.",
+          "zh": "所有乘客在國際機場領完行李後都必須通關。"
+        },
+        {
+          "en": "The customs officer asked the traveler to open his suitcase because he was carrying a lot of food.",
+          "zh": "海關人員請那位旅客打開行李箱，因為他帶了很多食物。"
+        },
+        {
+          "en": "Please fill out the customs form on the plane so that you can leave the airport more quickly.",
+          "zh": "請在飛機上填好海關申報單，讓你能更快離開機場。"
+        },
+        {
+          "en": "The shipment was delayed at customs for three days because some of the documents were missing.",
+          "zh": "那批貨因為缺少部分文件，在海關延誤了三天。"
+        },
+        {
+          "en": "Travelers must tell the customs officer if they are carrying more than ten thousand dollars in cash.",
+          "zh": "旅客如果攜帶超過一萬元現金，必須告知海關人員。"
+        }
+      ],
+      "distractors": [
+        "customer",
+        "costume",
+        "custom"
+      ],
+      "note": "語塊：go through customs（通關）、customs officer（海關人員）、customs form（海關申報單）。customs（加 s）是「海關」；custom 單數是「習俗」；customer 是「顧客」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-apart-from",
+      "word": "apart from",
+      "pos": "介系詞",
+      "meaning": "除了……之外",
+      "sentences": [
+        {
+          "en": "Apart from a few small problems, the move to the new office went very smoothly last weekend.",
+          "zh": "除了幾個小問題之外，上週末搬到新辦公室的過程非常順利。"
+        },
+        {
+          "en": "The hotel was clean and quiet, and apart from that, the staff were very friendly and helpful.",
+          "zh": "飯店乾淨又安靜，除此之外，員工也非常親切又熱心。"
+        },
+        {
+          "en": "Apart from the cost, the main problem with the plan is that it would take three years to complete.",
+          "zh": "除了費用之外，這個計畫的主要問題是要三年才能完成。"
+        },
+        {
+          "en": "Everyone apart from Mr. Lee attended the meeting, because he was visiting a client in another city.",
+          "zh": "除了李先生之外大家都參加了會議，因為他在另一個城市拜訪客戶。"
+        },
+        {
+          "en": "Apart from selling furniture, the store also offers interior design services for homes and offices.",
+          "zh": "除了賣家具之外，那家店也提供住家和辦公室的室內設計服務。"
+        }
+      ],
+      "distractors": [
+        "aside from",
+        "away from",
+        "far from"
+      ],
+      "note": "語塊：apart from that（除此之外）、apart from the cost（除了費用之外）、apart from a few（除了幾個……之外）、apart from selling（除了賣……之外）、everyone apart from（除了……大家都）。apart from 可以是「除了……（都）」或「除了……還有」；aside from 意思一樣；except for 是「除了……以外都」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-prior-to",
+      "word": "prior to",
+      "pos": "介系詞",
+      "meaning": "在……之前",
+      "sentences": [
+        {
+          "en": "Please arrive at the airport at least two hours prior to departure for all international flights.",
+          "zh": "所有國際航班請至少在起飛前兩小時抵達機場。"
+        },
+        {
+          "en": "All participants should read the documents prior to the meeting so that we can make a decision quickly.",
+          "zh": "所有參加者應該在會議前閱讀文件，讓我們可以快速做決定。"
+        },
+        {
+          "en": "Guests can request an airport pickup by contacting the hotel at least one day prior to arrival.",
+          "zh": "客人可以在抵達前至少一天聯絡飯店，預約機場接送。"
+        },
+        {
+          "en": "Prior to joining our company, Ms. Ruiz worked as a designer at a famous fashion brand in Milan.",
+          "zh": "加入我們公司之前，魯伊茲小姐在米蘭一家知名時尚品牌擔任設計師。"
+        },
+        {
+          "en": "The machines must be checked carefully prior to use, especially if they have not been used for a long time.",
+          "zh": "機器使用前必須仔細檢查，特別是很久沒用的時候。"
+        }
+      ],
+      "distractors": [
+        "due to",
+        "according to",
+        "subject to"
+      ],
+      "note": "語塊：prior to departure（出發前）、prior to the meeting（會議前）、prior to arrival（抵達前）。prior to 是正式的「在……之前」，後面接名詞或 V-ing；before 是一般說法；prior 是「先前的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-route",
+      "word": "route",
+      "pos": "名詞",
+      "meaning": "路線；途徑",
+      "sentences": [
+        {
+          "en": "The city will add a new bus route that connects the university with the downtown shopping area.",
+          "zh": "市政府將增加一條連接大學和市中心購物區的新公車路線。"
+        },
+        {
+          "en": "The driver changed the delivery route to avoid the road construction near the bridge this morning.",
+          "zh": "今天早上司機更改了配送路線，避開橋附近的道路施工。"
+        },
+        {
+          "en": "The app shows the fastest route to the airport and tells you how long the trip will take.",
+          "zh": "那個 App 會顯示到機場最快的路線，並告訴你路程要多久。"
+        },
+        {
+          "en": "Each delivery route is planned by computer so that drivers can visit more customers every day.",
+          "zh": "每條配送路線都由電腦規劃，讓司機每天能拜訪更多客戶。"
+        },
+        {
+          "en": "The marathon route goes through the old town and along the river, so the view is beautiful.",
+          "zh": "馬拉松路線經過老城區並沿著河邊，所以景色很美。"
+        }
+      ],
+      "distractors": [
+        "root",
+        "routine",
+        "rout"
+      ],
+      "note": "語塊：bus route（公車路線）、delivery route（配送路線）、the fastest route（最快的路線）。route 是「從一地到另一地的路」；root 是「根」，發音很像；routine 是「例行公事」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-destination",
+      "word": "destination",
+      "pos": "名詞",
+      "meaning": "目的地",
+      "sentences": [
+        {
+          "en": "The island has become a popular destination for families who want to relax on quiet beaches.",
+          "zh": "那座島已經成為想在安靜海灘放鬆的家庭的熱門目的地。"
+        },
+        {
+          "en": "Kyoto is a famous travel destination in Asia because of its beautiful temples, gardens, and traditional food.",
+          "zh": "京都因為美麗的寺廟、庭園和傳統美食，是亞洲知名的旅遊勝地。"
+        },
+        {
+          "en": "Passengers should keep their boarding passes until they arrive at their final destination after changing planes.",
+          "zh": "乘客應保留登機證，直到轉機後抵達最終目的地。"
+        },
+        {
+          "en": "The travel agency can help you choose a destination that fits your budget and interests.",
+          "zh": "旅行社可以幫你選擇符合預算和興趣的目的地。"
+        },
+        {
+          "en": "The package arrived at its final destination two days early, so the customer was very happy.",
+          "zh": "包裹提早兩天抵達最終目的地，所以顧客很開心。"
+        }
+      ],
+      "distractors": [
+        "destiny",
+        "distinction",
+        "dedication"
+      ],
+      "note": "語塊：travel destination（旅遊勝地）、popular destination（熱門目的地）、final destination（最終目的地）。destination 是「要去的地方」；destiny 是「命運」；departure 是「出發」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
