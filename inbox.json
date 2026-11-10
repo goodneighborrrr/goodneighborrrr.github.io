@@ -64803,6 +64803,706 @@
       ],
       "note": "語塊：brief overview（簡要概述）、give an overview（提供概要）、overview of（……的概要）。overview 是「整體的簡要說明」；summary 是「摘要」；review 是「檢討；評論」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transition",
+      "word": "transition",
+      "pos": "名詞",
+      "meaning": "轉換；過渡",
+      "sentences": [
+        {
+          "en": "The new manager worked closely with the old one to make sure there was a smooth transition.",
+          "zh": "新經理和前任密切合作，確保交接順利。"
+        },
+        {
+          "en": "During the transition period, employees can use both the old system and the new one.",
+          "zh": "過渡期間，員工可以同時使用舊系統和新系統。"
+        },
+        {
+          "en": "The company's transition to electric delivery trucks will be completed by the end of next year.",
+          "zh": "公司改用電動送貨卡車的轉換會在明年底前完成。"
+        },
+        {
+          "en": "Many workers needed extra training during the transition period after the factory was automated last spring.",
+          "zh": "工廠去年春天自動化後的過渡期，很多工人需要額外訓練。"
+        },
+        {
+          "en": "The CEO thanked the team for helping to make the transition to the new office smooth and quick.",
+          "zh": "執行長感謝團隊幫忙讓搬到新辦公室的過程順利又快速。"
+        }
+      ],
+      "distractors": [
+        "transit",
+        "translation",
+        "tradition"
+      ],
+      "note": "語塊：smooth transition（順利過渡）、transition period（過渡期）、transition to（轉換到……）。transition 是「從一個狀態變到另一個狀態」；transit 是「運輸；通過」；translation 是「翻譯」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-demonstration",
+      "word": "demonstration",
+      "pos": "名詞",
+      "meaning": "示範；展示；示威",
+      "sentences": [
+        {
+          "en": "The sales team will give a demonstration of the new software to the client next Tuesday morning.",
+          "zh": "業務團隊下週二早上會向客戶示範新軟體。"
+        },
+        {
+          "en": "Visitors to the trade show can watch a product demonstration at our booth every hour.",
+          "zh": "參觀展覽的訪客每小時都可以在我們的攤位看產品示範。"
+        },
+        {
+          "en": "The famous chef will hold a cooking demonstration at the department store on Saturday afternoon.",
+          "zh": "那位知名主廚週六下午會在百貨公司舉辦烹飪示範。"
+        },
+        {
+          "en": "After the product demonstration, customers can try the new vacuum cleaner for themselves in the store.",
+          "zh": "產品示範結束後，顧客可以在店裡親自試用新的吸塵器。"
+        },
+        {
+          "en": "The technician gave a demonstration of how to use the new machine safely before the workers started.",
+          "zh": "工人開始之前，技術人員示範了如何安全使用新機器。"
+        }
+      ],
+      "distractors": [
+        "determination",
+        "documentation",
+        "destination"
+      ],
+      "note": "語塊：product demonstration（產品示範）、give a demonstration（做示範）、cooking demonstration（烹飪示範）。demonstration 是 demonstrate（示範；證明）的名詞；也可以指「示威遊行」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-boom",
+      "word": "boom",
+      "pos": "名詞",
+      "meaning": "繁榮；激增",
+      "sentences": [
+        {
+          "en": "The city experienced an economic boom after several large technology companies opened offices there in 2020.",
+          "zh": "2020 年好幾家大型科技公司在那裡設立辦公室後，這座城市經歷了一波經濟繁榮。"
+        },
+        {
+          "en": "The housing boom has made it difficult for young families to buy apartments in the capital.",
+          "zh": "房市熱潮讓年輕家庭很難在首都買公寓。"
+        },
+        {
+          "en": "There has been a boom in online shopping, especially among people over sixty years old.",
+          "zh": "網路購物大幅激增，特別是六十歲以上的人。"
+        },
+        {
+          "en": "Many restaurants opened near the beach during the tourism boom of the last five years.",
+          "zh": "在過去五年的觀光熱潮中，海灘附近開了很多餐廳。"
+        },
+        {
+          "en": "Experts say that the boom in electric car sales will continue for at least another ten years.",
+          "zh": "專家說電動車銷量的激增至少還會持續十年。"
+        }
+      ],
+      "distractors": [
+        "bloom",
+        "broom",
+        "doom"
+      ],
+      "note": "語塊：economic boom（經濟繁榮）、housing boom（房市熱潮）、boom in（……的激增）。boom 是「突然快速成長」；bust 是相反「崩盤」；baby boom 是「嬰兒潮」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-thanks-to",
+      "word": "thanks to",
+      "pos": "介系詞",
+      "meaning": "多虧；由於",
+      "sentences": [
+        {
+          "en": "Thanks to the support of our customers, the store has been open for more than fifty years.",
+          "zh": "多虧顧客的支持，那家店已經開了五十多年。"
+        },
+        {
+          "en": "The project was finished early thanks to hard work from everyone on the design team.",
+          "zh": "多虧設計團隊每個人的努力，專案提早完成了。"
+        },
+        {
+          "en": "Sales increased by twenty percent last year, thanks to the new advertising campaign on social media.",
+          "zh": "多虧社群媒體上的新廣告活動，去年銷售增加了兩成。"
+        },
+        {
+          "en": "Thanks to the new subway line, it now takes only fifteen minutes to get from the airport to downtown.",
+          "zh": "多虧新地鐵線，現在從機場到市中心只要十五分鐘。"
+        },
+        {
+          "en": "The museum was able to repair its roof thanks to the support of several local businesses.",
+          "zh": "多虧幾家當地企業的支持，博物館才得以修理屋頂。"
+        }
+      ],
+      "distractors": [
+        "due to",
+        "owing to",
+        "according to"
+      ],
+      "note": "語塊：thanks to the support（多虧支持）、thanks to hard work（多虧努力）。thanks to 是「因為（通常是好的原因）」；due to 比較中性；thank you 是「謝謝你」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-move",
+      "word": "move",
+      "pos": "動詞",
+      "meaning": "搬遷；移動；調動",
+      "sentences": [
+        {
+          "en": "The company will move to a new office near the subway station at the end of the month.",
+          "zh": "公司月底會搬到地鐵站附近的新辦公室。"
+        },
+        {
+          "en": "After the board approved the budget, we were finally able to move forward with the project.",
+          "zh": "董事會核准預算後，我們終於可以推進專案了。"
+        },
+        {
+          "en": "We will move the meeting up to Monday, so please prepare your reports by Friday afternoon.",
+          "zh": "我們會把會議提前到週一，所以請在週五下午前準備好報告。"
+        },
+        {
+          "en": "Ms. Lee will move to the Tokyo branch next spring to manage the new sales team there.",
+          "zh": "李小姐明年春天會調到東京分公司，管理那裡新的業務團隊。"
+        },
+        {
+          "en": "If we want to move forward quickly, we need to hire two more engineers this month.",
+          "zh": "如果我們想快速推進，這個月需要再雇兩位工程師。"
+        }
+      ],
+      "distractors": [
+        "mode",
+        "mood",
+        "remove"
+      ],
+      "note": "語塊：move to（搬到……）、move forward（推進）、move up（提前；升遷）。move 有「搬家、移動、提前、感動」等意思；remove 是「移除」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gain-momentum",
+      "word": "gain momentum",
+      "pos": "其他",
+      "meaning": "加速發展；聲勢漸增",
+      "sentences": [
+        {
+          "en": "The campaign to reduce plastic waste has started to gain momentum, and many stores now offer paper bags.",
+          "zh": "減少塑膠垃圾的運動開始加速發展，很多商店現在都提供紙袋。"
+        },
+        {
+          "en": "Sales of the new phone began to gain momentum after a famous singer used it in her music video.",
+          "zh": "一位知名歌手在音樂影片中使用新手機後，它的銷量開始衝高。"
+        },
+        {
+          "en": "The idea of working from home continues to gain momentum, especially among young employees in large cities.",
+          "zh": "在家工作的想法持續升溫，特別是在大城市的年輕員工之間。"
+        },
+        {
+          "en": "The project was slow at first, but it started to gain momentum after the new manager joined the team.",
+          "zh": "專案一開始很慢，但新經理加入團隊後開始加速。"
+        },
+        {
+          "en": "Electric vehicles will continue to gain momentum as prices fall and more charging stations are built.",
+          "zh": "隨著價格下降和充電站增加，電動車會持續升溫。"
+        }
+      ],
+      "distractors": [
+        "gain weight",
+        "gain access",
+        "gain experience"
+      ],
+      "note": "語塊：start to gain momentum（開始加速）、continue to gain momentum（持續升溫）。momentum 是「動能、氣勢」；gain 是「獲得」；lose momentum 是「失去動能」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stunning",
+      "word": "stunning",
+      "pos": "形容詞",
+      "meaning": "令人驚豔的；極美的",
+      "sentences": [
+        {
+          "en": "The hotel room has a stunning view of the ocean, so many guests take photos from the balcony.",
+          "zh": "飯店房間有絕美的海景，所以很多客人在陽台拍照。"
+        },
+        {
+          "en": "The new museum has a stunning design that looks like a giant wave made of glass and steel.",
+          "zh": "新博物館有令人驚豔的設計，看起來像一道用玻璃和鋼鐵做成的巨浪。"
+        },
+        {
+          "en": "The bride wore a stunning dress that was made by a famous designer in Paris.",
+          "zh": "新娘穿著一件由巴黎知名設計師製作的驚豔禮服。"
+        },
+        {
+          "en": "From the top of the mountain, hikers can enjoy a stunning view of the whole valley.",
+          "zh": "從山頂，登山客可以欣賞整個山谷的絕美景色。"
+        },
+        {
+          "en": "The car's stunning design won several awards at the international motor show in Geneva last year.",
+          "zh": "那輛車驚豔的設計去年在日內瓦國際車展上獲得好幾個獎項。"
+        }
+      ],
+      "distractors": [
+        "cunning",
+        "running",
+        "stunted"
+      ],
+      "note": "語塊：stunning view（絕美景色）、stunning design（驚豔的設計）。stunning 是「美到讓人驚訝的」；magnificent、gorgeous 意思接近；stun 是動詞「使震驚」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-coastal-waters",
+      "word": "coastal waters",
+      "pos": "名詞",
+      "meaning": "沿海水域",
+      "sentences": [
+        {
+          "en": "Fishing boats are not allowed in coastal waters near the island during the breeding season.",
+          "zh": "繁殖季期間，漁船不准進入島嶼附近的沿海水域。"
+        },
+        {
+          "en": "The government passed a new law to protect coastal waters from pollution caused by factories.",
+          "zh": "政府通過一項新法律，保護沿海水域不受工廠污染。"
+        },
+        {
+          "en": "Divers can see colorful fish and coral in the coastal waters near the beachfront hotel.",
+          "zh": "潛水客可以在海濱飯店附近的沿海水域看到五顏六色的魚和珊瑚。"
+        },
+        {
+          "en": "The oil spill caused serious damage to the coastal waters, and the cleanup took several months.",
+          "zh": "漏油嚴重破壞了沿海水域，清理工作花了好幾個月。"
+        },
+        {
+          "en": "Scientists are studying how rising temperatures affect the fish and plants that live in coastal waters.",
+          "zh": "科學家正在研究氣溫上升如何影響生活在沿海水域的魚類和植物。"
+        }
+      ],
+      "distractors": [
+        "coastal areas",
+        "open waters",
+        "inland waters"
+      ],
+      "note": "語塊：in coastal waters（在沿海水域）、protect coastal waters（保護沿海水域）。coastal 是 coast（海岸）的形容詞；coastline 是「海岸線」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-projector",
+      "word": "projector",
+      "pos": "名詞",
+      "meaning": "投影機",
+      "sentences": [
+        {
+          "en": "Please set up a projector in the meeting room before the clients arrive for the presentation.",
+          "zh": "請在客戶抵達聽簡報之前，在會議室架好投影機。"
+        },
+        {
+          "en": "The projector in Conference Room B is broken, so we will use the large television screen instead.",
+          "zh": "B 會議室的投影機壞了，所以我們會改用大電視螢幕。"
+        },
+        {
+          "en": "The school bought a new projector for every classroom so that teachers can show videos to students.",
+          "zh": "學校為每間教室買了新的投影機，讓老師能播放影片給學生看。"
+        },
+        {
+          "en": "Please turn off the projector after the meeting, because it gets very hot if it stays on too long.",
+          "zh": "會議結束後請關掉投影機，因為開太久會變得很燙。"
+        },
+        {
+          "en": "The hotel can provide a projector and a screen at no extra cost for business guests.",
+          "zh": "飯店可以為商務客人免費提供投影機和投影幕。"
+        }
+      ],
+      "distractors": [
+        "protector",
+        "producer",
+        "professor"
+      ],
+      "note": "語塊：set up a projector（架設投影機）、projector screen（投影幕）。projector 是把影像投到牆上的機器；project 是「投射；專案」；projection 是「投影；預測」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-therein",
+      "word": "therein",
+      "pos": "副詞",
+      "meaning": "在那裡；在其中",
+      "sentences": [
+        {
+          "en": "The product is excellent but too expensive, and therein lies the reason why sales have been slow.",
+          "zh": "產品很好但太貴，這就是銷售緩慢的原因。"
+        },
+        {
+          "en": "The contract includes all of the terms therein, so please read every page before you sign it.",
+          "zh": "合約包含其中所有條款，所以簽名前請讀每一頁。"
+        },
+        {
+          "en": "The city has many tourists but very few hotels, and therein lies a great business opportunity.",
+          "zh": "這座城市觀光客很多但飯店很少，這就是一個很好的商機。"
+        },
+        {
+          "en": "Everyone wants the project to succeed, but nobody wants to pay for it, and therein lies the problem.",
+          "zh": "每個人都希望專案成功，但沒人想出錢，問題就出在這裡。"
+        },
+        {
+          "en": "The report and the information contained therein must not be shared with anyone outside the company.",
+          "zh": "這份報告和其中所含的資訊不得分享給公司以外的任何人。"
+        }
+      ],
+      "distractors": [
+        "therefore",
+        "thereby",
+        "thereafter"
+      ],
+      "note": "語塊：therein lies（問題就在於……）。therein 是很正式的說法「在那之中」；therein lies the problem 是「問題就出在這裡」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overtime-pay",
+      "word": "overtime pay",
+      "pos": "名詞",
+      "meaning": "加班費",
+      "sentences": [
+        {
+          "en": "Employees who work more than forty hours a week will receive overtime pay at one and a half times their normal rate.",
+          "zh": "每週工作超過四十小時的員工可以領取正常時薪一點五倍的加班費。"
+        },
+        {
+          "en": "Part-time workers are also eligible for overtime pay if they work on national holidays or weekends.",
+          "zh": "兼職人員如果在國定假日或週末上班，也有資格領加班費。"
+        },
+        {
+          "en": "The union asked the company to increase overtime pay for workers on the night shift.",
+          "zh": "工會要求公司提高夜班工人的加班費。"
+        },
+        {
+          "en": "Please record your working hours carefully so that you receive the correct overtime pay each month.",
+          "zh": "請仔細記錄工作時數，讓你每個月都能領到正確的加班費。"
+        },
+        {
+          "en": "Many workers are happy to stay late during the busy season because they receive overtime pay.",
+          "zh": "很多工人在旺季樂意留晚一點，因為可以領加班費。"
+        }
+      ],
+      "distractors": [
+        "overtime work",
+        "sick pay",
+        "back pay"
+      ],
+      "note": "語塊：receive overtime pay（領加班費）、be eligible for overtime pay（有資格領加班費）。overtime 是「加班（時間）」；work overtime 是「加班」；pay 是「薪資」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regulator",
+      "word": "regulator",
+      "pos": "名詞",
+      "meaning": "主管機關；監管機構",
+      "sentences": [
+        {
+          "en": "The financial regulator fined the bank for failing to protect the personal information of thousands of its customers.",
+          "zh": "金融監管機構因為銀行沒有保護好數千位顧客的個資而對其開罰。"
+        },
+        {
+          "en": "The energy regulator will decide next month whether the electricity company can raise its prices.",
+          "zh": "能源主管機關下個月會決定電力公司能否漲價。"
+        },
+        {
+          "en": "The airline must get approval from the regulator before it can add new flights to Europe.",
+          "zh": "航空公司要先取得主管機關核准，才能增加飛往歐洲的新航班。"
+        },
+        {
+          "en": "The regulator asked all phone companies to explain their prices and contracts more clearly to their customers.",
+          "zh": "主管機關要求所有電信公司向顧客更清楚地說明價格和合約。"
+        },
+        {
+          "en": "After the accident, the regulator ordered the factory to stop production until it improved its safety rules.",
+          "zh": "事故後，主管機關命令工廠停產，直到改善安全規定為止。"
+        }
+      ],
+      "distractors": [
+        "regular",
+        "regulation",
+        "calculator"
+      ],
+      "note": "語塊：financial regulator（金融監管機構）、energy regulator（能源主管機關）、approval from the regulator（主管機關的核准）、the regulator asked（主管機關要求）、the regulator ordered（主管機關命令）。regulator 是負責監督規範的機構；regulate 是動詞「管理」；regulation 是「規定」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-broadband",
+      "word": "broadband",
+      "pos": "名詞",
+      "meaning": "寬頻（網路）",
+      "sentences": [
+        {
+          "en": "Every apartment in the new building comes with a high-speed broadband connection at no extra cost.",
+          "zh": "新大樓的每間公寓都附有免費的高速寬頻連線。"
+        },
+        {
+          "en": "The government plans to bring broadband service to all villages in the mountains within three years.",
+          "zh": "政府計畫在三年內把寬頻服務帶到山區所有村莊。"
+        },
+        {
+          "en": "A fast broadband connection is important for employees who work from home and attend video meetings.",
+          "zh": "快速的寬頻連線對在家工作、參加視訊會議的員工很重要。"
+        },
+        {
+          "en": "The phone company is offering a discount on high-speed broadband for new customers this month.",
+          "zh": "電信公司這個月為新顧客提供高速寬頻的折扣。"
+        },
+        {
+          "en": "Many small towns still do not have good broadband service, which makes it hard for businesses to grow.",
+          "zh": "很多小鎮還沒有好的寬頻服務，讓企業很難發展。"
+        }
+      ],
+      "distractors": [
+        "bandwidth",
+        "broadcast",
+        "headband"
+      ],
+      "note": "語塊：broadband connection（寬頻連線）、high-speed broadband（高速寬頻）、broadband service（寬頻服務）。broadband 是「高速網路連線」；Wi-Fi 是無線網路；bandwidth 是「頻寬」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-buyout",
+      "word": "buyout",
+      "pos": "名詞",
+      "meaning": "收購；全數買下",
+      "sentences": [
+        {
+          "en": "The employees were worried about their jobs after the company buyout was announced last week.",
+          "zh": "上週宣布公司收購後，員工都很擔心自己的工作。"
+        },
+        {
+          "en": "The managers of the hotel completed a management buyout and now own the business themselves.",
+          "zh": "飯店的經理們完成了管理層收購，現在自己擁有這門生意。"
+        },
+        {
+          "en": "The board rejected the buyout offer because it was much lower than the true value of the company.",
+          "zh": "董事會拒絕了收購提議，因為價格比公司的實際價值低很多。"
+        },
+        {
+          "en": "After the buyout, the new owners plan to open twenty more stores across the country.",
+          "zh": "收購後，新老闆計畫在全國再開二十家店。"
+        },
+        {
+          "en": "The buyout offer from the American firm surprised many investors, who did not expect such a high price.",
+          "zh": "那家美國公司的收購提議讓很多投資人很驚訝，他們沒想到價格這麼高。"
+        }
+      ],
+      "distractors": [
+        "payout",
+        "dropout",
+        "blackout"
+      ],
+      "note": "語塊：company buyout（公司收購）、management buyout（管理層收購）、buyout offer（收購提議）。buyout 是「買下公司的全部股份」；takeover 是「接管」；acquisition 是「併購」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entitle",
+      "word": "entitle",
+      "pos": "動詞",
+      "meaning": "使有資格；給予權利",
+      "sentences": [
+        {
+          "en": "This ticket will entitle you to free entry to all of the museums in the city for three days.",
+          "zh": "這張票讓你三天內可以免費進入城市所有的博物館。"
+        },
+        {
+          "en": "Membership will entitle you to a ten percent discount on every purchase at our stores.",
+          "zh": "成為會員後，在我們店每次購物都可以打九折。"
+        },
+        {
+          "en": "Working at the company for five years will entitle employees to an extra week of vacation.",
+          "zh": "在公司工作滿五年的員工可以多一週假期。"
+        },
+        {
+          "en": "The receipt will entitle the customer to a full refund if the product breaks within one month.",
+          "zh": "如果產品在一個月內損壞，憑收據可以全額退款。"
+        },
+        {
+          "en": "Does this coupon entitle me to a free drink, or do I need to buy a meal first?",
+          "zh": "這張優惠券讓我可以拿免費飲料嗎？還是要先買餐？"
+        }
+      ],
+      "distractors": [
+        "title",
+        "entail",
+        "enable"
+      ],
+      "note": "語塊：entitle sb to（使某人有權……）、be entitled to（有權利……）。entitle sb to sth 是「讓某人有資格得到某物」；entitlement 是名詞「權利」；title 是「標題；頭銜」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-portrait",
+      "word": "portrait",
+      "pos": "名詞",
+      "meaning": "肖像；畫像",
+      "sentences": [
+        {
+          "en": "A large portrait of the company's founder hangs in the main hall of the headquarters.",
+          "zh": "公司創辦人的大型肖像掛在總部大廳。"
+        },
+        {
+          "en": "The artist was asked to paint a portrait of the retiring president for the university library.",
+          "zh": "那位藝術家受邀為大學圖書館畫退休校長的肖像。"
+        },
+        {
+          "en": "The museum's new exhibition includes a portrait of every king and queen from the last three centuries.",
+          "zh": "博物館的新展覽包含過去三個世紀每位國王和王后的肖像。"
+        },
+        {
+          "en": "Ms. Lin works as a portrait photographer and takes headshots for business people and actors.",
+          "zh": "林小姐是人像攝影師，幫商務人士和演員拍大頭照。"
+        },
+        {
+          "en": "The hotel decorated its lobby with a portrait of every family member who has run the business.",
+          "zh": "飯店在大廳裝飾了每位經營過這門生意的家族成員的肖像。"
+        }
+      ],
+      "distractors": [
+        "portray",
+        "portal",
+        "pursuit"
+      ],
+      "note": "語塊：portrait of（……的肖像）、paint a portrait（畫肖像）、portrait photographer（人像攝影師）。portrait 是人物的「肖像畫或照片」；landscape 是「風景畫」；portray 是動詞「描繪」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fund",
+      "word": "fund",
+      "pos": "動詞",
+      "meaning": "資助；提供資金",
+      "sentences": [
+        {
+          "en": "The government will fund a project to build new bike paths in every district of the city.",
+          "zh": "政府將資助一項在市內每個區蓋新自行車道的專案。"
+        },
+        {
+          "en": "Donations from local residents and businesses will fund the new library, which opens next year.",
+          "zh": "當地居民和企業的捐款將資助明年開幕的新圖書館。"
+        },
+        {
+          "en": "Several companies agreed to fund research on cleaner fuels for airplanes and ships over the next ten years.",
+          "zh": "好幾家公司同意在未來十年資助飛機和船舶更乾淨燃料的研究。"
+        },
+        {
+          "en": "The school will use money from the city to fund a new computer lab for its students.",
+          "zh": "學校會用市政府的錢資助學生新的電腦教室。"
+        },
+        {
+          "en": "If we cannot fund the project ourselves, we will need to find an investor before the end of the year.",
+          "zh": "如果我們無法自己出資，就需要在年底前找到投資人。"
+        }
+      ],
+      "distractors": [
+        "find",
+        "fond",
+        "fun"
+      ],
+      "note": "語塊：fund a project（資助專案）、fund the library（資助圖書館）、fund research（資助研究）。fund 可以當動詞「資助」或名詞「基金；資金」；funding 是「資金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-victim",
+      "word": "victim",
+      "pos": "名詞",
+      "meaning": "受害者；受災者",
+      "sentences": [
+        {
+          "en": "The company donated food and blankets to every victim of the flood in the southern part of the country.",
+          "zh": "公司捐贈食物和毯子給南部每位水災災民。"
+        },
+        {
+          "en": "Several shops became the victim of a computer attack that stole customers' credit card information.",
+          "zh": "好幾家商店成為電腦攻擊的受害者，顧客的信用卡資料被竊。"
+        },
+        {
+          "en": "The charity collects money to help every victim of the earthquake rebuild their homes and businesses.",
+          "zh": "慈善機構募款幫助每位地震災民重建家園和事業。"
+        },
+        {
+          "en": "The bank warned customers not to become a victim of fake e-mails that ask for passwords.",
+          "zh": "銀行提醒顧客不要成為索取密碼的假電子郵件的受害者。"
+        },
+        {
+          "en": "The city opened a special center where each victim of the storm can get food, water, and medical help.",
+          "zh": "市政府開設特別中心，讓每位暴風雨災民都能取得食物、水和醫療協助。"
+        }
+      ],
+      "distractors": [
+        "victor",
+        "villain",
+        "vintage"
+      ],
+      "note": "語塊：flood victims（水災災民）、victim of（……的受害者）。victim 是「受到傷害的人」；victor 是「勝利者」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-routine-maintenance",
+      "word": "routine maintenance",
+      "pos": "名詞",
+      "meaning": "例行維修；定期保養",
+      "sentences": [
+        {
+          "en": "The elevator will be closed for routine maintenance on Saturday morning from eight to noon.",
+          "zh": "電梯週六早上八點到中午會因例行維修暫停使用。"
+        },
+        {
+          "en": "Technicians perform routine maintenance on all of the machines in the factory every three months.",
+          "zh": "技術人員每三個月對工廠所有機器進行例行維修。"
+        },
+        {
+          "en": "The website will be unavailable for two hours tonight because of routine maintenance on the main server.",
+          "zh": "網站今晚會因為主伺服器例行維修而有兩小時無法使用。"
+        },
+        {
+          "en": "Routine maintenance can help companies avoid costly repairs when their machines break down suddenly during busy periods.",
+          "zh": "例行保養可以幫助公司避免機器在忙碌時期突然故障時昂貴的修理費。"
+        },
+        {
+          "en": "The swimming pool will be closed for routine maintenance during the first week of every month.",
+          "zh": "游泳池每個月第一週會因例行維修關閉。"
+        }
+      ],
+      "distractors": [
+        "routine check",
+        "emergency repair",
+        "daily routine"
+      ],
+      "note": "語塊：perform routine maintenance（進行例行維修）、closed for routine maintenance（因例行維修暫停）。routine 是「例行的」；maintenance 是「保養、維修」；maintain 是動詞「維持；保養」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-administration-office",
+      "word": "administration office",
+      "pos": "名詞",
+      "meaning": "行政辦公室；行政處",
+      "sentences": [
+        {
+          "en": "Please contact the administration office if you need a new ID card or a parking permit.",
+          "zh": "如果你需要新的識別證或停車證，請聯絡行政處。"
+        },
+        {
+          "en": "Students who want to change their classes must visit the administration office before Friday at five o'clock.",
+          "zh": "想換課的學生必須在週五五點前到行政辦公室辦理。"
+        },
+        {
+          "en": "Please visit the administration office on the second floor, which is next to the meeting rooms.",
+          "zh": "請到二樓的行政辦公室，就在會議室旁邊。"
+        },
+        {
+          "en": "All forms for vacation requests are available at the administration office and on the company website.",
+          "zh": "所有請假申請表都可以在行政辦公室和公司網站取得。"
+        },
+        {
+          "en": "The administration office will be closed on Monday afternoon because the staff are attending a training session.",
+          "zh": "行政辦公室週一下午會關閉，因為員工要參加訓練課程。"
+        }
+      ],
+      "distractors": [
+        "admission office",
+        "accounting office",
+        "head office"
+      ],
+      "note": "語塊：contact the administration office（聯絡行政處）、visit the administration office（到行政辦公室）。administration 是「行政；管理」；administrative 是形容詞「行政的」；office 是「辦公室」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
