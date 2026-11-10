@@ -85768,6 +85768,706 @@
       ],
       "note": "語塊：compatible with（和……相容）、fully compatible（完全相容）。compatible 是「可以一起使用、不會衝突的」；incompatible 是相反「不相容的」；comparable 是「可比較的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reasonably",
+      "word": "reasonably",
+      "pos": "副詞",
+      "meaning": "合理地；相當地",
+      "sentences": [
+        {
+          "en": "The hotel is reasonably priced, so it is popular with young travelers and families on a budget.",
+          "zh": "那家飯店價格合理，所以很受年輕旅客和預算有限的家庭歡迎。"
+        },
+        {
+          "en": "The new restaurant serves reasonably good food, but the service is slow during busy times.",
+          "zh": "新餐廳的餐點相當不錯，但忙碌時段服務很慢。"
+        },
+        {
+          "en": "The store sells reasonably priced furniture that is made from high-quality wood by local craftspeople.",
+          "zh": "那家店販售由當地工匠用高品質木材製作、價格合理的家具。"
+        },
+        {
+          "en": "We can reasonably expect sales to increase next year, because the economy is growing again.",
+          "zh": "我們可以合理預期明年銷售會增加，因為經濟又開始成長了。"
+        },
+        {
+          "en": "The weather was reasonably warm for December, so many people had lunch outside in the park.",
+          "zh": "以十二月來說天氣相當溫暖，所以很多人在公園外面吃午餐。"
+        }
+      ],
+      "distractors": [
+        "seasonably",
+        "reliably",
+        "respectably"
+      ],
+      "note": "語塊：reasonably priced（價格合理）、reasonably good（相當不錯）。reasonably 是「合理地」或「還算、相當」；reasonable 是形容詞「合理的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-relevance",
+      "word": "relevance",
+      "pos": "名詞",
+      "meaning": "相關性；關聯",
+      "sentences": [
+        {
+          "en": "Please explain the relevance of your experience to the position when you write your cover letter.",
+          "zh": "寫求職信時，請說明你的經驗和這個職位的關聯。"
+        },
+        {
+          "en": "The manager questioned the relevance of the old report to the new project that the team is starting.",
+          "zh": "經理質疑那份舊報告和團隊正要開始的新專案的相關性。"
+        },
+        {
+          "en": "The training course has great relevance to our daily work, so every employee should attend it.",
+          "zh": "訓練課程和我們的日常工作非常相關，所以每位員工都應該參加。"
+        },
+        {
+          "en": "The teacher asked students to think about the relevance of history to their lives today.",
+          "zh": "老師請學生思考歷史和他們今天生活的關聯。"
+        },
+        {
+          "en": "The information has little relevance to the problem, so we do not need to include it in the report.",
+          "zh": "那些資訊和問題沒什麼關聯，所以我們不需要放進報告。"
+        }
+      ],
+      "distractors": [
+        "relevant",
+        "reliance",
+        "resonance"
+      ],
+      "note": "語塊：relevance to（與……的關聯）、have relevance（有關聯）。relevance 是 relevant（相關的）的名詞；irrelevance 是「無關」；importance 是「重要性」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-elimination",
+      "word": "elimination",
+      "pos": "名詞",
+      "meaning": "消除；淘汰",
+      "sentences": [
+        {
+          "en": "The elimination of paper documents will help the company save money and protect the environment.",
+          "zh": "取消紙本文件將幫助公司省錢並保護環境。"
+        },
+        {
+          "en": "The new machines will lead to the elimination of several boring tasks that workers used to do by hand.",
+          "zh": "新機器將免除好幾項工人以前用手做的無聊工作。"
+        },
+        {
+          "en": "More than one hundred restaurants took part in the elimination round of the cooking competition.",
+          "zh": "一百多家餐廳參加了烹飪比賽的淘汰賽。"
+        },
+        {
+          "en": "The government is working on the elimination of plastic bags from all supermarkets by next year.",
+          "zh": "政府正努力在明年前讓所有超市取消塑膠袋。"
+        },
+        {
+          "en": "The elimination of unnecessary meetings has given employees more time to focus on their work.",
+          "zh": "取消不必要的會議讓員工有更多時間專注在工作上。"
+        }
+      ],
+      "distractors": [
+        "illumination",
+        "limitation",
+        "estimation"
+      ],
+      "note": "語塊：elimination of（……的消除）、elimination round（淘汰賽）。elimination 是 eliminate（消除；淘汰）的名詞；removal 是「移除」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inspector",
+      "word": "inspector",
+      "pos": "名詞",
+      "meaning": "檢查員；稽查員",
+      "sentences": [
+        {
+          "en": "A health inspector will visit the restaurant next week to check whether the kitchen is clean.",
+          "zh": "一位衛生稽查員下週會到那家餐廳，檢查廚房是否乾淨。"
+        },
+        {
+          "en": "The safety inspector found several problems at the factory, so the manager must fix them quickly.",
+          "zh": "安全檢查員在工廠發現好幾個問題，所以經理必須盡快修正。"
+        },
+        {
+          "en": "The building inspector must approve the new house before the family can move in next month.",
+          "zh": "建築檢查員必須核准新房子，那家人下個月才能入住。"
+        },
+        {
+          "en": "Every inspector who visits the factory must wear a helmet and follow the safety rules.",
+          "zh": "每位到工廠的檢查員都必須戴安全帽並遵守安全規定。"
+        },
+        {
+          "en": "The health inspector gave the café the highest score because the kitchen was spotless and well organized.",
+          "zh": "衛生稽查員給那家咖啡廳最高分，因為廚房一塵不染又井然有序。"
+        }
+      ],
+      "distractors": [
+        "instructor",
+        "investor",
+        "inventor"
+      ],
+      "note": "語塊：health inspector（衛生稽查員）、safety inspector（安全檢查員）、building inspector（建築檢查員）。inspector 是「負責檢查的人」；inspect 是動詞「檢查」；inspection 是名詞「檢查」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aspiration",
+      "word": "aspiration",
+      "pos": "名詞",
+      "meaning": "抱負；志向",
+      "sentences": [
+        {
+          "en": "Ms. Lin has an aspiration to open her own restaurant in the city center within five years.",
+          "zh": "林小姐的抱負是五年內在市中心開自己的餐廳。"
+        },
+        {
+          "en": "During the interview, the manager asked each candidate about his or her career aspiration for the future.",
+          "zh": "面試時，經理問每位應徵者未來的職涯抱負。"
+        },
+        {
+          "en": "The program helps young people from poor families reach their aspiration of going to university.",
+          "zh": "這個計畫幫助貧困家庭的年輕人實現上大學的志向。"
+        },
+        {
+          "en": "The company supports every employee's career aspiration by offering training and chances to work abroad.",
+          "zh": "公司提供訓練和出國工作的機會，支持每位員工的職涯抱負。"
+        },
+        {
+          "en": "Mr. Kim's aspiration is to become a manager, so he is taking evening classes in business.",
+          "zh": "金先生的志向是成為經理，所以他在上夜間商業課程。"
+        }
+      ],
+      "distractors": [
+        "inspiration",
+        "perspiration",
+        "respiration"
+      ],
+      "note": "語塊：career aspiration（職涯抱負）、has an aspiration to（有……的抱負）、reach their aspiration（實現志向）、aspiration is to（志向是……）。aspiration 是「想達成的目標或夢想」；ambition 意思接近；aspire 是動詞「渴望」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legislation",
+      "word": "legislation",
+      "pos": "名詞",
+      "meaning": "法律；立法",
+      "sentences": [
+        {
+          "en": "The new legislation requires all companies to give employees at least ten days of paid vacation each year.",
+          "zh": "新法規要求所有公司每年至少給員工十天帶薪假。"
+        },
+        {
+          "en": "The government plans to pass legislation that will reduce plastic waste in supermarkets and restaurants.",
+          "zh": "政府計畫通過一項減少超市和餐廳塑膠垃圾的法律。"
+        },
+        {
+          "en": "Many business owners are worried about the new legislation on working hours, because it may increase costs.",
+          "zh": "很多企業主擔心新的工時法規，因為可能會增加成本。"
+        },
+        {
+          "en": "The legislation on air pollution will take effect next year, so factories must install new equipment.",
+          "zh": "空氣污染相關法律明年將生效，所以工廠必須安裝新設備。"
+        },
+        {
+          "en": "Lawyers at the firm will explain the new legislation to clients at a free seminar next month.",
+          "zh": "事務所的律師下個月會在免費研討會上向客戶說明新法規。"
+        }
+      ],
+      "distractors": [
+        "registration",
+        "regulation",
+        "legislature"
+      ],
+      "note": "語塊：new legislation（新法規）、pass legislation（通過法律）、legislation on（關於……的法律）。legislation 是「法律（整體）」；law 是一般「法律」；legislator 是「立法者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-perspective",
+      "word": "perspective",
+      "pos": "名詞",
+      "meaning": "觀點；角度",
+      "sentences": [
+        {
+          "en": "From the customer's perspective, the new website is much easier to use than the old one.",
+          "zh": "從顧客的角度來看，新網站比舊的好用很多。"
+        },
+        {
+          "en": "Working abroad gave Ms. Park a different perspective on how companies around the world treat their employees.",
+          "zh": "在國外工作讓朴小姐對世界各地的公司如何對待員工有了不同的觀點。"
+        },
+        {
+          "en": "The manager invited people from other departments to the meeting to get a different perspective.",
+          "zh": "經理邀請其他部門的人來開會，以獲得不同的觀點。"
+        },
+        {
+          "en": "It helps to look at the problem from a different perspective when you cannot find a solution.",
+          "zh": "找不到解決辦法時，從不同角度看問題會有幫助。"
+        },
+        {
+          "en": "From my perspective, the plan is good, but we need more time to prepare before we start.",
+          "zh": "從我的角度來看，計畫很好，但我們開始前需要更多時間準備。"
+        }
+      ],
+      "distractors": [
+        "prospective",
+        "prospect",
+        "respective"
+      ],
+      "note": "語塊：from one's perspective（從……的角度）、different perspective（不同的觀點）、put into perspective（客觀看待）。perspective 是「看事情的角度」；point of view 意思接近；prospective 是「未來的；潛在的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supremely",
+      "word": "supremely",
+      "pos": "副詞",
+      "meaning": "極其；無比地",
+      "sentences": [
+        {
+          "en": "The young chef is supremely talented, and her restaurant has already received several international awards.",
+          "zh": "那位年輕主廚才華洋溢，她的餐廳已經得了好幾個國際獎。"
+        },
+        {
+          "en": "The CEO seemed supremely confident when she announced the company's plans for next year to investors.",
+          "zh": "執行長向投資人宣布公司明年計畫時，看起來極有自信。"
+        },
+        {
+          "en": "The hotel is supremely comfortable, with large rooms, soft beds, and a beautiful view of the sea.",
+          "zh": "那家飯店極其舒適，有大房間、軟床和美麗的海景。"
+        },
+        {
+          "en": "The team was supremely prepared for the presentation, so the client agreed to sign the contract.",
+          "zh": "團隊為簡報做了萬全準備，所以客戶同意簽約。"
+        },
+        {
+          "en": "The new phone is supremely easy to use, so even older customers can learn it in a few minutes.",
+          "zh": "新手機極其好用，連年長顧客幾分鐘就能學會。"
+        }
+      ],
+      "distractors": [
+        "superbly",
+        "sincerely",
+        "securely"
+      ],
+      "note": "語塊：supremely confident（極有自信）、supremely talented（才華洋溢）、supremely comfortable（極其舒適）、supremely prepared（準備萬全）、supremely easy（極其簡單）。supremely 是「最高程度地」；extremely 意思接近；supreme 是形容詞「最高的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-debatably",
+      "word": "debatably",
+      "pos": "副詞",
+      "meaning": "有爭議地；或許可以說",
+      "sentences": [
+        {
+          "en": "The new restaurant is debatably the best place for seafood in the city, although some people disagree.",
+          "zh": "那家新餐廳或許可說是市內最好吃的海鮮餐廳，雖然有些人不同意。"
+        },
+        {
+          "en": "The plan is debatably too expensive, so the board will discuss it again at the next meeting.",
+          "zh": "這個計畫可能太貴了，所以董事會下次開會會再討論。"
+        },
+        {
+          "en": "The film is debatably the director's best work, but many critics prefer her first feature film.",
+          "zh": "那部電影或許可說是導演最好的作品，但很多評論家比較喜歡她的第一部長片。"
+        },
+        {
+          "en": "Working from home is debatably more productive, because some people find it hard to focus at home.",
+          "zh": "在家工作是否更有效率有爭議，因為有些人在家很難專心。"
+        },
+        {
+          "en": "The new design is debatably better than the old one, so the company will ask customers for their opinion.",
+          "zh": "新設計是否比舊的好有爭議，所以公司會詢問顧客的意見。"
+        }
+      ],
+      "distractors": [
+        "arguably",
+        "debatable",
+        "desirably"
+      ],
+      "note": "語塊：debatably the best（或許可說是最好的）、debatably too expensive（可能太貴）、debatably more productive（是否更有效率有爭議）、debatably better（是否更好有爭議）。debatably 是「這一點可以討論、不是每個人都同意」；arguably 意思接近；debatable 是形容詞「有爭議的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-the-go",
+      "word": "on the go",
+      "pos": "其他",
+      "meaning": "忙個不停；在外奔波",
+      "sentences": [
+        {
+          "en": "The café sells healthy food on the go for office workers who do not have time for a long lunch.",
+          "zh": "那家咖啡廳為沒時間吃長午餐的上班族販售外帶健康餐點。"
+        },
+        {
+          "en": "The new app is designed for people on the go who want to check their e-mail and calendar quickly.",
+          "zh": "新 App 是為想快速查看電子郵件和行事曆的忙碌人士設計的。"
+        },
+        {
+          "en": "Ms. Lee is always on the go, because she visits several clients in different cities every week.",
+          "zh": "李小姐總是忙個不停，因為她每週要拜訪不同城市的好幾位客戶。"
+        },
+        {
+          "en": "Portable chargers are useful for people on the go who use their phones all day.",
+          "zh": "行動電源對整天用手機、在外奔波的人很有用。"
+        },
+        {
+          "en": "The store near the station sells breakfast on the go, such as sandwiches, fruit, and hot coffee.",
+          "zh": "車站附近的店販售三明治、水果和熱咖啡等外帶早餐。"
+        }
+      ],
+      "distractors": [
+        "on the way",
+        "on the move",
+        "on the run"
+      ],
+      "note": "語塊：food on the go（外帶食物）、people on the go（忙碌的人）、always on the go（總是忙個不停）。on the go 是「一直在移動、很忙」；busy 意思接近；to go 是「外帶」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incredible",
+      "word": "incredible",
+      "pos": "形容詞",
+      "meaning": "難以置信的；驚人的",
+      "sentences": [
+        {
+          "en": "The hotel room has an incredible view of the mountains, so many guests take photos from the balcony.",
+          "zh": "飯店房間有驚人的山景，所以很多客人從陽台拍照。"
+        },
+        {
+          "en": "The new product was an incredible success, and the company sold more than one million units in a year.",
+          "zh": "新產品獲得驚人的成功，公司一年內賣出一百多萬台。"
+        },
+        {
+          "en": "The team did an incredible job of finishing the project two weeks before the deadline.",
+          "zh": "團隊在截止日前兩週完成專案，做得非常驚人。"
+        },
+        {
+          "en": "It is incredible how quickly the city has changed since the new subway line opened.",
+          "zh": "新地鐵線開通後，城市改變之快令人難以置信。"
+        },
+        {
+          "en": "The chef's food was incredible, and every guest at the dinner asked for the recipe.",
+          "zh": "主廚的料理好吃得令人難以置信，晚宴的每位客人都要食譜。"
+        }
+      ],
+      "distractors": [
+        "incredulous",
+        "credible",
+        "inedible"
+      ],
+      "note": "語塊：incredible view（驚人的景色）、incredible success（驚人的成功）、incredible job（做得驚人）、it is incredible how（……令人難以置信）、food was incredible（料理好得驚人）。incredible 是「好到或多到讓人不敢相信的」；amazing 意思接近；incredibly 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-simplistic",
+      "word": "simplistic",
+      "pos": "形容詞",
+      "meaning": "過於簡單化的",
+      "sentences": [
+        {
+          "en": "The plan is too simplistic, because it does not explain how the company will pay for the new factory.",
+          "zh": "這個計畫太過簡化，因為沒有說明公司要怎麼支付新工廠的費用。"
+        },
+        {
+          "en": "Some people have a simplistic view of the problem and think that lower prices will solve everything.",
+          "zh": "有些人對問題的看法太簡單，以為降價就能解決一切。"
+        },
+        {
+          "en": "The consultant said that the solution was simplistic and would not work in a large company.",
+          "zh": "顧問說那個方法太過簡化，在大公司行不通。"
+        },
+        {
+          "en": "The report was criticized for giving a simplistic explanation of why sales had fallen so sharply.",
+          "zh": "那份報告因為對銷售大幅下滑的解釋過於簡單而受到批評。"
+        },
+        {
+          "en": "It would be simplistic to say that the new manager is the only reason for the team's success.",
+          "zh": "說新經理是團隊成功的唯一原因，未免太過簡化。"
+        }
+      ],
+      "distractors": [
+        "simplified",
+        "realistic",
+        "optimistic"
+      ],
+      "note": "語塊：simplistic view（過於簡單的看法）、solution was simplistic（方法太過簡化）、too simplistic（太過簡化）、simplistic explanation（過於簡單的解釋）、it would be simplistic（未免太過簡化）。simplistic 是「把複雜的事想得太簡單（負面）」；simple 是「簡單的」；simplified 是「簡化的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overpay",
+      "word": "overpay",
+      "pos": "動詞",
+      "meaning": "多付；付太多",
+      "sentences": [
+        {
+          "en": "Please compare prices at several stores so that you do not overpay for a new phone.",
+          "zh": "請比較好幾家店的價格，以免買新手機時付太多錢。"
+        },
+        {
+          "en": "The company will return the money to customers who overpay for their bills by mistake.",
+          "zh": "公司會把錢退還給不小心多付帳單的顧客。"
+        },
+        {
+          "en": "Many tourists overpay for taxis because they do not know how much the trip should cost.",
+          "zh": "很多觀光客搭計程車時付太多錢，因為不知道車資應該多少。"
+        },
+        {
+          "en": "If you overpay by more than ten dollars, the bank will add the extra money to your next bill.",
+          "zh": "如果你多付超過十元，銀行會把多的錢扣抵到下期帳單。"
+        },
+        {
+          "en": "Buying a house without checking the market can cause you to overpay by thousands of dollars.",
+          "zh": "沒查市場行情就買房，可能會讓你多付好幾千元。"
+        }
+      ],
+      "distractors": [
+        "overcharge",
+        "overlay",
+        "repay"
+      ],
+      "note": "語塊：overpay for（為……付太多錢）、overpay by（多付了……）。overpay 是「付比應該付的還多的錢」；underpay 是「少付」；overcharge 是「（賣方）多收」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-source",
+      "word": "source",
+      "pos": "名詞",
+      "meaning": "來源；出處",
+      "sentences": [
+        {
+          "en": "Tourism is the main source of income for many small towns and villages along the coast.",
+          "zh": "觀光是很多沿海小鎮和村莊主要的收入來源。"
+        },
+        {
+          "en": "Please make sure that the information in your report comes from a reliable source such as a government report.",
+          "zh": "請確認報告裡的資訊來自政府報告之類的可靠來源。"
+        },
+        {
+          "en": "Fresh fruit and vegetables are a good source of vitamins for people of all ages.",
+          "zh": "新鮮蔬果是各年齡層的人很好的維他命來源。"
+        },
+        {
+          "en": "The engineers are trying to find the source of the strange noise that the machine makes at night.",
+          "zh": "工程師正試著找出機器晚上發出奇怪聲音的來源。"
+        },
+        {
+          "en": "Solar energy has become an important source of electricity for many factories in the region.",
+          "zh": "太陽能已經成為這個地區很多工廠重要的電力來源。"
+        }
+      ],
+      "distractors": [
+        "resource",
+        "sauce",
+        "course"
+      ],
+      "note": "語塊：source of（……的來源）、main source（主要來源）、reliable source（可靠的消息來源）。source 是「從哪裡來的地方」；resource 是「資源」；sauce 是「醬汁」，發音很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tap-water",
+      "word": "tap water",
+      "pos": "名詞",
+      "meaning": "自來水",
+      "sentences": [
+        {
+          "en": "In many cities, it is safe to drink tap water, so you do not need to buy bottled water.",
+          "zh": "在很多城市，喝自來水是安全的，所以不需要買瓶裝水。"
+        },
+        {
+          "en": "The restaurant serves free tap water to every customer, but bottled water costs three dollars.",
+          "zh": "那家餐廳免費提供自來水給每位顧客，但瓶裝水要三元。"
+        },
+        {
+          "en": "The city spends a lot of money every year to make sure that the tap water is clean and safe.",
+          "zh": "市政府每年花很多錢確保自來水乾淨又安全。"
+        },
+        {
+          "en": "Please do not drink the tap water in the old building until the pipes have been checked.",
+          "zh": "在水管檢查完之前，請不要喝舊大樓的自來水。"
+        },
+        {
+          "en": "Using a water bottle and tap water instead of buying plastic bottles can help reduce waste.",
+          "zh": "用水壺裝自來水而不是買塑膠瓶裝水，可以幫助減少垃圾。"
+        }
+      ],
+      "distractors": [
+        "bottled water",
+        "tap dance",
+        "water tap"
+      ],
+      "note": "語塊：drink tap water（喝自來水）、clean tap water（乾淨的自來水）。tap water 是「水龍頭流出來的水」；bottled water 是「瓶裝水」；tap 是「水龍頭」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-plumbing",
+      "word": "plumbing",
+      "pos": "名詞",
+      "meaning": "水管系統；水電工程",
+      "sentences": [
+        {
+          "en": "The old building has many plumbing problems, so the owner will replace all of the pipes next year.",
+          "zh": "那棟舊大樓有很多水管問題，所以屋主明年會更換所有的水管。"
+        },
+        {
+          "en": "Please call a professional if there is a plumbing problem in the kitchen, because water can damage the floor.",
+          "zh": "如果廚房有水管問題，請找專業人員，因為水會損壞地板。"
+        },
+        {
+          "en": "The hotel closed several rooms for two days while workers repaired the plumbing system in the building.",
+          "zh": "工人維修大樓水管系統時，飯店有好幾間房間關閉了兩天。"
+        },
+        {
+          "en": "The price of the apartment is low, because the plumbing and electricity need to be updated.",
+          "zh": "那間公寓價格很低，因為水管和電力都需要更新。"
+        },
+        {
+          "en": "The new plumbing system uses less water, which will reduce the building's monthly bills by about ten percent.",
+          "zh": "新的水管系統更省水，會讓大樓每月的帳單降低約一成。"
+        }
+      ],
+      "distractors": [
+        "plumber",
+        "plumage",
+        "climbing"
+      ],
+      "note": "語塊：plumbing system（水管系統）、plumbing problem（水管問題）。plumbing 是「整個水管設備」；plumber 是「水電工」（b 不發音）；pipe 是「水管」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-offer",
+      "word": "offer",
+      "pos": "動詞",
+      "meaning": "提供；提議",
+      "sentences": [
+        {
+          "en": "The store will offer a discount of twenty percent to customers who bring their own bags.",
+          "zh": "那家店會給自備購物袋的顧客打八折。"
+        },
+        {
+          "en": "Mr. Kim will offer to help the new employee learn the computer system during her first week.",
+          "zh": "金先生會主動表示要在新員工第一週幫她學電腦系統。"
+        },
+        {
+          "en": "The bank decided to offer Ms. Lee a job as a financial advisor after her second interview.",
+          "zh": "第二次面試後，銀行決定給李小姐一份理財顧問的工作。"
+        },
+        {
+          "en": "The hotel will offer free breakfast to guests who stay for more than three nights.",
+          "zh": "飯店會為住宿超過三晚的客人提供免費早餐。"
+        },
+        {
+          "en": "The company plans to offer more training courses for employees who want to become managers.",
+          "zh": "公司計畫為想當主管的員工提供更多訓練課程。"
+        }
+      ],
+      "distractors": [
+        "offend",
+        "afford",
+        "order"
+      ],
+      "note": "語塊：offer a discount（提供折扣）、offer to help（主動幫忙）、offer Ms. Lee a job（給李小姐工作）、offer free breakfast（提供免費早餐）、offer more training（提供更多訓練）。offer 可以當動詞或名詞「提議；優惠」；special offer 是「特價優惠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-identification",
+      "word": "identification",
+      "pos": "名詞",
+      "meaning": "身分證明；識別",
+      "sentences": [
+        {
+          "en": "All visitors must show photo identification at the front desk before they enter the building.",
+          "zh": "所有訪客進入大樓前都必須在櫃台出示附照片的證件。"
+        },
+        {
+          "en": "Please bring proof of identification, such as a passport, when you open a bank account.",
+          "zh": "開銀行帳戶時，請帶護照之類的身分證明。"
+        },
+        {
+          "en": "Every employee receives an identification card that must be worn at all times in the office.",
+          "zh": "每位員工都會拿到一張識別證，在辦公室時必須隨時配戴。"
+        },
+        {
+          "en": "The hotel will ask for identification when you check in, so please keep your passport with you.",
+          "zh": "飯店在入住時會要求出示證件，所以請隨身攜帶護照。"
+        },
+        {
+          "en": "The bank cannot send money to another country without proper identification from the customer who is sending it.",
+          "zh": "沒有匯款顧客的適當身分證明，銀行無法把錢匯到其他國家。"
+        }
+      ],
+      "distractors": [
+        "identity",
+        "notification",
+        "justification"
+      ],
+      "note": "語塊：photo identification（附照片的證件）、proof of identification（身分證明）、identification card（身分證）。identification 常縮寫為 ID；identify 是動詞「辨認」；identity 是「身分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-by-the-hour",
+      "word": "by the hour",
+      "pos": "副詞",
+      "meaning": "按小時計算",
+      "sentences": [
+        {
+          "en": "Part-time workers at the café are paid by the hour, and they can choose how many shifts they work.",
+          "zh": "咖啡廳的兼職人員按時計酬，可以自己選要上幾班。"
+        },
+        {
+          "en": "The meeting rooms at the business center can be rented by the hour, so small companies use them often.",
+          "zh": "商務中心的會議室可以按小時出租，所以小公司常常使用。"
+        },
+        {
+          "en": "Many lawyers charge by the hour, so please prepare your questions before the meeting to save money.",
+          "zh": "很多律師按小時收費，所以開會前請準備好問題以省錢。"
+        },
+        {
+          "en": "You can rent a bicycle by the hour at the station and return it at any other station in the city.",
+          "zh": "你可以在車站按小時租自行車，並在市內任何其他站歸還。"
+        },
+        {
+          "en": "The parking garage charges by the hour, but the price is lower on weekends and at night.",
+          "zh": "停車場按小時收費，但週末和晚上比較便宜。"
+        }
+      ],
+      "distractors": [
+        "by the way",
+        "by the day",
+        "on the hour"
+      ],
+      "note": "語塊：paid by the hour（按時計酬）、rented by the hour（按小時出租）、charge by the hour（按小時收費）、rent a bicycle by the hour（按小時租車）。by the hour 是「以小時為單位」；by the day 是「按天」；hourly 是「每小時的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-balance",
+      "word": "balance",
+      "pos": "名詞",
+      "meaning": "餘額；平衡",
+      "sentences": [
+        {
+          "en": "Customers can check their account balance at any time by using the bank's mobile app.",
+          "zh": "顧客可以隨時用銀行的手機 App 查詢帳戶餘額。"
+        },
+        {
+          "en": "Many employees want a better work-life balance, so the company now offers flexible working hours.",
+          "zh": "很多員工想要更好的工作與生活平衡，所以公司現在提供彈性工時。"
+        },
+        {
+          "en": "Please pay the outstanding balance on your account before the end of the month to avoid a late fee.",
+          "zh": "請在月底前付清帳戶的未付餘額，以免產生滯納金。"
+        },
+        {
+          "en": "The balance of the payment is due when the work is finished and checked by the client.",
+          "zh": "剩下的款項在工作完成並經客戶檢查後支付。"
+        },
+        {
+          "en": "Working from home can help parents find a better work-life balance and spend more time with their children.",
+          "zh": "在家工作能幫助父母找到更好的工作與生活平衡，多陪孩子。"
+        }
+      ],
+      "distractors": [
+        "ballot",
+        "balcony",
+        "valance"
+      ],
+      "note": "語塊：account balance（帳戶餘額）、work-life balance（工作與生活的平衡）、outstanding balance（未付餘額）。balance 是「剩下的錢」或「平衡」；可以當動詞「使平衡」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
