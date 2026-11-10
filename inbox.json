@@ -85068,6 +85068,706 @@
       ],
       "note": "語塊：have a disagreement（意見不合）、disagreement over（對……的分歧）、strong disagreement（強烈反對）。disagreement 是 disagree（不同意）的名詞；agreement 是相反「同意；協議」；argument 是「爭吵」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-by-means-of",
+      "word": "by means of",
+      "pos": "介系詞",
+      "meaning": "藉由；透過",
+      "sentences": [
+        {
+          "en": "The company communicates with its overseas offices by means of video calls every Tuesday morning.",
+          "zh": "公司每週二早上藉由視訊通話和海外辦公室聯絡。"
+        },
+        {
+          "en": "The researchers collected information from customers by means of a short online survey last month.",
+          "zh": "研究人員上個月透過一份簡短的線上調查收集顧客資訊。"
+        },
+        {
+          "en": "The museum teaches history by means of interactive screens and short films for children and adults.",
+          "zh": "博物館藉由互動螢幕和給兒童和大人看的短片教授歷史。"
+        },
+        {
+          "en": "Customers can pay by means of credit card, bank transfer, or mobile payment at the counter.",
+          "zh": "顧客可以在櫃台用信用卡、銀行轉帳或行動支付付款。"
+        },
+        {
+          "en": "The factory reduced its energy consumption by means of solar panels on the roof and new machines.",
+          "zh": "工廠藉由屋頂的太陽能板和新機器降低了能源消耗。"
+        }
+      ],
+      "distractors": [
+        "by way of",
+        "by no means",
+        "by virtue of"
+      ],
+      "note": "語塊：by means of video calls（藉由視訊）、by means of a survey（透過調查）、by means of screens（藉由螢幕）、by means of credit card（用信用卡）、by means of solar panels（藉由太陽能板）。by means of 是正式的「用……方法」；through、by 意思接近；by all means 是「當然可以」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-traffic-delay",
+      "word": "traffic delay",
+      "pos": "名詞",
+      "meaning": "交通延誤；塞車",
+      "sentences": [
+        {
+          "en": "The road construction near the bridge will cause a traffic delay of about thirty minutes during rush hour.",
+          "zh": "橋附近的道路施工會在尖峰時段造成大約三十分鐘的交通延誤。"
+        },
+        {
+          "en": "Drivers should expect a traffic delay on the highway this weekend because of the holiday.",
+          "zh": "駕駛這個週末應預期高速公路會因為連假而塞車。"
+        },
+        {
+          "en": "Because of a traffic delay, Ms. Lee arrived at the meeting twenty minutes late this morning.",
+          "zh": "因為交通延誤，李小姐今天早上開會遲到了二十分鐘。"
+        },
+        {
+          "en": "Please leave home early tomorrow, because the marathon will cause a traffic delay in the city center.",
+          "zh": "明天請提早出門，因為馬拉松會造成市中心交通延誤。"
+        },
+        {
+          "en": "The radio station reports every traffic delay in the city so that drivers can choose a different road.",
+          "zh": "廣播電台會報導市內每一處交通延誤，讓駕駛可以改走其他路。"
+        }
+      ],
+      "distractors": [
+        "traffic jam",
+        "traffic light",
+        "flight delay"
+      ],
+      "note": "語塊：cause traffic delays（造成交通延誤）、expect traffic delays（預期會塞車）。traffic delay 是「因為交通造成的延遲」；traffic jam 是「塞車」；congestion 是「壅塞」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-domestically",
+      "word": "domestically",
+      "pos": "副詞",
+      "meaning": "在國內",
+      "sentences": [
+        {
+          "en": "Most of the company's products are sold domestically, but it plans to start exporting to Asia next year.",
+          "zh": "公司大部分產品在國內銷售，但打算明年開始外銷到亞洲。"
+        },
+        {
+          "en": "The government wants more food to be produced domestically so that the country depends less on imports.",
+          "zh": "政府希望更多食物在國內生產，讓國家比較不依賴進口。"
+        },
+        {
+          "en": "The airline flies both domestically and internationally, with more than two hundred flights every day.",
+          "zh": "那家航空公司經營國內和國際航線，每天有兩百多個航班。"
+        },
+        {
+          "en": "Many people prefer to travel domestically during short holidays, because it is cheaper and faster.",
+          "zh": "很多人短假期偏好國內旅遊，因為比較便宜又快。"
+        },
+        {
+          "en": "The new phone will be sold domestically first and then in other countries later in the year.",
+          "zh": "新手機會先在國內銷售，年底前再在其他國家上市。"
+        }
+      ],
+      "distractors": [
+        "dramatically",
+        "democratically",
+        "domestic"
+      ],
+      "note": "語塊：sold domestically（在國內銷售）、produced domestically（國內生產）。domestically 是 domestic（國內的；家庭的）的副詞；internationally 是相反「國際上」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-locality",
+      "word": "locality",
+      "pos": "名詞",
+      "meaning": "地區；附近一帶",
+      "sentences": [
+        {
+          "en": "The company hires most of its workers from the locality, so the factory is very important to the town.",
+          "zh": "公司大部分工人都從當地雇用，所以工廠對小鎮非常重要。"
+        },
+        {
+          "en": "There are several good schools in the locality, which makes it popular with young families.",
+          "zh": "這一帶有好幾所好學校，讓它很受年輕家庭歡迎。"
+        },
+        {
+          "en": "The restaurant buys its vegetables from farms in the locality, so the food is always fresh.",
+          "zh": "那家餐廳向當地農場買蔬菜，所以食物總是很新鮮。"
+        },
+        {
+          "en": "House prices in the locality have increased since the new subway station opened last year.",
+          "zh": "自從去年新地鐵站開通後，這一帶的房價上漲了。"
+        },
+        {
+          "en": "The festival celebrates the history and traditions of the locality with music, food, and dance.",
+          "zh": "這個節慶用音樂、美食和舞蹈慶祝當地的歷史和傳統。"
+        }
+      ],
+      "distractors": [
+        "location",
+        "locale",
+        "loyalty"
+      ],
+      "note": "語塊：in the locality（在當地）、schools in the locality（當地的學校）、farms in the locality（當地農場）、prices in the locality（當地房價）。locality 是比較正式的「某個地方、地區」；area、neighborhood 意思接近；location 是「位置」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-out-of-the-ordinary",
+      "word": "out of the ordinary",
+      "pos": "形容詞",
+      "meaning": "不尋常的；特別的",
+      "sentences": [
+        {
+          "en": "The security guard checked the cameras and said there was nothing out of the ordinary last night.",
+          "zh": "警衛檢查監視器後說昨晚沒有什麼不尋常的事。"
+        },
+        {
+          "en": "If you notice something out of the ordinary in the factory, please tell your supervisor immediately.",
+          "zh": "如果你在工廠注意到任何不尋常的事，請立刻告訴主管。"
+        },
+        {
+          "en": "The hotel offers experiences that are out of the ordinary, such as dinner on the roof under the stars.",
+          "zh": "飯店提供與眾不同的體驗，例如在屋頂星空下用晚餐。"
+        },
+        {
+          "en": "Sales this month were nothing out of the ordinary, so the manager will keep the same plan.",
+          "zh": "這個月的銷售沒有什麼特別，所以經理會維持同樣的計畫。"
+        },
+        {
+          "en": "The designer wanted to create something out of the ordinary for the new store in the city center.",
+          "zh": "設計師想為市中心的新店創造一些與眾不同的東西。"
+        }
+      ],
+      "distractors": [
+        "out of order",
+        "out of date",
+        "out of stock"
+      ],
+      "note": "語塊：nothing out of the ordinary（沒什麼特別）、something out of the ordinary（不尋常的事）。out of the ordinary 是「和平常不一樣的」；unusual 意思接近；ordinary 是「普通的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mechanic",
+      "word": "mechanic",
+      "pos": "名詞",
+      "meaning": "技工；修車師傅",
+      "sentences": [
+        {
+          "en": "Please take the company car to a mechanic, because it has been making a strange noise all week.",
+          "zh": "請把公司車送去給技師修，因為它整週都發出奇怪的聲音。"
+        },
+        {
+          "en": "The car mechanic said that the brakes need to be replaced before the long trip next month.",
+          "zh": "汽車技師說煞車需要在下個月長途旅行前更換。"
+        },
+        {
+          "en": "Mr. Lopez has worked as a mechanic for twenty years, so he can fix almost any kind of engine.",
+          "zh": "羅培茲先生當技師二十年了，所以幾乎任何引擎他都會修。"
+        },
+        {
+          "en": "Every mechanic at the airline checks each plane carefully before it takes off from the airport.",
+          "zh": "那家航空公司的每位技師都會在每架飛機從機場起飛前仔細檢查。"
+        },
+        {
+          "en": "The mechanic will check the tires and the oil when you bring your car in on Saturday.",
+          "zh": "你週六把車送來時，技師會檢查輪胎和機油。"
+        }
+      ],
+      "distractors": [
+        "mechanism",
+        "technician",
+        "musician"
+      ],
+      "note": "語塊：car mechanic（汽車技師）、take to a mechanic（送去給技師修）。mechanic 是「修理機器或車子的人」；mechanical 是「機械的」；mechanism 是「機制」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-diagnose",
+      "word": "diagnose",
+      "pos": "動詞",
+      "meaning": "診斷；找出（問題）",
+      "sentences": [
+        {
+          "en": "The technician needs a few hours to diagnose the problem with the printer before he can repair it.",
+          "zh": "技術人員需要幾小時找出印表機的問題，才能修理。"
+        },
+        {
+          "en": "The new machine helps doctors diagnose heart problems more quickly and accurately than ever before.",
+          "zh": "新機器幫助醫生比以往更快、更準確地診斷心臟問題。"
+        },
+        {
+          "en": "The mechanic used a computer to diagnose the problem with the car's engine in only ten minutes.",
+          "zh": "技師用電腦只花十分鐘就找出車子引擎的問題。"
+        },
+        {
+          "en": "If doctors diagnose the illness early, the treatment is usually much easier and cheaper for the patient.",
+          "zh": "如果醫生及早診斷出疾病，對病人來說治療通常會容易又便宜很多。"
+        },
+        {
+          "en": "The IT team will diagnose the problem with the website and tell us how long the repair will take.",
+          "zh": "資訊團隊會找出網站的問題，並告訴我們修復需要多久。"
+        }
+      ],
+      "distractors": [
+        "diagram",
+        "dialogue",
+        "dispose"
+      ],
+      "note": "語塊：diagnose a problem（找出問題）、be diagnosed with（被診斷出……）。diagnose 是「找出病因或故障原因」；diagnosis 是名詞「診斷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inaugurate",
+      "word": "inaugurate",
+      "pos": "動詞",
+      "meaning": "為……舉行落成典禮；開始；使就職",
+      "sentences": [
+        {
+          "en": "The mayor will inaugurate the new library at a special ceremony with local residents on Saturday morning.",
+          "zh": "市長將在週六早上和當地居民的特別典禮上為新圖書館揭幕。"
+        },
+        {
+          "en": "The airline will inaugurate its first direct flight between Taipei and Seattle at the beginning of next month.",
+          "zh": "航空公司下個月初將開通台北和西雅圖之間的首條直飛航線。"
+        },
+        {
+          "en": "The country will inaugurate the new president in January, and thousands of people will attend the ceremony.",
+          "zh": "國家將在一月為新總統舉行就職典禮，數千人會出席典禮。"
+        },
+        {
+          "en": "The company will inaugurate its new headquarters with a party for employees and their families.",
+          "zh": "公司將舉辦員工和家屬派對，為新總部落成揭幕。"
+        },
+        {
+          "en": "The city plans to inaugurate the new bridge in March, after the final safety checks are finished.",
+          "zh": "市政府計畫在最後安全檢查完成後，於三月為新橋舉行啟用典禮。"
+        }
+      ],
+      "distractors": [
+        "integrate",
+        "innovate",
+        "invigorate"
+      ],
+      "note": "語塊：inaugurate the new library（為新圖書館揭幕）、inaugurate the new president（為新總統舉行就職）、inaugurate its new headquarters（為新總部揭幕）、inaugurate a flight（開通航線）、inaugurate the bridge（為橋揭幕）。inaugurate 是正式的「啟用、開幕」或「就職」；inauguration 是名詞「就職典禮；落成典禮」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compact",
+      "word": "compact",
+      "pos": "形容詞",
+      "meaning": "小巧的；緊湊的",
+      "sentences": [
+        {
+          "en": "The new printer has a compact design, so it fits easily on a small desk in a home office.",
+          "zh": "新印表機設計小巧，所以很容易放在家庭辦公室的小桌子上。"
+        },
+        {
+          "en": "Many people in the city prefer a compact car, because it is easier to park and uses less fuel.",
+          "zh": "市區很多人偏好小型車，因為比較好停車也比較省油。"
+        },
+        {
+          "en": "The camera's compact size makes it perfect for travelers who do not want to carry heavy bags.",
+          "zh": "那台相機尺寸輕巧，非常適合不想背重包包的旅客。"
+        },
+        {
+          "en": "The apartment is compact, but it has a modern kitchen and a large window with a view of the river.",
+          "zh": "那間公寓雖然小巧，但有現代化廚房和看得到河景的大窗戶。"
+        },
+        {
+          "en": "The company designed a compact version of its coffee machine for small offices and hotel rooms.",
+          "zh": "公司為小辦公室和飯店房間設計了小巧版的咖啡機。"
+        }
+      ],
+      "distractors": [
+        "contact",
+        "compost",
+        "compass"
+      ],
+      "note": "語塊：compact car（小型車）、compact design（小巧的設計）、compact size（輕巧的尺寸）。compact 是「體積小但功能完整的」；small 意思接近；contact 是「聯絡」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enhanced",
+      "word": "enhanced",
+      "pos": "形容詞",
+      "meaning": "提升的；強化的",
+      "sentences": [
+        {
+          "en": "The airport introduced enhanced security after several bags were found without their owners last week.",
+          "zh": "上週好幾件無人認領的行李被發現後，機場加強了安全措施。"
+        },
+        {
+          "en": "The new version of the app has enhanced features, such as faster searching and better maps.",
+          "zh": "新版 App 有強化的功能，例如更快的搜尋和更好的地圖。"
+        },
+        {
+          "en": "Customers who pay a little more can buy the enhanced version, which includes extra storage.",
+          "zh": "多付一點錢的顧客可以買加強版，包含額外的儲存空間。"
+        },
+        {
+          "en": "The hotel offers enhanced cleaning services for guests who stay for more than one week.",
+          "zh": "飯店為住宿超過一週的客人提供加強的清潔服務。"
+        },
+        {
+          "en": "The enhanced camera on the new phone takes clear pictures even at night or in dark rooms.",
+          "zh": "新手機強化的相機即使在晚上或暗室也能拍出清楚的照片。"
+        }
+      ],
+      "distractors": [
+        "enchanted",
+        "enhancer",
+        "advanced"
+      ],
+      "note": "語塊：enhanced security（加強的安全措施）、enhanced features（強化的功能）、enhanced version（加強版）。enhanced 是 enhance（提升）的過去分詞；improved 意思接近；enhancement 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-barrier",
+      "word": "barrier",
+      "pos": "名詞",
+      "meaning": "障礙；屏障",
+      "sentences": [
+        {
+          "en": "The language barrier can make it difficult for new employees from abroad to communicate with their colleagues.",
+          "zh": "語言障礙可能讓從國外來的新員工很難和同事溝通。"
+        },
+        {
+          "en": "The two countries agreed to remove every trade barrier so that companies can sell their products more easily.",
+          "zh": "兩國同意取消所有貿易壁壘，讓公司更容易銷售產品。"
+        },
+        {
+          "en": "High prices are the main barrier to buying electric cars for many families in the region.",
+          "zh": "高價格是這個地區很多家庭購買電動車的主要障礙。"
+        },
+        {
+          "en": "Workers put up a metal barrier around the construction site to keep people away from the danger.",
+          "zh": "工人在工地四周架起金屬屏障，讓人遠離危險。"
+        },
+        {
+          "en": "The company offers free English classes to help overseas staff overcome the language barrier at work.",
+          "zh": "公司提供免費英文課，幫助海外員工克服工作上的語言障礙。"
+        }
+      ],
+      "distractors": [
+        "carrier",
+        "barrel",
+        "barber"
+      ],
+      "note": "語塊：language barrier（語言障礙）、every trade barrier（所有貿易壁壘）、barrier to（……的障礙）。barrier 是「擋住人或事物前進的東西」；obstacle 意思接近；carrier 是「運輸業者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-evacuate",
+      "word": "evacuate",
+      "pos": "動詞",
+      "meaning": "撤離；疏散",
+      "sentences": [
+        {
+          "en": "The security staff had to evacuate the building after the fire alarm went off this morning.",
+          "zh": "今天早上火災警報響了之後，保全人員必須疏散整棟大樓。"
+        },
+        {
+          "en": "The city will evacuate residents who live near the river if the heavy rain continues tonight.",
+          "zh": "如果今晚大雨持續，市政府會撤離住在河邊的居民。"
+        },
+        {
+          "en": "Please follow the instructions of the staff if we need to evacuate the hotel during an emergency.",
+          "zh": "如果緊急時我們需要疏散飯店，請遵從員工的指示。"
+        },
+        {
+          "en": "The workers were able to evacuate the factory in less than five minutes during the fire drill.",
+          "zh": "消防演習時，工人們不到五分鐘就撤離了工廠。"
+        },
+        {
+          "en": "The government will evacuate tourists from the island before the strong typhoon arrives tomorrow afternoon.",
+          "zh": "政府會在強烈颱風明天下午抵達前，把觀光客從島上撤離。"
+        }
+      ],
+      "distractors": [
+        "evaluate",
+        "evaporate",
+        "excavate"
+      ],
+      "note": "語塊：evacuate the building（疏散大樓）、be evacuated from（從……撤離）。evacuate 是「讓人離開危險的地方」；evacuation 是名詞「撤離」；escape 是「逃脫」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-severe",
+      "word": "severe",
+      "pos": "形容詞",
+      "meaning": "嚴重的；劇烈的",
+      "sentences": [
+        {
+          "en": "All flights from the airport were canceled because of severe weather in the northern part of the country.",
+          "zh": "因為國家北部的惡劣天氣，機場所有航班都取消了。"
+        },
+        {
+          "en": "The storm caused severe damage to several buildings near the coast, but nobody was hurt.",
+          "zh": "暴風雨對海岸附近好幾棟建築造成嚴重損害，但沒有人受傷。"
+        },
+        {
+          "en": "There is a severe shortage of nurses in the region, so hospitals are trying to hire staff from abroad.",
+          "zh": "這個地區嚴重缺乏護理師，所以醫院正試著從國外招募人員。"
+        },
+        {
+          "en": "Drivers should stay at home if there is a severe weather warning for snow or strong wind.",
+          "zh": "如果有大雪或強風的惡劣天氣警報，駕駛應該待在家裡。"
+        },
+        {
+          "en": "The company faced severe problems last year, but it is now growing again thanks to its new products.",
+          "zh": "公司去年面臨嚴重問題，但多虧新產品，現在又開始成長了。"
+        }
+      ],
+      "distractors": [
+        "several",
+        "sever",
+        "secure"
+      ],
+      "note": "語塊：severe weather（惡劣天氣）、severe damage（嚴重損害）、severe shortage（嚴重短缺）。severe 是「非常嚴重的」；serious 意思接近；severely 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stay-off",
+      "word": "stay off",
+      "pos": "片語動詞",
+      "meaning": "遠離；不碰",
+      "sentences": [
+        {
+          "en": "Please stay off the grass in the park, because it was just planted and needs time to grow.",
+          "zh": "請勿踩公園的草地，因為剛種好需要時間生長。"
+        },
+        {
+          "en": "The city asked drivers to stay off the roads during the snowstorm unless it was an emergency.",
+          "zh": "市政府要求駕駛在暴風雪期間不要上路，除非是緊急情況。"
+        },
+        {
+          "en": "The doctor told Mr. Kim to stay off work for one week so that he could recover from the surgery.",
+          "zh": "醫生要金先生一週不要上班，好讓他從手術中恢復。"
+        },
+        {
+          "en": "Children should stay off the construction site, because heavy machinery is being used there every day.",
+          "zh": "孩子們應該遠離工地，因為那裡每天都在使用重型機械。"
+        },
+        {
+          "en": "Employees are asked to stay off their phones during meetings so that they can focus on the discussion.",
+          "zh": "員工被要求開會時不要用手機，以便專心討論。"
+        }
+      ],
+      "distractors": [
+        "stay on",
+        "stay up",
+        "stay in"
+      ],
+      "note": "語塊：stay off the grass（勿踩草地）、stay off the roads（不要上路）、stay off work（不去上班）。stay off 是「不要接近或使用」；keep off 意思接近；stay away from 是「遠離」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-objectively",
+      "word": "objectively",
+      "pos": "副詞",
+      "meaning": "客觀地",
+      "sentences": [
+        {
+          "en": "The judges must look at every design objectively, even if they know the person who made it.",
+          "zh": "評審必須客觀看待每一件設計，即使認識作者也一樣。"
+        },
+        {
+          "en": "Please try to judge the two proposals objectively and choose the one that is best for the company.",
+          "zh": "請試著客觀評斷兩份提案，選出對公司最好的那一份。"
+        },
+        {
+          "en": "The report looks objectively at the strengths and weaknesses of each product on the market.",
+          "zh": "報告客觀地檢視市場上每項產品的優缺點。"
+        },
+        {
+          "en": "It is difficult to judge your own work objectively, so ask a colleague to read it before you send it.",
+          "zh": "要客觀評斷自己的作品很難，所以寄出前請同事先讀一遍。"
+        },
+        {
+          "en": "The manager tried to listen objectively to both employees before deciding how to solve the problem.",
+          "zh": "經理試著客觀聆聽兩位員工的說法，再決定如何解決問題。"
+        }
+      ],
+      "distractors": [
+        "subjectively",
+        "effectively",
+        "collectively"
+      ],
+      "note": "語塊：judge objectively（客觀判斷）、look at objectively（客觀看待）。objectively 是「不帶個人感情、公平地」；objective 是形容詞「客觀的」或名詞「目標」；subjectively 是「主觀地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compassionately",
+      "word": "compassionately",
+      "pos": "副詞",
+      "meaning": "同情地；體貼地",
+      "sentences": [
+        {
+          "en": "Nurses at the hospital are trained to treat every patient compassionately, especially those who are scared.",
+          "zh": "醫院的護理師受過訓練，要體貼地對待每位病人，特別是害怕的人。"
+        },
+        {
+          "en": "The manager listened compassionately to the employee who was having serious problems at home with her family.",
+          "zh": "經理有同理心地聆聽那位家裡和家人有嚴重困擾的員工。"
+        },
+        {
+          "en": "Customer service staff should speak compassionately to customers who have lost something important on the train.",
+          "zh": "客服人員應該體貼地和在火車上遺失重要物品的顧客說話。"
+        },
+        {
+          "en": "The doctor explained the results compassionately, so the patient felt less worried about the treatment.",
+          "zh": "醫生體貼地說明檢查結果，讓病人對治療比較不擔心。"
+        },
+        {
+          "en": "Good leaders treat their employees compassionately and help them during difficult times in their lives.",
+          "zh": "好的領導者會體貼地對待員工，並在他們人生的困難時期幫助他們。"
+        }
+      ],
+      "distractors": [
+        "passionately",
+        "comparatively",
+        "considerately"
+      ],
+      "note": "語塊：treat compassionately（體貼地對待）、listen compassionately（有同理心地傾聽）。compassionately 是 compassionate（有同情心的）的副詞；kindly 意思接近；compassion 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interfere",
+      "word": "interfere",
+      "pos": "動詞",
+      "meaning": "干擾；妨礙；干涉",
+      "sentences": [
+        {
+          "en": "Loud music from the café next door can interfere with our meetings, so we will close the windows.",
+          "zh": "隔壁咖啡廳大聲的音樂會干擾我們開會，所以我們會關窗。"
+        },
+        {
+          "en": "Please do not let personal problems interfere with your work, and talk to your manager if you need help.",
+          "zh": "請不要讓私人問題妨礙工作，如果需要幫助請找主管談。"
+        },
+        {
+          "en": "Using your phone on the plane may interfere with the equipment, so please turn it off during takeoff.",
+          "zh": "在飛機上用手機可能會干擾設備，所以起飛時請關機。"
+        },
+        {
+          "en": "The government should not interfere in the business decisions of private companies, according to the report.",
+          "zh": "根據報告，政府不應該干涉民間企業的商業決策。"
+        },
+        {
+          "en": "Bad weather may interfere with our plans for the outdoor event, so we have prepared a room inside.",
+          "zh": "惡劣天氣可能會妨礙我們的戶外活動計畫，所以我們準備了室內場地。"
+        }
+      ],
+      "distractors": [
+        "interview",
+        "interpret",
+        "interact"
+      ],
+      "note": "語塊：interfere with（妨礙……）、interfere in（干涉……）。interfere with 是「妨礙某事」；interfere in 是「插手管別人的事」；interference 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-productive",
+      "word": "productive",
+      "pos": "形容詞",
+      "meaning": "有生產力的；有成效的",
+      "sentences": [
+        {
+          "en": "The meeting was very productive, and the team made several important decisions about the project.",
+          "zh": "會議非常有成效，團隊對專案做了好幾個重要決定。"
+        },
+        {
+          "en": "Many employees say they are more productive when they work from home two days a week.",
+          "zh": "很多員工說一週在家工作兩天時，他們更有效率。"
+        },
+        {
+          "en": "A quiet office with good lighting helps workers stay focused and highly productive all day.",
+          "zh": "安靜又照明良好的辦公室，幫助員工整天保持專注和高效率。"
+        },
+        {
+          "en": "It was a productive day, because we finished the report and sent it to the client before five.",
+          "zh": "今天很充實，因為我們在五點前完成報告並寄給了客戶。"
+        },
+        {
+          "en": "Short breaks during the day can make employees more productive and reduce the number of mistakes.",
+          "zh": "白天短暫休息能讓員工更有效率，並減少錯誤。"
+        }
+      ],
+      "distractors": [
+        "protective",
+        "productively",
+        "proactive"
+      ],
+      "note": "語塊：productive meeting（有成效的會議）、highly productive（非常有效率）、productive day（充實的一天）。productive 是「做出很多成果的」；productivity 是名詞「生產力」；product 是「產品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fashionable",
+      "word": "fashionable",
+      "pos": "形容詞",
+      "meaning": "時髦的；流行的",
+      "sentences": [
+        {
+          "en": "The new shopping street has become a fashionable area for young people, with many cafés and small shops.",
+          "zh": "新的購物街已成為年輕人的時尚地區，有很多咖啡廳和小店。"
+        },
+        {
+          "en": "The store sells fashionable clothes at affordable prices, so it is very popular with students and young workers.",
+          "zh": "那家店以實惠的價格販售時髦的衣服，所以很受學生和年輕上班族歡迎。"
+        },
+        {
+          "en": "Wide trousers have become fashionable again this year, and many stores downtown are selling them at the front.",
+          "zh": "寬褲今年又流行起來了，市中心很多店都擺在最前面賣。"
+        },
+        {
+          "en": "The hotel has a fashionable restaurant on the top floor, where many famous people eat.",
+          "zh": "飯店頂樓有一家時尚的餐廳，很多名人在那裡用餐。"
+        },
+        {
+          "en": "It is fashionable to live in the old town now, so apartment prices there have increased sharply.",
+          "zh": "現在住在老城區很流行，所以那裡的公寓價格大漲。"
+        }
+      ],
+      "distractors": [
+        "old-fashioned",
+        "fashioned",
+        "favorable"
+      ],
+      "note": "語塊：fashionable clothes（時髦的衣服）、fashionable area（時尚的地區）、become fashionable（變得流行）。fashionable 是「現在很流行的」；trendy 意思接近；old-fashioned 是「過時的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compatible",
+      "word": "compatible",
+      "pos": "形容詞",
+      "meaning": "相容的；合得來的",
+      "sentences": [
+        {
+          "en": "Please check that the new software is compatible with your computer before you buy it.",
+          "zh": "買之前請確認新軟體和你的電腦相容。"
+        },
+        {
+          "en": "The charger is fully compatible with all of our phones, so you can use it with older models too.",
+          "zh": "這個充電器和我們所有手機完全相容，所以舊機型也能用。"
+        },
+        {
+          "en": "The printer is not compatible with the new laptops, so the IT team will order a different model.",
+          "zh": "那台印表機和新筆電不相容，所以資訊團隊會訂另一個型號。"
+        },
+        {
+          "en": "It is important to hire people whose values are compatible with the culture of the company.",
+          "zh": "雇用價值觀和公司文化相合的人很重要。"
+        },
+        {
+          "en": "The new app is compatible with both phones and tablets, so customers can use it anywhere.",
+          "zh": "新 App 同時相容手機和平板，所以顧客在哪裡都能用。"
+        }
+      ],
+      "distractors": [
+        "comparable",
+        "competent",
+        "comfortable"
+      ],
+      "note": "語塊：compatible with（和……相容）、fully compatible（完全相容）。compatible 是「可以一起使用、不會衝突的」；incompatible 是相反「不相容的」；comparable 是「可比較的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
