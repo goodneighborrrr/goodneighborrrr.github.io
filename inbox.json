@@ -68303,6 +68303,706 @@
       ],
       "note": "語塊：specifically designed（專門設計）、specifically for（專為……）。specifically 是「特別針對、明確地」；specific 是形容詞「特定的」；especially 是「尤其」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-figure",
+      "word": "figure",
+      "pos": "名詞",
+      "meaning": "數字；人物；圖表",
+      "sentences": [
+        {
+          "en": "The sales figure for December was the highest in the company's history, thanks to the holiday sale.",
+          "zh": "多虧假期特賣，十二月的銷售數字是公司史上最高的。"
+        },
+        {
+          "en": "As a public figure, the mayor must be careful about what she says on social media.",
+          "zh": "身為公眾人物，市長在社群媒體上說話必須很小心。"
+        },
+        {
+          "en": "The engineers are trying to figure out why the machine stopped working in the middle of the night.",
+          "zh": "工程師正試著弄清楚機器為什麼在半夜停止運作。"
+        },
+        {
+          "en": "Please check every sales figure in the report again, because some of them look much too high.",
+          "zh": "請再檢查一次報告裡的每個銷售數字，因為有些看起來太高了。"
+        },
+        {
+          "en": "It took the team two days to figure out how to fix the problem with the new software.",
+          "zh": "團隊花了兩天才想出如何解決新軟體的問題。"
+        }
+      ],
+      "distractors": [
+        "future",
+        "fixture",
+        "feature"
+      ],
+      "note": "語塊：sales figure（銷售數字）、public figure（公眾人物）、figure out（想出；弄清楚）。figure 有「數字」、「人物」、「圖」等意思；figure out 是片語「想出來」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-department",
+      "word": "department",
+      "pos": "名詞",
+      "meaning": "部門；科系",
+      "sentences": [
+        {
+          "en": "Ms. Lee has worked in the sales department for six years and knows most of our important clients.",
+          "zh": "李小姐在業務部工作六年了，認識我們大部分的重要客戶。"
+        },
+        {
+          "en": "The new department store downtown has ten floors and more than three hundred shops and restaurants.",
+          "zh": "市中心新的百貨公司有十層樓，三百多家店和餐廳。"
+        },
+        {
+          "en": "All requests for new equipment must be approved by the department head before they are sent to accounting.",
+          "zh": "所有新設備的申請都必須先經部門主管核准，再送到會計部。"
+        },
+        {
+          "en": "The human resources department will hold a meeting next week to explain the new vacation policy.",
+          "zh": "人資部下週會開會說明新的休假規定。"
+        },
+        {
+          "en": "Each department head must submit a budget for next year by the end of October.",
+          "zh": "每位部門主管都必須在十月底前提交明年的預算。"
+        }
+      ],
+      "distractors": [
+        "apartment",
+        "departure",
+        "deportment"
+      ],
+      "note": "語塊：sales department（業務部）、department store（百貨公司）、department head（部門主管）。department 是公司或學校的「部門、系」；division 是較大的「事業部」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surpass",
+      "word": "surpass",
+      "pos": "動詞",
+      "meaning": "超越；勝過",
+      "sentences": [
+        {
+          "en": "The new phone's sales will surpass expectations if the company can produce enough of them for the holiday season.",
+          "zh": "如果公司能為假期季生產足夠數量，新手機的銷量將超出預期。"
+        },
+        {
+          "en": "The marathon runner hopes to surpass the national record at the race in Tokyo next month.",
+          "zh": "那位馬拉松選手希望在下個月的東京比賽中打破全國紀錄。"
+        },
+        {
+          "en": "The small company plans to surpass competitors by offering faster delivery and better customer care.",
+          "zh": "那家小公司打算以更快的送貨和更好的客服勝過對手。"
+        },
+        {
+          "en": "Profits this year are expected to surpass last year's figure by about fifteen percent, according to the finance team.",
+          "zh": "根據財務團隊，今年的獲利預計會比去年的數字高出約百分之十五。"
+        },
+        {
+          "en": "The number of visitors to the museum this summer will surpass the record set five years ago.",
+          "zh": "博物館今年夏天的參觀人數將打破五年前創下的紀錄。"
+        }
+      ],
+      "distractors": [
+        "bypass",
+        "compass",
+        "trespass"
+      ],
+      "note": "語塊：surpass expectations（超出預期）、surpass a record（打破紀錄）、surpass competitors（勝過對手）。surpass 是「比……更好或更多」；exceed 意思接近；bypass 是「繞過」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exception",
+      "word": "exception",
+      "pos": "名詞",
+      "meaning": "例外",
+      "sentences": [
+        {
+          "en": "All employees must attend the training session, with the exception of those who are on vacation this week.",
+          "zh": "除了這週休假的人之外，所有員工都必須參加訓練課程。"
+        },
+        {
+          "en": "The store usually does not accept returns after thirty days, but the manager agreed to make an exception.",
+          "zh": "那家店通常不接受超過三十天的退貨，但經理同意破例。"
+        },
+        {
+          "en": "Everyone must wear a helmet on the construction site, and there is no exception to this rule.",
+          "zh": "在工地每個人都必須戴安全帽，這條規定沒有例外。"
+        },
+        {
+          "en": "With the exception of Monday, the museum is open every day from nine in the morning until six.",
+          "zh": "除了週一之外，博物館每天早上九點開到六點。"
+        },
+        {
+          "en": "The hotel does not allow pets, but it will make an exception for guide dogs and their owners.",
+          "zh": "飯店不允許寵物，但會為導盲犬和牠們的主人破例。"
+        }
+      ],
+      "distractors": [
+        "exemption",
+        "expectation",
+        "reception"
+      ],
+      "note": "語塊：with the exception of（除了……之外）、make an exception（破例）、no exception（沒有例外）。exception 是 except（除了）的名詞；exceptional 是「傑出的；例外的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-given-that",
+      "word": "given that",
+      "pos": "連接詞",
+      "meaning": "考慮到；鑑於",
+      "sentences": [
+        {
+          "en": "Given that the weather will be bad on Saturday, we should move the outdoor event to Sunday.",
+          "zh": "考慮到週六天氣會不好，我們應該把戶外活動移到週日。"
+        },
+        {
+          "en": "Given that sales have doubled this year, the company plans to hire twenty more employees.",
+          "zh": "鑑於今年銷售加倍，公司計畫多雇用二十名員工。"
+        },
+        {
+          "en": "The price is reasonable, given that the tour includes hotels, meals, and transportation between cities.",
+          "zh": "考慮到行程包含飯店、餐點和城市間的交通，這個價格很合理。"
+        },
+        {
+          "en": "Given that the project is already late, we cannot add any new features before the launch.",
+          "zh": "考慮到專案已經延誤，我們在上線前不能再加任何新功能。"
+        },
+        {
+          "en": "The new manager did very well, given that she had only one week to learn the entire system.",
+          "zh": "考慮到新經理只有一週時間學會整個系統，她做得非常好。"
+        }
+      ],
+      "distractors": [
+        "provided that",
+        "so that",
+        "now that"
+      ],
+      "note": "語塊：given that + 句子（考慮到……）。given that 後面接完整句子；given 後面也可以直接接名詞（given the situation）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consecutive",
+      "word": "consecutive",
+      "pos": "形容詞",
+      "meaning": "連續的",
+      "sentences": [
+        {
+          "en": "The company has increased its profits for five consecutive years, which is a new record in the industry.",
+          "zh": "公司已經連續五年提高獲利，創下業界新紀錄。"
+        },
+        {
+          "en": "It has rained for ten consecutive days, so many outdoor events in the city have been canceled.",
+          "zh": "已經連續下了十天雨，所以市內很多戶外活動都取消了。"
+        },
+        {
+          "en": "The restaurant won the award for the best service for the third consecutive year at the national food awards.",
+          "zh": "那家餐廳連續第三年在全國美食獎中獲得最佳服務獎。"
+        },
+        {
+          "en": "Employees who work more than six consecutive days must take at least one day off the next week.",
+          "zh": "連續工作超過六天的員工，下週至少要休一天。"
+        },
+        {
+          "en": "Sales have fallen for three consecutive months, so the manager will discuss a new plan with the team.",
+          "zh": "銷售已經連續三個月下滑，所以經理會和團隊討論新計畫。"
+        }
+      ],
+      "distractors": [
+        "consequent",
+        "conservative",
+        "constructive"
+      ],
+      "note": "語塊：consecutive years（連續幾年）、consecutive days（連續幾天）、third consecutive（連續第三次）。consecutive 是「一個接一個、中間沒斷的」；successive 意思接近；consequence 是「後果」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-achievement",
+      "word": "achievement",
+      "pos": "名詞",
+      "meaning": "成就；達成",
+      "sentences": [
+        {
+          "en": "Opening our first store overseas was a great achievement for such a small company from the countryside.",
+          "zh": "對這麼一家來自鄉下的小公司來說，在海外開第一家店是很大的成就。"
+        },
+        {
+          "en": "Finishing the marathon gave Mr. Kim a strong sense of achievement after months of training.",
+          "zh": "經過好幾個月的訓練，跑完馬拉松讓金先生有很強的成就感。"
+        },
+        {
+          "en": "Ms. Lopez received an achievement award for her excellent work on the new children's hospital project.",
+          "zh": "羅培茲小姐因為新兒童醫院專案的出色工作獲得成就獎。"
+        },
+        {
+          "en": "The CEO thanked the team for their great achievement in reducing costs without cutting any jobs.",
+          "zh": "執行長感謝團隊在不裁員的情況下降低成本的巨大成就。"
+        },
+        {
+          "en": "Many employees feel a sense of achievement when they solve a difficult problem on their own.",
+          "zh": "很多員工自己解決困難問題時會有成就感。"
+        }
+      ],
+      "distractors": [
+        "attachment",
+        "agreement",
+        "amusement"
+      ],
+      "note": "語塊：great achievement（偉大的成就）、sense of achievement（成就感）、achievement award（成就獎）。achievement 是 achieve（達成）的名詞；accomplishment 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-productivity",
+      "word": "productivity",
+      "pos": "名詞",
+      "meaning": "生產力；效率",
+      "sentences": [
+        {
+          "en": "The new software will increase productivity by doing many simple tasks automatically for the staff.",
+          "zh": "新軟體會自動替員工做很多簡單的工作，提高生產力。"
+        },
+        {
+          "en": "Many companies believe that working from home can improve productivity because workers spend less time traveling.",
+          "zh": "很多公司相信在家工作能改善效率，因為員工花在通勤的時間變少了。"
+        },
+        {
+          "en": "Studies show that short breaks during the day help employee productivity and reduce mistakes at the end of the day.",
+          "zh": "研究顯示白天短暫休息有助於員工生產力，還能減少一天快結束時的錯誤。"
+        },
+        {
+          "en": "The factory installed new machines last year to increase productivity and lower production costs at its main plant.",
+          "zh": "工廠去年在主要廠區裝了新機器，以提高生產力並降低生產成本。"
+        },
+        {
+          "en": "Good lighting and comfortable chairs can improve productivity in an office more than most people think.",
+          "zh": "良好的照明和舒適的椅子對辦公室效率的改善，比大部分人想的還多。"
+        }
+      ],
+      "distractors": [
+        "production",
+        "activity",
+        "profitability"
+      ],
+      "note": "語塊：increase productivity（提高生產力）、improve productivity（改善效率）、employee productivity（員工生產力）。productivity 是「產出的效率」；production 是「生產」；productive 是形容詞「有生產力的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inefficient",
+      "word": "inefficient",
+      "pos": "形容詞",
+      "meaning": "效率低的；沒效率的",
+      "sentences": [
+        {
+          "en": "The old computer system was so inefficient that it took ten minutes to print a single report.",
+          "zh": "舊電腦系統非常沒效率，印一份報告要十分鐘。"
+        },
+        {
+          "en": "The consultant said that the warehouse was highly inefficient and suggested a new way to store products.",
+          "zh": "顧問說倉庫非常沒效率，並建議新的商品存放方式。"
+        },
+        {
+          "en": "Old air conditioners are inefficient and use much more electricity than the new energy-saving models on the market.",
+          "zh": "舊冷氣效率低，比市面上新的省電機型用更多電。"
+        },
+        {
+          "en": "The company replaced its inefficient system for ordering supplies with a simple online form that everyone can use.",
+          "zh": "公司把效率低的訂購用品系統換成每個人都能用的簡單線上表單。"
+        },
+        {
+          "en": "Long meetings without a clear goal are inefficient, so the manager now limits them to thirty minutes.",
+          "zh": "沒有明確目標的長時間會議很沒效率，所以經理現在把會議限制在三十分鐘內。"
+        }
+      ],
+      "distractors": [
+        "ineffective",
+        "insufficient",
+        "deficient"
+      ],
+      "note": "語塊：inefficient system（效率低的系統）、highly inefficient（非常沒效率）。inefficient 是「浪費時間或資源的」；efficient 是相反詞「有效率的」；ineffective 是「無效的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-presently",
+      "word": "presently",
+      "pos": "副詞",
+      "meaning": "目前；現在；不久",
+      "sentences": [
+        {
+          "en": "Ms. Ruiz is presently working on a new marketing plan that will be presented to the board next month.",
+          "zh": "魯伊茲小姐目前正在做一份下個月要向董事會報告的新行銷計畫。"
+        },
+        {
+          "en": "The product is not presently available in stores, but you can order it from our website.",
+          "zh": "這項產品目前店裡沒有賣，但你可以在我們網站訂購。"
+        },
+        {
+          "en": "The company presently employs more than two thousand people in factories across Asia and Europe.",
+          "zh": "公司目前在亞洲和歐洲的工廠雇用了兩千多人。"
+        },
+        {
+          "en": "The manager is presently in a meeting, but she will call you back as soon as it is finished.",
+          "zh": "經理目前在開會，但會議一結束她就會回電給你。"
+        },
+        {
+          "en": "There are presently three open positions in the sales department, and we hope to fill them by March.",
+          "zh": "業務部目前有三個職缺，我們希望在三月前補齊。"
+        }
+      ],
+      "distractors": [
+        "present",
+        "pleasantly",
+        "previously"
+      ],
+      "note": "語塊：presently working（目前在做）、presently available（目前可取得）、presently employs（目前雇用）、presently in a meeting（目前在開會）、there are presently（目前有）。presently 在美式英文常是「目前」（= currently）；在英式英文也有「不久」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-highlight",
+      "word": "highlight",
+      "pos": "動詞",
+      "meaning": "強調；突顯；用螢光筆標記",
+      "sentences": [
+        {
+          "en": "The report will highlight the importance of training new employees during their first three months at the company.",
+          "zh": "報告會強調新員工到職頭三個月訓練的重要性。"
+        },
+        {
+          "en": "Our advertisements highlight the benefits of the new phone, such as its long battery life and excellent camera.",
+          "zh": "我們的廣告突顯新手機的好處，例如電池續航長和相機很棒。"
+        },
+        {
+          "en": "Please highlight the most important numbers in the report so that the director can find them quickly.",
+          "zh": "請把報告裡最重要的數字標出來，讓主任能很快找到。"
+        },
+        {
+          "en": "The speaker used several examples to highlight the importance of saving energy in the office every day.",
+          "zh": "講者用了好幾個例子，強調每天在辦公室節約能源的重要性。"
+        },
+        {
+          "en": "The brochure will highlight the benefits of staying at the hotel, including free breakfast and airport transportation.",
+          "zh": "簡介會突顯住這家飯店的好處，包括免費早餐和機場接送。"
+        }
+      ],
+      "distractors": [
+        "spotlight",
+        "headlight",
+        "delight"
+      ],
+      "note": "語塊：highlight the importance of（強調……的重要性）、highlight the benefits（突顯好處）。highlight 可以當動詞或名詞「最精彩的部分」（the highlight of the trip）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refurbish",
+      "word": "refurbish",
+      "pos": "動詞",
+      "meaning": "整修；翻新",
+      "sentences": [
+        {
+          "en": "The hotel plans to refurbish all of its rooms next year, including new carpets, beds, and bathrooms.",
+          "zh": "飯店計畫明年翻新所有房間，包括新地毯、新床和新浴室。"
+        },
+        {
+          "en": "The city will fully refurbish the old train station and turn part of it into a small museum.",
+          "zh": "市政府將全面翻新舊火車站，並把其中一部分改成小型博物館。"
+        },
+        {
+          "en": "The company will refurbish old laptops and sell them at a much lower price than new ones.",
+          "zh": "那家公司會翻新舊筆電，以比新品低很多的價格販售。"
+        },
+        {
+          "en": "It took six months to refurbish the theater, but now it has comfortable seats and a modern stage.",
+          "zh": "翻修劇院花了六個月，但現在它有舒適的座位和現代化的舞台。"
+        },
+        {
+          "en": "The owners decided to refurbish the restaurant instead of moving, because customers love its location.",
+          "zh": "老闆決定翻修餐廳而不是搬家，因為顧客很喜歡它的地點。"
+        }
+      ],
+      "distractors": [
+        "furnish",
+        "polish",
+        "replenish"
+      ],
+      "note": "語塊：refurbish all of its rooms（翻新所有房間）、fully refurbish（全面翻新）、refurbish the theater（翻修劇院）、refurbish the restaurant（翻修餐廳）、refurbish old laptops（翻新舊筆電）。refurbish 是「把舊東西整修得像新的一樣」；renovate 意思接近；refurbishment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alumni-association",
+      "word": "alumni association",
+      "pos": "名詞",
+      "meaning": "校友會",
+      "sentences": [
+        {
+          "en": "The university's alumni association holds a dinner every year where former students can meet each other.",
+          "zh": "大學的校友會每年都會舉辦晚宴，讓校友們聚會交流。"
+        },
+        {
+          "en": "Graduates who join the alumni association can use the library and gym on campus for free.",
+          "zh": "加入校友會的畢業生可以免費使用校園的圖書館和健身房。"
+        },
+        {
+          "en": "The alumni association raised more than one million dollars to build a new science building for the school.",
+          "zh": "校友會為學校募集了一百多萬元，興建新的科學館。"
+        },
+        {
+          "en": "Ms. Chen met her business partner at an alumni association event in Singapore five years ago.",
+          "zh": "陳小姐五年前在新加坡的一場校友會活動上認識了她的事業夥伴。"
+        },
+        {
+          "en": "The alumni association will send a newsletter every month with news about the university and its graduates.",
+          "zh": "校友會每個月會寄送電子報，分享大學和畢業生的消息。"
+        }
+      ],
+      "distractors": [
+        "parent association",
+        "trade association",
+        "student union"
+      ],
+      "note": "語塊：join the alumni association（加入校友會）、alumni association event（校友會活動）、the alumni association raised（校友會募集）、the alumni association holds（校友會舉辦）、the alumni association will send（校友會將寄送）。alumni 是「校友（複數）」；單數男性是 alumnus，女性是 alumna。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fundraiser",
+      "word": "fundraiser",
+      "pos": "名詞",
+      "meaning": "募款活動；募款人",
+      "sentences": [
+        {
+          "en": "The school will hold a fundraiser next month to buy new computers for the library and classrooms.",
+          "zh": "學校下個月將舉辦募款活動，為圖書館和教室購買新電腦。"
+        },
+        {
+          "en": "More than five hundred people attended the charity fundraiser, which raised money for children in the hospital.",
+          "zh": "五百多人參加了那場慈善募款活動，為醫院裡的孩子們募款。"
+        },
+        {
+          "en": "The company donated food and drinks for the fundraiser that the local hospital organized on Saturday.",
+          "zh": "公司為當地醫院週六舉辦的募款活動捐贈了食物和飲料。"
+        },
+        {
+          "en": "The museum plans to hold a fundraiser at a beachfront hotel to pay for the refurbishment of its main hall.",
+          "zh": "博物館計畫在一家海濱飯店舉辦募款活動，支付大廳的整修費用。"
+        },
+        {
+          "en": "Every employee who takes part in the charity fundraiser will receive a free T-shirt with the company logo.",
+          "zh": "每位參加慈善募款活動的員工都會得到一件印有公司標誌的免費 T 恤。"
+        }
+      ],
+      "distractors": [
+        "fund manager",
+        "fundamental",
+        "fun fair"
+      ],
+      "note": "語塊：hold a fundraiser（舉辦募款活動）、charity fundraiser（慈善募款活動）。fundraiser 是「為了募款而辦的活動」或「負責募款的人」；fundraising 是名詞「募款」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chancellor",
+      "word": "chancellor",
+      "pos": "名詞",
+      "meaning": "（大學）校長；（部分國家的）總理",
+      "sentences": [
+        {
+          "en": "The university chancellor will give a speech at the graduation ceremony in the stadium next Saturday morning.",
+          "zh": "大學校長下週六早上會在體育場的畢業典禮上致詞。"
+        },
+        {
+          "en": "The vice chancellor announced that the university will build a new library with money from the alumni association.",
+          "zh": "副校長宣布，大學將用校友會的經費蓋一座新圖書館。"
+        },
+        {
+          "en": "Students met with the chancellor to discuss the rising cost of housing near the campus.",
+          "zh": "學生和校長見面，討論校園附近住宿費上漲的問題。"
+        },
+        {
+          "en": "The new chancellor plans to increase the number of international students at the university by twenty percent.",
+          "zh": "新任校長計畫讓大學的國際學生人數增加兩成。"
+        },
+        {
+          "en": "The chancellor thanked every teacher and staff member for their hard work during the difficult year.",
+          "zh": "校長感謝每位教職員在艱難的一年裡辛勤工作。"
+        }
+      ],
+      "distractors": [
+        "councilor",
+        "counselor",
+        "chandelier"
+      ],
+      "note": "語塊：university chancellor（大學校長）、vice chancellor（副校長）。chancellor 在美國常指大學系統的校長；在德國是「總理」；president 也可以指大學校長。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commencement",
+      "word": "commencement",
+      "pos": "名詞",
+      "meaning": "畢業典禮；開始",
+      "sentences": [
+        {
+          "en": "The commencement ceremony will take place in the stadium, so families should arrive early to find seats.",
+          "zh": "畢業典禮將在體育場舉行，所以家屬應該提早到找座位。"
+        },
+        {
+          "en": "A famous writer was invited to give the commencement speech to this year's graduates at the university.",
+          "zh": "一位知名作家受邀為大學今年的畢業生發表畢業致詞。"
+        },
+        {
+          "en": "More than three thousand students will receive their degrees at the commencement ceremony on Saturday.",
+          "zh": "週六的畢業典禮上將有三千多名學生領取學位。"
+        },
+        {
+          "en": "Many graduates said that the commencement speech encouraged them to follow their dreams after university.",
+          "zh": "很多畢業生說，畢業致詞鼓勵他們大學畢業後追逐夢想。"
+        },
+        {
+          "en": "The university will stream the commencement ceremony online for families who cannot attend in person.",
+          "zh": "大學會在網路上直播畢業典禮，讓無法親自出席的家屬觀看。"
+        }
+      ],
+      "distractors": [
+        "commitment",
+        "compliment",
+        "announcement"
+      ],
+      "note": "語塊：commencement ceremony（畢業典禮）、commencement speech（畢業致詞）。commencement 在美國常指「畢業典禮」；也有「開始」的意思（commence 是動詞「開始」）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commemoration",
+      "word": "commemoration",
+      "pos": "名詞",
+      "meaning": "紀念；紀念活動",
+      "sentences": [
+        {
+          "en": "The city planted one hundred trees in the park in commemoration of the town's two hundredth anniversary.",
+          "zh": "市政府在公園種了一百棵樹，紀念小鎮成立兩百週年。"
+        },
+        {
+          "en": "A commemoration ceremony will be held at the city hall to honor the workers who built the bridge.",
+          "zh": "市政府將舉行紀念典禮，向建造那座橋的工人致敬。"
+        },
+        {
+          "en": "The company published a special book in commemoration of its fiftieth year in business and gave it to every customer.",
+          "zh": "公司出版了一本特別的書，紀念創業五十週年，送給每位顧客。"
+        },
+        {
+          "en": "Thousands of people attended the commemoration ceremony for the famous scientist who was born in the town.",
+          "zh": "數千人參加了那位在小鎮出生的知名科學家的紀念典禮。"
+        },
+        {
+          "en": "The museum will open a new exhibition in commemoration of the artist who died one hundred years ago.",
+          "zh": "博物館將開設新展覽，紀念那位一百年前去世的藝術家。"
+        }
+      ],
+      "distractors": [
+        "communication",
+        "recommendation",
+        "accommodation"
+      ],
+      "note": "語塊：in commemoration of（為了紀念……）、commemoration ceremony（紀念典禮）。commemoration 是 commemorate（紀念）的名詞；memorial 是「紀念碑；紀念的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-founding",
+      "word": "founding",
+      "pos": "名詞",
+      "meaning": "創立；成立",
+      "sentences": [
+        {
+          "en": "Mr. Lee was a founding member of the company and still works in the research department today.",
+          "zh": "李先生是公司的創始成員，現在仍在研發部工作。"
+        },
+        {
+          "en": "Since its founding in 1980, the restaurant has been run by the same family in the old town.",
+          "zh": "自 1980 年創立以來，那家餐廳一直由同一個家族在老城區經營。"
+        },
+        {
+          "en": "The company will celebrate the thirtieth anniversary of its founding with a big party for all employees.",
+          "zh": "公司將舉辦盛大派對給所有員工，慶祝創立三十週年。"
+        },
+        {
+          "en": "Since its founding, the charity has helped more than ten thousand families find safe and affordable housing.",
+          "zh": "自創立以來，那個慈善機構已經幫助一萬多個家庭找到安全又負擔得起的住所。"
+        },
+        {
+          "en": "Ms. Ito is a founding member of the association and has helped organize every conference since then.",
+          "zh": "伊藤小姐是協會的創始成員，從那時起就協助籌辦每一場研討會。"
+        }
+      ],
+      "distractors": [
+        "funding",
+        "foundry",
+        "foundation"
+      ],
+      "note": "語塊：founding member（創始成員）、since its founding（自創立以來）、founding father（創始人）。founding 是「創立」；founder 是「創辦人」；foundation 是「基礎；基金會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conference",
+      "word": "conference",
+      "pos": "名詞",
+      "meaning": "研討會；會議",
+      "sentences": [
+        {
+          "en": "More than one thousand people will attend the conference on clean energy in Berlin next month.",
+          "zh": "下個月將有一千多人參加在柏林舉行的乾淨能源研討會。"
+        },
+        {
+          "en": "The company will hold a press conference tomorrow to announce the name of its new CEO.",
+          "zh": "公司明天將召開記者會，宣布新任執行長的名字。"
+        },
+        {
+          "en": "Please book the large conference room on the fifth floor for the meeting with the clients on Friday.",
+          "zh": "請為週五和客戶的會議預訂五樓的大會議室。"
+        },
+        {
+          "en": "The annual conference gives employees from different countries a chance to meet and share ideas.",
+          "zh": "年度研討會讓不同國家的員工有機會見面交流想法。"
+        },
+        {
+          "en": "Speakers at the conference will discuss how new technology is changing the way people work and shop.",
+          "zh": "研討會的講者將討論新科技如何改變人們工作和購物的方式。"
+        }
+      ],
+      "distractors": [
+        "confidence",
+        "reference",
+        "preference"
+      ],
+      "note": "語塊：attend a conference（參加研討會）、press conference（記者會）、conference room（會議室）。conference 是大型、正式的「會議、研討會」；meeting 是一般的「會議」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-through",
+      "word": "look through",
+      "pos": "片語動詞",
+      "meaning": "瀏覽；翻閱；仔細查看",
+      "sentences": [
+        {
+          "en": "Please look through the documents before the meeting so that you understand the main points of the contract.",
+          "zh": "開會前請先翻閱文件，讓你了解合約的重點。"
+        },
+        {
+          "en": "Customers can look through the catalog online and order any product with free delivery this month.",
+          "zh": "顧客可以在線上瀏覽目錄，這個月訂購任何商品都免運費。"
+        },
+        {
+          "en": "The manager will look through the applications for the new position in the sales team.",
+          "zh": "經理會翻閱業務團隊新職位的申請書。"
+        },
+        {
+          "en": "Before you sign the lease, look through every page carefully and ask questions about anything you do not understand.",
+          "zh": "簽租約前，請仔細看過每一頁，有任何不懂的地方都要問。"
+        },
+        {
+          "en": "The assistant will look through the old files to find the original contract from ten years ago.",
+          "zh": "助理會翻找舊檔案，找出十年前的原始合約。"
+        }
+      ],
+      "distractors": [
+        "look over",
+        "look into",
+        "look after"
+      ],
+      "note": "語塊：look through the documents（翻閱文件）、look through the catalog（瀏覽目錄）、look through the applications（翻閱申請書）、look through every page（每一頁都看過）、look through the old files（翻找舊檔案）。look through 是「從頭到尾看一遍」；look over 是「大致檢查」；look into 是「調查」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
