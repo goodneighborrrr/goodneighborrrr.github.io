@@ -86468,6 +86468,706 @@
       ],
       "note": "語塊：account balance（帳戶餘額）、work-life balance（工作與生活的平衡）、outstanding balance（未付餘額）。balance 是「剩下的錢」或「平衡」；可以當動詞「使平衡」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-externally",
+      "word": "externally",
+      "pos": "副詞",
+      "meaning": "外部地；對外",
+      "sentences": [
+        {
+          "en": "The research project is externally funded by several large companies, a university, and the government.",
+          "zh": "這個研究專案由幾家大公司、一所大學和政府外部資助。"
+        },
+        {
+          "en": "The company decided to hire externally for the manager position, because nobody inside had enough experience.",
+          "zh": "公司決定對外招募經理職位，因為內部沒有人經驗足夠。"
+        },
+        {
+          "en": "The report will be checked externally by an independent accounting firm before it is published.",
+          "zh": "報告發表前會由一家獨立的會計師事務所進行外部審查。"
+        },
+        {
+          "en": "This medicine should be used externally only on the skin, so please do not swallow it.",
+          "zh": "這種藥只能外用在皮膚上，所以請不要吞服。"
+        },
+        {
+          "en": "Most of our training courses are taught by our own staff, but a few are taught externally by experts.",
+          "zh": "我們大部分訓練課程由自己員工教，但有幾門由外部專家授課。"
+        }
+      ],
+      "distractors": [
+        "internally",
+        "eternally",
+        "extremely"
+      ],
+      "note": "語塊：externally funded（外部資助）、hire externally（對外招募）、checked externally（外部審查）、used externally（外用）、taught externally（由外部授課）。externally 是「從外面、對外」；internally 是相反「內部地」；external 是形容詞「外部的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reference-number",
+      "word": "reference number",
+      "pos": "名詞",
+      "meaning": "參考編號；查詢號碼",
+      "sentences": [
+        {
+          "en": "Please write the reference number on every e-mail you send us about your order or delivery.",
+          "zh": "每封寄給我們關於訂單或送貨的電子郵件，都請寫上參考編號。"
+        },
+        {
+          "en": "You will receive a reference number after you book your room, so please keep it in a safe place.",
+          "zh": "訂房後你會收到一個參考編號，所以請妥善保存。"
+        },
+        {
+          "en": "When you call the customer care center, please give the reference number so that we can find your order.",
+          "zh": "打電話到客服中心時，請提供參考編號，讓我們能找到你的訂單。"
+        },
+        {
+          "en": "The reference number is printed at the top of the invoice, next to the date and the company name.",
+          "zh": "參考編號印在請款單上方，在日期和公司名稱旁邊。"
+        },
+        {
+          "en": "Without the reference number, it may take longer for our staff to answer your question.",
+          "zh": "沒有參考編號的話，我們員工回答你的問題可能會花比較久。"
+        }
+      ],
+      "distractors": [
+        "tracking number",
+        "phone number",
+        "reference letter"
+      ],
+      "note": "語塊：write the reference number（寫上參考編號）、receive a reference number（收到參考編號）、give the reference number（提供參考編號）、the reference number is printed（參考編號印在）、without the reference number（沒有參考編號）。reference number 是「用來查詢某筆紀錄的號碼」；tracking number 是「追蹤號碼」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-withdrawal",
+      "word": "withdrawal",
+      "pos": "名詞",
+      "meaning": "提款；撤回；退出",
+      "sentences": [
+        {
+          "en": "There is a small fee for every cash withdrawal from a machine that belongs to a different bank.",
+          "zh": "每次從別家銀行的提款機提領現金都要收一點手續費。"
+        },
+        {
+          "en": "You can make a withdrawal at any of our branches or machines, which are open twenty-four hours a day.",
+          "zh": "你可以在我們任何一家分行或二十四小時的提款機提款。"
+        },
+        {
+          "en": "The company's withdrawal from the European market surprised many investors and employees when it was announced last year.",
+          "zh": "公司去年退出歐洲市場，去年宣布時讓很多投資人和員工很驚訝。"
+        },
+        {
+          "en": "Please bring your bank card and identification if you want to make a large withdrawal at the counter.",
+          "zh": "如果你想在櫃台大額提款，請帶金融卡和身分證明。"
+        },
+        {
+          "en": "The daily limit for cash withdrawal is one thousand dollars, so please plan your payments carefully.",
+          "zh": "每天提領現金的上限是一千元，所以請仔細規劃付款。"
+        }
+      ],
+      "distractors": [
+        "withdraw",
+        "drawer",
+        "renewal"
+      ],
+      "note": "語塊：cash withdrawal（提領現金）、make a withdrawal（提款）、withdrawal from（退出……）。withdrawal 是 withdraw（提款；撤回）的名詞；deposit 是相反「存款」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-institution",
+      "word": "institution",
+      "pos": "名詞",
+      "meaning": "機構；制度",
+      "sentences": [
+        {
+          "en": "Every financial institution in the country must carefully protect the personal information of its customers.",
+          "zh": "國內每家金融機構都必須保護顧客的個人資料。"
+        },
+        {
+          "en": "The university is the oldest educational institution in the country, and it was founded in 1850.",
+          "zh": "那所大學是國內最古老的教育機構，創立於 1850 年。"
+        },
+        {
+          "en": "The museum is an important cultural institution that attracts visitors from all over the world.",
+          "zh": "那座博物館是一個重要的文化機構，吸引世界各地的遊客。"
+        },
+        {
+          "en": "The bank is a trusted financial institution that has served families in the city for one hundred years.",
+          "zh": "那家銀行是一家值得信賴的金融機構，服務市內家庭已經一百年。"
+        },
+        {
+          "en": "The hospital is a public institution, so it will stay open on national holidays for emergencies.",
+          "zh": "那家醫院是公共機構，所以國定假日也會為緊急狀況開放。"
+        }
+      ],
+      "distractors": [
+        "institute",
+        "constitution",
+        "substitution"
+      ],
+      "note": "語塊：financial institution（金融機構）、educational institution（教育機構）、cultural institution（文化機構）。institution 是「大型的組織，像銀行、學校、醫院」；institute 是「研究所；學院」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-privilege",
+      "word": "privilege",
+      "pos": "名詞",
+      "meaning": "特權；榮幸",
+      "sentences": [
+        {
+          "en": "It is a privilege to work with such a talented team, and I would like to thank everyone for their hard work.",
+          "zh": "能和這麼有才華的團隊一起工作是我的榮幸，我想感謝大家的辛勤工作。"
+        },
+        {
+          "en": "Each member of the reward program enjoys a special privilege, such as a free upgrade or early check-in.",
+          "zh": "獎勵方案的每位會員都享有特別待遇，例如免費升等或提早入住。"
+        },
+        {
+          "en": "I had the privilege of meeting the famous chef when she visited our restaurant last year.",
+          "zh": "去年那位知名主廚來我們餐廳時，我有幸見到她。"
+        },
+        {
+          "en": "Using the company car is a privilege, so please return it clean and with a full tank of fuel.",
+          "zh": "使用公司車是一種特權，所以歸還時請保持乾淨並加滿油。"
+        },
+        {
+          "en": "One member privilege is free entry to every exhibition at the museum during the year.",
+          "zh": "會員特權之一是一年內免費參觀博物館的每個展覽。"
+        }
+      ],
+      "distractors": [
+        "privacy",
+        "village",
+        "pilgrimage"
+      ],
+      "note": "語塊：have the privilege of（有幸……）、special privilege（特別待遇）、member privilege（會員特權）、it is a privilege（是一種榮幸）、is a privilege（是一種特權）。privilege 是「只有某些人才有的好處」或「榮幸」；right 是「權利」；privileged 是「有特權的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unrelated",
+      "word": "unrelated",
+      "pos": "形容詞",
+      "meaning": "無關的",
+      "sentences": [
+        {
+          "en": "The manager said that the problem with the website was unrelated to the new software we installed.",
+          "zh": "經理說網站的問題和我們安裝的新軟體無關。"
+        },
+        {
+          "en": "Please do not discuss unrelated topics during the meeting, because we only have thirty minutes.",
+          "zh": "開會時請不要討論無關的話題，因為我們只有三十分鐘。"
+        },
+        {
+          "en": "The two accidents were completely unrelated, although they happened on the same street on the same day.",
+          "zh": "兩起事故完全無關，雖然是同一天發生在同一條街上。"
+        },
+        {
+          "en": "The job requires experience in sales, so experience in an unrelated field will not be enough.",
+          "zh": "這份工作需要業務經驗，所以無關領域的經驗是不夠的。"
+        },
+        {
+          "en": "The delay was unrelated to the weather, because the problem was with the airplane's engine.",
+          "zh": "延誤和天氣無關，因為問題出在飛機引擎。"
+        }
+      ],
+      "distractors": [
+        "related",
+        "unrealistic",
+        "unreliable"
+      ],
+      "note": "語塊：unrelated to（和……無關）、completely unrelated（完全無關）。unrelated 是「沒有關係的」；related 是「有關的」；irrelevant 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-extend",
+      "word": "extend",
+      "pos": "動詞",
+      "meaning": "延長；擴大；給予",
+      "sentences": [
+        {
+          "en": "The manager agreed to extend the deadline by one week, because the team needed more time.",
+          "zh": "經理同意把截止日延長一週，因為團隊需要更多時間。"
+        },
+        {
+          "en": "The company would like to extend an invitation to all of our clients for the anniversary party.",
+          "zh": "公司誠摯邀請所有客戶參加週年派對。"
+        },
+        {
+          "en": "The store will extend its business hours during the holiday season and close at ten o'clock.",
+          "zh": "假期期間那家店會延長營業時間，到十點才打烊。"
+        },
+        {
+          "en": "Both companies were happy with the results, so they decided to extend the contract for another three years.",
+          "zh": "兩家公司對結果都很滿意，所以決定把合約再延長三年。"
+        },
+        {
+          "en": "The city plans to extend the subway line to the airport, which will make the trip much faster.",
+          "zh": "市政府計畫把地鐵線延伸到機場，會讓路程快很多。"
+        }
+      ],
+      "distractors": [
+        "expand",
+        "extent",
+        "intend"
+      ],
+      "note": "語塊：extend the deadline（延長期限）、extend an invitation（發出邀請）、extend a contract（延長合約）。extend 是「讓時間或範圍變長、變大」；extension 是名詞；expand 是「擴大」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inaccessible",
+      "word": "inaccessible",
+      "pos": "形容詞",
+      "meaning": "無法進入的；難以取得的",
+      "sentences": [
+        {
+          "en": "The mountain village was inaccessible by car for three days after the heavy snow closed the road.",
+          "zh": "大雪封路後，那座山村有三天開車到不了。"
+        },
+        {
+          "en": "The old building is inaccessible to wheelchair users, so the city will add a ramp next year.",
+          "zh": "那棟舊大樓坐輪椅的人無法進入，所以市政府明年會加一條斜坡道。"
+        },
+        {
+          "en": "The website became inaccessible for two hours last night because of a problem with the server.",
+          "zh": "昨晚因為伺服器出問題，網站有兩小時無法使用。"
+        },
+        {
+          "en": "Some important documents are inaccessible because the computer that stored them is broken and cannot be repaired.",
+          "zh": "有些重要文件無法取得，因為存放它們的電腦壞了，而且修不好。"
+        },
+        {
+          "en": "The beach is inaccessible during high tide, so visitors should check the time before they go.",
+          "zh": "漲潮時無法到那片海灘，所以遊客去之前應該先查時間。"
+        }
+      ],
+      "distractors": [
+        "inaccurate",
+        "inadmissible",
+        "incredible"
+      ],
+      "note": "語塊：inaccessible to（……無法進入）、become inaccessible（變得無法使用）。inaccessible 是「到不了、用不了的」；accessible 是相反「可進入的；易取得的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scarcity",
+      "word": "scarcity",
+      "pos": "名詞",
+      "meaning": "缺乏；稀少",
+      "sentences": [
+        {
+          "en": "The scarcity of nurses in the region has made it difficult for hospitals to care for every patient.",
+          "zh": "這個地區護理師的缺乏，讓醫院很難照顧每位病人。"
+        },
+        {
+          "en": "Water scarcity is a serious problem in dry areas, so the government encourages people to save water.",
+          "zh": "缺水在乾燥地區是嚴重問題，所以政府鼓勵民眾節約用水。"
+        },
+        {
+          "en": "The scarcity of affordable housing in the city has forced many young families to move to the suburbs.",
+          "zh": "市內平價住宅的缺乏，迫使很多年輕家庭搬到郊區。"
+        },
+        {
+          "en": "Prices of fresh fruit increased because of the scarcity caused by the long dry summer.",
+          "zh": "因為漫長乾燥的夏天造成短缺，新鮮水果的價格上漲了。"
+        },
+        {
+          "en": "The scarcity of skilled workers is one of the biggest challenges for the construction industry.",
+          "zh": "技術工人的缺乏是營建業最大的挑戰之一。"
+        }
+      ],
+      "distractors": [
+        "scarcely",
+        "security",
+        "sincerity"
+      ],
+      "note": "語塊：scarcity of（……的缺乏）、water scarcity（缺水）。scarcity 是 scarce（稀少的）的名詞；shortage 意思接近；scary 是「可怕的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incorrect",
+      "word": "incorrect",
+      "pos": "形容詞",
+      "meaning": "不正確的；錯誤的",
+      "sentences": [
+        {
+          "en": "The package was sent to an incorrect address, so it arrived three days later than expected.",
+          "zh": "包裹被寄到錯誤的地址，所以比預期晚了三天送到。"
+        },
+        {
+          "en": "If any of the information on the form is incorrect, your application may be delayed.",
+          "zh": "如果表格上有任何資訊錯誤，你的申請可能會延遲。"
+        },
+        {
+          "en": "The newspaper apologized for publishing incorrect information about the company's profits and sales last year.",
+          "zh": "報紙為刊登有關公司去年獲利和銷售的錯誤資訊道歉。"
+        },
+        {
+          "en": "If you enter an incorrect account number, the money may be sent to the wrong person by mistake.",
+          "zh": "如果你輸入錯誤的帳號，錢可能會被誤匯給別人。"
+        },
+        {
+          "en": "The price on the shelf was incorrect, so the store gave the customer the lower price.",
+          "zh": "貨架上的價格標錯了，所以店家給顧客比較低的價格。"
+        }
+      ],
+      "distractors": [
+        "indirect",
+        "incorrectly",
+        "incomplete"
+      ],
+      "note": "語塊：incorrect information（錯誤的資訊）、incorrect address（錯誤的地址）。incorrect 是「錯的」；correct 是相反「正確的」；inaccurate 是「不準確的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-low-income",
+      "word": "low-income",
+      "pos": "形容詞",
+      "meaning": "低收入的",
+      "sentences": [
+        {
+          "en": "The city will build more apartments for low-income families who cannot afford the rent downtown.",
+          "zh": "市政府將為付不起市中心房租的低收入家庭蓋更多公寓。"
+        },
+        {
+          "en": "The charity provides free meals and school supplies to children from low-income families in the city every month.",
+          "zh": "慈善機構每個月為市內低收入家庭的孩子提供免費餐點和學用品。"
+        },
+        {
+          "en": "The government offers financial support to low-income students who want to go to university or graduate school.",
+          "zh": "政府為想上大學或研究所的低收入學生提供經濟支援。"
+        },
+        {
+          "en": "Many low-income workers live far from the city center, so they spend a long time commuting.",
+          "zh": "很多低收入的上班族住得離市中心很遠，所以通勤時間很長。"
+        },
+        {
+          "en": "The new low-income housing project near the station will have more than five hundred apartments.",
+          "zh": "車站附近新的低收入住宅計畫將有五百多戶公寓。"
+        }
+      ],
+      "distractors": [
+        "high-income",
+        "low-cost",
+        "low-key"
+      ],
+      "note": "語塊：low-income families（低收入家庭）、low-income housing（低收入住宅）。low-income 放在名詞前面；high-income 是「高收入的」；income 是「收入」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-social-service",
+      "word": "social service",
+      "pos": "名詞",
+      "meaning": "社會服務；社福機構",
+      "sentences": [
+        {
+          "en": "The city's social service agency helps families who have lost their jobs find new work and housing.",
+          "zh": "市政府的社福機構幫助失業家庭找到新工作和住所。"
+        },
+        {
+          "en": "Many volunteers provide social service to older people who live alone in the neighborhood every weekend.",
+          "zh": "很多志工每個週末為社區裡獨居的長者提供社會服務。"
+        },
+        {
+          "en": "The government will spend more money on social service programs for children and families next year.",
+          "zh": "政府明年會在兒童和家庭的社會服務計畫上投入更多經費。"
+        },
+        {
+          "en": "Ms. Lee has worked in social service for fifteen years, mostly helping young people find jobs.",
+          "zh": "李小姐從事社會服務十五年，主要幫助年輕人找工作。"
+        },
+        {
+          "en": "If you need help paying your rent, please contact the social service office at the city hall.",
+          "zh": "如果你需要協助支付房租，請聯絡市政府的社會服務辦公室。"
+        }
+      ],
+      "distractors": [
+        "social media",
+        "customer service",
+        "public service"
+      ],
+      "note": "語塊：social service agency（社福機構）、provide social service（提供社會服務）、social service programs（社會服務計畫）、worked in social service（從事社會服務）、social service office（社會服務辦公室）。social service 常用複數 social services；social worker 是「社工」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-security-deposit",
+      "word": "security deposit",
+      "pos": "名詞",
+      "meaning": "押金；保證金",
+      "sentences": [
+        {
+          "en": "Tenants must pay a security deposit equal to two months of rent before they move into the apartment.",
+          "zh": "房客搬進公寓前必須支付相當於兩個月房租的押金。"
+        },
+        {
+          "en": "The landlord will return the security deposit when you move out, if there is no damage to the apartment.",
+          "zh": "如果公寓沒有損壞，房東會在你搬走時退還押金。"
+        },
+        {
+          "en": "The hotel asks for a security deposit of one hundred dollars, which is returned when guests check out.",
+          "zh": "飯店會收一百元押金，客人退房時退還。"
+        },
+        {
+          "en": "Please read the lease carefully to understand when the landlord can keep part of the security deposit.",
+          "zh": "請仔細閱讀租約，了解房東在什麼情況下可以扣押金。"
+        },
+        {
+          "en": "The car rental company will charge a security deposit to your credit card when you pick up the car.",
+          "zh": "租車公司會在你取車時從信用卡收取押金。"
+        }
+      ],
+      "distractors": [
+        "security guard",
+        "bank deposit",
+        "down payment"
+      ],
+      "note": "語塊：pay a security deposit（付押金）、return the security deposit（退還押金）。security deposit 是租房時先給房東、退租時還回來的錢；deposit 也可以是「訂金；存款」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-job-seeker",
+      "word": "job seeker",
+      "pos": "名詞",
+      "meaning": "求職者",
+      "sentences": [
+        {
+          "en": "The job fair gives every job seeker a chance to meet employers from more than one hundred companies.",
+          "zh": "就業博覽會讓每位求職者都有機會認識一百多家公司的雇主。"
+        },
+        {
+          "en": "The website helps a young job seeker write a good résumé and prepare for interviews.",
+          "zh": "那個網站幫助年輕求職者寫好履歷並準備面試。"
+        },
+        {
+          "en": "The city offers free training courses for every job seeker who has been out of work for more than six months.",
+          "zh": "市政府為每位失業超過六個月的求職者提供免費訓練課程。"
+        },
+        {
+          "en": "A job seeker should research the company carefully before going to an interview with its managers.",
+          "zh": "求職者在和主管面試前應該仔細研究那家公司。"
+        },
+        {
+          "en": "The employment center helps each job seeker find positions that match his or her skills and experience.",
+          "zh": "就業服務中心幫助每位求職者找到符合自身技能和經驗的職位。"
+        }
+      ],
+      "distractors": [
+        "job hunter",
+        "job title",
+        "job holder"
+      ],
+      "note": "語塊：every job seeker（每位求職者）、young job seeker（年輕求職者）、a job seeker should（求職者應該）、each job seeker（每位求職者）。job seeker 是「正在找工作的人」；applicant 是「應徵者」；employer 是「雇主」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-agenda",
+      "word": "agenda",
+      "pos": "名詞",
+      "meaning": "議程；待辦事項",
+      "sentences": [
+        {
+          "en": "Please send the meeting agenda to everyone at least one day before the meeting on Thursday.",
+          "zh": "請在週四開會前至少一天把會議議程寄給每個人。"
+        },
+        {
+          "en": "The budget for next year is the first item on the agenda, so please read the report before you come.",
+          "zh": "明年預算是議程上的第一項，所以請先讀報告再來。"
+        },
+        {
+          "en": "The manager will set the agenda for the conference after she talks to all of the speakers.",
+          "zh": "經理和所有講者談過後，會訂定研討會的議程。"
+        },
+        {
+          "en": "There are five items on the agenda today, so we need to keep each discussion short.",
+          "zh": "今天議程上有五個項目，所以我們需要讓每個討論保持簡短。"
+        },
+        {
+          "en": "If you would like to add a topic to the agenda, please tell me by Wednesday afternoon.",
+          "zh": "如果你想在議程中加入一個主題，請在週三下午前告訴我。"
+        }
+      ],
+      "distractors": [
+        "agent",
+        "legend",
+        "calendar"
+      ],
+      "note": "語塊：meeting agenda（會議議程）、on the agenda（在議程上）、set the agenda（訂定議程）。agenda 是「會議要討論的事項清單」；schedule 是「時間表」；agent 是「代理人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pharmaceutical",
+      "word": "pharmaceutical",
+      "pos": "形容詞",
+      "meaning": "製藥的；藥品的",
+      "sentences": [
+        {
+          "en": "The pharmaceutical company is developing a new medicine that may help patients with heart problems.",
+          "zh": "那家製藥公司正在開發一種可能幫助心臟病患者的新藥。"
+        },
+        {
+          "en": "Many students who study chemistry hope to work in the pharmaceutical industry after they graduate.",
+          "zh": "很多念化學的學生希望畢業後在製藥業工作。"
+        },
+        {
+          "en": "The government will check every new pharmaceutical product carefully before it can be sold in stores.",
+          "zh": "每一項新藥品在店裡販售之前，政府都會仔細檢查。"
+        },
+        {
+          "en": "The pharmaceutical industry spends billions of dollars every year on research and testing of new medicines.",
+          "zh": "製藥業每年花數十億元在新藥的研究和測試上。"
+        },
+        {
+          "en": "A large pharmaceutical company plans to build a new factory near the port, which will create many jobs.",
+          "zh": "一家大型製藥公司計畫在港口附近蓋新工廠，將創造很多工作機會。"
+        }
+      ],
+      "distractors": [
+        "pharmacy",
+        "philosophical",
+        "physical"
+      ],
+      "note": "語塊：pharmaceutical company（製藥公司）、pharmaceutical industry（製藥業）。pharmaceutical 是「和藥物製造有關的」；pharmacy 是「藥局」；pharmacist 是「藥劑師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ownership",
+      "word": "ownership",
+      "pos": "名詞",
+      "meaning": "所有權；擁有",
+      "sentences": [
+        {
+          "en": "The restaurant has been closed for two weeks because of a change of ownership last month.",
+          "zh": "那家餐廳因為上個月易主已經關閉兩週了。"
+        },
+        {
+          "en": "Home ownership is a dream for many young families, but house prices in the city are very high.",
+          "zh": "擁有房屋是很多年輕家庭的夢想，但市內房價非常高。"
+        },
+        {
+          "en": "The manager encourages every employee to take ownership of their work and solve problems on their own.",
+          "zh": "經理鼓勵每位員工對自己的工作負起責任，自己解決問題。"
+        },
+        {
+          "en": "After the change of ownership, the new owners plan to redecorate the hotel and add a swimming pool.",
+          "zh": "易主之後，新業主計畫重新裝潢飯店並增設游泳池。"
+        },
+        {
+          "en": "The government offers low-interest loans to help more young families in the city achieve home ownership.",
+          "zh": "政府提供低利貸款，幫助市內更多年輕家庭擁有自己的房子。"
+        }
+      ],
+      "distractors": [
+        "owner",
+        "membership",
+        "partnership"
+      ],
+      "note": "語塊：change of ownership（易主）、home ownership（擁有房屋）、take ownership of（負起……的責任）。ownership 是 owner（擁有者）的名詞；own 是動詞「擁有」；take ownership 也可以指「主動負責」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cut-back",
+      "word": "cut back",
+      "pos": "片語動詞",
+      "meaning": "削減；減少",
+      "sentences": [
+        {
+          "en": "The company will cut back on travel this year and hold more meetings online to save money.",
+          "zh": "公司今年會減少出差，改開更多線上會議以省錢。"
+        },
+        {
+          "en": "Many families had to cut back on spending after the price of food and electricity increased.",
+          "zh": "食物和電費漲價後，很多家庭不得不削減開支。"
+        },
+        {
+          "en": "The restaurant decided to cut back on plastic by giving customers paper straws and bags.",
+          "zh": "那家餐廳決定改給顧客紙吸管和紙袋，減少塑膠用量。"
+        },
+        {
+          "en": "If sales continue to fall, the factory may need to cut back production for a few months.",
+          "zh": "如果銷售持續下滑，工廠可能需要減產幾個月。"
+        },
+        {
+          "en": "Doctors say that people should cut back on sugar and salt to stay healthy as they get older.",
+          "zh": "醫生說人們隨著年紀增長應該減少糖和鹽的攝取，以保持健康。"
+        }
+      ],
+      "distractors": [
+        "cut off",
+        "cut out",
+        "cut in"
+      ],
+      "note": "語塊：cut back on（減少……）、cut back spending（削減開支）。cut back 是「減少花費或使用量」；cut down 意思接近；reduce 是「減少」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-housing",
+      "word": "housing",
+      "pos": "名詞",
+      "meaning": "住宅；住房",
+      "sentences": [
+        {
+          "en": "The city plans to build more affordable housing near the train station for young families.",
+          "zh": "市政府計畫在火車站附近為年輕家庭蓋更多平價住宅。"
+        },
+        {
+          "en": "The housing market has slowed down this year because interest rates have increased several times.",
+          "zh": "今年房市趨緩，因為利率上升了好幾次。"
+        },
+        {
+          "en": "The university offers student housing near the campus at a much lower price than private apartments.",
+          "zh": "大學在校園附近提供學生宿舍，價格比私人公寓低很多。"
+        },
+        {
+          "en": "Many workers are moving to the suburbs because housing in the city center is too expensive.",
+          "zh": "很多上班族搬到郊區，因為市中心的住宅太貴了。"
+        },
+        {
+          "en": "The company helps foreign employees find housing and pays the first month of rent for them.",
+          "zh": "公司幫外籍員工找住處，並支付第一個月的房租。"
+        }
+      ],
+      "distractors": [
+        "hosting",
+        "housework",
+        "household"
+      ],
+      "note": "語塊：affordable housing（平價住宅）、housing market（房市）、student housing（學生宿舍）。housing 是「房子的總稱；住房供應」；house 是「一間房子」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clarification",
+      "word": "clarification",
+      "pos": "名詞",
+      "meaning": "澄清；說明",
+      "sentences": [
+        {
+          "en": "If you are not sure about any part of the contract, please ask for clarification before you sign it.",
+          "zh": "如果你對合約的任何部分不確定，簽名前請先要求說明。"
+        },
+        {
+          "en": "Several employees asked for clarification about the new vacation policy, so the manager sent an e-mail.",
+          "zh": "好幾位員工要求說明新的休假規定，所以經理寄了一封電子郵件。"
+        },
+        {
+          "en": "We need clarification of the delivery date, because the client wants the products before the end of the month.",
+          "zh": "我們需要確認交貨日期，因為客戶想在月底前拿到產品。"
+        },
+        {
+          "en": "The lawyer provided clarification on several points in the agreement that were difficult to understand.",
+          "zh": "律師針對協議中幾個難懂的地方提供了說明。"
+        },
+        {
+          "en": "Thank you for your clarification, because now I understand exactly what the client wants from us.",
+          "zh": "謝謝你的說明，現在我完全了解客戶想要我們做什麼了。"
+        }
+      ],
+      "distractors": [
+        "classification",
+        "qualification",
+        "declaration"
+      ],
+      "note": "語塊：ask for clarification（請求說明）、need clarification（需要說明）、clarification of（……的說明）。clarification 是 clarify（澄清）的名詞；explanation 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
