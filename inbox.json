@@ -59903,6 +59903,706 @@
       ],
       "note": "語塊：air carrier（航空公司）、shipping carrier（貨運業者）、mobile carrier（電信業者）。carrier 是「運送人或貨物的公司」；carry 是動詞「攜帶；運送」；career 是「職涯」，拼法很像。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ceramic",
+      "word": "ceramic",
+      "pos": "形容詞",
+      "meaning": "陶瓷的",
+      "sentences": [
+        {
+          "en": "The new bathroom has white ceramic tiles on the floor and walls, which are easy to clean.",
+          "zh": "新浴室的地板和牆壁都貼了白色磁磚，很好清理。"
+        },
+        {
+          "en": "Every ceramic bowl in the shop is made by hand, so no two bowls look exactly the same.",
+          "zh": "店裡的每個陶碗都是手工製作的，所以沒有兩個碗完全一樣。"
+        },
+        {
+          "en": "The museum's new exhibition shows ceramic art from Japan, Korea, and China over the past five hundred years.",
+          "zh": "博物館的新展覽展出日本、韓國和中國過去五百年的陶藝作品。"
+        },
+        {
+          "en": "Please wrap each ceramic plate carefully in paper, because they break very easily during delivery to customers.",
+          "zh": "請用紙仔細包好每一個陶瓷盤子，因為送到顧客手上的途中很容易破。"
+        },
+        {
+          "en": "The community center offers a ceramic art class every Saturday morning for adults and children.",
+          "zh": "社區中心每週六早上為大人和小孩開設陶藝課。"
+        }
+      ],
+      "distractors": [
+        "cosmetic",
+        "ceremonial",
+        "climatic"
+      ],
+      "note": "語塊：ceramic tiles（磁磚）、ceramic bowl（陶碗）、ceramic art（陶藝）。ceramic 可以當形容詞或名詞「陶瓷製品」（ceramics 是「陶藝」）；pottery 是「陶器」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sculpture",
+      "word": "sculpture",
+      "pos": "名詞",
+      "meaning": "雕塑；雕像",
+      "sentences": [
+        {
+          "en": "A large bronze sculpture of a horse stands in front of the city hall and is popular with tourists.",
+          "zh": "市政府前面立著一座大型的馬匹銅雕，很受觀光客歡迎。"
+        },
+        {
+          "en": "The park will display an outdoor sculpture by a famous artist from Spain for the next six months.",
+          "zh": "公園接下來六個月會展示一位西班牙知名藝術家的戶外雕塑。"
+        },
+        {
+          "en": "More than ten thousand people visited the sculpture exhibition during its first week at the museum.",
+          "zh": "雕塑展在博物館的第一週就有一萬多人參觀。"
+        },
+        {
+          "en": "The company paid an artist to create a sculpture for the lobby of its new headquarters.",
+          "zh": "公司付錢請一位藝術家為新總部的大廳創作一件雕塑。"
+        },
+        {
+          "en": "Visitors are asked not to touch the sculpture, because the oil from their hands can damage the surface.",
+          "zh": "參觀者被要求不要觸摸雕塑，因為手上的油脂會損傷表面。"
+        }
+      ],
+      "distractors": [
+        "structure",
+        "culture",
+        "scripture"
+      ],
+      "note": "語塊：bronze sculpture（銅雕）、outdoor sculpture（戶外雕塑）、sculpture exhibition（雕塑展）。sculpture 是「雕塑作品」；sculptor 是「雕刻家」；sculpt 是動詞「雕刻」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dispose",
+      "word": "dispose",
+      "pos": "動詞",
+      "meaning": "處理掉；丟棄",
+      "sentences": [
+        {
+          "en": "Please dispose of all used batteries in the special box near the entrance instead of the regular trash.",
+          "zh": "請把所有用過的電池丟到入口附近的專用箱，而不是一般垃圾桶。"
+        },
+        {
+          "en": "The factory must dispose of waste safely, or it will have to pay a heavy fine to the government.",
+          "zh": "工廠必須安全地處理廢棄物，否則要付給政府高額罰款。"
+        },
+        {
+          "en": "Hospitals must properly dispose of needles and other medical waste to protect cleaning staff and the public.",
+          "zh": "醫院必須妥善處理針頭和其他醫療廢棄物，以保護清潔人員和民眾。"
+        },
+        {
+          "en": "The company hired a special contractor to dispose of the old machines when the factory closed.",
+          "zh": "工廠關閉時，公司雇用了專門的承包商來處理舊機器。"
+        },
+        {
+          "en": "Residents should dispose of large furniture by calling the city office and booking a collection date.",
+          "zh": "居民要丟大型家具，應該打電話給市公所預約收運日期。"
+        }
+      ],
+      "distractors": [
+        "disposal",
+        "expose",
+        "oppose"
+      ],
+      "note": "語塊：dispose of（處理掉……）、dispose of waste（處理廢棄物）、properly dispose of（妥善處理）。dispose 要加 of 才是「丟掉、處理掉」；disposal 是名詞；disposable 是「拋棄式的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-liquid",
+      "word": "liquid",
+      "pos": "名詞",
+      "meaning": "液體",
+      "sentences": [
+        {
+          "en": "Passengers may not bring any liquid larger than one hundred milliliters in their carry-on bags.",
+          "zh": "乘客不能在隨身行李中攜帶超過一百毫升的任何液體。"
+        },
+        {
+          "en": "All restrooms in the building now have liquid soap instead of bars of soap to keep things clean.",
+          "zh": "大樓所有廁所現在都改用洗手乳取代肥皂，保持清潔。"
+        },
+        {
+          "en": "The scientist poured a clear liquid into the glass and asked the students to watch the color change.",
+          "zh": "科學家把透明液體倒進玻璃杯，請學生觀察顏色變化。"
+        },
+        {
+          "en": "Please clean up any liquid on the floor immediately to prevent customers from slipping and getting hurt in the store.",
+          "zh": "請立刻清理地上的任何液體，以免顧客在店裡滑倒受傷。"
+        },
+        {
+          "en": "The company sells liquid soap in large bottles to hotels and restaurants at a special price.",
+          "zh": "那家公司以特價向飯店和餐廳販售大瓶裝的洗手乳。"
+        }
+      ],
+      "distractors": [
+        "squid",
+        "liquor",
+        "lipid"
+      ],
+      "note": "語塊：liquid soap（洗手乳）、clear liquid（透明液體）、liquids in carry-on bags（隨身行李中的液體）。liquid 可以當名詞或形容詞「液體的」；solid 是「固體」；gas 是「氣體」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regret",
+      "word": "regret",
+      "pos": "動詞",
+      "meaning": "遺憾；後悔",
+      "sentences": [
+        {
+          "en": "We regret to inform you that the concert has been canceled because the singer is sick.",
+          "zh": "我們很遺憾通知您，演唱會因歌手生病取消了。"
+        },
+        {
+          "en": "The CEO wanted to express his regret to the customers who were affected by the problem with the website.",
+          "zh": "執行長想向受到網站問題影響的顧客表達遺憾。"
+        },
+        {
+          "en": "Many people regret not saving more money when they were young, so they work longer before they retire.",
+          "zh": "很多人後悔年輕時沒有多存點錢，所以退休前工作得更久。"
+        },
+        {
+          "en": "We regret to inform all passengers that the train to Busan will be delayed by about one hour.",
+          "zh": "我們很遺憾通知所有旅客，開往釜山的列車將延誤約一小時。"
+        },
+        {
+          "en": "The company would like to express its regret for the delay and offer a full refund to every customer.",
+          "zh": "公司想對延誤表達遺憾，並為每位顧客提供全額退款。"
+        }
+      ],
+      "distractors": [
+        "resent",
+        "reset",
+        "regard"
+      ],
+      "note": "語塊：regret to inform（很遺憾通知）、express regret（表達遺憾）、regret doing（後悔做了……）。regret to do 是「很遺憾要做……」（regret to inform you）；regret doing 是「後悔做過……」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-editorial",
+      "word": "editorial",
+      "pos": "名詞",
+      "meaning": "社論",
+      "sentences": [
+        {
+          "en": "The newspaper published an editorial that criticized the city's plan to build a new highway through the park.",
+          "zh": "報紙刊登了一篇社論，批評市政府要在公園裡蓋新高速公路的計畫。"
+        },
+        {
+          "en": "The editorial team meets every morning to decide which stories will appear on the front page.",
+          "zh": "編輯團隊每天早上開會，決定哪些新聞會登上頭版。"
+        },
+        {
+          "en": "Ms. Grant was asked to write an editorial about the importance of supporting local businesses.",
+          "zh": "格蘭特小姐受邀寫一篇關於支持在地商家重要性的社論。"
+        },
+        {
+          "en": "Many readers sent letters to the newspaper after the editorial about rising housing prices in the capital.",
+          "zh": "那篇關於首都房價上漲的社論刊出後，很多讀者寫信給報社。"
+        },
+        {
+          "en": "The magazine's editorial team is looking for a writer who has experience in travel and food.",
+          "zh": "雜誌的編輯團隊在找一位有旅遊和美食寫作經驗的作者。"
+        }
+      ],
+      "distractors": [
+        "editor",
+        "edition",
+        "tutorial"
+      ],
+      "note": "語塊：write an editorial（寫社論）、newspaper editorial（報紙社論）、editorial team（編輯團隊）。editorial 當名詞是「社論」，當形容詞是「編輯的」；editor 是「編輯」；edition 是「版本」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-archaeology",
+      "word": "archaeology",
+      "pos": "名詞",
+      "meaning": "考古學",
+      "sentences": [
+        {
+          "en": "The university offers a course in underwater archaeology for students who want to study old ships.",
+          "zh": "那所大學為想研究古船的學生開設水下考古學課程。"
+        },
+        {
+          "en": "Dr. Lee decided to study archaeology after visiting the ancient temples in Cambodia as a child.",
+          "zh": "李博士小時候參觀過柬埔寨的古廟後，決定研究考古學。"
+        },
+        {
+          "en": "The museum's new exhibition shows objects found by experts in underwater archaeology near the coast.",
+          "zh": "博物館的新展覽展出水下考古專家在海岸附近發現的物品。"
+        },
+        {
+          "en": "Many students are interested in archaeology because it helps us understand how people lived long ago.",
+          "zh": "很多學生對考古學有興趣，因為它幫助我們了解很久以前人們如何生活。"
+        },
+        {
+          "en": "The government gave a grant to the team to continue its work in underwater archaeology next year.",
+          "zh": "政府撥款給那個團隊，讓他們明年繼續進行水下考古工作。"
+        }
+      ],
+      "distractors": [
+        "anthropology",
+        "architecture",
+        "astrology"
+      ],
+      "note": "語塊：underwater archaeology（水下考古學）、study archaeology（研究考古學）。archaeology 是「考古學」；archaeologist 是「考古學家」；archaeological 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remit",
+      "word": "remit",
+      "pos": "動詞",
+      "meaning": "匯款；匯寄",
+      "sentences": [
+        {
+          "en": "Please remit payment within thirty days of receiving the invoice to avoid a late fee.",
+          "zh": "請在收到請款單後三十天內匯款付清，以免產生滯納金。"
+        },
+        {
+          "en": "Many workers who live abroad remit money to their families every month through mobile banking apps.",
+          "zh": "很多在國外工作的人每個月透過手機銀行 App 匯錢給家人。"
+        },
+        {
+          "en": "Customers can remit payment by bank transfer or credit card, but we do not accept checks.",
+          "zh": "顧客可以用銀行轉帳或信用卡匯款付清，但我們不收支票。"
+        },
+        {
+          "en": "The company will remit the money to your account as soon as the contract has been signed.",
+          "zh": "合約簽好後，公司會立刻把錢匯到你的帳戶。"
+        },
+        {
+          "en": "If you are unable to remit payment by the due date, please contact our accounting office immediately.",
+          "zh": "如果您無法在到期日前匯款付清，請立刻聯絡我們的會計室。"
+        }
+      ],
+      "distractors": [
+        "admit",
+        "permit",
+        "emit"
+      ],
+      "note": "語塊：remit payment（匯款付清）、remit money（匯錢）、remit to（匯給……）。remit 是正式用語「匯款」；remittance 是名詞「匯款」；transfer 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wire",
+      "word": "wire",
+      "pos": "動詞",
+      "meaning": "電匯；（給建築）配線",
+      "sentences": [
+        {
+          "en": "The client promised to wire money to our bank account by Friday so that we can start the project.",
+          "zh": "客戶答應週五前把錢電匯到我們的銀行帳戶，讓我們可以開始專案。"
+        },
+        {
+          "en": "Please wire the deposit within three days, or we will not be able to hold the room for you.",
+          "zh": "請在三天內電匯訂金，否則我們無法為您保留房間。"
+        },
+        {
+          "en": "The bank charges a fee of fifteen dollars for every wire transfer to another country.",
+          "zh": "銀行每筆國際電匯收取十五元手續費。"
+        },
+        {
+          "en": "Electricians will wire the new office for internet and phones before the furniture arrives next week.",
+          "zh": "電工會在下週家具送到前，為新辦公室配好網路和電話線路。"
+        },
+        {
+          "en": "Many customers prefer to wire money online because it is faster than going to the bank in person.",
+          "zh": "很多顧客比較喜歡在網路上電匯，因為比親自跑銀行快。"
+        }
+      ],
+      "distractors": [
+        "wise",
+        "hire",
+        "tire"
+      ],
+      "note": "語塊：wire money（電匯）、wire transfer（電匯）、be wired for（裝好……的線路）。wire 當動詞是「電匯；配電線」；當名詞是「電線」；wireless 是「無線的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-target-date",
+      "word": "target date",
+      "pos": "名詞",
+      "meaning": "目標日期",
+      "sentences": [
+        {
+          "en": "The team will set a target date for the launch of the new website at the meeting on Monday.",
+          "zh": "團隊會在週一的會議上訂定新網站上線的目標日期。"
+        },
+        {
+          "en": "The builder is working hard to meet the target date of March for the opening of the shopping mall.",
+          "zh": "建商正在努力趕上三月購物中心開幕的目標日期。"
+        },
+        {
+          "en": "If we cannot meet the target date, we must tell the client as soon as possible and explain the reason.",
+          "zh": "如果我們無法在目標日期前完成，必須盡快告訴客戶並說明原因。"
+        },
+        {
+          "en": "The target date for finishing the report is next Friday, but the final deadline is the end of the month.",
+          "zh": "完成報告的目標日期是下週五，但最後的截止期限是月底。"
+        },
+        {
+          "en": "The manager asked each department to set a target date for reducing its paper use by half.",
+          "zh": "經理請每個部門訂定把用紙量減半的目標日期。"
+        }
+      ],
+      "distractors": [
+        "due date",
+        "target audience",
+        "start date"
+      ],
+      "note": "語塊：set a target date（訂定目標日期）、meet the target date（達成目標日期）。target date 是預計完成某事的日期；deadline 是「截止期限」，語氣更強。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-client",
+      "word": "client",
+      "pos": "名詞",
+      "meaning": "客戶；委託人",
+      "sentences": [
+        {
+          "en": "Mr. Ortiz will meet a client from Singapore at the hotel restaurant tomorrow to discuss the new contract.",
+          "zh": "奧蒂茲先生明天會在飯店餐廳和一位新加坡客戶見面，討論新合約。"
+        },
+        {
+          "en": "The design company sent free samples to every potential client it met at the trade show last month.",
+          "zh": "那家設計公司寄免費樣品給上個月在展覽上認識的每位潛在客戶。"
+        },
+        {
+          "en": "Our client list includes several large hotels, two airlines, and many small restaurants in the city.",
+          "zh": "我們的客戶名單包括好幾家大飯店、兩家航空公司和市內很多小餐廳。"
+        },
+        {
+          "en": "The lawyer always calls each client personally to explain any changes in the case as soon as possible.",
+          "zh": "那位律師總是親自打電話給每位委託人，盡快說明案件的任何變化。"
+        },
+        {
+          "en": "Please treat every potential client politely, because even a small customer can become a big one later.",
+          "zh": "請禮貌對待每位潛在客戶，因為即使是小客戶之後也可能變成大客戶。"
+        }
+      ],
+      "distractors": [
+        "clinic",
+        "climate",
+        "patient"
+      ],
+      "note": "語塊：meet a client（和客戶見面）、potential client（潛在客戶）、client list（客戶名單）。client 多指付費購買專業服務的「客戶」；customer 是一般商店的「顧客」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-course",
+      "word": "on course",
+      "pos": "其他",
+      "meaning": "按計畫進行；有望……",
+      "sentences": [
+        {
+          "en": "The company is on course to reach its sales goal for the year, thanks to strong demand in December.",
+          "zh": "多虧十二月的強勁需求，公司有望達成年度銷售目標。"
+        },
+        {
+          "en": "The construction of the new bridge is on course for completion by the end of next spring.",
+          "zh": "新橋的建設按計畫進行，預計明年春末完工。"
+        },
+        {
+          "en": "The project manager holds weekly meetings to make sure the team stays on course with the schedule.",
+          "zh": "專案經理每週開會，確保團隊照時程進行。"
+        },
+        {
+          "en": "Despite the bad weather, the delivery company says it is still on course to deliver all packages before the holiday.",
+          "zh": "儘管天氣不好，貨運公司說仍有望在假期前送達所有包裹。"
+        },
+        {
+          "en": "If sales continue to grow at this rate, the store will be on course for its best year ever.",
+          "zh": "如果銷售繼續以這個速度成長，那家店有望迎來史上最好的一年。"
+        }
+      ],
+      "distractors": [
+        "of course",
+        "in course",
+        "off course"
+      ],
+      "note": "語塊：on course to（有望……）、on course for（朝……前進）、stay on course（保持進度）。on course 是「照原定方向前進」；off course 是「偏離方向」；of course 是「當然」，不要搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-immediate-supervisor",
+      "word": "immediate supervisor",
+      "pos": "名詞",
+      "meaning": "直屬主管",
+      "sentences": [
+        {
+          "en": "If you need to take a day off, please send a request to your immediate supervisor at least one week in advance.",
+          "zh": "如果你需要請假，請至少提前一週向你的直屬主管提出申請。"
+        },
+        {
+          "en": "All new employees report to their immediate supervisor on the first morning to receive their schedule.",
+          "zh": "所有新員工第一天早上都要向直屬主管報到，領取班表。"
+        },
+        {
+          "en": "Please ask your immediate supervisor before you share any company documents with people outside the office.",
+          "zh": "把任何公司文件分享給外部人員之前，請先詢問你的直屬主管。"
+        },
+        {
+          "en": "Ms. Chen's immediate supervisor recommended her for the promotion because of her excellent work this year.",
+          "zh": "陳小姐的直屬主管因為她今年表現優異而推薦她升職。"
+        },
+        {
+          "en": "Any safety problems in the factory should be reported to your immediate supervisor right away.",
+          "zh": "工廠裡的任何安全問題都應該立刻向你的直屬主管報告。"
+        }
+      ],
+      "distractors": [
+        "immediate family",
+        "general manager",
+        "senior supervisor"
+      ],
+      "note": "語塊：report to one's immediate supervisor（向直屬主管報告）、ask one's immediate supervisor（詢問直屬主管）。immediate 在這裡是「直接的」；supervisor 是「主管」；direct manager 意思一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fashion",
+      "word": "fashion",
+      "pos": "名詞",
+      "meaning": "時尚；流行",
+      "sentences": [
+        {
+          "en": "Ms. Romano has worked in the fashion industry for twenty years and now designs clothes for famous actors.",
+          "zh": "羅馬諾小姐在時尚產業工作二十年，現在為知名演員設計服裝。"
+        },
+        {
+          "en": "The annual fashion show in Paris attracts designers, buyers, and reporters from all over the world.",
+          "zh": "巴黎一年一度的時裝秀吸引了來自世界各地的設計師、買家和記者。"
+        },
+        {
+          "en": "Wide trousers are back in fashion this year, so many stores are selling them at the front of the shop.",
+          "zh": "寬褲今年又流行回來了，所以很多店都把它們擺在店面最前面賣。"
+        },
+        {
+          "en": "The fashion industry produces a lot of waste, so some brands are now using recycled materials.",
+          "zh": "時尚產業產生大量廢棄物，所以有些品牌現在改用回收材料。"
+        },
+        {
+          "en": "Tickets for the fashion show sold out in minutes, so the organizers decided to stream it online for free.",
+          "zh": "時裝秀的門票幾分鐘就賣光，所以主辦單位決定免費在網路上直播。"
+        }
+      ],
+      "distractors": [
+        "passion",
+        "fusion",
+        "cushion"
+      ],
+      "note": "語塊：fashion industry（時尚產業）、fashion show（時裝秀）、in fashion（流行中）。fashion 是「流行、時尚」；fashionable 是形容詞「時髦的」；old-fashioned 是「過時的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-well-ventilated",
+      "word": "well-ventilated",
+      "pos": "形容詞",
+      "meaning": "通風良好的",
+      "sentences": [
+        {
+          "en": "Please use this cleaning product only in a well-ventilated room, because the smell can be very strong.",
+          "zh": "請只在通風良好的房間使用這款清潔劑，因為味道可能很重。"
+        },
+        {
+          "en": "The new office is bright and well-ventilated, with large windows that open onto a quiet garden.",
+          "zh": "新辦公室明亮又通風良好，大窗戶面向安靜的花園。"
+        },
+        {
+          "en": "Paint should be stored in a cool and well-ventilated area, away from heat and direct sunlight.",
+          "zh": "油漆應存放在陰涼且通風良好的地方，遠離熱源和陽光直射。"
+        },
+        {
+          "en": "Workers must stay in a well-ventilated area while they use strong chemicals in the factory or the laboratory.",
+          "zh": "工人在工廠或實驗室使用強效化學物質時必須待在通風良好的區域。"
+        },
+        {
+          "en": "The hotel's rooms are all well-ventilated, so guests can sleep comfortably even without air conditioning.",
+          "zh": "飯店所有房間都通風良好，所以客人即使不開冷氣也能睡得舒服。"
+        }
+      ],
+      "distractors": [
+        "well-organized",
+        "well-equipped",
+        "well-located"
+      ],
+      "note": "語塊：well-ventilated room（通風良好的房間）、well-ventilated area（通風良好的區域）。ventilate 是「使通風」；ventilation 是「通風」；poorly ventilated 是「通風不良的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-misty",
+      "word": "misty",
+      "pos": "形容詞",
+      "meaning": "有霧的；霧濛濛的",
+      "sentences": [
+        {
+          "en": "On misty mornings, flights from the small airport are often delayed until the weather clears.",
+          "zh": "在起霧的早晨，那座小機場的航班常常延誤到天氣轉好。"
+        },
+        {
+          "en": "The mountain looks beautiful in misty weather, so many photographers visit it in early spring.",
+          "zh": "山在多霧的天氣裡看起來很美，所以很多攝影師會在早春去拍。"
+        },
+        {
+          "en": "Drivers should turn on their lights and slow down on misty mornings when it is hard to see the road.",
+          "zh": "在看不清道路的起霧早晨，駕駛應該開燈並減速。"
+        },
+        {
+          "en": "The tour company warned visitors that the view from the top may not be clear in misty weather.",
+          "zh": "旅行社提醒遊客，多霧的天氣時山頂的景色可能看不清楚。"
+        },
+        {
+          "en": "It was a misty morning, so the ferry left the port thirty minutes later than usual.",
+          "zh": "那天早上起霧，所以渡輪比平常晚三十分鐘離港。"
+        }
+      ],
+      "distractors": [
+        "musty",
+        "mighty",
+        "misery"
+      ],
+      "note": "語塊：misty morning（起霧的早晨）、misty weather（多霧的天氣）。misty 是「有薄霧的」；foggy 是「霧比較濃的」；mist 是名詞「薄霧」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sweepstakes",
+      "word": "sweepstakes",
+      "pos": "名詞",
+      "meaning": "抽獎活動",
+      "sentences": [
+        {
+          "en": "Customers who spend more than fifty dollars can enter a sweepstakes to win a trip to Hawaii.",
+          "zh": "消費超過五十元的顧客可以參加抽獎，有機會贏得夏威夷之旅。"
+        },
+        {
+          "en": "Mr. Brown was surprised when he heard that he had won the sweepstakes and received a new car.",
+          "zh": "布朗先生聽到自己抽中大獎、得到一台新車時很驚訝。"
+        },
+        {
+          "en": "The company's online sweepstakes attracted more than fifty thousand people from all over the country in its first week.",
+          "zh": "公司的線上抽獎活動第一週就吸引了全國各地五萬多人參加。"
+        },
+        {
+          "en": "Employees of the store and their families are not allowed to enter the sweepstakes, according to the rules on the website.",
+          "zh": "依照網站上的規則，店家員工及其家人不得參加這項抽獎活動。"
+        },
+        {
+          "en": "To enter the sweepstakes, please fill out the form on our website before the end of the month.",
+          "zh": "要參加抽獎，請在月底前填寫我們網站上的表單。"
+        }
+      ],
+      "distractors": [
+        "sweepers",
+        "mistakes",
+        "milestones"
+      ],
+      "note": "語塊：enter a sweepstakes（參加抽獎）、win a sweepstakes（抽中大獎）、online sweepstakes（線上抽獎）。sweepstakes 單複數同形；lottery 是「彩券」；raffle 是小型的「摸彩」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bride-to-be",
+      "word": "bride-to-be",
+      "pos": "名詞",
+      "meaning": "準新娘",
+      "sentences": [
+        {
+          "en": "The wedding shop offers a free consultation for every bride-to-be who books a dress before December.",
+          "zh": "婚紗店為每位在十二月前預訂禮服的準新娘提供免費諮詢。"
+        },
+        {
+          "en": "The bride-to-be and her family visited three hotels before choosing the place for the wedding party.",
+          "zh": "準新娘和她的家人看了三家飯店才選定婚宴場地。"
+        },
+        {
+          "en": "The magazine has a special section with advice for the bride-to-be on planning a wedding on a small budget.",
+          "zh": "雜誌有一個特別專欄，給準新娘用小預算籌辦婚禮的建議。"
+        },
+        {
+          "en": "The bakery made a beautiful cake for the bride-to-be, decorated with edible flowers and gold leaves.",
+          "zh": "麵包店為準新娘做了一個漂亮的蛋糕，用可食用花朵和金箔裝飾。"
+        },
+        {
+          "en": "Friends of the bride-to-be organized a surprise party for her at a small restaurant downtown.",
+          "zh": "準新娘的朋友在市中心一家小餐廳為她辦了一場驚喜派對。"
+        }
+      ],
+      "distractors": [
+        "bridesmaid",
+        "bridegroom",
+        "brother-in-law"
+      ],
+      "note": "語塊：the bride-to-be and her family（準新娘和她的家人）、for the bride-to-be（給準新娘的）、friends of the bride-to-be（準新娘的朋友）。bride-to-be 是「即將結婚的女生」；groom-to-be 是「準新郎」；複數是 brides-to-be。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-qualify",
+      "word": "qualify",
+      "pos": "動詞",
+      "meaning": "有資格；合格",
+      "sentences": [
+        {
+          "en": "Customers who spend more than two hundred dollars qualify for free delivery anywhere in the city.",
+          "zh": "消費超過兩百元的顧客可以享市內免費送貨。"
+        },
+        {
+          "en": "Ms. Ito studied for three years to qualify as a certified accountant before she joined the firm.",
+          "zh": "伊藤小姐在進那家事務所之前念了三年書，取得合格會計師資格。"
+        },
+        {
+          "en": "Employees must work here for at least one year to qualify for the company's housing support program.",
+          "zh": "員工必須在這裡工作至少一年，才有資格申請公司的住房補助方案。"
+        },
+        {
+          "en": "Students with high grades may qualify for a scholarship that pays for all of their university fees.",
+          "zh": "成績好的學生可能有資格獲得支付全部大學學費的獎學金。"
+        },
+        {
+          "en": "Please check our website to see whether your old phone will qualify for the trade-in discount.",
+          "zh": "請上我們的網站看看你的舊手機是否符合以舊換新的折扣資格。"
+        }
+      ],
+      "distractors": [
+        "quantify",
+        "quality",
+        "clarify"
+      ],
+      "note": "語塊：qualify for（有資格獲得……）、qualify as（取得……資格）。qualify for + 名詞（qualify for a discount）；qualified 是形容詞「合格的」；qualification 是「資格」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inexpensive",
+      "word": "inexpensive",
+      "pos": "形容詞",
+      "meaning": "不貴的；便宜的",
+      "sentences": [
+        {
+          "en": "Taking the bus is an inexpensive option for tourists who want to see the city without renting a car.",
+          "zh": "對不想租車又想逛城市的觀光客來說，搭公車是便宜的選擇。"
+        },
+        {
+          "en": "The restaurant serves delicious food that is relatively inexpensive, so it is always full at lunchtime.",
+          "zh": "那家餐廳的餐點好吃又相對便宜，所以午餐時間總是客滿。"
+        },
+        {
+          "en": "Plastic chairs are inexpensive and light, but they are not as comfortable as wooden ones.",
+          "zh": "塑膠椅便宜又輕，但沒有木頭椅子舒服。"
+        },
+        {
+          "en": "The hotel near the station is an inexpensive option for business travelers who only need a place to sleep.",
+          "zh": "車站附近的飯店對只需要地方睡覺的商務旅客來說是便宜的選擇。"
+        },
+        {
+          "en": "Solar panels have become relatively inexpensive in recent years, so more families are installing them at home.",
+          "zh": "近年來太陽能板變得相對便宜，所以越來越多家庭在家裡裝。"
+        }
+      ],
+      "distractors": [
+        "expensive",
+        "extensive",
+        "intensive"
+      ],
+      "note": "語塊：inexpensive option（便宜的選擇）、relatively inexpensive（相對便宜）。inexpensive 是比較委婉的「不貴」；cheap 有時帶「廉價、品質差」的意思；expensive 是「昂貴的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
