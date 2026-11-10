@@ -58503,6 +58503,706 @@
       ],
       "note": "語塊：hotel accommodation（飯店住宿）、arrange accommodation（安排住宿）、accommodation costs（住宿費）。accommodation 是「住宿」；英式常用不可數，美式常用複數 accommodations；accommodate 是動詞「容納」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-audit",
+      "word": "audit",
+      "pos": "名詞",
+      "meaning": "稽核；查帳",
+      "sentences": [
+        {
+          "en": "An outside accounting firm will conduct an audit of the company's records at the end of every year.",
+          "zh": "一家外部會計師事務所每年年底都會稽核公司的帳目。"
+        },
+        {
+          "en": "The financial audit showed that the department had spent more money than its budget allowed.",
+          "zh": "財務稽核顯示那個部門花的錢超過了預算。"
+        },
+        {
+          "en": "Small businesses should keep all of their receipts in case the government decides to do a tax audit.",
+          "zh": "小企業應該保留所有收據，以防政府決定進行稅務查核。"
+        },
+        {
+          "en": "The hospital will conduct an audit of its safety procedures after two patients complained last month.",
+          "zh": "上個月兩位病人投訴後，醫院將稽核它的安全程序。"
+        },
+        {
+          "en": "Please prepare all invoices from the past year, because the financial audit will begin next Monday.",
+          "zh": "請準備好過去一年的所有請款單，因為財務稽核下週一開始。"
+        }
+      ],
+      "distractors": [
+        "audio",
+        "edit",
+        "admit"
+      ],
+      "note": "語塊：financial audit（財務稽核）、conduct an audit（進行稽核）、tax audit（稅務查核）。audit 可以當名詞或動詞「查帳」；auditor 是「稽核員」；audition 是「試鏡」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-edible",
+      "word": "edible",
+      "pos": "形容詞",
+      "meaning": "可食用的",
+      "sentences": [
+        {
+          "en": "The restaurant decorates its desserts with edible flowers that are grown in its own garden.",
+          "zh": "那家餐廳用自家花園種的可食用花朵裝飾甜點。"
+        },
+        {
+          "en": "A small company in Seoul has developed edible packaging that can be eaten together with the food inside.",
+          "zh": "首爾一家小公司開發出可以和裡面的食物一起吃的可食用包裝。"
+        },
+        {
+          "en": "Some of the mushrooms in the forest are edible, but others are very dangerous, so please do not pick them.",
+          "zh": "森林裡有些蘑菇可以吃，但有些非常危險，所以請不要摘。"
+        },
+        {
+          "en": "The cake was so beautiful that many guests did not realize the decorations were edible.",
+          "zh": "那個蛋糕漂亮到很多客人都沒發現上面的裝飾是可以吃的。"
+        },
+        {
+          "en": "Edible packaging could help reduce the amount of plastic waste that restaurants produce every day.",
+          "zh": "可食用包裝可以幫助減少餐廳每天產生的塑膠垃圾量。"
+        }
+      ],
+      "distractors": [
+        "audible",
+        "credible",
+        "eligible"
+      ],
+      "note": "語塊：edible flowers（可食用的花）、edible packaging（可食用的包裝）。edible 是「可以吃的」；eatable 也有但較口語；inedible 是「不能吃的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commodity",
+      "word": "commodity",
+      "pos": "名詞",
+      "meaning": "商品；原物料",
+      "sentences": [
+        {
+          "en": "Rising commodity prices, such as oil and wheat, have made it more expensive to produce and ship food.",
+          "zh": "像石油和小麥這類原物料價格上漲，讓食物的生產和運送成本變得更高。"
+        },
+        {
+          "en": "Rice is a basic commodity in many Asian countries, so the government controls its price carefully.",
+          "zh": "米在很多亞洲國家是基本商品，所以政府會小心控制價格。"
+        },
+        {
+          "en": "In a busy office, time is a valuable commodity, so meetings should be short and well organized.",
+          "zh": "在忙碌的辦公室裡，時間是寶貴的資源，所以會議應該簡短又有條理。"
+        },
+        {
+          "en": "The company buys coffee and sugar directly from farmers to protect itself from changes in commodity prices.",
+          "zh": "公司直接向農民購買咖啡和糖，避免受到原物料價格波動的影響。"
+        },
+        {
+          "en": "Water has become a valuable commodity in areas where it has not rained for several months.",
+          "zh": "在好幾個月沒下雨的地區，水已經成了寶貴的資源。"
+        }
+      ],
+      "distractors": [
+        "commodore",
+        "community",
+        "comedy"
+      ],
+      "note": "語塊：commodity prices（原物料價格）、basic commodity（基本商品）、valuable commodity（寶貴的資源）。commodity 多指石油、小麥、咖啡這類「大宗商品」；product 是一般「產品」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dine",
+      "word": "dine",
+      "pos": "動詞",
+      "meaning": "用餐",
+      "sentences": [
+        {
+          "en": "Many families prefer to dine out on Friday evenings, so restaurants are usually very busy at that time.",
+          "zh": "很多家庭喜歡週五晚上外出用餐，所以那個時段餐廳通常非常忙。"
+        },
+        {
+          "en": "Customers who dine in will receive a free drink, while takeout orders will get a ten percent discount.",
+          "zh": "內用的顧客會得到一杯免費飲料，外帶訂單則享九折優惠。"
+        },
+        {
+          "en": "The CEO will dine with several important clients at the hotel restaurant after the conference ends.",
+          "zh": "研討會結束後，執行長會和幾位重要客戶在飯店餐廳用餐。"
+        },
+        {
+          "en": "Guests can dine on the rooftop terrace and enjoy a wonderful view of the city during the summer months.",
+          "zh": "夏季期間，客人可以在頂樓露台用餐，欣賞美麗的城市景色。"
+        },
+        {
+          "en": "Fewer people dine out when the economy is weak, so many restaurants offer special lunch sets to attract customers.",
+          "zh": "經濟不好時外出用餐的人變少，所以很多餐廳推出特別午餐套餐吸引顧客。"
+        }
+      ],
+      "distractors": [
+        "done",
+        "dime",
+        "din"
+      ],
+      "note": "語塊：dine out（外出用餐）、dine in（內用）、dine with（和……用餐）。dine 比 eat 正式；diner 是「用餐的人；小餐館」；dining room 是「餐廳（房間）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gymnasium",
+      "word": "gymnasium",
+      "pos": "名詞",
+      "meaning": "體育館；健身房",
+      "sentences": [
+        {
+          "en": "The company's annual sports day will be held in the school gymnasium because of the rainy weather.",
+          "zh": "因為下雨，公司的年度運動會會在學校體育館舉行。"
+        },
+        {
+          "en": "The new gymnasium has a basketball court, a running track, and a large room for yoga classes.",
+          "zh": "新的體育館有一座籃球場、一條跑道，還有一間做瑜伽的大教室。"
+        },
+        {
+          "en": "Voters in the neighborhood can cast their ballots in the gymnasium of the local high school next Sunday.",
+          "zh": "這一區的選民下週日可以到當地高中的體育館投票。"
+        },
+        {
+          "en": "The city plans to repair the roof of the old gymnasium before the start of the basketball season.",
+          "zh": "市政府計畫在籃球季開始前修理舊體育館的屋頂。"
+        },
+        {
+          "en": "More than five hundred people attended the job fair in the gymnasium of the community center on Saturday.",
+          "zh": "週六有五百多人參加在社區中心體育館舉行的就業博覽會。"
+        }
+      ],
+      "distractors": [
+        "stadium",
+        "auditorium",
+        "aquarium"
+      ],
+      "note": "語塊：school gymnasium（學校體育館）、in the gymnasium（在體育館裡）。gymnasium 常簡稱 gym；stadium 是有觀眾席的「大型體育場」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-physical-education",
+      "word": "physical education",
+      "pos": "名詞",
+      "meaning": "體育（課）",
+      "sentences": [
+        {
+          "en": "Every student must take a physical education class at least twice a week, according to the new school rules.",
+          "zh": "根據學校新規定，每位學生每週至少要上兩次體育課。"
+        },
+        {
+          "en": "Mr. Garcia has worked as a physical education teacher at the elementary school for more than fifteen years.",
+          "zh": "賈西亞先生在那所小學當體育老師已經十五年多了。"
+        },
+        {
+          "en": "The school will build a new field for physical education and after-school sports programs next year.",
+          "zh": "學校明年會蓋一座新操場，用於體育課和課後運動活動。"
+        },
+        {
+          "en": "Physical education helps children stay healthy and teaches them how to work together as a team.",
+          "zh": "體育課幫助孩子保持健康，也教他們如何團隊合作。"
+        },
+        {
+          "en": "Our company sells equipment for physical education classes, such as balls, mats, and jump ropes, to schools nationwide.",
+          "zh": "我們公司把體育課用品，像是球、墊子和跳繩，賣給全國的學校。"
+        }
+      ],
+      "distractors": [
+        "physical therapy",
+        "physical examination",
+        "special education"
+      ],
+      "note": "語塊：physical education class（體育課）、physical education teacher（體育老師）。physical education 常縮寫成 PE；physical 是「身體的」；physics 是「物理學」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shabby",
+      "word": "shabby",
+      "pos": "形容詞",
+      "meaning": "破舊的；寒酸的",
+      "sentences": [
+        {
+          "en": "The hotel lobby looked shabby, so the owners decided to replace the old carpet and paint the walls.",
+          "zh": "飯店大廳看起來很破舊，所以老闆決定換掉舊地毯並粉刷牆壁。"
+        },
+        {
+          "en": "The office was full of shabby furniture, which made a bad impression on visitors and new clients.",
+          "zh": "辦公室裡都是破舊的家具，讓訪客和新客戶印象很差。"
+        },
+        {
+          "en": "Employees should not wear shabby clothes when they meet clients at the office, even on casual Fridays.",
+          "zh": "即使是週五便服日，員工在公司見客戶時也不應該穿破舊的衣服。"
+        },
+        {
+          "en": "The restaurant is a bit shabby inside, but the food is delicious and the prices are very reasonable.",
+          "zh": "那家餐廳裡面有點破舊，但食物很好吃，價格也很合理。"
+        },
+        {
+          "en": "After twenty years, the old train station started to look shabby, so the city plans to renovate it next year.",
+          "zh": "二十年後，舊火車站開始顯得破舊，所以市政府計畫明年整修。"
+        }
+      ],
+      "distractors": [
+        "chubby",
+        "shaggy",
+        "sloppy"
+      ],
+      "note": "語塊：shabby clothes（破舊的衣服）、shabby furniture（破舊的家具）、look shabby（看起來很舊）。shabby 是「舊到看起來很寒酸」；worn-out 意思接近；chubby 是「圓胖的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-description",
+      "word": "description",
+      "pos": "名詞",
+      "meaning": "描述；說明",
+      "sentences": [
+        {
+          "en": "Please read the job description carefully before you apply, because the position requires some travel abroad.",
+          "zh": "申請前請仔細閱讀職務說明，因為這個職位需要出國出差。"
+        },
+        {
+          "en": "Every product description on our website includes the size, weight, and materials of the item.",
+          "zh": "我們網站上的每一則產品說明都包含商品的尺寸、重量和材料。"
+        },
+        {
+          "en": "The police asked the witness to give a detailed description of the car that left the parking lot.",
+          "zh": "警方請目擊者詳細描述離開停車場的那輛車。"
+        },
+        {
+          "en": "Customers complained that the product description was not accurate, because the color of the bag was different.",
+          "zh": "顧客抱怨產品說明不正確，因為包包的顏色不一樣。"
+        },
+        {
+          "en": "The new job description explains the duties of the assistant manager and the skills that are required.",
+          "zh": "新的職務說明解釋了副理的職責和所需的技能。"
+        }
+      ],
+      "distractors": [
+        "prescription",
+        "subscription",
+        "destruction"
+      ],
+      "note": "語塊：job description（職務說明）、product description（產品說明）、detailed description（詳細描述）。description 是 describe（描述）的名詞；descriptive 是「描述性的」；prescription 是「處方」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-accordance-with",
+      "word": "in accordance with",
+      "pos": "介系詞",
+      "meaning": "依照；根據",
+      "sentences": [
+        {
+          "en": "All of our products are made in accordance with the law and meet the strictest safety standards.",
+          "zh": "我們所有的產品都依照法律製造，符合最嚴格的安全標準。"
+        },
+        {
+          "en": "The supplier delivered the goods late, so we will charge a penalty in accordance with the contract.",
+          "zh": "供應商延遲交貨，所以我們會依照合約收取罰款。"
+        },
+        {
+          "en": "In accordance with company policy, employees must take at least five days of vacation every year.",
+          "zh": "依照公司規定，員工每年至少必須休五天假。"
+        },
+        {
+          "en": "The building was designed in accordance with the city's new rules for energy conservation and fire safety.",
+          "zh": "大樓是依照市政府新的節能和消防安全規定設計的。"
+        },
+        {
+          "en": "Your personal information will be handled in accordance with the law and will never be shared without permission.",
+          "zh": "您的個人資料將依照法律處理，未經同意絕不會被分享。"
+        }
+      ],
+      "distractors": [
+        "in addition to",
+        "in agreement with",
+        "in contrast with"
+      ],
+      "note": "語塊：in accordance with the law（依照法律）、in accordance with the contract（依照合約）、in accordance with company policy（依照公司規定）。in accordance with 是正式的「依照」；according to 意思接近，但 according to 也可以是「根據（某人說）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suffer-from",
+      "word": "suffer from",
+      "pos": "片語動詞",
+      "meaning": "罹患；受……之苦",
+      "sentences": [
+        {
+          "en": "Many office workers suffer from stress because they work long hours and rarely take a vacation.",
+          "zh": "很多上班族因為工時長、很少休假而受壓力所苦。"
+        },
+        {
+          "en": "Mr. Kato could not attend the meeting because he started to suffer from a bad cold on Monday.",
+          "zh": "加藤先生無法參加會議，因為他週一開始得了重感冒。"
+        },
+        {
+          "en": "Some hospitals in the region suffer from a shortage of nurses, so they are trying to hire staff from abroad.",
+          "zh": "這一區有些醫院面臨護理師短缺，所以正嘗試從國外招募人員。"
+        },
+        {
+          "en": "Restaurants in tourist areas often suffer from a lack of customers during the rainy season.",
+          "zh": "觀光區的餐廳在雨季常常苦於缺少客人。"
+        },
+        {
+          "en": "Employees who suffer from back pain can ask the company for a special chair at no extra cost.",
+          "zh": "有背痛問題的員工可以免費向公司申請特別的椅子。"
+        }
+      ],
+      "distractors": [
+        "differ from",
+        "recover from",
+        "benefit from"
+      ],
+      "note": "語塊：suffer from a cold（感冒）、suffer from stress（受壓力所苦）、suffer from a shortage（受短缺之苦）。suffer from 後面接疾病或問題；suffer 單獨用是「受苦；遭受（損失）」（suffer a loss）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-chronic-ailment",
+      "word": "chronic ailment",
+      "pos": "名詞",
+      "meaning": "慢性病",
+      "sentences": [
+        {
+          "en": "Employees who suffer from a chronic ailment can ask for flexible working hours to visit their doctor regularly.",
+          "zh": "患有慢性病的員工可以申請彈性工時，定期去看醫生。"
+        },
+        {
+          "en": "The new clinic specializes in helping older patients treat a chronic ailment such as high blood pressure.",
+          "zh": "新診所專門幫助年長病人治療高血壓之類的慢性病。"
+        },
+        {
+          "en": "The insurance plan covers medicine for any chronic ailment, so members do not have to pay much each month.",
+          "zh": "保險方案涵蓋任何慢性病的藥物，所以會員每個月不用付太多錢。"
+        },
+        {
+          "en": "Living with a chronic ailment can be difficult, but regular exercise and a healthy diet can help a lot.",
+          "zh": "和慢性病一起生活可能不容易，但規律運動和健康飲食會很有幫助。"
+        },
+        {
+          "en": "Doctors at the hospital will give a free talk on how to treat a chronic ailment at home next Saturday.",
+          "zh": "醫院的醫生下週六會舉辦免費講座，談如何在家照護慢性病。"
+        }
+      ],
+      "distractors": [
+        "acute illness",
+        "chronic pain",
+        "minor injury"
+      ],
+      "note": "語塊：suffer from a chronic ailment（患有慢性病）、treat a chronic ailment（治療慢性病）。chronic 是「長期的、慢性的」；acute 是「急性的」；ailment 是比較輕的「病痛」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-asthma",
+      "word": "asthma",
+      "pos": "名詞",
+      "meaning": "氣喘",
+      "sentences": [
+        {
+          "en": "Children who suffer from asthma should avoid playing outside on days when the air pollution is very high.",
+          "zh": "患有氣喘的兒童應該避免在空氣污染嚴重的日子到戶外玩。"
+        },
+        {
+          "en": "The flight attendant helped a passenger who was having an asthma attack until the plane landed safely.",
+          "zh": "空服員協助一位氣喘發作的乘客，直到飛機安全降落。"
+        },
+        {
+          "en": "Dust and smoke can cause an asthma attack, so the factory gives workers masks to wear at all times.",
+          "zh": "灰塵和煙霧可能引發氣喘，所以工廠發口罩給工人隨時配戴。"
+        },
+        {
+          "en": "Ms. Lin has suffered from asthma since she was a child, so she always carries her medicine with her.",
+          "zh": "林小姐從小就有氣喘，所以她總是隨身帶著藥。"
+        },
+        {
+          "en": "The new air cleaning system in the school has helped students with asthma breathe more easily in class.",
+          "zh": "學校的新空氣清淨系統幫助有氣喘的學生在課堂上呼吸更順暢。"
+        }
+      ],
+      "distractors": [
+        "aroma",
+        "athlete",
+        "trauma"
+      ],
+      "note": "語塊：suffer from asthma（患有氣喘）、asthma attack（氣喘發作）。asthma 的 th 不發音，唸作 /ˈæzmə/；asthmatic 是「氣喘的；氣喘患者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-grant",
+      "word": "grant",
+      "pos": "名詞",
+      "meaning": "補助金；撥款",
+      "sentences": [
+        {
+          "en": "The university received a research grant of two million dollars to study new ways of producing clean energy.",
+          "zh": "那所大學獲得兩百萬元的研究補助，研究生產乾淨能源的新方法。"
+        },
+        {
+          "en": "Small farms can receive a grant from the government to buy machinery that saves water and energy.",
+          "zh": "小農場可以獲得政府補助，購買節水節能的機械。"
+        },
+        {
+          "en": "The museum will use the government grant to repair the old building and open a new gallery.",
+          "zh": "博物館會用政府補助修繕舊建築，並開設一間新展廳。"
+        },
+        {
+          "en": "Several start-ups applied for the research grant, but only three of them were chosen by the committee.",
+          "zh": "好幾家新創公司申請了研究補助，但委員會只選了其中三家。"
+        },
+        {
+          "en": "If our company can receive a grant from the city, we will hire ten more young workers next year.",
+          "zh": "如果我們公司能獲得市政府的補助，明年會多雇用十位年輕員工。"
+        }
+      ],
+      "distractors": [
+        "grand",
+        "grunt",
+        "giant"
+      ],
+      "note": "語塊：research grant（研究補助）、receive a grant（獲得補助）、government grant（政府補助）。grant 當名詞是「補助金」；當動詞是「准許；給予」（grant permission）；take sth for granted 是「視為理所當然」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-one-stop",
+      "word": "one-stop",
+      "pos": "形容詞",
+      "meaning": "一站式的",
+      "sentences": [
+        {
+          "en": "The new shopping center is a one-stop shop for families, with stores, restaurants, and a cinema in one building.",
+          "zh": "新購物中心對家庭來說是一站式商店，同一棟樓裡有商店、餐廳和電影院。"
+        },
+        {
+          "en": "The bank now offers a one-stop service where customers can open an account and get a loan on the same day.",
+          "zh": "銀行現在提供一站式服務，顧客可以在同一天開戶並辦好貸款。"
+        },
+        {
+          "en": "Our travel agency is a one-stop shop that books flights, hotels, and tours for business travelers.",
+          "zh": "我們的旅行社是一站式服務，為商務旅客預訂機票、飯店和行程。"
+        },
+        {
+          "en": "The city opened a one-stop service center where residents can pay taxes and apply for permits.",
+          "zh": "市政府開設了一站式服務中心，居民可以在那裡繳稅和申請許可證。"
+        },
+        {
+          "en": "Many customers like the one-stop service because they do not have to visit several different offices.",
+          "zh": "很多顧客喜歡一站式服務，因為他們不用跑好幾個不同的辦公室。"
+        }
+      ],
+      "distractors": [
+        "nonstop",
+        "one-way",
+        "one-time"
+      ],
+      "note": "語塊：one-stop shop（一站式商店）、one-stop service（一站式服務）。one-stop 是「在同一個地方就能處理所有事」，通常放在名詞前面。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wide",
+      "word": "wide",
+      "pos": "形容詞",
+      "meaning": "寬的；廣泛的",
+      "sentences": [
+        {
+          "en": "Our store offers a wide range of kitchen products, from cheap plates to expensive coffee machines.",
+          "zh": "我們店提供各式各樣的廚房用品，從便宜的盤子到昂貴的咖啡機都有。"
+        },
+        {
+          "en": "The hotel restaurant serves a wide variety of dishes from Asia, Europe, and South America.",
+          "zh": "飯店餐廳供應來自亞洲、歐洲和南美洲種類繁多的菜色。"
+        },
+        {
+          "en": "The bookstore has a wide selection of business books, so it is popular with office workers in the area.",
+          "zh": "那家書店的商業書選擇眾多，所以很受這一帶上班族歡迎。"
+        },
+        {
+          "en": "The new road is wide enough for large trucks, which will make deliveries to the factory much easier.",
+          "zh": "新道路寬到可以讓大卡車通過，這會讓送貨到工廠容易很多。"
+        },
+        {
+          "en": "The conference will cover a wide range of topics, including marketing, finance, and new technology.",
+          "zh": "研討會將涵蓋廣泛的主題，包括行銷、財務和新科技。"
+        }
+      ],
+      "distractors": [
+        "wise",
+        "wild",
+        "wire"
+      ],
+      "note": "語塊：wide range of（各式各樣的）、wide variety of（種類繁多的）、wide selection（選擇眾多）。wide 是「寬、範圍大」；widely 是副詞「廣泛地」；width 是名詞「寬度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-kennel",
+      "word": "kennel",
+      "pos": "名詞",
+      "meaning": "狗舍；寵物寄宿處",
+      "sentences": [
+        {
+          "en": "We left our dog at a boarding kennel near the airport while we were on vacation in Thailand.",
+          "zh": "我們在泰國度假時，把狗寄放在機場附近的寵物寄宿處。"
+        },
+        {
+          "en": "The kennel fee is thirty dollars per night, which includes two meals and a daily walk for your dog.",
+          "zh": "寄宿費每晚三十元，包含兩餐和每天帶你的狗散步一次。"
+        },
+        {
+          "en": "Many pet owners book a kennel months in advance because they are always full during the holidays.",
+          "zh": "很多飼主會提前幾個月預訂寵物寄宿處，因為假期總是客滿。"
+        },
+        {
+          "en": "The new kennel has large rooms, a garden, and staff who check on the animals twenty-four hours a day.",
+          "zh": "新的寵物寄宿處有大房間、花園，還有二十四小時照看動物的工作人員。"
+        },
+        {
+          "en": "Please bring your pet's medicine and favorite toy when you drop it off at the boarding kennel.",
+          "zh": "送寵物到寄宿處時，請帶上牠的藥和最喜歡的玩具。"
+        }
+      ],
+      "distractors": [
+        "channel",
+        "tunnel",
+        "kernel"
+      ],
+      "note": "語塊：boarding kennel（寵物寄宿處）、kennel fee（寄宿費）。kennel 是寄放或飼養狗的地方；cage 是「籠子」；shelter 是「收容所」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regular",
+      "word": "regular",
+      "pos": "形容詞",
+      "meaning": "定期的；一般的；常客的",
+      "sentences": [
+        {
+          "en": "The machines in the factory are checked on a regular basis to make sure they are safe to use.",
+          "zh": "工廠的機器會定期檢查，確保使用安全。"
+        },
+        {
+          "en": "Mr. Kim is a regular customer who comes to our café every morning before he goes to work.",
+          "zh": "金先生是常客，每天早上上班前都會來我們的咖啡廳。"
+        },
+        {
+          "en": "The jacket is on sale for forty dollars, which is half of the regular price at the department store.",
+          "zh": "那件外套特價四十元，是百貨公司原價的一半。"
+        },
+        {
+          "en": "Managers should meet with their team members on a regular basis to discuss problems and goals.",
+          "zh": "主管應該定期和組員開會，討論問題和目標。"
+        },
+        {
+          "en": "Each regular customer receives a card that gives a ten percent discount on every purchase.",
+          "zh": "每位常客都會拿到一張卡，每次消費都打九折。"
+        }
+      ],
+      "distractors": [
+        "regulate",
+        "popular",
+        "singular"
+      ],
+      "note": "語塊：regular basis（定期地）、regular customer（常客）、regular price（原價）。regular 是「規律的、平常的」；regularly 是副詞；irregular 是「不規律的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-veterinary",
+      "word": "veterinary",
+      "pos": "形容詞",
+      "meaning": "獸醫的",
+      "sentences": [
+        {
+          "en": "The new veterinary clinic near the park is open seven days a week and treats both dogs and cats.",
+          "zh": "公園附近的新動物醫院一週七天都營業，狗和貓都看。"
+        },
+        {
+          "en": "Pet insurance can help owners pay for veterinary care if their animals become sick or get hurt.",
+          "zh": "寵物保險可以幫飼主在動物生病或受傷時支付獸醫照護費用。"
+        },
+        {
+          "en": "Ms. Lee decided to study veterinary medicine because she has loved animals since she was a child.",
+          "zh": "李小姐決定念獸醫學，因為她從小就很喜歡動物。"
+        },
+        {
+          "en": "The farm provides regular veterinary care for all of its cows to keep the milk safe and healthy.",
+          "zh": "農場為所有的乳牛提供定期的獸醫照護，確保牛奶安全健康。"
+        },
+        {
+          "en": "The veterinary clinic will offer free health checks for pets during the first week of next month.",
+          "zh": "動物醫院下個月第一週會為寵物提供免費健康檢查。"
+        }
+      ],
+      "distractors": [
+        "veteran",
+        "vegetarian",
+        "voluntary"
+      ],
+      "note": "語塊：veterinary clinic（動物醫院）、veterinary care（獸醫照護）、veterinary medicine（獸醫學）。veterinary 是形容詞；獸醫本人是 veterinarian，常簡稱 vet；veteran 是「老兵；老手」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-elements",
+      "word": "elements",
+      "pos": "名詞",
+      "meaning": "（惡劣的）天氣；自然力",
+      "sentences": [
+        {
+          "en": "The new covers will protect the outdoor furniture in the hotel garden from the elements during the rainy season.",
+          "zh": "雨季期間，新的防護罩會保護飯店花園裡的戶外家具免受風吹雨打。"
+        },
+        {
+          "en": "Machines that are exposed to the elements for a long time can break down more often than those kept inside.",
+          "zh": "長時間暴露在風雨中的機器，比放在室內的更容易故障。"
+        },
+        {
+          "en": "This jacket is designed for hikers who need protection from the elements in cold and wet weather.",
+          "zh": "這件外套是為需要在寒冷潮濕天氣中抵擋風雨的登山客設計的。"
+        },
+        {
+          "en": "The old statue in the park has been exposed to the elements for a hundred years, so it needs to be repaired.",
+          "zh": "公園裡的老雕像已經暴露在風雨中一百年了，所以需要修復。"
+        },
+        {
+          "en": "Please store the bicycles in the garage to protect them from the elements during the winter months.",
+          "zh": "冬季期間請把自行車放在車庫裡，保護它們免受風吹雨打。"
+        }
+      ],
+      "distractors": [
+        "elephants",
+        "elementary",
+        "segments"
+      ],
+      "note": "語塊：protect from the elements（保護免受風吹雨打）、exposed to the elements（暴露在風雨中）。the elements（複數、加 the）是指風、雨、雪等「惡劣天氣」；element 單數是「要素；元素」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keep-out",
+      "word": "keep out",
+      "pos": "片語動詞",
+      "meaning": "阻擋；不准進入",
+      "sentences": [
+        {
+          "en": "The new windows are designed to keep out the rain and the noise from the busy street outside.",
+          "zh": "新窗戶的設計可以擋住雨水和外面繁忙街道的噪音。"
+        },
+        {
+          "en": "Visitors must keep out of the construction area, which is marked with yellow tape and warning signs.",
+          "zh": "訪客不得進入工地區域，那裡有黃色封鎖線和警告標誌標示。"
+        },
+        {
+          "en": "This thick coat will keep out the cold even when the temperature drops below zero at night.",
+          "zh": "即使晚上氣溫降到零下，這件厚外套也能禦寒。"
+        },
+        {
+          "en": "Please close the warehouse door after each delivery to keep out the rain and dust.",
+          "zh": "每次送貨後請把倉庫門關上，以擋住雨水和灰塵。"
+        },
+        {
+          "en": "The sign on the door tells employees to keep out of the server room unless they work in the IT department.",
+          "zh": "門上的告示告訴員工，除非在資訊部門工作，否則不要進入機房。"
+        }
+      ],
+      "distractors": [
+        "keep up",
+        "keep off",
+        "keep on"
+      ],
+      "note": "語塊：keep out the rain（擋雨）、keep out of（遠離；不進入）、keep out the cold（禦寒）。keep out 是「把……擋在外面」或「不要進入」；Keep Out 是告示牌上的「禁止進入」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
