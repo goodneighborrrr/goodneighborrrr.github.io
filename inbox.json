@@ -77368,6 +77368,706 @@
       ],
       "note": "語塊：original design（原創設計）、original receipt（收據正本）、original plan（原本的計畫）。original 是「最初的」或「有創意、不是抄的」；originally 是副詞；origin 是「起源」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-speedy",
+      "word": "speedy",
+      "pos": "形容詞",
+      "meaning": "迅速的",
+      "sentences": [
+        {
+          "en": "We wish Mr. Kim a speedy recovery and hope that he can return to the office very soon.",
+          "zh": "我們祝金先生早日康復，希望他很快就能回到辦公室。"
+        },
+        {
+          "en": "The online store is popular because it offers speedy delivery to every city in the country.",
+          "zh": "那家網路商店很受歡迎，因為它提供到全國每座城市的快速送貨。"
+        },
+        {
+          "en": "Thank you for your speedy response to my e-mail, which helped us finish the project on time.",
+          "zh": "謝謝您迅速回覆我的電子郵件，幫助我們準時完成專案。"
+        },
+        {
+          "en": "Customers expect a speedy response when they complain, so our team answers every message within an hour.",
+          "zh": "顧客投訴時期待迅速的回應，所以我們團隊會在一小時內回覆每則訊息。"
+        },
+        {
+          "en": "The company promises speedy delivery for all orders placed on the website before noon on weekdays.",
+          "zh": "公司承諾平日中午前在網站上下的所有訂單都會快速送達。"
+        }
+      ],
+      "distractors": [
+        "speedily",
+        "greedy",
+        "seedy"
+      ],
+      "note": "語塊：speedy recovery（早日康復）、speedy delivery（快速送貨）、speedy response（迅速回應）。speedy 是「很快的」；quick、prompt 意思接近；speed 是名詞「速度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-correct",
+      "word": "correct",
+      "pos": "動詞",
+      "meaning": "改正；修正",
+      "sentences": [
+        {
+          "en": "Please correct the mistake in the invoice and send a new copy to the client by Friday.",
+          "zh": "請改正請款單上的錯誤，在週五前寄一份新的給客戶。"
+        },
+        {
+          "en": "The engineers worked all night to correct the problem with the website before the sale began.",
+          "zh": "工程師整晚工作，要在特賣開始前解決網站的問題。"
+        },
+        {
+          "en": "The newspaper will correct the error in tomorrow's edition and apologize to all of its readers.",
+          "zh": "報紙會在明天的版本中修正錯誤，並向所有讀者道歉。"
+        },
+        {
+          "en": "If you find any mistakes in the report, please correct them before you send it to the director.",
+          "zh": "如果你在報告裡發現任何錯誤，請在寄給主任前改正。"
+        },
+        {
+          "en": "The teacher will correct each student's homework and return it at the beginning of the next class.",
+          "zh": "老師會批改每位學生的作業，在下一堂課開始時發還。"
+        }
+      ],
+      "distractors": [
+        "collect",
+        "connect",
+        "direct"
+      ],
+      "note": "語塊：correct a mistake（改正錯誤）、correct the problem（解決問題）、correct an error（修正錯誤）。correct 可以當動詞「改正」或形容詞「正確的」；correction 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-athletic",
+      "word": "athletic",
+      "pos": "形容詞",
+      "meaning": "運動的；體格健壯的",
+      "sentences": [
+        {
+          "en": "The store sells athletic shoes for running, basketball, and tennis at prices up to forty percent off.",
+          "zh": "那家店販售跑步、籃球和網球用的運動鞋，價格最多打六折。"
+        },
+        {
+          "en": "The university offers scholarships to students with strong athletic ability and good grades in every subject.",
+          "zh": "大學提供獎學金給運動能力強、各科成績又好的學生。"
+        },
+        {
+          "en": "Members of the athletic club can use the swimming pool and the gym for free every day.",
+          "zh": "運動俱樂部的會員每天都可以免費使用游泳池和健身房。"
+        },
+        {
+          "en": "The new jacket was designed for athletic people who exercise outdoors even in cold weather.",
+          "zh": "新外套是為即使天冷也在戶外運動的愛運動人士設計的。"
+        },
+        {
+          "en": "Many companies now offer athletic programs such as yoga and running clubs for their employees.",
+          "zh": "現在很多公司為員工提供瑜伽和跑步社等運動活動。"
+        }
+      ],
+      "distractors": [
+        "athlete",
+        "arthritic",
+        "aesthetic"
+      ],
+      "note": "語塊：athletic shoes（運動鞋）、athletic ability（運動能力）、athletic club（運動俱樂部）。athletic 是 athlete（運動員）的形容詞；athletics 是「田徑運動」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-do-business-with",
+      "word": "do business with",
+      "pos": "片語動詞",
+      "meaning": "與……做生意",
+      "sentences": [
+        {
+          "en": "Our company has been happy to do business with your firm for more than ten years.",
+          "zh": "我們公司很高興和貴公司做了十多年的生意。"
+        },
+        {
+          "en": "Many customers today prefer to do business with companies that care about the environment and their workers.",
+          "zh": "現在很多顧客比較喜歡和關心環境及員工的公司做生意。"
+        },
+        {
+          "en": "If the supplier keeps delivering late, we will not continue to do business with them next year.",
+          "zh": "如果供應商持續延遲交貨，我們明年就不會再和他們合作。"
+        },
+        {
+          "en": "It is important to learn about local customs before you do business with people in another country.",
+          "zh": "和其他國家的人做生意之前，了解當地習俗很重要。"
+        },
+        {
+          "en": "The bank wants to do business with more small companies, so it is offering loans at lower rates.",
+          "zh": "那家銀行想和更多小公司做生意，所以提供較低利率的貸款。"
+        }
+      ],
+      "distractors": [
+        "deal with",
+        "work with",
+        "get along with"
+      ],
+      "note": "語塊：do business with a company（和公司做生意）、continue to do business with（繼續和……合作）。do business with 是「和……有生意往來」；business 是「生意；企業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occasion",
+      "word": "occasion",
+      "pos": "名詞",
+      "meaning": "場合；時機",
+      "sentences": [
+        {
+          "en": "Many families choose the restaurant for a special occasion such as a birthday or a wedding anniversary.",
+          "zh": "很多家庭會選那家餐廳慶祝生日或結婚週年等特殊場合。"
+        },
+        {
+          "en": "On this occasion, I would like to thank everyone who helped make the event a great success.",
+          "zh": "在這個場合，我想感謝每位幫忙讓活動圓滿成功的人。"
+        },
+        {
+          "en": "The manager works from home on occasion, but she usually comes to the office every day.",
+          "zh": "經理偶爾會在家工作，但她通常每天都進辦公室。"
+        },
+        {
+          "en": "The hotel offers a special cake and flowers for guests who are celebrating a special occasion.",
+          "zh": "飯店為慶祝特殊場合的客人提供特別蛋糕和鮮花。"
+        },
+        {
+          "en": "Please wear formal clothes, because the dinner is an important occasion for the company and its clients.",
+          "zh": "請穿正式服裝，因為這場晚宴對公司和客戶來說是重要的場合。"
+        }
+      ],
+      "distractors": [
+        "occupation",
+        "location",
+        "invasion"
+      ],
+      "note": "語塊：special occasion（特殊場合）、on this occasion（在這個場合）、on occasion（偶爾）。occasion 是「某個特別的時刻或活動」；occasionally 是副詞「偶爾」；opportunity 是「機會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-showcase",
+      "word": "showcase",
+      "pos": "動詞",
+      "meaning": "展示；展現",
+      "sentences": [
+        {
+          "en": "The company will showcase its new products at the international trade show in Berlin next month.",
+          "zh": "公司下個月將在柏林的國際展覽上展示新產品。"
+        },
+        {
+          "en": "The festival gives young musicians a chance to showcase their talent in front of a large audience.",
+          "zh": "節慶讓年輕音樂家有機會在大批觀眾面前展現才華。"
+        },
+        {
+          "en": "The gallery will showcase paintings by local artists in its main hall during the month of December.",
+          "zh": "畫廊十二月將在大廳展示當地藝術家的畫作。"
+        },
+        {
+          "en": "The new website will showcase our products with photos, short videos, and honest reviews from customers.",
+          "zh": "新網站會用照片、短片和顧客的真實評論來展示我們的產品。"
+        },
+        {
+          "en": "Each student will showcase his or her design at the exhibition at the end of the school year.",
+          "zh": "每位學生都會在學年末的展覽上展示自己的設計。"
+        }
+      ],
+      "distractors": [
+        "showroom",
+        "show off",
+        "bookcase"
+      ],
+      "note": "語塊：showcase products（展示產品）、showcase talent（展現才華）。showcase 可以當動詞或名詞「展示櫃；展示的機會」；display 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-a-budget",
+      "word": "on a budget",
+      "pos": "其他",
+      "meaning": "預算有限；節省地",
+      "sentences": [
+        {
+          "en": "The website gives useful advice for families who want to travel on a budget during the summer holiday.",
+          "zh": "那個網站為暑假想省錢旅行的家庭提供實用的建議。"
+        },
+        {
+          "en": "Many students eat on a budget by cooking at home instead of eating at restaurants every day.",
+          "zh": "很多學生在家煮飯而不是每天上館子，以節省餐費。"
+        },
+        {
+          "en": "The small company must operate on a budget this year, so it cannot hire any new staff until next spring.",
+          "zh": "那家小公司今年必須節省預算，所以明年春天前無法雇用新員工。"
+        },
+        {
+          "en": "The magazine has a section with recipes for people who need to cook on a budget.",
+          "zh": "那本雜誌有一個專欄，提供需要省錢做菜的人食譜。"
+        },
+        {
+          "en": "You can still have a wonderful wedding on a budget if you plan carefully and compare prices.",
+          "zh": "只要仔細規劃、比較價格，即使預算有限也能辦一場很棒的婚禮。"
+        }
+      ],
+      "distractors": [
+        "over budget",
+        "under budget",
+        "on a diet"
+      ],
+      "note": "語塊：travel on a budget（省錢旅行）、eat on a budget（省錢吃飯）、operate on a budget（省著經營）。on a budget 是「錢有限、要省著花」；budget 是「預算」；cheap 是「便宜的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shine",
+      "word": "shine",
+      "pos": "動詞",
+      "meaning": "發光；照耀；表現出色",
+      "sentences": [
+        {
+          "en": "The sun will shine all weekend, so it is a perfect time to visit the beach or go hiking.",
+          "zh": "整個週末都會出太陽，所以是去海邊或健行的好時機。"
+        },
+        {
+          "en": "The new lights in the lobby shine brightly, so the hotel looks warm and welcoming at night.",
+          "zh": "大廳的新燈非常明亮，所以飯店晚上看起來溫暖又親切。"
+        },
+        {
+          "en": "Ms. Park will shine at the presentation tomorrow, because she always prepares carefully and speaks clearly.",
+          "zh": "朴小姐明天的簡報會表現很出色，因為她總是準備周到又說得清楚。"
+        },
+        {
+          "en": "Please clean the windows until they shine, because the clients will visit the office tomorrow.",
+          "zh": "請把窗戶擦得亮晶晶，因為客戶明天會來辦公室。"
+        },
+        {
+          "en": "The young designer had a chance to shine when her work was chosen for the international exhibition.",
+          "zh": "那位年輕設計師的作品被選入國際展覽時，她有了發光發熱的機會。"
+        }
+      ],
+      "distractors": [
+        "shrine",
+        "shin",
+        "spine"
+      ],
+      "note": "語塊：shine brightly（閃閃發光）、the sun shines（陽光照耀）、shine at（在……方面表現出色）。shine 是「發出光；表現很好」；shiny 是形容詞「閃亮的」；shine 的過去式是 shone 或 shined。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-command",
+      "word": "command",
+      "pos": "名詞",
+      "meaning": "掌握；指令；指揮",
+      "sentences": [
+        {
+          "en": "Applicants must have a good command of English, because they will work with clients from many countries.",
+          "zh": "應徵者必須精通英文，因為他們要和很多國家的客戶合作。"
+        },
+        {
+          "en": "The new phone can understand a voice command, so you can make calls without touching the screen.",
+          "zh": "新手機能聽懂語音指令，所以你不用碰螢幕就能打電話。"
+        },
+        {
+          "en": "The ship sailed across the ocean under the command of an experienced captain from Norway.",
+          "zh": "那艘船在一位來自挪威、經驗豐富的船長指揮下橫渡大洋。"
+        },
+        {
+          "en": "Ms. Lin has an excellent command of three languages, so she often helps international guests at the hotel.",
+          "zh": "林小姐精通三種語言，所以常常在飯店協助國際客人。"
+        },
+        {
+          "en": "The computer will follow every command that you type into the box at the top of the screen.",
+          "zh": "電腦會執行你在螢幕上方欄位輸入的每一個指令。"
+        }
+      ],
+      "distractors": [
+        "comment",
+        "commend",
+        "demand"
+      ],
+      "note": "語塊：have a good command of（精通……）、under the command of（在……指揮下）、voice command（語音指令）。command of a language 是「對語言的掌握能力」；command 也可以當動詞「命令；俯瞰」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-turn-out",
+      "word": "turn out",
+      "pos": "片語動詞",
+      "meaning": "結果是；出席",
+      "sentences": [
+        {
+          "en": "The new restaurant may turn out to be very popular, because it is already fully booked every weekend.",
+          "zh": "新餐廳可能會非常受歡迎，因為它現在每個週末都已經客滿。"
+        },
+        {
+          "en": "I was worried about the presentation, but everything will turn out well if we prepare carefully.",
+          "zh": "我很擔心簡報，但只要我們仔細準備，一切都會順利。"
+        },
+        {
+          "en": "More than five thousand fans are expected to turn out for the concert in the park on Saturday.",
+          "zh": "預計週六將有五千多名歌迷出席公園的演唱會。"
+        },
+        {
+          "en": "The problem with the machine may turn out to be a small broken part that is easy to replace.",
+          "zh": "機器的問題最後可能只是一個很容易更換的小零件壞了。"
+        },
+        {
+          "en": "It may turn out that the cheaper supplier is not as dependable as the one we use now.",
+          "zh": "結果可能會是比較便宜的供應商不如我們現在用的那家可靠。"
+        }
+      ],
+      "distractors": [
+        "turn off",
+        "turn over",
+        "turn up"
+      ],
+      "note": "語塊：turn out to be（結果是……）、turn out well（結果很好）、turn out for（出席……）。turn out 是「最後結果變成……」或「人出來參加」；turnout 是名詞「出席人數」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-put-to-use",
+      "word": "put to use",
+      "pos": "片語動詞",
+      "meaning": "加以利用；派上用場",
+      "sentences": [
+        {
+          "en": "The company will put to use the old warehouse by turning it into a training center for new employees.",
+          "zh": "公司會利用舊倉庫，把它改成新員工的訓練中心。"
+        },
+        {
+          "en": "The school will put to use the money from the fundraiser by buying new books for the library.",
+          "zh": "學校會好好利用募款活動的錢，為圖書館買新書。"
+        },
+        {
+          "en": "The internship gives students a chance to put to use the skills they learned at university.",
+          "zh": "實習讓學生有機會運用在大學學到的技能。"
+        },
+        {
+          "en": "We hope to put to use every idea that employees suggested at the meeting last month.",
+          "zh": "我們希望運用員工在上個月會議上提出的每一個點子。"
+        },
+        {
+          "en": "The city plans to put to use the empty land near the river by building a new park for families.",
+          "zh": "市政府計畫在河邊空地蓋一座新的家庭公園，好好利用那塊地。"
+        }
+      ],
+      "distractors": [
+        "put to bed",
+        "put to sleep",
+        "put to the test"
+      ],
+      "note": "語塊：put to use the skills（運用技能）、put to use the money（利用這筆錢）、put to use the old warehouse（利用舊倉庫）、put to use every idea（運用每個點子）、put to use the empty land（利用空地）。put sth to use 是「讓某物發揮用途」；make use of 意思接近；useful 是「有用的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legacy",
+      "word": "legacy",
+      "pos": "名詞",
+      "meaning": "遺產；留給後世的東西",
+      "sentences": [
+        {
+          "en": "The founder left a lasting legacy, because the company he started now employs more than ten thousand people.",
+          "zh": "創辦人留下了持久的影響，因為他創立的公司現在雇用了一萬多人。"
+        },
+        {
+          "en": "The new hospital will be the mayor's legacy to the city after she retires next year.",
+          "zh": "新醫院將是市長明年退休後留給城市的遺產。"
+        },
+        {
+          "en": "The famous architect left a legacy of beautiful buildings that tourists from around the world still visit today.",
+          "zh": "那位知名建築師留下了許多美麗的建築，世界各地的觀光客至今仍會造訪。"
+        },
+        {
+          "en": "Many business leaders want to leave a legacy by helping young people start their own companies.",
+          "zh": "很多企業領袖想藉由幫助年輕人創業來留下影響。"
+        },
+        {
+          "en": "The museum tells the story of the factory's legacy and how it helped the town grow.",
+          "zh": "博物館講述工廠留下的遺產，以及它如何幫助小鎮發展。"
+        }
+      ],
+      "distractors": [
+        "legend",
+        "legal",
+        "delegacy"
+      ],
+      "note": "語塊：leave a legacy（留下遺產）、lasting legacy（持久的影響）、legacy of（……的遺產）。legacy 是「前人留下來的東西或影響」；heritage 是「文化遺產」；inheritance 是「繼承的財產」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-come-to-an-end",
+      "word": "come to an end",
+      "pos": "片語動詞",
+      "meaning": "結束",
+      "sentences": [
+        {
+          "en": "The holiday sale will come to an end on Sunday, so please visit the store before then.",
+          "zh": "假期特賣將在週日結束，所以請在那之前來店裡。"
+        },
+        {
+          "en": "When the construction work is expected to come to an end next month, the road will be much wider and safer.",
+          "zh": "預計下個月施工結束時，道路會寬很多也安全很多。"
+        },
+        {
+          "en": "All good things must come to an end, and the popular television show will finish next year.",
+          "zh": "天下沒有不散的筵席，那個熱門電視節目明年將完結。"
+        },
+        {
+          "en": "The contract with the cleaning company will come to an end in March, so we need to find a new one.",
+          "zh": "和清潔公司的合約將在三月結束，所以我們需要找新的公司。"
+        },
+        {
+          "en": "The long meeting did not come to an end until nine o'clock, so many people missed their trains.",
+          "zh": "冗長的會議直到九點才結束，所以很多人錯過了火車。"
+        }
+      ],
+      "distractors": [
+        "come to a stop",
+        "come to terms with",
+        "come to a decision"
+      ],
+      "note": "語塊：come to an end on（在……結束）、will come to an end（將會結束）、must come to an end（必定會結束）、did not come to an end（沒有結束）。come to an end 是「結束了」；end 是動詞「結束」；finish 是「完成」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mayor",
+      "word": "mayor",
+      "pos": "名詞",
+      "meaning": "市長",
+      "sentences": [
+        {
+          "en": "The mayor will give a speech at the opening ceremony of the new library on Saturday morning.",
+          "zh": "市長週六早上會在新圖書館的開幕典禮上致詞。"
+        },
+        {
+          "en": "The mayor of the city promised to build more affordable housing for young families near the train station.",
+          "zh": "市長承諾在火車站附近為年輕家庭興建更多平價住宅。"
+        },
+        {
+          "en": "Residents will elect a new mayor next month, and the two main candidates have very different plans.",
+          "zh": "居民下個月將選出新市長，兩位主要候選人的計畫非常不同。"
+        },
+        {
+          "en": "Many business owners met with the mayor to discuss the problem of high rents in the city center.",
+          "zh": "很多企業主和市長見面，討論市中心房租高漲的問題。"
+        },
+        {
+          "en": "The mayor announced that the city will plant ten thousand new trees over the next five years.",
+          "zh": "市長宣布市政府將在未來五年種一萬棵新樹。"
+        }
+      ],
+      "distractors": [
+        "major",
+        "manor",
+        "mayo"
+      ],
+      "note": "語塊：the mayor of（……的市長）、elect a mayor（選出市長）。mayor 是城市的首長；governor 是州長；major 是「主要的」，發音很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recognition",
+      "word": "recognition",
+      "pos": "名詞",
+      "meaning": "認可；表揚；辨識",
+      "sentences": [
+        {
+          "en": "Ms. Park received an award in recognition of her outstanding work on the new hospital project.",
+          "zh": "朴小姐因在新醫院專案的傑出工作獲頒獎項以示表揚。"
+        },
+        {
+          "en": "The small restaurant received national recognition after it was featured in a popular food magazine.",
+          "zh": "那家小餐廳被一本熱門美食雜誌報導後，獲得全國認可。"
+        },
+        {
+          "en": "The new phone uses face recognition, so you can unlock it simply by looking at the screen.",
+          "zh": "新手機使用臉部辨識，只要看著螢幕就能解鎖。"
+        },
+        {
+          "en": "The company gives a bonus to employees in recognition of their hard work during the busy season.",
+          "zh": "公司為表揚員工在旺季的辛勤工作而發獎金。"
+        },
+        {
+          "en": "The young designer has received recognition from several famous brands for her creative ideas and designs.",
+          "zh": "那位年輕設計師的創意和設計獲得好幾個知名品牌的認可。"
+        }
+      ],
+      "distractors": [
+        "reconciliation",
+        "recollection",
+        "recommendation"
+      ],
+      "note": "語塊：in recognition of（為表揚……）、receive recognition（獲得認可）、face recognition（臉部辨識）。recognition 是 recognize（認出；認可）的名詞；award 是「獎項」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dimension",
+      "word": "dimension",
+      "pos": "名詞",
+      "meaning": "尺寸；面向",
+      "sentences": [
+        {
+          "en": "Please check the dimension of each box before you order, because some may not fit in the truck.",
+          "zh": "訂購前請檢查每個箱子的尺寸，因為有些可能放不進卡車。"
+        },
+        {
+          "en": "The website lists the height, width, and depth of every sofa, so customers know the exact dimension.",
+          "zh": "網站列出每張沙發的高、寬、深，讓顧客知道確切尺寸。"
+        },
+        {
+          "en": "The new technology adds a new dimension to online shopping, because customers can see products in 3D.",
+          "zh": "新科技為網購增加了新的面向，因為顧客可以看到 3D 立體的產品。"
+        },
+        {
+          "en": "The designer measured every dimension of the room before she chose the furniture and the curtains.",
+          "zh": "設計師在挑選家具和窗簾前，量了房間的每個尺寸。"
+        },
+        {
+          "en": "Social media has added a new dimension to how companies communicate with their customers every day.",
+          "zh": "社群媒體為公司每天和顧客溝通的方式增添了新的面向。"
+        }
+      ],
+      "distractors": [
+        "division",
+        "direction",
+        "mention"
+      ],
+      "note": "語塊：dimensions of（……的尺寸）、new dimension（新面向）。dimension 常用複數 dimensions 指「長寬高尺寸」；size 是「大小」；aspect 是「方面」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-custom",
+      "word": "custom",
+      "pos": "名詞",
+      "meaning": "習俗；慣例",
+      "sentences": [
+        {
+          "en": "It is a local custom to give small gifts to neighbors during the new year holiday.",
+          "zh": "新年假期送小禮物給鄰居是當地的習俗。"
+        },
+        {
+          "en": "Before you visit a client in another country, it is helpful to learn about their traditional custom.",
+          "zh": "拜訪其他國家的客戶之前，先了解他們的傳統習俗很有幫助。"
+        },
+        {
+          "en": "In this company, it is the custom to celebrate each employee's birthday with a cake at lunch.",
+          "zh": "在這家公司，按慣例會在午餐時用蛋糕慶祝每位員工的生日。"
+        },
+        {
+          "en": "The tour guide explained an interesting local custom about eating rice cakes during the festival.",
+          "zh": "導遊解說了一個關於節慶期間吃年糕的有趣當地習俗。"
+        },
+        {
+          "en": "The hotel staff follow the local custom of greeting guests with a cup of hot tea when they arrive.",
+          "zh": "飯店員工依照當地習俗，在客人抵達時奉上一杯熱茶迎接。"
+        }
+      ],
+      "distractors": [
+        "costume",
+        "customer",
+        "customs"
+      ],
+      "note": "語塊：local custom（當地習俗）、traditional custom（傳統習俗）、it is the custom to（按慣例……）。custom 單數是「習俗」；customs（加 s）是「海關」；customer 是「顧客」；custom-made 是「訂製的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-removal",
+      "word": "removal",
+      "pos": "名詞",
+      "meaning": "移除；清除；搬遷",
+      "sentences": [
+        {
+          "en": "The city spends a lot of money on snow removal every winter so that the roads stay safe.",
+          "zh": "市政府每年冬天花很多錢除雪，讓道路保持安全。"
+        },
+        {
+          "en": "The company pays a special contractor for the removal of waste from the factory every week.",
+          "zh": "公司每週付錢請專門的承包商清運工廠的廢棄物。"
+        },
+        {
+          "en": "The removal of the old trees will make room for a new parking lot near the shopping center.",
+          "zh": "移除那些老樹將為購物中心附近的新停車場騰出空間。"
+        },
+        {
+          "en": "Please contact the management office to arrange the removal of large furniture from your apartment.",
+          "zh": "請聯絡管理處，安排搬走你公寓裡的大型家具。"
+        },
+        {
+          "en": "The price of the new air conditioner includes the removal of your old one at no extra cost.",
+          "zh": "新冷氣的價格包含免費幫你拆除舊冷氣。"
+        }
+      ],
+      "distractors": [
+        "renewal",
+        "revival",
+        "refusal"
+      ],
+      "note": "語塊：snow removal（除雪）、waste removal（廢棄物清運）、removal of（……的移除）。removal 是 remove（移除）的名詞；removable 是「可拆卸的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-incorrectly",
+      "word": "incorrectly",
+      "pos": "副詞",
+      "meaning": "錯誤地；不正確地",
+      "sentences": [
+        {
+          "en": "Several customers were incorrectly charged twice for their orders, so the store will refund the extra money.",
+          "zh": "好幾位顧客的訂單被重複收費，所以店家會退還多收的錢。"
+        },
+        {
+          "en": "The name of the company was incorrectly spelled on the sign, so it had to be printed again.",
+          "zh": "招牌上公司的名字拼錯了，所以必須重新印製。"
+        },
+        {
+          "en": "Some of the boxes were incorrectly labeled, so they were sent to the wrong warehouse last week.",
+          "zh": "有些箱子標示錯誤，所以上週被送到錯的倉庫。"
+        },
+        {
+          "en": "If you fill out the form incorrectly, your application may be delayed for several weeks.",
+          "zh": "如果你表格填錯，申請可能會延遲好幾週。"
+        },
+        {
+          "en": "The machine stopped working because it was installed incorrectly by the previous technician last month.",
+          "zh": "機器停止運作，是因為上個月之前的技術人員安裝錯誤。"
+        }
+      ],
+      "distractors": [
+        "correctly",
+        "indirectly",
+        "incredibly"
+      ],
+      "note": "語塊：incorrectly spelled（拼錯）、incorrectly labeled（標示錯誤）、incorrectly charged（被誤收費）。incorrectly 是 incorrect（不正確的）的副詞；wrongly 意思接近；correctly 是相反詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-settle-on",
+      "word": "settle on",
+      "pos": "片語動詞",
+      "meaning": "決定；選定",
+      "sentences": [
+        {
+          "en": "After a long discussion, the team will settle on a date for the company trip next week.",
+          "zh": "經過長時間討論，團隊下週會決定公司旅遊的日期。"
+        },
+        {
+          "en": "It took the owners three months to settle on a name for their new restaurant.",
+          "zh": "老闆們花了三個月才為新餐廳選定名字。"
+        },
+        {
+          "en": "We need to settle on a design for the new logo before the end of the month.",
+          "zh": "我們需要在月底前決定新標誌的設計。"
+        },
+        {
+          "en": "After visiting five apartments, the family finally decided to settle on the one near the school.",
+          "zh": "看了五間公寓後，那家人最後選定學校附近那一間。"
+        },
+        {
+          "en": "The committee could not settle on a location for the conference, so they will vote again on Friday.",
+          "zh": "委員會無法決定研討會地點，所以週五會再投票。"
+        }
+      ],
+      "distractors": [
+        "settle down",
+        "settle in",
+        "settle up"
+      ],
+      "note": "語塊：settle on a date（決定日期）、settle on a name（決定名字）、finally settle on（最後選定）。settle on 是「經過考慮後選定」；decide on 意思接近；settle down 是「安頓下來」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
