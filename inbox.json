@@ -62003,6 +62003,706 @@
       ],
       "note": "語塊：letter of intent（意向書）、with the intent of（為了……）、intent to（意圖……）。intent 是較正式的「意圖」；intention 意思一樣，較常用；intend 是動詞「打算」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deliver-a-speech",
+      "word": "deliver a speech",
+      "pos": "其他",
+      "meaning": "發表演說",
+      "sentences": [
+        {
+          "en": "The CEO will deliver a speech at the annual meeting about the company's plans for the next five years.",
+          "zh": "執行長將在年會上發表演說，談公司未來五年的計畫。"
+        },
+        {
+          "en": "Ms. Ahmed was invited to deliver a speech on women in business at the international conference in Seoul.",
+          "zh": "阿哈邁德小姐受邀在首爾的國際研討會上就女性與商業發表演說。"
+        },
+        {
+          "en": "Before you deliver a speech, it is a good idea to practice in front of a few colleagues.",
+          "zh": "發表演說之前，先在幾位同事面前練習是個好主意。"
+        },
+        {
+          "en": "The mayor will deliver a speech at the opening ceremony of the new library next Saturday morning.",
+          "zh": "市長下週六早上會在新圖書館的開幕典禮上發表演說。"
+        },
+        {
+          "en": "Every graduate was nervous when the famous writer began to deliver a speech at the ceremony.",
+          "zh": "那位知名作家開始在典禮上發表演說時，每位畢業生都很緊張。"
+        }
+      ],
+      "distractors": [
+        "deliver a package",
+        "deliver a baby",
+        "deliver a message"
+      ],
+      "note": "語塊：deliver a speech at（在……發表演說）、deliver a speech on（就……發表演說）。deliver a speech 等於 give a speech / make a speech；deliver 也有「遞送」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commerce",
+      "word": "commerce",
+      "pos": "名詞",
+      "meaning": "商業；貿易",
+      "sentences": [
+        {
+          "en": "The growth of commerce online has changed the way many people buy clothes, books, and food.",
+          "zh": "網路商業的成長改變了很多人買衣服、書和食物的方式。"
+        },
+        {
+          "en": "The local chamber of commerce holds a monthly meeting where business owners can share ideas.",
+          "zh": "當地商會每個月都會開會，讓企業主分享想法。"
+        },
+        {
+          "en": "Ms. Lin studied international commerce at university and now works for a large trading company.",
+          "zh": "林小姐大學念國際貿易，現在在一家大型貿易公司工作。"
+        },
+        {
+          "en": "The city's chamber of commerce is organizing a job fair for young people next month.",
+          "zh": "市商會下個月要為年輕人舉辦就業博覽會。"
+        },
+        {
+          "en": "Many small shops have started selling online because commerce is moving quickly from stores to the internet.",
+          "zh": "很多小店開始在網路上賣東西，因為商業正快速從實體店轉移到網路。"
+        }
+      ],
+      "distractors": [
+        "comment",
+        "commence",
+        "compass"
+      ],
+      "note": "語塊：e-commerce（電子商務）、chamber of commerce（商會）、international commerce（國際貿易）。commerce 是不可數名詞；commercial 是形容詞「商業的」或名詞「廣告」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-select",
+      "word": "select",
+      "pos": "動詞",
+      "meaning": "挑選；選擇",
+      "sentences": [
+        {
+          "en": "Customers can select from more than fifty colors when they order a new sofa from our website.",
+          "zh": "顧客在我們網站訂新沙發時，可以從五十多種顏色中挑選。"
+        },
+        {
+          "en": "The chef will carefully select fresh vegetables from local farms every morning for the restaurant.",
+          "zh": "主廚每天早上會為餐廳從當地農場精心挑選新鮮蔬菜。"
+        },
+        {
+          "en": "The committee will select three designs from the hundreds of entries it received for the competition.",
+          "zh": "委員會會從收到的數百件參賽作品中挑出三件設計。"
+        },
+        {
+          "en": "Please select the size and color of the shirt before you click the button to place your order.",
+          "zh": "按下單按鈕之前，請先選擇襯衫的尺寸和顏色。"
+        },
+        {
+          "en": "Only a few employees will be able to select from the new projects, so please submit your request early.",
+          "zh": "只有少數員工能挑選新專案，所以請盡早提出申請。"
+        }
+      ],
+      "distractors": [
+        "elect",
+        "reject",
+        "collect"
+      ],
+      "note": "語塊：select from（從……中挑選）、carefully select（精心挑選）、be selected for（被選為……）。select 比 choose 正式；selection 是名詞「選擇；精選」；selective 是「有選擇性的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outlay",
+      "word": "outlay",
+      "pos": "名詞",
+      "meaning": "支出；開銷",
+      "sentences": [
+        {
+          "en": "The initial outlay for the new machines was high, but they will save the company money in the long term.",
+          "zh": "新機器的初期投入很高，但長期來說會幫公司省錢。"
+        },
+        {
+          "en": "The board approved a capital outlay of two million dollars to build a new warehouse near the port.",
+          "zh": "董事會核准兩百萬元的資本支出，在港口附近蓋新倉庫。"
+        },
+        {
+          "en": "The company's outlay on advertising increased by twenty percent this year because of the new product launch.",
+          "zh": "因為新產品上市，公司今年在廣告上的支出增加了兩成。"
+        },
+        {
+          "en": "Opening a small café requires an initial outlay of about fifty thousand dollars for equipment and furniture.",
+          "zh": "開一家小咖啡廳需要約五萬元的初期投入，用來買設備和家具。"
+        },
+        {
+          "en": "Solar panels need a large initial outlay, but they can reduce electricity bills for many years.",
+          "zh": "太陽能板需要很大的初期投入，但可以降低很多年的電費。"
+        }
+      ],
+      "distractors": [
+        "outlet",
+        "outline",
+        "layout"
+      ],
+      "note": "語塊：initial outlay（初期投入）、capital outlay（資本支出）、outlay on（在……上的支出）。outlay 是「為某事花出去的錢」；expenditure 意思接近；outlet 是「暢貨中心；插座」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-financial-backing",
+      "word": "financial backing",
+      "pos": "名詞",
+      "meaning": "財務支持；資金後援",
+      "sentences": [
+        {
+          "en": "The start-up received financial backing from several investors who strongly believe in its new battery technology.",
+          "zh": "那家新創公司獲得幾位非常看好其新電池技術的投資人提供資金支持。"
+        },
+        {
+          "en": "Without financial backing from the city, the museum would not be able to stay open.",
+          "zh": "沒有市政府的財務支持，博物館就無法繼續營業。"
+        },
+        {
+          "en": "The film was made with financial backing from a large company that wanted to promote tourism.",
+          "zh": "那部電影是在一家想推廣觀光的大公司資金後援下拍成的。"
+        },
+        {
+          "en": "Mr. Kim is looking for financial backing to open a second restaurant in the city center next year.",
+          "zh": "金先生在尋找資金支持，打算明年在市中心開第二家餐廳。"
+        },
+        {
+          "en": "The project will start as soon as we receive financial backing from the government and the bank.",
+          "zh": "一拿到政府和銀行的財務支持，專案就會開始。"
+        }
+      ],
+      "distractors": [
+        "financial planning",
+        "financial year",
+        "moral support"
+      ],
+      "note": "語塊：receive financial backing（獲得資金支持）、financial backing from（來自……的資金後援）。backing 是「支持」；financial support 意思接近；backer 是「贊助者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disability",
+      "word": "disability",
+      "pos": "名詞",
+      "meaning": "身心障礙；殘疾",
+      "sentences": [
+        {
+          "en": "The new building has ramps and wide doors, so it is easy to use for every person with a disability.",
+          "zh": "新大樓有斜坡和寬門，讓每位身心障礙者都方便使用。"
+        },
+        {
+          "en": "The company is committed to hiring people with a disability and providing the support they need.",
+          "zh": "公司致力於雇用身心障礙者，並提供他們需要的支援。"
+        },
+        {
+          "en": "Ms. Lee has a physical disability, but she travels around the world for her job every month.",
+          "zh": "李小姐有肢體障礙，但她每個月都為工作環遊世界。"
+        },
+        {
+          "en": "Workers who cannot do their job because of a disability may receive monthly support from the government.",
+          "zh": "因身心障礙而無法工作的人，可能每個月獲得政府的補助。"
+        },
+        {
+          "en": "The theater offers special seats and free tickets for one companion of each guest with a disability.",
+          "zh": "劇院為每位身心障礙觀眾提供特別座位，並給一位陪同者免費門票。"
+        }
+      ],
+      "distractors": [
+        "ability",
+        "disparity",
+        "liability"
+      ],
+      "note": "語塊：people with a disability（身心障礙者）、person with a disability（身心障礙人士）、physical disability（肢體障礙）、because of a disability（因身心障礙）。disability 是名詞；disabled 是形容詞；accessible 是「無障礙的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entrance",
+      "word": "entrance",
+      "pos": "名詞",
+      "meaning": "入口；進入",
+      "sentences": [
+        {
+          "en": "Please meet me at the main entrance of the building at nine o'clock tomorrow morning.",
+          "zh": "請明天早上九點在大樓正門和我見面。"
+        },
+        {
+          "en": "The entrance fee for the museum is ten dollars, but children under six can enter for free.",
+          "zh": "博物館的入場費是十元，但六歲以下兒童可以免費入場。"
+        },
+        {
+          "en": "Students must pass an entrance exam in math and English before they can join the program.",
+          "zh": "學生必須通過數學和英文的入學考試，才能加入這個學程。"
+        },
+        {
+          "en": "The main entrance will be closed for repairs next week, so please use the side door near the parking lot.",
+          "zh": "正門下週會因維修關閉，所以請使用停車場附近的側門。"
+        },
+        {
+          "en": "The entrance fee includes a guided tour and a free drink at the café on the top floor.",
+          "zh": "入場費包含導覽和頂樓咖啡廳的一杯免費飲料。"
+        }
+      ],
+      "distractors": [
+        "endurance",
+        "entrant",
+        "instance"
+      ],
+      "note": "語塊：main entrance（正門）、entrance fee（入場費）、entrance exam（入學考試）。entrance 是「入口」或「進入」；entry 意思接近；exit 是「出口」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enable",
+      "word": "enable",
+      "pos": "動詞",
+      "meaning": "使能夠；讓……可以",
+      "sentences": [
+        {
+          "en": "The new software will enable employees to work from home as easily as they do in the office.",
+          "zh": "新軟體讓員工在家工作和在辦公室一樣方便。"
+        },
+        {
+          "en": "The loan from the bank will enable the company to buy new machinery and hire more workers.",
+          "zh": "銀行的貸款讓公司能夠購買新機械並雇用更多員工。"
+        },
+        {
+          "en": "Please enable access to your location so that the app can show you the nearest store.",
+          "zh": "請開放位置存取權限，讓 App 顯示離你最近的店。"
+        },
+        {
+          "en": "The scholarship will enable students from poor families to study at the best universities in the country.",
+          "zh": "獎學金讓貧困家庭的學生能就讀全國最好的大學。"
+        },
+        {
+          "en": "The new subway line will enable residents in the suburbs to reach downtown in under thirty minutes.",
+          "zh": "新地鐵線讓郊區居民能在三十分鐘內到達市中心。"
+        }
+      ],
+      "distractors": [
+        "unable",
+        "disable",
+        "enroll"
+      ],
+      "note": "語塊：enable sb to do（使某人能夠……）、enable access（開放存取）。enable sb to do 一定接 to + 原形動詞；able 是形容詞「能夠的」；disable 是「使無法運作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quote",
+      "word": "quote",
+      "pos": "名詞",
+      "meaning": "報價；引言",
+      "sentences": [
+        {
+          "en": "Please send us a price quote for five hundred chairs, including the cost of delivery to our office.",
+          "zh": "請寄給我們五百張椅子的報價，包括送到我們辦公室的運費。"
+        },
+        {
+          "en": "Before you choose a contractor, you should get a quote from at least three different companies.",
+          "zh": "選擇承包商之前，你應該至少向三家不同的公司取得報價。"
+        },
+        {
+          "en": "The technician will look at the air conditioner and give a quote for the repair this afternoon.",
+          "zh": "技術人員今天下午會檢查冷氣，然後提供維修報價。"
+        },
+        {
+          "en": "The price quote is valid for thirty days, after which the cost of the materials may change.",
+          "zh": "報價有效期是三十天，之後材料成本可能會改變。"
+        },
+        {
+          "en": "Customers can get a quote for car insurance online in less than five minutes on our website.",
+          "zh": "顧客在我們網站上不到五分鐘就能取得車險的報價。"
+        }
+      ],
+      "distractors": [
+        "quota",
+        "vote",
+        "quite"
+      ],
+      "note": "語塊：price quote（報價）、get a quote（取得報價）、give a quote（提供報價）。quote 可以當名詞「報價」或動詞「報價；引用」；quotation 是比較正式的「報價單；引文」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cover",
+      "word": "cover",
+      "pos": "動詞",
+      "meaning": "支付；涵蓋；代班",
+      "sentences": [
+        {
+          "en": "The company will cover the cost of the training course for any employee who wants to learn English.",
+          "zh": "公司會為任何想學英文的員工支付訓練課程的費用。"
+        },
+        {
+          "en": "Could you cover a shift for me on Saturday morning, because I need to attend my sister's wedding?",
+          "zh": "你週六早上可以幫我代班嗎？因為我要參加姐姐的婚禮。"
+        },
+        {
+          "en": "The workshop will cover a topic that many small business owners find difficult: managing cash flow.",
+          "zh": "工作坊會涵蓋很多小企業主覺得困難的主題：現金流管理。"
+        },
+        {
+          "en": "Our insurance plan will cover the cost of repairs if your phone is damaged within the first year.",
+          "zh": "如果你的手機在第一年內損壞，我們的保險方案會支付維修費用。"
+        },
+        {
+          "en": "The reporter was sent to cover the opening of the new airport for the evening news program.",
+          "zh": "那位記者被派去報導新機場開幕，供晚間新聞播出。"
+        }
+      ],
+      "distractors": [
+        "cower",
+        "clover",
+        "hover"
+      ],
+      "note": "語塊：cover the cost（支付費用）、cover a shift（代班）、cover a topic（涵蓋主題）。cover 有很多意思：「蓋住」、「支付」、「涵蓋」、「代班」、「報導」；coverage 是名詞「涵蓋範圍；報導」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-savings",
+      "word": "savings",
+      "pos": "名詞",
+      "meaning": "存款；節省下來的錢",
+      "sentences": [
+        {
+          "en": "Ms. Kim opened a savings account at the bank so that she could save money for a trip to Europe.",
+          "zh": "金小姐在銀行開了一個儲蓄帳戶，為歐洲之旅存錢。"
+        },
+        {
+          "en": "The new machines will bring cost savings of about fifty thousand dollars a year for the factory.",
+          "zh": "新機器每年會為工廠節省約五萬元的成本。"
+        },
+        {
+          "en": "Mr. Hall used his life savings to open a small hotel near the beach after he retired.",
+          "zh": "霍爾先生退休後用畢生積蓄在海邊開了一家小旅館。"
+        },
+        {
+          "en": "Customers who open a savings account this month will receive a higher interest rate for one year.",
+          "zh": "這個月開儲蓄帳戶的顧客一年內可以享有較高的利率。"
+        },
+        {
+          "en": "Switching to online meetings has created large cost savings because fewer employees need to travel.",
+          "zh": "改成線上會議帶來很大的成本節省，因為需要出差的員工變少了。"
+        }
+      ],
+      "distractors": [
+        "earnings",
+        "sayings",
+        "settings"
+      ],
+      "note": "語塊：savings account（儲蓄帳戶）、cost savings（成本節省）、life savings（畢生積蓄）。savings 常用複數；save 是動詞「節省；存錢」；saving 單數也可指「節省的部分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-matching",
+      "word": "matching",
+      "pos": "形容詞",
+      "meaning": "相配的；成套的",
+      "sentences": [
+        {
+          "en": "The store sells a matching set of plates, bowls, and cups that is perfect as a wedding gift.",
+          "zh": "那家店賣一套成套的盤子、碗和杯子，非常適合當結婚禮物。"
+        },
+        {
+          "en": "The company will provide matching funds, so every dollar that employees donate will be doubled.",
+          "zh": "公司會提供配合款，所以員工每捐一元都會變成兩元。"
+        },
+        {
+          "en": "The designer chose matching colors for the curtains and the sofa to make the room look larger.",
+          "zh": "設計師為窗簾和沙發選了相配的顏色，讓房間看起來更大。"
+        },
+        {
+          "en": "Each member of the team received a matching jacket with the company's name printed on the back.",
+          "zh": "每位組員都拿到一件背後印有公司名稱的相同夾克。"
+        },
+        {
+          "en": "For every donation to the hospital this month, a local bank will give matching funds up to one million dollars.",
+          "zh": "這個月每一筆捐給醫院的款項，一家當地銀行都會提供配合款，最高一百萬元。"
+        }
+      ],
+      "distractors": [
+        "marching",
+        "watching",
+        "patching"
+      ],
+      "note": "語塊：matching set（成套）、matching funds（配合款）、matching colors（相配的顏色）。matching 是「搭配、互相配合的」；match 是動詞「相配」或名詞「比賽；火柴」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-round-out",
+      "word": "round out",
+      "pos": "片語動詞",
+      "meaning": "使完整；完成",
+      "sentences": [
+        {
+          "en": "The tour will round out the day with a traditional dinner at a famous restaurant near the river.",
+          "zh": "行程會以河邊一家知名餐廳的傳統晚餐為一天畫下句點。"
+        },
+        {
+          "en": "The company hired two new engineers to round out the team before the project begins next month.",
+          "zh": "公司雇用了兩位新工程師，在下個月專案開始前補齊團隊。"
+        },
+        {
+          "en": "The chef added three vegetarian dishes to round out the menu for guests who do not eat meat.",
+          "zh": "主廚加了三道素食菜色，讓菜單對不吃肉的客人更完整。"
+        },
+        {
+          "en": "A short question-and-answer session with all of the speakers will round out the conference on Friday afternoon.",
+          "zh": "週五下午和所有講者進行的簡短問答時間，會為研討會畫下句點。"
+        },
+        {
+          "en": "Free coffee and dessert will round out the meal for every guest at the anniversary dinner.",
+          "zh": "免費的咖啡和甜點會為週年晚宴每位客人的餐點畫下完美句點。"
+        }
+      ],
+      "distractors": [
+        "round up",
+        "rule out",
+        "run out"
+      ],
+      "note": "語塊：round out the day（為一天畫下句點）、round out the team（補齊團隊）、round out the menu（使菜單更完整）。round out 是「補上最後一部分，讓整體完整」；complete 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-china",
+      "word": "china",
+      "pos": "名詞",
+      "meaning": "瓷器",
+      "sentences": [
+        {
+          "en": "The hotel restaurant serves dinner on fine china, which makes the meal feel very special.",
+          "zh": "飯店餐廳用精緻瓷器上晚餐，讓這頓飯感覺很特別。"
+        },
+        {
+          "en": "My grandmother gave me a china set with blue flowers that she received at her own wedding.",
+          "zh": "祖母給了我一組藍花瓷器，那是她自己結婚時收到的。"
+        },
+        {
+          "en": "Please wrap the china carefully in thick paper before you put it into the moving boxes.",
+          "zh": "把瓷器放進搬家箱之前，請用厚紙仔細包好。"
+        },
+        {
+          "en": "The china cabinet in the dining room displays plates and cups that are more than a hundred years old.",
+          "zh": "餐廳的瓷器櫃展示著超過一百年的盤子和杯子。"
+        },
+        {
+          "en": "The department store is having a sale on fine china, with prices up to forty percent off this weekend.",
+          "zh": "百貨公司這週末精緻瓷器特賣，最多打六折。"
+        }
+      ],
+      "distractors": [
+        "chin",
+        "chain",
+        "chimney"
+      ],
+      "note": "語塊：fine china（精緻瓷器）、china set（瓷器組）、china cabinet（瓷器櫃）。china（小寫）是「瓷器」；China（大寫）是「中國」；porcelain 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-craftspeople",
+      "word": "craftspeople",
+      "pos": "名詞",
+      "meaning": "工匠們",
+      "sentences": [
+        {
+          "en": "The market sells handmade bags, jewelry, and pottery made by local craftspeople from nearby villages.",
+          "zh": "市集販售附近村莊當地工匠手工製作的包包、首飾和陶器。"
+        },
+        {
+          "en": "Skilled craftspeople spent two years repairing the old wooden doors and windows of the temple.",
+          "zh": "技術純熟的工匠花了兩年修復寺廟的舊木門和窗戶。"
+        },
+        {
+          "en": "The festival gives local craftspeople a chance to show their work to thousands of tourists.",
+          "zh": "這個節慶讓當地工匠有機會向數千名遊客展示作品。"
+        },
+        {
+          "en": "Our furniture is made by skilled craftspeople who use traditional methods and high-quality wood from local forests.",
+          "zh": "我們的家具是由技術純熟、使用傳統方法和當地森林高品質木材的工匠製作的。"
+        },
+        {
+          "en": "The city offers grants to help young craftspeople open small shops and studios in the old town.",
+          "zh": "市政府提供補助，幫助年輕工匠在老城區開小店和工作室。"
+        }
+      ],
+      "distractors": [
+        "craftsmanship",
+        "salespeople",
+        "townspeople"
+      ],
+      "note": "語塊：local craftspeople（當地工匠）、skilled craftspeople（技術純熟的工匠）。craftspeople 是 craftsperson 的複數；craftsman 是「工匠（男性）」；craft 是「手藝」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vine",
+      "word": "vine",
+      "pos": "名詞",
+      "meaning": "藤蔓；葡萄藤",
+      "sentences": [
+        {
+          "en": "The grape vine in the garden produces enough fruit every summer for the restaurant to make its own jam.",
+          "zh": "花園裡的葡萄藤每年夏天結的果實夠餐廳自己做果醬。"
+        },
+        {
+          "en": "A climbing vine covers the front of the old hotel, which makes it look beautiful in every season.",
+          "zh": "攀爬的藤蔓覆蓋著老飯店的正面，讓它每個季節都很漂亮。"
+        },
+        {
+          "en": "Visitors to the farm can learn how to take care of a grape vine and pick fruit in the autumn.",
+          "zh": "參觀農場的遊客可以學習如何照顧葡萄藤，秋天還能採果。"
+        },
+        {
+          "en": "The gardener cut the vine away from the windows so that more light could enter the office.",
+          "zh": "園丁把藤蔓從窗戶上剪開，讓更多光線進入辦公室。"
+        },
+        {
+          "en": "Each vine on the farm is checked by hand every week to make sure the grapes are healthy.",
+          "zh": "農場的每株葡萄藤每週都會用手檢查，確保葡萄健康。"
+        }
+      ],
+      "distractors": [
+        "wine",
+        "vane",
+        "vein"
+      ],
+      "note": "語塊：grape vine（葡萄藤）、climbing vine（攀爬的藤蔓）。vine 是會攀爬的植物；vineyard 是「葡萄園」；wine 是「葡萄酒」，發音很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-magnificent",
+      "word": "magnificent",
+      "pos": "形容詞",
+      "meaning": "壯麗的；極好的",
+      "sentences": [
+        {
+          "en": "The hotel room has a magnificent view of the mountains and the lake, so guests often stay longer.",
+          "zh": "飯店房間有山和湖的壯麗景色，所以客人常常多住幾天。"
+        },
+        {
+          "en": "The new concert hall is a magnificent building that has already become a symbol of the city.",
+          "zh": "新音樂廳是一棟宏偉的建築，已經成為這座城市的象徵。"
+        },
+        {
+          "en": "The chef prepared a magnificent dinner for the guests at the company's fiftieth anniversary party.",
+          "zh": "主廚為公司五十週年派對的賓客準備了一頓極好的晚餐。"
+        },
+        {
+          "en": "From the top of the tower, visitors can enjoy a magnificent view of the whole city at night.",
+          "zh": "從塔頂，遊客可以欣賞整座城市壯麗的夜景。"
+        },
+        {
+          "en": "The old library is a magnificent building, and many tourists visit it just to take photos.",
+          "zh": "舊圖書館是一棟宏偉的建築，很多觀光客專程去拍照。"
+        }
+      ],
+      "distractors": [
+        "significant",
+        "munificent",
+        "magnetic"
+      ],
+      "note": "語塊：magnificent view（壯麗的景色）、magnificent building（宏偉的建築）。magnificent 是「非常美麗、令人驚嘆的」；splendid 意思接近；significant 是「重大的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-collaborate",
+      "word": "collaborate",
+      "pos": "動詞",
+      "meaning": "合作；協力",
+      "sentences": [
+        {
+          "en": "Our company will collaborate with a famous designer to create a new line of bags for next spring.",
+          "zh": "我們公司會和一位知名設計師合作，推出明年春天的新包款系列。"
+        },
+        {
+          "en": "The two universities will collaborate on a research project about clean energy and climate change.",
+          "zh": "兩所大學將在一個關於乾淨能源和氣候變遷的研究專案上合作。"
+        },
+        {
+          "en": "The marketing and sales teams must collaborate closely with each other to make sure the new product launch is successful.",
+          "zh": "行銷和業務團隊必須密切合作，確保新產品上市成功。"
+        },
+        {
+          "en": "Local craftspeople will collaborate with the hotel to decorate every room with handmade art and furniture.",
+          "zh": "當地工匠將和飯店合作，用手工藝品和家具裝飾每間房間。"
+        },
+        {
+          "en": "Engineers from both companies will collaborate on the design of the new electric vehicle for the Asian market.",
+          "zh": "兩家公司的工程師將在亞洲市場新電動車的設計上合作。"
+        }
+      ],
+      "distractors": [
+        "corroborate",
+        "elaborate",
+        "calibrate"
+      ],
+      "note": "語塊：collaborate with（與……合作）、collaborate on（在……上合作）、closely collaborate（密切合作）。collaborate 是「一起做某事」；collaboration 是名詞；cooperate 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-path",
+      "word": "path",
+      "pos": "名詞",
+      "meaning": "小徑；道路；途徑",
+      "sentences": [
+        {
+          "en": "The city built a new bike path along the river so that people can ride safely to work.",
+          "zh": "市政府沿著河邊蓋了一條新的自行車道，讓民眾可以安全地騎車上班。"
+        },
+        {
+          "en": "The training program helps employees plan their career path and develop the skills they need.",
+          "zh": "訓練計畫幫助員工規劃職涯發展路徑，培養所需的技能。"
+        },
+        {
+          "en": "A walking path around the lake is popular with office workers who want to exercise during lunch.",
+          "zh": "環湖步道很受想在午休運動的上班族歡迎。"
+        },
+        {
+          "en": "Please stay on the path when you walk through the park, because the grass was just planted.",
+          "zh": "走過公園時請走在步道上，因為草地剛種好。"
+        },
+        {
+          "en": "Ms. Lee chose a career path in finance because she has always been good with numbers.",
+          "zh": "李小姐選擇了金融業的職涯路徑，因為她一直很擅長數字。"
+        }
+      ],
+      "distractors": [
+        "pass",
+        "bath",
+        "patch"
+      ],
+      "note": "語塊：bike path（自行車道）、career path（職涯發展路徑）、walking path（步道）。path 是「小路」，也可以比喻「發展途徑」；pass 是「通過」；bath 是「洗澡」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-at-your-own-risk",
+      "word": "at your own risk",
+      "pos": "其他",
+      "meaning": "風險自負",
+      "sentences": [
+        {
+          "en": "There are no lifeguards on duty at the lake, so you will swim at your own risk during the summer.",
+          "zh": "湖邊沒有救生員值班，所以夏天在這裡游泳要風險自負。"
+        },
+        {
+          "en": "The sign at the entrance says that you enter at your own risk if you leave the hiking path.",
+          "zh": "入口的告示寫著，離開登山步道的話進入風險自負。"
+        },
+        {
+          "en": "If you park your car on the street overnight, you will be doing so at your own risk.",
+          "zh": "如果你把車停在路邊過夜，就要自己承擔風險。"
+        },
+        {
+          "en": "The free software is provided as it is, so please download and use at your own risk.",
+          "zh": "這個免費軟體按現況提供，所以請自行承擔下載和使用的風險。"
+        },
+        {
+          "en": "If you leave valuables in your room instead of the safe, you keep them there at your own risk.",
+          "zh": "如果你把貴重物品留在房間而不放保險箱，就要自己承擔風險。"
+        }
+      ],
+      "distractors": [
+        "at any rate",
+        "at your own pace",
+        "at the risk of"
+      ],
+      "note": "語塊：use at your own risk（使用風險自負）、enter at your own risk（進入風險自負）、swim at your own risk（游泳風險自負）。at your own risk 常見於告示：「風險自負」；at risk 是「處於危險中」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
