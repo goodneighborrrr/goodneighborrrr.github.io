@@ -53603,6 +53603,706 @@
       ],
       "note": "語塊：transform A into B（把 A 變成 B）、transform the way（改變方式）。transform 是「徹底改變」；transformation 是名詞；change 是一般說法。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-industrial",
+      "word": "industrial",
+      "pos": "形容詞",
+      "meaning": "工業的；產業的",
+      "sentences": [
+        {
+          "en": "The company built its new factory in an industrial area on the edge of the city near the port.",
+          "zh": "公司把新工廠蓋在城市邊緣靠近港口的工業區。"
+        },
+        {
+          "en": "The store sells industrial equipment such as large machines and tools to factories across the country.",
+          "zh": "那家店把大型機器和工具等工業設備賣給全國的工廠。"
+        },
+        {
+          "en": "The government has introduced strict rules to stop factories from putting industrial waste into rivers.",
+          "zh": "政府推出嚴格規定，禁止工廠把工業廢棄物排進河川。"
+        },
+        {
+          "en": "The old industrial area is being turned into apartments, offices, and parks for local residents.",
+          "zh": "舊工業區正在改建成給當地居民的公寓、辦公室和公園。"
+        },
+        {
+          "en": "The new industrial park will create thousands of jobs for people who live in the surrounding towns.",
+          "zh": "新的工業園區將為周邊城鎮的居民創造數千個工作。"
+        }
+      ],
+      "distractors": [
+        "industrious",
+        "individual",
+        "intellectual"
+      ],
+      "note": "語塊：industrial area（工業區）、industrial equipment（工業設備）、industrial waste（工業廢棄物）。industrial 是「和工業有關的」；industrious 是「勤勞的」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-residential",
+      "word": "residential",
+      "pos": "形容詞",
+      "meaning": "住宅的；居住的",
+      "sentences": [
+        {
+          "en": "Trucks are not allowed to drive on residential streets after ten o'clock at night because of the noise.",
+          "zh": "因為噪音，卡車晚上十點後不准開進住宅區街道。"
+        },
+        {
+          "en": "The new residential building near the park has two hundred apartments and a swimming pool.",
+          "zh": "公園附近的新住宅大樓有兩百戶公寓和一座游泳池。"
+        },
+        {
+          "en": "Many families prefer to live in a quiet residential area that is close to good schools.",
+          "zh": "很多家庭比較喜歡住在靠近好學校的安靜住宅區。"
+        },
+        {
+          "en": "The city will not allow factories to be built in residential areas, so the company must find another site.",
+          "zh": "市政府不允許在住宅區蓋工廠，所以公司必須另找地點。"
+        },
+        {
+          "en": "Prices for homes in the residential area near the river have increased sharply over the past five years.",
+          "zh": "河邊住宅區的房價在過去五年大幅上漲。"
+        }
+      ],
+      "distractors": [
+        "resident",
+        "presidential",
+        "confidential"
+      ],
+      "note": "語塊：residential area（住宅區）、residential building（住宅大樓）、residential street（住宅區街道）。residential 是「供人居住的」；resident 是「居民」；residence 是「住所」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transcript",
+      "word": "transcript",
+      "pos": "名詞",
+      "meaning": "成績單；文字紀錄",
+      "sentences": [
+        {
+          "en": "Applicants must send a copy of their academic transcript along with their résumé and cover letter.",
+          "zh": "應徵者必須寄一份成績單影本，並附上履歷和求職信。"
+        },
+        {
+          "en": "A transcript of the CEO's speech will be posted on the company's website later this afternoon.",
+          "zh": "執行長演講的逐字稿今天下午稍晚會貼在公司網站上。"
+        },
+        {
+          "en": "Students can request an official transcript from the university office by filling out a simple form.",
+          "zh": "學生可以填寫一張簡單的表格，向大學辦公室申請正式成績單。"
+        },
+        {
+          "en": "The reporter read the transcript of the interview carefully before writing the article for the magazine.",
+          "zh": "記者寫文章之前仔細讀了訪談的逐字稿。"
+        },
+        {
+          "en": "Please attach your academic transcript to the scholarship application before the deadline on Friday afternoon.",
+          "zh": "請在週五截止日前，把成績單附在獎學金申請表上。"
+        }
+      ],
+      "distractors": [
+        "transcription",
+        "transport",
+        "manuscript"
+      ],
+      "note": "語塊：academic transcript（成績單）、a transcript of（……的逐字稿）。transcript 可以是學校「成績單」或演講、會議的「逐字稿」；transcribe 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reference-letter",
+      "word": "reference letter",
+      "pos": "名詞",
+      "meaning": "推薦信",
+      "sentences": [
+        {
+          "en": "Ms. Park asked her former manager to write a reference letter for her application to the bank.",
+          "zh": "朴小姐請前主管為她應徵銀行的申請寫一封推薦信。"
+        },
+        {
+          "en": "All applicants must include at least one reference letter from a previous employer or teacher.",
+          "zh": "所有應徵者都必須附上至少一封前雇主或老師的推薦信。"
+        },
+        {
+          "en": "The professor was happy to write a reference letter for the student, who had excellent grades.",
+          "zh": "教授很樂意為那位成績優秀的學生寫推薦信。"
+        },
+        {
+          "en": "It is polite to ask for a reference letter at least two weeks before you need to send it.",
+          "zh": "至少在需要寄出的兩週前請人寫推薦信是有禮貌的。"
+        },
+        {
+          "en": "The company received a strong reference letter from the candidate's previous employer in Tokyo last week.",
+          "zh": "公司收到那位候選人東京前雇主寫的一封很有力的推薦信。"
+        }
+      ],
+      "distractors": [
+        "cover letter",
+        "thank-you letter",
+        "reference book"
+      ],
+      "note": "語塊：write a reference letter（寫推薦信）、ask for a reference letter（請求推薦信）。reference letter 是「前雇主或老師寫的推薦信」；letter of recommendation 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-along-with",
+      "word": "along with",
+      "pos": "介系詞",
+      "meaning": "連同；和……一起",
+      "sentences": [
+        {
+          "en": "Please send your résumé along with a short letter that explains why you want the job.",
+          "zh": "請寄出你的履歷，連同一封說明你為什麼想要這份工作的短信。"
+        },
+        {
+          "en": "The hotel offers free breakfast along with free internet access to all guests who book online.",
+          "zh": "飯店為所有網路訂房的客人提供免費早餐和免費網路。"
+        },
+        {
+          "en": "Ms. Lee, along with two other managers, will attend the conference in Singapore next month.",
+          "zh": "李小姐和另外兩位經理下個月會參加新加坡的研討會。"
+        },
+        {
+          "en": "The package will be delivered along with a receipt and instructions for using the product.",
+          "zh": "包裹送達時會附上收據和產品使用說明。"
+        },
+        {
+          "en": "The new phone comes with a charger along with a protective case and a pair of headphones.",
+          "zh": "新手機附有充電器，還有一個保護殼和一副耳機。"
+        }
+      ],
+      "distractors": [
+        "along the way",
+        "get along with",
+        "go along with"
+      ],
+      "note": "語塊：along with（連同……）。along with 是「和……一起」；together with 意思相同；當主詞時動詞跟著前面的名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-practicality",
+      "word": "practicality",
+      "pos": "名詞",
+      "meaning": "實用性；可行性",
+      "sentences": [
+        {
+          "en": "Many customers choose this car because of its practicality, as it has plenty of space for families.",
+          "zh": "很多顧客選擇這款車是因為它的實用性，有足夠空間給家庭使用。"
+        },
+        {
+          "en": "The engineers are testing the practicality of using solar panels on the roofs of all the factories.",
+          "zh": "工程師正在測試在所有工廠屋頂裝太陽能板的可行性。"
+        },
+        {
+          "en": "The designer chose simple furniture for practicality, as it is easy to clean and move.",
+          "zh": "設計師為了實用選擇簡單的家具，因為容易清潔又方便搬動。"
+        },
+        {
+          "en": "Some people question the practicality of the plan because it would be very expensive to build.",
+          "zh": "有些人質疑那個計畫的可行性，因為建造費用會非常高。"
+        },
+        {
+          "en": "The new bag is popular because of its practicality, with many pockets for phones, keys, and wallets.",
+          "zh": "那款新包包因為實用而受歡迎，有很多放手機、鑰匙和錢包的口袋。"
+        }
+      ],
+      "distractors": [
+        "practice",
+        "popularity",
+        "punctuality"
+      ],
+      "note": "語塊：the practicality of（……的實用性）、for practicality（為了實用）。practicality 是名詞；practical 是形容詞「實用的」；practice 是「練習；做法」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-administrative",
+      "word": "administrative",
+      "pos": "形容詞",
+      "meaning": "行政的；管理的",
+      "sentences": [
+        {
+          "en": "The company is hiring an administrative assistant who can answer phones, organize meetings, and handle paperwork.",
+          "zh": "公司正在招聘一位能接電話和安排會議的行政助理。"
+        },
+        {
+          "en": "Doctors often complain that they spend too much time on administrative work instead of seeing patients.",
+          "zh": "醫生常抱怨他們花太多時間在行政工作上，而不是看病人。"
+        },
+        {
+          "en": "The new software will reduce administrative costs by allowing staff to complete forms online instead of on paper.",
+          "zh": "新軟體讓員工可以在線上填表，將降低行政費用。"
+        },
+        {
+          "en": "Ms. Ruiz handles all of the administrative tasks for the sales team, including booking flights.",
+          "zh": "Ruiz 小姐處理業務團隊的所有行政工作，包括訂機票。"
+        },
+        {
+          "en": "The administrative office is on the second floor, next to the human resources department and the kitchen.",
+          "zh": "行政辦公室在二樓，就在人資部旁邊。"
+        }
+      ],
+      "distractors": [
+        "administrator",
+        "authoritative",
+        "demonstrative"
+      ],
+      "note": "語塊：administrative assistant（行政助理）、administrative work（行政工作）、administrative costs（行政費用）。administrative 是「行政上的」；administration 是名詞「行政；管理部門」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-probationary",
+      "word": "probationary",
+      "pos": "形容詞",
+      "meaning": "試用期的",
+      "sentences": [
+        {
+          "en": "All new employees must complete a probationary period of three months before they become permanent staff.",
+          "zh": "所有新員工都必須完成三個月的試用期，才能成為正式員工。"
+        },
+        {
+          "en": "During the probationary period, managers will meet with new employees every two weeks to discuss their progress.",
+          "zh": "試用期間，經理每兩週會和新員工見面討論他們的進度。"
+        },
+        {
+          "en": "A probationary employee does not receive the full benefits package until the end of the first three months.",
+          "zh": "試用期員工要到頭三個月結束後才能享有完整的福利方案。"
+        },
+        {
+          "en": "Ms. Lee passed her probationary period and was offered a permanent position in the marketing department.",
+          "zh": "李小姐通過了試用期，獲得行銷部的正式職位。"
+        },
+        {
+          "en": "The probationary period may be extended if the manager feels that the employee needs more training.",
+          "zh": "如果經理覺得員工需要更多訓練，試用期可能會延長。"
+        }
+      ],
+      "distractors": [
+        "probable",
+        "provisional",
+        "preliminary"
+      ],
+      "note": "語塊：probationary period（試用期）、probationary employee（試用期員工）。probationary 是「試用中的」；probation 是名詞「試用期；緩刑」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-last",
+      "word": "last",
+      "pos": "動詞",
+      "meaning": "持續；維持",
+      "sentences": [
+        {
+          "en": "The meeting is expected to last for about two hours, so please plan your schedule accordingly.",
+          "zh": "會議預計持續大約兩小時，所以請據此安排你的行程。"
+        },
+        {
+          "en": "The new phone has a battery that can last for two days without needing to be charged.",
+          "zh": "新手機的電池可以撐兩天不用充電。"
+        },
+        {
+          "en": "The festival will last for three days and will include concerts, food stalls, and art exhibitions.",
+          "zh": "慶典將持續三天，有音樂會、美食攤位和藝術展覽。"
+        },
+        {
+          "en": "Good furniture can last for many years if it is cleaned and cared for properly.",
+          "zh": "好的家具如果妥善清潔和保養，可以用很多年。"
+        },
+        {
+          "en": "The sale will last until the end of the month, so customers still have time to buy winter clothing.",
+          "zh": "特賣會持續到月底，所以顧客還有時間買冬季服飾。"
+        }
+      ],
+      "distractors": [
+        "least",
+        "lost",
+        "fast"
+      ],
+      "note": "語塊：last for（持續……）、last long（持久）。last 當動詞是「持續」；lasting 是形容詞「持久的」；last 也可當形容詞「最後的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assign",
+      "word": "assign",
+      "pos": "動詞",
+      "meaning": "指派；分配",
+      "sentences": [
+        {
+          "en": "The manager will assign a task to each member of the team at the meeting on Monday morning.",
+          "zh": "經理會在週一早上的會議上分配任務給每位組員。"
+        },
+        {
+          "en": "The company decided to assign Ms. Park to the new office in Singapore for two years.",
+          "zh": "公司決定指派朴小姐到新加坡的新辦公室兩年。"
+        },
+        {
+          "en": "The manager will assign each new employee to a senior staff member who will help them during their first month.",
+          "zh": "經理會把每位新員工分配給一位資深員工，在第一個月幫助他們。"
+        },
+        {
+          "en": "Please assign one person from each department to help organize the company's annual holiday party.",
+          "zh": "請每個部門指派一人幫忙籌辦公司的年度派對。"
+        },
+        {
+          "en": "The hotel will assign rooms to guests when they check in at the front desk on the day of arrival.",
+          "zh": "飯店會在客人抵達當天於櫃台辦理入住時分配房間。"
+        }
+      ],
+      "distractors": [
+        "resign",
+        "design",
+        "sign"
+      ],
+      "note": "語塊：assign a task（分配任務）、assign sb to（指派某人到……）、assign rooms（分配房間）。assign 是「分派工作或職位」；assignment 是名詞「任務」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-encourage",
+      "word": "encourage",
+      "pos": "動詞",
+      "meaning": "鼓勵",
+      "sentences": [
+        {
+          "en": "The company encourages employees to share their ideas, and we strongly encourage everyone to attend the meeting.",
+          "zh": "公司鼓勵員工分享想法，我們也強烈鼓勵每個人參加會議。"
+        },
+        {
+          "en": "The city wants to encourage people to ride bicycles to work by building more bike lanes.",
+          "zh": "市政府想增建自行車道，鼓勵民眾騎腳踏車上班。"
+        },
+        {
+          "en": "Teachers encourage students to read at least one book every month during the summer holiday.",
+          "zh": "老師鼓勵學生暑假期間每個月至少讀一本書。"
+        },
+        {
+          "en": "The manager will encourage the team to take short breaks so that they do not feel too tired.",
+          "zh": "經理會鼓勵團隊稍作休息，以免太累。"
+        },
+        {
+          "en": "We strongly encourage all guests to book their rooms early, as the hotel is usually full in summer.",
+          "zh": "我們強烈建議所有客人提早訂房，因為飯店夏天通常客滿。"
+        }
+      ],
+      "distractors": [
+        "discourage",
+        "engage",
+        "enrage"
+      ],
+      "note": "語塊：encourage sb to（鼓勵某人做……）、strongly encourage（強烈鼓勵）。encourage sb to + 原形動詞；encouragement 是名詞；discourage 是「使氣餒；勸阻」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-feature",
+      "word": "feature",
+      "pos": "名詞",
+      "meaning": "特色；功能；特輯",
+      "sentences": [
+        {
+          "en": "The key feature of the new phone is its camera, which takes clear pictures even at night.",
+          "zh": "新手機的主要特色是相機，即使晚上也能拍出清楚的照片。"
+        },
+        {
+          "en": "The latest version of the app includes a new feature that allows users to pay bills online.",
+          "zh": "App 的最新版本包含一個讓使用者在線上繳帳單的新功能。"
+        },
+        {
+          "en": "Every car we sell has an important safety feature that stops the vehicle automatically in an emergency.",
+          "zh": "我們賣的每輛車都有一個在緊急時自動停車的重要安全功能。"
+        },
+        {
+          "en": "The magazine's main feature this month is an interview with a famous chef from Paris.",
+          "zh": "這本雜誌本月的主要特輯是一篇對巴黎知名主廚的專訪。"
+        },
+        {
+          "en": "One popular feature of the hotel is the rooftop garden, where guests can enjoy the view of the city.",
+          "zh": "飯店受歡迎的特色之一是頂樓花園，客人可以在那裡欣賞城市景色。"
+        }
+      ],
+      "distractors": [
+        "future",
+        "fixture",
+        "creature"
+      ],
+      "note": "語塊：key feature（主要特色）、new feature（新功能）、safety feature（安全功能）。feature 可以是「特色、功能」，也可以當動詞「以……為特色」（The film features a famous actor）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-division",
+      "word": "division",
+      "pos": "名詞",
+      "meaning": "部門；分部；劃分",
+      "sentences": [
+        {
+          "en": "Ms. Lee was promoted to head of the sales division after working at the company for ten years.",
+          "zh": "李小姐在公司工作十年後被升為業務部門主管。"
+        },
+        {
+          "en": "The company's European division reported higher profits this year because of strong sales in Germany.",
+          "zh": "因為德國的銷售強勁，公司的歐洲分部今年公布了更高的獲利。"
+        },
+        {
+          "en": "The new manager wants a clear division of responsibilities so that everyone knows what to do.",
+          "zh": "新經理想要清楚劃分責任，讓每個人都知道該做什麼。"
+        },
+        {
+          "en": "Each division of the company must submit its budget for next year by the end of October.",
+          "zh": "公司的每個部門都必須在十月底前提交明年的預算。"
+        },
+        {
+          "en": "The research division is working on a new battery that can be charged in only ten minutes.",
+          "zh": "研發部門正在開發一款只要十分鐘就能充飽的新電池。"
+        }
+      ],
+      "distractors": [
+        "decision",
+        "revision",
+        "vision"
+      ],
+      "note": "語塊：sales division（業務部門）、division of（……的劃分）。division 是公司裡的「事業部、部門」；department 意思接近；divide 是動詞「分」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-significant",
+      "word": "significant",
+      "pos": "形容詞",
+      "meaning": "重大的；顯著的",
+      "sentences": [
+        {
+          "en": "There has been a significant increase in the number of people who work from home since last year.",
+          "zh": "自從去年以來，在家工作的人數顯著增加。"
+        },
+        {
+          "en": "The new factory will have a significant impact on the local economy by creating many new jobs.",
+          "zh": "新工廠將創造很多新工作，對地方經濟產生重大影響。"
+        },
+        {
+          "en": "The company spent a significant amount of money on advertising before the product was launched.",
+          "zh": "公司在產品上市前花了相當大筆錢做廣告。"
+        },
+        {
+          "en": "The report found no significant difference between the two products, so we chose the cheaper one.",
+          "zh": "報告發現兩項產品沒有顯著差異，所以我們選了比較便宜的。"
+        },
+        {
+          "en": "Ms. Park made a significant contribution to the success of the project and received a special award.",
+          "zh": "朴小姐對專案的成功有重大貢獻，獲得了特別獎。"
+        }
+      ],
+      "distractors": [
+        "signify",
+        "magnificent",
+        "sufficient"
+      ],
+      "note": "語塊：significant increase（顯著增加）、significant impact（重大影響）、significant amount（相當大的量）。significant 是「重要的；數量明顯的」；significance 是名詞；insignificant 是「不重要的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-request",
+      "word": "request",
+      "pos": "名詞",
+      "meaning": "要求；請求",
+      "sentences": [
+        {
+          "en": "The meeting was moved to Thursday at the request of the client, who will be traveling on Wednesday.",
+          "zh": "應客戶的要求，會議改到週四，因為客戶週三要出差。"
+        },
+        {
+          "en": "If you would like to make a request for extra towels, please call the front desk at any time.",
+          "zh": "如果你想要額外的毛巾，請隨時打電話給櫃台。"
+        },
+        {
+          "en": "A list of ingredients for every dish on the menu is available upon request from the waiter.",
+          "zh": "菜單上每道菜的成分表如有需要可以向服務生索取。"
+        },
+        {
+          "en": "The manager approved my request for two days off so that I can attend my sister's wedding.",
+          "zh": "經理核准了我請兩天假參加姐姐婚禮的請求。"
+        },
+        {
+          "en": "We received your request for a refund and will send the money to your account within five days.",
+          "zh": "我們收到了您的退款申請，會在五天內把錢匯到您的帳戶。"
+        }
+      ],
+      "distractors": [
+        "require",
+        "quest",
+        "respect"
+      ],
+      "note": "語塊：at the request of（應……的要求）、make a request（提出請求）、upon request（如有需要）。request 可以當名詞或動詞「要求」；request 當動詞時後面直接接受詞（request information），不加 for。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bizarre",
+      "word": "bizarre",
+      "pos": "形容詞",
+      "meaning": "怪異的；奇特的",
+      "sentences": [
+        {
+          "en": "The new building has a bizarre design that looks like a giant shoe, but many tourists love it.",
+          "zh": "新大樓有一個看起來像巨大鞋子的怪異設計，但很多觀光客很喜歡。"
+        },
+        {
+          "en": "It was a bizarre situation when two customers arrived at the same time with the same reservation.",
+          "zh": "兩位顧客帶著同一個訂位同時抵達，真是一個奇怪的情況。"
+        },
+        {
+          "en": "The store received a bizarre request from a customer who wanted to buy every chair in the shop.",
+          "zh": "那家店收到一位顧客的奇特要求，他想買下店裡所有的椅子。"
+        },
+        {
+          "en": "Some people found the movie bizarre, but critics praised it for its creative story and music.",
+          "zh": "有些人覺得那部電影很怪異，但評論家稱讚它故事和音樂很有創意。"
+        },
+        {
+          "en": "The weather has been bizarre this year, with snow in April and very hot days in October.",
+          "zh": "今年天氣很怪，四月下雪，十月又非常熱。"
+        }
+      ],
+      "distractors": [
+        "bazaar",
+        "bitter",
+        "brazen"
+      ],
+      "note": "語塊：bizarre situation（奇怪的情況）、bizarre design（怪異的設計）、bizarre request（奇怪的要求）。bizarre 是「非常奇怪、不尋常的」；strange、weird 意思接近；bazaar（市集）發音一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-clearance-sale",
+      "word": "clearance sale",
+      "pos": "名詞",
+      "meaning": "清倉拍賣",
+      "sentences": [
+        {
+          "en": "The furniture store will hold a clearance sale next weekend, with prices on sofas and tables up to seventy percent off.",
+          "zh": "家具店下週末將舉行清倉拍賣，沙發和桌子最多打三折。"
+        },
+        {
+          "en": "Many customers waited in line for hours on Saturday morning for the end-of-season clearance sale at the department store.",
+          "zh": "很多顧客週六早上排隊好幾個小時，等百貨公司的季末清倉拍賣。"
+        },
+        {
+          "en": "The store decided to hold a clearance sale that will continue until all of the winter clothing has been sold.",
+          "zh": "那家店決定舉行清倉拍賣，持續到所有冬季服飾賣完為止。"
+        },
+        {
+          "en": "Items bought during the clearance sale cannot be returned or exchanged, so please choose carefully.",
+          "zh": "清倉拍賣期間買的商品不能退換，所以請仔細挑選。"
+        },
+        {
+          "en": "The electronics store is having a clearance sale to make room for the newest models of televisions.",
+          "zh": "那家電器行正在舉行清倉拍賣，為最新型的電視騰出空間。"
+        }
+      ],
+      "distractors": [
+        "garage sale",
+        "closing sale",
+        "sales clerk"
+      ],
+      "note": "語塊：hold a clearance sale（舉行清倉拍賣）、end-of-season clearance sale（季末清倉）。clearance sale 是「把存貨便宜賣掉的大拍賣」；clearance 是「清除；許可」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enormous",
+      "word": "enormous",
+      "pos": "形容詞",
+      "meaning": "巨大的；龐大的",
+      "sentences": [
+        {
+          "en": "The company spent an enormous amount of money on the new factory, but it has already paid off.",
+          "zh": "公司在新工廠上花了大筆錢，但已經回本了。"
+        },
+        {
+          "en": "The concert was an enormous success, and tickets for the next show sold out on the website in less than one hour.",
+          "zh": "演唱會非常成功，下一場的門票在網站上不到一小時就賣光了。"
+        },
+        {
+          "en": "Social media has had an enormous impact on the way companies advertise their products to young customers around the world.",
+          "zh": "社群媒體對公司向全世界年輕顧客廣告產品的方式產生了巨大的影響。"
+        },
+        {
+          "en": "The new shopping center is enormous, with more than four hundred stores, twenty restaurants, and a large cinema.",
+          "zh": "新購物中心非常大，有四百多家店、二十家餐廳和一間大型電影院。"
+        },
+        {
+          "en": "Organizing the international conference required an enormous amount of work from the whole team over six months.",
+          "zh": "籌辦國際研討會需要整個團隊花六個月投入大量的工作。"
+        }
+      ],
+      "distractors": [
+        "anonymous",
+        "numerous",
+        "monotonous"
+      ],
+      "note": "語塊：enormous amount（大量的）、enormous success（巨大的成功）、enormous impact（巨大的影響）。enormous 是「非常大的」；huge、massive 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-share",
+      "word": "share",
+      "pos": "動詞",
+      "meaning": "分享；共用；分擔",
+      "sentences": [
+        {
+          "en": "Please share the information about the new schedule with everyone on your team by Friday.",
+          "zh": "請在週五前把新時程表的資訊分享給你團隊的每個人。"
+        },
+        {
+          "en": "Ms. Lee and Mr. Kim share an office on the third floor, so they often work on projects together.",
+          "zh": "李小姐和金先生共用三樓的辦公室，所以常常一起做專案。"
+        },
+        {
+          "en": "The two companies agreed to share the cost of building a new warehouse near the port.",
+          "zh": "兩家公司同意分攤在港口附近蓋新倉庫的費用。"
+        },
+        {
+          "en": "Employees are encouraged to share their ideas for improving customer service with their managers at the weekly meeting on Monday.",
+          "zh": "公司鼓勵員工在週一的週會上和主管分享改善客服的點子。"
+        },
+        {
+          "en": "We will never share your personal information with other companies or organizations without asking for your permission first.",
+          "zh": "沒有先徵求你的同意，我們絕不會把你的個人資料分享給其他公司或機構。"
+        }
+      ],
+      "distractors": [
+        "shave",
+        "shore",
+        "scare"
+      ],
+      "note": "語塊：share information（分享資訊）、share an office（共用辦公室）、share the cost（分攤費用）。share 可以當動詞或名詞「份；股份」；shareholder 是「股東」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-publish",
+      "word": "publish",
+      "pos": "動詞",
+      "meaning": "出版；發表；公布",
+      "sentences": [
+        {
+          "en": "The author plans to publish a book about her experience of starting a business in another country.",
+          "zh": "那位作家打算出一本關於她在另一個國家創業經驗的書。"
+        },
+        {
+          "en": "The magazine will publish an article about the new museum in its next issue in March.",
+          "zh": "那本雜誌將在三月的下一期發表一篇關於新博物館的文章。"
+        },
+        {
+          "en": "The research team will publish the results of the study in a medical journal early next year.",
+          "zh": "研究團隊將在明年初於醫學期刊上公布研究結果。"
+        },
+        {
+          "en": "The company will publish its annual report on its website at the end of the month so that investors can read it.",
+          "zh": "公司將在月底於網站上公布年報，讓投資人可以閱讀。"
+        },
+        {
+          "en": "Many young writers now publish their stories online instead of sending them to traditional publishers and waiting for months.",
+          "zh": "很多年輕作家現在把故事發表在網路上，而不是寄給傳統出版社再等上好幾個月。"
+        }
+      ],
+      "distractors": [
+        "polish",
+        "punish",
+        "publicize"
+      ],
+      "note": "語塊：publish a book（出書）、publish an article（發表文章）、publish the results（公布結果）。publish 是「出版、公開發表」；publisher 是「出版社」；publication 是「出版物」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
