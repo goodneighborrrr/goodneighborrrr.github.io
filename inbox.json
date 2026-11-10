@@ -79433,6 +79433,706 @@
       ],
       "note": "語塊：artist residency（藝術家駐村）、residency permit（居留許可）、medical residency（住院醫師實習）。residency 是「在某處居住的狀態或期間」；residence 是「住所」；resident 是「居民」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expertise",
+      "word": "expertise",
+      "pos": "名詞",
+      "meaning": "專業知識；專長",
+      "sentences": [
+        {
+          "en": "We hired a consultant with expertise in marketing to help us launch the new product in Asia.",
+          "zh": "我們雇用了一位有行銷專業的顧問，協助我們在亞洲推出新產品。"
+        },
+        {
+          "en": "The project requires a lot of technical expertise, so we will work with engineers from Germany.",
+          "zh": "這個專案需要很多技術專長，所以我們會和德國的工程師合作。"
+        },
+        {
+          "en": "Because of a lack of expertise, the small company could not repair the machine by itself.",
+          "zh": "因為缺乏專業，那家小公司無法自己修理機器。"
+        },
+        {
+          "en": "Ms. Lin's expertise in accounting has saved the company a lot of money over the past five years.",
+          "zh": "林小姐的會計專業在過去五年幫公司省了很多錢。"
+        },
+        {
+          "en": "The new manager brings many years of expertise in the hospitality industry to our hotel in the city.",
+          "zh": "新經理為我們在市區的飯店帶來多年的餐旅業專業。"
+        }
+      ],
+      "distractors": [
+        "experience",
+        "exercise",
+        "expense"
+      ],
+      "note": "語塊：technical expertise（技術專長）、expertise in（在……的專業）、lack of expertise（缺乏專業）。expertise 是不可數名詞「專業能力」；expert 是「專家」；experience 是「經驗」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-high-resolution",
+      "word": "high-resolution",
+      "pos": "形容詞",
+      "meaning": "高解析度的",
+      "sentences": [
+        {
+          "en": "Please send a high-resolution image of the product so that we can use it in the printed brochure.",
+          "zh": "請寄一張產品的高解析度圖片，讓我們用在印刷簡介裡。"
+        },
+        {
+          "en": "The new laptop has a high-resolution screen that makes photos and videos look very clear.",
+          "zh": "新筆電有一個高解析度螢幕，讓照片和影片看起來非常清楚。"
+        },
+        {
+          "en": "The new security cameras record high-resolution videos, so the police can see every face very clearly.",
+          "zh": "新監視器錄下高解析度影片，所以警方可以非常清楚地看到每張臉。"
+        },
+        {
+          "en": "Photographers prefer high-resolution cameras because they can print large posters and banners without losing quality.",
+          "zh": "攝影師比較喜歡高解析度相機，因為印大海報和布條也不會失真。"
+        },
+        {
+          "en": "The museum website shows high-resolution photos of every painting, so visitors can see the small details.",
+          "zh": "博物館網站展示每幅畫的高解析度照片，讓參觀者可以看清細節。"
+        }
+      ],
+      "distractors": [
+        "high-quality",
+        "high-speed",
+        "low-resolution"
+      ],
+      "note": "語塊：high-resolution image（高解析度圖片）、high-resolution screen（高解析度螢幕）、high-resolution videos（高解析度影片）、high-resolution cameras（高解析度相機）、high-resolution photos（高解析度照片）。resolution 是「解析度；決心；解決」；HD 是 high definition（高畫質）的縮寫。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-raw",
+      "word": "raw",
+      "pos": "形容詞",
+      "meaning": "生的；未加工的",
+      "sentences": [
+        {
+          "en": "The price of raw materials such as steel and wood has increased, so the factory must raise its prices.",
+          "zh": "鋼鐵和木材等原料價格上漲，所以工廠必須漲價。"
+        },
+        {
+          "en": "Pregnant women should not eat raw fish, because it may contain bacteria that are harmful to the baby.",
+          "zh": "孕婦不應該吃生魚，因為可能含有對胎兒有害的細菌。"
+        },
+        {
+          "en": "The research team will analyze the raw data from the survey before they write the final report.",
+          "zh": "研究團隊會先分析調查的原始數據，再撰寫最終報告。"
+        },
+        {
+          "en": "The company imports raw materials from South America and turns them into finished products in Asia.",
+          "zh": "公司從南美洲進口原料，在亞洲製成成品。"
+        },
+        {
+          "en": "Please wash your hands carefully after you touch raw meat or fish in the restaurant kitchen.",
+          "zh": "在餐廳廚房碰過生肉或生魚後，請仔細洗手。"
+        }
+      ],
+      "distractors": [
+        "rare",
+        "row",
+        "saw"
+      ],
+      "note": "語塊：raw materials（原料）、raw fish（生魚）、raw data（原始數據）。raw 是「還沒煮過或還沒處理的」；rare 是「罕見的；（牛排）三分熟」；row 是「排」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-combination",
+      "word": "combination",
+      "pos": "名詞",
+      "meaning": "組合；結合",
+      "sentences": [
+        {
+          "en": "The hotel's success is due to a combination of excellent service, clean rooms, and a great location.",
+          "zh": "飯店的成功是優質服務、乾淨房間和絕佳地點的組合。"
+        },
+        {
+          "en": "The new medicine works best in combination with regular exercise, enough sleep, and a healthy diet.",
+          "zh": "新藥和規律運動、充足睡眠與健康飲食一起搭配效果最好。"
+        },
+        {
+          "en": "Please enter the correct combination of numbers to open the safe in your hotel room.",
+          "zh": "請輸入正確的數字組合來打開飯店房間裡的保險箱。"
+        },
+        {
+          "en": "The designer used a combination of wood and glass to make the office look bright and warm.",
+          "zh": "設計師結合木頭和玻璃，讓辦公室看起來明亮又溫暖。"
+        },
+        {
+          "en": "The job requires a combination of technical skills and good communication with customers and colleagues.",
+          "zh": "這份工作需要技術能力和良好的顧客與同事溝通能力兼備。"
+        }
+      ],
+      "distractors": [
+        "combustion",
+        "communication",
+        "coordination"
+      ],
+      "note": "語塊：in combination with（與……結合）、a combination of（……的組合）。combination 是 combine（結合）的名詞；mixture 是「混合物」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-document",
+      "word": "document",
+      "pos": "動詞",
+      "meaning": "記錄；用文件證明",
+      "sentences": [
+        {
+          "en": "Please document every step of the process so that new employees can follow it easily.",
+          "zh": "請記錄流程的每一個步驟，讓新員工可以輕鬆照著做。"
+        },
+        {
+          "en": "The team will document all of the problems they find during the test and send a report to the client.",
+          "zh": "團隊會記錄測試期間發現的所有問題，並寄報告給客戶。"
+        },
+        {
+          "en": "The photographer was hired to document the construction of the new bridge from start to finish.",
+          "zh": "攝影師受聘從頭到尾記錄新橋的建設過程。"
+        },
+        {
+          "en": "It is important to document every expense during the business trip, or the company cannot pay you back.",
+          "zh": "記錄出差期間的每筆開支很重要，否則公司無法報銷給你。"
+        },
+        {
+          "en": "The museum will document the history of the town by collecting old photos and letters from residents.",
+          "zh": "博物館將收集居民的老照片和信件，記錄小鎮的歷史。"
+        }
+      ],
+      "distractors": [
+        "documentary",
+        "monument",
+        "comment"
+      ],
+      "note": "語塊：document every step（記錄每個步驟）、document all of the problems（記錄所有問題）、document the construction（記錄建設過程）、document every expense（記錄每筆開支）、document the history（記錄歷史）。document 當動詞是「記錄下來」；當名詞是「文件」；documentation 是「文件資料」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-estimate",
+      "word": "estimate",
+      "pos": "名詞",
+      "meaning": "估價；估計",
+      "sentences": [
+        {
+          "en": "Please ask the contractor for a written cost estimate before you agree to start the work.",
+          "zh": "同意開工前，請向承包商索取書面的成本估算。"
+        },
+        {
+          "en": "Can you give me a rough estimate of how much the repairs will cost and how long they will take?",
+          "zh": "你能給我一個粗略估計，維修大概要花多少錢和多久時間嗎？"
+        },
+        {
+          "en": "The technician will look at the air conditioner and give an estimate for the repair this afternoon.",
+          "zh": "技術人員今天下午會檢查冷氣並提供維修估價。"
+        },
+        {
+          "en": "According to the latest estimate, more than ten thousand people will attend the festival this year.",
+          "zh": "根據最新估計，今年將有一萬多人參加節慶。"
+        },
+        {
+          "en": "The final cost was much higher than the first estimate because the price of materials increased.",
+          "zh": "最後的費用比最初的估價高很多，因為材料價格上漲了。"
+        }
+      ],
+      "distractors": [
+        "estate",
+        "esteem",
+        "eliminate"
+      ],
+      "note": "語塊：cost estimate（成本估算）、rough estimate（粗略估計）、give an estimate（提供估價）。estimate 可以當名詞或動詞「估計」；estimated 是「估計的」；quote 是「報價」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enlargement",
+      "word": "enlargement",
+      "pos": "名詞",
+      "meaning": "擴大；放大（的照片）",
+      "sentences": [
+        {
+          "en": "The shop offers photo enlargement services, so you can turn your favorite picture into a large poster.",
+          "zh": "那家店提供照片放大服務，你可以把最喜歡的照片做成大海報。"
+        },
+        {
+          "en": "The enlargement of the parking lot will create two hundred more spaces for visitors to the hospital.",
+          "zh": "停車場擴建將為醫院訪客多增加兩百個車位。"
+        },
+        {
+          "en": "The city approved the enlargement of the airport, which will allow more international flights every day.",
+          "zh": "市政府核准機場擴建，將能每天容納更多國際航班。"
+        },
+        {
+          "en": "Please order an enlargement of the team photo so that we can hang it in the reception area.",
+          "zh": "請訂一張團隊照片的放大版，讓我們掛在接待區。"
+        },
+        {
+          "en": "The enlargement of the store will take three months, but it will stay open during the work.",
+          "zh": "店面擴建要花三個月，但施工期間會照常營業。"
+        }
+      ],
+      "distractors": [
+        "engagement",
+        "enhancement",
+        "encouragement"
+      ],
+      "note": "語塊：photo enlargement（照片放大）、enlargement of（……的擴大）。enlargement 是 enlarge（擴大）的名詞；expansion 是「擴張」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entertaining",
+      "word": "entertaining",
+      "pos": "形容詞",
+      "meaning": "有趣的；娛樂性的",
+      "sentences": [
+        {
+          "en": "The speaker told many entertaining stories, so nobody felt bored during the two-hour presentation on Friday.",
+          "zh": "講者說了很多有趣的故事，所以週五兩小時的簡報沒有人覺得無聊。"
+        },
+        {
+          "en": "The new television show is highly entertaining, and it has become very popular with young people.",
+          "zh": "新電視節目非常有趣，在年輕人之間變得很受歡迎。"
+        },
+        {
+          "en": "The festival offers entertaining activities for children, such as games, live music, and face painting.",
+          "zh": "節慶為孩子提供有趣的活動，例如遊戲、現場音樂和臉部彩繪。"
+        },
+        {
+          "en": "The training course was both useful and entertaining, because the instructor used many funny examples.",
+          "zh": "訓練課程既實用又有趣，因為講師用了很多好笑的例子。"
+        },
+        {
+          "en": "The museum tour is entertaining for families, because the guide tells interesting stories about each room.",
+          "zh": "博物館導覽對家庭來說很有趣，因為導覽員會講每個展廳的有趣故事。"
+        }
+      ],
+      "distractors": [
+        "entertained",
+        "containing",
+        "maintaining"
+      ],
+      "note": "語塊：entertaining stories（有趣的故事）、highly entertaining（非常有趣）、entertaining activities（有趣的活動）、useful and entertaining（實用又有趣）、entertaining for families（適合全家的娛樂）。entertaining 是「讓人覺得好玩的」；entertainment 是名詞「娛樂」；entertain 是動詞「招待；娛樂」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-coordinator",
+      "word": "coordinator",
+      "pos": "名詞",
+      "meaning": "協調者；統籌人員",
+      "sentences": [
+        {
+          "en": "The event coordinator will contact every speaker to confirm the time and place of their presentation.",
+          "zh": "活動統籌會聯絡每位講者，確認他們的簡報時間和地點。"
+        },
+        {
+          "en": "Ms. Kim works as a project coordinator, so she makes sure that every team meets its deadlines.",
+          "zh": "金小姐是專案協調員，所以她確保每個團隊都趕上期限。"
+        },
+        {
+          "en": "If you have any questions about the conference, please contact the event coordinator by e-mail.",
+          "zh": "如果你對研討會有任何問題，請用電子郵件聯絡活動統籌。"
+        },
+        {
+          "en": "The hotel hired a wedding coordinator who helps couples plan every detail of their special day.",
+          "zh": "飯店雇用了一位婚禮統籌，幫新人規劃大日子的每個細節。"
+        },
+        {
+          "en": "The project coordinator sends a weekly report to the director about the progress of the work.",
+          "zh": "專案協調員每週寄報告給主任，說明工作進度。"
+        }
+      ],
+      "distractors": [
+        "cooperator",
+        "corridor",
+        "cultivator"
+      ],
+      "note": "語塊：event coordinator（活動統籌）、project coordinator（專案協調員）。coordinator 是「負責安排、協調各方的人」；coordinate 是動詞；coordination 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-craft",
+      "word": "craft",
+      "pos": "名詞",
+      "meaning": "手藝；工藝品",
+      "sentences": [
+        {
+          "en": "The craft fair in the park sells handmade jewelry, pottery, and wooden toys made by local artists.",
+          "zh": "公園的手工藝市集販售當地藝術家手工製作的首飾、陶器和木製玩具。"
+        },
+        {
+          "en": "The community center offers a craft class for children every Saturday morning in the large hall.",
+          "zh": "社區中心每週六早上在大廳為孩子開設手工藝課程。"
+        },
+        {
+          "en": "Visitors can buy local craft products at the small shop next to the museum entrance.",
+          "zh": "參觀者可以在博物館入口旁的小店購買當地工藝品。"
+        },
+        {
+          "en": "Making furniture by hand is a craft that takes many years to learn and practice.",
+          "zh": "手工做家具是一門需要多年學習和練習的手藝。"
+        },
+        {
+          "en": "The annual craft fair attracts thousands of visitors who want to buy unique gifts for the holidays.",
+          "zh": "年度手工藝市集吸引數千名想買特別節日禮物的遊客。"
+        }
+      ],
+      "distractors": [
+        "draft",
+        "graft",
+        "aircraft"
+      ],
+      "note": "語塊：craft class（手工藝課）、craft fair（手工藝市集）、local craft（當地工藝）。craft 是「手工技術」或「手工製品」；craftsman 是「工匠」；crafty 是「狡猾的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outing",
+      "word": "outing",
+      "pos": "名詞",
+      "meaning": "出遊；郊遊",
+      "sentences": [
+        {
+          "en": "The annual company outing will take place at a beach resort, and all employees can bring their families.",
+          "zh": "年度公司出遊將在一家海灘度假村舉行，所有員工都可以帶家人。"
+        },
+        {
+          "en": "The park is a popular place for a family outing on weekends, because it has a playground and a lake.",
+          "zh": "那座公園是週末家庭出遊的熱門地點，因為有遊樂場和湖。"
+        },
+        {
+          "en": "The school will go on an outing to the science museum next Friday, so students should bring lunch.",
+          "zh": "學校下週五會去科學博物館校外教學，所以學生要帶午餐。"
+        },
+        {
+          "en": "The team enjoyed the company outing so much that the manager plans to organize another one in spring.",
+          "zh": "團隊非常喜歡這次公司出遊，所以經理打算春天再辦一次。"
+        },
+        {
+          "en": "A family outing to the zoo can be expensive, so the city offers free tickets on the first Sunday of each month.",
+          "zh": "全家去動物園可能很貴，所以市政府每個月第一個週日提供免費門票。"
+        }
+      ],
+      "distractors": [
+        "outlet",
+        "outline",
+        "output"
+      ],
+      "note": "語塊：company outing（公司出遊）、family outing（家庭出遊）、go on an outing（去郊遊）。outing 是「短暫的出外活動」；trip 是「旅行」；excursion 是「短途旅遊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-theatrical",
+      "word": "theatrical",
+      "pos": "形容詞",
+      "meaning": "戲劇的；劇場的",
+      "sentences": [
+        {
+          "en": "The theatrical performance at the new theater was so popular that the tickets sold out in one day.",
+          "zh": "新劇院的戲劇演出非常受歡迎，門票一天內就賣光。"
+        },
+        {
+          "en": "The company sponsors a theatrical production every year to support young actors in the city.",
+          "zh": "公司每年贊助一齣戲劇製作，支持市內的年輕演員。"
+        },
+        {
+          "en": "Students in the drama class will give a theatrical performance at the end of the school year.",
+          "zh": "戲劇課的學生會在學年末進行戲劇演出。"
+        },
+        {
+          "en": "The museum has an exhibition about the history of theatrical costumes from the past three centuries.",
+          "zh": "博物館有一個關於過去三個世紀劇場服裝歷史的展覽。"
+        },
+        {
+          "en": "The famous director is working on a new theatrical production that will open in London next spring.",
+          "zh": "那位知名導演正在製作一齣新戲，明年春天將在倫敦首演。"
+        }
+      ],
+      "distractors": [
+        "theoretical",
+        "technical",
+        "historical"
+      ],
+      "note": "語塊：theatrical performance（戲劇演出）、theatrical production（戲劇製作）。theatrical 是 theater（劇場）的形容詞；也可以形容人「誇張做作的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-put-on",
+      "word": "put on",
+      "pos": "片語動詞",
+      "meaning": "舉辦；上演；穿上",
+      "sentences": [
+        {
+          "en": "The school will put on a show at the end of the year, and every student will take part in it.",
+          "zh": "學校年底會舉辦一場表演，每位學生都會參加。"
+        },
+        {
+          "en": "The museum plans to put on a special event for children during the summer holiday.",
+          "zh": "博物館計畫在暑假為孩子舉辦一場特別活動。"
+        },
+        {
+          "en": "All workers must put on a helmet and safety boots before they enter the construction site.",
+          "zh": "所有工人進入工地前都必須戴上安全帽、穿上安全靴。"
+        },
+        {
+          "en": "The theater will put on a new play every month, so there is always something interesting to see.",
+          "zh": "劇院每個月都會上演一齣新戲，所以總是有有趣的東西可看。"
+        },
+        {
+          "en": "Staff at the hotel put on a uniform every morning before they start working at the front desk.",
+          "zh": "飯店員工每天早上在櫃台開始工作前都要穿上制服。"
+        }
+      ],
+      "distractors": [
+        "put off",
+        "put out",
+        "put up"
+      ],
+      "note": "語塊：put on a show（舉辦表演）、put on an event（舉辦活動）、put on a uniform（穿上制服）。put on 可以是「穿戴」或「舉辦、上演」；take off 是相反「脫下」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-first-aid",
+      "word": "first aid",
+      "pos": "名詞",
+      "meaning": "急救",
+      "sentences": [
+        {
+          "en": "Every office has a first aid kit in the kitchen, and it is checked by the safety officer every month.",
+          "zh": "每間辦公室的廚房都有急救箱，安全官每個月都會檢查。"
+        },
+        {
+          "en": "All lifeguards at the swimming pool must complete first aid training before they start working.",
+          "zh": "游泳池的所有救生員開始工作前都必須完成急救訓練。"
+        },
+        {
+          "en": "A nurse who was on the train was able to give first aid to the passenger until the ambulance arrived.",
+          "zh": "火車上一位護理師在救護車抵達前為那位乘客施行急救。"
+        },
+        {
+          "en": "The company offers free first aid training to employees who want to learn how to help in an emergency.",
+          "zh": "公司為想學習緊急時如何救助他人的員工提供免費急救訓練。"
+        },
+        {
+          "en": "Please tell the manager if the first aid kit is missing any bandages or medicine.",
+          "zh": "如果急救箱缺少任何繃帶或藥品，請告訴經理。"
+        }
+      ],
+      "distractors": [
+        "first class",
+        "first place",
+        "financial aid"
+      ],
+      "note": "語塊：first aid kit（急救箱）、first aid training（急救訓練）、give first aid（施行急救）。first aid 是「在醫生到之前的緊急處理」；emergency 是「緊急狀況」；aid 是「幫助」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-job-opening",
+      "word": "job opening",
+      "pos": "名詞",
+      "meaning": "職缺",
+      "sentences": [
+        {
+          "en": "There is a job opening for a sales manager at our branch in Seoul, and we hope to fill it by March.",
+          "zh": "我們首爾分公司有一個業務經理的職缺，希望在三月前補齊。"
+        },
+        {
+          "en": "The company posted the job opening on its website and in several newspapers last week.",
+          "zh": "公司上週在網站和好幾家報紙上刊登了這個職缺。"
+        },
+        {
+          "en": "Ms. Kim heard about the job opening from a friend who works in the human resources department.",
+          "zh": "金小姐從一位在人資部工作的朋友那裡聽說了這個職缺。"
+        },
+        {
+          "en": "It may take several months to fill a job opening that requires special skills and experience.",
+          "zh": "需要特殊技能和經驗的職缺，可能要好幾個月才補得到人。"
+        },
+        {
+          "en": "Please send your résumé to us if you are interested in the job opening for a designer.",
+          "zh": "如果你對設計師職缺有興趣，請寄履歷給我們。"
+        }
+      ],
+      "distractors": [
+        "job offer",
+        "job title",
+        "grand opening"
+      ],
+      "note": "語塊：fill a job opening（補職缺）、job opening for（……的職缺）。job opening 是「公司正在找人的職位」；vacancy、position 意思接近；opening 也可以是「開幕」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reside",
+      "word": "reside",
+      "pos": "動詞",
+      "meaning": "居住",
+      "sentences": [
+        {
+          "en": "Applicants must reside in the city for at least one year before they can apply for the housing program.",
+          "zh": "申請者必須在本市居住至少一年，才能申請住宅方案。"
+        },
+        {
+          "en": "More than half of the company's employees reside in the suburbs and commute to work by train.",
+          "zh": "公司一半以上的員工住在郊區，搭火車通勤上班。"
+        },
+        {
+          "en": "Students who reside in the university dormitory can use the library and the gym twenty-four hours a day.",
+          "zh": "住在大學宿舍的學生可以二十四小時使用圖書館和健身房。"
+        },
+        {
+          "en": "Many retired people choose to reside in quiet towns near the ocean, where the climate is mild.",
+          "zh": "很多退休人士選擇住在靠海、氣候溫和的安靜小鎮。"
+        },
+        {
+          "en": "Please write the full address where you currently reside on the application form, including the postal code.",
+          "zh": "請在申請表上寫下你目前居住的完整地址，包括郵遞區號。"
+        }
+      ],
+      "distractors": [
+        "resign",
+        "resist",
+        "decide"
+      ],
+      "note": "語塊：reside in（居住在……）、currently reside（目前居住）。reside 是正式的「居住」；live 是一般說法；residence 是「住所」；resident 是「居民」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-depth",
+      "word": "in-depth",
+      "pos": "形容詞",
+      "meaning": "深入的；詳盡的",
+      "sentences": [
+        {
+          "en": "The magazine published an in-depth report about how climate change is affecting farmers in the region.",
+          "zh": "那本雜誌刊登了一篇關於氣候變遷如何影響這個地區農民的深入報導。"
+        },
+        {
+          "en": "The researchers will conduct an in-depth interview with each customer to find out what they need.",
+          "zh": "研究人員會和每位顧客進行深度訪談，了解他們的需求。"
+        },
+        {
+          "en": "The consultant carried out an in-depth study of the company's costs before making any suggestions.",
+          "zh": "顧問在提出任何建議前，先對公司的成本做了深入研究。"
+        },
+        {
+          "en": "The training course gives new managers an in-depth look at how the company makes its decisions.",
+          "zh": "訓練課程讓新主管深入了解公司如何做決策。"
+        },
+        {
+          "en": "The newspaper's in-depth report on the factory accident helped the public understand what really happened.",
+          "zh": "報紙對工廠事故的深入報導幫助大眾了解真正發生了什麼事。"
+        }
+      ],
+      "distractors": [
+        "in-house",
+        "in-flight",
+        "indebted"
+      ],
+      "note": "語塊：in-depth report（深入報導）、in-depth interview（深度訪談）、in-depth study（深入研究）。in-depth 放在名詞前面；in depth（沒有連字號）當副詞用（discuss in depth）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subtotal",
+      "word": "subtotal",
+      "pos": "名詞",
+      "meaning": "小計",
+      "sentences": [
+        {
+          "en": "The subtotal on the bill was eighty dollars, but the final total was higher because of tax and service charge.",
+          "zh": "帳單小計是八十元，但加上稅和服務費後總額更高。"
+        },
+        {
+          "en": "Please check the subtotal before tax carefully, because the price of one item may be wrong.",
+          "zh": "請仔細檢查稅前小計，因為某一項商品的價格可能有誤。"
+        },
+        {
+          "en": "Customers whose subtotal is more than one hundred dollars will receive free delivery anywhere in the city.",
+          "zh": "小計超過一百元的顧客可享市內任何地點免費送貨。"
+        },
+        {
+          "en": "The website shows the subtotal of your order before you choose the delivery method and pay.",
+          "zh": "網站會在你選擇送貨方式和付款前顯示訂單的小計。"
+        },
+        {
+          "en": "The accountant added the subtotal of each department to calculate the total cost of the project.",
+          "zh": "會計把每個部門的小計加起來，算出專案的總成本。"
+        }
+      ],
+      "distractors": [
+        "total",
+        "subtitle",
+        "subsidy"
+      ],
+      "note": "語塊：the subtotal of（……的小計）、subtotal before tax（稅前小計）。subtotal 是「還沒加稅或其他費用的金額」；total 是「總計」；sum 是「總和」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nationwide",
+      "word": "nationwide",
+      "pos": "形容詞",
+      "meaning": "全國性的",
+      "sentences": [
+        {
+          "en": "The company launched a nationwide campaign to encourage people to recycle plastic bottles and paper.",
+          "zh": "公司發起一項全國性宣傳活動，鼓勵民眾回收塑膠瓶和紙類。"
+        },
+        {
+          "en": "A nationwide survey showed that most people want to work from home at least two days a week.",
+          "zh": "一項全國調查顯示，大部分人希望一週至少在家工作兩天。"
+        },
+        {
+          "en": "The bank has a nationwide network of more than five hundred branches, so customers can find one easily.",
+          "zh": "那家銀行在全國有五百多家分行，所以顧客很容易就找到一家。"
+        },
+        {
+          "en": "The new phone will be available nationwide next month, starting with the largest cities in the north.",
+          "zh": "新手機下個月將在全國上市，從北部最大的城市開始。"
+        },
+        {
+          "en": "The government will start a nationwide program to help small businesses start selling their products online.",
+          "zh": "政府將推動一項全國性計畫，幫助小企業開始在網路上販售產品。"
+        }
+      ],
+      "distractors": [
+        "worldwide",
+        "statewide",
+        "citywide"
+      ],
+      "note": "語塊：nationwide campaign（全國性宣傳活動）、nationwide survey（全國調查）、nationwide network（全國網絡）。nationwide 可以當形容詞或副詞「全國地」；worldwide 是「全世界的」；national 是「國家的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-toddler",
+      "word": "toddler",
+      "pos": "名詞",
+      "meaning": "學步的幼兒",
+      "sentences": [
+        {
+          "en": "The restaurant provides a special chair for every toddler, so parents can eat their meals comfortably.",
+          "zh": "那家餐廳為每位幼兒提供特別的椅子，讓父母可以舒服地用餐。"
+        },
+        {
+          "en": "The store sells safe toys for every toddler, made of soft wood and painted in natural colors.",
+          "zh": "那家店販售適合每位幼兒的安全玩具，用軟木製作、塗上天然顏料。"
+        },
+        {
+          "en": "Parents with a toddler can use the family room at the airport, which has a small play area.",
+          "zh": "帶著幼兒的父母可以使用機場的家庭室，裡面有一個小遊戲區。"
+        },
+        {
+          "en": "The new park has a special area where a toddler can play safely away from older children.",
+          "zh": "新公園有一個專區，讓幼兒可以遠離大孩子安全地玩。"
+        },
+        {
+          "en": "Many airlines let parents with a toddler board the plane first so that they have time to sit down.",
+          "zh": "很多航空公司讓帶幼兒的父母先登機，讓他們有時間坐好。"
+        }
+      ],
+      "distractors": [
+        "ladder",
+        "fodder",
+        "teenager"
+      ],
+      "note": "語塊：every toddler（每位幼兒）、with a toddler（帶著幼兒）、a toddler can play（幼兒可以玩）。toddler 是一到三歲、剛學走路的小孩；infant 是「嬰兒」；preschooler 是「學齡前兒童」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
