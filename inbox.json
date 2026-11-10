@@ -73168,6 +73168,706 @@
       ],
       "note": "語塊：travel destination（旅遊勝地）、popular destination（熱門目的地）、final destination（最終目的地）。destination 是「要去的地方」；destiny 是「命運」；departure 是「出發」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-require",
+      "word": "require",
+      "pos": "動詞",
+      "meaning": "需要；要求",
+      "sentences": [
+        {
+          "en": "The new rules require all visitors to wear a helmet when they enter the construction site.",
+          "zh": "新規定要求所有訪客進入工地時都要戴安全帽。"
+        },
+        {
+          "en": "This position will require a lot of travel, so applicants should be willing to visit clients abroad.",
+          "zh": "這個職位需要經常出差，所以應徵者要願意到國外拜訪客戶。"
+        },
+        {
+          "en": "Any purchase over one thousand dollars will require approval from the department head before the order is placed.",
+          "zh": "任何超過一千元的採購在下單前都需要部門主管核准。"
+        },
+        {
+          "en": "The airline does not require passengers to print their boarding passes, because they can use their phones.",
+          "zh": "航空公司不要求乘客列印登機證，因為可以用手機。"
+        },
+        {
+          "en": "Building a new factory will require a large amount of money and at least two years of work.",
+          "zh": "蓋新工廠需要大筆資金和至少兩年的工作。"
+        }
+      ],
+      "distractors": [
+        "acquire",
+        "inquire",
+        "retire"
+      ],
+      "note": "語塊：require sb to do（要求某人……）、be required to（必須……）、require approval（需要核准）。require 比 need 正式；requirement 是名詞「要求；必要條件」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-monthly",
+      "word": "monthly",
+      "pos": "形容詞",
+      "meaning": "每月的",
+      "sentences": [
+        {
+          "en": "The gym charges a monthly fee of forty dollars, which includes all classes and the swimming pool.",
+          "zh": "健身房每月收費四十元，包含所有課程和游泳池。"
+        },
+        {
+          "en": "The monthly meeting will be held on the first Monday of every month in Conference Room A.",
+          "zh": "月會將在每個月第一個週一於 A 會議室舉行。"
+        },
+        {
+          "en": "Each store manager must send a monthly report on sales and expenses to the head office.",
+          "zh": "每位店長都必須向總公司提交銷售和開支的月報。"
+        },
+        {
+          "en": "Customers who pay the monthly fee automatically will receive a small discount on their bill.",
+          "zh": "自動繳月費的顧客帳單可以享有小折扣。"
+        },
+        {
+          "en": "The company newsletter is a monthly publication that is sent to every employee by e-mail.",
+          "zh": "公司通訊是每月出刊的刊物，用電子郵件寄給每位員工。"
+        }
+      ],
+      "distractors": [
+        "mostly",
+        "manly",
+        "timely"
+      ],
+      "note": "語塊：monthly fee（月費）、monthly meeting（月會）、monthly report（月報）。monthly 可以當形容詞或副詞「每月地」；weekly 是「每週的」；annual 是「每年的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-minimize",
+      "word": "minimize",
+      "pos": "動詞",
+      "meaning": "使減到最少；降低",
+      "sentences": [
+        {
+          "en": "The company is looking for new ways to minimize costs without reducing the quality of its products.",
+          "zh": "公司正在尋找在不降低產品品質的情況下降低成本的新方法。"
+        },
+        {
+          "en": "Workers wear helmets and safety boots to minimize the risk of injury on the construction site.",
+          "zh": "工人戴安全帽和穿安全靴，以降低在工地受傷的風險。"
+        },
+        {
+          "en": "The restaurant tries to minimize waste by giving leftover food to a local charity every evening.",
+          "zh": "那家餐廳每天晚上把剩菜送給當地慈善機構，盡量減少浪費。"
+        },
+        {
+          "en": "To minimize the risk of losing data, please back up your files on a regular basis.",
+          "zh": "為了降低資料遺失的風險，請定期備份你的檔案。"
+        },
+        {
+          "en": "The factory changed its production process to minimize waste and reduce its energy consumption at every factory.",
+          "zh": "每座工廠都改變生產流程，以減少浪費並降低能源消耗。"
+        }
+      ],
+      "distractors": [
+        "maximize",
+        "memorize",
+        "minimal"
+      ],
+      "note": "語塊：minimize costs（降低成本）、minimize the risk（降低風險）、minimize waste（減少浪費）。minimize 是「盡量減少」；maximize 是相反「盡量增加」；minimum 是「最小值」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-stages",
+      "word": "in stages",
+      "pos": "副詞",
+      "meaning": "分階段地",
+      "sentences": [
+        {
+          "en": "The new shopping center will be built in stages, and the first part will open next spring.",
+          "zh": "新購物中心將分階段興建，第一部分明年春天開幕。"
+        },
+        {
+          "en": "The company will introduce the new software in stages so that employees have time to learn it.",
+          "zh": "公司會分階段導入新軟體，讓員工有時間學習。"
+        },
+        {
+          "en": "Payment for the project will be made in stages, after each part of the work is completed.",
+          "zh": "專案款項會分階段支付，在每一部分工作完成後付款。"
+        },
+        {
+          "en": "The refurbishment of the hotel will be done in stages, so some rooms will stay open for guests.",
+          "zh": "飯店的翻新會分階段進行，所以有些房間仍會開放給客人。"
+        },
+        {
+          "en": "The new rules will be introduced in stages over the next six months, starting with the sales department.",
+          "zh": "新規定會在未來六個月分階段推行，從業務部開始。"
+        }
+      ],
+      "distractors": [
+        "on stage",
+        "in phases",
+        "at this stage"
+      ],
+      "note": "語塊：be completed in stages（分階段完成）、introduce in stages（分階段推行）。in stages 是「一段一段地進行」；step by step 意思接近；stage 是「階段；舞台」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-parking-garage",
+      "word": "parking garage",
+      "pos": "名詞",
+      "meaning": "停車場（室內或立體）",
+      "sentences": [
+        {
+          "en": "Visitors can park in the parking garage under the building for free for the first two hours.",
+          "zh": "訪客可以在大樓下方的停車場免費停車前兩小時。"
+        },
+        {
+          "en": "The parking garage entrance is on Oak Street, behind the main entrance of the shopping mall.",
+          "zh": "停車場入口在橡樹街，在購物中心正門後面。"
+        },
+        {
+          "en": "The hotel has an underground parking garage with more than five hundred spaces for guests.",
+          "zh": "飯店有一個地下停車場，有五百多個車位給客人使用。"
+        },
+        {
+          "en": "Please remember the floor and number where you parked, because the parking garage is very large.",
+          "zh": "請記住你停車的樓層和號碼，因為停車場非常大。"
+        },
+        {
+          "en": "The city will build a new parking garage near the train station to reduce traffic on the main streets.",
+          "zh": "市政府將在火車站附近蓋一座新停車場，以減少主要街道的車流。"
+        }
+      ],
+      "distractors": [
+        "parking lot",
+        "parking meter",
+        "garage sale"
+      ],
+      "note": "語塊：underground parking garage（地下停車場）、parking garage entrance（停車場入口）。parking garage 是有屋頂、多層的停車場；parking lot 是露天停車場。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-administrator",
+      "word": "administrator",
+      "pos": "名詞",
+      "meaning": "管理者；行政人員",
+      "sentences": [
+        {
+          "en": "Please contact the system administrator if you cannot log in to your computer this morning.",
+          "zh": "如果你今天早上無法登入電腦，請聯絡系統管理員。"
+        },
+        {
+          "en": "The hospital administrator announced that a new children's ward will open at the end of the year.",
+          "zh": "醫院管理人員宣布，新的兒童病房將在年底啟用。"
+        },
+        {
+          "en": "Every school administrator must attend a training session on the new safety rules next week.",
+          "zh": "每位學校行政人員都必須參加下週新安全規定的訓練課程。"
+        },
+        {
+          "en": "The system administrator will update the software on all office computers this weekend while everyone is away.",
+          "zh": "系統管理員這個週末趁大家不在時會更新所有辦公室電腦的軟體。"
+        },
+        {
+          "en": "Ms. Park worked as a hospital administrator for ten years before she started her own consulting firm.",
+          "zh": "朴小姐當了十年醫院管理人員，之後才創立自己的顧問公司。"
+        }
+      ],
+      "distractors": [
+        "administration",
+        "ambassador",
+        "moderator"
+      ],
+      "note": "語塊：system administrator（系統管理員）、school administrator（學校行政人員）、hospital administrator（醫院管理人員）。administrator 是負責管理或行政工作的人；administration 是「行政」；administrative 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-management-office",
+      "word": "management office",
+      "pos": "名詞",
+      "meaning": "管理處；管理辦公室",
+      "sentences": [
+        {
+          "en": "Please contact the building management office if the air conditioning in your office stops working.",
+          "zh": "如果你辦公室的冷氣停止運作，請聯絡大樓管理處。"
+        },
+        {
+          "en": "Residents can pick up their packages at the management office on the first floor until eight at night.",
+          "zh": "住戶可以到一樓的管理處領包裹，開到晚上八點。"
+        },
+        {
+          "en": "The management office will send a notice to all tenants before the water is turned off for repairs.",
+          "zh": "停水維修之前，管理處會發通知給所有房客。"
+        },
+        {
+          "en": "If you need an extra parking permit, please fill in the form at the management office.",
+          "zh": "如果你需要額外的停車證，請到管理處填寫表格。"
+        },
+        {
+          "en": "The building management office is closed on Sundays, but you can call the security guard in an emergency.",
+          "zh": "大樓管理處週日休息，但緊急情況可以打電話給警衛。"
+        }
+      ],
+      "distractors": [
+        "administration office",
+        "head office",
+        "post office"
+      ],
+      "note": "語塊：building management office（大樓管理處）、contact the management office（聯絡管理處）、at the management office（在管理處）、the management office will send（管理處會發送）。management office 是負責大樓或社區管理的辦公室；management 是「管理（階層）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-space",
+      "word": "space",
+      "pos": "名詞",
+      "meaning": "空間；場地",
+      "sentences": [
+        {
+          "en": "The company is looking for more office space because it plans to hire fifty new employees this year.",
+          "zh": "公司在找更多辦公空間，因為今年打算雇用五十名新員工。"
+        },
+        {
+          "en": "It is difficult to find a parking space downtown on weekends, so please take public transit.",
+          "zh": "週末在市中心很難找到停車位，所以請搭大眾運輸。"
+        },
+        {
+          "en": "The new kitchen has much more storage space, so the chefs can keep more ingredients on hand.",
+          "zh": "新廚房有更多儲存空間，所以廚師可以備更多食材。"
+        },
+        {
+          "en": "The conference center has enough space for more than one thousand people in its main hall.",
+          "zh": "會議中心大廳有足夠容納一千多人的空間。"
+        },
+        {
+          "en": "We need to make space in the warehouse for the large shipment of furniture that arrives on Monday.",
+          "zh": "我們需要在倉庫騰出空間，給週一到貨的那一大批家具。"
+        }
+      ],
+      "distractors": [
+        "spice",
+        "pace",
+        "spade"
+      ],
+      "note": "語塊：office space（辦公空間）、parking space（停車位）、storage space（儲存空間）。space 是不可數時指「空間」；可數時指「一個位置」（a parking space）；spacious 是「寬敞的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-forecast",
+      "word": "forecast",
+      "pos": "名詞",
+      "meaning": "預報；預測",
+      "sentences": [
+        {
+          "en": "According to the weather forecast, it will rain all weekend, so the outdoor concert may be canceled.",
+          "zh": "根據天氣預報，整個週末都會下雨，所以戶外演唱會可能會取消。"
+        },
+        {
+          "en": "The finance team will prepare a sales forecast for next year based on the results of the last three years.",
+          "zh": "財務團隊會根據過去三年的結果準備明年的銷售預測。"
+        },
+        {
+          "en": "The bank's economic forecast says that prices will continue to rise slowly over the next two years.",
+          "zh": "銀行的經濟預測說，未來兩年物價會持續緩慢上漲。"
+        },
+        {
+          "en": "Please check the weather forecast before you go hiking, because the mountain weather changes quickly.",
+          "zh": "去健行之前請先看天氣預報，因為山上天氣變化很快。"
+        },
+        {
+          "en": "The sales forecast was too optimistic, so the company had to reduce its production plans.",
+          "zh": "銷售預測太樂觀，所以公司必須縮減生產計畫。"
+        }
+      ],
+      "distractors": [
+        "forehead",
+        "foresee",
+        "broadcast"
+      ],
+      "note": "語塊：weather forecast（天氣預報）、sales forecast（銷售預測）、economic forecast（經濟預測）。forecast 可以當名詞或動詞「預測」（過去式常用 forecast）；prediction 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-climate",
+      "word": "climate",
+      "pos": "名詞",
+      "meaning": "氣候；風氣",
+      "sentences": [
+        {
+          "en": "Many companies are trying to reduce their pollution because they are worried about climate change.",
+          "zh": "很多公司正在減少污染，因為他們擔心氣候變遷。"
+        },
+        {
+          "en": "In the current economic climate, many people are saving money instead of buying new cars or houses.",
+          "zh": "在目前的經濟情勢下，很多人選擇存錢而不是買新車或新房。"
+        },
+        {
+          "en": "The island has a warm climate all year, so it is a popular destination during the winter months.",
+          "zh": "那座島全年氣候溫暖，所以冬季是熱門的旅遊目的地。"
+        },
+        {
+          "en": "The conference will focus on how climate change affects farmers and the price of food.",
+          "zh": "研討會將聚焦氣候變遷如何影響農民和食物價格。"
+        },
+        {
+          "en": "Many retired people move to areas with a warm climate because the winters there are mild.",
+          "zh": "很多退休人士搬到氣候溫暖的地區，因為那裡的冬天很溫和。"
+        }
+      ],
+      "distractors": [
+        "climax",
+        "climb",
+        "clinic"
+      ],
+      "note": "語塊：climate change（氣候變遷）、economic climate（經濟情勢）、warm climate（溫暖的氣候）。climate 是「長期的氣候」；weather 是「每天的天氣」；也可以比喻「環境、氛圍」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-plot",
+      "word": "plot",
+      "pos": "名詞",
+      "meaning": "小塊土地；情節",
+      "sentences": [
+        {
+          "en": "The company bought a large plot of land near the highway to build a new warehouse next year.",
+          "zh": "公司在高速公路附近買了一大塊地，明年要蓋新倉庫。"
+        },
+        {
+          "en": "Residents can rent a small garden plot in the community park to grow their own vegetables.",
+          "zh": "居民可以在社區公園租一小塊菜園地，自己種菜。"
+        },
+        {
+          "en": "The main plot of the film is about a young woman who opens a bakery in a small town.",
+          "zh": "那部電影的主要情節是一位年輕女性在小鎮開麵包店的故事。"
+        },
+        {
+          "en": "The city is selling a plot of land next to the river, and several developers want to buy it.",
+          "zh": "市政府在出售河邊的一塊地，好幾家開發商都想買。"
+        },
+        {
+          "en": "Each family in the program receives a garden plot and free seeds at the beginning of spring.",
+          "zh": "計畫裡的每個家庭在春天開始時都會得到一塊菜園地和免費種子。"
+        }
+      ],
+      "distractors": [
+        "pilot",
+        "slot",
+        "plant"
+      ],
+      "note": "語塊：plot of land（一塊地）、garden plot（菜園地）、main plot（主要情節）。plot 可以是「一小塊地」、「故事情節」或「陰謀」；當動詞是「畫出；密謀」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-professional",
+      "word": "professional",
+      "pos": "形容詞",
+      "meaning": "專業的；職業的",
+      "sentences": [
+        {
+          "en": "Applicants should have at least three years of professional experience in marketing or sales at an international company.",
+          "zh": "應徵者應該有至少三年在跨國公司做行銷或業務的專業經驗。"
+        },
+        {
+          "en": "If you have problems with your taxes, you should ask for professional advice from an accountant.",
+          "zh": "如果你的稅務有問題，應該向會計師尋求專業建議。"
+        },
+        {
+          "en": "The company pays for courses that help employees with their professional development and career goals every year.",
+          "zh": "公司每年都會支付幫助員工專業發展和職涯目標的課程費用。"
+        },
+        {
+          "en": "The hotel staff were very professional and handled every problem with our rooms quickly and politely.",
+          "zh": "飯店員工非常專業，我們房間的每個問題都處理得又快又有禮貌。"
+        },
+        {
+          "en": "Please wear professional clothes when you meet clients, even if the office has a casual dress code.",
+          "zh": "即使辦公室的穿著規定很隨性，見客戶時也請穿專業的服裝。"
+        }
+      ],
+      "distractors": [
+        "profession",
+        "proficient",
+        "provisional"
+      ],
+      "note": "語塊：professional experience（專業經驗）、professional advice（專業建議）、professional development（專業發展）。professional 可以當形容詞或名詞「專業人士」；profession 是「職業」；amateur 是「業餘的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keynote-speaker",
+      "word": "keynote speaker",
+      "pos": "名詞",
+      "meaning": "主題演講者",
+      "sentences": [
+        {
+          "en": "The organizers invited a famous scientist to be the keynote speaker at the conference in Seoul.",
+          "zh": "主辦單位邀請一位知名科學家擔任首爾研討會的主題演講者。"
+        },
+        {
+          "en": "Ms. Lee was the keynote speaker at the annual meeting, and she talked about the future of online shopping.",
+          "zh": "李小姐是年會的主題演講者，她談論網路購物的未來。"
+        },
+        {
+          "en": "The keynote speaker will begin at nine o'clock, so please arrive early to find a good seat.",
+          "zh": "主題演講者九點開始演講，所以請提早到找好位子。"
+        },
+        {
+          "en": "Tickets sold out quickly because many people wanted to hear the keynote speaker talk about electric cars.",
+          "zh": "門票很快賣光，因為很多人想聽主題演講者談電動車。"
+        },
+        {
+          "en": "Each year, the association invites a keynote speaker from a different industry to share new ideas.",
+          "zh": "協會每年都邀請一位來自不同產業的主題演講者分享新想法。"
+        }
+      ],
+      "distractors": [
+        "guest speaker",
+        "public speaker",
+        "loudspeaker"
+      ],
+      "note": "語塊：invite a keynote speaker（邀請主題演講者）、keynote speaker at（在……的主講人）。keynote 是「主旨；基調」；keynote speech 是「主題演講」；guest speaker 是「客座講者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subscribe",
+      "word": "subscribe",
+      "pos": "動詞",
+      "meaning": "訂閱；訂購",
+      "sentences": [
+        {
+          "en": "Customers who subscribe to our newsletter will receive a discount code for their first purchase.",
+          "zh": "訂閱我們電子報的顧客會收到首購折扣碼。"
+        },
+        {
+          "en": "You can subscribe online to the magazine and receive every issue at home for one year.",
+          "zh": "你可以線上訂閱這本雜誌，一年內每期都會送到家。"
+        },
+        {
+          "en": "Many people now subscribe to music and video services instead of buying CDs and DVDs.",
+          "zh": "現在很多人訂閱音樂和影音服務，而不是買 CD 和 DVD。"
+        },
+        {
+          "en": "Employees can subscribe to the company newsletter to get the latest news about new projects.",
+          "zh": "員工可以訂閱公司通訊，獲得新專案的最新消息。"
+        },
+        {
+          "en": "If you subscribe before the end of the month, you will receive the first three issues for free.",
+          "zh": "如果你在月底前訂閱，前三期免費。"
+        }
+      ],
+      "distractors": [
+        "describe",
+        "prescribe",
+        "subscript"
+      ],
+      "note": "語塊：subscribe to（訂閱……）、subscribe online（線上訂閱）。subscribe to + 刊物或服務；subscription 是名詞「訂閱」；subscriber 是「訂閱者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-publication",
+      "word": "publication",
+      "pos": "名詞",
+      "meaning": "出版；刊物",
+      "sentences": [
+        {
+          "en": "The date of publication for the new book has been moved to March because the author needed more time.",
+          "zh": "新書的出版日期延到三月，因為作者需要更多時間。"
+        },
+        {
+          "en": "The company newsletter is a monthly publication that includes company news, interviews with employees, and photos.",
+          "zh": "公司通訊是每月出刊的刊物，內容有公司新聞、員工專訪和照片。"
+        },
+        {
+          "en": "The publication of the report caused a lot of discussion about air pollution in the city.",
+          "zh": "那份報告的發表引起很多關於市區空氣污染的討論。"
+        },
+        {
+          "en": "The magazine is a popular publication for people who are interested in travel and food.",
+          "zh": "那本雜誌是對旅遊和美食有興趣的人很喜歡的刊物。"
+        },
+        {
+          "en": "Please check every fact in the article carefully before publication, because mistakes are difficult to fix later.",
+          "zh": "發表前請仔細檢查文章裡的每個事實，因為錯誤之後很難修正。"
+        }
+      ],
+      "distractors": [
+        "publicity",
+        "population",
+        "application"
+      ],
+      "note": "語塊：date of publication（出版日期）、monthly publication（月刊）、publication of（……的出版）。publication 是 publish（出版）的名詞；publisher 是「出版社」；public 是「公眾的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-usability",
+      "word": "usability",
+      "pos": "名詞",
+      "meaning": "易用性；可用性",
+      "sentences": [
+        {
+          "en": "The design team will run a usability test with twenty customers before the new app is launched.",
+          "zh": "設計團隊會在新 App 上線前找二十位顧客做易用性測試。"
+        },
+        {
+          "en": "The new website is much easier to use, because the company worked hard to improve usability.",
+          "zh": "新網站好用很多，因為公司努力提升了易用性。"
+        },
+        {
+          "en": "Older users said that the usability of the phone was poor, because the buttons were too small.",
+          "zh": "年長使用者說那支手機的易用性很差，因為按鈕太小。"
+        },
+        {
+          "en": "The results of the usability test showed that most people could not find the search button.",
+          "zh": "易用性測試的結果顯示，大部分人找不到搜尋按鈕。"
+        },
+        {
+          "en": "Good usability is important, because customers will stop using an app if it is too difficult.",
+          "zh": "好的易用性很重要，因為如果 App 太難用，顧客就會停止使用。"
+        }
+      ],
+      "distractors": [
+        "utility",
+        "usage",
+        "liability"
+      ],
+      "note": "語塊：usability test（易用性測試）、improve usability（提升易用性）。usability 是「好不好用」；usable 是形容詞「可用的」；utility 是「實用；公用事業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-quality-assurance",
+      "word": "quality assurance",
+      "pos": "名詞",
+      "meaning": "品質保證；品保",
+      "sentences": [
+        {
+          "en": "The quality assurance team checks every product before it leaves the factory to make sure there are no problems.",
+          "zh": "品保團隊在每件產品出廠前都會檢查，確保沒有問題。"
+        },
+        {
+          "en": "Ms. Chen has worked in quality assurance for ten years and knows the safety rules very well.",
+          "zh": "陳小姐從事品保工作十年，非常熟悉安全規定。"
+        },
+        {
+          "en": "The company improved its quality assurance process after many customers complained about broken parts in its products.",
+          "zh": "很多顧客抱怨產品零件損壞後，公司改善了品保流程。"
+        },
+        {
+          "en": "Every new phone goes through the quality assurance process, including tests for water and heat.",
+          "zh": "每支新手機都要經過品保流程，包括防水和耐熱測試。"
+        },
+        {
+          "en": "The quality assurance team found a small problem with the software, so the launch was delayed one week.",
+          "zh": "品保團隊發現軟體有個小問題，所以上線延後了一週。"
+        }
+      ],
+      "distractors": [
+        "quality control",
+        "life insurance",
+        "self-assurance"
+      ],
+      "note": "語塊：quality assurance team（品保團隊）、quality assurance process（品保流程）。quality assurance 常縮寫成 QA；quality control 是「品質管控」；assurance 是「保證」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accompanying",
+      "word": "accompanying",
+      "pos": "形容詞",
+      "meaning": "隨附的；伴隨的",
+      "sentences": [
+        {
+          "en": "Please read all of the accompanying documents carefully before you sign the contract at the meeting next week.",
+          "zh": "下週開會簽約前，請仔細閱讀所有隨附的文件。"
+        },
+        {
+          "en": "The accompanying letter explains step by step how to install the new software on your computer.",
+          "zh": "附函一步步說明如何在你的電腦上安裝新軟體。"
+        },
+        {
+          "en": "The photos in the accompanying brochure show every room in the hotel and the view from the balcony.",
+          "zh": "隨附簡介裡的照片展示了飯店每間房間和陽台的景色。"
+        },
+        {
+          "en": "Please send your résumé with an accompanying letter that explains why you want the position.",
+          "zh": "請寄出履歷，並附上一封說明你為什麼想要這個職位的附函。"
+        },
+        {
+          "en": "Every machine we sell comes with an accompanying manual in English, Chinese, Korean, and Japanese.",
+          "zh": "我們賣的每台機器都附有英文、中文、韓文和日文的隨附手冊。"
+        }
+      ],
+      "distractors": [
+        "accomplishing",
+        "accommodating",
+        "company"
+      ],
+      "note": "語塊：accompanying documents（隨附文件）、accompanying letter（附函）。accompanying 是「一起附上的」；accompany 是動詞「陪同；伴隨」；attached 是「附加的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-functionality",
+      "word": "functionality",
+      "pos": "名詞",
+      "meaning": "功能（性）",
+      "sentences": [
+        {
+          "en": "The free version of the app has basic functionality, but you must pay to use the advanced features.",
+          "zh": "App 的免費版有基本功能，但要付費才能使用進階功能。"
+        },
+        {
+          "en": "The software update will improve functionality and fix several problems that users reported last month.",
+          "zh": "軟體更新將改善功能，並修正使用者上個月回報的幾個問題。"
+        },
+        {
+          "en": "The engineers plan to add functionality to the website so that customers can track their orders.",
+          "zh": "工程師計畫在網站增加功能，讓顧客可以追蹤訂單。"
+        },
+        {
+          "en": "Customers care more about the functionality of the product than its color, size, or design.",
+          "zh": "顧客更在乎產品的功能，而不是顏色、尺寸或設計。"
+        },
+        {
+          "en": "The new printer has the same basic functionality as the old one, but it is much faster and quieter.",
+          "zh": "新印表機的基本功能和舊的一樣，但快很多也安靜很多。"
+        }
+      ],
+      "distractors": [
+        "formality",
+        "personality",
+        "nationality"
+      ],
+      "note": "語塊：basic functionality（基本功能）、improve functionality（改善功能）、add functionality（增加功能）。functionality 是「功能、能做的事」；function 是「功能；作用」；functional 是「實用的；能運作的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tentatively",
+      "word": "tentatively",
+      "pos": "副詞",
+      "meaning": "暫定地；試探性地",
+      "sentences": [
+        {
+          "en": "The meeting is tentatively scheduled for next Tuesday, but the time may change if the client is busy.",
+          "zh": "會議暫定下週二，但如果客戶很忙，時間可能會改。"
+        },
+        {
+          "en": "The opening of the new store is tentatively planned for March, depending on when the refurbishment is finished.",
+          "zh": "新店開幕初步計畫在三月，要看翻修什麼時候完成。"
+        },
+        {
+          "en": "The company has tentatively agreed to the price, but the final contract has not been signed yet.",
+          "zh": "公司已經初步同意這個價格，但最終合約還沒簽。"
+        },
+        {
+          "en": "The concert is tentatively scheduled for the last weekend of August at the outdoor stadium.",
+          "zh": "演唱會暫定在八月最後一個週末於戶外體育場舉行。"
+        },
+        {
+          "en": "Ms. Kim has tentatively accepted the job offer, but she wants to discuss the salary first.",
+          "zh": "金小姐初步接受了工作邀約，但她想先談薪水。"
+        }
+      ],
+      "distractors": [
+        "temporarily",
+        "attentively",
+        "tenderly"
+      ],
+      "note": "語塊：tentatively scheduled（暫定）、tentatively planned（初步計畫）。tentatively 是「先暫時這樣決定，之後可能改」；tentative 是形容詞「暫定的」；temporarily 是「暫時地」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
