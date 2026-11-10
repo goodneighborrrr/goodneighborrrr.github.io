@@ -76668,6 +76668,706 @@
       ],
       "note": "語塊：forward an e-mail（轉寄電子郵件）、forward to（轉給……）、look forward to（期待）。forward 當動詞是「轉寄」；當副詞是「向前」；look forward to 後面接名詞或 V-ing。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-come-across",
+      "word": "come across",
+      "pos": "片語動詞",
+      "meaning": "偶然發現；給人……印象",
+      "sentences": [
+        {
+          "en": "I happened to come across an interesting article about the company while I was reading the news online.",
+          "zh": "我在網路上看新聞時，偶然看到一篇關於那家公司的有趣文章。"
+        },
+        {
+          "en": "The new manager may come across as strict at first, but she is actually very kind and helpful.",
+          "zh": "新經理一開始可能給人很嚴格的印象，但她其實非常和善又樂於幫忙。"
+        },
+        {
+          "en": "If you come across any mistakes in the report, please let me know before Friday.",
+          "zh": "如果你在報告裡發現任何錯誤，請在週五前告訴我。"
+        },
+        {
+          "en": "While cleaning the storage room, we were surprised to come across old photos from the company's first year.",
+          "zh": "打掃儲藏室時，我們偶然發現公司第一年的老照片。"
+        },
+        {
+          "en": "It is important to come across as confident and friendly during a job interview with a large company.",
+          "zh": "在大公司的求職面試時，給人自信又友善的印象很重要。"
+        }
+      ],
+      "distractors": [
+        "come along",
+        "come up with",
+        "come over"
+      ],
+      "note": "語塊：come across an article（偶然看到一篇文章）、come across as（給人……的印象）。come across 是「無意間碰到」；也可以是「給人某種感覺」（come across as friendly）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vast",
+      "word": "vast",
+      "pos": "形容詞",
+      "meaning": "巨大的；大量的",
+      "sentences": [
+        {
+          "en": "The vast majority of our customers are happy with our service, according to the latest survey.",
+          "zh": "根據最新調查，我們絕大多數的顧客都對服務很滿意。"
+        },
+        {
+          "en": "The company spent a vast amount of money on advertising before the new product was launched.",
+          "zh": "公司在新產品上市前花了大量的錢做廣告。"
+        },
+        {
+          "en": "The national park covers a vast area of mountains, forests, and lakes in the north of the country.",
+          "zh": "那座國家公園涵蓋國家北部一大片山脈、森林和湖泊。"
+        },
+        {
+          "en": "The vast majority of employees prefer to work from home at least one day a week.",
+          "zh": "絕大多數員工希望一週至少有一天在家工作。"
+        },
+        {
+          "en": "The new shopping mall is vast, so visitors can use the map on the app to find the stores.",
+          "zh": "新購物中心非常大，所以參觀者可以用 App 上的地圖找店。"
+        }
+      ],
+      "distractors": [
+        "vest",
+        "vase",
+        "fast"
+      ],
+      "note": "語塊：vast majority（絕大多數）、vast amount（大量）、vast area（廣大的區域）。vast 是「非常大、非常多的」；huge、enormous 意思接近；vest 是「背心」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dairy-products",
+      "word": "dairy products",
+      "pos": "名詞",
+      "meaning": "乳製品",
+      "sentences": [
+        {
+          "en": "The supermarket sells fresh dairy products from local farms, such as milk, cheese, and yogurt.",
+          "zh": "那家超市販售當地農場的新鮮乳製品，例如牛奶、起司和優格。"
+        },
+        {
+          "en": "People who cannot digest milk should avoid dairy products or choose ones made without lactose.",
+          "zh": "無法消化牛奶的人應該避免乳製品，或選擇無乳糖的產品。"
+        },
+        {
+          "en": "The price of dairy products has increased because the cost of feeding cows has gone up.",
+          "zh": "乳製品的價格上漲了，因為養牛的飼料成本上升。"
+        },
+        {
+          "en": "The restaurant offers many dishes without dairy products for customers who follow a special diet.",
+          "zh": "那家餐廳為遵循特殊飲食的顧客提供很多不含乳製品的菜色。"
+        },
+        {
+          "en": "Please keep dairy products in the refrigerator, because they can go bad quickly in hot weather.",
+          "zh": "請把乳製品放在冰箱裡，因為天熱時很快就會壞掉。"
+        }
+      ],
+      "distractors": [
+        "diary",
+        "daily products",
+        "farm products"
+      ],
+      "note": "語塊：fresh dairy products（新鮮乳製品）、avoid dairy products（避免乳製品）、price of dairy products（乳製品價格）、without dairy products（不含乳製品）、keep dairy products（存放乳製品）。dairy 是「乳製品的；酪農的」；diary 是「日記」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-import",
+      "word": "import",
+      "pos": "動詞",
+      "meaning": "進口",
+      "sentences": [
+        {
+          "en": "The company will import coffee beans from South America and sell them to cafés across Asia.",
+          "zh": "公司將從南美洲進口咖啡豆，賣給亞洲各地的咖啡廳。"
+        },
+        {
+          "en": "Many countries import oil because they do not have enough natural resources of their own.",
+          "zh": "很多國家進口石油，因為本身沒有足夠的天然資源。"
+        },
+        {
+          "en": "The store will import furniture from Italy, so prices will be higher than for local products.",
+          "zh": "那家店會從義大利進口家具，所以價格會比本地產品高。"
+        },
+        {
+          "en": "The government made it easier to import goods by reducing taxes and simplifying the rules.",
+          "zh": "政府降低稅金並簡化規定，讓進口貨物更容易。"
+        },
+        {
+          "en": "The restaurant plans to import fresh cheese from France every week for its new menu.",
+          "zh": "那家餐廳打算每週從法國進口新鮮起司，供新菜單使用。"
+        }
+      ],
+      "distractors": [
+        "export",
+        "impart",
+        "impose"
+      ],
+      "note": "語塊：import goods（進口貨物）、import from（從……進口）。import 可以當動詞或名詞「進口（品）」；export 是相反「出口」；importance 是「重要性」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-impressed",
+      "word": "impressed",
+      "pos": "形容詞",
+      "meaning": "印象深刻的；佩服的",
+      "sentences": [
+        {
+          "en": "The client was impressed with the presentation and agreed to sign the contract the same day.",
+          "zh": "客戶對簡報印象深刻，當天就同意簽約。"
+        },
+        {
+          "en": "The judges were deeply impressed by the young designer's creative use of recycled materials in her clothes.",
+          "zh": "評審對那位年輕設計師在服裝中創意運用回收材料深感佩服。"
+        },
+        {
+          "en": "Visitors are always impressed by the view from the top of the tower, especially at night.",
+          "zh": "參觀者總是對塔頂的景色印象深刻，特別是晚上。"
+        },
+        {
+          "en": "The manager was impressed with how quickly the new employee learned the new computer system last week.",
+          "zh": "經理對新員工上週學會新電腦系統的速度印象深刻。"
+        },
+        {
+          "en": "I was impressed by the friendly staff at the hotel, who remembered my name after one day.",
+          "zh": "我對飯店親切的員工印象深刻，他們一天後就記得我的名字。"
+        }
+      ],
+      "distractors": [
+        "impressive",
+        "depressed",
+        "pressed"
+      ],
+      "note": "語塊：be impressed with（對……印象深刻）、be impressed by（被……打動）、deeply impressed（深深佩服）。impressed 是「人覺得很厲害的」；impressive 是「令人印象深刻的（事物）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tentative",
+      "word": "tentative",
+      "pos": "形容詞",
+      "meaning": "暫定的；試探性的",
+      "sentences": [
+        {
+          "en": "Here is the tentative schedule for the conference, but some times may change next week.",
+          "zh": "這是研討會的暫定時程，但有些時間下週可能會變動。"
+        },
+        {
+          "en": "The two companies reached a tentative agreement, but the final contract will be signed next month.",
+          "zh": "兩家公司達成初步協議，但最終合約下個月才會簽。"
+        },
+        {
+          "en": "Our tentative plan is to open the new store in March, but it depends on the refurbishment.",
+          "zh": "我們的暫定計畫是三月開新店，但要看翻修進度。"
+        },
+        {
+          "en": "The dates in the tentative schedule may change if some of the speakers cannot attend.",
+          "zh": "如果有些講者無法出席，暫定時程中的日期可能會變動。"
+        },
+        {
+          "en": "The union and the company reached a tentative agreement on salaries after two weeks of talks.",
+          "zh": "經過兩週的談判，工會和公司就薪資達成初步協議。"
+        }
+      ],
+      "distractors": [
+        "attentive",
+        "tense",
+        "temporary"
+      ],
+      "note": "語塊：tentative plan（暫定計畫）、tentative schedule（暫定時程）、tentative agreement（初步協議）。tentative 是「還沒最後確定的」；tentatively 是副詞；final 是「最終的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cater",
+      "word": "cater",
+      "pos": "動詞",
+      "meaning": "承辦宴席；迎合",
+      "sentences": [
+        {
+          "en": "The hotel can cater for weddings and parties of up to three hundred guests in its main hall.",
+          "zh": "飯店大廳可以承辦最多三百位賓客的婚宴和派對。"
+        },
+        {
+          "en": "The new restaurant tries to cater to young customers by offering cheap meals and free Wi-Fi.",
+          "zh": "新餐廳提供便宜餐點和免費無線網路，試圖迎合年輕顧客。"
+        },
+        {
+          "en": "A local company will cater the event, so guests will enjoy food made with fresh ingredients.",
+          "zh": "一家當地公司會承辦這場活動的餐飲，所以賓客可以享用新鮮食材做的料理。"
+        },
+        {
+          "en": "The store wants to cater to tourists, so most of the staff speak English, Japanese, and Korean.",
+          "zh": "那家店想迎合觀光客，所以大部分員工都會說英文、日文和韓文。"
+        },
+        {
+          "en": "Who will cater the company's anniversary party, and how much will the food cost per person?",
+          "zh": "誰會承辦公司週年派對的餐飲？每人的餐費是多少？"
+        }
+      ],
+      "distractors": [
+        "carter",
+        "crater",
+        "cancel"
+      ],
+      "note": "語塊：cater for（為……提供餐飲）、cater to（迎合……）、cater an event（承辦活動餐飲）。cater 是「提供食物和服務」；caterer 是「外燴業者」；catering 是名詞「外燴」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hospitality",
+      "word": "hospitality",
+      "pos": "名詞",
+      "meaning": "款待；餐旅業",
+      "sentences": [
+        {
+          "en": "Ms. Kim has worked in the hospitality industry for twenty years, first in hotels and later in restaurants.",
+          "zh": "金小姐在餐旅業工作了二十年，先在飯店，後來在餐廳。"
+        },
+        {
+          "en": "Thank you for your warm hospitality during our visit to your factory and offices last week.",
+          "zh": "感謝您上週在我們參觀貴工廠和辦公室時的熱情款待。"
+        },
+        {
+          "en": "The hospitality industry was hit hard during the storm, because many tourists canceled their trips.",
+          "zh": "暴風雨期間餐旅業受到重創，因為很多觀光客取消了行程。"
+        },
+        {
+          "en": "The hotel is famous for its warm hospitality, and many guests return to stay there every year.",
+          "zh": "那家飯店以熱情款待聞名，很多客人每年都會回來住。"
+        },
+        {
+          "en": "The university offers a course in hospitality management for students who want to work in hotels.",
+          "zh": "大學為想在飯店工作的學生開設餐旅管理課程。"
+        }
+      ],
+      "distractors": [
+        "hospital",
+        "hostility",
+        "hostage"
+      ],
+      "note": "語塊：hospitality industry（餐旅業）、warm hospitality（熱情款待）。hospitality 是「熱情招待客人」或「飯店、餐飲等服務業」；hospital 是「醫院」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-apparently",
+      "word": "apparently",
+      "pos": "副詞",
+      "meaning": "顯然；據說",
+      "sentences": [
+        {
+          "en": "Apparently, the meeting has been moved to Thursday, but I have not received an e-mail about it yet.",
+          "zh": "聽說會議改到週四了，但我還沒收到相關的電子郵件。"
+        },
+        {
+          "en": "The restaurant is apparently very popular, because there is always a long line outside on weekends.",
+          "zh": "那家餐廳顯然很受歡迎，因為週末外面總是大排長龍。"
+        },
+        {
+          "en": "Apparently, the new manager used to work at a famous company in Tokyo before she joined us.",
+          "zh": "聽說新經理加入我們之前，在東京一家知名公司工作過。"
+        },
+        {
+          "en": "The machine apparently stopped working because nobody had cleaned the filter inside it for months.",
+          "zh": "機器顯然是因為好幾個月沒人清裡面的濾網才停止運作。"
+        },
+        {
+          "en": "Apparently, the store will close early on Friday because of the holiday, so let's go tomorrow.",
+          "zh": "聽說那家店週五因為假日會提早打烊，所以我們明天去吧。"
+        }
+      ],
+      "distractors": [
+        "appropriately",
+        "approximately",
+        "apparent"
+      ],
+      "note": "語塊：apparently, …（聽說……；看來……）。apparently 常表示「根據聽到或看到的，好像是……」；obviously 是「明顯地」；apparent 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-replacement",
+      "word": "replacement",
+      "pos": "名詞",
+      "meaning": "替換品；接替者",
+      "sentences": [
+        {
+          "en": "The store will send you a free replacement if the product is damaged when it arrives.",
+          "zh": "如果產品送到時有損壞，店家會免費寄替換品給您。"
+        },
+        {
+          "en": "Ms. Lee is leaving the company next month, so we need to find a replacement as soon as possible.",
+          "zh": "李小姐下個月要離職，所以我們需要盡快找人接替。"
+        },
+        {
+          "en": "The technician ordered a replacement part from Germany, which will arrive at the factory on Thursday.",
+          "zh": "技術人員從德國訂了一個替換零件，週四會送到工廠。"
+        },
+        {
+          "en": "If your card is lost or stolen, the bank will send a replacement within five working days.",
+          "zh": "如果你的卡遺失或被偷，銀行會在五個工作天內寄新卡給你。"
+        },
+        {
+          "en": "The hotel found a replacement for the chef who left, and the new menu will start next week.",
+          "zh": "飯店找到接替離職主廚的人，新菜單下週開始。"
+        }
+      ],
+      "distractors": [
+        "placement",
+        "refreshment",
+        "requirement"
+      ],
+      "note": "語塊：replacement part（替換零件）、find a replacement（找人接替）、free replacement（免費更換）。replacement 是 replace（取代；更換）的名詞；substitute 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interpersonal",
+      "word": "interpersonal",
+      "pos": "形容詞",
+      "meaning": "人際的",
+      "sentences": [
+        {
+          "en": "Good interpersonal skills are important for sales staff, because they meet new customers every day.",
+          "zh": "良好的人際技巧對業務人員很重要，因為他們每天都要見新客戶。"
+        },
+        {
+          "en": "The training course helps managers improve their interpersonal skills and communicate better with their teams.",
+          "zh": "訓練課程幫助主管提升人際技巧，和團隊溝通得更好。"
+        },
+        {
+          "en": "Strong interpersonal relationships between colleagues can make the workplace a happier and more productive place for everyone.",
+          "zh": "同事之間良好的人際關係能讓職場對每個人來說更愉快也更有效率。"
+        },
+        {
+          "en": "We are looking for someone with excellent interpersonal skills who enjoys working with people from different countries.",
+          "zh": "我們在找一位人際技巧優秀、喜歡和不同國家的人合作的人。"
+        },
+        {
+          "en": "Problems in interpersonal relationships at work can reduce productivity and cause stress for the whole team.",
+          "zh": "職場上的人際關係問題會降低生產力，並給整個團隊帶來壓力。"
+        }
+      ],
+      "distractors": [
+        "international",
+        "impersonal",
+        "intercontinental"
+      ],
+      "note": "語塊：interpersonal skills（人際技巧）、interpersonal relationships（人際關係）。interpersonal 是「人與人之間的」；personal 是「個人的」；international 是「國際的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-graduate-school",
+      "word": "graduate school",
+      "pos": "名詞",
+      "meaning": "研究所",
+      "sentences": [
+        {
+          "en": "Ms. Chen plans to go to graduate school next year to study marketing in the United States.",
+          "zh": "陳小姐打算明年去美國念研究所，攻讀行銷。"
+        },
+        {
+          "en": "Many students work for a few years before they apply to graduate school, so they have more experience.",
+          "zh": "很多學生先工作幾年再申請研究所，這樣經驗比較豐富。"
+        },
+        {
+          "en": "The company will pay part of the cost for employees who want to go to graduate school in the evening.",
+          "zh": "公司會為想晚上念研究所的員工負擔部分費用。"
+        },
+        {
+          "en": "Mr. Kim met his business partner when they were both studying at graduate school in London.",
+          "zh": "金先生和他的事業夥伴是在倫敦念研究所時認識的。"
+        },
+        {
+          "en": "Applying to graduate school requires good grades, two reference letters, and a short essay about your goals.",
+          "zh": "申請研究所需要好成績、兩封推薦信和一篇關於你目標的短文。"
+        }
+      ],
+      "distractors": [
+        "high school",
+        "business school",
+        "night school"
+      ],
+      "note": "語塊：go to graduate school（念研究所）、apply to graduate school（申請研究所）。graduate school 是大學畢業後念碩士或博士的學校；undergraduate 是「大學部學生」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unavailable",
+      "word": "unavailable",
+      "pos": "形容詞",
+      "meaning": "無法取得的；沒空的",
+      "sentences": [
+        {
+          "en": "The product you ordered is currently unavailable, but we expect to receive more next week.",
+          "zh": "您訂購的產品目前缺貨，但我們預計下週會再進貨。"
+        },
+        {
+          "en": "The website will be temporarily unavailable from midnight to two o'clock tonight because of routine maintenance.",
+          "zh": "網站今晚午夜到兩點會因例行維修暫時無法使用。"
+        },
+        {
+          "en": "Ms. Lee is unavailable this afternoon, so please leave a message and she will call you tomorrow.",
+          "zh": "李小姐今天下午沒空，所以請留言，她明天會回電給你。"
+        },
+        {
+          "en": "The meeting room is unavailable on Friday, so we will have to meet in the cafeteria instead.",
+          "zh": "會議室週五無法使用，所以我們只好改在員工餐廳開會。"
+        },
+        {
+          "en": "Some items on the menu may be unavailable during the holiday season because of high demand.",
+          "zh": "假期期間因為需求高，菜單上的部分品項可能沒有供應。"
+        }
+      ],
+      "distractors": [
+        "invaluable",
+        "unavoidable",
+        "unreliable"
+      ],
+      "note": "語塊：currently unavailable（目前無法提供）、temporarily unavailable（暫時無法使用）、is unavailable this afternoon（今天下午沒空）、unavailable on Friday（週五無法使用）、may be unavailable（可能沒有供應）。unavailable 是「沒有、不能用、沒空」；available 是相反「可取得的；有空的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-questionnaire",
+      "word": "questionnaire",
+      "pos": "名詞",
+      "meaning": "問卷",
+      "sentences": [
+        {
+          "en": "Please fill out the questionnaire after the training session so that we can improve the course.",
+          "zh": "訓練課程結束後請填寫問卷，讓我們能改進課程。"
+        },
+        {
+          "en": "The hotel asks every guest to complete a short questionnaire about their stay before they check out.",
+          "zh": "飯店請每位客人在退房前填寫一份關於住宿的簡短問卷。"
+        },
+        {
+          "en": "The customer questionnaire showed that most people want the store to open earlier in the morning.",
+          "zh": "顧客問卷顯示，大部分人希望店能早上提早開門。"
+        },
+        {
+          "en": "Employees who fill out the questionnaire will be entered into a sweepstakes to win a free trip.",
+          "zh": "填寫問卷的員工可以參加抽獎，有機會贏得免費旅遊。"
+        },
+        {
+          "en": "The questionnaire takes only five minutes to complete, and all of the answers will be kept private.",
+          "zh": "問卷只要五分鐘就能完成，所有答案都會保密。"
+        }
+      ],
+      "distractors": [
+        "question",
+        "millionaire",
+        "billionaire"
+      ],
+      "note": "語塊：fill out a questionnaire（填寫問卷）、customer questionnaire（顧客問卷）。questionnaire 是一份有很多問題的「問卷」；survey 是「調查」；question 是「問題」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-corrective",
+      "word": "corrective",
+      "pos": "形容詞",
+      "meaning": "矯正的；修正的",
+      "sentences": [
+        {
+          "en": "The factory took corrective action after inspectors found several safety problems during their visit last month.",
+          "zh": "上個月稽查員來訪時發現幾個安全問題後，工廠採取了修正措施。"
+        },
+        {
+          "en": "The manager will meet with the team to discuss corrective action for the mistakes in the report.",
+          "zh": "經理會和團隊開會，討論報告錯誤的修正措施。"
+        },
+        {
+          "en": "If the problem happens again, we will take corrective action immediately to protect our customers.",
+          "zh": "如果問題再次發生，我們會立即採取修正措施保護顧客。"
+        },
+        {
+          "en": "The doctor recommended corrective glasses for the student, who had trouble reading the board in class.",
+          "zh": "醫生建議那位上課看不清黑板的學生配戴矯正眼鏡。"
+        },
+        {
+          "en": "The company promised to take corrective action after many customers complained about late deliveries during December.",
+          "zh": "十二月很多顧客抱怨送貨延遲後，公司承諾會採取修正措施。"
+        }
+      ],
+      "distractors": [
+        "correction",
+        "collective",
+        "corrosive"
+      ],
+      "note": "語塊：corrective action（修正措施）、corrective measures（改正措施）。corrective 是「用來修正錯誤的」；correct 是動詞或形容詞「改正；正確的」；correction 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dependable",
+      "word": "dependable",
+      "pos": "形容詞",
+      "meaning": "可靠的；值得信賴的",
+      "sentences": [
+        {
+          "en": "Ms. Park is a dependable employee who always finishes her work on time and helps her colleagues.",
+          "zh": "朴小姐是可靠的員工，總是準時完成工作並幫助同事。"
+        },
+        {
+          "en": "Customers choose our delivery company because we offer fast and dependable service at a fair price.",
+          "zh": "顧客選擇我們的貨運公司，因為我們以公道的價格提供快速又可靠的服務。"
+        },
+        {
+          "en": "The old car is not very fast, but it is dependable and has never broken down on the highway.",
+          "zh": "那台老車不是很快，但很可靠，從來沒在高速公路上拋錨過。"
+        },
+        {
+          "en": "We are looking for a dependable supplier who can deliver materials every week without delays.",
+          "zh": "我們在找一家能每週準時交貨、不延誤的可靠供應商。"
+        },
+        {
+          "en": "A dependable internet connection is important for employees who work from home and attend video meetings every day.",
+          "zh": "可靠的網路連線對每天在家工作、參加視訊會議的員工很重要。"
+        }
+      ],
+      "distractors": [
+        "dependent",
+        "defendable",
+        "expendable"
+      ],
+      "note": "語塊：dependable employee（可靠的員工）、dependable service（可靠的服務）。dependable 是「可以依靠的」；reliable 意思一樣；depend on 是「依賴」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-up-and-coming",
+      "word": "up-and-coming",
+      "pos": "形容詞",
+      "meaning": "嶄露頭角的；有前途的",
+      "sentences": [
+        {
+          "en": "The gallery shows work by up-and-coming artists from Asia who have not yet become famous.",
+          "zh": "那間畫廊展出來自亞洲、還沒成名的新銳藝術家作品。"
+        },
+        {
+          "en": "Many young people are moving to the up-and-coming area near the river, where new cafés have opened.",
+          "zh": "很多年輕人搬到河邊那個新興地區，那裡開了很多新咖啡廳。"
+        },
+        {
+          "en": "The music festival gives up-and-coming singers a chance to perform in front of a large audience.",
+          "zh": "音樂節讓嶄露頭角的歌手有機會在大批觀眾面前表演。"
+        },
+        {
+          "en": "The company invests in up-and-coming start-ups that have new ideas in the technology and energy sectors.",
+          "zh": "那家公司投資科技和能源產業有新點子、有前途的新創公司。"
+        },
+        {
+          "en": "The magazine publishes an interview with an up-and-coming designer from the city in every monthly issue.",
+          "zh": "那本雜誌每個月都會刊登一篇本市新銳設計師的專訪。"
+        }
+      ],
+      "distractors": [
+        "well-known",
+        "old-fashioned",
+        "down-to-earth"
+      ],
+      "note": "語塊：up-and-coming artist（新銳藝術家）、up-and-coming area（新興地區）、up-and-coming singers（新銳歌手）、up-and-coming start-ups（有前途的新創）、up-and-coming designer（新銳設計師）。up-and-coming 是「正在變得成功、受歡迎的」；promising 意思接近；emerging 是「新興的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-slate",
+      "word": "slate",
+      "pos": "動詞",
+      "meaning": "預定；安排",
+      "sentences": [
+        {
+          "en": "The city will slate the new library for completion next spring, according to the latest plan.",
+          "zh": "根據最新計畫，市政府預定新圖書館明年春天完工。"
+        },
+        {
+          "en": "The board decided to slate the product launch for March, after the holiday season ends.",
+          "zh": "董事會決定把產品發表預定在三月，等假期結束之後。"
+        },
+        {
+          "en": "The company will slate several new stores to open in Southeast Asia over the next two years.",
+          "zh": "公司將安排未來兩年在東南亞開幾家新店。"
+        },
+        {
+          "en": "The organizers plan to slate the concert for the last weekend of August at the outdoor stadium.",
+          "zh": "主辦單位計畫把演唱會安排在八月最後一個週末，於戶外體育場舉行。"
+        },
+        {
+          "en": "The airline will slate new flights to Europe for the summer, when demand is usually highest.",
+          "zh": "航空公司將安排夏季飛歐洲的新航班，那時需求通常最高。"
+        }
+      ],
+      "distractors": [
+        "state",
+        "slant",
+        "skate"
+      ],
+      "note": "語塊：be slated for（預定在……）、be slated to（預定要……）。slate 當動詞常用被動 be slated for / to，是「預定、安排」；scheduled 意思接近；當名詞是「石板」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-work-on",
+      "word": "work on",
+      "pos": "片語動詞",
+      "meaning": "致力於；從事",
+      "sentences": [
+        {
+          "en": "Ms. Lee will work on the new marketing project with two designers from the Tokyo office.",
+          "zh": "李小姐會和東京辦公室的兩位設計師一起做新的行銷專案。"
+        },
+        {
+          "en": "I need to work on the report this weekend, because the director wants it on Monday morning.",
+          "zh": "我這週末需要寫報告，因為主任週一早上要。"
+        },
+        {
+          "en": "The team will work on improving customer service after many complaints about long waiting times.",
+          "zh": "在很多人抱怨等候時間太長後，團隊會努力改善客服。"
+        },
+        {
+          "en": "The engineers are working hard to finish the software, and they will work on it all weekend.",
+          "zh": "工程師正在努力完成軟體，整個週末都會做。"
+        },
+        {
+          "en": "If you want to become a manager, you should work on your communication and leadership skills.",
+          "zh": "如果你想當主管，應該加強你的溝通和領導能力。"
+        }
+      ],
+      "distractors": [
+        "work out",
+        "work off",
+        "work for"
+      ],
+      "note": "語塊：work on a project（做專案）、work on a report（寫報告）、work on improving（努力改善）。work on 是「花時間做、改進某事」；work out 是「解決；運動」；work for 是「為……工作」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-original",
+      "word": "original",
+      "pos": "形容詞",
+      "meaning": "原本的；原創的",
+      "sentences": [
+        {
+          "en": "The museum displays the original design of the bridge, which was drawn by hand more than a century ago.",
+          "zh": "博物館展出那座橋的原始設計，是一百多年前手繪的。"
+        },
+        {
+          "en": "Please bring the original receipt if you want to return or exchange the product at the store.",
+          "zh": "如果你想在店裡退換產品，請帶收據正本。"
+        },
+        {
+          "en": "The original plan was to open the store in March, but it was delayed until June.",
+          "zh": "原本的計畫是三月開店，但延到了六月。"
+        },
+        {
+          "en": "The chef is famous for her original dishes, which mix traditional recipes with modern ideas.",
+          "zh": "那位主廚以原創菜色聞名，把傳統食譜和現代想法融合在一起。"
+        },
+        {
+          "en": "The company returned to its original design after customers said they did not like the new one.",
+          "zh": "顧客說不喜歡新設計後，公司又回到原本的設計。"
+        }
+      ],
+      "distractors": [
+        "origin",
+        "ordinal",
+        "organic"
+      ],
+      "note": "語塊：original design（原創設計）、original receipt（收據正本）、original plan（原本的計畫）。original 是「最初的」或「有創意、不是抄的」；originally 是副詞；origin 是「起源」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
