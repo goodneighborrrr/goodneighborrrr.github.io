@@ -50838,6 +50838,706 @@
       ],
       "note": "語塊：calculate the cost（計算成本）、calculate the total（計算總額）。calculate 是「用數學算出」；calculator 是「計算機」；calculation 是名詞。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compensate",
+      "word": "compensate",
+      "pos": "動詞",
+      "meaning": "補償；彌補",
+      "sentences": [
+        {
+          "en": "The airline will compensate passengers for the long delay by giving them free meals and hotel rooms.",
+          "zh": "航空公司將提供免費餐點和飯店房間，補償長時間延誤的乘客。"
+        },
+        {
+          "en": "The company will compensate employees for any travel expenses they pay while on business trips.",
+          "zh": "公司會補償員工出差期間支付的任何差旅費用。"
+        },
+        {
+          "en": "Hiring more staff should compensate for the time we lost when the machines were broken last week.",
+          "zh": "增聘人手應該能彌補上週機器故障時損失的時間。"
+        },
+        {
+          "en": "The store offered a discount to compensate customers for the inconvenience caused by the renovation.",
+          "zh": "那家店提供折扣，補償顧客因整修造成的不便。"
+        },
+        {
+          "en": "Good customer service can compensate for small problems, such as a short wait for a table.",
+          "zh": "好的客服可以彌補小問題，例如等位子等一下下。"
+        }
+      ],
+      "distractors": [
+        "complicate",
+        "contemplate",
+        "concentrate"
+      ],
+      "note": "語塊：compensate for（彌補……）、compensate sb for（補償某人……）。compensate for 是「彌補損失」；compensation 是名詞「補償；薪酬」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contribute",
+      "word": "contribute",
+      "pos": "動詞",
+      "meaning": "貢獻；捐助；促成",
+      "sentences": [
+        {
+          "en": "Every member of the team helped contribute to the success of the project in different ways.",
+          "zh": "團隊每位成員都以不同的方式為專案的成功做出貢獻。"
+        },
+        {
+          "en": "Many local businesses contribute money to the festival so that it can offer free concerts.",
+          "zh": "很多當地商家捐款給慶典，讓它能提供免費音樂會。"
+        },
+        {
+          "en": "Long working hours and stress can contribute to serious health problems among office workers in the city.",
+          "zh": "長工時和壓力可能導致上班族的健康問題。"
+        },
+        {
+          "en": "Employees are encouraged to contribute ideas for improving customer service at the weekly team meeting.",
+          "zh": "公司鼓勵員工在週會上貢獻改善客服的點子。"
+        },
+        {
+          "en": "The new factory will contribute to economic growth in the region by creating hundreds of jobs.",
+          "zh": "新工廠將創造數百個工作機會，促進該地區的經濟成長。"
+        }
+      ],
+      "distractors": [
+        "distribute",
+        "attribute",
+        "constitute"
+      ],
+      "note": "語塊：contribute to（貢獻於……；促成……）、contribute money（捐款）。contribute to 的 to 是介系詞；contribution 是名詞；contributor 是「貢獻者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-simultaneously",
+      "word": "simultaneously",
+      "pos": "副詞",
+      "meaning": "同時地",
+      "sentences": [
+        {
+          "en": "The new phone will be released simultaneously in Asia, Europe, and North America next month.",
+          "zh": "新手機下個月將在亞洲、歐洲和北美同時上市。"
+        },
+        {
+          "en": "The two teams worked simultaneously on different parts of the project so that it could be finished sooner.",
+          "zh": "兩個團隊同時進行專案的不同部分，好讓它能早點完成。"
+        },
+        {
+          "en": "The software allows several people to edit the same document simultaneously from different offices around the world.",
+          "zh": "這套軟體讓好幾個人可以在不同辦公室同時編輯同一份文件。"
+        },
+        {
+          "en": "The conference will be translated simultaneously into three languages for the guests from many other countries.",
+          "zh": "研討會會同步翻譯成三種語言，給來自其他國家的來賓。"
+        },
+        {
+          "en": "It is difficult to manage several large projects simultaneously, so the manager hired an assistant.",
+          "zh": "同時管理好幾個大型專案很困難，所以經理聘了一位助理。"
+        }
+      ],
+      "distractors": [
+        "spontaneously",
+        "instantaneously",
+        "simply"
+      ],
+      "note": "語塊：released simultaneously（同時上市）、worked simultaneously（同時進行）、edit simultaneously（同時編輯）、translated simultaneously（同步翻譯）。simultaneously 是「在同一時間」；at the same time 意思相同；simultaneous 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-eligible",
+      "word": "eligible",
+      "pos": "形容詞",
+      "meaning": "有資格的；合格的",
+      "sentences": [
+        {
+          "en": "Employees who have worked at the company for one year are eligible for an extra week of vacation.",
+          "zh": "在公司工作滿一年的員工有資格多放一週假。"
+        },
+        {
+          "en": "Students who live in the city are eligible to receive a discount on public transportation.",
+          "zh": "住在城裡的學生有資格享有大眾運輸的優惠。"
+        },
+        {
+          "en": "Only members of the loyalty program are eligible for the free gift that comes with each purchase.",
+          "zh": "只有忠誠計畫的會員才有資格在每次購物時獲得免費禮物。"
+        },
+        {
+          "en": "To be eligible for the scholarship, students must have good grades and need financial help.",
+          "zh": "要有資格申請獎學金，學生必須成績好且需要經濟協助。"
+        },
+        {
+          "en": "Customers who spend more than one hundred dollars are eligible to enter the prize draw this month.",
+          "zh": "這個月消費超過一百美元的顧客有資格參加抽獎。"
+        }
+      ],
+      "distractors": [
+        "illegible",
+        "legible",
+        "negligible"
+      ],
+      "note": "語塊：be eligible for（有資格得到……）、be eligible to（有資格做……）。eligible for + 名詞；eligible to + 原形動詞；eligibility 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-delay",
+      "word": "delay",
+      "pos": "名詞",
+      "meaning": "延誤；延遲",
+      "sentences": [
+        {
+          "en": "We apologize for the delay in shipping your order, which was caused by the heavy snow last week.",
+          "zh": "我們為訂單出貨延遲致歉，這是上週大雪造成的。"
+        },
+        {
+          "en": "Please send the documents to our office without delay so that we can process your application.",
+          "zh": "請立刻把文件寄到我們辦公室，讓我們處理你的申請。"
+        },
+        {
+          "en": "An accident on the highway caused a delay of more than one hour for many commuters this morning.",
+          "zh": "公路上的事故讓很多通勤族今天早上延誤了一個多小時。"
+        },
+        {
+          "en": "The construction of the bridge is behind schedule because of a delay in the delivery of steel.",
+          "zh": "因為鋼材延遲交貨，橋樑工程落後進度。"
+        },
+        {
+          "en": "Passengers were given free drinks because of the delay at the airport caused by bad weather.",
+          "zh": "因為壞天氣造成機場延誤，乘客獲得了免費飲料。"
+        }
+      ],
+      "distractors": [
+        "relay",
+        "decay",
+        "display"
+      ],
+      "note": "語塊：without delay（立即）、cause a delay（造成延誤）、a delay in（……的延遲）。delay 可以當名詞或動詞「延誤」；postpone 是「延期（到之後）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subtract",
+      "word": "subtract",
+      "pos": "動詞",
+      "meaning": "減去；扣除",
+      "sentences": [
+        {
+          "en": "To find your profit, subtract the cost of materials and labor from the total amount of sales.",
+          "zh": "要算出利潤，就從總銷售額中減去材料和人工成本。"
+        },
+        {
+          "en": "The system will automatically subtract the discount from the price when you enter the code.",
+          "zh": "你輸入代碼時，系統會自動從價格中扣除折扣。"
+        },
+        {
+          "en": "Please subtract any items that you have already returned from the total on the form.",
+          "zh": "請從表格上的總數中扣掉你已經退回的物品。"
+        },
+        {
+          "en": "If you subtract the time spent in meetings, employees have only a few hours for their main tasks.",
+          "zh": "如果扣掉開會的時間，員工只剩幾個小時做主要工作。"
+        },
+        {
+          "en": "The accountant will subtract the deposit from the final bill so that you pay only the remaining amount.",
+          "zh": "會計會從最後的帳單中扣掉訂金，讓你只付剩下的金額。"
+        }
+      ],
+      "distractors": [
+        "subtrahend",
+        "distract",
+        "extract"
+      ],
+      "note": "語塊：subtract from（從……減去）、subtract the cost（扣除費用）。subtract 是數學的「減」；deduct 是「從金額中扣除」；add 是「加」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-remove",
+      "word": "remove",
+      "pos": "動詞",
+      "meaning": "移除；拿走",
+      "sentences": [
+        {
+          "en": "Please remove all of your personal items from your desk before the carpets are replaced on Saturday.",
+          "zh": "週六更換地毯之前，請把你桌上的所有私人物品拿走。"
+        },
+        {
+          "en": "The hotel staff will remove the old furniture from the rooms before the renovation begins.",
+          "zh": "翻修開始前，飯店員工會把舊家具從房間搬走。"
+        },
+        {
+          "en": "This cleaning product can remove a stain from carpets and sofas without damaging the material.",
+          "zh": "這款清潔用品能去除地毯和沙發上的污漬，又不傷材質。"
+        },
+        {
+          "en": "Please remove the cover carefully before you replace the old battery in the remote control.",
+          "zh": "更換遙控器的電池之前，請小心拿掉蓋子。"
+        },
+        {
+          "en": "The company decided to remove the product from its stores after customers reported safety problems.",
+          "zh": "顧客回報安全問題後，公司決定把那項產品從門市下架。"
+        }
+      ],
+      "distractors": [
+        "remote",
+        "remover",
+        "renew"
+      ],
+      "note": "語塊：remove from（從……移除）、remove a stain（去除污漬）、remove the cover（拿掉蓋子）。remove 是「拿走、去掉」；removal 是名詞；move 是「移動」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-main",
+      "word": "main",
+      "pos": "形容詞",
+      "meaning": "主要的",
+      "sentences": [
+        {
+          "en": "Please use the main entrance on the north side of the building while the side door is being repaired.",
+          "zh": "側門維修期間，請使用大樓北側的正門。"
+        },
+        {
+          "en": "The main reason customers choose our store is the friendly service and very reasonable prices.",
+          "zh": "顧客選擇我們店的主要原因是親切的服務和合理的價格。"
+        },
+        {
+          "en": "All applications should be sent to the main office in Seoul rather than to the local branches.",
+          "zh": "所有申請都應該寄到首爾的總辦公室，而不是當地分公司。"
+        },
+        {
+          "en": "The main goal of the training program is to help new employees understand our products.",
+          "zh": "訓練計畫的主要目標是幫助新員工了解我們的產品。"
+        },
+        {
+          "en": "The museum's main hall will be closed for two weeks while workers install new lights.",
+          "zh": "工人安裝新燈期間，博物館的主廳將關閉兩週。"
+        }
+      ],
+      "distractors": [
+        "mane",
+        "maim",
+        "gain"
+      ],
+      "note": "語塊：main office（總辦公室）、main entrance（正門）、main reason（主要原因）。main 是「最主要、最大的」；major 意思接近；mainly 是副詞「主要地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-numerous",
+      "word": "numerous",
+      "pos": "形容詞",
+      "meaning": "許多的",
+      "sentences": [
+        {
+          "en": "The restaurant has received numerous awards for its excellent food and friendly service over the years.",
+          "zh": "那家餐廳因為極佳的食物和親切的服務獲得了許多獎項。"
+        },
+        {
+          "en": "The company received numerous complaints about the new website, so it returned to the old design.",
+          "zh": "公司收到許多關於新網站的投訴，所以改回了舊設計。"
+        },
+        {
+          "en": "I have called the supplier numerous times, but nobody has answered the phone this week.",
+          "zh": "我打給供應商很多次了，但這週都沒有人接電話。"
+        },
+        {
+          "en": "The city has numerous parks and museums that are free for residents and visitors to enjoy.",
+          "zh": "這座城市有許多公園和博物館，居民和遊客都可以免費享受。"
+        },
+        {
+          "en": "The manager has warned the team on numerous occasions about the importance of meeting deadlines.",
+          "zh": "經理曾多次警告團隊趕上截止日的重要性。"
+        }
+      ],
+      "distractors": [
+        "numerical",
+        "nervous",
+        "humorous"
+      ],
+      "note": "語塊：numerous times（很多次）、numerous complaints（許多投訴）、on numerous occasions（多次）。numerous 是「很多的」，比 many 正式；後面接複數名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-visitor",
+      "word": "visitor",
+      "pos": "名詞",
+      "meaning": "訪客；遊客",
+      "sentences": [
+        {
+          "en": "Every visitor must sign in at the security desk and wear a badge at all times while in the building.",
+          "zh": "每位訪客都必須在保全櫃台登記，並在大樓內隨時配戴識別證。"
+        },
+        {
+          "en": "The visitor center at the park provides maps and information about the hiking trails in the area.",
+          "zh": "公園的遊客中心提供地圖和該地區健行步道的資訊。"
+        },
+        {
+          "en": "The new museum is expected to attract more than one million visitors in its first year, and each visitor will receive a free guide.",
+          "zh": "新博物館預計第一年會吸引一百多萬名參觀者，每位參觀者都會拿到一份免費導覽。"
+        },
+        {
+          "en": "The hotel offers free coffee to every visitor who waits in the lobby for a meeting.",
+          "zh": "飯店為每位在大廳等候開會的訪客提供免費咖啡。"
+        },
+        {
+          "en": "A visitor from the head office will meet with the sales team on Thursday afternoon.",
+          "zh": "一位總公司的訪客週四下午會和業務團隊見面。"
+        }
+      ],
+      "distractors": [
+        "visor",
+        "vista",
+        "visitation"
+      ],
+      "note": "語塊：visitor center（遊客中心）、every visitor（每位訪客）、attract visitors（吸引遊客）。visitor 是「來訪的人」；visit 是動詞或名詞「拜訪」；guest 是「客人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trade-fair",
+      "word": "trade fair",
+      "pos": "名詞",
+      "meaning": "商展；貿易展",
+      "sentences": [
+        {
+          "en": "Our company will attend a trade fair in Frankfurt next month to show our newest kitchen appliances.",
+          "zh": "我們公司下個月會參加法蘭克福的商展，展示最新的廚房家電。"
+        },
+        {
+          "en": "The international trade fair attracts thousands of buyers who are looking for new suppliers every year.",
+          "zh": "那個國際商展每年都吸引數千位在找新供應商的買家。"
+        },
+        {
+          "en": "Ms. Lee met several new clients at the trade fair and signed two contracts the following week.",
+          "zh": "李小姐在商展上認識了幾位新客戶，隔週就簽了兩份合約。"
+        },
+        {
+          "en": "Please prepare enough brochures and samples for the trade fair, as we expect many visitors at our booth.",
+          "zh": "請為商展準備足夠的小冊子和樣品，因為我們預期攤位會有很多訪客。"
+        },
+        {
+          "en": "The city will host an international trade fair for the food industry at the new convention center.",
+          "zh": "這座城市將在新會議中心舉辦一場食品業的國際商展。"
+        }
+      ],
+      "distractors": [
+        "trade show",
+        "job fair",
+        "fair trade"
+      ],
+      "note": "語塊：attend a trade fair（參加商展）、international trade fair（國際商展）。trade fair 和 trade show 意思相同；exhibition 是「展覽」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-business-card",
+      "word": "business card",
+      "pos": "名詞",
+      "meaning": "名片",
+      "sentences": [
+        {
+          "en": "Ms. Park left her business card with the receptionist and asked the manager to call her back.",
+          "zh": "朴小姐把名片留給櫃台人員，請經理回電給她。"
+        },
+        {
+          "en": "Before the meeting ended, the client gave me a business card with her email address and phone number.",
+          "zh": "會議結束前，客戶給了我一張印有她電子信箱和電話號碼的名片。"
+        },
+        {
+          "en": "If you would like more information, please leave a business card at our booth and we will contact you.",
+          "zh": "如果你想了解更多資訊，請在我們攤位留下名片，我們會聯絡你。"
+        },
+        {
+          "en": "Every new employee receives a business card with the company logo during the first week at work.",
+          "zh": "每位新員工第一週上班時都會拿到一張印有公司商標的名片。"
+        },
+        {
+          "en": "The printing shop can design a business card for you in one day for a very reasonable price.",
+          "zh": "那家印刷店一天內就能以很合理的價格為你設計名片。"
+        }
+      ],
+      "distractors": [
+        "business day",
+        "credit card",
+        "business trip"
+      ],
+      "note": "語塊：left her business card（留下她的名片）、leave a business card（留下名片）、gave me a business card（給我一張名片）、receives a business card（拿到名片）。business card 是「名片」，常用複數 business cards；card 也可以指「卡片；信用卡」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-develop",
+      "word": "develop",
+      "pos": "動詞",
+      "meaning": "開發；發展；培養",
+      "sentences": [
+        {
+          "en": "The company spent three years trying to develop a product that can charge a phone in five minutes.",
+          "zh": "公司花了三年試圖開發一款五分鐘就能充飽手機的產品。"
+        },
+        {
+          "en": "The training program helps employees develop skills in communication, leadership, and teamwork at the office.",
+          "zh": "訓練計畫幫助員工培養溝通、領導和團隊合作的技能。"
+        },
+        {
+          "en": "The marketing team will develop a plan to attract young customers through social media next year.",
+          "zh": "行銷團隊將擬定一項明年透過社群媒體吸引年輕顧客的計畫。"
+        },
+        {
+          "en": "Scientists at the university are working to develop new medicines for heart disease and other serious illnesses.",
+          "zh": "大學的科學家正在努力開發治療心臟病的新藥。"
+        },
+        {
+          "en": "It takes time to develop good relationships with clients, so please be patient and keep in touch.",
+          "zh": "和客戶發展良好的關係需要時間，所以請保持耐心並持續聯絡。"
+        }
+      ],
+      "distractors": [
+        "envelop",
+        "devote",
+        "deliver"
+      ],
+      "note": "語塊：develop a product（開發產品）、develop skills（培養技能）、develop a plan（擬定計畫）。develop 可以是「開發」、「發展」或「培養」；development 是名詞；developer 是「開發商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trendy",
+      "word": "trendy",
+      "pos": "形容詞",
+      "meaning": "時髦的；流行的",
+      "sentences": [
+        {
+          "en": "The new café in the old warehouse has become a trendy place for young people to meet on weekends.",
+          "zh": "舊倉庫裡的新咖啡館成了年輕人週末聚會的時髦地點。"
+        },
+        {
+          "en": "The store sells trendy clothes at low prices, so it is very popular with students.",
+          "zh": "那家店以低價販售時髦的衣服，所以很受學生歡迎。"
+        },
+        {
+          "en": "The neighborhood near the river has become trendy, and many new restaurants have opened there.",
+          "zh": "河邊那個社區變得很新潮，很多新餐廳在那裡開幕。"
+        },
+        {
+          "en": "Many young professionals want to live in a trendy area close to shops, cafés, and public transportation.",
+          "zh": "很多年輕上班族想住在靠近商店、咖啡館和大眾運輸的新潮地區。"
+        },
+        {
+          "en": "The trendy restaurant is fully booked every weekend, so you should make a reservation early.",
+          "zh": "那家時髦的餐廳每個週末都客滿，所以你應該早點訂位。"
+        }
+      ],
+      "distractors": [
+        "tender",
+        "tidy",
+        "trend"
+      ],
+      "note": "語塊：trendy clothes（時髦的衣服）、trendy restaurant（時髦的餐廳）、trendy neighborhood（新潮的社區）。trendy 是「很流行的」；fashionable 意思接近；trend 是名詞「趨勢」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-marketplace",
+      "word": "marketplace",
+      "pos": "名詞",
+      "meaning": "市場；市集",
+      "sentences": [
+        {
+          "en": "The online marketplace allows small businesses to sell their products to customers around the world.",
+          "zh": "那個網路市集讓小企業可以把產品賣給世界各地的顧客。"
+        },
+        {
+          "en": "Companies must keep improving their products to stay competitive in the busy and crowded global marketplace.",
+          "zh": "公司必須不斷改善產品，才能在全球市場上保持競爭力。"
+        },
+        {
+          "en": "The old marketplace in the town center is open every Saturday morning and sells fresh vegetables.",
+          "zh": "鎮中心的舊市集每週六早上開放，販售新鮮蔬菜。"
+        },
+        {
+          "en": "There are many similar products in the marketplace, so our brand must offer something unique.",
+          "zh": "市場上有很多類似的產品，所以我們的品牌必須提供獨特的東西。"
+        },
+        {
+          "en": "Local artists sell their paintings and handmade goods at the marketplace near the harbor on weekends.",
+          "zh": "在地藝術家在港口附近的市集販售畫作和手工製品。"
+        }
+      ],
+      "distractors": [
+        "market share",
+        "workplace",
+        "fireplace"
+      ],
+      "note": "語塊：online marketplace（網路市集）、global marketplace（全球市場）、in the marketplace（在市場上）。marketplace 可以是實體「市集」或抽象的「市場」；market 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-developing",
+      "word": "developing",
+      "pos": "形容詞",
+      "meaning": "發展中的；開發中的",
+      "sentences": [
+        {
+          "en": "The charity builds schools and provides clean water to villages in developing countries in Asia and Africa.",
+          "zh": "那個慈善團體在開發中國家的村莊蓋學校並提供乾淨的水。"
+        },
+        {
+          "en": "Many companies are expanding into developing markets in Asia and Africa, where demand is growing.",
+          "zh": "很多公司正在拓展到亞洲和非洲需求成長中的新興市場。"
+        },
+        {
+          "en": "The conference will discuss how developing countries can grow their economies without harming the environment.",
+          "zh": "研討會將討論開發中國家如何在不傷害環境的情況下發展經濟。"
+        },
+        {
+          "en": "The bank provides loans to small businesses in developing countries so that they can buy equipment.",
+          "zh": "那家銀行為開發中國家的小企業提供貸款，讓它們購買設備。"
+        },
+        {
+          "en": "Mobile phones have changed the way people do business in many developing countries around the world.",
+          "zh": "手機改變了許多開發中國家人們做生意的方式。"
+        }
+      ],
+      "distractors": [
+        "developed",
+        "devoting",
+        "deploying"
+      ],
+      "note": "語塊：developing country（開發中國家）、developing market（新興市場）。developing 是「正在發展中的」；developed 是「已開發的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assistant",
+      "word": "assistant",
+      "pos": "名詞",
+      "meaning": "助理",
+      "sentences": [
+        {
+          "en": "The company is hiring an administrative assistant who can answer phones, organize meetings, and handle paperwork.",
+          "zh": "公司正在招聘一位能接電話和安排會議的行政助理。"
+        },
+        {
+          "en": "Please contact my assistant to schedule a meeting, as I will be traveling for most of next week.",
+          "zh": "請聯絡我的助理安排會議，因為我下週大部分時間都在出差。"
+        },
+        {
+          "en": "Mr. Kim was promoted to assistant manager after working at the store for three years.",
+          "zh": "金先生在那家店工作三年後被升為副理。"
+        },
+        {
+          "en": "The director's personal assistant manages her calendar and books her flights and hotels for business trips.",
+          "zh": "總監的私人助理管理她的行程，並幫她訂機票和飯店。"
+        },
+        {
+          "en": "Each manager has an assistant who helps with paperwork and answering emails from clients every day.",
+          "zh": "每位經理都有一位助理，幫忙處理文件和回覆客戶的郵件。"
+        }
+      ],
+      "distractors": [
+        "assistance",
+        "assignment",
+        "resistant"
+      ],
+      "note": "語塊：administrative assistant（行政助理）、personal assistant（私人助理）、assistant manager（副理）。assistant 是「助理（人）」；assistance 是「協助」；assist 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pass-on",
+      "word": "pass on",
+      "pos": "片語動詞",
+      "meaning": "轉達；傳遞；轉嫁",
+      "sentences": [
+        {
+          "en": "Could you please pass on a message to Ms. Lee that the meeting has been moved to Thursday?",
+          "zh": "可以請你轉告李小姐，會議改到週四了嗎？"
+        },
+        {
+          "en": "Many companies pass on the rising cost of fuel to their customers by increasing prices.",
+          "zh": "很多公司透過漲價把燃料成本上漲轉嫁給顧客。"
+        },
+        {
+          "en": "After you read the report, please pass on the main points to the other members of your team.",
+          "zh": "看完報告後，請把重點轉告給你團隊的其他成員。"
+        },
+        {
+          "en": "The store decided not to pass on costs to customers, even though the price of materials went up.",
+          "zh": "雖然材料價格上漲，那家店決定不把成本轉嫁給顧客。"
+        },
+        {
+          "en": "The manager asked me to pass on her thanks to everyone who helped organize the event.",
+          "zh": "經理請我轉達她對每位幫忙籌辦活動的人的感謝。"
+        }
+      ],
+      "distractors": [
+        "pass out",
+        "pass by",
+        "pass away"
+      ],
+      "note": "語塊：pass on a message（轉達訊息）、pass on costs（轉嫁成本）、pass on to（傳給……）。pass on 可以是「轉告」或把成本「轉嫁」給別人；pass away 是「過世」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-orientation",
+      "word": "orientation",
+      "pos": "名詞",
+      "meaning": "新人說明會；方向",
+      "sentences": [
+        {
+          "en": "All new employees must attend an orientation session on their first day at the company.",
+          "zh": "所有新員工到職第一天都必須參加說明會。"
+        },
+        {
+          "en": "The new employee orientation includes a tour of the office and an introduction to our main products.",
+          "zh": "新進員工說明會包括參觀辦公室和介紹我們的主要產品。"
+        },
+        {
+          "en": "During orientation, students learn about the university's rules and the many services that are available to them.",
+          "zh": "說明會期間，學生會了解大學的規定和可以使用的服務。"
+        },
+        {
+          "en": "The orientation session will last about three hours and will be held in the training room.",
+          "zh": "說明會大約進行三小時，將在訓練室舉行。"
+        },
+        {
+          "en": "Please bring your ID card and a pen to the new employee orientation next Monday morning.",
+          "zh": "下週一早上的新進員工說明會請帶身分證和一支筆。"
+        }
+      ],
+      "distractors": [
+        "origination",
+        "organization",
+        "ornamentation"
+      ],
+      "note": "語塊：new employee orientation（新進員工說明會）、orientation session（說明會）。orientation 是「新人的介紹和訓練」；orient 是動詞「使熟悉」；oriental 是「東方的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-accountant",
+      "word": "accountant",
+      "pos": "名詞",
+      "meaning": "會計師；會計",
+      "sentences": [
+        {
+          "en": "Many small businesses hire an accountant to help them with their taxes at the end of the year.",
+          "zh": "很多小企業在年底聘請會計師幫忙處理稅務。"
+        },
+        {
+          "en": "Ms. Park is a certified accountant who has worked at the firm for more than fifteen years.",
+          "zh": "朴小姐是一位在事務所工作了十五年以上、有證照的會計師。"
+        },
+        {
+          "en": "The accountant found several mistakes in the financial report and asked the team to correct them.",
+          "zh": "會計師在財報中發現好幾個錯誤，要求團隊更正。"
+        },
+        {
+          "en": "Please send all of your receipts to the accountant by Friday so that she can prepare your tax return.",
+          "zh": "請在週五前把所有收據寄給會計師，讓她準備你的報稅資料。"
+        },
+        {
+          "en": "The company is looking for an experienced accountant to manage its finances in Asia and Europe.",
+          "zh": "公司在找一位有經驗的會計師管理它在亞洲的財務。"
+        }
+      ],
+      "distractors": [
+        "account",
+        "accounting",
+        "attendant"
+      ],
+      "note": "語塊：hire an accountant（聘請會計師）、certified accountant（有證照的會計師）、experienced accountant（有經驗的會計師）、send ... to the accountant（寄給會計師）。accountant 是「會計（人）」；accounting 是「會計（工作、學科）」；account 是「帳戶」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
