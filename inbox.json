@@ -67603,6 +67603,706 @@
       ],
       "note": "語塊：dining area（用餐區）、fine dining（高級餐飲）、dining room（餐廳；飯廳）。dining 是 dine（用餐）的名詞；dinner 是「晚餐」；diner 是「用餐者」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-organizer",
+      "word": "organizer",
+      "pos": "名詞",
+      "meaning": "主辦人；籌辦者",
+      "sentences": [
+        {
+          "en": "The event organizer asked all speakers to send their presentation slides at least two days in advance.",
+          "zh": "活動主辦人請所有講者至少提前兩天寄來簡報投影片。"
+        },
+        {
+          "en": "The conference organizer will provide free transportation from the hotel to the convention center every morning.",
+          "zh": "研討會籌辦單位每天早上會提供從飯店到會議中心的免費交通。"
+        },
+        {
+          "en": "If you have questions about the schedule, please contact the event organizer by e-mail or phone.",
+          "zh": "如果你對時程有問題，請用電子郵件或電話聯絡活動主辦人。"
+        },
+        {
+          "en": "The organizer of the festival thanked the volunteers for their hard work during the busy weekend.",
+          "zh": "節慶的主辦人感謝志工在忙碌的週末辛勤工作。"
+        },
+        {
+          "en": "The conference organizer decided to move the event online because many guests could not travel.",
+          "zh": "因為很多賓客無法出行，研討會籌辦單位決定把活動改成線上。"
+        }
+      ],
+      "distractors": [
+        "organism",
+        "organist",
+        "orchestra"
+      ],
+      "note": "語塊：event organizer（活動主辦人）、conference organizer（研討會籌辦單位）。organizer 是「負責籌辦的人或單位」；organize 是動詞；organization 是「組織」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-manuscript",
+      "word": "manuscript",
+      "pos": "名詞",
+      "meaning": "手稿；原稿",
+      "sentences": [
+        {
+          "en": "Authors who want to submit a manuscript to the magazine must follow the rules on its website.",
+          "zh": "想向雜誌投稿的作者必須遵守網站上的規定。"
+        },
+        {
+          "en": "The original manuscript of the famous novel will be displayed at the city library next month.",
+          "zh": "那本知名小說的原稿下個月將在市立圖書館展出。"
+        },
+        {
+          "en": "The editor asked the writer to send the final manuscript by the end of March so that the book can be published in summer.",
+          "zh": "編輯請作者在三月底前寄來定稿，讓書可以在夏天出版。"
+        },
+        {
+          "en": "Please check the manuscript carefully for mistakes before you send it to the publisher next week.",
+          "zh": "下週寄給出版社之前，請仔細檢查原稿有沒有錯誤。"
+        },
+        {
+          "en": "The museum bought an old manuscript that was written by a famous scientist more than two hundred years ago.",
+          "zh": "博物館買下一份由知名科學家在兩百多年前寫的舊手稿。"
+        }
+      ],
+      "distractors": [
+        "transcript",
+        "postscript",
+        "scripture"
+      ],
+      "note": "語塊：submit a manuscript（投稿）、original manuscript（原稿）、final manuscript（定稿）。manuscript 是作者寫的「原稿」；script 是「劇本」；transcript 是「文字紀錄；成績單」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tremendous",
+      "word": "tremendous",
+      "pos": "形容詞",
+      "meaning": "巨大的；極好的",
+      "sentences": [
+        {
+          "en": "The new product was a tremendous success, and the company sold more than one million units in a year.",
+          "zh": "新產品非常成功，公司一年內賣了一百多萬台。"
+        },
+        {
+          "en": "Organizing the international festival required a tremendous amount of work from the whole team for months.",
+          "zh": "籌辦國際節慶需要整個團隊連續好幾個月付出大量的工作。"
+        },
+        {
+          "en": "The workers made a tremendous effort to repair the bridge before the long holiday weekend began.",
+          "zh": "工人付出極大的努力，在連假開始前修好那座橋。"
+        },
+        {
+          "en": "Thanks to a tremendous amount of support from the community, the library was able to stay open.",
+          "zh": "多虧社區大量的支持，圖書館才得以繼續營業。"
+        },
+        {
+          "en": "The concert was a tremendous success, so the organizers have already planned another one for next year.",
+          "zh": "演唱會非常成功，所以主辦單位已經計畫明年再辦一場。"
+        }
+      ],
+      "distractors": [
+        "tremulous",
+        "horrendous",
+        "stupendous"
+      ],
+      "note": "語塊：tremendous success（巨大的成功）、tremendous amount（大量的）、tremendous effort（極大的努力）。tremendous 是「非常大、非常好的」；enormous 意思接近；tremble 是「發抖」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-formatting",
+      "word": "formatting",
+      "pos": "名詞",
+      "meaning": "格式設定；排版",
+      "sentences": [
+        {
+          "en": "Please check the formatting of your report before you send it to the director, because the tables look strange.",
+          "zh": "把報告寄給主任前請檢查格式，因為表格看起來怪怪的。"
+        },
+        {
+          "en": "The new software keeps the text formatting the same when you open the file on a different computer.",
+          "zh": "新軟體讓你在不同電腦開啟檔案時，文字格式保持一樣。"
+        },
+        {
+          "en": "A small formatting error caused the numbers in the spreadsheet to appear in the wrong columns.",
+          "zh": "一個小小的格式錯誤讓試算表裡的數字出現在錯的欄位。"
+        },
+        {
+          "en": "All applications must follow the formatting rules, including the size of the text and the margins.",
+          "zh": "所有申請都必須遵守格式規定，包括文字大小和邊界。"
+        },
+        {
+          "en": "The assistant spent the whole morning fixing the formatting of the presentation for the client meeting.",
+          "zh": "助理花了整個早上修正客戶會議簡報的排版。"
+        }
+      ],
+      "distractors": [
+        "formation",
+        "forwarding",
+        "fermenting"
+      ],
+      "note": "語塊：text formatting（文字格式）、formatting error（格式錯誤）、formatting rules（格式規定）。formatting 是「排版、設定格式」；format 是名詞「格式」或動詞「設定格式」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-far-from",
+      "word": "far from",
+      "pos": "副詞",
+      "meaning": "遠非；一點也不；離……很遠",
+      "sentences": [
+        {
+          "en": "The new system is far from perfect, but it is much faster than the old one we used before.",
+          "zh": "新系統還稱不上完美，但比我們以前用的舊系統快很多。"
+        },
+        {
+          "en": "The project is far from over, because we still need to test the product and train the staff.",
+          "zh": "專案還沒結束，因為我們還需要測試產品和訓練員工。"
+        },
+        {
+          "en": "The hotel is not far from the airport, so guests can arrive in about fifteen minutes by taxi.",
+          "zh": "飯店離機場不遠，所以客人搭計程車大約十五分鐘就能到。"
+        },
+        {
+          "en": "The results of the survey were far from what the marketing team had expected after the product launch.",
+          "zh": "調查結果和行銷團隊在產品上市後預期的差很遠。"
+        },
+        {
+          "en": "The new office is not far from the subway station, which makes it easy for employees to get to work.",
+          "zh": "新辦公室離地鐵站不遠，讓員工上班很方便。"
+        }
+      ],
+      "distractors": [
+        "apart from",
+        "aside from",
+        "away from"
+      ],
+      "note": "語塊：far from perfect（遠非完美）、far from over（還沒結束）、not far from（離……不遠）。far from 後面接形容詞或名詞時是「根本不……」；not far from 是「離……不遠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-arbitrary",
+      "word": "arbitrary",
+      "pos": "形容詞",
+      "meaning": "任意的；武斷的",
+      "sentences": [
+        {
+          "en": "Employees complained that the decision to cancel their holidays was arbitrary and unfair to the people who had already booked trips.",
+          "zh": "員工抱怨取消他們假期的決定對已經訂好旅行的人來說很武斷又不公平。"
+        },
+        {
+          "en": "The new manager removed several arbitrary rules that made the work slower without any real benefit.",
+          "zh": "新經理取消了幾條讓工作變慢、又沒有實際好處的隨意規定。"
+        },
+        {
+          "en": "Choosing a winner based only on looks would be an arbitrary decision, so the judges use clear criteria.",
+          "zh": "只看外表選出贏家會是武斷的決定，所以評審使用明確的標準。"
+        },
+        {
+          "en": "The price changes seemed arbitrary to customers, because the company did not explain the reason.",
+          "zh": "價格變動在顧客看來很隨意，因為公司沒有說明原因。"
+        },
+        {
+          "en": "Good managers explain their reasons so that their choices do not seem arbitrary to the team.",
+          "zh": "好的主管會說明理由，讓自己的選擇在團隊看來不顯得武斷。"
+        }
+      ],
+      "distractors": [
+        "arbitration",
+        "contrary",
+        "sanitary"
+      ],
+      "note": "語塊：arbitrary decision（武斷的決定）、arbitrary rules（隨意訂的規定）。arbitrary 是「沒有合理理由、隨便決定的」；random 是「隨機的」；arbitration 是「仲裁」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-promising",
+      "word": "promising",
+      "pos": "形容詞",
+      "meaning": "有前途的；有希望的",
+      "sentences": [
+        {
+          "en": "Ms. Lee is a promising candidate for the position because she has both experience and great ideas.",
+          "zh": "李小姐是這個職位很有潛力的人選，因為她有經驗又有很棒的點子。"
+        },
+        {
+          "en": "The new restaurant had a promising start, with every table booked for the first two weeks.",
+          "zh": "新餐廳有個好的開始，頭兩週每張桌子都被訂滿。"
+        },
+        {
+          "en": "The early tests of the new medicine have shown promising results, so the research will continue.",
+          "zh": "新藥的早期測試結果令人看好，所以研究會繼續進行。"
+        },
+        {
+          "en": "The company invests in promising start-ups that have new ideas in the energy and transportation sectors.",
+          "zh": "那家公司投資在能源和交通產業有新點子、有前途的新創公司。"
+        },
+        {
+          "en": "After a promising start, sales of the phone slowed down because of strong competition from cheaper brands.",
+          "zh": "在好的開始之後，那支手機的銷量因為便宜品牌的激烈競爭而趨緩。"
+        }
+      ],
+      "distractors": [
+        "promoting",
+        "compromising",
+        "surprising"
+      ],
+      "note": "語塊：promising candidate（有潛力的人選）、promising start（好的開始）、promising results（令人看好的結果）。promising 是「看起來會成功的」；promise 是「承諾」；hopeful 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-criticize",
+      "word": "criticize",
+      "pos": "動詞",
+      "meaning": "批評",
+      "sentences": [
+        {
+          "en": "Many residents criticize the city for building a new highway through the only park in the area.",
+          "zh": "很多居民批評市政府要在這一區唯一的公園裡蓋新高速公路。"
+        },
+        {
+          "en": "Customers began to criticize the airline for its frequent delays, lost luggage, and poor customer service.",
+          "zh": "顧客開始批評航空公司頻繁延誤、遺失行李和客服很差。"
+        },
+        {
+          "en": "The manager did not publicly criticize the team for the mistake, but she discussed it with them privately.",
+          "zh": "經理沒有公開批評團隊的錯誤，而是私下和他們討論。"
+        },
+        {
+          "en": "Some experts criticize the new policy because they believe it will increase prices for families.",
+          "zh": "有些專家批評新政策，因為他們認為會讓家庭的物價上漲。"
+        },
+        {
+          "en": "It is easy to criticize other people's ideas, but it is much harder to suggest better ones.",
+          "zh": "批評別人的點子很容易，但提出更好的點子難多了。"
+        }
+      ],
+      "distractors": [
+        "critique",
+        "civilize",
+        "categorize"
+      ],
+      "note": "語塊：criticize sb for（因……批評某人）、be widely criticized（廣受批評）、publicly criticize（公開批評）。criticize 是動詞；criticism 是名詞「批評」；critic 是「評論家」；critical 是「批判的；關鍵的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aspiring",
+      "word": "aspiring",
+      "pos": "形容詞",
+      "meaning": "有抱負的；想成為……的",
+      "sentences": [
+        {
+          "en": "The workshop is designed for aspiring writers who want to publish their first book within the next year.",
+          "zh": "這個工作坊是為想在明年內出第一本書的有志作家設計的。"
+        },
+        {
+          "en": "Every summer, the gallery shows paintings and sculptures by aspiring artists from local schools and universities.",
+          "zh": "畫廊每年夏天展出當地中學和大學有抱負的藝術家的畫作和雕塑。"
+        },
+        {
+          "en": "The bank offers small loans to aspiring entrepreneurs who have a good business plan and some experience.",
+          "zh": "銀行提供小額貸款給有好的營運計畫和一些經驗、想創業的人。"
+        },
+        {
+          "en": "Many aspiring actors move to the capital because there are more opportunities to work in films.",
+          "zh": "很多想當演員的人搬到首都，因為那裡拍電影的機會比較多。"
+        },
+        {
+          "en": "The famous chef gave a talk to aspiring cooks about how she opened her first restaurant.",
+          "zh": "那位知名主廚對想當廚師的人分享她如何開第一家餐廳。"
+        }
+      ],
+      "distractors": [
+        "inspiring",
+        "expiring",
+        "perspiring"
+      ],
+      "note": "語塊：aspiring writer（有志成為作家的人）、aspiring artist（有抱負的藝術家）、aspiring entrepreneur（想創業的人）。aspiring 是「渴望成為某種人的」；aspire 是動詞「渴望」；inspiring 是「啟發人心的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-period",
+      "word": "period",
+      "pos": "名詞",
+      "meaning": "期間；時期",
+      "sentences": [
+        {
+          "en": "New employees have a three-month trial period before they receive a permanent contract from the company.",
+          "zh": "新員工在拿到公司正式合約之前有三個月的試用期。"
+        },
+        {
+          "en": "The store will be closed for a short period of time while workers repair the roof.",
+          "zh": "工人修屋頂期間，那家店會關閉一小段時間。"
+        },
+        {
+          "en": "The museum will display the paintings for a period of six months before they return to Paris.",
+          "zh": "博物館會展出這些畫作為期六個月，之後送回巴黎。"
+        },
+        {
+          "en": "Sales usually increase during the holiday period, so the company hires extra staff in December.",
+          "zh": "假期期間銷售通常會增加，所以公司十二月會雇用額外人手。"
+        },
+        {
+          "en": "Customers can return any product within a period of thirty days if they keep the receipt.",
+          "zh": "只要保留收據，顧客可以在三十天期限內退回任何產品。"
+        }
+      ],
+      "distractors": [
+        "perish",
+        "peril",
+        "periodic"
+      ],
+      "note": "語塊：trial period（試用期）、period of time（一段時間）、for a period of（為期……）。period 是「一段時間」；probation period 是「試用期」；periodical 是「期刊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-relation",
+      "word": "relation",
+      "pos": "名詞",
+      "meaning": "關係；關聯",
+      "sentences": [
+        {
+          "en": "Please send me all of the documents in relation to the new contract before the meeting on Thursday afternoon.",
+          "zh": "週四下午開會前，請把和新合約有關的所有文件寄給我。"
+        },
+        {
+          "en": "The report studies the relation between working hours and the number of mistakes that employees make.",
+          "zh": "報告研究工作時數和員工犯錯次數之間的關係。"
+        },
+        {
+          "en": "The price of the new phone is high in relation to its size and battery life, so many customers waited.",
+          "zh": "新手機的價格和它的尺寸與電池續航相比偏高，所以很多顧客選擇觀望。"
+        },
+        {
+          "en": "The final cost of the building bears no relation to the price that the builder gave us last year.",
+          "zh": "大樓最後的成本和建商去年給我們的報價完全對不上。"
+        },
+        {
+          "en": "Researchers found a clear relation between regular exercise and better sleep among office workers in large cities.",
+          "zh": "研究人員發現大城市上班族規律運動和睡得比較好之間有明顯的關聯。"
+        }
+      ],
+      "distractors": [
+        "relative",
+        "ration",
+        "rotation"
+      ],
+      "note": "語塊：in relation to（關於；與……相比）、bear no relation to（與……無關）、relation between（……之間的關係）。relation 常用複數 relations 指「國家、公司之間的關係」（public relations 是「公關」）；relationship 多指個人關係；relative 是「親戚」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lengthy",
+      "word": "lengthy",
+      "pos": "形容詞",
+      "meaning": "冗長的；漫長的",
+      "sentences": [
+        {
+          "en": "Applying for a building permit can be a lengthy process that takes several months in this city.",
+          "zh": "在這座城市申請建築許可可能是冗長的流程，要花好幾個月。"
+        },
+        {
+          "en": "After a lengthy meeting that lasted four hours, the board finally approved the budget for next year.",
+          "zh": "在一場長達四小時的冗長會議後，董事會終於核准了明年的預算。"
+        },
+        {
+          "en": "Passengers faced a lengthy delay at the airport because of the snowstorm that closed the runway.",
+          "zh": "因為暴風雪關閉跑道，乘客在機場面臨漫長的延誤。"
+        },
+        {
+          "en": "The report is quite lengthy, so please read the summary on the first page if you do not have time.",
+          "zh": "報告相當冗長，所以如果沒有時間，請讀第一頁的摘要。"
+        },
+        {
+          "en": "Many employees complained that the lengthy training videos were boring and did not explain the system well.",
+          "zh": "很多員工抱怨冗長的訓練影片很無聊，也沒把系統解釋清楚。"
+        }
+      ],
+      "distractors": [
+        "healthy",
+        "wealthy",
+        "length"
+      ],
+      "note": "語塊：lengthy process（冗長的流程）、lengthy meeting（冗長的會議）、lengthy delay（漫長的延誤）。lengthy 是「時間或篇幅很長（常有太長的意思）」；length 是名詞「長度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deal-in",
+      "word": "deal in",
+      "pos": "片語動詞",
+      "meaning": "經營；買賣（某類商品）",
+      "sentences": [
+        {
+          "en": "The small shop near the station plans to deal in antiques, especially old clocks and ceramic plates from Japan.",
+          "zh": "車站附近那家小店打算經營古董，特別是日本的老時鐘和陶瓷盤。"
+        },
+        {
+          "en": "Several companies in the area deal in used cars, so prices are very competitive for buyers.",
+          "zh": "這一區有好幾家公司買賣二手車，所以對買家來說價格很有競爭力。"
+        },
+        {
+          "en": "Our firm does not deal in electronics, but we can recommend a good supplier in the city.",
+          "zh": "我們公司不做電子產品買賣，但可以推薦市內一家好的供應商。"
+        },
+        {
+          "en": "Mr. Lopez started to deal in art after he retired, and he now sells paintings to collectors abroad.",
+          "zh": "羅培茲先生退休後開始做藝術品買賣，現在把畫作賣給國外的收藏家。"
+        },
+        {
+          "en": "Shops that deal in second-hand clothing have become popular with young people who care about the environment.",
+          "zh": "經營二手衣物的商店很受關心環境的年輕人歡迎。"
+        }
+      ],
+      "distractors": [
+        "deal with",
+        "dwell in",
+        "fill in"
+      ],
+      "note": "語塊：deal in antiques（經營古董）、deal in used cars（買賣二手車）、deal in art（做藝術品買賣）、deal in electronics（做電子產品買賣）、deal in clothing（經營衣物）。deal in + 商品 是「做……的買賣」；deal with 是「處理；和……打交道」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-right",
+      "word": "right",
+      "pos": "名詞",
+      "meaning": "權利",
+      "sentences": [
+        {
+          "en": "Customers have the right to return any product within seven days if they are not satisfied.",
+          "zh": "顧客如果不滿意，有權在七天內退回任何產品。"
+        },
+        {
+          "en": "The company reserves the right to change the prices on its website at any time without notice.",
+          "zh": "公司保留隨時不另行通知就更改網站價格的權利。"
+        },
+        {
+          "en": "Every employee has the right to take at least ten days of paid vacation each year.",
+          "zh": "每位員工每年都有權休至少十天的帶薪假。"
+        },
+        {
+          "en": "The hotel reserves the right to charge guests for any damage to the furniture in their rooms.",
+          "zh": "飯店保留向客人收取房間家具任何損壞費用的權利。"
+        },
+        {
+          "en": "Workers have the right to join a labor union and ask for better working conditions.",
+          "zh": "工人有權加入工會並要求更好的工作條件。"
+        }
+      ],
+      "distractors": [
+        "write",
+        "rite",
+        "fight"
+      ],
+      "note": "語塊：have the right to（有權……）、reserve the right to（保留……的權利）、human rights（人權）。right 當名詞是「權利」；當形容詞是「對的；右邊的」；copyright 是「著作權」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depart",
+      "word": "depart",
+      "pos": "動詞",
+      "meaning": "出發；離開",
+      "sentences": [
+        {
+          "en": "The train to Kaohsiung will depart from platform three at exactly nine o'clock tomorrow morning.",
+          "zh": "開往高雄的火車明天早上九點整從第三月台出發。"
+        },
+        {
+          "en": "The tour bus will depart for the national park as soon as all of the passengers have arrived.",
+          "zh": "所有乘客到齊後，遊覽車就會出發前往國家公園。"
+        },
+        {
+          "en": "Flight 207 is scheduled to depart at noon, but it may be delayed because of the strong wind.",
+          "zh": "207 號班機預定中午起飛，但可能會因強風延誤。"
+        },
+        {
+          "en": "Please arrive at the port at least one hour before the ferry is scheduled to depart.",
+          "zh": "請至少在渡輪預定出發前一小時抵達港口。"
+        },
+        {
+          "en": "Guests who depart early in the morning can ask the hotel to prepare a breakfast box the night before.",
+          "zh": "一大早出發的客人可以前一晚請飯店準備早餐盒。"
+        }
+      ],
+      "distractors": [
+        "depend",
+        "deport",
+        "divert"
+      ],
+      "note": "語塊：depart from（從……出發）、depart for（前往……）、be scheduled to depart（預定出發）。depart 比 leave 正式；departure 是名詞；arrive 是相反詞「抵達」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-article",
+      "word": "article",
+      "pos": "名詞",
+      "meaning": "文章；物品；條款",
+      "sentences": [
+        {
+          "en": "The newspaper article about our new product helped increase sales by twenty percent last month.",
+          "zh": "那篇關於我們新產品的報紙文章，讓上個月的銷售增加了兩成。"
+        },
+        {
+          "en": "Ms. Kim was asked to write an article about the company's history for its fiftieth anniversary.",
+          "zh": "金小姐受邀為公司五十週年寫一篇關於公司歷史的文章。"
+        },
+        {
+          "en": "Each guest may bring one article of clothing to the party for the charity clothing sale.",
+          "zh": "每位客人可以帶一件衣物到派對，參加慈善義賣。"
+        },
+        {
+          "en": "The magazine will publish an article about the best places to eat near the new subway station.",
+          "zh": "雜誌將刊登一篇關於新地鐵站附近最好吃餐廳的文章。"
+        },
+        {
+          "en": "Please read the article in the contract about cancellation fees carefully before you sign it.",
+          "zh": "簽名前請仔細閱讀合約中關於取消費用的條款。"
+        }
+      ],
+      "distractors": [
+        "artist",
+        "particle",
+        "artificial"
+      ],
+      "note": "語塊：newspaper article（報紙文章）、write an article（寫文章）、article of clothing（一件衣物）。article 可以是「文章」、「物品」或合約的「條款」；item 是「品項」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-receipt",
+      "word": "receipt",
+      "pos": "名詞",
+      "meaning": "收據；收到",
+      "sentences": [
+        {
+          "en": "Please keep the receipt, because you will need it if you want to return or exchange the item.",
+          "zh": "請保留收據，因為如果你想退換貨會需要它。"
+        },
+        {
+          "en": "Payment must be made within thirty days upon receipt of the invoice from our accounting office.",
+          "zh": "收到我們會計室的請款單後，必須在三十天內付款。"
+        },
+        {
+          "en": "Employees must submit the original receipt for every expense they want the company to pay.",
+          "zh": "員工想讓公司支付的每一筆費用，都必須提交收據正本。"
+        },
+        {
+          "en": "The hotel will send a receipt by e-mail after you check out, so you do not need a paper copy.",
+          "zh": "退房後飯店會用電子郵件寄收據，所以你不需要紙本。"
+        },
+        {
+          "en": "Upon receipt of your application, we will contact you within five working days to arrange an interview.",
+          "zh": "收到您的申請後，我們會在五個工作天內聯絡您安排面試。"
+        }
+      ],
+      "distractors": [
+        "recipe",
+        "receive",
+        "recipient"
+      ],
+      "note": "語塊：keep the receipt（保留收據）、upon receipt of（收到……時）、original receipt（收據正本）。receipt 的 p 不發音；receive 是動詞「收到」；recipe 是「食譜」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consistently",
+      "word": "consistently",
+      "pos": "副詞",
+      "meaning": "一貫地；始終如一地",
+      "sentences": [
+        {
+          "en": "The restaurant has received consistently good reviews from customers since it opened five years ago.",
+          "zh": "那家餐廳開業五年來一直得到顧客的好評。"
+        },
+        {
+          "en": "Ms. Park has performed consistently well, so the manager recommended her for a promotion this year.",
+          "zh": "朴小姐表現一直很穩定，所以經理今年推薦她升職。"
+        },
+        {
+          "en": "Sales of the product have been consistently high, even during the months when the economy was weak.",
+          "zh": "即使在經濟不好的那幾個月，那項產品的銷量一直都很高。"
+        },
+        {
+          "en": "The hotel consistently ranks as one of the best places to stay in the city because of its friendly staff.",
+          "zh": "因為員工親切，那家飯店一直被評為市內最好的住宿地點之一。"
+        },
+        {
+          "en": "Our goal is to provide consistently excellent service to every customer, no matter which store they visit.",
+          "zh": "我們的目標是不論顧客去哪家店，都能提供始終如一的優質服務。"
+        }
+      ],
+      "distractors": [
+        "constantly",
+        "conveniently",
+        "considerably"
+      ],
+      "note": "語塊：consistently high（一直很高）、perform consistently（表現穩定）、consistently good（始終很好）。consistently 是「每次都一樣地」；consistent 是形容詞「一致的」；constantly 是「不斷地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exceed",
+      "word": "exceed",
+      "pos": "動詞",
+      "meaning": "超過；超出",
+      "sentences": [
+        {
+          "en": "The new phone's sales will exceed expectations if demand stays this strong until the end of the year.",
+          "zh": "如果需求到年底都這麼強，新手機的銷量將超出預期。"
+        },
+        {
+          "en": "Drivers who exceed the speed limit near the school will have to pay a heavy fine.",
+          "zh": "在學校附近超速的駕駛必須繳高額罰款。"
+        },
+        {
+          "en": "Please make sure that the cost of the party does not exceed the budget of three thousand dollars.",
+          "zh": "請確保派對的費用不超過三千元的預算。"
+        },
+        {
+          "en": "Bags that exceed the weight limit must be checked in at the counter, and an extra fee will be charged.",
+          "zh": "超過重量限制的行李必須在櫃台託運，並收取額外費用。"
+        },
+        {
+          "en": "The total cost of the project may exceed the budget if the price of steel continues to rise.",
+          "zh": "如果鋼鐵價格持續上漲，專案的總成本可能會超出預算。"
+        }
+      ],
+      "distractors": [
+        "excel",
+        "succeed",
+        "proceed"
+      ],
+      "note": "語塊：exceed expectations（超出預期）、exceed the limit（超過限制）、exceed the budget（超出預算）。exceed 是「超過某個數量或限度」；excess 是名詞「過量」；excessive 是「過度的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specifically",
+      "word": "specifically",
+      "pos": "副詞",
+      "meaning": "特別地；專門地；明確地",
+      "sentences": [
+        {
+          "en": "This chair was specifically designed for people who sit at their desks for many hours every day.",
+          "zh": "這張椅子是專為每天在桌前坐很多小時的人設計的。"
+        },
+        {
+          "en": "The training course is specifically for new managers who have never led a team before.",
+          "zh": "這個訓練課程是專門為從沒帶過團隊的新主管開設的。"
+        },
+        {
+          "en": "The manager specifically asked us to finish the report before Friday, so please do not be late.",
+          "zh": "經理明確要求我們週五前完成報告，所以請不要遲交。"
+        },
+        {
+          "en": "The app was specifically designed to help small businesses keep track of their orders and expenses.",
+          "zh": "這個 App 是專門為幫助小企業追蹤訂單和開支而設計的。"
+        },
+        {
+          "en": "The hotel has several rooms specifically for guests with disabilities, including wider doors and lower beds.",
+          "zh": "飯店有好幾間專為身心障礙客人設計的房間，包括較寬的門和較低的床。"
+        }
+      ],
+      "distractors": [
+        "specially",
+        "especially",
+        "scientifically"
+      ],
+      "note": "語塊：specifically designed（專門設計）、specifically for（專為……）。specifically 是「特別針對、明確地」；specific 是形容詞「特定的」；especially 是「尤其」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
