@@ -65503,6 +65503,706 @@
       ],
       "note": "語塊：contact the administration office（聯絡行政處）、visit the administration office（到行政辦公室）。administration 是「行政；管理」；administrative 是形容詞「行政的」；office 是「辦公室」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-permit",
+      "word": "permit",
+      "pos": "名詞",
+      "meaning": "許可證",
+      "sentences": [
+        {
+          "en": "Employees who drive to work must display a parking permit on the front window of their car.",
+          "zh": "開車上班的員工必須在前擋風玻璃放停車證。"
+        },
+        {
+          "en": "Foreign workers need a work permit before they can start their jobs at the factory.",
+          "zh": "外籍員工在工廠開始工作前需要工作許可。"
+        },
+        {
+          "en": "The company cannot start building the new warehouse until it receives a building permit from the city.",
+          "zh": "公司在取得市政府建築許可之前，不能開始蓋新倉庫。"
+        },
+        {
+          "en": "Please apply for a parking permit at the administration office at least one week before you need it.",
+          "zh": "請至少提前一週到行政辦公室申請停車證。"
+        },
+        {
+          "en": "The restaurant needs a special permit to put tables and chairs on the street in front of the shop.",
+          "zh": "餐廳需要特別許可，才能在店門口的街上擺桌椅。"
+        }
+      ],
+      "distractors": [
+        "permission",
+        "summit",
+        "hermit"
+      ],
+      "note": "語塊：parking permit（停車證）、work permit（工作許可）、building permit（建築許可）。permit 當名詞（重音在前）是「許可證」；當動詞（重音在後）是「允許」；permission 是「許可」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-designate",
+      "word": "designate",
+      "pos": "動詞",
+      "meaning": "指定；指派",
+      "sentences": [
+        {
+          "en": "The city decided to designate the old train station as a historic building that cannot be torn down.",
+          "zh": "市政府決定把舊火車站指定為不能拆除的歷史建築。"
+        },
+        {
+          "en": "The company will designate an area behind the building for smoking, so please do not smoke near the entrance.",
+          "zh": "公司會在大樓後方指定一個吸菸區，所以請不要在入口附近吸菸。"
+        },
+        {
+          "en": "The manager will designate one person to answer customer questions while the team is at the conference.",
+          "zh": "團隊去研討會期間，經理會指派一人回答顧客問題。"
+        },
+        {
+          "en": "The hotel will designate ten parking spaces for guests with electric cars starting next month.",
+          "zh": "飯店從下個月起會指定十個停車位給開電動車的客人。"
+        },
+        {
+          "en": "The government will designate the coastal waters near the island as a protected area for marine life.",
+          "zh": "政府將把島嶼附近的沿海水域指定為海洋生物保護區。"
+        }
+      ],
+      "distractors": [
+        "design",
+        "dedicate",
+        "delegate"
+      ],
+      "note": "語塊：designate as（指定為……）、designate an area（指定區域）、designate sb to（指派某人……）、designate spaces（指定位置）。designate 是「正式指定」；designated 當形容詞是「指定的」；design 是「設計」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vending-machine",
+      "word": "vending machine",
+      "pos": "名詞",
+      "meaning": "自動販賣機",
+      "sentences": [
+        {
+          "en": "There is a vending machine on every floor of the hospital where visitors can buy drinks and snacks.",
+          "zh": "醫院每層樓都有一台自動販賣機，訪客可以買飲料和點心。"
+        },
+        {
+          "en": "The vending machine near the elevator is broken, so please use the one in the cafeteria instead.",
+          "zh": "電梯旁邊的自動販賣機壞了，所以請改用餐廳裡的那台。"
+        },
+        {
+          "en": "The new vending machine accepts cards and phones, so you do not need to carry coins anymore.",
+          "zh": "新的自動販賣機可以刷卡和用手機付款，所以不用再帶硬幣了。"
+        },
+        {
+          "en": "The company replaced the snacks in the vending machine with healthier options such as nuts and fruit.",
+          "zh": "公司把自動販賣機裡的零食換成堅果和水果等更健康的選擇。"
+        },
+        {
+          "en": "Workers on the night shift often use the vending machine because the cafeteria closes at eight o'clock.",
+          "zh": "夜班工人常常使用自動販賣機，因為餐廳八點就關了。"
+        }
+      ],
+      "distractors": [
+        "washing machine",
+        "ticket machine",
+        "coffee machine"
+      ],
+      "note": "語塊：use the vending machine（使用自動販賣機）、vending machine on the floor（樓層的自動販賣機）。vending 是「販賣」；vendor 是「小販；供應商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-captain",
+      "word": "captain",
+      "pos": "名詞",
+      "meaning": "機長；船長；隊長",
+      "sentences": [
+        {
+          "en": "The captain announced that the plane would land in Tokyo about twenty minutes earlier than expected.",
+          "zh": "機長宣布飛機會比預期早二十分鐘降落東京。"
+        },
+        {
+          "en": "The ship captain has more than thirty years of experience sailing in the coastal waters of Asia.",
+          "zh": "那位船長在亞洲沿海水域航行超過三十年。"
+        },
+        {
+          "en": "Ms. Ruiz was chosen as team captain of the company's football team because of her leadership skills.",
+          "zh": "魯伊茲小姐因為領導能力被選為公司足球隊的隊長。"
+        },
+        {
+          "en": "The captain of the cruise ship welcomed all of the passengers at a special dinner on the first night.",
+          "zh": "郵輪船長在第一晚的特別晚宴上歡迎所有乘客。"
+        },
+        {
+          "en": "Passengers must follow the instructions of the captain and the crew in case of emergency.",
+          "zh": "萬一發生緊急情況，乘客必須遵從機長和機組人員的指示。"
+        }
+      ],
+      "distractors": [
+        "caption",
+        "capital",
+        "certain"
+      ],
+      "note": "語塊：ship captain（船長）、team captain（隊長）、captain of（……的機長／船長）。captain 是負責一架飛機、一艘船或一支隊伍的人；pilot 是「飛行員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-touching",
+      "word": "touching",
+      "pos": "形容詞",
+      "meaning": "感人的；動人的",
+      "sentences": [
+        {
+          "en": "The retiring manager gave a touching speech that made many of her colleagues and friends cry.",
+          "zh": "即將退休的經理發表了一場動人的演講，讓很多同事和朋友都哭了。"
+        },
+        {
+          "en": "The film tells a touching story about a small family restaurant that survives a difficult year.",
+          "zh": "那部電影講述一家小型家庭餐廳撐過艱難一年的感人故事。"
+        },
+        {
+          "en": "Customers left many touching messages on our website after the bakery announced it would close.",
+          "zh": "麵包店宣布要結束營業後，顧客在我們網站上留下很多感人的留言。"
+        },
+        {
+          "en": "The CEO's touching speech at the anniversary dinner thanked every employee and partner by name.",
+          "zh": "執行長在週年晚宴上的動人演講，一一點名感謝每位員工和合作夥伴。"
+        },
+        {
+          "en": "The magazine published a touching story about a teacher who has helped students for forty years.",
+          "zh": "雜誌刊登了一篇關於一位幫助學生四十年的老師的感人故事。"
+        }
+      ],
+      "distractors": [
+        "teaching",
+        "touchy",
+        "torching"
+      ],
+      "note": "語塊：touching story（感人的故事）、touching speech（動人的演講）。touching 當形容詞是「令人感動的」；touch 是「觸摸」；moving 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-light-hearted",
+      "word": "light-hearted",
+      "pos": "形容詞",
+      "meaning": "輕鬆愉快的；不嚴肅的",
+      "sentences": [
+        {
+          "en": "The speaker started the presentation with a light-hearted story about his first job that made the audience laugh.",
+          "zh": "講者用一個關於他第一份工作的輕鬆故事開場，讓觀眾笑了出來。"
+        },
+        {
+          "en": "The company's new advertisements have a light-hearted tone that young customers on social media seem to enjoy.",
+          "zh": "公司的新廣告語氣輕鬆，社群媒體上的年輕顧客似乎很喜歡。"
+        },
+        {
+          "en": "After a long week of work, many people prefer to watch a light-hearted film instead of a serious drama.",
+          "zh": "忙碌工作一週後，很多人比較喜歡看輕鬆的電影，而不是嚴肅的劇。"
+        },
+        {
+          "en": "The meeting was light-hearted, but the team still made several important decisions about the project.",
+          "zh": "會議氣氛很輕鬆，但團隊還是對專案做了幾個重要決定。"
+        },
+        {
+          "en": "The magazine's light-hearted tone makes it popular with readers who want to relax on weekends.",
+          "zh": "雜誌輕鬆的語氣讓它很受想在週末放鬆的讀者歡迎。"
+        }
+      ],
+      "distractors": [
+        "kind-hearted",
+        "half-hearted",
+        "broken-hearted"
+      ],
+      "note": "語塊：light-hearted film（輕鬆的電影）、light-hearted tone（輕鬆的語氣）。light-hearted 是「心情輕鬆、不沉重的」；serious 是「嚴肅的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adversity",
+      "word": "adversity",
+      "pos": "名詞",
+      "meaning": "逆境；困境",
+      "sentences": [
+        {
+          "en": "The small business continued to grow in the face of adversity, even when the economy was very weak.",
+          "zh": "即使經濟非常不景氣，那家小公司面對逆境仍持續成長。"
+        },
+        {
+          "en": "The book tells the story of a woman who had to overcome adversity to become a successful chef.",
+          "zh": "那本書講述一位女性克服逆境成為成功主廚的故事。"
+        },
+        {
+          "en": "Good leaders stay calm in the face of adversity and help their teams find solutions.",
+          "zh": "好的領導者在面對逆境時保持冷靜，幫助團隊找出解決辦法。"
+        },
+        {
+          "en": "The award is given to an employee who has shown courage and the ability to overcome adversity.",
+          "zh": "這個獎頒給展現勇氣和克服逆境能力的員工。"
+        },
+        {
+          "en": "The company learned many lessons from adversity during the difficult years after the storm destroyed its factory.",
+          "zh": "暴風雨摧毀工廠後艱難的那幾年，公司從逆境中學到很多教訓。"
+        }
+      ],
+      "distractors": [
+        "adversary",
+        "diversity",
+        "university"
+      ],
+      "note": "語塊：in the face of adversity（面對逆境）、overcome adversity（克服逆境）。adversity 是「艱困的處境」；hardship 意思接近；adversary 是「對手」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spike",
+      "word": "spike",
+      "pos": "名詞",
+      "meaning": "激增；突然上升",
+      "sentences": [
+        {
+          "en": "There was a sudden spike in orders after a famous actor wore our jacket in a popular television show.",
+          "zh": "一位知名演員在熱門電視節目中穿了我們的外套後，訂單突然暴增。"
+        },
+        {
+          "en": "The hot weather caused a spike in electricity use, so the city asked residents to save energy.",
+          "zh": "炎熱天氣造成用電量激增，所以市政府呼籲居民節約能源。"
+        },
+        {
+          "en": "The company saw a spike in website visits after it announced the holiday sale on social media.",
+          "zh": "公司在社群媒體宣布假期特賣後，網站造訪量激增。"
+        },
+        {
+          "en": "Hospitals reported a sudden spike in patients with colds during the first week of winter.",
+          "zh": "冬天第一週，醫院通報感冒病人突然暴增。"
+        },
+        {
+          "en": "A spike in fuel prices has made it more expensive for airlines to fly long distances.",
+          "zh": "燃料價格激增讓航空公司飛長途航線的成本更高。"
+        }
+      ],
+      "distractors": [
+        "spice",
+        "spine",
+        "strike"
+      ],
+      "note": "語塊：spike in（……的激增）、sudden spike（突然暴增）。spike 是「急劇上升的高點」；surge 意思接近；drop 是「下降」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unnamed",
+      "word": "unnamed",
+      "pos": "形容詞",
+      "meaning": "未具名的；匿名的",
+      "sentences": [
+        {
+          "en": "According to an unnamed source, the company plans to close three of its factories next year.",
+          "zh": "根據一位不具名消息來源，公司打算明年關閉三座工廠。"
+        },
+        {
+          "en": "The painting was sold to an unnamed buyer for more than five million dollars at the auction.",
+          "zh": "那幅畫在拍賣會上以超過五百萬元賣給一位匿名買家。"
+        },
+        {
+          "en": "An unnamed investor has offered to fund the new hospital, but the details have not been announced.",
+          "zh": "一位未具名的投資人提議資助新醫院，但細節尚未公布。"
+        },
+        {
+          "en": "The newspaper reported the story based on information from an unnamed source inside the government.",
+          "zh": "報紙根據政府內部一位不具名消息來源的資訊報導了這則新聞。"
+        },
+        {
+          "en": "The hotel was bought by an unnamed buyer who plans to turn it into luxury apartments.",
+          "zh": "那家飯店被一位匿名買家買下，他打算改建成豪華公寓。"
+        }
+      ],
+      "distractors": [
+        "unnoticed",
+        "untamed",
+        "renamed"
+      ],
+      "note": "語塊：unnamed source（不具名消息來源）、unnamed buyer（匿名買家）。unnamed 是「沒有透露名字的」；anonymous 意思接近；named 是「被點名的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rectangular",
+      "word": "rectangular",
+      "pos": "形容詞",
+      "meaning": "長方形的；矩形的",
+      "sentences": [
+        {
+          "en": "The meeting room has a large rectangular table that can seat up to twenty people.",
+          "zh": "會議室有一張大長方桌，最多可以坐二十人。"
+        },
+        {
+          "en": "The new phone has a rectangular shape with rounded corners and a very thin screen.",
+          "zh": "新手機是有圓角的長方形，螢幕非常薄。"
+        },
+        {
+          "en": "Please cut the paper into rectangular pieces that are about ten centimeters long and five centimeters wide.",
+          "zh": "請把紙剪成大約十公分長、五公分寬的長方形小片。"
+        },
+        {
+          "en": "The garden has a rectangular pool in the middle, surrounded by colorful flowers and wooden benches.",
+          "zh": "花園中間有一個長方形水池，四周有繽紛的花和木頭長椅。"
+        },
+        {
+          "en": "The designer chose a rectangular table for the dining room because it fits the long, narrow space.",
+          "zh": "設計師為飯廳選了一張長方桌，因為它適合狹長的空間。"
+        }
+      ],
+      "distractors": [
+        "regular",
+        "triangular",
+        "angular"
+      ],
+      "note": "語塊：rectangular table（長方桌）、rectangular shape（長方形）。rectangular 是 rectangle（長方形）的形容詞；square 是「正方形」；circular 是「圓形的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specification",
+      "word": "specification",
+      "pos": "名詞",
+      "meaning": "規格；說明書",
+      "sentences": [
+        {
+          "en": "Please check the technical specification of the printer before you buy ink or paper for it online.",
+          "zh": "在網路上幫印表機買墨水或紙之前，請先查看它的技術規格。"
+        },
+        {
+          "en": "All parts made in the factory must meet the specification provided by the client in the contract.",
+          "zh": "工廠製造的所有零件都必須符合客戶在合約中提供的規格。"
+        },
+        {
+          "en": "The product specification on our website includes the size, weight, and power use of each machine.",
+          "zh": "我們網站上的產品規格包含每台機器的尺寸、重量和耗電量。"
+        },
+        {
+          "en": "The engineers rejected the shipment because the materials did not meet the specification in the contract.",
+          "zh": "工程師退回了那批貨，因為材料不符合合約中的規格。"
+        },
+        {
+          "en": "Please send us the technical specification for the new laptop so that the IT team can review it.",
+          "zh": "請寄給我們新筆電的技術規格，讓資訊團隊審閱。"
+        }
+      ],
+      "distractors": [
+        "speculation",
+        "specialization",
+        "justification"
+      ],
+      "note": "語塊：technical specification（技術規格）、meet the specifications（符合規格）、product specification（產品規格）。specification 常縮寫成 spec，常用複數；specify 是動詞「明確指定」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refurbishment",
+      "word": "refurbishment",
+      "pos": "名詞",
+      "meaning": "整修；翻新",
+      "sentences": [
+        {
+          "en": "The hotel will be closed for refurbishment from January until the end of March next year.",
+          "zh": "飯店明年從一月到三月底會因整修暫停營業。"
+        },
+        {
+          "en": "The old theater will undergo refurbishment next year, including new seats and a larger stage.",
+          "zh": "舊劇院明年將進行整修，包括新座位和更大的舞台。"
+        },
+        {
+          "en": "After a complete refurbishment last summer, the office looks modern and has much better lighting.",
+          "zh": "去年夏天全面翻新後，辦公室看起來很現代，照明也好很多。"
+        },
+        {
+          "en": "The museum raised money from local businesses to pay for the refurbishment of its main hall.",
+          "zh": "博物館向當地企業募款支付大廳的整修費用。"
+        },
+        {
+          "en": "Several shops on the main street are closed for refurbishment, but they will reopen before the holiday season.",
+          "zh": "主要街道上有好幾家店因整修暫停營業，但會在假期購物季前重新開幕。"
+        }
+      ],
+      "distractors": [
+        "refreshment",
+        "replenishment",
+        "resettlement"
+      ],
+      "note": "語塊：undergo refurbishment（進行整修）、closed for refurbishment（整修暫停營業）、complete refurbishment（全面翻新）。refurbishment 是 refurbish（翻新）的名詞；renovation 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dealer",
+      "word": "dealer",
+      "pos": "名詞",
+      "meaning": "經銷商；業者",
+      "sentences": [
+        {
+          "en": "Please take your car to an authorized dealer for repairs, or the warranty may not be valid.",
+          "zh": "請把車送到授權經銷商維修，否則保固可能會失效。"
+        },
+        {
+          "en": "The car dealer offered us a good price on a new electric vehicle because it was the end of the month.",
+          "zh": "因為是月底，汽車經銷商給了我們一台新電動車很好的價格。"
+        },
+        {
+          "en": "The painting was sold by a famous art dealer in London to a museum in New York.",
+          "zh": "那幅畫由倫敦一位知名藝術品商賣給紐約一家博物館。"
+        },
+        {
+          "en": "Our products are available from any authorized dealer in the country, as well as on our website.",
+          "zh": "我們的產品可以在全國任何一家授權經銷商購買，也可以在我們網站上買。"
+        },
+        {
+          "en": "The car dealer near the highway will hold a big sale this weekend with prices up to twenty percent off.",
+          "zh": "高速公路附近的汽車經銷商這週末會舉辦大特賣，最多打八折。"
+        }
+      ],
+      "distractors": [
+        "leader",
+        "dealing",
+        "healer"
+      ],
+      "note": "語塊：car dealer（汽車經銷商）、authorized dealer（授權經銷商）、art dealer（藝術品商）。dealer 是「買賣某種商品的商人」；deal 是「交易」；distributor 是「批發商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-labor",
+      "word": "labor",
+      "pos": "名詞",
+      "meaning": "勞動力；勞工",
+      "sentences": [
+        {
+          "en": "The company moved its factory to another country because labor costs there are much lower.",
+          "zh": "公司把工廠搬到另一個國家，因為那裡的人力成本低很多。"
+        },
+        {
+          "en": "Many farms are facing a labor shortage, so they are using machines to pick fruit and vegetables.",
+          "zh": "很多農場面臨勞力短缺，所以改用機器採收蔬果。"
+        },
+        {
+          "en": "The labor union asked the company to increase wages and give workers more holidays every year.",
+          "zh": "工會要求公司調高工資，並每年給工人更多假期。"
+        },
+        {
+          "en": "Rising labor costs have forced many restaurants in the city to raise their prices this year.",
+          "zh": "人力成本上升迫使市內很多餐廳今年漲價。"
+        },
+        {
+          "en": "The government is working with business leaders to solve the labor shortage in the healthcare sector.",
+          "zh": "政府正與企業領袖合作，解決醫療產業的勞力短缺問題。"
+        }
+      ],
+      "distractors": [
+        "label",
+        "flavor",
+        "labyrinth"
+      ],
+      "note": "語塊：labor costs（人力成本）、labor shortage（勞力短缺）、labor union（工會）。labor 是美式拼法，英式是 labour；laboratory 是「實驗室」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-emerging",
+      "word": "emerging",
+      "pos": "形容詞",
+      "meaning": "新興的",
+      "sentences": [
+        {
+          "en": "Many companies are investing in emerging markets in Africa and Southeast Asia, where the economy is growing quickly.",
+          "zh": "很多公司投資非洲和東南亞的新興市場，那裡的經濟成長很快。"
+        },
+        {
+          "en": "The conference will focus on emerging technology, such as artificial intelligence, robots, and electric aircraft.",
+          "zh": "研討會將聚焦人工智慧、機器人和電動飛機等新興科技。"
+        },
+        {
+          "en": "The company hired a consultant to help it enter emerging markets where it has never done business before.",
+          "zh": "公司雇用顧問，幫助它進入以前從沒做過生意的新興市場。"
+        },
+        {
+          "en": "Students who study emerging technology at university will have many job opportunities after they graduate.",
+          "zh": "在大學研究新興科技的學生畢業後會有很多工作機會。"
+        },
+        {
+          "en": "Several emerging companies in the energy sector have received financial backing from large banks and investors.",
+          "zh": "能源產業好幾家新興公司已獲得大型銀行和投資人的資金支持。"
+        }
+      ],
+      "distractors": [
+        "emergency",
+        "merging",
+        "urging"
+      ],
+      "note": "語塊：emerging market（新興市場）、emerging technology（新興科技）。emerging 是「剛開始出現、正在發展的」；emerge 是動詞「出現」；emergency 是「緊急情況」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rent-out",
+      "word": "rent out",
+      "pos": "片語動詞",
+      "meaning": "出租",
+      "sentences": [
+        {
+          "en": "Many families rent out a room in their homes to tourists during the summer festival.",
+          "zh": "很多家庭在夏季節慶期間把家裡的房間出租給觀光客。"
+        },
+        {
+          "en": "The restaurant will rent out the space on the second floor for private parties and business dinners.",
+          "zh": "餐廳會把二樓的空間出租給私人派對和商務晚宴使用。"
+        },
+        {
+          "en": "If you rent out your apartment, you must tell the building manager and follow the rules.",
+          "zh": "如果你出租公寓，必須通知大樓管理員並遵守規定。"
+        },
+        {
+          "en": "The company decided to rent out the empty floors of its building to small start-ups.",
+          "zh": "公司決定把大樓空著的樓層出租給小型新創公司。"
+        },
+        {
+          "en": "The school will rent out its gymnasium to local sports clubs on weekends to earn extra money.",
+          "zh": "學校週末會把體育館出租給當地運動俱樂部，賺取額外收入。"
+        }
+      ],
+      "distractors": [
+        "rent from",
+        "sold out",
+        "run out"
+      ],
+      "note": "語塊：rent out a room（出租房間）、rent out the space（出租場地）、rent out the floors（出租樓層）、rent out an apartment（出租公寓）、rent out the gymnasium（出租體育館）。rent out 是「把自己的東西租給別人」；rent 單獨用可以是「租入」或「租出」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-after",
+      "word": "look after",
+      "pos": "片語動詞",
+      "meaning": "照顧；照料",
+      "sentences": [
+        {
+          "en": "The hotel offers a service where trained staff look after children while their parents go to dinner.",
+          "zh": "飯店提供讓受過訓練的員工在父母去吃晚餐時照顧孩子的服務。"
+        },
+        {
+          "en": "Our sales staff are trained to look after customers carefully and answer all of their questions.",
+          "zh": "我們的銷售人員受過訓練，要細心招呼顧客並回答他們所有的問題。"
+        },
+        {
+          "en": "Please look after the new employee during her first week and show her how the system works.",
+          "zh": "請在新員工第一週照顧她，並教她系統怎麼用。"
+        },
+        {
+          "en": "Workers who stay late every night should remember to look after themselves and get enough sleep.",
+          "zh": "每晚都加班的員工應該記得照顧好自己、睡飽。"
+        },
+        {
+          "en": "Ms. Kim asked her neighbor to look after her dog while she was on a business trip in Japan.",
+          "zh": "金小姐去日本出差時，請鄰居幫她照顧狗。"
+        }
+      ],
+      "distractors": [
+        "look for",
+        "look into",
+        "look over"
+      ],
+      "note": "語塊：look after children（照顧小孩）、look after customers（招呼顧客）、look after themselves（照顧自己）、look after the new employee（照顧新同事）、look after a dog（照顧狗）。look after 等於 take care of；look for 是「尋找」；look into 是「調查」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reduction",
+      "word": "reduction",
+      "pos": "名詞",
+      "meaning": "減少；降低",
+      "sentences": [
+        {
+          "en": "The store announced a price reduction of thirty percent on all winter clothing this weekend.",
+          "zh": "那家店宣布這週末所有冬季服飾降價三成。"
+        },
+        {
+          "en": "The new machines will lead to a cost reduction of about twenty percent in the factory.",
+          "zh": "新機器會讓工廠的成本降低約兩成。"
+        },
+        {
+          "en": "There has been a reduction in the number of traffic accidents since the new speed limit was introduced.",
+          "zh": "自從實施新速限以來，交通事故數量減少了。"
+        },
+        {
+          "en": "The company's cost reduction plan includes using less paper and turning off lights at night.",
+          "zh": "公司的成本降低計畫包括減少用紙和晚上關燈。"
+        },
+        {
+          "en": "Customers who buy more than ten items will receive an extra price reduction at the counter.",
+          "zh": "購買超過十件商品的顧客在櫃台可以再享額外降價。"
+        }
+      ],
+      "distractors": [
+        "deduction",
+        "production",
+        "seduction"
+      ],
+      "note": "語塊：price reduction（降價）、cost reduction（成本降低）、reduction in（……的減少）。reduction 是 reduce（減少）的名詞；deduction 是「扣除」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-turn-down",
+      "word": "turn down",
+      "pos": "片語動詞",
+      "meaning": "拒絕；調低",
+      "sentences": [
+        {
+          "en": "Mr. Lee decided to turn down the job offer because he did not want to move to another city.",
+          "zh": "李先生決定拒絕那份工作邀約，因為他不想搬到另一個城市。"
+        },
+        {
+          "en": "I am sorry, but I must turn down the invitation to dinner because I will be traveling that week.",
+          "zh": "很抱歉，我必須婉拒晚餐邀請，因為那週我要出差。"
+        },
+        {
+          "en": "Please turn down the volume of the music in the store, because customers cannot hear each other.",
+          "zh": "請把店裡的音樂音量調低，因為顧客聽不到彼此說話。"
+        },
+        {
+          "en": "The board may turn down the offer if the buyer does not agree to keep all of the employees.",
+          "zh": "如果買方不同意留下所有員工，董事會可能會拒絕那個提議。"
+        },
+        {
+          "en": "Please turn down the heating in the meeting room, because several people said it was too hot.",
+          "zh": "請把會議室的暖氣調低，因為好幾個人說太熱了。"
+        }
+      ],
+      "distractors": [
+        "turn up",
+        "turn over",
+        "turn off"
+      ],
+      "note": "語塊：turn down an offer（拒絕提議）、turn down an invitation（婉拒邀請）、turn down the volume（調低音量）。turn down 是「拒絕」或「（音量、溫度）調低」；turn up 是相反「調高；出現」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-up",
+      "word": "look up",
+      "pos": "片語動詞",
+      "meaning": "查詢；（情況）好轉",
+      "sentences": [
+        {
+          "en": "Customers can look up information about their orders and deliveries on our website at any time.",
+          "zh": "顧客可以隨時在我們網站上查詢訂單和送貨資訊。"
+        },
+        {
+          "en": "If you do not know a word in the contract, please look up the meaning before you sign it.",
+          "zh": "如果合約裡有你不認識的字，簽名前請先查意思。"
+        },
+        {
+          "en": "Employees can look up their remaining vacation days in the new app instead of asking the administration office.",
+          "zh": "員工可以在新 App 查詢剩下的假期天數，不用再問行政辦公室。"
+        },
+        {
+          "en": "You can look up the opening hours of the museum on its website before you visit.",
+          "zh": "參觀前，你可以在博物館網站上查詢開放時間。"
+        },
+        {
+          "en": "Please look up the client's phone number in the database and call her back this afternoon.",
+          "zh": "請在資料庫查一下客戶的電話號碼，今天下午回電給她。"
+        }
+      ],
+      "distractors": [
+        "look out",
+        "look down",
+        "look around"
+      ],
+      "note": "語塊：look up information（查詢資訊）、look up a word（查單字）、look up days（查詢天數）。look up 是「查」或「好轉」；look up to sb 是「尊敬某人」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
