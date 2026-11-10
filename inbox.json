@@ -60603,6 +60603,706 @@
       ],
       "note": "語塊：inexpensive option（便宜的選擇）、relatively inexpensive（相對便宜）。inexpensive 是比較委婉的「不貴」；cheap 有時帶「廉價、品質差」的意思；expensive 是「昂貴的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-carbon-dioxide",
+      "word": "carbon dioxide",
+      "pos": "名詞",
+      "meaning": "二氧化碳",
+      "sentences": [
+        {
+          "en": "The new electric buses will help the city reduce carbon dioxide by about twenty percent each year.",
+          "zh": "新的電動公車每年會幫助城市減少約兩成的二氧化碳。"
+        },
+        {
+          "en": "The factory installed special equipment to lower its carbon dioxide emissions and meet the new rules.",
+          "zh": "工廠安裝了特殊設備，以降低二氧化碳排放並符合新規定。"
+        },
+        {
+          "en": "Trees absorb carbon dioxide from the air, so the company plants a tree for every product it sells.",
+          "zh": "樹木會吸收空氣中的二氧化碳，所以公司每賣出一件產品就種一棵樹。"
+        },
+        {
+          "en": "Airlines are trying to reduce carbon dioxide emissions by using lighter planes and cleaner fuel.",
+          "zh": "航空公司正試著用更輕的飛機和更乾淨的燃料減少二氧化碳排放。"
+        },
+        {
+          "en": "The report shows that carbon dioxide emissions from cars in the city have fallen for three years in a row.",
+          "zh": "報告顯示市區汽車的二氧化碳排放量已經連續三年下降。"
+        }
+      ],
+      "distractors": [
+        "carbon monoxide",
+        "carbon paper",
+        "carbon copy"
+      ],
+      "note": "語塊：reduce carbon dioxide（減少二氧化碳）、carbon dioxide emissions（二氧化碳排放）。carbon dioxide 化學式是 CO2；carbon monoxide 是「一氧化碳」，有毒。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depend-on",
+      "word": "depend on",
+      "pos": "片語動詞",
+      "meaning": "取決於；依賴",
+      "sentences": [
+        {
+          "en": "Whether the outdoor concert takes place will depend on the weather, so please check our website on Saturday.",
+          "zh": "戶外演唱會是否舉行要看天氣而定，所以請在週六查看我們的網站。"
+        },
+        {
+          "en": "Many small towns depend on tourism, so a bad season can hurt local businesses very badly.",
+          "zh": "很多小鎮依賴觀光，所以淡季會嚴重衝擊當地商家。"
+        },
+        {
+          "en": "The price of the trip will depend on the hotel you choose and the number of people in your group.",
+          "zh": "旅費會依你選的飯店和團體人數而定。"
+        },
+        {
+          "en": "Our company does not want to depend on one supplier, so we buy materials from three different firms.",
+          "zh": "我們公司不想只依賴單一供應商，所以向三家不同的公司買材料。"
+        },
+        {
+          "en": "The success of the new product will depend on how well the marketing team explains its benefits to customers.",
+          "zh": "新產品的成功取決於行銷團隊如何向顧客說明它的好處。"
+        }
+      ],
+      "distractors": [
+        "rely on",
+        "decide on",
+        "depart from"
+      ],
+      "note": "語塊：depend on the weather（看天氣而定）、depend on tourism（依賴觀光）、depend on how（取決於如何……）。depend on 後面接名詞；dependent 是形容詞「依賴的」（be dependent on）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cost-effective",
+      "word": "cost-effective",
+      "pos": "形容詞",
+      "meaning": "划算的；有成本效益的",
+      "sentences": [
+        {
+          "en": "Sending documents by e-mail is a cost-effective way to communicate with clients in other countries.",
+          "zh": "用電子郵件寄文件是和其他國家客戶聯絡的划算方法。"
+        },
+        {
+          "en": "The consultant suggested a cost-effective solution that will save the company thousands of dollars a year.",
+          "zh": "顧問建議了一個有成本效益的方案，每年能幫公司省下數千元。"
+        },
+        {
+          "en": "Online advertising is often more cost-effective than television ads for small businesses with limited budgets.",
+          "zh": "對預算有限的小公司來說，網路廣告通常比電視廣告更划算。"
+        },
+        {
+          "en": "The city is looking for a cost-effective way to repair the old roads without closing them for months.",
+          "zh": "市政府在找一個划算的方法，不必封路好幾個月就能修好舊道路。"
+        },
+        {
+          "en": "Solar energy has become a cost-effective solution for many factories that use a lot of electricity during the day.",
+          "zh": "太陽能已經成為很多白天大量用電的工廠有成本效益的方案。"
+        }
+      ],
+      "distractors": [
+        "cost-free",
+        "effective",
+        "costly"
+      ],
+      "note": "語塊：cost-effective way（划算的方法）、cost-effective solution（有成本效益的方案）。cost-effective 是「花的錢值得」；economical 意思接近；cost-efficient 也可以用。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-at-no-cost",
+      "word": "at no cost",
+      "pos": "其他",
+      "meaning": "免費",
+      "sentences": [
+        {
+          "en": "The hotel provides airport transportation at no cost to guests who stay for more than three nights.",
+          "zh": "飯店為住宿超過三晚的客人提供免費機場接送。"
+        },
+        {
+          "en": "If the product breaks within one year, we will repair it at no cost to the customer.",
+          "zh": "如果產品在一年內損壞，我們會免費替顧客修理。"
+        },
+        {
+          "en": "Employees can attend the language classes at no cost, because the company pays for all of the fees.",
+          "zh": "員工可以免費上語言課，因為公司支付所有費用。"
+        },
+        {
+          "en": "The museum offers guided tours for visitors at no cost every Saturday and Sunday afternoon in the main hall.",
+          "zh": "博物館每週六和週日下午在大廳為參觀者提供免費導覽。"
+        },
+        {
+          "en": "We will replace the damaged items at no cost to you and send them by express mail tomorrow.",
+          "zh": "我們會免費為您更換損壞的商品，明天用快遞寄出。"
+        }
+      ],
+      "distractors": [
+        "at all costs",
+        "at any cost",
+        "at cost"
+      ],
+      "note": "語塊：at no cost to（不需……付費）、at no cost to you（您不用付費）。at no cost 等於 free of charge；at no extra cost 是「不另外收費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-outsourcing",
+      "word": "outsourcing",
+      "pos": "名詞",
+      "meaning": "外包",
+      "sentences": [
+        {
+          "en": "The outsourcing of customer service to another country helped the company reduce its costs by thirty percent.",
+          "zh": "把客服外包到另一個國家，幫助公司降低了三成的成本。"
+        },
+        {
+          "en": "Many small companies hire an outsourcing company to handle their payroll and accounting work every month.",
+          "zh": "很多小公司每個月雇用外包公司處理薪資和會計工作。"
+        },
+        {
+          "en": "Some employees worry that outsourcing will cause them to lose their jobs in the next few years.",
+          "zh": "有些員工擔心外包會讓他們在未來幾年失去工作。"
+        },
+        {
+          "en": "The board will discuss the outsourcing of the IT department at its meeting next Tuesday.",
+          "zh": "董事會下週二的會議會討論資訊部門外包的事。"
+        },
+        {
+          "en": "The outsourcing company we chose has offices in four countries and provides support twenty-four hours a day.",
+          "zh": "我們選的外包公司在四個國家設有辦公室，提供二十四小時支援。"
+        }
+      ],
+      "distractors": [
+        "outspoken",
+        "resourcing",
+        "outsider"
+      ],
+      "note": "語塊：outsourcing company（外包公司）、outsourcing of（……的外包）。outsourcing 是把工作交給外部公司做；outsource 是動詞；in-house 是「公司內部自己做」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-decrease",
+      "word": "decrease",
+      "pos": "動詞",
+      "meaning": "減少；降低",
+      "sentences": [
+        {
+          "en": "The number of accidents on the highway will decrease by half if the new speed cameras work as planned.",
+          "zh": "如果新的測速照相機照計畫運作，高速公路上的事故數量會減少一半。"
+        },
+        {
+          "en": "Sales of paper books did not decrease significantly last year, which surprised many experts in the industry.",
+          "zh": "去年紙本書的銷量並沒有顯著減少，讓很多業界專家很意外。"
+        },
+        {
+          "en": "The price of the new phone will gradually decrease as more companies start selling similar models.",
+          "zh": "隨著更多公司開始販售類似機型，新手機的價格會逐漸下降。"
+        },
+        {
+          "en": "The company hopes to decrease its use of plastic by forty percent within the next three years.",
+          "zh": "公司希望在未來三年內把塑膠用量減少四成。"
+        },
+        {
+          "en": "Our electricity costs began to decrease significantly after we installed solar panels on the roof.",
+          "zh": "在屋頂裝了太陽能板後，我們的電費開始顯著減少。"
+        }
+      ],
+      "distractors": [
+        "increase",
+        "decorate",
+        "crease"
+      ],
+      "note": "語塊：decrease by（減少了……）、decrease significantly（顯著減少）、gradually decrease（逐漸減少）。decrease 可以當動詞或名詞（a decrease in sales）；increase 是相反詞「增加」；reduce 是「（主動）減少」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rodent",
+      "word": "rodent",
+      "pos": "名詞",
+      "meaning": "囓齒動物（如老鼠）",
+      "sentences": [
+        {
+          "en": "The restaurant was closed for a week after health inspectors found a rodent problem in the kitchen.",
+          "zh": "衛生檢查員在廚房發現鼠患後，那家餐廳被勒令停業一週。"
+        },
+        {
+          "en": "The warehouse hired a company that specializes in rodent control to protect the food stored there.",
+          "zh": "倉庫雇用了一家專門防治鼠害的公司，保護存放在那裡的食物。"
+        },
+        {
+          "en": "Please keep all food in closed containers so that we do not have a rodent problem in the office.",
+          "zh": "請把所有食物放在密封容器裡，以免辦公室發生鼠患。"
+        },
+        {
+          "en": "The city spends a lot of money on rodent control every year, especially in areas near the markets.",
+          "zh": "市政府每年在防治鼠害上花很多錢，特別是在市場附近的地區。"
+        },
+        {
+          "en": "A small rodent was found in the storage room, so the manager called a pest control company immediately.",
+          "zh": "儲藏室裡發現一隻小老鼠，所以經理立刻打電話給除蟲公司。"
+        }
+      ],
+      "distractors": [
+        "rodeo",
+        "resident",
+        "student"
+      ],
+      "note": "語塊：rodent problem（鼠患）、rodent control（防治鼠害）。rodent 是老鼠、松鼠這類「囓齒動物」的總稱；rat 是大老鼠，mouse 是小老鼠。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mark",
+      "word": "mark",
+      "pos": "動詞",
+      "meaning": "標示；紀念",
+      "sentences": [
+        {
+          "en": "The company will hold a big party to mark the anniversary of its founding fifty years ago.",
+          "zh": "公司會舉辦盛大的派對，紀念五十年前的創立週年。"
+        },
+        {
+          "en": "The opening of the new factory will mark the beginning of a new period of growth for the town.",
+          "zh": "新工廠的開幕將標誌這個小鎮新一波成長的開始。"
+        },
+        {
+          "en": "Please mark each box with the name of your department so that the movers know where to take it.",
+          "zh": "請在每個箱子上標示你的部門名稱，讓搬家工人知道要搬去哪裡。"
+        },
+        {
+          "en": "The city will plant a hundred trees in the park to mark the anniversary of the end of the war.",
+          "zh": "市政府會在公園種一百棵樹，紀念戰爭結束週年。"
+        },
+        {
+          "en": "The sale will mark the beginning of the holiday season, so the store expects many customers this weekend.",
+          "zh": "這場特賣會標誌著假期購物季的開始，所以店家預期這週末會有很多顧客。"
+        }
+      ],
+      "distractors": [
+        "mask",
+        "march",
+        "park"
+      ],
+      "note": "語塊：mark the anniversary（紀念週年）、mark the beginning of（標誌……的開始）、be marked with（標有……）。mark 當動詞是「做記號；紀念」；當名詞是「記號；分數」；market 是「市場」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consultancy",
+      "word": "consultancy",
+      "pos": "名詞",
+      "meaning": "顧問公司；諮詢服務",
+      "sentences": [
+        {
+          "en": "Ms. Park left the bank to start her own management consultancy, which now has more than forty employees.",
+          "zh": "朴小姐離開銀行，創立了自己的管理顧問公司，現在有四十多名員工。"
+        },
+        {
+          "en": "The consultancy fee for the project will be paid in three parts, at the beginning, middle, and end.",
+          "zh": "專案的顧問費會分三期支付，分別在開始、中期和結束時。"
+        },
+        {
+          "en": "We hired a consultancy firm to help us decide whether to open new stores in Southeast Asia.",
+          "zh": "我們雇用了一家顧問公司，幫我們決定是否要在東南亞開新店。"
+        },
+        {
+          "en": "The management consultancy suggested that the company should reduce the number of meetings each week.",
+          "zh": "那家管理顧問公司建議公司減少每週的會議次數。"
+        },
+        {
+          "en": "The consultancy firm specializes in helping hospitals improve their services and reduce waiting times for patients.",
+          "zh": "那家顧問公司專門協助醫院改善服務並縮短病人的候診時間。"
+        }
+      ],
+      "distractors": [
+        "constancy",
+        "consultation",
+        "constituency"
+      ],
+      "note": "語塊：management consultancy（管理顧問公司）、consultancy fee（顧問費）、consultancy firm（顧問公司）。consultancy 是提供顧問服務的「公司」或「業務」；consultant 是「顧問（人）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-customer-care",
+      "word": "customer care",
+      "pos": "名詞",
+      "meaning": "客戶服務",
+      "sentences": [
+        {
+          "en": "If you have any problems with your order, please contact our customer care team by phone or e-mail.",
+          "zh": "如果您的訂單有任何問題，請透過電話或電子郵件聯絡我們的客服團隊。"
+        },
+        {
+          "en": "The customer care center is open from eight in the morning until ten at night, seven days a week.",
+          "zh": "客服中心一週七天從早上八點開到晚上十點。"
+        },
+        {
+          "en": "The hotel is famous for its excellent customer care, and many guests return every year.",
+          "zh": "那家飯店以優質的客戶服務聞名，很多客人每年都會再來。"
+        },
+        {
+          "en": "All new staff in the customer care team receive two weeks of training before they answer calls.",
+          "zh": "客服團隊的所有新員工在接電話之前都要接受兩週的訓練。"
+        },
+        {
+          "en": "Excellent customer care is the main reason why our customers choose us instead of our competitors.",
+          "zh": "優質的客戶服務是顧客選擇我們而不是競爭對手的主要原因。"
+        }
+      ],
+      "distractors": [
+        "customer base",
+        "customer survey",
+        "skin care"
+      ],
+      "note": "語塊：customer care team（客服團隊）、customer care center（客服中心）、excellent customer care（優質的客戶服務）。customer care 和 customer service 意思一樣，都是「客服」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vehicle",
+      "word": "vehicle",
+      "pos": "名詞",
+      "meaning": "車輛；交通工具",
+      "sentences": [
+        {
+          "en": "The government offers a tax deduction to people who buy an electric vehicle instead of a gas car.",
+          "zh": "政府為買電動車而不是汽油車的人提供稅金扣抵。"
+        },
+        {
+          "en": "Only employees with special permission may drive a company vehicle outside of working hours or on weekends.",
+          "zh": "只有獲得特別許可的員工可以在上班時間以外或週末開公司車。"
+        },
+        {
+          "en": "Please do not park a vehicle in front of the fire exit, or it will be removed at the owner's expense.",
+          "zh": "請勿把車停在逃生出口前，否則會被拖走，費用由車主負擔。"
+        },
+        {
+          "en": "Every vehicle that enters the factory must stop at the gate so that security staff can check it.",
+          "zh": "每輛進入工廠的車輛都必須在大門停下，讓保全人員檢查。"
+        },
+        {
+          "en": "The city plans to build more charging stations because the number of electric vehicle owners is growing quickly.",
+          "zh": "市政府計畫增設更多充電站，因為電動車車主的人數快速成長。"
+        }
+      ],
+      "distractors": [
+        "vessel",
+        "vehement",
+        "article"
+      ],
+      "note": "語塊：electric vehicle（電動車）、company vehicle（公司車）、park a vehicle（停車）。vehicle 是各種「車輛」的正式說法；h 不發音，唸作 /ˈviːɪkəl/。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-peak-season",
+      "word": "peak season",
+      "pos": "名詞",
+      "meaning": "旺季",
+      "sentences": [
+        {
+          "en": "Hotel prices on the island are almost twice as high during peak season, so many families travel in spring.",
+          "zh": "島上的飯店價格在旺季幾乎貴一倍，所以很多家庭選在春天旅遊。"
+        },
+        {
+          "en": "The airline will add more flights to Tokyo during peak season to meet the high demand from tourists.",
+          "zh": "航空公司會在旺季增加飛東京的航班，以應付觀光客的高需求。"
+        },
+        {
+          "en": "Peak season rates apply from July to August, so please book early if you want a lower price.",
+          "zh": "七月到八月適用旺季價格，所以如果想要便宜一點請提早預訂。"
+        },
+        {
+          "en": "The restaurant hires twenty extra workers during peak season because the town is full of visitors.",
+          "zh": "那家餐廳在旺季會多雇二十名員工，因為鎮上擠滿遊客。"
+        },
+        {
+          "en": "Many shops in the beach town close for several months after the peak season ends in September.",
+          "zh": "九月旺季結束後，海邊小鎮很多店都會休息好幾個月。"
+        }
+      ],
+      "distractors": [
+        "off-season",
+        "peak hours",
+        "rainy season"
+      ],
+      "note": "語塊：during peak season（旺季期間）、peak season rates（旺季價格）。peak season 是「生意最好的季節」；off-season 或 low season 是「淡季」；peak hours 是「尖峰時段」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-window",
+      "word": "window",
+      "pos": "名詞",
+      "meaning": "期間；時段；窗口",
+      "sentences": [
+        {
+          "en": "The company has a short window of opportunity to launch its product before competitors enter the market.",
+          "zh": "在競爭對手進入市場前，公司只有一段很短的時間可以推出產品。"
+        },
+        {
+          "en": "Customers can choose a two-hour delivery window when they place their order on our website.",
+          "zh": "顧客在我們網站下單時可以選擇兩小時的配送時段。"
+        },
+        {
+          "en": "The repair technician will arrive within a time window of nine to twelve in the morning.",
+          "zh": "維修技術人員會在早上九點到十二點的時間範圍內抵達。"
+        },
+        {
+          "en": "Please buy your train tickets at the window near the main entrance of the station.",
+          "zh": "請在車站正門附近的窗口買火車票。"
+        },
+        {
+          "en": "If you miss the delivery window, our driver will try to deliver the package again the next day.",
+          "zh": "如果你錯過配送時段，我們的司機隔天會再試著送一次包裹。"
+        }
+      ],
+      "distractors": [
+        "widow",
+        "willow",
+        "winding"
+      ],
+      "note": "語塊：window of opportunity（機會之窗）、delivery window（配送時段）、time window（時間範圍）。window 除了「窗戶」，也指一段可以做某事的「時間」；ticket window 是「售票窗口」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-confiscate",
+      "word": "confiscate",
+      "pos": "動詞",
+      "meaning": "沒收；扣押",
+      "sentences": [
+        {
+          "en": "Airport security staff will confiscate any liquids larger than one hundred milliliters in your carry-on bag.",
+          "zh": "機場安檢人員會沒收你隨身行李中超過一百毫升的任何液體。"
+        },
+        {
+          "en": "Teachers may confiscate phones that students use during class and return them at the end of the day.",
+          "zh": "老師可以沒收學生上課時使用的手機，放學時再歸還。"
+        },
+        {
+          "en": "The police will confiscate fake products that are sold at the night market without permission.",
+          "zh": "警方會沒收在夜市未經許可販售的仿冒品。"
+        },
+        {
+          "en": "Customs officers can confiscate items that are not allowed into the country, such as fresh fruit and meat.",
+          "zh": "海關人員可以沒收不准入境的物品，例如新鮮水果和肉類。"
+        },
+        {
+          "en": "If you bring food into the concert hall, the staff will confiscate it at the entrance.",
+          "zh": "如果你帶食物進音樂廳，工作人員會在入口沒收。"
+        }
+      ],
+      "distractors": [
+        "concentrate",
+        "congratulate",
+        "contaminate"
+      ],
+      "note": "語塊：confiscate items（沒收物品）、be confiscated by（被……沒收）。confiscate 是官方或有權力的人「沒收」；seize 意思接近；concentrate 是「專心」，拼法有點像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sculpt",
+      "word": "sculpt",
+      "pos": "動詞",
+      "meaning": "雕刻；塑造",
+      "sentences": [
+        {
+          "en": "The artist will sculpt a statue of the town's founder, which will stand in front of the new library.",
+          "zh": "那位藝術家將雕刻小鎮創辦人的雕像，雕像會立在新圖書館前面。"
+        },
+        {
+          "en": "Students in the art class learn how to sculpt in clay before they start working with stone.",
+          "zh": "美術課的學生在開始使用石材之前，先學如何用黏土塑造。"
+        },
+        {
+          "en": "It took the artist almost a year to sculpt the large horse from a single piece of white marble.",
+          "zh": "那位藝術家花了將近一年，用一整塊白色大理石雕出那匹大馬。"
+        },
+        {
+          "en": "Visitors to the festival can watch artists sculpt animals from ice in the town square.",
+          "zh": "參加節慶的遊客可以在小鎮廣場看藝術家用冰雕刻動物。"
+        },
+        {
+          "en": "The museum invited a famous artist to sculpt a statue for its fiftieth anniversary celebration.",
+          "zh": "博物館邀請一位知名藝術家為五十週年慶雕刻一座雕像。"
+        }
+      ],
+      "distractors": [
+        "sculpture",
+        "scalp",
+        "script"
+      ],
+      "note": "語塊：sculpt a statue（雕刻雕像）、sculpt in clay（用黏土塑造）、sculpt from（用……雕刻）。sculpt 是動詞；sculpture 是「雕塑作品」；sculptor 是「雕刻家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-potter",
+      "word": "potter",
+      "pos": "名詞",
+      "meaning": "陶藝家；陶工",
+      "sentences": [
+        {
+          "en": "The café sells cups and plates made by a local potter who has a small studio in the mountains.",
+          "zh": "那家咖啡廳販售一位在山上有小工作室的當地陶藝家做的杯盤。"
+        },
+        {
+          "en": "A skilled potter with a good electric wheel can make more than fifty bowls in a single day.",
+          "zh": "一位技術好的陶藝家用好的電動拉坯機，一天可以做五十多個碗。"
+        },
+        {
+          "en": "The workshop is taught by a skilled potter who has won several international awards for her work.",
+          "zh": "這個工作坊由一位作品得過好幾個國際獎的資深陶藝家授課。"
+        },
+        {
+          "en": "Every summer, the town holds a market where each local potter can sell his or her work to tourists.",
+          "zh": "每年夏天小鎮都會舉辦市集，讓每位當地陶藝家向觀光客販售作品。"
+        },
+        {
+          "en": "The local potter showed the students how to shape the clay and use the wheel safely in her studio.",
+          "zh": "那位當地陶藝家在她的工作室示範給學生看如何塑形黏土和安全地使用拉坯機。"
+        }
+      ],
+      "distractors": [
+        "pottery",
+        "porter",
+        "plotter"
+      ],
+      "note": "語塊：local potter（當地陶藝家）、skilled potter（技術好的陶藝家）。potter 是「做陶器的人」；pottery 是「陶器；陶藝」；pot 是「鍋；壺」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-apply",
+      "word": "apply",
+      "pos": "動詞",
+      "meaning": "塗抹；應用；申請",
+      "sentences": [
+        {
+          "en": "The potter will apply a coat of glaze to the bowls before they go into the hot kiln.",
+          "zh": "陶藝家在碗放進高溫窯之前，會先塗上一層釉。"
+        },
+        {
+          "en": "Ms. Kim plans to apply for the manager position that was advertised on the company website last week.",
+          "zh": "金小姐打算申請上週公司網站刊登的經理職位。"
+        },
+        {
+          "en": "The new rules apply to all employees, including part-time workers and staff in overseas offices.",
+          "zh": "新規定適用於所有員工，包括兼職人員和海外辦公室的員工。"
+        },
+        {
+          "en": "Please apply a coat of paint to the walls and wait at least four hours before adding the second one.",
+          "zh": "請在牆上塗一層油漆，等至少四小時再塗第二層。"
+        },
+        {
+          "en": "Students who want to apply for the scholarship must submit their application before the end of March.",
+          "zh": "想申請獎學金的學生必須在三月底前提交申請。"
+        }
+      ],
+      "distractors": [
+        "supply",
+        "reply",
+        "imply"
+      ],
+      "note": "語塊：apply for（申請）、apply to（適用於；向……申請）、apply a coat of（塗一層……）。apply for 是「申請」；apply to 是「適用於」；apply 也可以是「塗抹」（apply glaze）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-glaze",
+      "word": "glaze",
+      "pos": "名詞",
+      "meaning": "釉；釉料",
+      "sentences": [
+        {
+          "en": "After the bowls are dry, the potter will apply glaze to give them a shiny surface and bright colors.",
+          "zh": "碗乾了之後，陶藝家會上釉，讓它們有光亮的表面和鮮豔的顏色。"
+        },
+        {
+          "en": "The cups are covered with a clear glaze, so you can still see the natural color of the clay.",
+          "zh": "杯子上了一層透明釉，所以還是看得到黏土的天然顏色。"
+        },
+        {
+          "en": "Each glaze color looks different after firing, so the potter tests every new color on a small tile first.",
+          "zh": "每種釉色燒製後看起來都不一樣，所以陶藝家會先在小磁磚上測試每種新顏色。"
+        },
+        {
+          "en": "The workshop teaches beginners how to apply glaze evenly so that the plates look professional.",
+          "zh": "工作坊教初學者如何均勻上釉，讓盤子看起來很專業。"
+        },
+        {
+          "en": "Customers can choose their favorite glaze color when they order handmade plates from our studio.",
+          "zh": "顧客向我們工作室訂做手工盤子時，可以選擇自己最喜歡的釉色。"
+        }
+      ],
+      "distractors": [
+        "glance",
+        "graze",
+        "blaze"
+      ],
+      "note": "語塊：apply glaze（上釉）、clear glaze（透明釉）、glaze color（釉色）。glaze 可以當名詞「釉」或動詞「上釉」；glass 是「玻璃」；graze 是「吃草」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-kiln",
+      "word": "kiln",
+      "pos": "名詞",
+      "meaning": "窯；窯爐",
+      "sentences": [
+        {
+          "en": "The bowls must be fired in a kiln at a very high temperature for about ten hours.",
+          "zh": "碗必須在窯裡以非常高的溫度燒大約十小時。"
+        },
+        {
+          "en": "The studio bought a new electric kiln that uses less energy and is easier to control than the old one.",
+          "zh": "工作室買了一台新的電窯，比舊的更省電也更容易控制。"
+        },
+        {
+          "en": "The potter checks the kiln temperature carefully, because the glaze can crack if it gets too hot.",
+          "zh": "陶藝家會仔細檢查窯溫，因為溫度太高釉可能會裂開。"
+        },
+        {
+          "en": "Students are not allowed to open the electric kiln, because it stays very hot for several hours.",
+          "zh": "學生不准打開電窯，因為它好幾個小時都會很燙。"
+        },
+        {
+          "en": "All of the cups are fired in a kiln twice, once before and once after the glaze is applied.",
+          "zh": "所有杯子都在窯裡燒兩次，上釉前一次、上釉後一次。"
+        }
+      ],
+      "distractors": [
+        "kilt",
+        "kin",
+        "kill"
+      ],
+      "note": "語塊：electric kiln（電窯）、fire in a kiln（在窯裡燒製）、kiln temperature（窯溫）。kiln 是燒陶瓷或磚頭的「窯」；n 前面的 l 要發音，唸作 /kɪln/；oven 是一般「烤箱」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-completion",
+      "word": "completion",
+      "pos": "名詞",
+      "meaning": "完成；完工",
+      "sentences": [
+        {
+          "en": "Upon completion of the training course, each participant will receive a certificate from the company.",
+          "zh": "完成訓練課程後，每位參加者都會獲得公司頒發的證書。"
+        },
+        {
+          "en": "The completion date of the new stadium has been moved to next June because of the bad weather.",
+          "zh": "因為天氣不好，新體育場的完工日期延到明年六月。"
+        },
+        {
+          "en": "The new hospital is near completion and is expected to open to the public at the end of the year.",
+          "zh": "新醫院接近完工，預計年底開放給民眾使用。"
+        },
+        {
+          "en": "Payment will be made upon completion of the work, after the client has checked everything carefully.",
+          "zh": "款項會在工作完成、客戶仔細檢查所有東西之後支付。"
+        },
+        {
+          "en": "The builder promised that the completion date would not change, even if more workers were needed.",
+          "zh": "建商保證即使需要更多工人，完工日期也不會改變。"
+        }
+      ],
+      "distractors": [
+        "competition",
+        "complexion",
+        "compilation"
+      ],
+      "note": "語塊：upon completion（完成時）、completion date（完工日期）、near completion（接近完成）。completion 是 complete（完成）的名詞；completely 是副詞「完全地」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
