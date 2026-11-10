@@ -55738,6 +55738,706 @@
       ],
       "note": "語塊：attribute A to B（把 A 歸因於 B）、attribute success to（把成功歸功於）。attribute A to B 是「把 A 歸功／歸咎於 B」；當名詞時是「特質、屬性」；contribute 是「貢獻」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-annual",
+      "word": "annual",
+      "pos": "形容詞",
+      "meaning": "每年的；年度的",
+      "sentences": [
+        {
+          "en": "The company will publish its annual report on its website at the end of March for all shareholders.",
+          "zh": "公司將在三月底於網站上公布年報給所有股東。"
+        },
+        {
+          "en": "More than five hundred members are expected to attend the annual meeting in Singapore this year.",
+          "zh": "今年預計有五百多位會員參加在新加坡舉行的年會。"
+        },
+        {
+          "en": "Each department must submit its annual budget to the finance team before the end of November.",
+          "zh": "每個部門都必須在十一月底前把年度預算交給財務團隊。"
+        },
+        {
+          "en": "The annual festival attracts thousands of visitors from all over the country to the small town every summer.",
+          "zh": "這個一年一度的節慶每年夏天都吸引全國各地數千名遊客來到這個小鎮。"
+        },
+        {
+          "en": "At the annual meeting, the CEO thanked all of the employees for their hard work during the difficult year.",
+          "zh": "在年會上，執行長感謝所有員工在艱難的一年裡辛勤工作。"
+        }
+      ],
+      "distractors": [
+        "annul",
+        "manual",
+        "actual"
+      ],
+      "note": "語塊：annual report（年報）、annual meeting（年會）、annual budget（年度預算）。annual 是「一年一次的」；annually 是副詞「每年」；anniversary 是「週年紀念」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-precinct",
+      "word": "precinct",
+      "pos": "名詞",
+      "meaning": "區域；轄區；（商店）徒步區",
+      "sentences": [
+        {
+          "en": "The new shopping precinct downtown has more than eighty stores and is closed to cars on weekends.",
+          "zh": "市中心新的購物徒步區有八十多家店，週末禁止車輛進入。"
+        },
+        {
+          "en": "The police precinct near the train station will move to a larger building at the end of the year.",
+          "zh": "火車站附近的警察分局年底會搬到較大的大樓。"
+        },
+        {
+          "en": "Many visitors enjoy walking around the shopping precinct because there are cafés and street performers everywhere.",
+          "zh": "很多遊客喜歡在購物徒步區逛，因為到處都有咖啡廳和街頭藝人。"
+        },
+        {
+          "en": "The city plans to turn the old market area into a shopping precinct with trees and benches.",
+          "zh": "市政府計畫把舊市場區改造成有樹和長椅的購物徒步區。"
+        },
+        {
+          "en": "Residents of the precinct were invited to a meeting to discuss the new parking rules for their neighborhood.",
+          "zh": "這一區的居民受邀參加會議，討論他們社區的新停車規定。"
+        }
+      ],
+      "distractors": [
+        "precept",
+        "precise",
+        "province"
+      ],
+      "note": "語塊：shopping precinct（購物徒步區）、police precinct（警察轄區）。precinct 是城市裡劃分出來的「區」；shopping precinct 是英式說法，指禁止車輛進入的購物區。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pedestrian",
+      "word": "pedestrian",
+      "pos": "名詞",
+      "meaning": "行人",
+      "sentences": [
+        {
+          "en": "Drivers must stop at every pedestrian crossing when someone is waiting to cross the street.",
+          "zh": "只要有人在等過馬路，駕駛就必須在每個行人穿越道停車。"
+        },
+        {
+          "en": "The main street will become a pedestrian zone on weekends so that people can shop and walk safely.",
+          "zh": "主要街道週末會變成行人徒步區，讓大家可以安全地逛街散步。"
+        },
+        {
+          "en": "A pedestrian was slightly injured when a bicycle hit him near the entrance of the shopping mall.",
+          "zh": "一名行人在購物中心入口附近被自行車撞到，受了輕傷。"
+        },
+        {
+          "en": "The city installed new lights at the pedestrian crossing near the school to make it safer for children.",
+          "zh": "市政府在學校附近的行人穿越道裝了新燈，讓孩子更安全。"
+        },
+        {
+          "en": "The new pedestrian zone has increased the number of customers visiting the small shops in the area.",
+          "zh": "新的行人徒步區增加了這一帶小店的來客數。"
+        }
+      ],
+      "distractors": [
+        "passenger",
+        "pediatrician",
+        "equestrian"
+      ],
+      "note": "語塊：pedestrian crossing（行人穿越道）、pedestrian zone（行人徒步區）。pedestrian 可以是名詞「行人」或形容詞「行人的」；passenger 是「乘客」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-luggage",
+      "word": "luggage",
+      "pos": "名詞",
+      "meaning": "行李",
+      "sentences": [
+        {
+          "en": "Each passenger may bring one piece of carry-on luggage that weighs no more than seven kilograms.",
+          "zh": "每位乘客可以帶一件不超過七公斤的隨身行李。"
+        },
+        {
+          "en": "Please check in your luggage at least one hour before your flight leaves for Tokyo.",
+          "zh": "請在飛往東京的班機起飛前至少一小時託運行李。"
+        },
+        {
+          "en": "The luggage allowance for economy class is twenty-three kilograms on most international flights, but business class passengers can bring more.",
+          "zh": "大部分國際航班經濟艙的行李限額是二十三公斤，但商務艙乘客可以帶更多。"
+        },
+        {
+          "en": "The hotel staff will keep your luggage at the front desk if you arrive before check-in time.",
+          "zh": "如果你在入住時間前抵達，飯店人員會把你的行李寄放在櫃台。"
+        },
+        {
+          "en": "If you go over the luggage allowance, you will have to pay an extra fee at the check-in counter at the airport.",
+          "zh": "如果你超過行李限額，必須在機場報到櫃台付額外的費用。"
+        }
+      ],
+      "distractors": [
+        "language",
+        "lounge",
+        "mileage"
+      ],
+      "note": "語塊：carry-on luggage（隨身行李）、check in luggage（託運行李）、luggage allowance（行李限額）。luggage 是不可數名詞，不能說 a luggage 或 luggages，要說 a piece of luggage；baggage 意思一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-state",
+      "word": "state",
+      "pos": "動詞",
+      "meaning": "陳述；聲明；規定",
+      "sentences": [
+        {
+          "en": "The contract should clearly state that the supplier must deliver the goods within two weeks of the order.",
+          "zh": "合約應該清楚說明供應商必須在下單後兩週內交貨。"
+        },
+        {
+          "en": "In the press release, the company will state that it has no plans to close any of its stores.",
+          "zh": "公司在新聞稿中會聲明沒有關閉任何分店的計畫。"
+        },
+        {
+          "en": "The e-mail will state that the training session will begin at nine o'clock in Conference Room B.",
+          "zh": "電子郵件會說明訓練課程在九點於 B 會議室開始。"
+        },
+        {
+          "en": "Please state your name and the reason for your visit when you arrive at the security desk.",
+          "zh": "到保全櫃台時，請說明你的姓名和來訪原因。"
+        },
+        {
+          "en": "The manual should clearly state how often the machine needs to be cleaned and checked.",
+          "zh": "手冊應該清楚說明機器需要多久清潔和檢查一次。"
+        }
+      ],
+      "distractors": [
+        "stare",
+        "estate",
+        "statue"
+      ],
+      "note": "語塊：clearly state（清楚說明）、state that（聲明……）。state 當動詞是「正式說明」；當名詞是「狀態；州；國家」；statement 是「聲明」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consultant",
+      "word": "consultant",
+      "pos": "名詞",
+      "meaning": "顧問",
+      "sentences": [
+        {
+          "en": "The company decided to hire a consultant to help reduce costs in its factories and warehouses.",
+          "zh": "公司決定聘請一位顧問，幫忙降低工廠和倉庫的成本。"
+        },
+        {
+          "en": "Mr. Brown worked as a management consultant for ten years before he started his own business.",
+          "zh": "布朗先生在自己創業前當了十年的管理顧問。"
+        },
+        {
+          "en": "A financial consultant can help you decide how much money to save for your retirement.",
+          "zh": "理財顧問可以幫你決定要為退休存多少錢。"
+        },
+        {
+          "en": "The consultant suggested that the company should sell its products online instead of opening new stores.",
+          "zh": "顧問建議公司在網路上賣產品，而不是開新店。"
+        },
+        {
+          "en": "We will hire a consultant from Germany to train our engineers on the new production system.",
+          "zh": "我們會聘請一位德國顧問來訓練我們的工程師使用新生產系統。"
+        }
+      ],
+      "distractors": [
+        "constant",
+        "consultancy",
+        "contestant"
+      ],
+      "note": "語塊：hire a consultant（聘請顧問）、management consultant（管理顧問）、financial consultant（理財顧問）。consultant 是提供專業建議的人；consult 是動詞「諮詢」；consultation 是名詞「諮詢」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retrieve",
+      "word": "retrieve",
+      "pos": "動詞",
+      "meaning": "取回；擷取（資料）",
+      "sentences": [
+        {
+          "en": "The technician was able to retrieve all of the data from the broken computer before it was replaced.",
+          "zh": "技術人員在換掉壞掉的電腦之前，成功把所有資料救了回來。"
+        },
+        {
+          "en": "Employees can retrieve information about their salaries and holidays from the company website at any time.",
+          "zh": "員工可以隨時從公司網站取得自己的薪資和休假資訊。"
+        },
+        {
+          "en": "Passengers can retrieve their luggage from carousel number five after they pass through immigration at the international airport.",
+          "zh": "乘客在國際機場通過入境檢查後，可以在五號行李轉盤領取行李。"
+        },
+        {
+          "en": "If you forget your password, you can retrieve it by answering the security question on the login page.",
+          "zh": "如果你忘了密碼，可以在登入頁面回答安全問題來找回。"
+        },
+        {
+          "en": "The new software makes it easier to retrieve data about customer orders from the past five years.",
+          "zh": "新軟體讓取得過去五年顧客訂單的資料變得更容易。"
+        }
+      ],
+      "distractors": [
+        "receive",
+        "relieve",
+        "retreat"
+      ],
+      "note": "語塊：retrieve data（擷取資料）、retrieve information（取得資訊）、retrieve luggage（領取行李）。retrieve 是「找回、取回」；retrieval 是名詞；receive 是「收到」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-feasibility",
+      "word": "feasibility",
+      "pos": "名詞",
+      "meaning": "可行性",
+      "sentences": [
+        {
+          "en": "The company will carry out a feasibility study before it decides to build a new factory in Vietnam.",
+          "zh": "公司在決定是否在越南蓋新工廠之前，會先做可行性研究。"
+        },
+        {
+          "en": "Engineers are checking the technical feasibility of using solar panels on the roof of the stadium.",
+          "zh": "工程師正在檢查在體育場屋頂使用太陽能板的技術可行性。"
+        },
+        {
+          "en": "The consultant was hired to assess the feasibility of opening a second restaurant downtown near the new train station.",
+          "zh": "那位顧問受聘來評估在市中心新火車站附近開第二家餐廳的可行性。"
+        },
+        {
+          "en": "According to the feasibility study, the new bridge would reduce traffic in the city center by thirty percent.",
+          "zh": "根據可行性研究，新橋會讓市中心的交通量減少三成。"
+        },
+        {
+          "en": "The board will assess the feasibility of the plan carefully before it approves any money for the project.",
+          "zh": "董事會在核准任何專案經費之前，會仔細評估計畫的可行性。"
+        }
+      ],
+      "distractors": [
+        "flexibility",
+        "visibility",
+        "possibility"
+      ],
+      "note": "語塊：feasibility study（可行性研究）、technical feasibility（技術可行性）、assess the feasibility（評估可行性）。feasibility 是 feasible（可行的）的名詞；viability 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-environmentally-friendly",
+      "word": "environmentally friendly",
+      "pos": "形容詞",
+      "meaning": "環保的；對環境友善的",
+      "sentences": [
+        {
+          "en": "The company now sells only environmentally friendly products, such as bags made from recycled paper.",
+          "zh": "公司現在只賣環保產品，例如用再生紙做的袋子。"
+        },
+        {
+          "en": "Many customers are willing to pay more for food that comes in environmentally friendly packaging.",
+          "zh": "很多顧客願意多付錢買用環保包裝的食物。"
+        },
+        {
+          "en": "Our new office building is environmentally friendly because it uses solar energy and collects rainwater.",
+          "zh": "我們的新辦公大樓很環保，因為它使用太陽能並收集雨水。"
+        },
+        {
+          "en": "The hotel switched to environmentally friendly packaging for all of the soap and shampoo in its rooms.",
+          "zh": "飯店把房間裡所有的肥皂和洗髮精都改成環保包裝。"
+        },
+        {
+          "en": "The store gives a small discount to customers who buy environmentally friendly products during Earth Week.",
+          "zh": "那家店在地球週期間給買環保產品的顧客一點折扣。"
+        }
+      ],
+      "distractors": [
+        "environmentally aware",
+        "user friendly",
+        "family friendly"
+      ],
+      "note": "語塊：environmentally friendly products（環保產品）、environmentally friendly packaging（環保包裝）。environmentally friendly 和 eco-friendly 意思一樣；environmental 是「環境的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-infant",
+      "word": "infant",
+      "pos": "名詞",
+      "meaning": "嬰兒",
+      "sentences": [
+        {
+          "en": "The airline provides a special seat for passengers who are traveling with an infant on long flights.",
+          "zh": "航空公司為長途航班上帶嬰兒的乘客提供特別座位。"
+        },
+        {
+          "en": "The company sells infant formula and baby food in more than forty countries around the world.",
+          "zh": "那家公司在全世界四十多個國家販售嬰兒配方奶和嬰兒食品。"
+        },
+        {
+          "en": "The new shopping mall has a room for infant care where parents can feed and change their babies.",
+          "zh": "新購物中心有一間嬰兒照護室，讓父母可以餵奶和換尿布。"
+        },
+        {
+          "en": "Parents must use an infant seat when they drive with a baby, according to the new traffic law.",
+          "zh": "依照新的交通法規，父母開車載嬰兒時必須使用嬰兒座椅。"
+        },
+        {
+          "en": "The hospital offers free classes on infant care for new parents every Saturday morning in the community room on the first floor.",
+          "zh": "醫院每週六早上在一樓的社區教室為新手父母開設免費的嬰兒照護課程。"
+        }
+      ],
+      "distractors": [
+        "infantry",
+        "instant",
+        "inflate"
+      ],
+      "note": "語塊：infant care（嬰兒照護）、infant formula（嬰兒配方奶）、infant seat（嬰兒座椅）。infant 指還不會走路的「嬰兒」；baby 比較口語；infancy 是「嬰兒期；初期」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instructor",
+      "word": "instructor",
+      "pos": "名詞",
+      "meaning": "講師；教練",
+      "sentences": [
+        {
+          "en": "The gym is looking for a fitness instructor who can teach yoga classes on weekday evenings.",
+          "zh": "健身房在找一位能在平日晚上教瑜伽課的健身教練。"
+        },
+        {
+          "en": "My driving instructor was very patient and helped me pass the driving test on my first try.",
+          "zh": "我的駕訓教練很有耐心，幫我第一次就通過駕照考試。"
+        },
+        {
+          "en": "The course instructor will send all of the training materials to the participants before the first class.",
+          "zh": "課程講師會在第一堂課前把所有訓練教材寄給學員。"
+        },
+        {
+          "en": "Each instructor at the language school has at least five years of experience teaching business English.",
+          "zh": "那間語言學校的每位講師都有至少五年教商用英文的經驗。"
+        },
+        {
+          "en": "Please ask the course instructor if you have any questions about the final exam or the homework.",
+          "zh": "如果你對期末考或作業有任何問題，請問課程講師。"
+        }
+      ],
+      "distractors": [
+        "instruction",
+        "inspector",
+        "constructor"
+      ],
+      "note": "語塊：fitness instructor（健身教練）、driving instructor（駕訓教練）、course instructor（課程講師）。instructor 是「教課的人」；instruction 是「指示；教學」；instruct 是動詞「指導」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instrument",
+      "word": "instrument",
+      "pos": "名詞",
+      "meaning": "儀器；工具；樂器",
+      "sentences": [
+        {
+          "en": "The music store sells every kind of musical instrument, from cheap guitars to expensive pianos.",
+          "zh": "那家樂器行賣各種樂器，從便宜的吉他到昂貴的鋼琴都有。"
+        },
+        {
+          "en": "Every measuring instrument in the laboratory must be checked carefully by the technician before each experiment begins.",
+          "zh": "實驗室裡的每一台測量儀器在每次實驗開始前都必須由技術人員仔細檢查。"
+        },
+        {
+          "en": "The company makes a medical instrument that is used in hospitals all over Asia and Europe.",
+          "zh": "那家公司製造一種亞洲和歐洲各地醫院都在使用的醫療器材。"
+        },
+        {
+          "en": "Ms. Lin learned to play a musical instrument when she was young, and she still plays the violin every weekend.",
+          "zh": "林小姐小時候學過樂器，現在每個週末還會拉小提琴。"
+        },
+        {
+          "en": "The engineers used a special instrument to measure how much the bridge moves in strong winds.",
+          "zh": "工程師用一種特殊儀器來測量橋在強風中晃動多少。"
+        }
+      ],
+      "distractors": [
+        "instructor",
+        "increment",
+        "investment"
+      ],
+      "note": "語塊：musical instrument（樂器）、measuring instrument（測量儀器）、medical instrument（醫療器材）。instrument 可以是「精密儀器」或「樂器」；tool 是一般「工具」；instrumental 是「有幫助的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-increment",
+      "word": "increment",
+      "pos": "名詞",
+      "meaning": "增加量；（薪資）調幅",
+      "sentences": [
+        {
+          "en": "All employees will receive an annual increment of three percent in their salary starting in January.",
+          "zh": "從一月開始，所有員工每年的薪水會調高百分之三。"
+        },
+        {
+          "en": "Ms. Choi asked her manager about the salary increment that was promised in her contract.",
+          "zh": "崔小姐向經理詢問合約裡承諾的調薪。"
+        },
+        {
+          "en": "The price of the service will rise by a small increment every year over the next three years.",
+          "zh": "這項服務的價格在未來三年每年會小幅調漲。"
+        },
+        {
+          "en": "Workers who complete the advanced training course will receive a salary increment starting from next month.",
+          "zh": "完成進階訓練課程的員工從下個月開始會調薪。"
+        },
+        {
+          "en": "The annual increment depends on each employee's performance and the company's profits for the year.",
+          "zh": "年度調薪取決於每位員工的表現和公司當年的獲利。"
+        }
+      ],
+      "distractors": [
+        "incremental",
+        "instrument",
+        "excrement"
+      ],
+      "note": "語塊：salary increment（調薪）、annual increment（年度調薪）、small increment（小幅增加）。increment 是「每次增加的量」，常用在薪水；increase 是一般的「增加」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enhancement",
+      "word": "enhancement",
+      "pos": "名詞",
+      "meaning": "提升；增強",
+      "sentences": [
+        {
+          "en": "The new software update includes a product enhancement that makes the app faster and easier to use.",
+          "zh": "新的軟體更新包含一項產品改良，讓 App 更快也更好用。"
+        },
+        {
+          "en": "The company invested heavily in quality enhancement after many customers complained about broken parts in its washing machines.",
+          "zh": "很多顧客抱怨洗衣機零件損壞後，公司大力投資在品質提升上。"
+        },
+        {
+          "en": "The training program focuses on the enhancement of communication skills for managers and team leaders.",
+          "zh": "這個訓練計畫著重在提升經理和組長的溝通能力。"
+        },
+        {
+          "en": "Our engineers are working on a product enhancement that will make the battery last twice as long.",
+          "zh": "我們的工程師正在做一項產品改良，讓電池續航力加倍。"
+        },
+        {
+          "en": "The city spent two million dollars on the enhancement of public parks and playgrounds last year.",
+          "zh": "市政府去年花了兩百萬元提升公園和遊樂場。"
+        }
+      ],
+      "distractors": [
+        "advancement",
+        "enchantment",
+        "engagement"
+      ],
+      "note": "語塊：quality enhancement（品質提升）、product enhancement（產品改良）、enhancement of（……的提升）。enhancement 是 enhance（提升）的名詞；improvement 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-voucher",
+      "word": "voucher",
+      "pos": "名詞",
+      "meaning": "兌換券；優惠券；憑單",
+      "sentences": [
+        {
+          "en": "Customers who spend more than one hundred dollars will receive a gift voucher for their next visit.",
+          "zh": "消費超過一百元的顧客會得到一張下次光臨可用的禮券。"
+        },
+        {
+          "en": "Please bring this discount voucher to the store before the end of the month to get twenty percent off.",
+          "zh": "請在月底前帶這張折價券到店裡，可以打八折。"
+        },
+        {
+          "en": "The airline gave each passenger a meal voucher because the flight was delayed for more than three hours.",
+          "zh": "因為班機延誤超過三小時，航空公司給每位乘客一張餐券。"
+        },
+        {
+          "en": "The hotel gave us a voucher for a free breakfast because our room was not ready when we arrived.",
+          "zh": "因為我們抵達時房間還沒準備好，飯店給了我們一張免費早餐券。"
+        },
+        {
+          "en": "The discount voucher cannot be used together with other special offers or during the holiday sale.",
+          "zh": "這張折價券不能和其他優惠同時使用，假期特賣期間也不能用。"
+        }
+      ],
+      "distractors": [
+        "vouch",
+        "voyage",
+        "butcher"
+      ],
+      "note": "語塊：gift voucher（禮券）、discount voucher（折價券）、meal voucher（餐券）。voucher 是可以換東西或抵錢的「券」；coupon 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sector",
+      "word": "sector",
+      "pos": "名詞",
+      "meaning": "部門；產業；領域",
+      "sentences": [
+        {
+          "en": "Many graduates prefer to work in the private sector because the salaries are usually higher.",
+          "zh": "很多畢業生比較想在民間企業工作，因為薪水通常比較高。"
+        },
+        {
+          "en": "Teachers and nurses who work in the public sector will receive a pay raise starting next year.",
+          "zh": "在公部門工作的老師和護理師從明年開始會加薪。"
+        },
+        {
+          "en": "The service sector, such as restaurants and hotels, employs more than half of the workers in the city.",
+          "zh": "服務業，像是餐廳和飯店，雇用了這個城市一半以上的工作者。"
+        },
+        {
+          "en": "The technology sector grew quickly last year, and many companies are now looking for software engineers.",
+          "zh": "科技產業去年快速成長，很多公司現在都在找軟體工程師。"
+        },
+        {
+          "en": "The government is working with the private sector to build more affordable housing in the area.",
+          "zh": "政府正與民間企業合作，在這一區蓋更多平價住宅。"
+        }
+      ],
+      "distractors": [
+        "section",
+        "vector",
+        "selector"
+      ],
+      "note": "語塊：private sector（民間部門）、public sector（公部門）、service sector（服務業）。sector 指經濟中的「產業、領域」；section 是「部分；區塊」；department 是公司的「部門」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-opportunity",
+      "word": "opportunity",
+      "pos": "名詞",
+      "meaning": "機會",
+      "sentences": [
+        {
+          "en": "The new factory will create a job opportunity for more than five hundred people in the local area.",
+          "zh": "新工廠將為當地五百多人創造工作機會。"
+        },
+        {
+          "en": "I would like to take the opportunity to thank everyone who helped make this event a great success.",
+          "zh": "我想趁這個機會感謝每位幫忙讓這次活動圓滿成功的人。"
+        },
+        {
+          "en": "Many companies see the growing number of older people as a big business opportunity for the next twenty years.",
+          "zh": "很多公司把老年人口增加視為未來二十年的一大商機。"
+        },
+        {
+          "en": "Employees will have the opportunity to ask questions at the end of the presentation about the new benefits plan.",
+          "zh": "員工在新福利方案的簡報最後會有機會提問。"
+        },
+        {
+          "en": "Ms. Ruiz decided to take the opportunity to study abroad when her company offered to pay for it.",
+          "zh": "公司提議出錢後，魯伊茲小姐決定把握機會出國進修。"
+        }
+      ],
+      "distractors": [
+        "opportune",
+        "community",
+        "opponent"
+      ],
+      "note": "語塊：job opportunity（工作機會）、take the opportunity（把握機會）、business opportunity（商機）。opportunity 是「好機會」，比 chance 正式；take the opportunity to do 是「趁機做……」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-air-conditioning",
+      "word": "air conditioning",
+      "pos": "名詞",
+      "meaning": "空調；冷氣",
+      "sentences": [
+        {
+          "en": "Please turn on the air conditioning in the meeting room before the clients arrive this afternoon.",
+          "zh": "請在客戶今天下午抵達前把會議室的冷氣打開。"
+        },
+        {
+          "en": "The air conditioning system in the building will be repaired this weekend, so the office will be closed.",
+          "zh": "大樓的空調系統這個週末會維修，所以辦公室會關閉。"
+        },
+        {
+          "en": "All of our hotel rooms have free Wi-Fi, a small refrigerator, a coffee machine, and air conditioning.",
+          "zh": "我們飯店所有房間都有免費無線網路、小冰箱、咖啡機和冷氣。"
+        },
+        {
+          "en": "The company will replace the old air conditioning system with a new one that uses less electricity.",
+          "zh": "公司會把舊的空調系統換成比較省電的新系統。"
+        },
+        {
+          "en": "Many people turn on the air conditioning all day in summer, so electricity bills are much higher.",
+          "zh": "很多人夏天整天開冷氣，所以電費高很多。"
+        }
+      ],
+      "distractors": [
+        "air conditioner",
+        "air freshener",
+        "air cleaning"
+      ],
+      "note": "語塊：turn on the air conditioning（開冷氣）、air conditioning system（空調系統）。air conditioning 是不可數的「空調系統」；air conditioner 是一台「冷氣機」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-considerable",
+      "word": "considerable",
+      "pos": "形容詞",
+      "meaning": "相當大的；可觀的",
+      "sentences": [
+        {
+          "en": "The company spent a considerable amount of money on the new computer system for its offices.",
+          "zh": "公司在辦公室的新電腦系統上花了相當多的錢。"
+        },
+        {
+          "en": "It took a considerable time to find a supplier that could deliver the materials so quickly.",
+          "zh": "花了相當長的時間才找到能這麼快交貨的供應商。"
+        },
+        {
+          "en": "The team made a considerable effort to finish the project on time despite the lack of staff.",
+          "zh": "儘管人手不足，團隊還是付出相當大的努力準時完成專案。"
+        },
+        {
+          "en": "The new policy has caused considerable confusion among employees, so the manager will explain it again.",
+          "zh": "新規定在員工之間造成相當大的混亂，所以經理會再解釋一次。"
+        },
+        {
+          "en": "Building a new factory will require a considerable amount of time and money from the company.",
+          "zh": "蓋新工廠需要公司投入相當多的時間和金錢。"
+        }
+      ],
+      "distractors": [
+        "considerate",
+        "comfortable",
+        "conceivable"
+      ],
+      "note": "語塊：considerable amount（相當多的量）、considerable time（相當長的時間）、considerable effort（相當大的努力）。considerable 是「數量或程度很大的」；considerate 是「體貼的」，很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-responsibility",
+      "word": "responsibility",
+      "pos": "名詞",
+      "meaning": "責任；職責",
+      "sentences": [
+        {
+          "en": "The manager will take responsibility for the delay and explain the situation to the client.",
+          "zh": "經理會為延誤負責，並向客戶說明情況。"
+        },
+        {
+          "en": "Her main responsibility is to answer customer questions and solve problems with orders and deliveries.",
+          "zh": "她的主要職責是回答顧客問題和處理訂單和送貨問題。"
+        },
+        {
+          "en": "We are looking for someone with a strong sense of responsibility who can work without supervision.",
+          "zh": "我們在找一位有強烈責任感、可以獨立工作的人。"
+        },
+        {
+          "en": "The new supervisor will take responsibility for training all staff in the warehouse next month.",
+          "zh": "新主管下個月會負責訓練倉庫所有員工。"
+        },
+        {
+          "en": "Each team member has a different responsibility, so please check the list before the event begins.",
+          "zh": "每位組員都有不同的職責，所以活動開始前請看一下清單。"
+        }
+      ],
+      "distractors": [
+        "responsiveness",
+        "possibility",
+        "respectability"
+      ],
+      "note": "語塊：take responsibility for（為……負責）、main responsibility（主要職責）、sense of responsibility（責任感）。responsibility 是名詞；形容詞 responsible 用 be responsible for；duty 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
