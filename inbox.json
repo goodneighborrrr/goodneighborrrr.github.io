@@ -80868,6 +80868,706 @@
       ],
       "note": "語塊：pediatrics department（小兒科部門）、specialize in pediatrics（專攻小兒科）、pediatrics ward（小兒科病房）。容易搞混：pediatrics 是「小兒科這個醫學領域」，pediatrician 是「小兒科醫師」這個人。geriatrics（老年醫學）跟 obstetrics（婦產科）是其他科別，拼法結尾都是 -trics，看起來很像但領域不同。",
       "addedAt": "2026-11-10"
+    },
+    {
+      "id": "20261109-instructional",
+      "word": "instructional",
+      "pos": "形容詞",
+      "meaning": "教學的；指導性的",
+      "sentences": [
+        {
+          "en": "The company made an instructional video that shows new employees how to use the computer system step by step.",
+          "zh": "公司製作了一支教學影片，一步步教新員工如何使用電腦系統。"
+        },
+        {
+          "en": "All instructional materials for the course will be sent to students by e-mail before the first class.",
+          "zh": "課程的所有教材都會在第一堂課前用電子郵件寄給學生。"
+        },
+        {
+          "en": "Please read the instructional manual carefully before you try to install the new air conditioner.",
+          "zh": "嘗試安裝新冷氣之前，請仔細閱讀操作說明書。"
+        },
+        {
+          "en": "The museum offers instructional tours for school groups, so students can learn about the history of the town.",
+          "zh": "博物館為學校團體提供教學導覽，讓學生了解小鎮的歷史。"
+        },
+        {
+          "en": "Many people learn to cook by watching instructional videos online instead of taking expensive classes.",
+          "zh": "很多人看網路上的教學影片學做菜，而不是上昂貴的課。"
+        }
+      ],
+      "distractors": [
+        "instrumental",
+        "institutional",
+        "international"
+      ],
+      "note": "語塊：instructional video（教學影片）、instructional materials（教材）、instructional manual（操作說明書）。instructional 是 instruction（指示；教學）的形容詞；educational 是「有教育意義的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-self-defense",
+      "word": "self-defense",
+      "pos": "名詞",
+      "meaning": "自我防衛；防身術",
+      "sentences": [
+        {
+          "en": "The community center offers a free self-defense class for women and teenagers every Tuesday evening.",
+          "zh": "社區中心每週二晚上為女性和青少年開設免費防身術課。"
+        },
+        {
+          "en": "Many students take a self-defense class before they travel abroad alone for the first time.",
+          "zh": "很多學生在第一次獨自出國前會上防身術課。"
+        },
+        {
+          "en": "The instructor teaches simple self-defense skills that anyone can learn in just a few hours.",
+          "zh": "講師教的是任何人只要幾小時就能學會的簡單防身技巧。"
+        },
+        {
+          "en": "The company invited a police officer to teach self-defense to employees who work late at night.",
+          "zh": "公司邀請一位警察，為深夜工作的員工教防身術。"
+        },
+        {
+          "en": "The gym's self-defense class is very popular, so please sign up early if you want a place.",
+          "zh": "健身房的防身術課非常熱門，所以想上的話請提早報名。"
+        }
+      ],
+      "distractors": [
+        "self-control",
+        "self-service",
+        "self-esteem"
+      ],
+      "note": "語塊：self-defense class（防身術課）、in self-defense（出於自衛）。self-defense 英式拼法是 self-defence；defense 是「防禦」；self- 是「自己的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-beneficial",
+      "word": "beneficial",
+      "pos": "形容詞",
+      "meaning": "有益的；有利的",
+      "sentences": [
+        {
+          "en": "Regular exercise is beneficial to both your body and your mind, especially if you work at a desk all day.",
+          "zh": "規律運動對身心都有益，特別是整天坐辦公桌的人。"
+        },
+        {
+          "en": "The two companies signed a mutually beneficial agreement that will help both of them grow in Asia.",
+          "zh": "兩家公司簽了一份互惠協議，將幫助雙方在亞洲成長。"
+        },
+        {
+          "en": "The new training program has had a beneficial effect on the productivity of the sales team.",
+          "zh": "新訓練計畫對業務團隊的生產力產生了好的效果。"
+        },
+        {
+          "en": "Working from home two days a week can be beneficial for employees who have long commutes.",
+          "zh": "一週在家工作兩天，對通勤時間長的員工可能很有益。"
+        },
+        {
+          "en": "The study shows that short breaks during the day are beneficial to workers' health and focus.",
+          "zh": "研究顯示白天短暫休息對員工的健康和專注力有益。"
+        }
+      ],
+      "distractors": [
+        "beneficiary",
+        "artificial",
+        "superficial"
+      ],
+      "note": "語塊：beneficial to（對……有益）、beneficial effect（好的效果）、mutually beneficial（互惠的）。beneficial 是「帶來好處的」；benefit 是名詞或動詞「好處；受益」；useful 是「有用的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conflict",
+      "word": "conflict",
+      "pos": "名詞",
+      "meaning": "衝突；（時間）撞期",
+      "sentences": [
+        {
+          "en": "I have a schedule conflict on Friday afternoon, so could we move the meeting to Thursday instead?",
+          "zh": "我週五下午時間有衝突，所以我們可以把會議改到週四嗎？"
+        },
+        {
+          "en": "Employees must tell their manager about any conflict of interest, such as owning shares in a supplier.",
+          "zh": "員工必須向主管報告任何利益衝突，例如持有供應商的股份。"
+        },
+        {
+          "en": "Good managers know how to resolve a conflict between team members before it becomes a serious problem.",
+          "zh": "好的主管知道如何在團隊成員之間的衝突變嚴重前化解它。"
+        },
+        {
+          "en": "Because of a schedule conflict, the speaker will give her presentation in the afternoon instead of the morning.",
+          "zh": "因為時間衝突，講者會改在下午而不是上午做簡報。"
+        },
+        {
+          "en": "The training course teaches staff how to resolve a conflict with an angry customer calmly and politely.",
+          "zh": "訓練課程教員工如何冷靜有禮地解決和生氣顧客之間的衝突。"
+        }
+      ],
+      "distractors": [
+        "confident",
+        "contact",
+        "convict"
+      ],
+      "note": "語塊：schedule conflict（時間衝突）、conflict of interest（利益衝突）、resolve a conflict（解決衝突）。conflict 可以當名詞或動詞（conflict with）；argument 是「爭吵」；clash 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overlap",
+      "word": "overlap",
+      "pos": "動詞",
+      "meaning": "重疊；部分相同",
+      "sentences": [
+        {
+          "en": "The two meetings overlap by thirty minutes, so I will have to leave the first one early.",
+          "zh": "兩場會議重疊了三十分鐘，所以我必須提早離開第一場。"
+        },
+        {
+          "en": "The new project may overlap with the work that the marketing team is already doing.",
+          "zh": "新專案可能會和行銷團隊已經在做的工作重疊。"
+        },
+        {
+          "en": "Please check that your vacation dates do not overlap with those of other people in your team.",
+          "zh": "請確認你的假期日期不會和團隊其他人重疊。"
+        },
+        {
+          "en": "The duties of the two positions partly overlap, so the manager decided to combine them into one job.",
+          "zh": "兩個職位的職責部分重疊，所以經理決定把它們合併成一個職位。"
+        },
+        {
+          "en": "If the two events overlap, many guests will not be able to attend both of them on the same day.",
+          "zh": "如果兩場活動時間重疊，很多賓客就無法同一天參加兩場。"
+        }
+      ],
+      "distractors": [
+        "overlook",
+        "overload",
+        "overflow"
+      ],
+      "note": "語塊：overlap with（和……重疊）、partly overlap（部分重疊）。overlap 可以當動詞或名詞「重疊的部分」；over- 是「在上面」；lap 是「交疊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-solution",
+      "word": "solution",
+      "pos": "名詞",
+      "meaning": "解決辦法",
+      "sentences": [
+        {
+          "en": "The engineers worked all night to find a solution to the problem with the website.",
+          "zh": "工程師整晚工作，要找出網站問題的解決辦法。"
+        },
+        {
+          "en": "Working from home is a practical solution for employees who live far away from the office.",
+          "zh": "對住得離公司很遠的員工來說，在家工作是實際可行的辦法。"
+        },
+        {
+          "en": "The consultant suggested a solution that cost much less money than the plan the board had chosen before.",
+          "zh": "顧問提出一個比董事會之前選的計畫便宜很多的解決辦法。"
+        },
+        {
+          "en": "There is no easy solution to the problem of high rents in the city center.",
+          "zh": "市中心房租高的問題沒有簡單的解決辦法。"
+        },
+        {
+          "en": "Our team will find a solution that meets the needs of the client and stays within the budget.",
+          "zh": "我們團隊會找到一個符合客戶需求又不超出預算的解決辦法。"
+        }
+      ],
+      "distractors": [
+        "resolution",
+        "pollution",
+        "salvation"
+      ],
+      "note": "語塊：find a solution（找到解決辦法）、solution to（……的解決辦法）、practical solution（實際可行的辦法）。solution 後面接 to（a solution to the problem）；solve 是動詞「解決」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scheduling",
+      "word": "scheduling",
+      "pos": "名詞",
+      "meaning": "排程；時間安排",
+      "sentences": [
+        {
+          "en": "Because of a scheduling conflict, the interview will be moved to next Monday at ten o'clock.",
+          "zh": "因為時間衝突，面試將改到下週一十點。"
+        },
+        {
+          "en": "The new scheduling software helps managers plan work shifts for more than two hundred employees.",
+          "zh": "新的排班軟體幫助主管為兩百多名員工安排班表。"
+        },
+        {
+          "en": "Ms. Lee is responsible for scheduling all of the meetings between the director and the clients.",
+          "zh": "李小姐負責安排主任和客戶之間的所有會議。"
+        },
+        {
+          "en": "Scheduling the training sessions is difficult, because many staff work different shifts at the hospital.",
+          "zh": "安排訓練課程很困難，因為很多員工在醫院上不同的班。"
+        },
+        {
+          "en": "Please contact the front desk if you have a scheduling conflict and need to change your appointment.",
+          "zh": "如果您時間有衝突、需要更改預約，請聯絡櫃台。"
+        }
+      ],
+      "distractors": [
+        "schooling",
+        "shuffling",
+        "settling"
+      ],
+      "note": "語塊：scheduling conflict（時間衝突）、scheduling software（排班軟體）。scheduling 是「安排時間的工作」；schedule 是名詞「時間表」或動詞「安排」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-have-access-to",
+      "word": "have access to",
+      "pos": "片語動詞",
+      "meaning": "可以使用；能取得",
+      "sentences": [
+        {
+          "en": "Only managers and accountants have access to the files that contain salary information for every employee.",
+          "zh": "只有主管和會計能使用包含每位員工薪資資訊的檔案。"
+        },
+        {
+          "en": "All guests have access to the swimming pool and the gym on the top floor at no extra cost.",
+          "zh": "所有客人都可以免費使用頂樓的游泳池和健身房。"
+        },
+        {
+          "en": "Students have access to the university library twenty-four hours a day during the exam period.",
+          "zh": "考試期間學生可以二十四小時使用大學圖書館。"
+        },
+        {
+          "en": "Many villages in the mountains still do not have access to fast internet or good hospitals.",
+          "zh": "很多山區村莊仍然無法使用快速網路或好的醫院。"
+        },
+        {
+          "en": "New employees will have access to the online training materials from their first day of work.",
+          "zh": "新員工從上班第一天起就可以使用線上訓練教材。"
+        }
+      ],
+      "distractors": [
+        "have an eye for",
+        "have a say in",
+        "have a word with"
+      ],
+      "note": "語塊：have access to the files（能使用檔案）、have access to the swimming pool（能使用游泳池）、have access to the library（能使用圖書館）、have access to fast internet（能用快速網路）、have access to the materials（能使用教材）。have access to + 東西 是「有權使用、能接觸到」；access 是「使用權；進入」；accessible 是「可進入的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-oriented",
+      "word": "oriented",
+      "pos": "形容詞",
+      "meaning": "以……為導向的",
+      "sentences": [
+        {
+          "en": "Our company is customer-oriented, so we always listen to feedback before we change our products.",
+          "zh": "我們公司以顧客為導向，所以改變產品前總是先聽取回饋。"
+        },
+        {
+          "en": "The hotel is very family-oriented, with a children's pool, a playground, and special menus for kids.",
+          "zh": "那家飯店非常以家庭為主，有兒童游泳池、遊樂場和兒童菜單。"
+        },
+        {
+          "en": "We are looking for goal-oriented salespeople who enjoy working hard to reach their monthly targets.",
+          "zh": "我們在找目標導向、喜歡努力達成每月目標的業務人員。"
+        },
+        {
+          "en": "The new manager is very results-oriented and checks the sales figures of every store each morning.",
+          "zh": "新經理非常重視結果，每天早上都會檢查每家店的銷售數字。"
+        },
+        {
+          "en": "The training program is practically oriented, so participants spend most of the time doing exercises.",
+          "zh": "訓練計畫以實務為導向，所以參加者大部分時間都在做練習。"
+        }
+      ],
+      "distractors": [
+        "organized",
+        "originated",
+        "operated"
+      ],
+      "note": "語塊：customer-oriented（以顧客為導向）、goal-oriented（目標導向的）、family-oriented（以家庭為主的）。oriented 常和名詞用連字號組合（customer-oriented）；orientation 是「新生訓練；方向」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unusual",
+      "word": "unusual",
+      "pos": "形容詞",
+      "meaning": "不尋常的；罕見的",
+      "sentences": [
+        {
+          "en": "It is unusual for the store to be so quiet on a Saturday, so the manager was worried about sales.",
+          "zh": "店裡週六這麼安靜很不尋常，所以經理很擔心銷售。"
+        },
+        {
+          "en": "The weather has been unusual this year, with snow in April and very hot days in October.",
+          "zh": "今年天氣很不尋常，四月下雪，十月卻非常熱。"
+        },
+        {
+          "en": "If you notice anything unusual in the factory, such as a strange smell, please tell the manager.",
+          "zh": "如果你在工廠注意到任何不尋常的事，例如奇怪的味道，請告訴經理。"
+        },
+        {
+          "en": "It is highly unusual for the company to hire someone without an interview, but she had great experience.",
+          "zh": "公司不經面試就雇人非常罕見，但她經驗很豐富。"
+        },
+        {
+          "en": "The security guard checked the cameras and said there was nothing unusual during the night.",
+          "zh": "警衛檢查監視器後說，夜裡沒有什麼異常。"
+        }
+      ],
+      "distractors": [
+        "usual",
+        "unused",
+        "casual"
+      ],
+      "note": "語塊：highly unusual（非常罕見）、unusual for（對……來說不尋常）、nothing unusual（沒什麼特別）。unusual 是「和平常不一樣的」；usual 是「平常的」；unusually 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sales-goal",
+      "word": "sales goal",
+      "pos": "名詞",
+      "meaning": "業績目標",
+      "sentences": [
+        {
+          "en": "The team worked hard all month and was able to reach its sales goal two days early.",
+          "zh": "團隊整個月都很努力，提早兩天達成業績目標。"
+        },
+        {
+          "en": "The manager will set a sales goal for each store based on its results from last year.",
+          "zh": "經理會根據去年的結果為每家店設定業績目標。"
+        },
+        {
+          "en": "Employees who reach the monthly sales goal will receive a bonus at the end of the quarter.",
+          "zh": "達成每月業績目標的員工會在季末拿到獎金。"
+        },
+        {
+          "en": "The sales goal for this year is very high, so the company has hired five new salespeople.",
+          "zh": "今年的業績目標非常高，所以公司雇用了五名新業務員。"
+        },
+        {
+          "en": "If we cannot reach our sales goal this month, we will need to change our advertising plan.",
+          "zh": "如果這個月無法達成業績目標，我們就需要調整廣告計畫。"
+        }
+      ],
+      "distractors": [
+        "sales report",
+        "sales figure",
+        "sales tax"
+      ],
+      "note": "語塊：reach a sales goal（達成業績目標）、set a sales goal（設定業績目標）、monthly sales goal（每月業績目標）。sales goal 也常說 sales target；quota 是「配額」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-even-so",
+      "word": "even so",
+      "pos": "副詞",
+      "meaning": "即使如此；儘管如此",
+      "sentences": [
+        {
+          "en": "The hotel is quite expensive; even so, it is always full during the summer because of its beautiful view.",
+          "zh": "那家飯店相當貴；儘管如此，夏天總是因為美景而客滿。"
+        },
+        {
+          "en": "The new phone has a few small problems; even so, it has become the best-selling model of the year.",
+          "zh": "新手機有一些小問題；即使如此，它還是成了年度最暢銷機型。"
+        },
+        {
+          "en": "The weather was cold and rainy; even so, thousands of people came to watch the parade in the city.",
+          "zh": "天氣又冷又下雨；儘管如此，還是有數千人來城裡看遊行。"
+        },
+        {
+          "en": "Our prices are higher than our competitors'; even so, many customers choose us because of our service.",
+          "zh": "我們的價格比競爭對手高；即使如此，很多顧客還是因為服務選擇我們。"
+        },
+        {
+          "en": "The project was very difficult; even so, the team finished it on time and within the budget.",
+          "zh": "那個專案非常困難；儘管如此，團隊還是在預算內準時完成了。"
+        }
+      ],
+      "distractors": [
+        "even if",
+        "even though",
+        "so far"
+      ],
+      "note": "語塊：even so, …（即使如此，……）。even so 放句首，表示「雖然前面那樣，但還是……」；however、nevertheless 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-price",
+      "word": "price",
+      "pos": "動詞",
+      "meaning": "定價；標價",
+      "sentences": [
+        {
+          "en": "The company will price the new phone at six hundred dollars so that more young people can afford it.",
+          "zh": "公司會把新手機定價在六百元，讓更多年輕人買得起。"
+        },
+        {
+          "en": "It is important to price products competitively when there are many similar stores in the same area.",
+          "zh": "同一區有很多類似店家時，產品定價要有競爭力很重要。"
+        },
+        {
+          "en": "The hotel decided to price its rooms lower during the off-season to attract more guests.",
+          "zh": "飯店決定在淡季把房價定低一點，吸引更多客人。"
+        },
+        {
+          "en": "If we price the service too high, many customers will choose a cheaper company in the area instead.",
+          "zh": "如果我們把服務定價太高，很多顧客會改選這一區比較便宜的公司。"
+        },
+        {
+          "en": "The restaurant will price its new lunch set reasonably, because many office workers eat there every day.",
+          "zh": "那家餐廳會把新午餐套餐定價合理，因為很多上班族每天在那裡吃。"
+        }
+      ],
+      "distractors": [
+        "prize",
+        "praise",
+        "precise"
+      ],
+      "note": "語塊：be priced at（定價為……）、reasonably priced（價格合理的）、competitively priced（價格有競爭力的）。price 可以當名詞「價格」或動詞「定價」；pricey 是口語「貴的」；priceless 是「無價的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-razor",
+      "word": "razor",
+      "pos": "名詞",
+      "meaning": "刮鬍刀",
+      "sentences": [
+        {
+          "en": "Passengers may bring an electric razor in their carry-on bags, but sharp blades are not allowed.",
+          "zh": "乘客的隨身行李可以帶電動刮鬍刀，但不能帶鋒利的刀片。"
+        },
+        {
+          "en": "The hotel provides a free razor, a toothbrush, and other small items in every bathroom.",
+          "zh": "飯店每間浴室都提供免費的刮鬍刀、牙刷和其他小東西。"
+        },
+        {
+          "en": "The company's new electric razor is designed for men with sensitive skin and lasts two hours on one charge.",
+          "zh": "公司的新電動刮鬍刀是為敏感肌膚的男士設計的，充一次電可以用兩小時。"
+        },
+        {
+          "en": "Please keep the razor away from children, because the blades are very sharp and dangerous.",
+          "zh": "請讓刮鬍刀遠離小孩，因為刀片非常鋒利又危險。"
+        },
+        {
+          "en": "The store is having a sale on every electric razor, with discounts of up to thirty percent this week.",
+          "zh": "那家店本週所有電動刮鬍刀特價，最多打七折。"
+        }
+      ],
+      "distractors": [
+        "racer",
+        "laser",
+        "blazer"
+      ],
+      "note": "語塊：electric razor（電動刮鬍刀）、free razor（免費刮鬍刀）。razor 是「刮鬍刀」；shave 是動詞「刮鬍子」；raiser 是「舉起者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sufficiently",
+      "word": "sufficiently",
+      "pos": "副詞",
+      "meaning": "充分地；足夠地",
+      "sentences": [
+        {
+          "en": "The meeting room is sufficiently large for fifty people, so we can hold the training session there.",
+          "zh": "會議室夠容納五十人，所以我們可以在那裡辦訓練課程。"
+        },
+        {
+          "en": "Please make sure you are sufficiently prepared before the interview, because the questions can be difficult.",
+          "zh": "面試前請確保你準備充分，因為問題可能很難。"
+        },
+        {
+          "en": "The bridge was not sufficiently strong for heavy trucks, so the city had to build a new one.",
+          "zh": "那座橋不夠堅固，承受不了重型卡車，所以市政府必須蓋新橋。"
+        },
+        {
+          "en": "If the product is not sufficiently tested, customers may find problems after they buy it.",
+          "zh": "如果產品沒有充分測試，顧客買了之後可能會發現問題。"
+        },
+        {
+          "en": "The workers were not sufficiently trained to use the new machines, so the manager arranged extra classes.",
+          "zh": "工人沒有受過足夠訓練使用新機器，所以經理安排了額外課程。"
+        }
+      ],
+      "distractors": [
+        "efficiently",
+        "significantly",
+        "deficiently"
+      ],
+      "note": "語塊：sufficiently large（夠大）、sufficiently prepared（準備充分）、sufficiently strong（夠堅固）、sufficiently tested（充分測試）、sufficiently trained（受過足夠訓練）。sufficiently 是 sufficient（足夠的）的副詞；enough 意思接近；efficiently 是「有效率地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exchange",
+      "word": "exchange",
+      "pos": "動詞",
+      "meaning": "交換；兌換；更換",
+      "sentences": [
+        {
+          "en": "You can exchange the shirt for a different size within thirty days if you keep the receipt.",
+          "zh": "只要保留收據，你可以在三十天內換不同尺寸的襯衫。"
+        },
+        {
+          "en": "Please exchange money at the airport before you leave, because the rate there is usually better.",
+          "zh": "出發前請在機場換錢，因為那裡的匯率通常比較好。"
+        },
+        {
+          "en": "The conference is a great chance for people from different companies to exchange ideas and business cards.",
+          "zh": "研討會是不同公司的人交換意見和名片的好機會。"
+        },
+        {
+          "en": "Customers who want to exchange a product must bring it back in its original box.",
+          "zh": "想更換產品的顧客必須用原本的盒子帶回來。"
+        },
+        {
+          "en": "The two teams meet every Monday to exchange information about the progress of the project.",
+          "zh": "兩個團隊每週一開會，交換專案進度的資訊。"
+        }
+      ],
+      "distractors": [
+        "change",
+        "excuse",
+        "expand"
+      ],
+      "note": "語塊：exchange for（換成……）、exchange money（換錢）、exchange ideas（交換意見）。exchange 可以當動詞或名詞（exchange rate 是「匯率」）；change 是「改變；零錢」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-electric-car",
+      "word": "electric car",
+      "pos": "名詞",
+      "meaning": "電動車",
+      "sentences": [
+        {
+          "en": "More people are choosing to drive an electric car because fuel prices have risen sharply this year.",
+          "zh": "今年油價大漲，所以越來越多人選擇開電動車。"
+        },
+        {
+          "en": "It takes about thirty minutes to charge an electric car at the new station near the highway.",
+          "zh": "在高速公路附近的新充電站為電動車充電大約要三十分鐘。"
+        },
+        {
+          "en": "The government gives a tax deduction to anyone who buys an electric car instead of a gas car.",
+          "zh": "政府對買電動車而不是汽油車的人提供稅額扣抵。"
+        },
+        {
+          "en": "The company plans to buy an electric car for every salesperson by the year 2030.",
+          "zh": "公司計畫在 2030 年前為每位業務員買一輛電動車。"
+        },
+        {
+          "en": "The hotel offers free parking and charging for guests who drive an electric car to the hotel.",
+          "zh": "飯店為開電動車來的客人提供免費停車和充電。"
+        }
+      ],
+      "distractors": [
+        "electric bike",
+        "electric bill",
+        "race car"
+      ],
+      "note": "語塊：drive an electric car（開電動車）、charge an electric car（為電動車充電）。electric car 也叫 electric vehicle（EV）；hybrid car 是「油電混合車」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-obsolete",
+      "word": "obsolete",
+      "pos": "形容詞",
+      "meaning": "過時的；淘汰的",
+      "sentences": [
+        {
+          "en": "Many old phones have become obsolete because they cannot use the newest apps or games.",
+          "zh": "很多舊手機已經被淘汰，因為不能用最新的 App 或遊戲。"
+        },
+        {
+          "en": "The factory replaced its obsolete machines with new ones that are faster and use less energy.",
+          "zh": "工廠把過時的機器換成更快、更省電的新機器。"
+        },
+        {
+          "en": "Some jobs may become obsolete in the future because computers can do the work more quickly.",
+          "zh": "有些工作未來可能會被淘汰，因為電腦能更快完成工作。"
+        },
+        {
+          "en": "The company stopped selling the obsolete model and offered customers a discount on the new one.",
+          "zh": "公司停賣過時的機型，並為顧客提供新機型的折扣。"
+        },
+        {
+          "en": "Using obsolete technology can make a company slow and less competitive in the market over time.",
+          "zh": "使用過時的技術會讓公司變慢，久而久之在市場上更沒有競爭力。"
+        }
+      ],
+      "distractors": [
+        "absolute",
+        "obstinate",
+        "observant"
+      ],
+      "note": "語塊：become obsolete（被淘汰）、obsolete technology（過時的技術）。obsolete 是「已經沒人用、被新東西取代的」；outdated 意思接近；absolute 是「絕對的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aptitude-test",
+      "word": "aptitude test",
+      "pos": "名詞",
+      "meaning": "性向測驗；能力測驗",
+      "sentences": [
+        {
+          "en": "All applicants must take an aptitude test before the interview to show their math and language skills.",
+          "zh": "所有應徵者在面試前都必須參加能力測驗，展現數學和語文能力。"
+        },
+        {
+          "en": "Ms. Kim was nervous about the aptitude test, but she passed it easily and got the job.",
+          "zh": "金小姐對能力測驗很緊張，但她輕鬆通過並得到那份工作。"
+        },
+        {
+          "en": "The school uses an aptitude test to help students choose the right subjects for their future careers.",
+          "zh": "學校用性向測驗幫助學生選擇適合未來職涯的科目。"
+        },
+        {
+          "en": "Candidates who pass the aptitude test will be invited to a second interview with the manager.",
+          "zh": "通過能力測驗的應徵者會受邀和經理進行第二次面試。"
+        },
+        {
+          "en": "The online aptitude test takes about one hour and includes questions about logic and problem-solving.",
+          "zh": "線上能力測驗大約一小時，包含邏輯和解決問題的題目。"
+        }
+      ],
+      "distractors": [
+        "personality test",
+        "driving test",
+        "blood test"
+      ],
+      "note": "語塊：take an aptitude test（參加性向測驗）、pass an aptitude test（通過能力測驗）。aptitude 是「天賦；能力」；attitude 是「態度」，拼法很像；test 是「測驗」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rehearse",
+      "word": "rehearse",
+      "pos": "動詞",
+      "meaning": "排練；預演",
+      "sentences": [
+        {
+          "en": "Ms. Park will rehearse her speech several times before she gives it at the conference next week.",
+          "zh": "朴小姐下週在研討會發表演講之前，會排練好幾次。"
+        },
+        {
+          "en": "The actors will rehearse for six weeks before the new play opens at the theater in March.",
+          "zh": "演員將在三月新戲首演前排練六週。"
+        },
+        {
+          "en": "Please rehearse the presentation with the team on Thursday, so that everyone knows what to say.",
+          "zh": "請週四和團隊一起預演簡報，讓每個人都知道要說什麼。"
+        },
+        {
+          "en": "The orchestra will rehearse every evening this week for the concert at the city hall on Saturday night.",
+          "zh": "管弦樂團這週每晚都會為週六晚上在市政廳的音樂會排練。"
+        },
+        {
+          "en": "It is a good idea to rehearse your answers before a job interview, especially for difficult questions.",
+          "zh": "面試前先預演你的回答是個好主意，特別是困難的問題。"
+        }
+      ],
+      "distractors": [
+        "research",
+        "reverse",
+        "rehouse"
+      ],
+      "note": "語塊：rehearse a speech（排練演講）、rehearse for（為……排練）。rehearse 是「正式表演或演講前先練習」；rehearsal 是名詞「排練」；practice 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
