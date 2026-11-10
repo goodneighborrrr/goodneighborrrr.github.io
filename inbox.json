@@ -74568,6 +74568,706 @@
       ],
       "note": "語塊：for one's enjoyment（供……享受）、get enjoyment from（從……得到樂趣）。enjoyment 是 enjoy（享受）的名詞；pleasure 意思接近；enjoyable 是形容詞「令人愉快的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scrap",
+      "word": "scrap",
+      "pos": "動詞",
+      "meaning": "廢棄；取消（計畫）",
+      "sentences": [
+        {
+          "en": "The company decided to scrap the plan to build a new factory because the cost was too high.",
+          "zh": "因為成本太高，公司決定取消蓋新工廠的計畫。"
+        },
+        {
+          "en": "The city may scrap the idea of a new highway after many residents complained about the noise.",
+          "zh": "很多居民抱怨噪音後，市政府可能會放棄新建高速公路的想法。"
+        },
+        {
+          "en": "Old cars that cannot be repaired are sold as scrap metal to recycling companies outside the city.",
+          "zh": "無法修理的舊車會被當作廢金屬賣給城外的回收公司。"
+        },
+        {
+          "en": "The manager had to scrap the first design because the client wanted something more modern.",
+          "zh": "經理不得不廢棄第一版設計，因為客戶想要更現代的風格。"
+        },
+        {
+          "en": "The airline will scrap several old planes this year and replace them with new ones that use less fuel.",
+          "zh": "航空公司今年會汰除好幾架舊飛機，換成更省油的新飛機。"
+        }
+      ],
+      "distractors": [
+        "scrape",
+        "strap",
+        "scrub"
+      ],
+      "note": "語塊：scrap a plan（取消計畫）、scrap the idea（放棄點子）、scrap metal（廢金屬）。scrap 當動詞是「丟掉不用；取消」；當名詞是「碎片；廢料」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-windshield",
+      "word": "windshield",
+      "pos": "名詞",
+      "meaning": "（汽車的）擋風玻璃",
+      "sentences": [
+        {
+          "en": "A small stone hit the front windshield on the highway, so I need to take the car to a repair shop.",
+          "zh": "一顆小石頭在高速公路上打到前擋風玻璃，所以我需要把車送去修理廠。"
+        },
+        {
+          "en": "The insurance company will pay to replace the windshield because the damage was caused by the storm.",
+          "zh": "保險公司會支付更換擋風玻璃的費用，因為損壞是暴風雨造成的。"
+        },
+        {
+          "en": "Please put the parking permit on the inside of the windshield so that the security guard can see it.",
+          "zh": "請把停車證放在擋風玻璃內側，讓警衛看得到。"
+        },
+        {
+          "en": "A small crack in the windshield can become larger quickly, so it should be repaired as soon as possible.",
+          "zh": "擋風玻璃上的小裂痕很快就會變大，所以應該盡快修理。"
+        },
+        {
+          "en": "The car wash cleans the windshield and the inside of the car for an extra five dollars.",
+          "zh": "洗車場多付五元就會清潔擋風玻璃和車內。"
+        }
+      ],
+      "distractors": [
+        "windmill",
+        "windbreaker",
+        "shield"
+      ],
+      "note": "語塊：front windshield（前擋風玻璃）、replace the windshield（更換擋風玻璃）、crack in the windshield（擋風玻璃裂痕）。windshield 是美式說法；英式說 windscreen；wiper 是「雨刷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-dashboard",
+      "word": "dashboard",
+      "pos": "名詞",
+      "meaning": "儀表板；資訊看板",
+      "sentences": [
+        {
+          "en": "A warning light on the dashboard showed that the car needed more oil before the long trip.",
+          "zh": "儀表板上的警示燈顯示，車子在長途旅行前需要加機油。"
+        },
+        {
+          "en": "The new online dashboard lets managers see sales figures from every store in real time.",
+          "zh": "新的線上資訊看板讓主管能即時看到每家店的銷售數字。"
+        },
+        {
+          "en": "Please do not leave your phone or wallet on the dashboard when you park the car downtown.",
+          "zh": "在市中心停車時，請不要把手機或錢包留在儀表板上。"
+        },
+        {
+          "en": "The car's dashboard has a large screen that shows the map, the music, and the outside temperature.",
+          "zh": "車子的儀表板有一個大螢幕，顯示地圖、音樂和外面的溫度。"
+        },
+        {
+          "en": "Each team leader can check the online dashboard to see how many orders were finished today.",
+          "zh": "每位組長都可以查看線上資訊看板，了解今天完成了多少訂單。"
+        }
+      ],
+      "distractors": [
+        "keyboard",
+        "cardboard",
+        "billboard"
+      ],
+      "note": "語塊：car dashboard（汽車儀表板）、online dashboard（線上資訊看板）。dashboard 是車子駕駛座前的「儀表板」，也指電腦上整理數據的「看板」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-violation",
+      "word": "violation",
+      "pos": "名詞",
+      "meaning": "違反；違規",
+      "sentences": [
+        {
+          "en": "The factory was fined after inspectors found a serious safety violation during their visit last month.",
+          "zh": "稽查員上個月來訪時發現一項嚴重違反安全規定的情況，工廠因此被罰款。"
+        },
+        {
+          "en": "Using the company's logo without permission is in violation of the agreement between the two firms.",
+          "zh": "未經許可使用公司標誌違反了兩家公司之間的協議。"
+        },
+        {
+          "en": "A driver who receives a third traffic violation in one year may lose his or her license for six months.",
+          "zh": "一年內第三次交通違規的駕駛可能會被吊銷駕照六個月。"
+        },
+        {
+          "en": "Any violation of the rules will be reported to the manager, so please read the handbook carefully.",
+          "zh": "任何違反規定的情況都會報告給經理，所以請仔細閱讀手冊。"
+        },
+        {
+          "en": "The restaurant closed for a week after a serious safety violation was found in the kitchen.",
+          "zh": "廚房被發現嚴重違反安全規定後，那家餐廳停業了一週。"
+        }
+      ],
+      "distractors": [
+        "violence",
+        "ventilation",
+        "vibration"
+      ],
+      "note": "語塊：safety violation（違反安全規定）、in violation of（違反……）、traffic violation（交通違規）。violation 是 violate（違反）的名詞；breach 意思接近；violence 是「暴力」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-effect",
+      "word": "take effect",
+      "pos": "片語動詞",
+      "meaning": "生效",
+      "sentences": [
+        {
+          "en": "The new working hours will take effect on the first of next month for all employees.",
+          "zh": "新的工作時間將在下個月一日對所有員工生效。"
+        },
+        {
+          "en": "The price increase will take effect immediately, so the new menu is already being used today.",
+          "zh": "漲價將立即生效，所以今天已經在使用新菜單。"
+        },
+        {
+          "en": "The new law will take effect in January, and companies must follow it from that date.",
+          "zh": "新法律將在一月生效，公司從那天起必須遵守。"
+        },
+        {
+          "en": "You should wait about thirty minutes for the medicine to take effect, so please be patient.",
+          "zh": "這種藥大約要等三十分鐘才會生效，所以請耐心等候。"
+        },
+        {
+          "en": "Changes to the return policy will take effect after the holiday season ends in January.",
+          "zh": "退貨政策的變更將在一月假期結束後生效。"
+        }
+      ],
+      "distractors": [
+        "take place",
+        "take part",
+        "take over"
+      ],
+      "note": "語塊：take effect immediately（立即生效）、take effect on（在……生效）。take effect 是「（法律、規定）開始有效」；come into effect 意思一樣；effect 是「效果」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-immediate",
+      "word": "immediate",
+      "pos": "形容詞",
+      "meaning": "立即的；直接的",
+      "sentences": [
+        {
+          "en": "The problem with the website requires immediate action, because customers cannot place any orders on it.",
+          "zh": "網站的問題需要立即處理，因為顧客無法在上面下任何訂單。"
+        },
+        {
+          "en": "Please report any accident to your immediate supervisor, even if nobody was hurt in the accident.",
+          "zh": "請把任何事故報告給你的直屬主管，即使事故中沒有人受傷也一樣。"
+        },
+        {
+          "en": "The broken pipe needs immediate attention, or water will damage the floor of the warehouse.",
+          "zh": "破裂的水管需要立即處理，否則水會損壞倉庫的地板。"
+        },
+        {
+          "en": "The new policy had an immediate effect on sales, which increased by ten percent in the first week.",
+          "zh": "新政策對銷售產生立即的效果，第一週就增加了一成。"
+        },
+        {
+          "en": "The company took immediate action to fix the problem after several customers complained about it online.",
+          "zh": "好幾位顧客在網路上抱怨這件事後，公司立即採取行動解決問題。"
+        }
+      ],
+      "distractors": [
+        "intermediate",
+        "immaculate",
+        "imminent"
+      ],
+      "note": "語塊：immediate action（立即行動）、immediate supervisor（直屬主管）、immediate attention（立即處理）。immediate 是「馬上的」或「最接近的」；immediately 是副詞「立刻」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-analyze",
+      "word": "analyze",
+      "pos": "動詞",
+      "meaning": "分析",
+      "sentences": [
+        {
+          "en": "The marketing team will analyze data from the survey to find out what customers want most.",
+          "zh": "行銷團隊會分析調查數據，找出顧客最想要什麼。"
+        },
+        {
+          "en": "The engineers will analyze the results of the test before they decide whether to change the design.",
+          "zh": "工程師會先分析測試結果，再決定是否修改設計。"
+        },
+        {
+          "en": "Please carefully analyze the sales figures from last year before you prepare the budget for next year.",
+          "zh": "準備明年的預算之前，請仔細分析去年的銷售數字。"
+        },
+        {
+          "en": "The new software can analyze thousands of customer reviews in just a few minutes without any help.",
+          "zh": "新軟體不需任何協助，幾分鐘就能分析數千則顧客評論。"
+        },
+        {
+          "en": "Scientists will analyze water from the river to find out how much pollution comes from the factory.",
+          "zh": "科學家會分析河水，找出有多少污染來自那座工廠。"
+        }
+      ],
+      "distractors": [
+        "analysis",
+        "paralyze",
+        "apologize"
+      ],
+      "note": "語塊：analyze data（分析數據）、analyze the results（分析結果）、carefully analyze（仔細分析）。analyze 是美式拼法，英式是 analyse；analysis 是名詞「分析」；analyst 是「分析師」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vital",
+      "word": "vital",
+      "pos": "形容詞",
+      "meaning": "極重要的；必不可少的",
+      "sentences": [
+        {
+          "en": "Good communication plays a vital role in the success of any team, especially when people work remotely.",
+          "zh": "良好的溝通在任何團隊的成功中都扮演關鍵角色，特別是遠端工作時。"
+        },
+        {
+          "en": "Customer service is a vital part of our business, so all new staff receive two weeks of training.",
+          "zh": "客服是我們事業不可或缺的部分，所以所有新員工都要接受兩週的訓練。"
+        },
+        {
+          "en": "It is vital that all workers wear safety equipment when they enter the construction site.",
+          "zh": "所有工人進入工地時都穿戴安全裝備是極重要的。"
+        },
+        {
+          "en": "Small businesses play a vital role in the local economy by creating jobs for people in the area.",
+          "zh": "小企業為當地人創造工作機會，在地方經濟中扮演關鍵角色。"
+        },
+        {
+          "en": "Regular maintenance is a vital part of keeping the machines safe and avoiding costly repairs.",
+          "zh": "定期保養是維持機器安全和避免昂貴修理費不可或缺的部分。"
+        }
+      ],
+      "distractors": [
+        "visual",
+        "fatal",
+        "total"
+      ],
+      "note": "語塊：vital role（關鍵角色）、vital part（不可或缺的部分）、it is vital that（……是極重要的）。vital 是「非常重要、不能沒有的」；essential 意思接近；vitality 是「活力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cooperative",
+      "word": "cooperative",
+      "pos": "形容詞",
+      "meaning": "合作的；配合的",
+      "sentences": [
+        {
+          "en": "The new employee has a very cooperative attitude and is always happy to help her colleagues.",
+          "zh": "那位新員工態度非常配合，總是樂意幫助同事。"
+        },
+        {
+          "en": "The new bridge was built through a cooperative effort between the city and several local businesses.",
+          "zh": "新橋是市政府和幾家當地企業共同努力建成的。"
+        },
+        {
+          "en": "The customer was very cooperative and answered all of our questions about the problem with the machine.",
+          "zh": "那位顧客非常配合，回答了我們所有關於機器問題的提問。"
+        },
+        {
+          "en": "The project was a cooperative effort between engineers and designers from three different countries in Asia.",
+          "zh": "這個專案是亞洲三個不同國家的工程師和設計師共同努力的成果。"
+        },
+        {
+          "en": "Most residents were cooperative when the city asked them to save water during the dry season.",
+          "zh": "市政府在乾季請居民節約用水時，大部分居民都很配合。"
+        }
+      ],
+      "distractors": [
+        "corporate",
+        "competitive",
+        "cooperation"
+      ],
+      "note": "語塊：cooperative attitude（合作的態度）、cooperative effort（共同努力）。cooperative 是「願意幫忙配合的」；cooperate 是動詞；cooperation 是名詞；當名詞也指「合作社」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-assessment",
+      "word": "assessment",
+      "pos": "名詞",
+      "meaning": "評估；評量",
+      "sentences": [
+        {
+          "en": "A risk assessment must be completed before any new machine is used in the factory.",
+          "zh": "工廠在使用任何新機器之前，都必須完成風險評估。"
+        },
+        {
+          "en": "Every employee will have a performance assessment with his or her manager at the end of the year.",
+          "zh": "每位員工年底都會和主管進行績效評估。"
+        },
+        {
+          "en": "The insurance company sent an expert to make an assessment of the damage caused by the flood.",
+          "zh": "保險公司派一位專家來評估洪水造成的損害。"
+        },
+        {
+          "en": "The consultant's assessment of the business was very helpful, and we followed most of her advice.",
+          "zh": "顧問對事業的評估很有幫助，我們採納了她大部分的建議。"
+        },
+        {
+          "en": "Students will take an assessment at the beginning of the course to check their English level.",
+          "zh": "學生在課程開始時會接受評量，檢查他們的英文程度。"
+        }
+      ],
+      "distractors": [
+        "assignment",
+        "assortment",
+        "amusement"
+      ],
+      "note": "語塊：risk assessment（風險評估）、performance assessment（績效評估）、make an assessment（進行評估）。assessment 是 assess（評估）的名詞；evaluation 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-phase",
+      "word": "phase",
+      "pos": "名詞",
+      "meaning": "階段；時期",
+      "sentences": [
+        {
+          "en": "The first phase of the project will focus on research, and the building work will start next year.",
+          "zh": "專案的第一階段會著重研究，建設工作明年才開始。"
+        },
+        {
+          "en": "The new shopping center is now in its final phase of construction and will open in March.",
+          "zh": "新購物中心目前在施工的最後階段，將在三月開幕。"
+        },
+        {
+          "en": "Each phase of the training program lasts two weeks, and employees must pass a test at the end.",
+          "zh": "訓練計畫的每個階段都是兩週，員工在最後必須通過測驗。"
+        },
+        {
+          "en": "The company is entering a new phase of growth after opening offices in five more countries.",
+          "zh": "在另外五個國家開設辦公室後，公司正進入新的成長階段。"
+        },
+        {
+          "en": "The final phase of the refurbishment includes new carpets and furniture for all of the rooms.",
+          "zh": "翻新的最後階段包括所有房間的新地毯和家具。"
+        }
+      ],
+      "distractors": [
+        "phrase",
+        "faze",
+        "chase"
+      ],
+      "note": "語塊：first phase（第一階段）、final phase（最後階段）、phase of（……的階段）。phase 是「過程中的一段」；stage 意思接近；phrase 是「片語」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refine",
+      "word": "refine",
+      "pos": "動詞",
+      "meaning": "改進；精煉",
+      "sentences": [
+        {
+          "en": "The engineers will refine the design of the new phone based on feedback from customers.",
+          "zh": "工程師會根據顧客的回饋改良新手機的設計。"
+        },
+        {
+          "en": "Please refine the plan before the meeting so that it includes a clear budget and time frame.",
+          "zh": "開會前請修改計畫，讓它包含清楚的預算和時程。"
+        },
+        {
+          "en": "The factory near the port can refine oil and produce fuel for cars, ships, and airplanes.",
+          "zh": "港口附近的工廠可以煉油，生產汽車、船和飛機用的燃料。"
+        },
+        {
+          "en": "The chef spent months trying to refine the recipe until the soup tasted exactly right.",
+          "zh": "主廚花了好幾個月試著改良食譜，直到湯的味道剛剛好。"
+        },
+        {
+          "en": "The team will continue to refine the software during the trial period and fix any problems.",
+          "zh": "團隊會在試用期間持續改進軟體，並修正任何問題。"
+        }
+      ],
+      "distractors": [
+        "define",
+        "confine",
+        "resign"
+      ],
+      "note": "語塊：refine the design（改良設計）、refine the plan（修改計畫）、refine oil（煉油）。refine 是「把東西改得更好、更精確」；refined 是形容詞「精緻的；精煉的」；improve 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adopt",
+      "word": "adopt",
+      "pos": "動詞",
+      "meaning": "採用；收養",
+      "sentences": [
+        {
+          "en": "The company will adopt a new policy that allows employees to work from home two days a week.",
+          "zh": "公司將採用一項允許員工一週在家工作兩天的新政策。"
+        },
+        {
+          "en": "Many hospitals have decided to adopt a new system for keeping patient records safely online.",
+          "zh": "很多醫院決定採用新系統，在線上安全地保存病歷。"
+        },
+        {
+          "en": "The animal shelter encourages families to adopt a pet instead of buying one from a store.",
+          "zh": "動物收容所鼓勵家庭認養寵物，而不是去店裡買。"
+        },
+        {
+          "en": "The city plans to adopt the use of electric buses on all of its routes by the year 2030.",
+          "zh": "市政府計畫在 2030 年前所有路線都採用電動公車。"
+        },
+        {
+          "en": "If we adopt this new system, we will need to train every employee before it starts.",
+          "zh": "如果我們採用這個新系統，就需要在開始前訓練每位員工。"
+        }
+      ],
+      "distractors": [
+        "adapt",
+        "adept",
+        "adore"
+      ],
+      "note": "語塊：adopt a policy（採用政策）、adopt a new system（採用新系統）、adopt a pet（認養寵物）。adopt 是「採用；收養」；adapt 是「適應；改編」，拼法很像；adoption 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-look-into",
+      "word": "look into",
+      "pos": "片語動詞",
+      "meaning": "調查；研究",
+      "sentences": [
+        {
+          "en": "The manager promised to look into the problem and call the customer back by the end of the day.",
+          "zh": "經理答應會調查這個問題，在今天下班前回電給顧客。"
+        },
+        {
+          "en": "The company will look into the possibility of opening a new branch in Vietnam next year.",
+          "zh": "公司將研究明年在越南開設新分公司的可能性。"
+        },
+        {
+          "en": "Thank you for your complaint, and we will look into the matter as soon as possible.",
+          "zh": "謝謝您的投訴，我們會盡快調查這件事。"
+        },
+        {
+          "en": "The police will look into the cause of the fire at the warehouse, but nobody was hurt.",
+          "zh": "警方會調查倉庫火災的原因，但沒有人受傷。"
+        },
+        {
+          "en": "Our IT team will look into the problem with the website and fix it before the sale begins.",
+          "zh": "我們的資訊團隊會在特賣開始前調查網站的問題並修好。"
+        }
+      ],
+      "distractors": [
+        "look out",
+        "look up",
+        "look over"
+      ],
+      "note": "語塊：look into the problem（調查問題）、look into the matter（研究這件事）、look into the possibility（研究可能性）。look into 是「仔細查看、調查」；investigate 意思接近；look at 是「看」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-administer",
+      "word": "administer",
+      "pos": "動詞",
+      "meaning": "管理；執行；施用（藥物）",
+      "sentences": [
+        {
+          "en": "The human resources department will administer the new training program for all managers and team leaders.",
+          "zh": "人資部會負責管理所有主管和組長的新訓練計畫。"
+        },
+        {
+          "en": "Teachers will administer the English test to every student during the first week of the course.",
+          "zh": "老師會在課程第一週為每位學生舉行英文測驗。"
+        },
+        {
+          "en": "Only trained nurses are allowed to administer medicine to patients in the hospital ward during the night.",
+          "zh": "只有受過訓練的護理師可以在夜間於病房給病人用藥。"
+        },
+        {
+          "en": "The city hired a private company to administer the parking system in the downtown area.",
+          "zh": "市政府雇用一家民間公司來管理市中心的停車系統。"
+        },
+        {
+          "en": "The charity will administer the money from the fundraiser and use it to buy books for schools.",
+          "zh": "慈善機構會管理募款活動的錢，用來為學校買書。"
+        }
+      ],
+      "distractors": [
+        "minister",
+        "register",
+        "administrator"
+      ],
+      "note": "語塊：administer a program（管理計畫）、administer a test（舉行考試）、administer medicine（給藥）。administer 是正式的「管理、執行」；administration 是「行政；管理」；administrator 是「管理人員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transport",
+      "word": "transport",
+      "pos": "動詞",
+      "meaning": "運送；運輸",
+      "sentences": [
+        {
+          "en": "The company uses large trucks to transport goods from the port to warehouses across the country.",
+          "zh": "公司用大卡車把貨物從港口運到全國各地的倉庫。"
+        },
+        {
+          "en": "The new trains can transport more than one thousand passengers at the same time during rush hour.",
+          "zh": "新列車在尖峰時段可以同時載運一千多名乘客。"
+        },
+        {
+          "en": "Many people in the city use public transport because parking downtown is difficult and expensive.",
+          "zh": "市區很多人搭大眾運輸，因為市中心停車又難又貴。"
+        },
+        {
+          "en": "Please pack the glass bottles carefully, because we need to transport them over a long distance.",
+          "zh": "請小心包裝玻璃瓶，因為我們需要長途運送它們。"
+        },
+        {
+          "en": "The hotel offers a free bus to transport guests between the hotel and the convention center.",
+          "zh": "飯店提供免費巴士，在飯店和會議中心之間載送客人。"
+        }
+      ],
+      "distractors": [
+        "transplant",
+        "transmit",
+        "passport"
+      ],
+      "note": "語塊：transport goods（運送貨物）、transport passengers（載運乘客）、public transport（大眾運輸）。transport 可以當動詞或名詞「運輸」；transportation 是美式常用的名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transfer",
+      "word": "transfer",
+      "pos": "動詞",
+      "meaning": "轉移；調職；轉帳；轉乘",
+      "sentences": [
+        {
+          "en": "Please transfer the money to our bank account within seven days of receiving the invoice.",
+          "zh": "收到請款單後七天內，請把錢轉到我們的銀行帳戶。"
+        },
+        {
+          "en": "Ms. Lee asked to transfer to the Tokyo office so that she could work closer to her family.",
+          "zh": "李小姐申請調到東京辦公室，以便離家人近一點。"
+        },
+        {
+          "en": "The receptionist will transfer your call to the sales department, so please wait a moment.",
+          "zh": "接待員會把你的電話轉接到業務部，所以請稍等。"
+        },
+        {
+          "en": "Passengers who want to go to the airport must transfer to the express train at the central station.",
+          "zh": "要去機場的乘客必須在中央車站轉乘快車。"
+        },
+        {
+          "en": "The company will transfer three engineers to the new factory to train the local workers.",
+          "zh": "公司會調派三位工程師到新工廠訓練當地工人。"
+        }
+      ],
+      "distractors": [
+        "transform",
+        "transmit",
+        "prefer"
+      ],
+      "note": "語塊：transfer money（轉帳）、transfer to（調到……；轉乘……）、transfer a call（轉接電話）。transfer 可以當動詞或名詞「轉移；調職」；transport 是「運送」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-around-the-clock",
+      "word": "around the clock",
+      "pos": "副詞",
+      "meaning": "日以繼夜；全天候",
+      "sentences": [
+        {
+          "en": "The workers are working around the clock to repair the bridge before the holiday weekend.",
+          "zh": "工人日以繼夜地趕工，要在連假前修好那座橋。"
+        },
+        {
+          "en": "The convenience store near the station is open around the clock, so you can buy food at any time.",
+          "zh": "車站附近的便利商店二十四小時營業，所以隨時都能買到食物。"
+        },
+        {
+          "en": "Our customer care team answers calls around the clock, including weekends and national holidays, in three languages.",
+          "zh": "我們的客服團隊全天候接聽電話，包括週末和國定假日，提供三種語言服務。"
+        },
+        {
+          "en": "Doctors and nurses worked around the clock to help the patients after the accident on the highway.",
+          "zh": "高速公路事故發生後，醫生和護理師日夜不停地救治病人。"
+        },
+        {
+          "en": "Security guards watch the warehouse around the clock to protect the expensive products stored inside.",
+          "zh": "警衛全天候看守倉庫，保護存放在裡面的昂貴產品。"
+        }
+      ],
+      "distractors": [
+        "around the corner",
+        "against the clock",
+        "on the clock"
+      ],
+      "note": "語塊：work around the clock（日夜工作）、open around the clock（二十四小時營業）。around the clock 是「一天二十四小時都在進行」；24/7 意思一樣；round the clock 也可以。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-of-the-essence",
+      "word": "of the essence",
+      "pos": "其他",
+      "meaning": "非常重要；關鍵",
+      "sentences": [
+        {
+          "en": "Time is of the essence, so please send the documents to the client as soon as possible.",
+          "zh": "時間非常緊迫，所以請盡快把文件寄給客戶。"
+        },
+        {
+          "en": "Speed is of the essence when a customer complains, because a quick answer can solve most problems.",
+          "zh": "顧客投訴時，速度是關鍵，因為快速回應可以解決大部分問題。"
+        },
+        {
+          "en": "In this project, time is of the essence, because the store must open before the holiday season.",
+          "zh": "在這個專案中，時間非常緊迫，因為店必須在假期購物季前開幕。"
+        },
+        {
+          "en": "When a machine breaks down in the factory, speed is of the essence to avoid losing production time.",
+          "zh": "工廠機器故障時，速度是關鍵，才能避免損失生產時間。"
+        },
+        {
+          "en": "Good communication is of the essence when a team is working in different countries and time zones.",
+          "zh": "團隊在不同國家和時區工作時，良好的溝通非常重要。"
+        }
+      ],
+      "distractors": [
+        "in essence",
+        "of the moment",
+        "of no use"
+      ],
+      "note": "語塊：time is of the essence（時間非常緊迫）、speed is of the essence（速度是關鍵）。of the essence 是「極為重要」；essence 是「本質；精華」；essential 是「必要的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-round-trip",
+      "word": "round-trip",
+      "pos": "形容詞",
+      "meaning": "來回的",
+      "sentences": [
+        {
+          "en": "A round-trip ticket to Tokyo is cheaper if you book it at least two months in advance.",
+          "zh": "飛東京的來回票如果至少提前兩個月訂會比較便宜。"
+        },
+        {
+          "en": "The company will pay for a round-trip flight for every employee who attends the conference in Singapore.",
+          "zh": "公司會為每位參加新加坡研討會的員工支付來回機票。"
+        },
+        {
+          "en": "The price of the tour includes a round-trip bus ride from the hotel to the national park.",
+          "zh": "行程價格包含從飯店到國家公園的來回巴士。"
+        },
+        {
+          "en": "Please book a round-trip ticket for Ms. Kim, because she will return to Seoul next Friday.",
+          "zh": "請幫金小姐訂來回票，因為她下週五會回首爾。"
+        },
+        {
+          "en": "A round-trip flight between the two cities takes about six hours, so many travelers prefer the train.",
+          "zh": "兩個城市之間的來回航班大約要六小時，所以很多旅客比較喜歡搭火車。"
+        }
+      ],
+      "distractors": [
+        "one-way",
+        "trip",
+        "round-up"
+      ],
+      "note": "語塊：round-trip ticket（來回票）、round-trip flight（來回航班）。round-trip 是「去和回」；one-way 是「單程的」；return ticket 是英式「來回票」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
