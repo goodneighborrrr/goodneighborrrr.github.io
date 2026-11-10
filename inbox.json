@@ -56438,6 +56438,706 @@
       ],
       "note": "語塊：take responsibility for（為……負責）、main responsibility（主要職責）、sense of responsibility（責任感）。responsibility 是名詞；形容詞 responsible 用 be responsible for；duty 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-malfunction",
+      "word": "malfunction",
+      "pos": "名詞",
+      "meaning": "故障；失靈",
+      "sentences": [
+        {
+          "en": "The flight was delayed for two hours because of an equipment malfunction that was found before takeoff.",
+          "zh": "因為起飛前發現設備故障，班機延誤了兩個小時。"
+        },
+        {
+          "en": "A system malfunction caused the bank's website to stop working for most of Monday morning.",
+          "zh": "系統故障讓銀行網站週一早上大部分時間都無法使用。"
+        },
+        {
+          "en": "Please report any technical malfunction to the IT department as soon as you notice the problem.",
+          "zh": "一發現任何技術故障，請立刻通報資訊部門。"
+        },
+        {
+          "en": "The factory had to stop production for a day after a serious malfunction in one of its machines.",
+          "zh": "工廠其中一台機器嚴重故障後，不得不停工一天。"
+        },
+        {
+          "en": "The technician said the equipment malfunction was caused by dust inside the cooling fan, which had not been cleaned for months.",
+          "zh": "技術人員說設備故障是好幾個月沒清的冷卻風扇裡的灰塵造成的。"
+        }
+      ],
+      "distractors": [
+        "function",
+        "malpractice",
+        "misfortune"
+      ],
+      "note": "語塊：equipment malfunction（設備故障）、system malfunction（系統故障）、technical malfunction（技術故障）。malfunction 可以當名詞或動詞（The machine malfunctioned）；breakdown 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-itemize",
+      "word": "itemize",
+      "pos": "動詞",
+      "meaning": "逐項列出",
+      "sentences": [
+        {
+          "en": "Please itemize the costs of the trip, including hotels, meals, and taxis, when you submit your expense report.",
+          "zh": "提交報帳單時，請逐項列出出差費用，包括住宿、餐費和計程車。"
+        },
+        {
+          "en": "If you ask, the hotel will itemize every charge during your stay and send the bill to your company by e-mail.",
+          "zh": "如果你要求，飯店會逐項列出你住宿期間的每一筆費用，並把帳單用電子郵件寄到你的公司。"
+        },
+        {
+          "en": "Our cashiers can itemize the receipt for customers who need to show their company exactly what they bought.",
+          "zh": "如果顧客需要讓公司看清楚買了什麼，我們的收銀員可以把收據逐項列出。"
+        },
+        {
+          "en": "The accountant asked the department to itemize all expenses for the international conference in Seoul before Friday afternoon.",
+          "zh": "會計請部門在週五前逐項列出首爾國際研討會的所有費用。"
+        },
+        {
+          "en": "The contractor will itemize the price of each material so that the client can understand the total cost.",
+          "zh": "承包商會逐項列出每種材料的價格，讓客戶了解總費用。"
+        }
+      ],
+      "distractors": [
+        "idealize",
+        "minimize",
+        "memorize"
+      ],
+      "note": "語塊：itemize the costs（逐項列出費用）、itemize the receipt（列出收據明細）、itemize every charge（逐項列出每筆費用）。itemize 是「一項一項列出來」；item 是「項目」；itemized 是形容詞「列出明細的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-invoice",
+      "word": "invoice",
+      "pos": "名詞",
+      "meaning": "發票；請款單",
+      "sentences": [
+        {
+          "en": "We will send an invoice to your company after all of the products have been delivered.",
+          "zh": "所有產品送達後，我們會寄請款單到貴公司。"
+        },
+        {
+          "en": "Please pay the invoice within thirty days, or a late fee of five percent will be added.",
+          "zh": "請在三十天內支付請款單，否則會加收百分之五的滯納金。"
+        },
+        {
+          "en": "When you call our accounting office, please have your invoice number ready so that we can help you quickly.",
+          "zh": "打電話到我們的會計室時，請準備好發票號碼，讓我們能快速協助你。"
+        },
+        {
+          "en": "The supplier sent the invoice to the wrong address, so we could not pay it on time.",
+          "zh": "供應商把請款單寄錯地址，所以我們沒辦法準時付款。"
+        },
+        {
+          "en": "The accounting department checks every invoice carefully before any payment is made to suppliers at the end of each month.",
+          "zh": "會計部門在付款給供應商之前，會在每個月底付款給供應商之前，仔細檢查每一張請款單。"
+        }
+      ],
+      "distractors": [
+        "voice",
+        "invite",
+        "novice"
+      ],
+      "note": "語塊：send an invoice（寄發票）、pay an invoice（支付請款單）、invoice number（發票號碼）。invoice 是賣方寄給買方要求付款的「請款單」；receipt 是付錢後拿到的「收據」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-success",
+      "word": "success",
+      "pos": "名詞",
+      "meaning": "成功",
+      "sentences": [
+        {
+          "en": "The product launch was a great success, and the company sold more than ten thousand units in a week.",
+          "zh": "產品發表會非常成功，公司一週內賣出一萬多台。"
+        },
+        {
+          "en": "Good communication between departments is the key to success for any large project that involves many people and teams.",
+          "zh": "部門之間良好的溝通是任何牽涉很多人和團隊的大型專案成功的關鍵。"
+        },
+        {
+          "en": "The success of the new restaurant is mainly due to its excellent food and friendly staff.",
+          "zh": "新餐廳的成功主要是因為食物很棒、員工很親切。"
+        },
+        {
+          "en": "Ms. Park shared the secret of her success with young business owners at the conference.",
+          "zh": "朴小姐在研討會上和年輕的企業主分享她成功的祕訣。"
+        },
+        {
+          "en": "The annual festival was a great success, attracting more visitors than in any previous year.",
+          "zh": "今年的年度節慶非常成功，吸引的遊客比以往任何一年都多。"
+        }
+      ],
+      "distractors": [
+        "access",
+        "excess",
+        "process"
+      ],
+      "note": "語塊：great success（巨大成功）、key to success（成功的關鍵）、success of（……的成功）。success 是名詞；succeed 是動詞；successful 是形容詞；successive 是「連續的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-penalty",
+      "word": "penalty",
+      "pos": "名詞",
+      "meaning": "罰款；懲罰",
+      "sentences": [
+        {
+          "en": "Customers who cancel their booking less than two days in advance will have to pay a penalty.",
+          "zh": "在不到兩天前取消訂位的顧客必須付罰款。"
+        },
+        {
+          "en": "A late penalty of fifty dollars will be added if the rent is not paid by the fifth of the month.",
+          "zh": "如果房租沒有在每月五日前付清，會加收五十元的逾期罰款。"
+        },
+        {
+          "en": "Companies that break the environmental law may face a heavy penalty from the government and lose their business licenses.",
+          "zh": "違反環保法的公司可能面臨政府的重罰，還會被吊銷營業執照。"
+        },
+        {
+          "en": "The contract states that the builder will pay a penalty for every day the project is late.",
+          "zh": "合約規定專案每延遲一天，建商就要付罰款。"
+        },
+        {
+          "en": "To avoid a late penalty, please make sure your tax forms are submitted before the end of May.",
+          "zh": "為了避免逾期罰款，請確保在五月底前提交報稅表。"
+        }
+      ],
+      "distractors": [
+        "penny",
+        "plenty",
+        "loyalty"
+      ],
+      "note": "語塊：pay a penalty（付罰款）、late penalty（逾期罰款）、heavy penalty（重罰）。penalty 是違反規定的「處罰」；fine 是「罰金」，意思接近；penalize 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fine",
+      "word": "fine",
+      "pos": "名詞",
+      "meaning": "罰金；罰款",
+      "sentences": [
+        {
+          "en": "Drivers who park in front of the hospital entrance will have to pay a fine of two hundred dollars.",
+          "zh": "在醫院入口前停車的駕駛必須繳兩百元罰款。"
+        },
+        {
+          "en": "Mr. Wilson got a parking fine because he left his car on the street for more than two hours.",
+          "zh": "威爾森先生把車停在路邊超過兩小時，所以被開了違規停車罰單。"
+        },
+        {
+          "en": "The company had to pay a heavy fine after it was found that the factory had polluted the river.",
+          "zh": "被發現工廠污染河川後，公司必須繳高額罰款。"
+        },
+        {
+          "en": "Library users who return books late must pay a small fine for each day the book is overdue.",
+          "zh": "逾期還書的圖書館讀者每逾期一天都要付一點罰款。"
+        },
+        {
+          "en": "The city plans to raise the parking fine to reduce traffic problems in the downtown area.",
+          "zh": "市政府計畫提高違規停車罰款，以減少市中心的交通問題。"
+        }
+      ],
+      "distractors": [
+        "find",
+        "fire",
+        "fin"
+      ],
+      "note": "語塊：pay a fine（繳罰款）、parking fine（違規停車罰單）、heavy fine（高額罰款）。fine 當名詞是「罰金」；當動詞是「罰款」（be fined）；當形容詞是「好的；細的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stationary",
+      "word": "stationary",
+      "pos": "形容詞",
+      "meaning": "靜止的；固定不動的",
+      "sentences": [
+        {
+          "en": "Passengers must remain stationary in their seats until the train has completely stopped at the station.",
+          "zh": "乘客必須在座位上保持不動，直到列車在車站完全停下。"
+        },
+        {
+          "en": "The bus hit a stationary vehicle that was parked on the side of the road, but nobody was hurt.",
+          "zh": "公車撞上一輛停在路邊的靜止車輛，但沒有人受傷。"
+        },
+        {
+          "en": "The gym bought a new stationary bike for every room so that members can exercise while watching television.",
+          "zh": "健身房在每個房間都買了一台新的固定式健身車，讓會員可以邊看電視邊運動。"
+        },
+        {
+          "en": "Prices have remained stationary for six months, but experts expect them to rise next year.",
+          "zh": "價格已經持平六個月了，但專家預期明年會上漲。"
+        },
+        {
+          "en": "Please keep the machine stationary while the technician is checking the motor and other parts inside it.",
+          "zh": "技術人員在檢查機器內部馬達和其他零件時，請讓機器保持靜止。"
+        }
+      ],
+      "distractors": [
+        "stationery",
+        "statutory",
+        "visionary"
+      ],
+      "note": "語塊：remain stationary（保持靜止）、stationary vehicle（靜止的車輛）、stationary bike（固定式健身車）。stationary（靜止的）和 stationery（文具）發音一樣、拼法只差一個字母，很容易考。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supplement",
+      "word": "supplement",
+      "pos": "名詞",
+      "meaning": "補充；補給品；增刊",
+      "sentences": [
+        {
+          "en": "Many office workers take a dietary supplement because they do not have time to eat healthy meals.",
+          "zh": "很多上班族吃營養補充品，因為他們沒時間吃健康的餐點。"
+        },
+        {
+          "en": "The report includes a supplement to the main document that explains the new safety rules.",
+          "zh": "報告附有一份主要文件的補充資料，說明新的安全規定。"
+        },
+        {
+          "en": "The pharmacy is having a sale this week, and every vitamin supplement on the shelf is thirty percent off.",
+          "zh": "藥局這週特價，架上的每一種維他命補充品都打七折。"
+        },
+        {
+          "en": "The newspaper publishes a special supplement about travel, food, and culture for its readers every Sunday morning.",
+          "zh": "報紙每週日早上都會為讀者出一份關於旅遊、美食和文化的特別增刊。"
+        },
+        {
+          "en": "Doctors say that a vitamin supplement cannot replace a healthy diet with fresh fruit and vegetables.",
+          "zh": "醫生說維他命補充品無法取代有新鮮蔬果的健康飲食。"
+        }
+      ],
+      "distractors": [
+        "complement",
+        "implement",
+        "settlement"
+      ],
+      "note": "語塊：dietary supplement（營養補充品）、supplement to（……的補充）、vitamin supplement（維他命補充品）。supplement 可以當名詞或動詞「補充」；supply 是「供應」；complement 是「互補」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-no-way",
+      "word": "in no way",
+      "pos": "副詞",
+      "meaning": "絕不；一點也不",
+      "sentences": [
+        {
+          "en": "The company is in no way responsible for items that are left in the lockers overnight.",
+          "zh": "公司對放在置物櫃過夜的物品不負任何責任。"
+        },
+        {
+          "en": "The new policy will in no way affect the salaries or holidays of current employees.",
+          "zh": "新規定絕不會影響現有員工的薪水或假期。"
+        },
+        {
+          "en": "The delay was in no way caused by our staff, but we still apologize to all of our customers.",
+          "zh": "延誤絕不是我們員工造成的，但我們還是向所有顧客道歉。"
+        },
+        {
+          "en": "The hotel is in no way responsible for any loss or damage to cars in the parking lot.",
+          "zh": "飯店對停車場內車輛的任何遺失或損壞一概不負責任。"
+        },
+        {
+          "en": "The changes to the schedule will in no way affect the quality of the service we provide.",
+          "zh": "時程的變動絕不會影響我們提供的服務品質。"
+        }
+      ],
+      "distractors": [
+        "in any way",
+        "in a way",
+        "by the way"
+      ],
+      "note": "語塊：in no way responsible（一點責任也沒有）、in no way affect（絕不影響）。in no way 是加強否定的說法；放在句首時要倒裝（In no way is this…）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-breathe",
+      "word": "breathe",
+      "pos": "動詞",
+      "meaning": "呼吸",
+      "sentences": [
+        {
+          "en": "Employees are encouraged to take a walk at lunch to breathe fresh air and relax for a few minutes.",
+          "zh": "公司鼓勵員工午休散步，呼吸新鮮空氣，放鬆幾分鐘。"
+        },
+        {
+          "en": "The new air system helps people breathe easily even when the office is full of people.",
+          "zh": "新的空調系統讓辦公室即使人很多，大家也能輕鬆呼吸。"
+        },
+        {
+          "en": "The yoga instructor told the class to breathe in slowly and hold it for five seconds.",
+          "zh": "瑜伽老師請全班慢慢吸氣，憋住五秒。"
+        },
+        {
+          "en": "Workers must wear masks in the factory so that they do not breathe in dust or chemicals.",
+          "zh": "工人在工廠必須戴口罩，以免吸入灰塵或化學物質。"
+        },
+        {
+          "en": "After the contract was finally signed, the whole sales team could breathe easily again and enjoy their weekend.",
+          "zh": "合約終於簽下後，整個業務團隊才終於可以鬆一口氣，好好享受週末。"
+        }
+      ],
+      "distractors": [
+        "breath",
+        "breed",
+        "bathe"
+      ],
+      "note": "語塊：breathe in（吸氣）、breathe fresh air（呼吸新鮮空氣）、breathe easily（輕鬆呼吸；放心）。breathe 是動詞（字尾有 e）；breath 是名詞「呼吸」，發音也不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surveillance",
+      "word": "surveillance",
+      "pos": "名詞",
+      "meaning": "監視；監控",
+      "sentences": [
+        {
+          "en": "The store installed a surveillance camera above every entrance after several items were stolen last month.",
+          "zh": "上個月好幾件商品被偷後，那家店在每個入口上方都裝了監視器。"
+        },
+        {
+          "en": "The parking lot is under surveillance twenty-four hours a day, so customers can leave their cars safely.",
+          "zh": "停車場二十四小時都在監控之下，所以顧客可以放心停車。"
+        },
+        {
+          "en": "The bank uses video surveillance in every branch to protect both its customers and its employees from crime.",
+          "zh": "銀行在每家分行都使用影像監控，保護顧客和員工免於犯罪。"
+        },
+        {
+          "en": "Visitors should know that the whole building is under surveillance and that all recordings are kept for thirty days.",
+          "zh": "訪客應該知道整棟大樓都在監控之下，所有錄影會保存三十天。"
+        },
+        {
+          "en": "The security team checks the surveillance camera footage every morning to make sure nothing unusual happened overnight.",
+          "zh": "保全團隊每天早上都會檢查監視器畫面，確認夜裡沒有發生異常的事。"
+        }
+      ],
+      "distractors": [
+        "survey",
+        "supervision",
+        "survival"
+      ],
+      "note": "語塊：surveillance camera（監視器）、under surveillance（受到監控）、video surveillance（影像監控）。surveillance 是「（長時間）監看」；survey 是「調查」；supervision 是「監督」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-virtually",
+      "word": "virtually",
+      "pos": "副詞",
+      "meaning": "幾乎；實際上",
+      "sentences": [
+        {
+          "en": "It is virtually impossible to find a parking space downtown on Saturday afternoon, so please take the subway.",
+          "zh": "週六下午在市中心幾乎不可能找到停車位，所以請搭地鐵。"
+        },
+        {
+          "en": "Virtually all of the tickets for the concert were sold within the first hour after they went on sale online.",
+          "zh": "演唱會的票開賣後第一個小時內幾乎全部賣光。"
+        },
+        {
+          "en": "Virtually every employee in the company attended the training session on the new computer system last week.",
+          "zh": "公司幾乎每位員工上週都參加了新電腦系統的訓練課程。"
+        },
+        {
+          "en": "The new machine is so quiet that it is virtually impossible to hear it, even when you stand right next to it.",
+          "zh": "新機器非常安靜，即使站在旁邊也幾乎聽不到。"
+        },
+        {
+          "en": "Our products are now available in virtually every supermarket in the country, from large cities to small towns.",
+          "zh": "我們的產品現在在全國幾乎每家超市都買得到，從大城市到小鎮都有。"
+        }
+      ],
+      "distractors": [
+        "visually",
+        "actually",
+        "eventually"
+      ],
+      "note": "語塊：virtually impossible（幾乎不可能）、virtually all（幾乎全部）、virtually every（幾乎每個）。virtually 在多益常是「幾乎」（= almost）；virtual 是「虛擬的；實質上的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-security-personnel",
+      "word": "security personnel",
+      "pos": "名詞",
+      "meaning": "保全人員",
+      "sentences": [
+        {
+          "en": "All visitors must show a photo ID to the security personnel at the front entrance before entering the building.",
+          "zh": "所有訪客進入大樓前，都必須向正門的保全人員出示有照片的證件。"
+        },
+        {
+          "en": "The concert organizers will hire security personnel to make sure the event is safe for everyone who attends.",
+          "zh": "演唱會主辦單位會雇用保全人員，確保活動對每位參加者都很安全。"
+        },
+        {
+          "en": "If you see a bag that has been left alone, please tell the security personnel at the information desk immediately.",
+          "zh": "如果你看到有人遺留的包包，請立刻告訴服務台的保全人員。"
+        },
+        {
+          "en": "The bank decided to hire security personnel for every branch after a series of robberies in the area.",
+          "zh": "這一區發生一連串搶案後，銀行決定為每家分行雇用保全人員。"
+        },
+        {
+          "en": "Security personnel will check every bag at the stadium entrance, so please arrive at least an hour early.",
+          "zh": "保全人員會在體育場入口檢查每一個包包，所以請至少提早一小時到。"
+        }
+      ],
+      "distractors": [
+        "security guard",
+        "security deposit",
+        "security system"
+      ],
+      "note": "語塊：security personnel at（……的保全人員）、hire security personnel（雇用保全人員）。personnel 是「（全體）人員」，是複數概念；personal 是「個人的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bar",
+      "word": "bar",
+      "pos": "動詞",
+      "meaning": "禁止；阻擋",
+      "sentences": [
+        {
+          "en": "The new rule will bar anyone who is not an employee from entering the factory without a visitor pass.",
+          "zh": "新規定將禁止任何不是員工的人在沒有訪客證的情況下進入工廠。"
+        },
+        {
+          "en": "The city decided to bar large trucks from the downtown area during rush hour to reduce traffic jams.",
+          "zh": "市政府決定在尖峰時段禁止大卡車進入市中心，以減少塞車。"
+        },
+        {
+          "en": "The league will bar players who break the rules more than twice from taking part in the next tournament.",
+          "zh": "聯盟將禁止違規超過兩次的選手參加下一場比賽。"
+        },
+        {
+          "en": "The police had to bar entry to the street for several hours because of a gas leak in one of the buildings.",
+          "zh": "因為其中一棟大樓瓦斯外洩，警方必須封鎖那條街好幾個小時。"
+        },
+        {
+          "en": "The club may bar members who do not pay their annual fee from using the swimming pool and the gym.",
+          "zh": "俱樂部可能會禁止沒繳年費的會員使用游泳池和健身房。"
+        }
+      ],
+      "distractors": [
+        "ban",
+        "bark",
+        "bare"
+      ],
+      "note": "語塊：bar from（禁止……進入／做）、bar entry（禁止進入）。bar 當動詞是「禁止、阻擋」（be barred from）；當名詞是「酒吧；棒；條」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-investor",
+      "word": "investor",
+      "pos": "名詞",
+      "meaning": "投資人",
+      "sentences": [
+        {
+          "en": "The start-up hopes to attract an investor from Silicon Valley who can help it expand into the American market.",
+          "zh": "那家新創公司希望吸引一位矽谷的投資人，幫助它擴展到美國市場。"
+        },
+        {
+          "en": "Every foreign investor who buys land in the country must get permission from the government first.",
+          "zh": "每位在這個國家買地的外國投資人都必須先得到政府的許可。"
+        },
+        {
+          "en": "Mr. Sato is a major investor in the new hotel, and he will attend the opening ceremony next month.",
+          "zh": "佐藤先生是新飯店的主要投資人，他下個月會參加開幕典禮。"
+        },
+        {
+          "en": "The CEO will meet with each major investor this week to explain why profits fell in the third quarter.",
+          "zh": "執行長本週會和每位主要投資人見面，說明第三季獲利下滑的原因。"
+        },
+        {
+          "en": "The company lowered its prices on new apartments to attract a foreign investor before the end of the year.",
+          "zh": "公司降低了新公寓的價格，希望在年底前吸引外國投資人。"
+        }
+      ],
+      "distractors": [
+        "inventor",
+        "investigator",
+        "instructor"
+      ],
+      "note": "語塊：attract investors（吸引投資人）、foreign investor（外國投資人）、major investor（主要投資人）。investor 是「投資的人」；invest 是動詞（invest in）；investment 是「投資（名詞）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-purchase",
+      "word": "purchase",
+      "pos": "動詞",
+      "meaning": "購買",
+      "sentences": [
+        {
+          "en": "Customers who purchase online before midnight on Friday will receive free shipping on all of their orders.",
+          "zh": "週五午夜前上網購買的顧客，所有訂單都享免運費。"
+        },
+        {
+          "en": "Please keep your receipt after you make a purchase, because you will need it if you want to return the item later.",
+          "zh": "購買後請保留收據，因為之後如果想退貨會需要它。"
+        },
+        {
+          "en": "Please send the purchase order to the supplier by Wednesday so that the materials arrive before the end of the month.",
+          "zh": "請在週三前把採購單寄給供應商，讓材料在月底前送到。"
+        },
+        {
+          "en": "The company plans to purchase three new delivery trucks to handle the increase in online orders.",
+          "zh": "公司計畫購買三台新貨車，以應付網路訂單的增加。"
+        },
+        {
+          "en": "Members who make a purchase of more than fifty dollars will receive a free gift at the counter.",
+          "zh": "購買金額超過五十元的會員可以在櫃台領取一份免費禮物。"
+        }
+      ],
+      "distractors": [
+        "pursue",
+        "purpose",
+        "perches"
+      ],
+      "note": "語塊：purchase online（網購）、make a purchase（購買）、purchase order（採購單）。purchase 比 buy 正式，可以當動詞或名詞；proof of purchase 是「購買證明」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-trend",
+      "word": "trend",
+      "pos": "名詞",
+      "meaning": "趨勢；潮流",
+      "sentences": [
+        {
+          "en": "Our analysts study the market trend every month so that we can change our products to meet customer needs.",
+          "zh": "我們的分析師每個月研究市場趨勢，讓我們能調整產品以符合顧客需求。"
+        },
+        {
+          "en": "The current trend is for young people to rent apartments in the city instead of buying houses in the suburbs.",
+          "zh": "目前的趨勢是年輕人在城市租公寓，而不是在郊區買房子。"
+        },
+        {
+          "en": "Many small clothing stores try to follow a trend quickly, but it is difficult to compete with large brands.",
+          "zh": "很多小服飾店試著快速跟上潮流，但很難和大品牌競爭。"
+        },
+        {
+          "en": "The report shows a clear trend toward online shopping, especially among customers between twenty and forty years old.",
+          "zh": "報告顯示網路購物的明顯趨勢，特別是二十到四十歲的顧客。"
+        },
+        {
+          "en": "If the current trend continues, electric cars will make up half of all new car sales within ten years.",
+          "zh": "如果目前的趨勢持續，電動車十年內將占新車銷量的一半。"
+        }
+      ],
+      "distractors": [
+        "tread",
+        "tend",
+        "tremor"
+      ],
+      "note": "語塊：market trend（市場趨勢）、current trend（目前的趨勢）、follow a trend（跟隨潮流）。trend 是「趨勢、流行」；trendy 是形容詞「時髦的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-financial",
+      "word": "financial",
+      "pos": "形容詞",
+      "meaning": "財務的；金融的",
+      "sentences": [
+        {
+          "en": "The company will publish its financial report for the third quarter on its website next Tuesday morning.",
+          "zh": "公司下週二早上會在網站上公布第三季的財務報告。"
+        },
+        {
+          "en": "The museum received financial support from several local businesses to repair its roof before the winter.",
+          "zh": "博物館獲得幾家當地企業的財務支援，在冬天前修理屋頂。"
+        },
+        {
+          "en": "Many people talk to a financial advisor before they decide how to invest the money they have saved.",
+          "zh": "很多人在決定如何投資存下來的錢之前，會先找理財顧問談。"
+        },
+        {
+          "en": "The new financial software makes it easier for small businesses to track their income and expenses every month.",
+          "zh": "新的財務軟體讓小公司更容易每個月追蹤收入和支出。"
+        },
+        {
+          "en": "The government offers financial support to students who cannot afford to pay for their university education.",
+          "zh": "政府為付不起大學學費的學生提供財務支援。"
+        }
+      ],
+      "distractors": [
+        "official",
+        "beneficial",
+        "finical"
+      ],
+      "note": "語塊：financial report（財務報告）、financial support（財務支援）、financial advisor（理財顧問）。financial 是 finance（財務）的形容詞；financially 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-due-to",
+      "word": "due to",
+      "pos": "介系詞",
+      "meaning": "由於；因為",
+      "sentences": [
+        {
+          "en": "The outdoor concert was canceled due to the weather, and all tickets will be refunded within two weeks.",
+          "zh": "戶外演唱會因為天氣取消，所有門票會在兩週內退款。"
+        },
+        {
+          "en": "Due to a delay at the factory, your order will arrive three days later than we originally promised.",
+          "zh": "由於工廠延誤，您的訂單會比原先承諾的晚三天送到。"
+        },
+        {
+          "en": "Due to high demand, the new phone is out of stock in most stores until the end of the month.",
+          "zh": "由於需求很高，新手機在大部分店家都缺貨到月底。"
+        },
+        {
+          "en": "The meeting was moved to Friday due to the manager's business trip to Singapore this week.",
+          "zh": "因為經理這週要去新加坡出差，會議改到週五。"
+        },
+        {
+          "en": "Prices of fresh vegetables have increased due to the weather, which has been unusually dry this summer.",
+          "zh": "由於今年夏天異常乾燥的天氣，新鮮蔬菜的價格上漲了。"
+        }
+      ],
+      "distractors": [
+        "thanks to",
+        "owing to",
+        "according to"
+      ],
+      "note": "語塊：due to the weather（由於天氣）、due to a delay（由於延誤）、due to high demand（由於需求高）。due to 後面接名詞（due to the rain）；接句子要用 because；be due 也有「預定、到期」的意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unexpected",
+      "word": "unexpected",
+      "pos": "形容詞",
+      "meaning": "意外的；出乎意料的",
+      "sentences": [
+        {
+          "en": "We apologize for the unexpected delay and will do our best to deliver your order as soon as possible.",
+          "zh": "我們為意外的延誤致歉，會盡力盡快送達您的訂單。"
+        },
+        {
+          "en": "The engineers found an unexpected problem with the software just one day before it was supposed to launch.",
+          "zh": "工程師在軟體預定上線的前一天發現了意料之外的問題。"
+        },
+        {
+          "en": "The survey produced an unexpected result, since most customers preferred the cheaper version of the product.",
+          "zh": "調查得到意外的結果，因為大部分顧客比較喜歡便宜版本的產品。"
+        },
+        {
+          "en": "Because of an unexpected increase in orders, the factory had to ask workers to work on Saturdays.",
+          "zh": "因為訂單意外增加，工廠不得不請工人週六上班。"
+        },
+        {
+          "en": "Please keep some money in the budget for any unexpected problem that may happen during the project.",
+          "zh": "請在預算裡保留一些錢，應付專案期間可能發生的任何意料之外的問題。"
+        }
+      ],
+      "distractors": [
+        "unaffected",
+        "unexplained",
+        "unprotected"
+      ],
+      "note": "語塊：unexpected delay（意外的延誤）、unexpected problem（意料之外的問題）、unexpected result（意外的結果）。unexpected 是「沒預料到的」；unexpectedly 是副詞；expected 是「預期的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
