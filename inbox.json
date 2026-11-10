@@ -78068,6 +78068,706 @@
       ],
       "note": "語塊：settle on a date（決定日期）、settle on a name（決定名字）、finally settle on（最後選定）。settle on 是「經過考慮後選定」；decide on 意思接近；settle down 是「安頓下來」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-responsibly",
+      "word": "responsibly",
+      "pos": "副詞",
+      "meaning": "負責任地",
+      "sentences": [
+        {
+          "en": "Companies must act responsibly and make sure their factories do not pollute the rivers nearby.",
+          "zh": "公司必須負責任地行事，確保工廠不會污染附近的河川。"
+        },
+        {
+          "en": "Please use the company credit card responsibly and keep every receipt for the accounting department.",
+          "zh": "請負責任地使用公司信用卡，並為會計部保留每張收據。"
+        },
+        {
+          "en": "Old batteries should be disposed of responsibly at the special recycling box near the entrance.",
+          "zh": "舊電池應該妥善丟到入口附近的專用回收箱。"
+        },
+        {
+          "en": "The store encourages customers to shop responsibly by bringing their own bags instead of buying plastic ones.",
+          "zh": "那家店鼓勵顧客自備購物袋而不是買塑膠袋，負責任地購物。"
+        },
+        {
+          "en": "Young employees are given more freedom when they show that they can work responsibly without supervision.",
+          "zh": "年輕員工表現出在沒人監督下也能負責任地工作時，會得到更多自由。"
+        }
+      ],
+      "distractors": [
+        "reasonably",
+        "respectively",
+        "responsively"
+      ],
+      "note": "語塊：act responsibly（負責任地行事）、use responsibly（負責任地使用）、dispose of responsibly（妥善處理）。responsibly 是 responsible（負責的）的副詞；carefully 是「小心地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-redecorate",
+      "word": "redecorate",
+      "pos": "動詞",
+      "meaning": "重新裝潢",
+      "sentences": [
+        {
+          "en": "The hotel will redecorate all of its rooms next year with new carpets, curtains, and furniture.",
+          "zh": "飯店明年將用新地毯、窗簾和家具重新裝潢所有房間。"
+        },
+        {
+          "en": "We plan to redecorate the office during the holiday so that employees can enjoy a fresh look in January.",
+          "zh": "我們打算在假期期間重新裝潢辦公室，讓員工一月時有個煥然一新的環境。"
+        },
+        {
+          "en": "The restaurant closed for two weeks to redecorate the dining area and add more tables.",
+          "zh": "那家餐廳休息兩週，重新裝潢用餐區並增加桌子。"
+        },
+        {
+          "en": "Many families redecorate their homes before the new year to celebrate a fresh start with their relatives.",
+          "zh": "很多家庭在新年前重新布置家裡，和親戚一起慶祝新的開始。"
+        },
+        {
+          "en": "The company hired a designer to redecorate the reception area so that clients have a good first impression.",
+          "zh": "公司雇用設計師重新裝潢接待區，讓客戶有好的第一印象。"
+        }
+      ],
+      "distractors": [
+        "renovate",
+        "relocate",
+        "rededicate"
+      ],
+      "note": "語塊：redecorate the office（重新裝潢辦公室）、redecorate all of its rooms（重新裝潢所有房間）、redecorate the dining area（重新裝潢用餐區）、redecorate their homes（重新布置家裡）、redecorate the reception area（重新裝潢接待區）。redecorate 是「重新油漆、換家具和裝飾」；renovate 範圍更大，常包括結構整修。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-discretion",
+      "word": "discretion",
+      "pos": "名詞",
+      "meaning": "斟酌決定權；謹慎",
+      "sentences": [
+        {
+          "en": "Refunds for items without a receipt are given at the store manager's discretion, depending on the situation.",
+          "zh": "沒有收據的商品是否退款，由店長視情況斟酌決定。"
+        },
+        {
+          "en": "Please use discretion when you talk about the new project, because it has not been announced yet.",
+          "zh": "談到新專案時請謹慎，因為還沒有公布。"
+        },
+        {
+          "en": "Bonuses are paid at the discretion of the board, depending on the company's profits for the year.",
+          "zh": "獎金由董事會依公司當年獲利斟酌發放。"
+        },
+        {
+          "en": "The hotel staff are trained to handle guests' personal information with great discretion at all times.",
+          "zh": "飯店員工受過訓練，會隨時非常謹慎地處理客人的個人資料。"
+        },
+        {
+          "en": "Late applications may be accepted at the discretion of the committee if there is a good reason.",
+          "zh": "如果有充分理由，逾期申請可由委員會斟酌接受。"
+        }
+      ],
+      "distractors": [
+        "discussion",
+        "direction",
+        "distraction"
+      ],
+      "note": "語塊：at one's discretion（由……斟酌決定）、use discretion（謹慎處理）。discretion 是「自己判斷決定的權力」或「小心不張揚」；discreet 是形容詞「謹慎的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-medical-insurance",
+      "word": "medical insurance",
+      "pos": "名詞",
+      "meaning": "醫療保險",
+      "sentences": [
+        {
+          "en": "The company will provide medical insurance for all full-time employees and their families starting next month.",
+          "zh": "公司從下個月開始會為所有正職員工和他們的家人提供醫療保險。"
+        },
+        {
+          "en": "The new medical insurance plan covers the cost of visits to the dentist and the eye doctor.",
+          "zh": "新的醫療保險方案涵蓋看牙醫和眼科醫生的費用。"
+        },
+        {
+          "en": "Foreign students must buy medical insurance before they start their studies at the university in September.",
+          "zh": "外國學生在九月大學開始上課前必須購買醫療保險。"
+        },
+        {
+          "en": "Please bring your medical insurance card when you visit the hospital, or you will have to pay the full price.",
+          "zh": "看醫院時請帶醫療保險卡，否則你得付全額。"
+        },
+        {
+          "en": "Good medical insurance is one of the most important benefits that workers look for in a new job.",
+          "zh": "好的醫療保險是員工找新工作時最重視的福利之一。"
+        }
+      ],
+      "distractors": [
+        "life insurance",
+        "car insurance",
+        "travel insurance"
+      ],
+      "note": "語塊：provide medical insurance（提供醫療保險）、medical insurance plan（醫療保險方案）、buy medical insurance（買醫療保險）、medical insurance card（醫療保險卡）、good medical insurance（好的醫療保險）。insurance 是「保險」；health insurance 意思一樣；insure 是動詞「投保」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-grievance",
+      "word": "grievance",
+      "pos": "名詞",
+      "meaning": "不滿；申訴",
+      "sentences": [
+        {
+          "en": "Workers who feel they have been treated unfairly can file a grievance with the human resources department.",
+          "zh": "覺得被不公平對待的員工可以向人資部提出申訴。"
+        },
+        {
+          "en": "The employee handbook explains the grievance procedure step by step, so every worker knows what to do.",
+          "zh": "員工手冊一步步說明申訴程序，讓每位員工都知道該怎麼做。"
+        },
+        {
+          "en": "The manager listened carefully to the employee grievance and promised to look into the problem.",
+          "zh": "經理仔細聆聽員工的申訴，並答應調查這個問題。"
+        },
+        {
+          "en": "The union helps members file a grievance if the company does not follow the agreement.",
+          "zh": "如果公司不遵守協議，工會會協助會員提出申訴。"
+        },
+        {
+          "en": "Every grievance will be handled privately, and the employee's name will not be shared with others.",
+          "zh": "每一件申訴都會私下處理，員工的名字不會告訴其他人。"
+        }
+      ],
+      "distractors": [
+        "grievous",
+        "relevance",
+        "allowance"
+      ],
+      "note": "語塊：file a grievance（提出申訴）、grievance procedure（申訴程序）、employee grievance（員工申訴）。grievance 是「覺得被不公平對待而提出的抱怨」；complaint 意思接近；grief 是「悲傷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alternatively",
+      "word": "alternatively",
+      "pos": "副詞",
+      "meaning": "或者；另外一種方式是",
+      "sentences": [
+        {
+          "en": "You can pay by credit card at the counter; alternatively, you can pay online before you arrive.",
+          "zh": "你可以在櫃台刷卡付款；或者，你也可以在抵達前線上付款。"
+        },
+        {
+          "en": "The train is the fastest way to get there, but alternatively you can take the bus, which is much cheaper.",
+          "zh": "搭火車是去那裡最快的方式，但你也可以改搭公車，便宜很多。"
+        },
+        {
+          "en": "We could hold the meeting in the office; alternatively, we could meet the client at a café downtown.",
+          "zh": "我們可以在辦公室開會；或者，也可以在市中心的咖啡廳和客戶見面。"
+        },
+        {
+          "en": "Customers can return the item by mail; alternatively, they can bring it to any of our stores.",
+          "zh": "顧客可以郵寄退貨；或者，也可以帶到我們任何一家分店。"
+        },
+        {
+          "en": "If the hotel is full, alternatively you could stay at a guesthouse near the station for a lower price.",
+          "zh": "如果飯店客滿，你也可以改住車站附近的民宿，價格比較便宜。"
+        }
+      ],
+      "distractors": [
+        "alternately",
+        "additionally",
+        "accordingly"
+      ],
+      "note": "語塊：alternatively, …（或者……）。alternatively 用來提出「另一個選擇」；otherwise 是「否則」；instead 是「作為替代」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-payable",
+      "word": "payable",
+      "pos": "形容詞",
+      "meaning": "應付的；可支付的",
+      "sentences": [
+        {
+          "en": "Please make the check payable to the company, not to the name of the sales representative.",
+          "zh": "支票抬頭請開公司，不要寫業務代表的名字。"
+        },
+        {
+          "en": "The full amount is payable by the end of the month, and a late fee will be added after that.",
+          "zh": "全額須在月底前支付，之後會加收滯納金。"
+        },
+        {
+          "en": "Ms. Lin works in accounts payable and makes sure that every supplier is paid on time.",
+          "zh": "林小姐負責應付帳款，確保每家供應商都準時收到款項。"
+        },
+        {
+          "en": "The rent is payable on the first day of each month by bank transfer or cash.",
+          "zh": "房租須在每月一日以銀行轉帳或現金支付。"
+        },
+        {
+          "en": "The deposit is payable when you sign the contract, and the rest of the money is due on completion.",
+          "zh": "訂金在簽約時支付，其餘款項在完工時付清。"
+        }
+      ],
+      "distractors": [
+        "playable",
+        "portable",
+        "probable"
+      ],
+      "note": "語塊：payable to（付款給……）、payable by（須在……前支付）、accounts payable（應付帳款）。payable 是「需要付或可以付的」；pay 是動詞「付」；payment 是名詞「付款」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-normally",
+      "word": "normally",
+      "pos": "副詞",
+      "meaning": "通常；正常地",
+      "sentences": [
+        {
+          "en": "The store normally opens at nine o'clock, but it will open at eight during the holiday sale.",
+          "zh": "那家店通常九點開門，但假期特賣期間會八點開。"
+        },
+        {
+          "en": "It normally takes about three days for orders to arrive, but it may take longer during bad weather.",
+          "zh": "訂單通常大約三天送達，但天氣不好時可能會更久。"
+        },
+        {
+          "en": "The machine is working normally again after the technician replaced the broken part this morning.",
+          "zh": "技術人員今天早上更換壞掉的零件後，機器又正常運作了。"
+        },
+        {
+          "en": "Ms. Lee normally takes the subway to work, but today she drove because of the heavy rain.",
+          "zh": "李小姐通常搭地鐵上班，但今天因為大雨開車。"
+        },
+        {
+          "en": "The meeting normally lasts one hour, but today it may finish early because several people are absent.",
+          "zh": "會議通常一小時，但今天好幾個人缺席，可能會提早結束。"
+        }
+      ],
+      "distractors": [
+        "formally",
+        "nominally",
+        "morally"
+      ],
+      "note": "語塊：normally take（通常要花）、work normally（正常運作）。normally 是「平常、一般情況下」；usually 意思接近；normal 是形容詞「正常的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conglomerate",
+      "word": "conglomerate",
+      "pos": "名詞",
+      "meaning": "企業集團",
+      "sentences": [
+        {
+          "en": "The hotel is owned by a large conglomerate that also runs airlines, banks, and shopping malls.",
+          "zh": "那家飯店屬於一個大型企業集團，旗下還經營航空公司、銀行和購物中心。"
+        },
+        {
+          "en": "The small software company was bought by an international conglomerate for two hundred million dollars.",
+          "zh": "那家小軟體公司被一個跨國集團以兩億元收購。"
+        },
+        {
+          "en": "Working for a large conglomerate gives employees the chance to move between many different industries.",
+          "zh": "在大型企業集團工作讓員工有機會在很多不同產業之間轉換。"
+        },
+        {
+          "en": "The conglomerate announced plans to sell its food business and focus on technology and energy.",
+          "zh": "那個企業集團宣布計畫出售食品事業，專注於科技和能源。"
+        },
+        {
+          "en": "Many small shops find it difficult to compete with a large conglomerate that can offer lower prices.",
+          "zh": "很多小店很難和能提供更低價格的大型企業集團競爭。"
+        }
+      ],
+      "distractors": [
+        "congregate",
+        "conglomeration",
+        "collaborate"
+      ],
+      "note": "語塊：large conglomerate（大型企業集團）、international conglomerate（跨國集團）。conglomerate 是「擁有很多不同產業公司的大集團」；corporation 是「公司」；subsidiary 是「子公司」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-press-release",
+      "word": "press release",
+      "pos": "名詞",
+      "meaning": "新聞稿",
+      "sentences": [
+        {
+          "en": "The company will issue a press release tomorrow to announce the opening of its new factory in Vietnam.",
+          "zh": "公司明天將發布新聞稿，宣布越南新工廠開幕。"
+        },
+        {
+          "en": "Ms. Chen was asked to write a press release about the award that the team won last week.",
+          "zh": "陳小姐被要求撰寫一篇關於團隊上週獲獎的新聞稿。"
+        },
+        {
+          "en": "According to the press release, the new phone will be available in stores at the end of the month.",
+          "zh": "根據新聞稿，新手機將在月底上市。"
+        },
+        {
+          "en": "Please send the press release to every newspaper and television station in the city before noon.",
+          "zh": "請在中午前把新聞稿寄給市內每家報社和電視台。"
+        },
+        {
+          "en": "The press release explains why the company decided to restructure its offices in Europe this year.",
+          "zh": "新聞稿說明公司今年為什麼決定重組歐洲辦公室。"
+        }
+      ],
+      "distractors": [
+        "press conference",
+        "news report",
+        "press pass"
+      ],
+      "note": "語塊：issue a press release（發布新聞稿）、write a press release（撰寫新聞稿）、according to the press release（根據新聞稿）、send the press release（寄出新聞稿）、the press release explains（新聞稿說明）。press release 是公司發給媒體的「正式公告」；press conference 是「記者會」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ministry",
+      "word": "ministry",
+      "pos": "名詞",
+      "meaning": "（政府的）部",
+      "sentences": [
+        {
+          "en": "The Ministry of Education announced that all schools will offer free lunches starting next year.",
+          "zh": "教育部宣布從明年開始所有學校都將提供免費午餐。"
+        },
+        {
+          "en": "A ministry official will visit the factory next week to check whether it follows the new safety rules.",
+          "zh": "一位部會官員下週會來工廠檢查是否遵守新的安全規定。"
+        },
+        {
+          "en": "The company needs approval from the government ministry before it can sell the new medicine.",
+          "zh": "公司必須取得政府部會的核准，才能販售新藥。"
+        },
+        {
+          "en": "The Ministry of Health is running a campaign to encourage people to exercise more and eat healthy food.",
+          "zh": "衛生部正在推動一項活動，鼓勵民眾多運動、吃健康食物。"
+        },
+        {
+          "en": "Several ministry officials attended the opening ceremony of the new solar plant in the south.",
+          "zh": "好幾位部會官員出席了南部新太陽能電廠的啟用典禮。"
+        }
+      ],
+      "distractors": [
+        "minister",
+        "mystery",
+        "industry"
+      ],
+      "note": "語塊：Ministry of Education（教育部）、ministry official（部會官員）、government ministry（政府部會）。ministry 是政府的「部」；minister 是「部長」；department 在美國政府也指「部」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-province",
+      "word": "province",
+      "pos": "名詞",
+      "meaning": "省；（加拿大等的）省分",
+      "sentences": [
+        {
+          "en": "The company plans to open three new factories in the northern province, where land is cheaper.",
+          "zh": "公司計畫在土地比較便宜的北部省分開三座新工廠。"
+        },
+        {
+          "en": "The festival is one of the most popular events in the province, and it attracts visitors from abroad.",
+          "zh": "那個節慶是省內最受歡迎的活動之一，吸引國外遊客前來。"
+        },
+        {
+          "en": "The government of the province will spend more money on new roads and hospitals next year.",
+          "zh": "省政府明年會投入更多經費興建新道路和醫院。"
+        },
+        {
+          "en": "Each province has its own traditional food, so travelers should try local dishes wherever they go.",
+          "zh": "每個省分都有自己的傳統食物，所以旅客無論去哪裡都應該嚐嚐當地菜。"
+        },
+        {
+          "en": "Ms. Kim grew up in a small town in the province of Ontario before she moved to Toronto.",
+          "zh": "金小姐搬到多倫多之前，在安大略省的一個小鎮長大。"
+        }
+      ],
+      "distractors": [
+        "providence",
+        "provision",
+        "prince"
+      ],
+      "note": "語塊：in the province of（在……省）、northern province（北部省分）。province 是國家裡的大行政區；state 是「州」；region 是「地區」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-award",
+      "word": "award",
+      "pos": "名詞",
+      "meaning": "獎項；獎品",
+      "sentences": [
+        {
+          "en": "The restaurant won an award for the best seafood in the city for the third year in a row.",
+          "zh": "那家餐廳連續第三年贏得市內最佳海鮮獎。"
+        },
+        {
+          "en": "Ms. Park will receive an award for her outstanding work at the company's annual dinner.",
+          "zh": "朴小姐將在公司年度晚宴上因傑出表現獲獎。"
+        },
+        {
+          "en": "The award ceremony will be held at the convention center, and tickets are free for all employees.",
+          "zh": "頒獎典禮將在會議中心舉行，所有員工都可以免費入場。"
+        },
+        {
+          "en": "The young designer was surprised to win an award at the international competition in Milan.",
+          "zh": "那位年輕設計師在米蘭的國際比賽中得獎，感到很驚訝。"
+        },
+        {
+          "en": "Every employee who helps reduce costs this year will be considered for a special award.",
+          "zh": "今年每位協助降低成本的員工都會被列入特別獎的考慮名單。"
+        }
+      ],
+      "distractors": [
+        "reward",
+        "aware",
+        "warden"
+      ],
+      "note": "語塊：win an award（得獎）、receive an award（獲獎）、award ceremony（頒獎典禮）。award 可以當名詞或動詞「頒發」（award sb a prize）；reward 是「獎勵；報酬」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-thrilled",
+      "word": "thrilled",
+      "pos": "形容詞",
+      "meaning": "非常興奮的；非常高興的",
+      "sentences": [
+        {
+          "en": "We are thrilled to announce that our company has won the award for the best new product of the year.",
+          "zh": "我們很興奮地宣布，公司贏得年度最佳新產品獎。"
+        },
+        {
+          "en": "The customers were thrilled with the new menu and asked the chef to keep it all year.",
+          "zh": "顧客對新菜單非常滿意，請主廚全年都保留。"
+        },
+        {
+          "en": "Ms. Lee was thrilled to hear that she had been accepted into the graduate school in London.",
+          "zh": "李小姐聽到自己被倫敦的研究所錄取時非常興奮。"
+        },
+        {
+          "en": "The children were thrilled when the famous athlete visited their school and played basketball with them.",
+          "zh": "知名運動員來學校和孩子們打籃球時，他們非常興奮。"
+        },
+        {
+          "en": "The team is thrilled with the results of the survey, which show that customers love the new service.",
+          "zh": "團隊對調查結果非常滿意，結果顯示顧客很喜歡新服務。"
+        }
+      ],
+      "distractors": [
+        "thrilling",
+        "trilled",
+        "chilled"
+      ],
+      "note": "語塊：be thrilled to（很興奮能……）、be thrilled with（對……非常滿意）。thrilled 是「高興又興奮的」；excited、delighted 意思接近；thrilling 是「令人興奮的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-measure-up",
+      "word": "measure up",
+      "pos": "片語動詞",
+      "meaning": "達到標準；符合期望",
+      "sentences": [
+        {
+          "en": "The new phone did not measure up to the high expectations that customers had after the advertisements.",
+          "zh": "新手機沒有達到顧客看了廣告後的高度期望。"
+        },
+        {
+          "en": "Every product must measure up to our quality standards before it can leave the factory.",
+          "zh": "每件產品都必須達到我們的品質標準才能出廠。"
+        },
+        {
+          "en": "The manager was worried that the new employee would not measure up, but she did an excellent job.",
+          "zh": "經理擔心新員工達不到標準，但她做得非常好。"
+        },
+        {
+          "en": "If the supplier's materials fail to measure up again, we will look for a new company.",
+          "zh": "如果供應商的材料再次未達標準，我們會找新公司。"
+        },
+        {
+          "en": "The new restaurant tries hard to measure up to the famous one that was in the same building before.",
+          "zh": "新餐廳努力要達到之前在同一棟樓那家知名餐廳的水準。"
+        }
+      ],
+      "distractors": [
+        "live up to",
+        "make up",
+        "match up"
+      ],
+      "note": "語塊：measure up to（達到……的標準）、fail to measure up（未能達到標準）。measure up 是「夠好、達到要求」；live up to 意思接近；measure 是「測量；措施」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-up-front",
+      "word": "up front",
+      "pos": "副詞",
+      "meaning": "預先；事先（付款）",
+      "sentences": [
+        {
+          "en": "The hotel asks guests to pay up front for the first night when they make a reservation online.",
+          "zh": "飯店要求客人在網路訂房時先預付第一晚的費用。"
+        },
+        {
+          "en": "Be careful of companies that ask for money up front before they have done any work.",
+          "zh": "小心那些還沒做任何工作就要求預付款的公司。"
+        },
+        {
+          "en": "Customers who pay up front for a full year of the service will receive two months for free.",
+          "zh": "預付整年服務費的顧客可以免費多得兩個月。"
+        },
+        {
+          "en": "The contractor wants half of the money up front and the rest when the work is finished.",
+          "zh": "承包商要求先預付一半的錢，剩下的完工後再付。"
+        },
+        {
+          "en": "Please tell the client up front that the price may change if the cost of materials increases.",
+          "zh": "請事先告訴客戶，如果材料成本上漲，價格可能會變動。"
+        }
+      ],
+      "distractors": [
+        "in front",
+        "up to date",
+        "upward"
+      ],
+      "note": "語塊：pay up front（預付）、ask for money up front（要求預付）。up front 是「事情開始前就先……」；in advance 意思接近；upfront 也可以當形容詞（upfront cost）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-represent",
+      "word": "represent",
+      "pos": "動詞",
+      "meaning": "代表；表示",
+      "sentences": [
+        {
+          "en": "Ms. Park will represent the company at the large international conference in Singapore next month.",
+          "zh": "朴小姐下個月將代表公司出席新加坡的大型國際研討會。"
+        },
+        {
+          "en": "The lawyer will represent our client in court and explain why the contract was not followed.",
+          "zh": "律師將在法庭上代理我們的客戶，說明合約為什麼沒有被履行。"
+        },
+        {
+          "en": "The sales this quarter represent an increase of fifteen percent compared to the same period last year.",
+          "zh": "本季銷售代表比去年同期增加了一成五。"
+        },
+        {
+          "en": "The colors on the map represent different parts of the city, such as parks, schools, and hospitals.",
+          "zh": "地圖上的顏色代表城市的不同部分，例如公園、學校和醫院。"
+        },
+        {
+          "en": "Mr. Lee was chosen to represent the workers at the meeting with the board of directors.",
+          "zh": "李先生被選為代表工人出席和董事會的會議。"
+        }
+      ],
+      "distractors": [
+        "resent",
+        "repent",
+        "present"
+      ],
+      "note": "語塊：represent the company（代表公司）、represent a client（代理客戶）、represent an increase（代表增加）。represent 是「代表某人或某事」；representative 是「代表人；業務代表」；representation 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rave",
+      "word": "rave",
+      "pos": "形容詞",
+      "meaning": "熱烈讚揚的",
+      "sentences": [
+        {
+          "en": "The new restaurant has received rave reviews from food critics and customers since it opened last month.",
+          "zh": "新餐廳上個月開幕以來，獲得美食評論家和顧客的極力好評。"
+        },
+        {
+          "en": "The film got rave reviews at the festival, so it will be shown in theaters all over the country.",
+          "zh": "那部電影在影展上獲得極力好評，所以將在全國戲院上映。"
+        },
+        {
+          "en": "Customers often rave about the friendly staff and the beautiful view from the hotel rooms.",
+          "zh": "顧客常常讚揚飯店親切的員工和房間的美景。"
+        },
+        {
+          "en": "The new phone received rave reviews for its camera, but some people said the battery was too small.",
+          "zh": "新手機的相機獲得極力好評，但有些人說電池太小。"
+        },
+        {
+          "en": "After the rave reviews in the newspaper, the small bakery had a long line outside every morning.",
+          "zh": "報紙刊出極力好評後，那家小麵包店每天早上外面都大排長龍。"
+        }
+      ],
+      "distractors": [
+        "rare",
+        "rage",
+        "raven"
+      ],
+      "note": "語塊：rave reviews（極力好評）。rave 當形容詞常用 rave reviews；當動詞是「熱烈讚揚」（rave about）；raving 是「狂熱的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ranch",
+      "word": "ranch",
+      "pos": "名詞",
+      "meaning": "牧場；大農場",
+      "sentences": [
+        {
+          "en": "The family owns a large cattle ranch in Texas, and they sell beef to restaurants across the country.",
+          "zh": "那家人在德州擁有一座大型養牛牧場，把牛肉賣給全國的餐廳。"
+        },
+        {
+          "en": "Tourists can stay on the horse ranch for a weekend and learn how to ride and take care of horses.",
+          "zh": "觀光客可以在馬場住一個週末，學習騎馬和照顧馬。"
+        },
+        {
+          "en": "Mr. Lopez worked on a ranch for ten years before he opened his own restaurant in the city.",
+          "zh": "羅培茲先生在牧場工作了十年，之後才在城裡開了自己的餐廳。"
+        },
+        {
+          "en": "The ranch is located far from the city, so visitors should rent a car to get there.",
+          "zh": "牧場離城市很遠，所以遊客應該租車前往。"
+        },
+        {
+          "en": "The restaurant buys all of its meat from a local ranch that raises its animals in a natural way.",
+          "zh": "那家餐廳所有的肉都向一座以自然方式飼養動物的當地牧場購買。"
+        }
+      ],
+      "distractors": [
+        "branch",
+        "launch",
+        "range"
+      ],
+      "note": "語塊：cattle ranch（養牛牧場）、horse ranch（馬場）、work on a ranch（在牧場工作）。ranch 是美國常見的大型「牧場」；farm 是「農場」；rancher 是「牧場主人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-short-notice",
+      "word": "short notice",
+      "pos": "名詞",
+      "meaning": "臨時通知",
+      "sentences": [
+        {
+          "en": "Thank you for agreeing to attend the meeting at such short notice, because the client changed the date.",
+          "zh": "謝謝您在這麼臨時的通知下同意參加會議，因為客戶改了日期。"
+        },
+        {
+          "en": "The hotel can sometimes find a room on short notice, but it is better to book at least one week ahead.",
+          "zh": "飯店有時候能臨時找到房間，但最好至少提前一週預訂。"
+        },
+        {
+          "en": "Ms. Lee had to travel to Tokyo at short notice because a client needed help with a problem.",
+          "zh": "李小姐必須臨時飛往東京，因為一位客戶需要協助處理問題。"
+        },
+        {
+          "en": "We are sorry to cancel the event at such short notice, but the speaker is sick and cannot come.",
+          "zh": "很抱歉這麼臨時取消活動，但講者生病無法前來。"
+        },
+        {
+          "en": "The restaurant can prepare food for large groups on short notice if you call them in the morning.",
+          "zh": "如果你早上打電話，那家餐廳可以臨時為大團體準備餐點。"
+        }
+      ],
+      "distractors": [
+        "short time",
+        "short cut",
+        "short supply"
+      ],
+      "note": "語塊：at short notice（臨時；突然）、on short notice（臨時通知）。short notice 是「通知的時間很短」；in advance 是「事先」；notice 是「通知；注意」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
