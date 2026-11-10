@@ -64103,6 +64103,706 @@
       ],
       "note": "語塊：in the arrival area（在入境大廳）、meet sb in the arrival area（在入境大廳接人）。arrival 是「抵達」；departure area 是「出境大廳」；baggage claim 是「行李提領處」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-association",
+      "word": "association",
+      "pos": "名詞",
+      "meaning": "協會；關聯",
+      "sentences": [
+        {
+          "en": "The trade association holds a conference every year where members can share news about the industry.",
+          "zh": "同業公會每年舉辦研討會，讓會員分享產業消息。"
+        },
+        {
+          "en": "The festival is organized by the city in association with several local businesses and schools.",
+          "zh": "這個節慶是由市政府與幾家當地企業和學校合作舉辦的。"
+        },
+        {
+          "en": "The study found a strong association between regular exercise and better performance at work among office employees.",
+          "zh": "研究發現上班族規律運動和工作表現較好之間有很強的關聯。"
+        },
+        {
+          "en": "Ms. Grant was elected president of the restaurant association at its annual meeting last month.",
+          "zh": "格蘭特小姐在上個月的年會上被選為餐飲協會會長。"
+        },
+        {
+          "en": "The new training course was developed in association with a famous business school at a university in London.",
+          "zh": "新的訓練課程是與倫敦一所大學的知名商學院合作開發的。"
+        }
+      ],
+      "distractors": [
+        "assumption",
+        "assistance",
+        "accusation"
+      ],
+      "note": "語塊：trade association（同業公會）、in association with（與……合作）、association between（……之間的關聯）。association 是 associate（聯想；結交）的名詞；organization 是「組織」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-speech",
+      "word": "speech",
+      "pos": "名詞",
+      "meaning": "演講；言談",
+      "sentences": [
+        {
+          "en": "The mayor will give a speech at the opening ceremony of the new train station on Monday.",
+          "zh": "市長週一會在新火車站的開幕典禮上致詞。"
+        },
+        {
+          "en": "The CEO's opening speech at the conference focused on the importance of protecting the environment.",
+          "zh": "執行長在研討會的開幕致詞聚焦在保護環境的重要性。"
+        },
+        {
+          "en": "A famous scientist will give the keynote speech at the technology fair in Singapore next month.",
+          "zh": "一位知名科學家下個月將在新加坡的科技展發表主題演講。"
+        },
+        {
+          "en": "Ms. Lin practiced her speech many times so that she would feel confident in front of the audience.",
+          "zh": "林小姐把演講練習了很多次，讓自己在觀眾面前有自信。"
+        },
+        {
+          "en": "The keynote speech will begin at nine o'clock, so please arrive early to find a good seat.",
+          "zh": "主題演講九點開始，所以請提早到找好位子。"
+        }
+      ],
+      "distractors": [
+        "speed",
+        "peach",
+        "spec"
+      ],
+      "note": "語塊：give a speech（演講）、opening speech（開幕致詞）、keynote speech（主題演講）。speech 是名詞；speak 是動詞；speaker 是「講者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contestant",
+      "word": "contestant",
+      "pos": "名詞",
+      "meaning": "參賽者",
+      "sentences": [
+        {
+          "en": "Each contestant in the cooking competition has one hour to prepare a dish using local vegetables.",
+          "zh": "烹飪比賽的每位參賽者有一小時，用在地蔬菜做出一道菜。"
+        },
+        {
+          "en": "The winning contestant will receive five thousand dollars and a chance to work at a famous restaurant.",
+          "zh": "獲勝的參賽者將獲得五千元，以及到知名餐廳工作的機會。"
+        },
+        {
+          "en": "Every contestant who signed up for the singing contest had to wait for hours, so the judges had a long day.",
+          "zh": "每位報名歌唱比賽的參賽者都要等好幾個小時，所以評審忙了一整天。"
+        },
+        {
+          "en": "Every contestant must submit a short video before the deadline in order to take part in the final round.",
+          "zh": "每位參賽者都必須在截止日前提交一段短片，才能參加決賽。"
+        },
+        {
+          "en": "The judges said the winning contestant had the most creative design they had seen in years.",
+          "zh": "評審說獲勝參賽者的設計是他們多年來看過最有創意的。"
+        }
+      ],
+      "distractors": [
+        "consultant",
+        "contractor",
+        "constant"
+      ],
+      "note": "語塊：each contestant（每位參賽者）、winning contestant（獲勝的參賽者）。contestant 是參加比賽的人；contest 是「比賽」；competitor 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-subway-station",
+      "word": "subway station",
+      "pos": "名詞",
+      "meaning": "地鐵站",
+      "sentences": [
+        {
+          "en": "The hotel is only a five-minute walk from the nearest subway station, so it is easy to get around the city.",
+          "zh": "飯店離最近的地鐵站走路只要五分鐘，所以在城裡移動很方便。"
+        },
+        {
+          "en": "Many new cafés and shops have opened near the subway station since the line was extended last year.",
+          "zh": "自從去年地鐵線延伸後，地鐵站附近開了很多新的咖啡廳和商店。"
+        },
+        {
+          "en": "Please take exit three at the subway station and walk straight for about two hundred meters.",
+          "zh": "請在地鐵站三號出口出站，往前直走大約兩百公尺。"
+        },
+        {
+          "en": "The nearest subway station to the stadium will be very crowded after the concert, so please be patient.",
+          "zh": "演唱會結束後，離體育場最近的地鐵站會非常擁擠，所以請耐心等候。"
+        },
+        {
+          "en": "Apartments near the subway station are more expensive, but they save residents a lot of time every day.",
+          "zh": "地鐵站附近的公寓比較貴，但每天能幫住戶省下很多時間。"
+        }
+      ],
+      "distractors": [
+        "bus station",
+        "gas station",
+        "police station"
+      ],
+      "note": "語塊：nearest subway station（最近的地鐵站）、near the subway station（在地鐵站附近）。subway 是美式「地鐵」；英式說 underground 或 tube；metro 也很常用。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-guarantee",
+      "word": "guarantee",
+      "pos": "動詞",
+      "meaning": "保證；擔保",
+      "sentences": [
+        {
+          "en": "We guarantee that your order will arrive within two days, or we will refund the delivery fee.",
+          "zh": "我們保證您的訂單兩天內送達，否則退還運費。"
+        },
+        {
+          "en": "All of our products come with a money-back guarantee, so you can return them within thirty days.",
+          "zh": "我們所有的產品都有退款保證，所以三十天內可以退貨。"
+        },
+        {
+          "en": "The hotel cannot guarantee that a room with a sea view will be available on your arrival date.",
+          "zh": "飯店無法保證您抵達當天一定有海景房。"
+        },
+        {
+          "en": "The new security system will guarantee that only employees can enter the building after eight o'clock.",
+          "zh": "新的保全系統會確保晚上八點以後只有員工能進入大樓。"
+        },
+        {
+          "en": "Hard work does not always guarantee success, but it certainly improves your chances of reaching your goals.",
+          "zh": "努力不一定保證成功，但確實能提高你達成目標的機會。"
+        }
+      ],
+      "distractors": [
+        "guardian",
+        "quarantine",
+        "guard"
+      ],
+      "note": "語塊：guarantee that（保證……）、money-back guarantee（退款保證）、be guaranteed to（保證會……）。guarantee 可以當動詞或名詞（a one-year guarantee）；warranty 是「保固」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stadium",
+      "word": "stadium",
+      "pos": "名詞",
+      "meaning": "體育場；運動場",
+      "sentences": [
+        {
+          "en": "The new football stadium can hold more than sixty thousand fans and has a roof that opens and closes.",
+          "zh": "新的足球場可以容納六萬多名球迷，還有可開關的屋頂。"
+        },
+        {
+          "en": "The concert will be held at an outdoor stadium, so please bring a raincoat in case of bad weather.",
+          "zh": "演唱會在戶外體育場舉行，所以請帶雨衣以防天氣不好。"
+        },
+        {
+          "en": "Workers are replacing all of the stadium seats before the start of the new baseball season.",
+          "zh": "工人正在新棒球季開始前更換所有體育場座位。"
+        },
+        {
+          "en": "Thousands of people walked from the subway station to the stadium before the final game.",
+          "zh": "決賽前，數千人從地鐵站走到體育場。"
+        },
+        {
+          "en": "The city plans to build a new stadium near the river, which will also be used for concerts.",
+          "zh": "市政府計畫在河邊蓋一座新體育場，也會用來辦演唱會。"
+        }
+      ],
+      "distractors": [
+        "studio",
+        "medium",
+        "podium"
+      ],
+      "note": "語塊：football stadium（足球場）、outdoor stadium（戶外體育場）、stadium seats（體育場座位）。stadium 是有觀眾席的大型場地；gymnasium 是室內「體育館」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-push-back",
+      "word": "push back",
+      "pos": "片語動詞",
+      "meaning": "延後；推遲",
+      "sentences": [
+        {
+          "en": "The manager agreed to push back the deadline by one week because the team needed more time.",
+          "zh": "經理同意把截止日延後一週，因為團隊需要更多時間。"
+        },
+        {
+          "en": "We need to push back the meeting to Thursday, because the client's flight was delayed.",
+          "zh": "我們需要把會議延到週四，因為客戶的班機延誤了。"
+        },
+        {
+          "en": "The company had to push back the opening of the new store because the building was not ready.",
+          "zh": "因為大樓還沒準備好，公司不得不延後新店開幕。"
+        },
+        {
+          "en": "If we push back the deadline again, the client may decide to work with another company.",
+          "zh": "如果我們再次延後截止日，客戶可能會決定和別的公司合作。"
+        },
+        {
+          "en": "Bad weather may push back the start of the construction project until the middle of next spring.",
+          "zh": "惡劣天氣可能會讓建設專案延到明年春天中旬才開始。"
+        }
+      ],
+      "distractors": [
+        "push ahead",
+        "pull back",
+        "push through"
+      ],
+      "note": "語塊：push back the deadline（延後截止日）、push back the meeting（延後會議）。push back 是「把時間往後推」；put off、postpone 意思接近；bring forward 是「提前」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gladly",
+      "word": "gladly",
+      "pos": "副詞",
+      "meaning": "樂意地；高興地",
+      "sentences": [
+        {
+          "en": "Our staff will gladly help you find the right size if the shirt you ordered does not fit.",
+          "zh": "如果您訂的襯衫不合身，我們的員工很樂意幫您找到合適的尺寸。"
+        },
+        {
+          "en": "Ms. Ruiz gladly accepted the job offer because it was exactly the position she had been hoping for.",
+          "zh": "魯伊茲小姐欣然接受了工作邀約，因為那正是她一直希望的職位。"
+        },
+        {
+          "en": "I would gladly attend the conference, but I already have a business trip planned for that week.",
+          "zh": "我很樂意參加研討會，但那週我已經安排好出差了。"
+        },
+        {
+          "en": "The hotel will gladly store your luggage after you check out if you want to explore the city.",
+          "zh": "如果您退房後想逛逛城市，飯店很樂意幫您寄放行李。"
+        },
+        {
+          "en": "Many employees gladly volunteered to help at the charity event that the company organized on Saturday.",
+          "zh": "很多員工樂意自願到公司週六舉辦的慈善活動幫忙。"
+        }
+      ],
+      "distractors": [
+        "madly",
+        "sadly",
+        "badly"
+      ],
+      "note": "語塊：gladly accept（欣然接受）、gladly help（樂意幫忙）。gladly 是 glad（高興的）的副詞；willingly 意思接近；I would gladly … 是很客氣的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-grab",
+      "word": "grab",
+      "pos": "動詞",
+      "meaning": "抓取；匆忙地吃或拿",
+      "sentences": [
+        {
+          "en": "We have twenty minutes before the meeting, so let's grab a coffee at the café downstairs.",
+          "zh": "會議前還有二十分鐘，我們去樓下咖啡廳買杯咖啡吧。"
+        },
+        {
+          "en": "Many office workers grab a bite at the food court because they only have thirty minutes for lunch.",
+          "zh": "很多上班族在美食街隨便吃點東西，因為午休只有三十分鐘。"
+        },
+        {
+          "en": "The bright colors of the advertisement are designed to grab attention from people walking past the store.",
+          "zh": "廣告鮮豔的顏色是為了吸引經過店門口的人注意。"
+        },
+        {
+          "en": "Please grab a copy of the schedule from the front desk before the training session begins.",
+          "zh": "訓練課程開始前，請到櫃台拿一份時程表。"
+        },
+        {
+          "en": "The title of the article must grab attention, or readers will not click on it when they see it online.",
+          "zh": "文章標題必須吸引注意，否則讀者在網路上看到時不會點進去。"
+        }
+      ],
+      "distractors": [
+        "crab",
+        "grip",
+        "garb"
+      ],
+      "note": "語塊：grab a bite（隨便吃點東西）、grab a coffee（買杯咖啡）、grab attention（吸引注意）。grab 是口語「迅速拿、抓」；grab a bite 是「隨便吃點東西」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inaccurate",
+      "word": "inaccurate",
+      "pos": "形容詞",
+      "meaning": "不正確的；不準確的",
+      "sentences": [
+        {
+          "en": "The newspaper apologized to its readers for publishing inaccurate information about the company's profits last year.",
+          "zh": "那家報社向讀者道歉，因為刊登了有關公司去年獲利的錯誤資訊。"
+        },
+        {
+          "en": "The map on the website is inaccurate, so some visitors could not find the entrance to the museum.",
+          "zh": "網站上的地圖不正確，所以有些遊客找不到博物館入口。"
+        },
+        {
+          "en": "The manager returned the inaccurate report to the team and asked them to check the numbers again.",
+          "zh": "經理把不準確的報告退回給團隊，請他們再檢查一次數字。"
+        },
+        {
+          "en": "Customers complained that the product description was inaccurate because the bag was much smaller than shown.",
+          "zh": "顧客抱怨產品說明不正確，因為包包比圖片上小很多。"
+        },
+        {
+          "en": "If any of your personal information is inaccurate, please contact the human resources department as soon as possible.",
+          "zh": "如果你的個人資料有任何錯誤，請盡快聯絡人資部門。"
+        }
+      ],
+      "distractors": [
+        "accurate",
+        "inadequate",
+        "immaculate"
+      ],
+      "note": "語塊：inaccurate information（錯誤資訊）、inaccurate report（不準確的報告）。inaccurate 是「不精確、有錯的」；accurate 是相反詞；incorrect 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-lease",
+      "word": "lease",
+      "pos": "名詞",
+      "meaning": "租約；租賃",
+      "sentences": [
+        {
+          "en": "The company signed a lease for a larger office downtown, and the move will take place next month.",
+          "zh": "公司在市中心簽了一間較大辦公室的租約，下個月搬家。"
+        },
+        {
+          "en": "If we decide not to renew the lease, we must tell the landlord at least three months in advance.",
+          "zh": "如果我們決定不續租，必須至少提前三個月通知房東。"
+        },
+        {
+          "en": "Please read the lease agreement carefully before you sign it, especially the part about repairs.",
+          "zh": "簽約前請仔細閱讀租賃合約，特別是維修的部分。"
+        },
+        {
+          "en": "The restaurant's lease will end in December, so the owner is looking for a new location.",
+          "zh": "那家餐廳的租約十二月到期，所以老闆在找新地點。"
+        },
+        {
+          "en": "Many small businesses sign a lease for three years so that the rent does not increase too quickly.",
+          "zh": "很多小公司會簽三年的租約，讓租金不會漲得太快。"
+        }
+      ],
+      "distractors": [
+        "least",
+        "release",
+        "leash"
+      ],
+      "note": "語塊：sign a lease（簽租約）、renew a lease（續租）、lease agreement（租賃合約）。lease 可以當名詞或動詞「租賃」；rent 是一般的「租」；landlord 是「房東」，tenant 是「房客」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exploration",
+      "word": "exploration",
+      "pos": "名詞",
+      "meaning": "探索；勘探",
+      "sentences": [
+        {
+          "en": "The museum's new exhibition is about the history of space exploration from the 1950s to today.",
+          "zh": "博物館的新展覽是關於從 1950 年代到現在的太空探索歷史。"
+        },
+        {
+          "en": "The government stopped oil exploration near the coast because of concerns about the environment and local fishing.",
+          "zh": "因為對環境和當地漁業的疑慮，政府停止了海岸附近的石油探勘。"
+        },
+        {
+          "en": "The tour gives visitors time for exploration of the old town on their own after lunch.",
+          "zh": "這個行程讓遊客午餐後有時間自己探索老城區。"
+        },
+        {
+          "en": "Companies that invest in space exploration hope to send tourists to the moon within twenty years.",
+          "zh": "投資太空探索的公司希望二十年內把觀光客送上月球。"
+        },
+        {
+          "en": "The new app encourages exploration of the city by showing hidden cafés and small museums nearby.",
+          "zh": "新的 App 會顯示附近隱藏的咖啡廳和小博物館，鼓勵大家探索這座城市。"
+        }
+      ],
+      "distractors": [
+        "explanation",
+        "exploitation",
+        "expiration"
+      ],
+      "note": "語塊：space exploration（太空探索）、oil exploration（石油探勘）。exploration 是 explore（探索）的名詞；explorer 是「探險家」；explanation 是「解釋」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wonder",
+      "word": "wonder",
+      "pos": "動詞",
+      "meaning": "想知道；納悶",
+      "sentences": [
+        {
+          "en": "I wonder if you could send me the report before the meeting, because I would like to read it first.",
+          "zh": "不知道你能不能在開會前把報告寄給我，因為我想先看一下。"
+        },
+        {
+          "en": "Many customers wonder whether the new phone is worth the high price, so we offer a free trial.",
+          "zh": "很多顧客想知道新手機值不值得那麼貴的價格，所以我們提供免費試用。"
+        },
+        {
+          "en": "The restaurant uses fresh local ingredients, so it is no wonder that it is always full on weekends.",
+          "zh": "那家餐廳用新鮮在地食材，難怪週末總是客滿。"
+        },
+        {
+          "en": "We wonder if the store will be open on the national holiday, because we need to buy a gift.",
+          "zh": "我們想知道那家店國定假日有沒有開，因為我們需要買禮物。"
+        },
+        {
+          "en": "The manager began to wonder whether the project could be finished on time without more staff.",
+          "zh": "經理開始懷疑沒有更多人手的話，專案能不能準時完成。"
+        }
+      ],
+      "distractors": [
+        "wander",
+        "wound",
+        "ponder"
+      ],
+      "note": "語塊：wonder if（想知道是否……）、wonder whether（不知道是否……）、no wonder（難怪）。wonder if 常用來客氣地請求（I was wondering if you could…）；wander 是「閒逛」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-script",
+      "word": "script",
+      "pos": "名詞",
+      "meaning": "劇本；講稿",
+      "sentences": [
+        {
+          "en": "The writer spent two years working on the film script before a famous director agreed to make the movie.",
+          "zh": "那位作家花了兩年寫電影劇本，才有一位知名導演答應拍這部片。"
+        },
+        {
+          "en": "Customer service staff follow a script when they answer the phone, but they can change it if needed.",
+          "zh": "客服人員接電話時會照講稿說，但需要時可以調整。"
+        },
+        {
+          "en": "The marketing team hired a writer to write a script for the new television commercial.",
+          "zh": "行銷團隊雇了一位作家為新的電視廣告寫腳本。"
+        },
+        {
+          "en": "Please read the script carefully before the video recording, because we will only have the studio for two hours.",
+          "zh": "錄影前請仔細讀講稿，因為我們只有兩小時能用錄影室。"
+        },
+        {
+          "en": "The actors received the film script one month before filming began in the mountains of northern Japan.",
+          "zh": "演員在日本北部山區開拍前一個月拿到電影劇本。"
+        }
+      ],
+      "distractors": [
+        "scrip",
+        "strip",
+        "crypt"
+      ],
+      "note": "語塊：write a script（寫劇本）、follow a script（照講稿說）、film script（電影劇本）。script 是演出或發言用的「稿子」；scripture 是「經文」；manuscript 是「手稿」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-revise",
+      "word": "revise",
+      "pos": "動詞",
+      "meaning": "修改；修訂",
+      "sentences": [
+        {
+          "en": "The manager asked us to revise the plan after the client said the budget was too high.",
+          "zh": "客戶說預算太高後，經理請我們修改計畫。"
+        },
+        {
+          "en": "The finance team will revise the budget for next year because the cost of materials has increased.",
+          "zh": "財務團隊會修訂明年的預算，因為材料成本上漲了。"
+        },
+        {
+          "en": "Please revise the contract by Friday so that the lawyer can check it before the meeting.",
+          "zh": "請在週五前修改合約，讓律師在開會前檢查。"
+        },
+        {
+          "en": "The company had to revise its sales forecast after the new product sold much better than expected.",
+          "zh": "新產品賣得比預期好很多，公司不得不修訂銷售預測。"
+        },
+        {
+          "en": "Before you submit your report, please revise it carefully and check all of the numbers again.",
+          "zh": "提交報告前，請仔細修改並再檢查一次所有數字。"
+        }
+      ],
+      "distractors": [
+        "review",
+        "revive",
+        "devise"
+      ],
+      "note": "語塊：revise the plan（修改計畫）、revise the budget（修訂預算）、revise the contract（修改合約）。revise 是「修改文件或計畫」；英式英文也有「複習」的意思；revision 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-approval",
+      "word": "approval",
+      "pos": "名詞",
+      "meaning": "批准；認可",
+      "sentences": [
+        {
+          "en": "You must get approval from your manager before you buy any equipment that costs more than five hundred dollars.",
+          "zh": "購買任何超過五百元的設備前，你必須先取得主管批准。"
+        },
+        {
+          "en": "Please send the final design to the client for approval before we start printing the brochures.",
+          "zh": "開始印製簡介之前，請先把最終設計寄給客戶審核。"
+        },
+        {
+          "en": "The new medicine cannot be sold in stores until it receives approval from the government.",
+          "zh": "新藥在取得政府批准之前不能在店裡販售。"
+        },
+        {
+          "en": "The plan for the new park received approval from the city council at its meeting last night.",
+          "zh": "新公園的計畫在昨晚的市議會會議上獲得批准。"
+        },
+        {
+          "en": "All travel requests must be sent to the department head for approval at least two weeks in advance.",
+          "zh": "所有出差申請都必須至少提前兩週送交部門主管審核。"
+        }
+      ],
+      "distractors": [
+        "approach",
+        "appraisal",
+        "arrival"
+      ],
+      "note": "語塊：get approval（取得批准）、for approval（供審核）、approval from（來自……的批准）。approval 是 approve（批准）的名詞；permission 是「許可」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vacant",
+      "word": "vacant",
+      "pos": "形容詞",
+      "meaning": "空的；空缺的",
+      "sentences": [
+        {
+          "en": "The company is looking for someone with experience in marketing to fill the vacant position.",
+          "zh": "公司在找有行銷經驗的人來填補這個職缺。"
+        },
+        {
+          "en": "The hotel has only one vacant room left for Saturday night, so please book it quickly.",
+          "zh": "飯店週六晚上只剩一間空房，所以請盡快預訂。"
+        },
+        {
+          "en": "The city plans to turn the vacant lot next to the school into a small park with trees and benches.",
+          "zh": "市政府計畫把學校旁邊的空地改成有樹和長椅的小公園。"
+        },
+        {
+          "en": "Many stores on the main street have been vacant since the new shopping mall opened outside the town.",
+          "zh": "自從鎮外新購物中心開幕後，主要街道上很多店面都空著。"
+        },
+        {
+          "en": "The vacant position will be advertised on the company website and in several newspapers next week.",
+          "zh": "這個職缺下週會刊登在公司網站和幾家報紙上。"
+        }
+      ],
+      "distractors": [
+        "vacation",
+        "valiant",
+        "vagrant"
+      ],
+      "note": "語塊：vacant position（職缺）、vacant room（空房）、vacant lot（空地）。vacant 是「沒有人使用的」；vacancy 是名詞「空缺；空房」；empty 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unrealistic",
+      "word": "unrealistic",
+      "pos": "形容詞",
+      "meaning": "不切實際的",
+      "sentences": [
+        {
+          "en": "The sales target for this month is unrealistic, because the store will be closed for five days.",
+          "zh": "這個月的業績目標不切實際，因為店要休息五天。"
+        },
+        {
+          "en": "Some customers have unrealistic expectations about how fast their orders can be delivered during the holiday season.",
+          "zh": "有些顧客對假期期間訂單能多快送到有不切實際的期待。"
+        },
+        {
+          "en": "Setting an unrealistic goal can make employees feel stressed and less motivated at work over time.",
+          "zh": "設定不切實際的目標久而久之會讓員工感到壓力、工作動力降低。"
+        },
+        {
+          "en": "The consultant said that the plan to open ten new stores this year was unrealistic.",
+          "zh": "顧問說今年開十家新店的計畫不切實際。"
+        },
+        {
+          "en": "It is unrealistic to expect a new employee to understand the entire system in the first week.",
+          "zh": "期待新員工第一週就了解整個系統是不切實際的。"
+        }
+      ],
+      "distractors": [
+        "unreliable",
+        "unrelated",
+        "unreasonable"
+      ],
+      "note": "語塊：unrealistic goal（不切實際的目標）、unrealistic expectations（不切實際的期待）。unrealistic 是「做不到、不合現實的」；realistic 是相反詞「實際的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-automated",
+      "word": "automated",
+      "pos": "形容詞",
+      "meaning": "自動化的",
+      "sentences": [
+        {
+          "en": "The new warehouse uses an automated system that can pack and ship orders without any workers.",
+          "zh": "新倉庫使用自動化系統，不需要工人就能包裝和出貨。"
+        },
+        {
+          "en": "The factory is now fully automated, so only five engineers are needed to run the production line.",
+          "zh": "工廠現在全自動化，所以只需要五位工程師就能運作生產線。"
+        },
+        {
+          "en": "Customers will receive an automated message by e-mail when their package leaves the warehouse in Busan.",
+          "zh": "顧客的包裹離開釜山倉庫時，他們會收到一則自動電子郵件訊息。"
+        },
+        {
+          "en": "The bank's automated system will send you a reminder three days before your bill is due.",
+          "zh": "銀行的自動化系統會在帳單到期前三天寄提醒給您。"
+        },
+        {
+          "en": "Some customers do not like automated phone services and prefer to speak to a real person.",
+          "zh": "有些顧客不喜歡自動語音服務，比較想跟真人說話。"
+        }
+      ],
+      "distractors": [
+        "automatic",
+        "animated",
+        "estimated"
+      ],
+      "note": "語塊：automated system（自動化系統）、fully automated（全自動的）、automated message（自動訊息）。automated 是「由機器自動執行的」；automatic 是「自動的」；automation 是名詞「自動化」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overview",
+      "word": "overview",
+      "pos": "名詞",
+      "meaning": "概要；概述",
+      "sentences": [
+        {
+          "en": "At the beginning of the meeting, Ms. Chen will give a brief overview of the project and its goals.",
+          "zh": "會議一開始，陳小姐會簡要概述專案和目標。"
+        },
+        {
+          "en": "The first chapter of the report provides an overview of the market and the main competitors.",
+          "zh": "報告的第一章提供市場和主要競爭對手的概要。"
+        },
+        {
+          "en": "The training session will start with an overview of the company's history and its values.",
+          "zh": "訓練課程會先從公司歷史和價值觀的概述開始。"
+        },
+        {
+          "en": "Please give an overview of your work experience in no more than two minutes during the interview.",
+          "zh": "面試時請在兩分鐘內概述你的工作經驗。"
+        },
+        {
+          "en": "The website offers a brief overview of each tour, including the price, the length, and what is included.",
+          "zh": "網站提供每個行程的簡要說明，包括價格、時長和包含項目。"
+        }
+      ],
+      "distractors": [
+        "review",
+        "overlook",
+        "interview"
+      ],
+      "note": "語塊：brief overview（簡要概述）、give an overview（提供概要）、overview of（……的概要）。overview 是「整體的簡要說明」；summary 是「摘要」；review 是「檢討；評論」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
