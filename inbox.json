@@ -71103,6 +71103,706 @@
       ],
       "note": "語塊：put out a fire（滅火）、put out a statement（發表聲明）、put out chairs（把椅子擺出來）。put out 是「熄滅」、「發布」或「拿出來擺好」；put off 是「延後」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-as-we-speak",
+      "word": "as we speak",
+      "pos": "其他",
+      "meaning": "就在此刻；正在進行中",
+      "sentences": [
+        {
+          "en": "The technician is fixing the printer as we speak, so it should be working again in about ten minutes.",
+          "zh": "技術人員此刻正在修印表機，所以大約十分鐘後應該就能再用了。"
+        },
+        {
+          "en": "Your order is being packed as we speak, and it will leave our warehouse this afternoon.",
+          "zh": "您的訂單此刻正在包裝，今天下午就會離開我們的倉庫。"
+        },
+        {
+          "en": "The team is preparing the presentation as we speak, so you will receive the slides before lunch.",
+          "zh": "團隊此刻正在準備簡報，所以你午餐前就會收到投影片。"
+        },
+        {
+          "en": "Workers are repaving the road as we speak, so please use the side street to reach the parking lot.",
+          "zh": "工人此刻正在重新鋪路，所以請走旁邊的小路到停車場。"
+        },
+        {
+          "en": "The manager is meeting with the client as we speak, but she will call you back as soon as she is free.",
+          "zh": "經理此刻正在和客戶開會，但她一有空就會回電給你。"
+        }
+      ],
+      "distractors": [
+        "so to speak",
+        "in a word",
+        "at the moment"
+      ],
+      "note": "語塊：as we speak（此時此刻）。as we speak 是口語「就在我們說話的這個時候」；right now 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-commute",
+      "word": "commute",
+      "pos": "動詞",
+      "meaning": "通勤",
+      "sentences": [
+        {
+          "en": "Many employees commute to work by train because driving downtown takes much longer during rush hour.",
+          "zh": "很多員工搭火車通勤上班，因為尖峰時段開車到市中心要花更久。"
+        },
+        {
+          "en": "Ms. Lee has a long commute, so the company allows her to work from home two days a week.",
+          "zh": "李小姐的通勤時間很長，所以公司允許她一週在家工作兩天。"
+        },
+        {
+          "en": "The new subway line will make the daily commute much shorter for people who live in the suburbs.",
+          "zh": "新地鐵線會讓住在郊區的人每天的通勤時間短很多。"
+        },
+        {
+          "en": "Some workers commute more than two hours every day, so they are happy about the new remote work policy.",
+          "zh": "有些員工每天通勤超過兩小時，所以他們對新的遠端工作政策很高興。"
+        },
+        {
+          "en": "Riding a bicycle is a healthy way to commute to work, and the city has built many new bike paths.",
+          "zh": "騎自行車是健康的通勤方式，市政府也蓋了很多新自行車道。"
+        }
+      ],
+      "distractors": [
+        "compute",
+        "commune",
+        "commit"
+      ],
+      "note": "語塊：commute to work（通勤上班）、daily commute（每天的通勤）、long commute（很長的通勤時間）。commute 可以當動詞或名詞「通勤」；commuter 是「通勤族」；compute 是「計算」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ability",
+      "word": "ability",
+      "pos": "名詞",
+      "meaning": "能力",
+      "sentences": [
+        {
+          "en": "We are looking for someone with the ability to work well under pressure and meet tight deadlines.",
+          "zh": "我們在找能在壓力下好好工作、趕上緊迫期限的人。"
+        },
+        {
+          "en": "Ms. Park has a natural ability to explain difficult ideas in a simple way, so she is an excellent trainer.",
+          "zh": "朴小姐天生就有把困難的概念用簡單方式解釋的能力，所以她是很優秀的講師。"
+        },
+        {
+          "en": "The ability to speak two languages is very useful for staff who work at the hotel's front desk.",
+          "zh": "會說兩種語言的能力對在飯店櫃台工作的員工非常有用。"
+        },
+        {
+          "en": "The new software gives managers the ability to see sales figures from every store in real time.",
+          "zh": "新軟體讓主管能即時看到每家店的銷售數字。"
+        },
+        {
+          "en": "The interview will test each candidate's ability to solve problems quickly and communicate clearly with customers.",
+          "zh": "面試會測試每位應徵者快速解決問題和清楚與顧客溝通的能力。"
+        }
+      ],
+      "distractors": [
+        "agility",
+        "mobility",
+        "stability"
+      ],
+      "note": "語塊：ability to do（做……的能力）、ability to work（工作能力）、natural ability（天生的能力）。ability 後面常接 to + 原形；capability 意思接近；able 是形容詞「能夠的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-print-shop",
+      "word": "print shop",
+      "pos": "名詞",
+      "meaning": "印刷店；影印店",
+      "sentences": [
+        {
+          "en": "Please take the brochures to the print shop on Main Street, because they can finish the job by tomorrow.",
+          "zh": "請把簡介拿到主街的印刷店，因為他們明天就能印好。"
+        },
+        {
+          "en": "The local print shop offers a discount to small businesses that print more than one thousand flyers.",
+          "zh": "當地的印刷店為印超過一千張傳單的小公司提供折扣。"
+        },
+        {
+          "en": "Our printer is broken, so I will go to the print shop to make copies of the contract for the meeting.",
+          "zh": "我們的印表機壞了，所以我會去影印店把合約印給會議用。"
+        },
+        {
+          "en": "The print shop near the university is always busy at the end of the semester, when students print their reports.",
+          "zh": "大學附近的影印店在學期末總是很忙，因為學生要印報告。"
+        },
+        {
+          "en": "The company uses a local print shop for all of its business cards, posters, and event programs.",
+          "zh": "公司所有的名片、海報和活動手冊都交給一家當地的印刷店。"
+        }
+      ],
+      "distractors": [
+        "printer",
+        "pawn shop",
+        "repair shop"
+      ],
+      "note": "語塊：local print shop（當地的印刷店）、take sth to the print shop（拿去印刷店）。print shop 是做印刷、影印服務的店；printer 是「印表機；印刷業者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-company-newsletter",
+      "word": "company newsletter",
+      "pos": "名詞",
+      "meaning": "公司內部通訊；公司電子報",
+      "sentences": [
+        {
+          "en": "The monthly company newsletter includes news about new employees, upcoming events, and changes to policies.",
+          "zh": "每月的公司通訊包含新員工、即將舉辦的活動和政策變更等消息。"
+        },
+        {
+          "en": "Ms. Chen is responsible for writing the company newsletter, which is sent to every employee by e-mail.",
+          "zh": "陳小姐負責撰寫公司通訊，用電子郵件寄給每位員工。"
+        },
+        {
+          "en": "If you would like to share news about your department, please send it to the editor of the company newsletter.",
+          "zh": "如果你想分享部門的消息，請寄給公司通訊的編輯。"
+        },
+        {
+          "en": "The company newsletter will feature an interview with the new CEO in its next issue.",
+          "zh": "下一期的公司通訊將刊出新任執行長的專訪。"
+        },
+        {
+          "en": "Employees who win the sales award will have their photos published in the monthly company newsletter.",
+          "zh": "獲得業績獎的員工照片會刊登在每月的公司通訊上。"
+        }
+      ],
+      "distractors": [
+        "company policy",
+        "company website",
+        "news release"
+      ],
+      "note": "語塊：monthly company newsletter（每月公司通訊）、write the company newsletter（撰寫公司通訊）、editor of the company newsletter（公司通訊編輯）、the company newsletter will feature（公司通訊將刊出）。newsletter 是定期寄給員工或客戶的「通訊、電子報」；bulletin 是「公告」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-handbook",
+      "word": "handbook",
+      "pos": "名詞",
+      "meaning": "手冊；指南",
+      "sentences": [
+        {
+          "en": "All new staff will receive an employee handbook that explains the company's rules and benefits.",
+          "zh": "所有新員工都會拿到一本說明公司規定和福利的員工手冊。"
+        },
+        {
+          "en": "Please read the section in the handbook about vacation days before you ask your manager for time off.",
+          "zh": "向主管請假之前，請先讀員工手冊裡關於休假的部分。"
+        },
+        {
+          "en": "The student handbook includes information about the library, the gym, and the rules for exams.",
+          "zh": "學生手冊包含圖書館、體育館和考試規則等資訊。"
+        },
+        {
+          "en": "The human resources department will update the employee handbook to include the new policy on working from home.",
+          "zh": "人資部會更新員工手冊，加入新的在家工作規定。"
+        },
+        {
+          "en": "If you lose your handbook, you can download a copy from the company website at any time.",
+          "zh": "如果你的手冊不見了，可以隨時從公司網站下載一份。"
+        }
+      ],
+      "distractors": [
+        "handbag",
+        "notebook",
+        "guidebook"
+      ],
+      "note": "語塊：employee handbook（員工手冊）、student handbook（學生手冊）。handbook 是說明規則或資訊的小冊子；manual 是「操作手冊」；guidebook 是「旅遊指南」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supply-room",
+      "word": "supply room",
+      "pos": "名詞",
+      "meaning": "備品室；用品室",
+      "sentences": [
+        {
+          "en": "Extra paper and ink for the printer are kept in the supply room next to the kitchen.",
+          "zh": "印表機用的額外紙張和墨水放在廚房旁邊的備品室。"
+        },
+        {
+          "en": "Please tell the office manager when the supply room is running low on pens or notebooks.",
+          "zh": "備品室的筆或筆記本快用完時，請告訴辦公室經理。"
+        },
+        {
+          "en": "The supply room is locked after six o'clock, so please take what you need before you leave.",
+          "zh": "備品室六點後會上鎖，所以請在離開前拿好你需要的東西。"
+        },
+        {
+          "en": "You can get a key to the supply room from the receptionist if you need something after hours.",
+          "zh": "如果下班後需要東西，可以向接待員拿備品室的鑰匙。"
+        },
+        {
+          "en": "The new assistant will organize the supply room so that everyone can find things more easily.",
+          "zh": "新助理會整理備品室，讓每個人都能更容易找到東西。"
+        }
+      ],
+      "distractors": [
+        "storage room",
+        "meeting room",
+        "waiting room"
+      ],
+      "note": "語塊：in the supply room（在備品室）、supply room key（備品室鑰匙）。supply room 是放辦公用品的房間；stockroom 是「庫房」；storage room 是「儲藏室」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-drop-by",
+      "word": "drop by",
+      "pos": "片語動詞",
+      "meaning": "順道拜訪；過來一下",
+      "sentences": [
+        {
+          "en": "Please feel free to drop by my office if you have any questions about the new schedule.",
+          "zh": "如果你對新班表有任何問題，歡迎隨時到我辦公室來。"
+        },
+        {
+          "en": "The manager will drop by the store this afternoon to see how the new display looks.",
+          "zh": "經理今天下午會順道來店裡看看新的陳列。"
+        },
+        {
+          "en": "Could you drop by the bank on your way to work and pick up the documents for the loan?",
+          "zh": "你上班途中可以順道去銀行拿貸款文件嗎？"
+        },
+        {
+          "en": "Customers often drop by the café on their way home to buy fresh bread for breakfast the next day.",
+          "zh": "顧客常在回家途中順道去咖啡廳買隔天早餐要吃的新鮮麵包。"
+        },
+        {
+          "en": "Our sales representative will drop by your office next week to show you the new products.",
+          "zh": "我們的業務代表下週會順道到貴辦公室介紹新產品。"
+        }
+      ],
+      "distractors": [
+        "drop off",
+        "drop out",
+        "stop over"
+      ],
+      "note": "語塊：drop by my office（來我辦公室）、drop by the store（順道來店裡）、drop by the bank（順道去銀行）、drop by the café（順道去咖啡廳）、drop by your office（順道到貴辦公室）。drop by 是「臨時、順路去某處」；stop by 意思一樣；drop off 是「放下；送到」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-workplace",
+      "word": "workplace",
+      "pos": "名詞",
+      "meaning": "職場；工作場所",
+      "sentences": [
+        {
+          "en": "The company wants to create a safe workplace where every employee feels respected and comfortable.",
+          "zh": "公司想打造一個讓每位員工都感到被尊重和自在的安全職場。"
+        },
+        {
+          "en": "Good communication skills are very important in the workplace, especially for people who work in teams.",
+          "zh": "良好的溝通技巧在職場上非常重要，特別是在團隊中工作的人。"
+        },
+        {
+          "en": "The new manager is trying to improve the workplace culture by encouraging staff to share their ideas.",
+          "zh": "新經理試著鼓勵員工分享想法，來改善職場文化。"
+        },
+        {
+          "en": "Smoking is not allowed anywhere in the workplace, including the parking lot and the roof.",
+          "zh": "職場任何地方都禁止吸菸，包括停車場和屋頂。"
+        },
+        {
+          "en": "A comfortable workplace with good lighting can help employees stay focused and productive all day long.",
+          "zh": "照明良好、舒適的工作場所能幫助員工整天保持專注和高效率。"
+        }
+      ],
+      "distractors": [
+        "workforce",
+        "workshop",
+        "fireplace"
+      ],
+      "note": "語塊：safe workplace（安全的職場）、in the workplace（在職場上）、workplace culture（職場文化）。workplace 是「工作的地方」；office 是「辦公室」；workforce 是「勞動力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supplier",
+      "word": "supplier",
+      "pos": "名詞",
+      "meaning": "供應商",
+      "sentences": [
+        {
+          "en": "Our main supplier of paper raised its prices, so we are looking for a cheaper company.",
+          "zh": "我們主要的紙張供應商漲價了，所以我們在找比較便宜的公司。"
+        },
+        {
+          "en": "The restaurant buys all of its vegetables from a local supplier who delivers fresh food every morning.",
+          "zh": "那家餐廳所有的蔬菜都向一家每天早上送新鮮食材的當地供應商購買。"
+        },
+        {
+          "en": "The factory had to stop production because its supplier could not deliver the parts on time.",
+          "zh": "因為供應商無法準時交付零件，工廠不得不停工。"
+        },
+        {
+          "en": "Please call the supplier and ask when the next shipment of chairs will arrive at the warehouse.",
+          "zh": "請打電話給供應商，問下一批椅子什麼時候會送到倉庫。"
+        },
+        {
+          "en": "The company chose a new supplier that offers better quality and faster delivery at the same price.",
+          "zh": "公司選了一家同樣價格但品質更好、送貨更快的新供應商。"
+        }
+      ],
+      "distractors": [
+        "supporter",
+        "supervisor",
+        "applier"
+      ],
+      "note": "語塊：main supplier（主要供應商）、local supplier（當地供應商）、new supplier（新供應商）、call the supplier（打給供應商）、its supplier could not（供應商無法）。supplier 是「提供貨物的公司」；supply 是動詞或名詞「供應」；vendor 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-run-out-of",
+      "word": "run out of",
+      "pos": "片語動詞",
+      "meaning": "用完；耗盡",
+      "sentences": [
+        {
+          "en": "The printer has run out of paper again, so please get some more from the supply room.",
+          "zh": "印表機又沒紙了，所以請到備品室多拿一些。"
+        },
+        {
+          "en": "We will probably run out of time during the meeting, so we may discuss the budget again on Friday.",
+          "zh": "會議時間大概會不夠，所以我們週五可能會再討論預算。"
+        },
+        {
+          "en": "The store may run out of the new phone on the first day, so please order it online in advance.",
+          "zh": "那家店第一天可能會賣完新手機，所以請提前上網訂購。"
+        },
+        {
+          "en": "If we run out of chairs for the guests, please bring some more from the conference room next door.",
+          "zh": "如果給賓客的椅子不夠，請從隔壁會議室再搬一些過來。"
+        },
+        {
+          "en": "The restaurant did not want to run out of fresh fish, so it ordered extra for the holiday weekend.",
+          "zh": "那家餐廳不想讓新鮮魚貨用完，所以為連假多訂了一些。"
+        }
+      ],
+      "distractors": [
+        "run into",
+        "run over",
+        "run through"
+      ],
+      "note": "語塊：run out of time（時間不夠）、run out of paper（紙用完）、run out of chairs（椅子不夠）、run out of fresh fish（魚貨用完）、run out of the new phone（新手機賣完）。run out of + 東西 是「把……用完」；run out 單獨用是「（東西）用完了」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fabric",
+      "word": "fabric",
+      "pos": "名詞",
+      "meaning": "布料；織品",
+      "sentences": [
+        {
+          "en": "The jacket is made of a soft fabric that keeps you warm without feeling heavy.",
+          "zh": "這件外套用的是柔軟的布料，保暖又不會覺得厚重。"
+        },
+        {
+          "en": "The designer bought several kinds of cotton fabric from a small shop in the old town.",
+          "zh": "設計師在老城區一家小店買了好幾種棉布。"
+        },
+        {
+          "en": "The fabric store downtown sells materials for curtains, clothes, and furniture at very reasonable prices.",
+          "zh": "市中心的布料行以非常合理的價格販售窗簾、衣服和家具用的布料。"
+        },
+        {
+          "en": "Please wash this shirt in cold water, because the fabric may become smaller in hot water.",
+          "zh": "這件襯衫請用冷水洗，因為布料用熱水洗可能會縮水。"
+        },
+        {
+          "en": "The hotel chose a dark fabric for the sofas in the lobby because it does not show dirt easily.",
+          "zh": "飯店大廳的沙發選用深色布料，因為比較不容易顯髒。"
+        }
+      ],
+      "distractors": [
+        "fabricate",
+        "factor",
+        "fiber"
+      ],
+      "note": "語塊：cotton fabric（棉布）、soft fabric（柔軟的布料）、fabric store（布料行）。fabric 是「布料」；textile 是「紡織品」；fabricate 是動詞「捏造；製造」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-originally",
+      "word": "originally",
+      "pos": "副詞",
+      "meaning": "原本；最初",
+      "sentences": [
+        {
+          "en": "The meeting was originally planned for Monday, but it was moved to Wednesday because of the holiday.",
+          "zh": "會議原本計畫在週一，但因為假日改到週三。"
+        },
+        {
+          "en": "Ms. Rivera is originally from Mexico, but she has lived and worked in Taiwan for more than ten years.",
+          "zh": "里維拉小姐原本來自墨西哥，但她已經在台灣生活和工作十多年了。"
+        },
+        {
+          "en": "The museum was originally built as a train station more than one hundred years ago.",
+          "zh": "那座博物館最初在一百多年前是建作火車站的。"
+        },
+        {
+          "en": "The project took twice as long as we originally expected, because the materials arrived late.",
+          "zh": "專案花的時間是我們原本預期的兩倍，因為材料晚到。"
+        },
+        {
+          "en": "The restaurant was originally a small family shop, but it has grown into a chain with twenty locations.",
+          "zh": "那家餐廳原本是一家小家庭店，但已經發展成有二十家分店的連鎖店。"
+        }
+      ],
+      "distractors": [
+        "orally",
+        "organically",
+        "occasionally"
+      ],
+      "note": "語塊：originally planned（原本計畫）、originally from（原本來自）、originally built（最初建造）。originally 是「一開始、本來」；original 是形容詞「原本的；原創的」；origin 是「起源」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-textile",
+      "word": "textile",
+      "pos": "名詞",
+      "meaning": "紡織品",
+      "sentences": [
+        {
+          "en": "The textile industry was once the most important business in the town, and many families worked in the factories.",
+          "zh": "紡織業曾經是小鎮最重要的產業，很多家庭都在工廠工作。"
+        },
+        {
+          "en": "The old textile factory near the river has been turned into a popular shopping and dining area.",
+          "zh": "河邊的舊紡織廠已經改建成熱門的購物和餐飲區。"
+        },
+        {
+          "en": "The country exports textile products such as cotton shirts and towels to more than fifty countries.",
+          "zh": "那個國家把棉襯衫和毛巾等紡織產品出口到五十多個國家。"
+        },
+        {
+          "en": "Many companies in the textile industry are using recycled materials to reduce waste and pollution.",
+          "zh": "紡織業很多公司正在使用回收材料，以減少浪費和污染。"
+        },
+        {
+          "en": "The museum has an exhibition about the history of the textile factory and the workers who built the town.",
+          "zh": "博物館有一個關於紡織廠和建立小鎮的工人們歷史的展覽。"
+        }
+      ],
+      "distractors": [
+        "texture",
+        "hostile",
+        "fertile"
+      ],
+      "note": "語塊：textile industry（紡織業）、textile factory（紡織廠）、textile products（紡織產品）。textile 是「紡織品」，包含布料等；fabric 是「布料」；texture 是「質地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-selection",
+      "word": "selection",
+      "pos": "名詞",
+      "meaning": "選擇；精選；種類",
+      "sentences": [
+        {
+          "en": "The bookstore has a wide selection of business books, so it is popular with office workers in the area.",
+          "zh": "那家書店商業書的種類眾多，所以很受這一帶上班族歡迎。"
+        },
+        {
+          "en": "The restaurant offers a selection of local wines that go well with its seafood dishes.",
+          "zh": "那家餐廳提供精選的當地葡萄酒，很適合搭配海鮮料理。"
+        },
+        {
+          "en": "The selection process for the new manager will take about one month and include two interviews.",
+          "zh": "新經理的甄選過程大約要一個月，包括兩次面試。"
+        },
+        {
+          "en": "Customers can choose from a wide selection of colors and sizes when they order furniture online.",
+          "zh": "顧客在網路上訂家具時，可以從眾多的顏色和尺寸中選擇。"
+        },
+        {
+          "en": "The hotel's breakfast includes a selection of fresh fruit, bread, and hot dishes from around the world.",
+          "zh": "飯店的早餐包含精選的新鮮水果、麵包和來自世界各地的熱食。"
+        }
+      ],
+      "distractors": [
+        "election",
+        "section",
+        "collection"
+      ],
+      "note": "語塊：wide selection（種類眾多）、selection of（精選的……）、selection process（甄選過程）。selection 是 select（挑選）的名詞；choice 是「選擇」；election 是「選舉」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nearby",
+      "word": "nearby",
+      "pos": "形容詞",
+      "meaning": "附近的",
+      "sentences": [
+        {
+          "en": "If the hotel is fully booked, the staff can help you find a room at a nearby hotel.",
+          "zh": "如果飯店客滿，員工可以幫你在附近的飯店找房間。"
+        },
+        {
+          "en": "Many employees eat lunch at a nearby restaurant because the company cafeteria is very small.",
+          "zh": "很多員工在附近的餐廳吃午餐，因為公司餐廳很小。"
+        },
+        {
+          "en": "The new factory will create jobs for people who live in the town and the nearby area.",
+          "zh": "新工廠會為住在小鎮和附近地區的人創造工作機會。"
+        },
+        {
+          "en": "Visitors can park their cars at a nearby parking lot and walk to the museum in five minutes.",
+          "zh": "遊客可以把車停在附近的停車場，走五分鐘就到博物館。"
+        },
+        {
+          "en": "The fire started in a nearby building, but the firefighters put it out before it reached our office.",
+          "zh": "火災從附近一棟大樓開始，但消防員在火勢延燒到我們辦公室前就撲滅了。"
+        }
+      ],
+      "distractors": [
+        "nearly",
+        "newly",
+        "nightly"
+      ],
+      "note": "語塊：nearby restaurant（附近的餐廳）、nearby hotel（附近的飯店）、nearby area（附近地區）。nearby 可以當形容詞（a nearby café）或副詞（live nearby）；near 是「在……附近」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-authorization",
+      "word": "authorization",
+      "pos": "名詞",
+      "meaning": "授權；批准",
+      "sentences": [
+        {
+          "en": "Employees must not enter the server room without authorization from the IT department or the security office.",
+          "zh": "員工未經資訊部或保全室授權，不得進入機房。"
+        },
+        {
+          "en": "Please get authorization from your manager before you spend more than five hundred dollars on supplies.",
+          "zh": "花超過五百元買用品前，請先取得主管的授權。"
+        },
+        {
+          "en": "The bank needs written authorization from the account owner before it can send money to another country.",
+          "zh": "銀行需要帳戶持有人的書面授權，才能把錢匯到其他國家。"
+        },
+        {
+          "en": "Nobody may use the company's logo in advertisements without authorization from the marketing team at the head office.",
+          "zh": "未經總公司行銷團隊授權，任何人都不得在廣告中使用公司標誌。"
+        },
+        {
+          "en": "The hotel will not give your room key to anyone else without your written authorization.",
+          "zh": "沒有你的書面授權，飯店不會把房間鑰匙給其他任何人。"
+        }
+      ],
+      "distractors": [
+        "authority",
+        "organization",
+        "authentication"
+      ],
+      "note": "語塊：without authorization（未經授權）、get authorization（取得授權）、written authorization（書面授權）。authorization 是 authorize（授權）的名詞；permission 是「許可」；authority 是「權力；當局」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-under-warranty",
+      "word": "under warranty",
+      "pos": "其他",
+      "meaning": "在保固期內",
+      "sentences": [
+        {
+          "en": "The laptop is still under warranty, so the store will repair it for free if anything goes wrong.",
+          "zh": "這台筆電還在保固期內，所以有任何問題店家都會免費修理。"
+        },
+        {
+          "en": "All of our products are under warranty for two years, which includes repairs and replacement parts.",
+          "zh": "我們所有的產品都有兩年保固，包含維修和更換零件。"
+        },
+        {
+          "en": "Please bring the receipt with you, because we need to check whether the machine is under warranty.",
+          "zh": "請帶收據來，因為我們需要確認機器是否在保固期內。"
+        },
+        {
+          "en": "The air conditioner broke down after only six months, but luckily it was still under warranty.",
+          "zh": "冷氣才用六個月就壞了，但幸好還在保固期內。"
+        },
+        {
+          "en": "Damage caused by water or dropping the phone is not covered, even if it is under warranty.",
+          "zh": "即使在保固期內，進水或摔到造成的損壞也不在保固範圍內。"
+        }
+      ],
+      "distractors": [
+        "under contract",
+        "under pressure",
+        "under review"
+      ],
+      "note": "語塊：still under warranty（仍在保固期內）、be covered under warranty（由保固涵蓋）。warranty 是「保固」；under warranty 是「還在保固期」；guarantee 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-familiar",
+      "word": "familiar",
+      "pos": "形容詞",
+      "meaning": "熟悉的；常見的",
+      "sentences": [
+        {
+          "en": "Applicants should be familiar with basic computer programs such as word processing, e-mail, and spreadsheets.",
+          "zh": "應徵者應該熟悉文書處理、電子郵件和試算表等基本電腦程式。"
+        },
+        {
+          "en": "It was nice to see so many familiar faces at the alumni association dinner last weekend.",
+          "zh": "上週末在校友會晚宴上看到那麼多熟悉的面孔真好。"
+        },
+        {
+          "en": "The new manager is not familiar with the local market, so she asked the sales team for advice.",
+          "zh": "新經理不熟悉當地市場，所以她向業務團隊請教。"
+        },
+        {
+          "en": "The name of the restaurant looks familiar, but I cannot remember if I have eaten there before.",
+          "zh": "那家餐廳的名字看起來很眼熟，但我想不起來以前有沒有去吃過。"
+        },
+        {
+          "en": "Please make sure that every new employee is familiar with the safety rules before they start work.",
+          "zh": "請確保每位新員工開始工作前都熟悉安全規定。"
+        }
+      ],
+      "distractors": [
+        "similar",
+        "familial",
+        "peculiar"
+      ],
+      "note": "語塊：be familiar with（熟悉……）、familiar face（熟悉的面孔）、look familiar（看起來眼熟）。be familiar with + 事物 是「人熟悉某事」；be familiar to + 人 是「某事對人來說很熟悉」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-installation",
+      "word": "installation",
+      "pos": "名詞",
+      "meaning": "安裝；設置",
+      "sentences": [
+        {
+          "en": "The store offers free installation for customers who buy an air conditioner during the summer sale.",
+          "zh": "那家店為夏季特賣期間買冷氣的顧客提供免費安裝。"
+        },
+        {
+          "en": "The installation fee is fifty dollars, but it will be free if you buy two machines at the same time.",
+          "zh": "安裝費是五十元，但同時買兩台就免費。"
+        },
+        {
+          "en": "The installation process takes about two hours, so please make sure someone is at home that afternoon.",
+          "zh": "安裝過程大約要兩小時，所以那天下午請確保家裡有人。"
+        },
+        {
+          "en": "The technician will finish the installation of the new security cameras before the office opens on Monday.",
+          "zh": "技術人員會在週一辦公室開門前完成新監視器的安裝。"
+        },
+        {
+          "en": "If you have any problems during the installation process, please call our customer care team for help.",
+          "zh": "安裝過程中如果有任何問題，請打電話給我們的客服團隊求助。"
+        }
+      ],
+      "distractors": [
+        "installment",
+        "instillation",
+        "inspiration"
+      ],
+      "note": "語塊：free installation（免費安裝）、installation fee（安裝費）、installation process（安裝過程）。installation 是 install（安裝）的名詞；installment 是「分期付款」，拼法很像。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
