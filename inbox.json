@@ -54303,6 +54303,636 @@
       ],
       "note": "語塊：publish a book（出書）、publish an article（發表文章）、publish the results（公布結果）。publish 是「出版、公開發表」；publisher 是「出版社」；publication 是「出版物」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-emphasize",
+      "word": "emphasize",
+      "pos": "動詞",
+      "meaning": "強調",
+      "sentences": [
+        {
+          "en": "The manager wanted to emphasize the importance of safety rules before the workers started using the new machines.",
+          "zh": "經理想在工人開始使用新機器前強調安全規則的重要性。"
+        },
+        {
+          "en": "In her speech, the CEO will emphasize that customer satisfaction is more important than short-term profits.",
+          "zh": "執行長在演講中會強調，顧客滿意度比短期獲利更重要。"
+        },
+        {
+          "en": "The training video tries to emphasize the importance of washing hands often in the kitchen.",
+          "zh": "訓練影片試著強調在廚房裡經常洗手的重要性。"
+        },
+        {
+          "en": "Our advertisements emphasize the low price and high quality of the product to attract young families.",
+          "zh": "我們的廣告強調產品的低價和高品質，以吸引年輕家庭。"
+        },
+        {
+          "en": "The report will emphasize that the company needs to reduce costs if it wants to stay competitive next year.",
+          "zh": "報告會強調公司如果明年想維持競爭力，就需要降低成本。"
+        }
+      ],
+      "distractors": [
+        "empathize",
+        "emphasis",
+        "memorize"
+      ],
+      "note": "語塊：emphasize the importance of（強調……的重要性）、emphasize that（強調……）。emphasize 後面直接接受詞，不加 on（emphasize the point）；名詞 emphasis 才說 put emphasis on。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-improbably",
+      "word": "improbably",
+      "pos": "副詞",
+      "meaning": "不太可能地；出乎意料地",
+      "sentences": [
+        {
+          "en": "The small bakery became improbably successful after a famous singer posted a photo of its cake online.",
+          "zh": "那家小麵包店在一位知名歌手把它的蛋糕照片放上網後，出乎意料地成功。"
+        },
+        {
+          "en": "Sales of winter coats were improbably high in May because of the unusually cold weather this year.",
+          "zh": "因為今年異常寒冷，五月冬季外套的銷量高得出奇。"
+        },
+        {
+          "en": "The old factory, improbably, became one of the most popular art museums in the whole country.",
+          "zh": "那座舊工廠出乎意料地成了全國最受歡迎的美術館之一。"
+        },
+        {
+          "en": "The new product was improbably successful, even though the company spent very little money on advertising it.",
+          "zh": "雖然公司幾乎沒花錢打廣告，新產品卻出乎意料地成功。"
+        },
+        {
+          "en": "Ticket prices for the final game were improbably high, so many fans decided to watch it at home on television.",
+          "zh": "決賽的票價高得出奇，所以很多球迷決定在家看電視轉播。"
+        }
+      ],
+      "distractors": [
+        "improperly",
+        "impossibly",
+        "imperfectly"
+      ],
+      "note": "語塊：improbably high（高得出奇）、improbably successful（出乎意料地成功）。improbably 是「照理說不太可能，但居然……」；improbable 是形容詞「不太可能的」；probably 是「大概」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-willingly",
+      "word": "willingly",
+      "pos": "副詞",
+      "meaning": "樂意地；自願地",
+      "sentences": [
+        {
+          "en": "Most employees willingly accept the new working hours because they can leave earlier on Fridays.",
+          "zh": "大部分員工欣然接受新的上班時間，因為週五可以早點下班。"
+        },
+        {
+          "en": "The supplier willingly agreed to lower its prices after we promised to place larger orders every month.",
+          "zh": "我們答應每個月下更大的訂單後，供應商欣然同意降價。"
+        },
+        {
+          "en": "Our volunteers willingly help visitors find their way around the museum during the busy holiday season.",
+          "zh": "在忙碌的假期期間，我們的志工樂意幫參觀者在博物館裡找路。"
+        },
+        {
+          "en": "Mr. Tanaka willingly gave up his weekend to finish the presentation for the important client meeting.",
+          "zh": "田中先生自願放棄週末，為重要的客戶會議完成簡報。"
+        },
+        {
+          "en": "The staff will willingly accept extra work during the busy season if they receive a bonus for it.",
+          "zh": "如果有獎金，員工在旺季會樂意接受額外的工作。"
+        }
+      ],
+      "distractors": [
+        "wildly",
+        "wittingly",
+        "willfully"
+      ],
+      "note": "語塊：willingly accept（欣然接受）、willingly agree（欣然同意）、willingly help（樂意幫忙）。willingly 是副詞；形容詞說 be willing to do（願意做……）；unwillingly 是「不情願地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-stock",
+      "word": "in stock",
+      "pos": "其他",
+      "meaning": "有庫存；有現貨",
+      "sentences": [
+        {
+          "en": "We always keep in stock at least fifty boxes of printer paper so that the office never runs out.",
+          "zh": "我們總是保持至少五十箱影印紙的庫存，讓辦公室永遠不會用完。"
+        },
+        {
+          "en": "The blue jacket you asked about is currently in stock, and we can send it to you tomorrow morning.",
+          "zh": "你問的那件藍色外套目前有貨，我們明天早上就能寄給你。"
+        },
+        {
+          "en": "If the item is not in stock, our staff will order it for you and call you when it arrives at the store.",
+          "zh": "如果商品沒有現貨，我們的店員會幫你訂，到貨時再打電話給你。"
+        },
+        {
+          "en": "The website shows whether each product is in stock or out of stock before customers place their orders.",
+          "zh": "網站會在顧客下單前顯示每項商品是有貨還是缺貨。"
+        },
+        {
+          "en": "Please check that the parts are in stock before you promise the customer a delivery date for the repair.",
+          "zh": "在答應顧客維修的交貨日期前，請先確認零件有庫存。"
+        }
+      ],
+      "distractors": [
+        "in store",
+        "in storage",
+        "in step"
+      ],
+      "note": "語塊：keep in stock（保持有庫存）、currently in stock（目前有貨）、out of stock（缺貨）。in stock 是「有現貨」，相反是 out of stock（缺貨）；stock 也是「股票」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-as-much-as",
+      "word": "as much as",
+      "pos": "其他",
+      "meaning": "多達；和……一樣多",
+      "sentences": [
+        {
+          "en": "Customers can save as much as forty percent on furniture during the store's anniversary sale this weekend.",
+          "zh": "這週末店慶期間，顧客買家具最多可以省下四成。"
+        },
+        {
+          "en": "Please try to finish as much as possible of the report before the meeting with the director on Monday.",
+          "zh": "請盡量在週一和主任開會前把報告完成大部分。"
+        },
+        {
+          "en": "The new machine can produce as much as twice the amount of the old one in the same amount of time.",
+          "zh": "新機器在相同時間內的產量可以多達舊機器的兩倍。"
+        },
+        {
+          "en": "Using energy-saving lights can help the company save as much as three thousand dollars a year.",
+          "zh": "使用省電燈泡可以幫公司一年省下多達三千元。"
+        },
+        {
+          "en": "The hotel tries to use local food as much as possible, so most of its vegetables come from nearby farms.",
+          "zh": "飯店盡可能使用在地食材，所以大部分的蔬菜都來自附近的農場。"
+        }
+      ],
+      "distractors": [
+        "as many as",
+        "as well as",
+        "as soon as"
+      ],
+      "note": "語塊：save as much as（省下多達……）、as much as possible（盡可能多）。as much as 後面接不可數或金額（as much as 50%）；可數名詞要用 as many as。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-officially",
+      "word": "officially",
+      "pos": "副詞",
+      "meaning": "正式地；官方地",
+      "sentences": [
+        {
+          "en": "The new library will officially open next Monday, and the mayor will give a short speech at the ceremony.",
+          "zh": "新圖書館下週一將正式開幕，市長會在典禮上簡短致詞。"
+        },
+        {
+          "en": "The company will officially announce the name of its new president at the press conference tomorrow.",
+          "zh": "公司明天將在記者會上正式宣布新總裁的名字。"
+        },
+        {
+          "en": "The smartphone was officially launched in Japan last week and will be available in Europe next month.",
+          "zh": "那支智慧型手機上週在日本正式推出，下個月在歐洲上市。"
+        },
+        {
+          "en": "Although the project is not officially finished, most of the work has already been completed by the team.",
+          "zh": "雖然專案還沒正式結束，但團隊已經完成了大部分的工作。"
+        },
+        {
+          "en": "Mr. Chen will officially start his new job as sales director on the first day of December.",
+          "zh": "陳先生將在十二月一日正式開始擔任業務總監的新工作。"
+        }
+      ],
+      "distractors": [
+        "offensively",
+        "efficiently",
+        "initially"
+      ],
+      "note": "語塊：officially open（正式開幕）、officially announce（正式宣布）、officially launch（正式推出）。officially 是「正式、經官方確認地」；official 是形容詞「正式的」或名詞「官員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-relocate",
+      "word": "relocate",
+      "pos": "動詞",
+      "meaning": "搬遷；遷移",
+      "sentences": [
+        {
+          "en": "The company plans to relocate to a bigger building downtown because the current office is too crowded.",
+          "zh": "公司打算搬到市中心較大的大樓，因為目前的辦公室太擠了。"
+        },
+        {
+          "en": "We will relocate the office during the holiday weekend so that the move does not affect our customers.",
+          "zh": "我們會在連假期間搬遷辦公室，以免搬家影響到顧客。"
+        },
+        {
+          "en": "The firm offered to pay all moving costs for employees who agreed to relocate to the new branch in Osaka.",
+          "zh": "公司提議為同意調到大阪新分公司的員工支付所有搬家費用。"
+        },
+        {
+          "en": "Many factories decided to relocate to areas where land is cheaper and workers are easier to find.",
+          "zh": "很多工廠決定遷到土地較便宜、也比較容易找到工人的地區。"
+        },
+        {
+          "en": "The manager asked whether we would be willing to relocate employees from the main office to the new factory.",
+          "zh": "經理問我們是否願意把員工從總公司調派到新工廠。"
+        }
+      ],
+      "distractors": [
+        "relate",
+        "allocate",
+        "locate"
+      ],
+      "note": "語塊：relocate to（搬遷到……）、relocate the office（搬遷辦公室）、relocate employees（調派員工）。relocate 多指公司、工廠或員工「遷到別的地方」；relocation 是名詞；move 是比較口語的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-healthy",
+      "word": "healthy",
+      "pos": "形容詞",
+      "meaning": "健康的；健全的",
+      "sentences": [
+        {
+          "en": "The company cafeteria now offers a healthy diet with more vegetables, fish, and fruit for its employees.",
+          "zh": "公司餐廳現在為員工提供有更多蔬菜、魚和水果的健康飲食。"
+        },
+        {
+          "en": "Doctors say that regular exercise and enough sleep are important parts of a healthy lifestyle for office workers.",
+          "zh": "醫生說，規律運動和充足睡眠是上班族健康生活方式的重要部分。"
+        },
+        {
+          "en": "A healthy economy usually creates more jobs and gives people more money to spend on travel and shopping.",
+          "zh": "健全的經濟通常會創造更多工作，讓人們有更多錢花在旅遊和購物上。"
+        },
+        {
+          "en": "The gym will hold free classes to help members keep a healthy lifestyle during the busy holiday season.",
+          "zh": "健身房會開免費課程，幫助會員在忙碌的假期期間維持健康的生活方式。"
+        },
+        {
+          "en": "Our new menu includes several healthy options for customers who want to eat less sugar and salt.",
+          "zh": "我們的新菜單有好幾個健康的選擇，給想少吃糖和鹽的顧客。"
+        }
+      ],
+      "distractors": [
+        "wealthy",
+        "hearty",
+        "stealthy"
+      ],
+      "note": "語塊：healthy diet（健康的飲食）、healthy lifestyle（健康的生活方式）、healthy economy（健全的經濟）。healthy 是「健康的；對健康有益的」；health 是名詞；healthful 意思接近但較少用。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-means",
+      "word": "means",
+      "pos": "名詞",
+      "meaning": "方法；手段；工具",
+      "sentences": [
+        {
+          "en": "The subway is the most popular means of transportation for people who work in the city center.",
+          "zh": "地鐵是在市中心上班的人最常用的交通工具。"
+        },
+        {
+          "en": "Credit cards are the most common means of payment at our store, but we also accept cash.",
+          "zh": "信用卡是我們店裡最常見的付款方式，但我們也收現金。"
+        },
+        {
+          "en": "The company communicates with its overseas offices by means of video calls every Tuesday morning.",
+          "zh": "公司每週二早上藉由視訊通話和海外辦公室聯絡。"
+        },
+        {
+          "en": "The bike-sharing program offers a cheap and healthy means of transportation for students and office workers.",
+          "zh": "共享單車計畫為學生和上班族提供便宜又健康的交通工具。"
+        },
+        {
+          "en": "Online banking has become an important means of payment for small businesses that sell their products online.",
+          "zh": "網路銀行已經成為在網路上賣東西的小公司重要的付款方式。"
+        }
+      ],
+      "distractors": [
+        "meals",
+        "mines",
+        "methods"
+      ],
+      "note": "語塊：means of transportation（交通工具）、means of payment（付款方式）、by means of（藉由……）。means 單複數同形（a means / many means）；mean 是動詞「意思是」，meaning 是「意思」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-obesity",
+      "word": "obesity",
+      "pos": "名詞",
+      "meaning": "肥胖（症）",
+      "sentences": [
+        {
+          "en": "The government started a new program to reduce childhood obesity by offering healthier lunches at schools.",
+          "zh": "政府開始一個新計畫，在學校提供更健康的午餐來減少兒童肥胖。"
+        },
+        {
+          "en": "Experts say that the obesity rate has increased because many people spend most of the day sitting at desks.",
+          "zh": "專家說肥胖率上升，是因為很多人一天大部分時間都坐在桌前。"
+        },
+        {
+          "en": "The health campaign aims to reduce obesity by encouraging people to walk at least thirty minutes every day.",
+          "zh": "這個健康宣導活動希望藉由鼓勵民眾每天至少走三十分鐘來減少肥胖。"
+        },
+        {
+          "en": "Childhood obesity has become a serious problem in many countries where children eat a lot of fast food.",
+          "zh": "在很多孩子吃很多速食的國家，兒童肥胖已經變成嚴重的問題。"
+        },
+        {
+          "en": "The report compared the obesity rate in different cities and found that people in large cities walk more.",
+          "zh": "報告比較了不同城市的肥胖率，發現大城市的人走比較多路。"
+        }
+      ],
+      "distractors": [
+        "obscurity",
+        "oddity",
+        "opacity"
+      ],
+      "note": "語塊：childhood obesity（兒童肥胖）、reduce obesity（減少肥胖）、obesity rate（肥胖率）。obesity 是名詞；形容詞是 obese（肥胖的）；overweight 是「過重」，程度比較輕。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-policy",
+      "word": "policy",
+      "pos": "名詞",
+      "meaning": "政策；規定；保單",
+      "sentences": [
+        {
+          "en": "According to company policy, all employees must wear their ID cards at all times while they are in the building.",
+          "zh": "依照公司規定，所有員工在大樓裡都必須隨時配戴識別證。"
+        },
+        {
+          "en": "Our return policy allows customers to return any item within thirty days if they keep the receipt.",
+          "zh": "我們的退貨政策允許顧客在三十天內退回任何商品，只要保留收據。"
+        },
+        {
+          "en": "Please read your insurance policy carefully before you sign it, especially the part about what is not covered.",
+          "zh": "簽名前請仔細閱讀你的保單，特別是不給付的部分。"
+        },
+        {
+          "en": "The new policy on working from home will take effect at the beginning of next month for all departments.",
+          "zh": "新的在家工作規定將在下個月初對所有部門生效。"
+        },
+        {
+          "en": "Customers complained that the store's return policy was too strict, so the manager decided to change it.",
+          "zh": "顧客抱怨那家店的退貨政策太嚴格，所以經理決定修改。"
+        }
+      ],
+      "distractors": [
+        "police",
+        "polish",
+        "politics"
+      ],
+      "note": "語塊：company policy（公司規定）、return policy（退貨政策）、insurance policy（保單）。policy 是組織訂的「規定、方針」；politics 是「政治」；police 是「警察」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-operate",
+      "word": "operate",
+      "pos": "動詞",
+      "meaning": "操作；營運；運作",
+      "sentences": [
+        {
+          "en": "Only trained workers are allowed to operate the machine, so new staff must complete the safety course first.",
+          "zh": "只有受過訓練的工人可以操作那台機器，所以新員工必須先完成安全課程。"
+        },
+        {
+          "en": "Ms. Ortiz has been able to operate a successful business in the city for more than twenty years.",
+          "zh": "奧蒂茲女士在這個城市成功經營事業已經二十多年了。"
+        },
+        {
+          "en": "The new software will help the warehouse operate smoothly even during the busiest months of the year.",
+          "zh": "新軟體會幫助倉庫在一年中最忙的幾個月也能順利運作。"
+        },
+        {
+          "en": "The airline plans to operate ten more flights between Taipei and Tokyo starting next spring.",
+          "zh": "航空公司計畫從明年春天開始，在台北和東京之間多營運十個航班。"
+        },
+        {
+          "en": "The factory will continue to operate during the holiday, although fewer workers will be on duty.",
+          "zh": "工廠在假期期間會繼續運作，不過值班的工人會比較少。"
+        }
+      ],
+      "distractors": [
+        "cooperate",
+        "separate",
+        "opera"
+      ],
+      "note": "語塊：operate a machine（操作機器）、operate a business（經營事業）、operate smoothly（順利運作）。operate 可以是「操作機器」也可以是「經營、營運」；operation 是名詞；operator 是「操作員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-machinery",
+      "word": "machinery",
+      "pos": "名詞",
+      "meaning": "機械（總稱）",
+      "sentences": [
+        {
+          "en": "Workers who operate heavy machinery must wear helmets and safety boots at all times on the construction site.",
+          "zh": "操作重型機械的工人在工地必須隨時戴安全帽和穿安全靴。"
+        },
+        {
+          "en": "The company sells farm machinery to customers in more than thirty countries around the world.",
+          "zh": "那家公司把農業機械賣給全世界三十多個國家的客戶。"
+        },
+        {
+          "en": "Only certified staff are allowed to operate the machinery in the factory, so training is required.",
+          "zh": "只有持證員工可以操作工廠裡的機械，所以必須受訓。"
+        },
+        {
+          "en": "The factory spent millions of dollars on new machinery to increase production and reduce costs.",
+          "zh": "工廠花了數百萬元買新機械，以提高產量並降低成本。"
+        },
+        {
+          "en": "The heavy machinery will be moved to the new site by truck next week, so the road may be closed.",
+          "zh": "重型機械下週會用卡車運到新工地，所以道路可能會封閉。"
+        }
+      ],
+      "distractors": [
+        "machinist",
+        "mechanic",
+        "scenery"
+      ],
+      "note": "語塊：heavy machinery（重型機械）、farm machinery（農業機械）、operate machinery（操作機械）。machinery 是不可數名詞，指「機器的總稱」；單一台機器要說 a machine。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renegotiation",
+      "word": "renegotiation",
+      "pos": "名詞",
+      "meaning": "重新談判",
+      "sentences": [
+        {
+          "en": "The supplier asked for a contract renegotiation because the price of raw materials has increased sharply.",
+          "zh": "供應商因為原料價格大漲而要求重新談判合約。"
+        },
+        {
+          "en": "The union decided to call for renegotiation of the agreement after the company announced lower bonuses.",
+          "zh": "公司宣布降低獎金後，工會決定要求重新談判協議。"
+        },
+        {
+          "en": "The contract renegotiation took three months, but both companies were satisfied with the final result.",
+          "zh": "合約重新談判花了三個月，但兩家公司對最後的結果都很滿意。"
+        },
+        {
+          "en": "Our lawyers will handle the renegotiation of the lease with the building owner next month.",
+          "zh": "我們的律師下個月會處理跟大樓業主重新談判租約的事。"
+        },
+        {
+          "en": "If sales continue to fall, the company may call for renegotiation of its agreements with several suppliers.",
+          "zh": "如果銷售持續下滑，公司可能會要求跟好幾家供應商重新談判協議。"
+        }
+      ],
+      "distractors": [
+        "regeneration",
+        "registration",
+        "reorganization"
+      ],
+      "note": "語塊：contract renegotiation（合約重新談判）、call for renegotiation（要求重新談判）。renegotiation 是名詞；動詞是 renegotiate；negotiation 是「談判」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-succeed",
+      "word": "succeed",
+      "pos": "動詞",
+      "meaning": "成功；接替",
+      "sentences": [
+        {
+          "en": "The team finally managed to succeed in finishing the project before the deadline despite many problems.",
+          "zh": "儘管問題很多，團隊最後還是成功在期限前完成了專案。"
+        },
+        {
+          "en": "Ms. Wong will succeed Mr. Lee as president of the company when he retires at the end of the year.",
+          "zh": "李先生年底退休後，王小姐將接替他擔任公司總裁。"
+        },
+        {
+          "en": "Small businesses can succeed in a competitive market if they offer excellent service to their customers.",
+          "zh": "小公司只要提供顧客很好的服務，就能在競爭激烈的市場中成功。"
+        },
+        {
+          "en": "The new manager hopes to succeed in reducing costs without cutting the salaries of any employees.",
+          "zh": "新經理希望在不減任何員工薪水的情況下成功降低成本。"
+        },
+        {
+          "en": "Nobody knows who will succeed the current director as head of the research department next year.",
+          "zh": "沒有人知道明年誰會接替現任主任擔任研發部主管。"
+        }
+      ],
+      "distractors": [
+        "exceed",
+        "proceed",
+        "secede"
+      ],
+      "note": "語塊：succeed in（在……成功）、succeed sb as（接替某人擔任……）。succeed in + V-ing 是「成功做到」；succeed sb 是「接任某人」；success 是名詞，successful 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contractual",
+      "word": "contractual",
+      "pos": "形容詞",
+      "meaning": "合約上的；契約的",
+      "sentences": [
+        {
+          "en": "The supplier has a contractual obligation to deliver all materials to the factory by the end of each month.",
+          "zh": "供應商有合約義務在每個月底前把所有材料送到工廠。"
+        },
+        {
+          "en": "Both companies signed a contractual agreement that explains how the profits will be shared between them.",
+          "zh": "兩家公司簽了一份合約協議，說明利潤要如何分配。"
+        },
+        {
+          "en": "Please read the contractual terms carefully before you agree to work with the new advertising agency.",
+          "zh": "在同意和新廣告公司合作前，請仔細閱讀合約條款。"
+        },
+        {
+          "en": "If the builder fails to meet its contractual obligations, the client may ask for compensation.",
+          "zh": "如果建商沒有履行合約義務，客戶可以要求賠償。"
+        },
+        {
+          "en": "The lawyer explained the contractual details to the new employees during the first day of training.",
+          "zh": "律師在訓練第一天向新員工說明了合約細節。"
+        }
+      ],
+      "distractors": [
+        "conceptual",
+        "contextual",
+        "contractive"
+      ],
+      "note": "語塊：contractual obligation（合約義務）、contractual agreement（合約協議）、contractual terms（合約條款）。contractual 是 contract（合約）的形容詞；contractor 是「承包商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-agreement",
+      "word": "agreement",
+      "pos": "名詞",
+      "meaning": "協議；同意",
+      "sentences": [
+        {
+          "en": "After two weeks of discussion, the two companies finally reached an agreement on the price of the land.",
+          "zh": "經過兩週的討論，兩家公司終於就土地價格達成協議。"
+        },
+        {
+          "en": "The hotel and the travel agency will sign an agreement to offer special prices to tour groups.",
+          "zh": "飯店和旅行社將簽訂協議，為旅行團提供特別價格。"
+        },
+        {
+          "en": "All of the board members were in agreement that the company should open a new branch in Singapore.",
+          "zh": "所有董事會成員都一致同意公司應該在新加坡開新分公司。"
+        },
+        {
+          "en": "The new agreement allows employees to work from home two days a week if their managers approve.",
+          "zh": "新協議允許員工在主管同意下一週在家工作兩天。"
+        },
+        {
+          "en": "The workers and the managers could not reach an agreement on salaries, so the talks will continue.",
+          "zh": "工人和管理階層在薪水上無法達成協議，所以談判會繼續。"
+        }
+      ],
+      "distractors": [
+        "argument",
+        "agreeable",
+        "arrangement"
+      ],
+      "note": "語塊：reach an agreement（達成協議）、sign an agreement（簽訂協議）、in agreement（意見一致）。agreement 是名詞；動詞是 agree（agree to + 事、agree with + 人）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stipulate",
+      "word": "stipulate",
+      "pos": "動詞",
+      "meaning": "規定；明訂",
+      "sentences": [
+        {
+          "en": "The contract must stipulate that the building must be completed before the end of next year.",
+          "zh": "合約規定大樓必須在明年底前完工。"
+        },
+        {
+          "en": "The rules clearly stipulate that employees must not share customer information with anyone outside the company.",
+          "zh": "規則明確規定員工不得把顧客資料分享給公司外的任何人。"
+        },
+        {
+          "en": "The agreement will stipulate that the supplier pays a fine if the materials arrive more than a week late.",
+          "zh": "協議會規定如果材料晚到超過一週，供應商要付罰款。"
+        },
+        {
+          "en": "Most leases stipulate that tenants must give the owner at least one month's notice before they move out.",
+          "zh": "大部分租約都規定房客搬走前至少要提前一個月通知屋主。"
+        },
+        {
+          "en": "The law will clearly stipulate that all restaurants must display the prices of their dishes on the menu.",
+          "zh": "法律將明確規定所有餐廳都必須在菜單上標示菜的價格。"
+        }
+      ],
+      "distractors": [
+        "stimulate",
+        "speculate",
+        "simulate"
+      ],
+      "note": "語塊：stipulate that（規定……）、clearly stipulate（明確規定）。stipulate 多用在合約、法律「明訂條件」；stipulation 是名詞；specify 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
