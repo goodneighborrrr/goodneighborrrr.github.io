@@ -80833,6 +80833,41 @@
       ],
       "note": "語塊：apply for a loan（申請貸款）、bank loan（銀行貸款）、pay back a loan（償還貸款）。loan 可以當名詞或動詞「借出」；borrow 是「借入」；lend 是「借出」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261110-pediatrics",
+      "word": "pediatrics",
+      "pos": "名詞",
+      "meaning": "小兒科；兒科醫學",
+      "sentences": [
+        {
+          "en": "The hospital recently expanded its pediatrics department to accommodate the growing number of young patients in the region.",
+          "zh": "這家醫院最近擴大了小兒科部門，以應付本地區日益增加的兒童病患。"
+        },
+        {
+          "en": "Dr. Lin has specialized in pediatrics for over ten years and is well known among local parents.",
+          "zh": "林醫師專攻小兒科已經超過十年，在當地家長間小有名氣。"
+        },
+        {
+          "en": "Our clinic is looking to hire an experienced nurse for the pediatrics ward starting next month.",
+          "zh": "我們診所正在尋找一位有經驗的護士，下個月開始到小兒科病房上班。"
+        },
+        {
+          "en": "She decided to study pediatrics in medical school after volunteering at a children's hospital during college.",
+          "zh": "她大學時在兒童醫院當志工後，決定在醫學院主修小兒科。"
+        },
+        {
+          "en": "The new pediatrics wing will include a play area to help children feel more comfortable during visits.",
+          "zh": "新的小兒科病棟會有一個遊戲區，讓小朋友看診時感覺更自在。"
+        }
+      ],
+      "distractors": [
+        "pediatrician",
+        "geriatrics",
+        "obstetrics"
+      ],
+      "note": "語塊：pediatrics department（小兒科部門）、specialize in pediatrics（專攻小兒科）、pediatrics ward（小兒科病房）。容易搞混：pediatrics 是「小兒科這個醫學領域」，pediatrician 是「小兒科醫師」這個人。geriatrics（老年醫學）跟 obstetrics（婦產科）是其他科別，拼法結尾都是 -trics，看起來很像但領域不同。",
+      "addedAt": "2026-11-10"
     }
   ],
   "notes": [
