@@ -57138,6 +57138,706 @@
       ],
       "note": "語塊：unexpected delay（意外的延誤）、unexpected problem（意料之外的問題）、unexpected result（意外的結果）。unexpected 是「沒預料到的」；unexpectedly 是副詞；expected 是「預期的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-illness",
+      "word": "illness",
+      "pos": "名詞",
+      "meaning": "疾病；生病",
+      "sentences": [
+        {
+          "en": "Mr. Hall was absent from work for two weeks due to illness, so his assistant handled all of his meetings.",
+          "zh": "霍爾先生因病請假兩週，所以他的助理處理了他所有的會議。"
+        },
+        {
+          "en": "The company's insurance plan covers the cost of treatment if an employee develops a serious illness.",
+          "zh": "如果員工罹患重病，公司的保險方案會負擔治療費用。"
+        },
+        {
+          "en": "More companies now offer free counseling to help employees who are dealing with mental illness or stress.",
+          "zh": "現在有更多公司提供免費諮商，幫助正在面對心理疾病或壓力的員工。"
+        },
+        {
+          "en": "Employees who miss more than three days of work due to illness must bring a note from their doctor.",
+          "zh": "因病缺勤超過三天的員工必須帶醫生證明。"
+        },
+        {
+          "en": "The singer canceled the rest of her tour because of a serious illness, and fans received a full refund.",
+          "zh": "那位歌手因為重病取消剩下的巡演，歌迷都拿到全額退款。"
+        }
+      ],
+      "distractors": [
+        "wellness",
+        "stillness",
+        "illusion"
+      ],
+      "note": "語塊：serious illness（重病）、due to illness（因病）、mental illness（心理疾病）。illness 是「生病的狀態或疾病」；disease 多指有名稱的具體疾病；ill 是形容詞「生病的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-force",
+      "word": "force",
+      "pos": "動詞",
+      "meaning": "強迫；迫使",
+      "sentences": [
+        {
+          "en": "The heavy snow will force the airport to cancel most of its flights for the rest of the day.",
+          "zh": "大雪將迫使機場取消今天剩下的大部分航班。"
+        },
+        {
+          "en": "If sales continue to drop, the owners may force the store to close two of its branches in the city center.",
+          "zh": "如果銷售持續下滑，老闆可能會迫使那家店關閉市中心的兩家分店。"
+        },
+        {
+          "en": "Rising fuel prices may force airlines to raise ticket prices again before the summer holiday season.",
+          "zh": "燃料價格上漲可能迫使航空公司在暑假旺季前再次調漲票價。"
+        },
+        {
+          "en": "A problem with the battery could force the company to delay the product launch until next spring.",
+          "zh": "電池的問題可能迫使公司把產品發表延到明年春天。"
+        },
+        {
+          "en": "Nobody can force you to work overtime, but the company pays extra money to those who choose to do it.",
+          "zh": "沒有人能強迫你加班，但公司會給選擇加班的人額外的錢。"
+        }
+      ],
+      "distractors": [
+        "forge",
+        "fierce",
+        "forte"
+      ],
+      "note": "語塊：force sb to（迫使某人……）、be forced to（被迫……）。force 當動詞是「強迫」；當名詞是「力量；武力」（in force 是「生效中」）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-healthcare",
+      "word": "healthcare",
+      "pos": "名詞",
+      "meaning": "醫療保健",
+      "sentences": [
+        {
+          "en": "The government plans to spend more money on the healthcare system to reduce waiting times at hospitals.",
+          "zh": "政府計畫在醫療體系上投入更多經費，縮短醫院的候診時間。"
+        },
+        {
+          "en": "Every healthcare worker at the hospital received a bonus for working long hours during the busy winter months.",
+          "zh": "醫院的每位醫護人員都因為在忙碌的冬季長時間工作而獲得獎金。"
+        },
+        {
+          "en": "Many families worry about rising healthcare costs, especially when they have older parents who need regular care.",
+          "zh": "很多家庭擔心醫療費用上漲，尤其是家裡有需要定期照顧的年長父母時。"
+        },
+        {
+          "en": "The company offers good healthcare benefits, which is one reason why so many people want to work there.",
+          "zh": "公司提供很好的醫療福利，這是很多人想在那裡工作的原因之一。"
+        },
+        {
+          "en": "The new app helps healthcare workers share patient information quickly and safely between different hospitals.",
+          "zh": "新的 App 幫助醫護人員在不同醫院之間快速又安全地分享病人資訊。"
+        }
+      ],
+      "distractors": [
+        "welfare",
+        "daycare",
+        "skincare"
+      ],
+      "note": "語塊：healthcare system（醫療體系）、healthcare worker（醫護人員）、healthcare costs（醫療費用）。healthcare 是整體的「醫療照護服務」；health 是「健康」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-scheme",
+      "word": "scheme",
+      "pos": "名詞",
+      "meaning": "計畫；方案",
+      "sentences": [
+        {
+          "en": "All full-time employees can join the company pension scheme after working here for six months.",
+          "zh": "所有正職員工在這裡工作滿六個月後，就可以加入公司的退休金方案。"
+        },
+        {
+          "en": "The new bonus scheme rewards sales staff who bring in more than ten new customers every month.",
+          "zh": "新的獎金制度會獎勵每個月帶進十個以上新客戶的業務人員。"
+        },
+        {
+          "en": "The government started a training scheme to help young people find jobs in the technology sector.",
+          "zh": "政府推出一項訓練計畫，幫助年輕人在科技產業找工作。"
+        },
+        {
+          "en": "Workers said the new bonus scheme was unfair because it only rewarded people in the sales department.",
+          "zh": "員工說新的獎金制度不公平，因為只獎勵業務部的人。"
+        },
+        {
+          "en": "The city's recycling scheme has reduced the amount of waste sent to landfills by almost forty percent.",
+          "zh": "市政府的回收計畫讓送到掩埋場的垃圾量減少了將近四成。"
+        }
+      ],
+      "distractors": [
+        "schema",
+        "scream",
+        "theme"
+      ],
+      "note": "語塊：pension scheme（退休金方案）、bonus scheme（獎金制度）、training scheme（訓練計畫）。scheme 在英式英文常指正式的「計畫、方案」；在美式英文有時帶「詭計」的負面意思。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consultation",
+      "word": "consultation",
+      "pos": "名詞",
+      "meaning": "諮詢；商議",
+      "sentences": [
+        {
+          "en": "The law firm offers a free consultation to new clients who want advice about starting a small business.",
+          "zh": "那家律師事務所為想諮詢開小公司的新客戶提供免費諮詢。"
+        },
+        {
+          "en": "The new safety rules were written in consultation with the workers who use the machines every day.",
+          "zh": "新的安全規定是和每天使用機器的工人商議後制定的。"
+        },
+        {
+          "en": "The consultation fee is one hundred dollars, but it will be returned if you decide to use our service.",
+          "zh": "諮詢費是一百元，但如果你決定使用我們的服務就會退還。"
+        },
+        {
+          "en": "Please call our office to book a consultation with one of our financial advisors next week.",
+          "zh": "請打電話到我們辦公室，預約下週和我們的理財顧問諮詢。"
+        },
+        {
+          "en": "The city will design the new park in consultation with local residents, who can share ideas online.",
+          "zh": "市政府會和當地居民商議設計新公園，居民可以在網路上分享想法。"
+        }
+      ],
+      "distractors": [
+        "consolation",
+        "constellation",
+        "conversation"
+      ],
+      "note": "語塊：free consultation（免費諮詢）、in consultation with（與……商議）、consultation fee（諮詢費）。consultation 是 consult（諮詢）的名詞；consultant 是「顧問」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-put-together",
+      "word": "put together",
+      "pos": "片語動詞",
+      "meaning": "組合；整理；籌組",
+      "sentences": [
+        {
+          "en": "Could you put together a report on last month's sales figures before the meeting on Thursday?",
+          "zh": "你能在週四開會前彙整一份上個月銷售數字的報告嗎？"
+        },
+        {
+          "en": "The director asked Ms. Kim to put together a team of five people to plan the company's anniversary event.",
+          "zh": "主任請金小姐組成一個五人團隊，籌劃公司的週年活動。"
+        },
+        {
+          "en": "Our consultants will put together a plan to help the company reduce its costs by ten percent next year.",
+          "zh": "我們的顧問會擬定一個計畫，幫助公司明年降低一成的成本。"
+        },
+        {
+          "en": "It took the workers only two hours to put together all of the new desks in the office.",
+          "zh": "工人只花了兩個小時就把辦公室所有的新桌子組裝好了。"
+        },
+        {
+          "en": "Before the trade show, please put together a list of all of the products that we will display at our booth.",
+          "zh": "展覽前，請整理出一份我們攤位要展示的所有產品清單。"
+        }
+      ],
+      "distractors": [
+        "put away",
+        "put off",
+        "put up"
+      ],
+      "note": "語塊：put together a report（彙整報告）、put together a team（組成團隊）、put together a plan（擬定計畫）。put together 是「把東西組合起來；整理出」；assemble 是比較正式的說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-previous",
+      "word": "previous",
+      "pos": "形容詞",
+      "meaning": "先前的；上一個的",
+      "sentences": [
+        {
+          "en": "Applicants with previous experience in customer service will be given priority for the position at our new branch in Kaohsiung.",
+          "zh": "有客服相關經驗的應徵者應徵我們高雄新分店的職位時會優先錄取。"
+        },
+        {
+          "en": "Sales this year were twenty percent higher than in the previous year, mainly because of the new product.",
+          "zh": "今年的銷售比前一年高兩成，主要是因為新產品。"
+        },
+        {
+          "en": "The previous owner of the restaurant moved to Canada, but he still visits the restaurant every summer.",
+          "zh": "餐廳的前任老闆搬到加拿大了，但他每年夏天還是會回來看看。"
+        },
+        {
+          "en": "Please read the minutes of the previous meeting before you come to the discussion on Monday.",
+          "zh": "週一來參加討論前，請先看上次會議的紀錄。"
+        },
+        {
+          "en": "The new manager has no previous experience in the food industry, but she learns very quickly.",
+          "zh": "新經理沒有餐飲業的經驗，但她學得很快。"
+        }
+      ],
+      "distractors": [
+        "precious",
+        "obvious",
+        "various"
+      ],
+      "note": "語塊：previous experience（先前的經驗）、previous year（前一年）、previous owner（前任屋主）。previous 是「之前的」；previously 是副詞「先前」；precious 是「珍貴的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inclusive",
+      "word": "inclusive",
+      "pos": "形容詞",
+      "meaning": "包含在內的；包容的",
+      "sentences": [
+        {
+          "en": "The price of the tour is inclusive of hotel rooms, all meals, and transportation between the cities.",
+          "zh": "這個行程的價格包含飯店住宿、所有餐點和城市之間的交通。"
+        },
+        {
+          "en": "Many families choose an all-inclusive resort so that they do not have to worry about extra costs.",
+          "zh": "很多家庭選擇全包式度假村，這樣就不用擔心額外費用。"
+        },
+        {
+          "en": "The company wants to build an inclusive workplace where employees from every background feel welcome.",
+          "zh": "公司想打造一個包容的職場，讓不同背景的員工都感到被接納。"
+        },
+        {
+          "en": "All prices on the menu are inclusive of tax, but the service charge will be added to your bill.",
+          "zh": "菜單上所有價格都含稅，但服務費會另外加在帳單上。"
+        },
+        {
+          "en": "Our new training program helps managers create a more inclusive workplace for people with disabilities.",
+          "zh": "我們的新訓練計畫幫助主管為身心障礙者打造更包容的職場。"
+        }
+      ],
+      "distractors": [
+        "exclusive",
+        "conclusive",
+        "intrusive"
+      ],
+      "note": "語塊：all-inclusive（全包的）、inclusive of（包含……）、inclusive workplace（包容的職場）。inclusive 是「包括在內的」；include 是動詞；exclusive 是相反詞「獨家的；不包括的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deduction",
+      "word": "deduction",
+      "pos": "名詞",
+      "meaning": "扣除（額）；推論",
+      "sentences": [
+        {
+          "en": "Money that you give to a registered charity can be used as a tax deduction at the end of the year.",
+          "zh": "捐給登記有案的慈善機構的錢，年底可以拿來抵稅。"
+        },
+        {
+          "en": "The monthly salary deduction for health insurance will increase slightly starting in January because of the new government rules.",
+          "zh": "健康保險每月的薪資扣款因為政府的新規定，從一月開始會稍微增加。"
+        },
+        {
+          "en": "The company will make a deduction from your final payment if any office equipment is not returned.",
+          "zh": "如果沒有歸還任何辦公設備，公司會從你最後一筆薪水中扣除。"
+        },
+        {
+          "en": "Please check your pay slip carefully and tell the accounting office if any deduction looks wrong.",
+          "zh": "請仔細檢查你的薪資單，如果任何扣款看起來有誤，請告訴會計室。"
+        },
+        {
+          "en": "Small business owners can get a tax deduction for some of the money they spend on office supplies.",
+          "zh": "小企業主花在辦公用品上的部分費用可以拿來抵稅。"
+        }
+      ],
+      "distractors": [
+        "reduction",
+        "induction",
+        "seduction"
+      ],
+      "note": "語塊：tax deduction（減稅；稅額扣除）、salary deduction（薪資扣款）、make a deduction（扣除）。deduction 是 deduct（扣除）的名詞，也可以是「推論」（deduce 的名詞）；reduction 是「減少」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-preoccupied",
+      "word": "preoccupied",
+      "pos": "形容詞",
+      "meaning": "心事重重的；全神貫注於……的",
+      "sentences": [
+        {
+          "en": "The manager seemed preoccupied with the budget problems and did not hear my question during the meeting.",
+          "zh": "經理似乎一直在想預算的問題，會議中沒聽到我的問題。"
+        },
+        {
+          "en": "Many employees are preoccupied with the merger and worry about whether they will keep their jobs.",
+          "zh": "很多員工滿腦子都是合併的事，擔心自己能不能保住工作。"
+        },
+        {
+          "en": "Ms. Lin was so preoccupied with her presentation that she forgot to eat lunch on Tuesday.",
+          "zh": "林小姐全神貫注在簡報上，週二連午餐都忘了吃。"
+        },
+        {
+          "en": "Please do not let customers feel ignored, even if you are preoccupied with other tasks at the counter.",
+          "zh": "即使你在櫃台忙著其他事，也請不要讓顧客覺得被忽視。"
+        },
+        {
+          "en": "The CEO was preoccupied with the new factory project, so she asked her assistant to handle the interviews.",
+          "zh": "執行長全心投入新工廠的專案，所以請助理處理面試。"
+        }
+      ],
+      "distractors": [
+        "occupied",
+        "prejudiced",
+        "precipitated"
+      ],
+      "note": "語塊：preoccupied with（全神貫注於……；被……佔據心思）。preoccupied 是「心裡一直想著某件事而分心」；occupied 是「忙碌的；有人使用的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hesitant",
+      "word": "hesitant",
+      "pos": "形容詞",
+      "meaning": "猶豫的；遲疑的",
+      "sentences": [
+        {
+          "en": "Many customers are still hesitant to buy electric cars because there are not enough charging stations in the city.",
+          "zh": "很多顧客還是不太願意買電動車，因為市區的充電站不夠多。"
+        },
+        {
+          "en": "The board was hesitant about opening a new store overseas until the market research was finished.",
+          "zh": "在市場調查完成之前，董事會對在海外開新店一直很猶豫。"
+        },
+        {
+          "en": "New employees are often hesitant to ask questions, so managers should make them feel comfortable from the first day.",
+          "zh": "新員工常常不太敢發問，所以主管應該從第一天就讓他們感到自在。"
+        },
+        {
+          "en": "Some investors were hesitant about the project because the company had never worked in that industry before.",
+          "zh": "有些投資人對這個專案很猶豫，因為公司以前從沒做過那個產業。"
+        },
+        {
+          "en": "If you are hesitant to sign the contract, please ask our lawyer to explain any part that is not clear.",
+          "zh": "如果你對簽約還有疑慮，請讓我們的律師解釋任何不清楚的部分。"
+        }
+      ],
+      "distractors": [
+        "hesitate",
+        "distant",
+        "resistant"
+      ],
+      "note": "語塊：hesitant to do（不太願意做……）、hesitant about（對……猶豫）。hesitant 是形容詞；hesitate 是動詞（Please don't hesitate to contact us）；hesitation 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-evaluation",
+      "word": "evaluation",
+      "pos": "名詞",
+      "meaning": "評估；考核",
+      "sentences": [
+        {
+          "en": "Every employee will have a performance evaluation with his or her manager at the end of December.",
+          "zh": "每位員工都會在十二月底和主管進行績效考核。"
+        },
+        {
+          "en": "Please fill out the evaluation form after the training session so that we can improve the course next time.",
+          "zh": "訓練課程結束後請填寫評估表，讓我們下次能改進課程。"
+        },
+        {
+          "en": "After careful evaluation of all of the proposals, the committee chose the design from a small local company.",
+          "zh": "仔細評估所有提案後，委員會選了一家當地小公司的設計。"
+        },
+        {
+          "en": "Workers who receive a good performance evaluation are more likely to get a raise and a bonus next year.",
+          "zh": "績效考核好的員工明年比較有可能加薪和拿到獎金。"
+        },
+        {
+          "en": "The evaluation form asks participants to rate the speaker, the materials, and the location of the seminar.",
+          "zh": "評估表請參加者為講者、教材和研討會場地評分。"
+        }
+      ],
+      "distractors": [
+        "evacuation",
+        "valuation",
+        "elevation"
+      ],
+      "note": "語塊：performance evaluation（績效考核）、evaluation form（評估表）、careful evaluation（仔細評估）。evaluation 是 evaluate（評估）的名詞；assessment 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-expect",
+      "word": "expect",
+      "pos": "動詞",
+      "meaning": "預期；期待",
+      "sentences": [
+        {
+          "en": "We expect to receive the new parts from our supplier by the end of next week at the latest.",
+          "zh": "我們預計最晚下週末會收到供應商的新零件。"
+        },
+        {
+          "en": "We expect the new shopping mall to attract more than ten thousand visitors on its first weekend.",
+          "zh": "我們預計新購物中心在第一個週末會吸引一萬多名遊客。"
+        },
+        {
+          "en": "As we expect, sales of air conditioners will increase sharply when the summer season begins next month.",
+          "zh": "如我們預期，下個月夏天一開始，冷氣的銷量就會大幅增加。"
+        },
+        {
+          "en": "The company does not expect to hire any new employees until the economy improves next year.",
+          "zh": "公司預計在明年經濟好轉之前不會雇用新員工。"
+        },
+        {
+          "en": "Passengers should expect delays on the highway this weekend because of the road construction near the airport.",
+          "zh": "因為機場附近在施工，旅客這個週末在高速公路上要有塞車的心理準備。"
+        }
+      ],
+      "distractors": [
+        "accept",
+        "except",
+        "inspect"
+      ],
+      "note": "語塊：expect to do（預計做……）、as expected（如預期）。expect 是「預期會發生」；wait for 是「等待」；expectation 是名詞「期望」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-multiple",
+      "word": "multiple",
+      "pos": "形容詞",
+      "meaning": "多個的；多重的",
+      "sentences": [
+        {
+          "en": "I have called the customer service center multiple times, but nobody has solved the problem with my order.",
+          "zh": "我打了好幾次客服中心，但沒有人解決我的訂單問題。"
+        },
+        {
+          "en": "The company has offices in multiple locations across Asia, including Tokyo, Seoul, Bangkok, and Singapore.",
+          "zh": "公司在亞洲多個地點設有辦公室，包括東京、首爾、曼谷和新加坡。"
+        },
+        {
+          "en": "The test has forty multiple choice questions, and students have one hour to answer all of them.",
+          "zh": "考試有四十題選擇題，學生有一個小時作答。"
+        },
+        {
+          "en": "The new software allows multiple users to work on the same document at the same time from different offices.",
+          "zh": "新軟體讓多位使用者可以在不同的辦公室同時編輯同一份文件。"
+        },
+        {
+          "en": "Ms. Davis has visited the factory multiple times this year to check the quality of the products.",
+          "zh": "戴維斯小姐今年去了工廠好幾次，檢查產品品質。"
+        }
+      ],
+      "distractors": [
+        "multiply",
+        "simple",
+        "triple"
+      ],
+      "note": "語塊：multiple times（好幾次）、multiple locations（多個地點）、multiple choice（選擇題）。multiple 是「很多個、不只一個」；multiply 是動詞「乘；增加」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-resident",
+      "word": "resident",
+      "pos": "名詞",
+      "meaning": "居民；住戶",
+      "sentences": [
+        {
+          "en": "Every local resident is invited to a meeting at the library to discuss the plan for the new park.",
+          "zh": "每位當地居民都受邀到圖書館參加會議，討論新公園的計畫。"
+        },
+        {
+          "en": "As a resident of the building, you can use the gym and the swimming pool on the roof for free.",
+          "zh": "身為大樓住戶，你可以免費使用頂樓的健身房和游泳池。"
+        },
+        {
+          "en": "Mrs. Taylor has been a long-time resident of this neighborhood and knows almost everyone on the street.",
+          "zh": "泰勒太太是這個社區的長期住戶，幾乎認識街上的每個人。"
+        },
+        {
+          "en": "The city will give each resident a free recycling bin to encourage people to sort their waste.",
+          "zh": "市政府會給每位居民一個免費的回收桶，鼓勵大家做垃圾分類。"
+        },
+        {
+          "en": "A local resident complained that the noise from the construction site starts too early every morning.",
+          "zh": "一位當地居民抱怨工地的噪音每天早上都太早開始。"
+        }
+      ],
+      "distractors": [
+        "president",
+        "residence",
+        "resistant"
+      ],
+      "note": "語塊：local resident（當地居民）、resident of（……的居民）、long-time resident（長期住戶）。resident 是「住在某地的人」；residence 是「住所」；residential 是「住宅的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-conservation",
+      "word": "conservation",
+      "pos": "名詞",
+      "meaning": "保育；節約",
+      "sentences": [
+        {
+          "en": "The company encourages energy conservation by turning off all lights and computers after seven in the evening.",
+          "zh": "公司鼓勵節約能源，晚上七點後關掉所有的燈和電腦。"
+        },
+        {
+          "en": "During the dry season, the city asks every resident to practice water conservation at home.",
+          "zh": "乾季期間，市政府請每位居民在家節約用水。"
+        },
+        {
+          "en": "The zoo donates part of its ticket sales to wildlife conservation programs in Africa and South America.",
+          "zh": "動物園把部分門票收入捐給非洲和南美洲的野生動物保育計畫。"
+        },
+        {
+          "en": "The new building was designed with energy conservation in mind, so it uses forty percent less electricity.",
+          "zh": "新大樓在設計時就考慮了節約能源，所以用電量少了四成。"
+        },
+        {
+          "en": "Students from the local university volunteer every summer to help with wildlife conservation in the national park.",
+          "zh": "當地大學的學生每年夏天都去國家公園當志工，協助野生動物保育。"
+        }
+      ],
+      "distractors": [
+        "conversation",
+        "conservative",
+        "conversion"
+      ],
+      "note": "語塊：energy conservation（節約能源）、water conservation（節約用水）、wildlife conservation（野生動物保育）。conservation 是「保護、節約」；conversation 是「對話」，拼法很像；conserve 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-waste",
+      "word": "waste",
+      "pos": "名詞",
+      "meaning": "浪費；廢棄物",
+      "sentences": [
+        {
+          "en": "Many employees think that long meetings without a clear goal are a waste of time and money.",
+          "zh": "很多員工認為沒有明確目標的長時間會議既浪費時間又浪費錢。"
+        },
+        {
+          "en": "The restaurant tries to reduce waste by giving leftover food to a local charity every evening.",
+          "zh": "那家餐廳每天晚上把剩下的食物送給當地的慈善機構，以減少浪費。"
+        },
+        {
+          "en": "Supermarkets are looking for new ways to cut food waste, such as selling fruit at lower prices before it goes bad.",
+          "zh": "超市在尋找減少廚餘的新方法，例如在水果壞掉前降價販售。"
+        },
+        {
+          "en": "The factory reduced its waste by recycling plastic and paper and by using fewer materials in its packaging.",
+          "zh": "工廠藉由回收塑膠和紙類，以及減少包裝材料，降低了廢棄物。"
+        },
+        {
+          "en": "Printing every e-mail is a waste of paper, so please read your messages on the screen whenever possible.",
+          "zh": "把每封電子郵件都印出來很浪費紙，所以請盡量在螢幕上閱讀。"
+        }
+      ],
+      "distractors": [
+        "waist",
+        "taste",
+        "paste"
+      ],
+      "note": "語塊：waste of time（浪費時間）、reduce waste（減少浪費）、food waste（廚餘）。waste 可以當名詞或動詞「浪費」；waist 是「腰」，發音一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rapidly",
+      "word": "rapidly",
+      "pos": "副詞",
+      "meaning": "迅速地；快速地",
+      "sentences": [
+        {
+          "en": "The online shopping market has grown rapidly over the past five years, especially among older customers.",
+          "zh": "網路購物市場在過去五年快速成長，特別是在年長顧客之間。"
+        },
+        {
+          "en": "Technology changes so rapidly that our engineers must attend training courses every year to stay up to date.",
+          "zh": "科技變化得太快，所以我們的工程師每年都必須參加訓練課程以跟上最新發展。"
+        },
+        {
+          "en": "The number of tourists visiting the island has increased rapidly since the new airport opened last year.",
+          "zh": "自從去年新機場啟用後，造訪那座島的遊客人數迅速增加。"
+        },
+        {
+          "en": "The company is growing rapidly, and it plans to hire more than two hundred new workers next year.",
+          "zh": "公司正快速成長，計畫明年雇用兩百多名新員工。"
+        },
+        {
+          "en": "Prices of fresh vegetables can change rapidly when there is a typhoon or a long period of heavy rain.",
+          "zh": "遇到颱風或長時間大雨時，新鮮蔬菜的價格可能會迅速變化。"
+        }
+      ],
+      "distractors": [
+        "rarely",
+        "readily",
+        "vapidly"
+      ],
+      "note": "語塊：grow rapidly（快速成長）、change rapidly（快速變化）、increase rapidly（迅速增加）。rapidly 是 rapid（快速的）的副詞；quickly 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-part",
+      "word": "part",
+      "pos": "名詞",
+      "meaning": "零件；部分",
+      "sentences": [
+        {
+          "en": "The technician said we need to order a spare part from Germany before he can repair the machine.",
+          "zh": "技術人員說我們要先從德國訂一個備用零件，他才能修機器。"
+        },
+        {
+          "en": "More than three hundred companies will take part in the international trade show in Shanghai next month.",
+          "zh": "下個月將有三百多家公司參加在上海舉行的國際展覽。"
+        },
+        {
+          "en": "Customer service is an important part of our business, so all new staff receive two weeks of training.",
+          "zh": "客戶服務是我們事業很重要的一部分，所以所有新員工都要接受兩週的訓練。"
+        },
+        {
+          "en": "All employees are encouraged to take part in the charity run that the company organizes every spring.",
+          "zh": "公司鼓勵所有員工參加每年春天舉辦的慈善路跑。"
+        },
+        {
+          "en": "The warehouse keeps every spare part in stock so that broken machines can be repaired within one day.",
+          "zh": "倉庫備有每一種備用零件，讓壞掉的機器可以在一天內修好。"
+        }
+      ],
+      "distractors": [
+        "party",
+        "port",
+        "pact"
+      ],
+      "note": "語塊：spare part（備用零件）、take part in（參加）、part of（……的一部分）。part 可以是「部分」或機器的「零件」；take part in 等於 participate in（參加）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-exclusively",
+      "word": "exclusively",
+      "pos": "副詞",
+      "meaning": "專門地；獨家地；僅僅",
+      "sentences": [
+        {
+          "en": "The new phone will be available exclusively in our online store until the end of the month.",
+          "zh": "新手機到月底前只在我們的網路商店獨家販售。"
+        },
+        {
+          "en": "The parking lot on the second floor is reserved exclusively for hotel guests and their visitors.",
+          "zh": "二樓的停車場只保留給飯店房客和他們的訪客。"
+        },
+        {
+          "en": "This special menu was created exclusively for the anniversary event and will not be offered again.",
+          "zh": "這份特別菜單是專門為週年活動設計的，之後不會再提供。"
+        },
+        {
+          "en": "The lounge is open exclusively for members of our reward program who travel in business class.",
+          "zh": "那間貴賓室只開放給搭乘商務艙的獎勵方案會員。"
+        },
+        {
+          "en": "The designer's new collection is available exclusively at one department store in each major city.",
+          "zh": "那位設計師的新系列只在各大城市的一家百貨公司獨家販售。"
+        }
+      ],
+      "distractors": [
+        "excessively",
+        "extensively",
+        "inclusively"
+      ],
+      "note": "語塊：available exclusively（獨家販售）、exclusively for（專門給……）。exclusively 是「只、獨家」；exclusive 是形容詞「獨家的；高級的」；only 意思接近。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
