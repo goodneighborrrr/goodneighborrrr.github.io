@@ -63403,6 +63403,706 @@
       ],
       "note": "語塊：beachfront hotel（海濱飯店）、beachfront property（海濱房產）、beachfront restaurant（海邊餐廳）。beachfront 是「緊鄰海灘的」；waterfront 是「濱水的」；seaside 是「海邊的」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-courtesy-of",
+      "word": "courtesy of",
+      "pos": "介系詞",
+      "meaning": "承蒙……提供；由……免費提供",
+      "sentences": [
+        {
+          "en": "Free drinks will be served after the concert, courtesy of the local chamber of commerce.",
+          "zh": "演唱會後會提供免費飲料，由當地商會招待。"
+        },
+        {
+          "en": "The photos in this brochure are courtesy of a famous photographer who lives in the town.",
+          "zh": "這本簡介裡的照片是由一位住在鎮上的知名攝影師提供的。"
+        },
+        {
+          "en": "Every guest received a small gift bag at the dinner, courtesy of the hotel and its partners.",
+          "zh": "晚宴上每位客人都收到一個小禮物袋，由飯店和合作夥伴提供。"
+        },
+        {
+          "en": "Transportation from the airport to the conference center will be provided courtesy of the organizers.",
+          "zh": "從機場到會議中心的交通由主辦單位免費提供。"
+        },
+        {
+          "en": "The new computers in the library were provided courtesy of a technology company in the city.",
+          "zh": "圖書館的新電腦是由市內一家科技公司提供的。"
+        }
+      ],
+      "distractors": [
+        "because of",
+        "instead of",
+        "regardless of"
+      ],
+      "note": "語塊：courtesy of the hotel（由飯店提供）、photos courtesy of（照片由……提供）、provided courtesy of（由……免費提供）、courtesy of the organizers（由主辦單位提供）。courtesy of 是「感謝某人或某單位免費提供」；courtesy 單獨是「禮貌」；courtesy bus 是「免費接駁車」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ask-for",
+      "word": "ask for",
+      "pos": "片語動詞",
+      "meaning": "要求；請求",
+      "sentences": [
+        {
+          "en": "If you have any problems with the new software, please do not hesitate to ask for help from the IT team.",
+          "zh": "如果你對新軟體有任何問題，請不要猶豫，向資訊團隊求助。"
+        },
+        {
+          "en": "The customer decided to ask for a refund because the jacket arrived with a large hole in it.",
+          "zh": "那位顧客決定要求退款，因為外套送到時有一個大洞。"
+        },
+        {
+          "en": "Many young managers ask for advice from senior colleagues when they face difficult decisions at work.",
+          "zh": "很多年輕主管在工作上遇到困難的決定時，會向資深同事徵求建議。"
+        },
+        {
+          "en": "You can ask for a window seat when you check in at the airport, but it depends on availability.",
+          "zh": "你在機場報到時可以要求靠窗座位，但要看有沒有空位。"
+        },
+        {
+          "en": "Please ask for a receipt whenever you pay for a taxi during your business trip.",
+          "zh": "出差期間每次付計程車錢時，請記得要收據。"
+        }
+      ],
+      "distractors": [
+        "ask about",
+        "ask after",
+        "ask around"
+      ],
+      "note": "語塊：ask for help（求助）、ask for a refund（要求退款）、ask for advice（徵求建議）。ask for + 東西（ask for help）；ask sb to do 是「請某人做……」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unlimited",
+      "word": "unlimited",
+      "pos": "形容詞",
+      "meaning": "無限的；不限量的",
+      "sentences": [
+        {
+          "en": "Members of the gym have unlimited access to all classes, including yoga, swimming, and dance.",
+          "zh": "健身房會員可以無限制參加所有課程，包括瑜伽、游泳和舞蹈。"
+        },
+        {
+          "en": "The new phone plan offers unlimited data for only thirty dollars a month, so it is very popular.",
+          "zh": "新的手機方案每月只要三十元就有吃到飽數據，所以很受歡迎。"
+        },
+        {
+          "en": "The café offers unlimited refills of coffee and tea for customers who buy a breakfast set.",
+          "zh": "咖啡廳為買早餐套餐的顧客提供咖啡和茶無限續杯。"
+        },
+        {
+          "en": "Students will have unlimited access to the online library for as long as they study at the university.",
+          "zh": "學生在大學就讀期間可以無限制使用線上圖書館。"
+        },
+        {
+          "en": "The hotel offers unlimited free coffee in the lobby for all guests from six in the morning until midnight.",
+          "zh": "飯店從早上六點到午夜在大廳為所有客人提供不限量的免費咖啡。"
+        }
+      ],
+      "distractors": [
+        "unlisted",
+        "unlikely",
+        "united"
+      ],
+      "note": "語塊：unlimited access（無限制使用）、unlimited data（吃到飽數據）、unlimited refills（無限續杯）。unlimited 是「沒有限制的」；limited 是「有限的」；limitless 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-turnstile",
+      "word": "turnstile",
+      "pos": "名詞",
+      "meaning": "旋轉閘門；十字轉門",
+      "sentences": [
+        {
+          "en": "Passengers must tap their card at the turnstile before they can enter the subway platform.",
+          "zh": "乘客必須在閘門刷卡才能進入地鐵月台。"
+        },
+        {
+          "en": "The stadium installed a new ticket turnstile at each gate so that fans can enter more quickly before the game.",
+          "zh": "體育場在每個入口都裝了新的驗票閘門，讓球迷在比賽前能更快入場。"
+        },
+        {
+          "en": "Please pass through the turnstile one person at a time and keep your ticket until you leave.",
+          "zh": "請一次一人通過閘門，並保留票卷直到離開。"
+        },
+        {
+          "en": "The turnstile at the main entrance was broken, so staff had to check tickets by hand.",
+          "zh": "正門的閘門故障了，所以工作人員只好人工驗票。"
+        },
+        {
+          "en": "Each turnstile counts the number of visitors, which helps the museum know how busy it is every day.",
+          "zh": "每個閘門都會計算參觀人數，幫助博物館了解每天有多忙。"
+        }
+      ],
+      "distractors": [
+        "turntable",
+        "textile",
+        "turnover"
+      ],
+      "note": "語塊：pass through the turnstile（通過閘門）、ticket turnstile（驗票閘門）。turnstile 是車站、體育場入口一次只讓一人通過的閘門；gate 是一般「大門」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fare-box",
+      "word": "fare box",
+      "pos": "名詞",
+      "meaning": "（公車上的）投幣箱；收費箱",
+      "sentences": [
+        {
+          "en": "Passengers who do not have a card can put money in the fare box next to the driver.",
+          "zh": "沒有卡的乘客可以把錢投進司機旁邊的收費箱。"
+        },
+        {
+          "en": "The city replaced the old boxes on its buses with an electronic fare box that accepts cards and phones.",
+          "zh": "市政府把公車上的舊投幣箱換成可以刷卡和手機的電子收費箱。"
+        },
+        {
+          "en": "Please have the exact amount ready, because the fare box on the bus does not give change.",
+          "zh": "請準備好剛好的金額，因為公車上的投幣箱不找零。"
+        },
+        {
+          "en": "The driver checks the fare box at the end of each day and gives the money to the bus company.",
+          "zh": "司機每天收班時檢查投幣箱，把錢交給客運公司。"
+        },
+        {
+          "en": "The new electric buses have a fare box that also shows how much money is left on your card.",
+          "zh": "新的電動公車有收費箱，還會顯示你卡片的餘額。"
+        }
+      ],
+      "distractors": [
+        "fair",
+        "post box",
+        "mail box"
+      ],
+      "note": "語塊：put money in the fare box（把錢投進收費箱）、electronic fare box（電子收費箱）。fare 是車資；fare box 是公車上投錢的箱子；fair（公平的；博覽會）發音一樣，不要搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-board",
+      "word": "on board",
+      "pos": "其他",
+      "meaning": "在（船、飛機、車）上；加入團隊",
+      "sentences": [
+        {
+          "en": "All passengers on board the plane must keep their seat belts fastened until the sign is turned off.",
+          "zh": "飛機上所有乘客都必須繫緊安全帶，直到燈號熄滅。"
+        },
+        {
+          "en": "Welcome on board, Ms. Rivera! We are very happy that you have joined our marketing team.",
+          "zh": "歡迎加入，里維拉小姐！我們很高興你加入我們的行銷團隊。"
+        },
+        {
+          "en": "The manager hopes that every department will get on board with the new plan to reduce paper use.",
+          "zh": "經理希望每個部門都支持新的減紙計畫。"
+        },
+        {
+          "en": "There are more than three thousand passengers on board the cruise ship, which will arrive in Japan tomorrow.",
+          "zh": "郵輪上有三千多名乘客，明天會抵達日本。"
+        },
+        {
+          "en": "Snacks and drinks are available on board the train, but passengers may also bring their own food.",
+          "zh": "火車上有販售點心和飲料，但乘客也可以自備食物。"
+        }
+      ],
+      "distractors": [
+        "on hand",
+        "on duty",
+        "on call"
+      ],
+      "note": "語塊：on board the plane（在飛機上）、welcome on board（歡迎加入）、get on board（贊同；加入）。on board 是「在交通工具上」，也可以比喻「加入、支持」；aboard 意思一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-emergency",
+      "word": "emergency",
+      "pos": "名詞",
+      "meaning": "緊急情況",
+      "sentences": [
+        {
+          "en": "In case of emergency, please leave the building by the stairs and do not use the elevators.",
+          "zh": "萬一發生緊急情況，請走樓梯離開大樓，不要搭電梯。"
+        },
+        {
+          "en": "Please keep the emergency exit clear at all times, because boxes there could block people from leaving.",
+          "zh": "請隨時保持緊急出口暢通，因為放在那裡的箱子可能會擋住人離開。"
+        },
+        {
+          "en": "Mr. Brown was taken to the emergency room after he hurt his arm at the construction site.",
+          "zh": "布朗先生在工地手臂受傷後被送到急診室。"
+        },
+        {
+          "en": "Every employee should know the location of the nearest emergency exit on his or her floor.",
+          "zh": "每位員工都應該知道自己樓層最近的緊急出口在哪裡。"
+        },
+        {
+          "en": "The phone number for the security office is printed on every door in case of emergency.",
+          "zh": "每扇門上都印有保全室的電話號碼，以防萬一發生緊急情況。"
+        }
+      ],
+      "distractors": [
+        "emergence",
+        "urgency",
+        "agency"
+      ],
+      "note": "語塊：in case of emergency（萬一發生緊急情況）、emergency exit（緊急出口）、emergency room（急診室）。emergency 是「緊急狀況」；urgent 是形容詞「緊急的」；emergence 是「出現」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-instead",
+      "word": "instead",
+      "pos": "副詞",
+      "meaning": "反而；作為替代",
+      "sentences": [
+        {
+          "en": "The meeting room was too small, so we held the meeting in the cafeteria instead.",
+          "zh": "會議室太小了，所以我們改在員工餐廳開會。"
+        },
+        {
+          "en": "Instead of printing every document, please read your e-mails and reports on the computer screen.",
+          "zh": "與其把每份文件都印出來，請在電腦螢幕上閱讀電子郵件和報告。"
+        },
+        {
+          "en": "The train was canceled because of the snow, so many passengers decided to take the bus instead.",
+          "zh": "火車因為下雪停駛，所以很多乘客決定改搭公車。"
+        },
+        {
+          "en": "The company decided to repair the old machines instead of buying new ones, which saved a lot of money.",
+          "zh": "公司決定修理舊機器而不是買新的，省了很多錢。"
+        },
+        {
+          "en": "If the blue shirt is out of stock, you can choose the white one instead at the same price.",
+          "zh": "如果藍色襯衫缺貨，你可以用同樣的價格改選白色的。"
+        }
+      ],
+      "distractors": [
+        "indeed",
+        "inside",
+        "instant"
+      ],
+      "note": "語塊：instead of（而不是……）、use … instead（改用……）。instead 單獨用放句尾或句首（Let's take the bus instead）；instead of 後面接名詞或 V-ing。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-at-a-cost-of",
+      "word": "at a cost of",
+      "pos": "介系詞",
+      "meaning": "花費……；以……的代價",
+      "sentences": [
+        {
+          "en": "The new library was built at a cost of five million dollars, which was paid by the city and local businesses.",
+          "zh": "新圖書館花了五百萬元建成，由市政府和當地企業出資。"
+        },
+        {
+          "en": "The company will replace all of its delivery trucks at a cost of about two million dollars.",
+          "zh": "公司將花費約兩百萬元更換所有的送貨卡車。"
+        },
+        {
+          "en": "The old bridge will be repaired at a cost of three hundred thousand dollars over the next six months.",
+          "zh": "舊橋將在未來六個月內花費三十萬元修繕。"
+        },
+        {
+          "en": "The hotel added a new swimming pool and spa at a cost of more than one million dollars last year.",
+          "zh": "飯店去年花了一百多萬元增建新的游泳池和水療中心。"
+        },
+        {
+          "en": "The museum bought the famous painting at a cost of ten million dollars, the highest price in its history.",
+          "zh": "博物館以一千萬元買下那幅名畫，是館史上最高的價格。"
+        }
+      ],
+      "distractors": [
+        "at a rate of",
+        "at a loss",
+        "at all costs"
+      ],
+      "note": "語塊：at a cost of + 金額（花費……）、at the cost of（以……為代價）。at a cost of 後面接金額（at a cost of $2 million）；at the cost of 是「犧牲……」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ward",
+      "word": "ward",
+      "pos": "名詞",
+      "meaning": "病房；（行政）區",
+      "sentences": [
+        {
+          "en": "The hospital opened a new children's ward with colorful walls, toys, and a small library.",
+          "zh": "醫院開設了一間新的兒童病房，有彩色的牆壁、玩具和小圖書館。"
+        },
+        {
+          "en": "Visitors to the hospital ward must wash their hands and speak quietly so that patients can rest.",
+          "zh": "醫院病房的訪客必須洗手並輕聲說話，讓病人休息。"
+        },
+        {
+          "en": "The maternity ward is on the fifth floor, next to the waiting room for family members.",
+          "zh": "產房在五樓，就在家屬等候室旁邊。"
+        },
+        {
+          "en": "Nurses in the ward check on every patient at least once an hour during the night.",
+          "zh": "病房的護理師夜間至少每小時查看每位病人一次。"
+        },
+        {
+          "en": "The company donated new beds and televisions to the children's ward at the local hospital.",
+          "zh": "那家公司捐贈新病床和電視給當地醫院的兒童病房。"
+        }
+      ],
+      "distractors": [
+        "word",
+        "warden",
+        "award"
+      ],
+      "note": "語塊：hospital ward（醫院病房）、children's ward（兒童病房）、maternity ward（產房）。ward 在醫院是「病房」；在城市是「行政區」；room 是一般「房間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-treatment",
+      "word": "treatment",
+      "pos": "名詞",
+      "meaning": "治療；對待",
+      "sentences": [
+        {
+          "en": "Workers who are injured on the job will receive medical treatment at no cost to them.",
+          "zh": "在工作中受傷的員工可以免費接受醫療。"
+        },
+        {
+          "en": "Mr. Kim had to receive treatment for his back for several weeks after the accident.",
+          "zh": "金先生在事故後必須接受好幾週的背部治療。"
+        },
+        {
+          "en": "All customers should be treated equally, and nobody should receive special treatment because of who they are.",
+          "zh": "所有顧客都應該被平等對待，沒有人應該因為身分而享有特別待遇。"
+        },
+        {
+          "en": "The new hospital offers treatment for patients with heart problems from all over the region.",
+          "zh": "新醫院為整個地區有心臟問題的病人提供治療。"
+        },
+        {
+          "en": "The insurance plan covers the cost of medical treatment for employees and their families, including children under eighteen.",
+          "zh": "保險方案涵蓋員工及其家人（包括十八歲以下的孩子）的醫療費用。"
+        }
+      ],
+      "distractors": [
+        "treaty",
+        "statement",
+        "retreatment"
+      ],
+      "note": "語塊：medical treatment（醫療）、receive treatment（接受治療）、special treatment（特別待遇）。treatment 是 treat（治療；對待）的名詞；cure 是「治癒」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enlarge",
+      "word": "enlarge",
+      "pos": "動詞",
+      "meaning": "擴大；放大",
+      "sentences": [
+        {
+          "en": "Please enlarge the photo before you print it, because the faces are too small to see clearly.",
+          "zh": "列印前請先把照片放大，因為臉太小看不清楚。"
+        },
+        {
+          "en": "The owners plan to enlarge the store next year by adding a café on the second floor.",
+          "zh": "老闆計畫明年在二樓加開咖啡廳，擴大店面。"
+        },
+        {
+          "en": "The city will enlarge the parking lot near the train station because it is always full in the morning.",
+          "zh": "市政府會擴建火車站附近的停車場，因為早上總是停滿。"
+        },
+        {
+          "en": "You can enlarge the text on the screen by clicking the button in the top right corner.",
+          "zh": "你可以點右上角的按鈕放大螢幕上的文字。"
+        },
+        {
+          "en": "The museum decided to enlarge the gallery so that it can display more of its sculptures.",
+          "zh": "博物館決定擴大展廳，以展出更多雕塑。"
+        }
+      ],
+      "distractors": [
+        "enrage",
+        "enlist",
+        "encourage"
+      ],
+      "note": "語塊：enlarge the photo（放大照片）、enlarge the store（擴建店面）、enlarge the parking lot（擴建停車場）、enlarge the gallery（擴大展廳）。enlarge 是「使變大」；expand 意思接近；enlargement 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-walk-in",
+      "word": "walk-in",
+      "pos": "形容詞",
+      "meaning": "不需預約的；免預約的",
+      "sentences": [
+        {
+          "en": "The salon accepts walk-in customers every day, but people with appointments will always be served first.",
+          "zh": "美髮沙龍每天都接受臨時上門的客人，但有預約的人一律優先服務。"
+        },
+        {
+          "en": "The new walk-in clinic near the station is open every day from eight in the morning until ten at night.",
+          "zh": "車站附近新的免預約診所每天早上八點開到晚上十點。"
+        },
+        {
+          "en": "The bedroom has a large walk-in closet, which was one reason why we decided to buy the apartment.",
+          "zh": "臥室有一個大的步入式衣櫥，這是我們決定買那間公寓的原因之一。"
+        },
+        {
+          "en": "The restaurant keeps a few tables for walk-in customers who arrive without a reservation on weekends.",
+          "zh": "餐廳保留幾張桌子給週末沒有訂位直接上門的客人。"
+        },
+        {
+          "en": "Patients can visit the walk-in clinic for minor problems such as colds and small cuts.",
+          "zh": "病人有感冒或小傷口之類的輕微問題時，可以去免預約診所。"
+        }
+      ],
+      "distractors": [
+        "walk-on",
+        "walkout",
+        "walkway"
+      ],
+      "note": "語塊：walk-in customers（臨時上門的客人）、walk-in clinic（免預約診所）、walk-in closet（步入式衣櫥）。walk-in 是「直接走進去、不用預約的」；appointment 是「預約」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pay-for",
+      "word": "pay for",
+      "pos": "片語動詞",
+      "meaning": "支付；為……付錢",
+      "sentences": [
+        {
+          "en": "The company will pay for the meal if you take a client to dinner during the business trip.",
+          "zh": "如果你出差時帶客戶吃晚餐，公司會支付餐費。"
+        },
+        {
+          "en": "The new solar panels will pay for themselves in about six years because of the lower electricity bills.",
+          "zh": "因為電費降低，新的太陽能板大約六年就能回本。"
+        },
+        {
+          "en": "Visitors must pay for parking at the machine near the entrance before they return to their cars.",
+          "zh": "訪客回到車上前必須在入口附近的機器付停車費。"
+        },
+        {
+          "en": "Many students work part-time in the evenings to pay for their university fees and books.",
+          "zh": "很多學生晚上打工來支付大學學費和書錢。"
+        },
+        {
+          "en": "Guests can pay for their rooms by credit card, cash, or mobile payment at the front desk.",
+          "zh": "客人可以在櫃台用信用卡、現金或行動支付付房費。"
+        }
+      ],
+      "distractors": [
+        "pay off",
+        "pay back",
+        "pay out"
+      ],
+      "note": "語塊：pay for the meal（付餐費）、pay for parking（付停車費）、pay for fees（支付費用）、pay for rooms（付房費）。pay for + 東西（pay for the tickets）；pay + 人或金額（pay the driver / pay $50）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-allow",
+      "word": "allow",
+      "pos": "動詞",
+      "meaning": "允許；讓",
+      "sentences": [
+        {
+          "en": "The new policy will allow employees to work from home two days a week if their managers agree.",
+          "zh": "新規定允許員工在主管同意下一週在家工作兩天。"
+        },
+        {
+          "en": "The restaurant does not allow pets inside, but guests may bring them to the outdoor tables in the garden.",
+          "zh": "餐廳不允許寵物進入室內，但客人可以帶牠們到花園的戶外座位。"
+        },
+        {
+          "en": "The software will allow customers to track their orders and change the delivery time online.",
+          "zh": "軟體讓顧客能在線上追蹤訂單和更改送貨時間。"
+        },
+        {
+          "en": "Please allow at least three days for delivery, because we are very busy during the holiday season.",
+          "zh": "請預留至少三天的送貨時間，因為我們在假期期間非常忙。"
+        },
+        {
+          "en": "The museum does not allow visitors to take photos inside the gallery with the ancient paintings.",
+          "zh": "博物館不允許參觀者在有古畫的展廳裡拍照。"
+        }
+      ],
+      "distractors": [
+        "allot",
+        "alloy",
+        "follow"
+      ],
+      "note": "語塊：allow sb to do（允許某人做……）、be allowed to（被允許……）、allow for（考慮到）。allow sb to do 一定接 to + 原形；permit 意思接近，比較正式；let sb do 不用 to。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-production",
+      "word": "production",
+      "pos": "名詞",
+      "meaning": "生產；製作；產量",
+      "sentences": [
+        {
+          "en": "The company will start mass production of the new electric bicycle in March next year.",
+          "zh": "公司明年三月將開始大量生產新的電動自行車。"
+        },
+        {
+          "en": "Workers on the production line take a short break every two hours to prevent accidents.",
+          "zh": "生產線上的工人每兩小時休息一下，以防發生意外。"
+        },
+        {
+          "en": "The factory plans to increase production by twenty percent to meet the growing demand from Asia.",
+          "zh": "工廠計畫增加兩成產量，以應付亞洲日益增加的需求。"
+        },
+        {
+          "en": "The film's production took three years and involved more than five hundred people in four countries.",
+          "zh": "那部電影的製作花了三年，四個國家共有五百多人參與。"
+        },
+        {
+          "en": "The new machines on the production line can work twenty-four hours a day without stopping.",
+          "zh": "生產線上的新機器可以一天二十四小時不停運作。"
+        }
+      ],
+      "distractors": [
+        "productivity",
+        "reproduction",
+        "protection"
+      ],
+      "note": "語塊：mass production（大量生產）、production line（生產線）、increase production（增加產量）。production 是 produce（生產）的名詞；product 是「產品」；productivity 是「生產力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-direct",
+      "word": "direct",
+      "pos": "動詞",
+      "meaning": "指引；把……送往；導演",
+      "sentences": [
+        {
+          "en": "Please direct any questions about the new schedule to Ms. Lee in the human resources department.",
+          "zh": "關於新班表的任何問題，請洽人資部的李小姐。"
+        },
+        {
+          "en": "Police officers will direct traffic near the stadium before and after the game on Saturday.",
+          "zh": "週六比賽前後，警察會在體育場附近指揮交通。"
+        },
+        {
+          "en": "The famous actor will direct a film for the first time next year, and it will be shot in Taiwan.",
+          "zh": "那位知名演員明年將首次執導電影，會在台灣拍攝。"
+        },
+        {
+          "en": "Staff at the information desk will direct visitors to the right room for each session.",
+          "zh": "服務台的工作人員會引導訪客到各場次的正確教室。"
+        },
+        {
+          "en": "If you have a complaint, please direct it to our customer care team so that we can help you quickly.",
+          "zh": "如果您有任何投訴，請轉給我們的客服團隊，讓我們能快速協助您。"
+        }
+      ],
+      "distractors": [
+        "detect",
+        "divert",
+        "correct"
+      ],
+      "note": "語塊：direct questions to（把問題轉給……）、direct traffic（指揮交通）、direct a film（執導電影）。direct 當動詞是「指示、引導」；當形容詞是「直接的」；director 是「主任；導演」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fluent",
+      "word": "fluent",
+      "pos": "形容詞",
+      "meaning": "流利的",
+      "sentences": [
+        {
+          "en": "Applicants for the position must be fluent in English and Japanese, because they will work with clients from Tokyo.",
+          "zh": "應徵這個職位的人必須精通英文和日文，因為要和東京的客戶合作。"
+        },
+        {
+          "en": "Ms. Park speaks fluent English because she studied at a university in Canada for five years.",
+          "zh": "朴小姐英文說得很流利，因為她在加拿大的大學讀了五年書。"
+        },
+        {
+          "en": "The hotel is looking for front desk staff who are fluent in at least two languages.",
+          "zh": "飯店在找至少精通兩種語言的櫃台人員。"
+        },
+        {
+          "en": "Mr. Chen became fluent in Spanish after working at a hotel in Mexico for three years.",
+          "zh": "陳先生在墨西哥的飯店工作三年後，西班牙文變得很流利。"
+        },
+        {
+          "en": "Being fluent in a second language can help you get a better job in an international company.",
+          "zh": "精通第二外語可以幫你在跨國公司找到更好的工作。"
+        }
+      ],
+      "distractors": [
+        "affluent",
+        "fluid",
+        "frequent"
+      ],
+      "note": "語塊：fluent in（精通……語言）、fluent English（流利的英文）。fluent 是「說得流利的」；fluently 是副詞；fluency 是名詞「流利度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-headshot",
+      "word": "headshot",
+      "pos": "名詞",
+      "meaning": "大頭照；證件照",
+      "sentences": [
+        {
+          "en": "Every employee must submit a headshot for the new company website by the end of the week.",
+          "zh": "每位員工都必須在本週末前提交一張大頭照放在公司新網站上。"
+        },
+        {
+          "en": "The photographer will take a professional headshot of each speaker before the international conference begins.",
+          "zh": "攝影師會在國際研討會開始前為每位講者拍專業大頭照。"
+        },
+        {
+          "en": "Actors usually send a headshot and a short résumé when they apply for a role in a film.",
+          "zh": "演員應徵電影角色時，通常會寄一張大頭照和簡短的履歷。"
+        },
+        {
+          "en": "A professional headshot can make a good impression on employers who look at your online profile.",
+          "zh": "專業的大頭照能讓看你線上個人檔案的雇主留下好印象。"
+        },
+        {
+          "en": "Please send a recent headshot to the marketing team so that they can add it to the brochure.",
+          "zh": "請把一張近照寄給行銷團隊，讓他們放進簡介冊裡。"
+        }
+      ],
+      "distractors": [
+        "mugshot",
+        "snapshot",
+        "screenshot"
+      ],
+      "note": "語塊：professional headshot（專業大頭照）、submit a headshot（提交大頭照）。headshot 是只拍頭和肩膀的照片，常用在履歷、名片或公司網站。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-arrival-area",
+      "word": "arrival area",
+      "pos": "名詞",
+      "meaning": "入境大廳；抵達區",
+      "sentences": [
+        {
+          "en": "Our driver will meet you in the arrival area holding a sign with your name on it.",
+          "zh": "我們的司機會在入境大廳舉著寫有你名字的牌子接你。"
+        },
+        {
+          "en": "There is a currency exchange counter in the arrival area, so you can change money as soon as you land.",
+          "zh": "入境大廳有換匯櫃台，所以你一落地就能換錢。"
+        },
+        {
+          "en": "The arrival area of the airport was very crowded because several international flights landed at the same time.",
+          "zh": "機場入境大廳非常擁擠，因為好幾班國際航班同時降落。"
+        },
+        {
+          "en": "Please wait for the tour guide in the arrival area after you collect your luggage.",
+          "zh": "領完行李後，請在入境大廳等導遊。"
+        },
+        {
+          "en": "The new arrival area has more seats, free wireless internet, and several cafés for people who are waiting.",
+          "zh": "新的入境大廳有更多座位、免費無線網路，還有好幾家咖啡廳給等候的人。"
+        }
+      ],
+      "distractors": [
+        "departure area",
+        "waiting area",
+        "rest area"
+      ],
+      "note": "語塊：in the arrival area（在入境大廳）、meet sb in the arrival area（在入境大廳接人）。arrival 是「抵達」；departure area 是「出境大廳」；baggage claim 是「行李提領處」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
