@@ -78768,6 +78768,671 @@
       ],
       "note": "語塊：at short notice（臨時；突然）、on short notice（臨時通知）。short notice 是「通知的時間很短」；in advance 是「事先」；notice 是「通知；注意」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-newly",
+      "word": "newly",
+      "pos": "副詞",
+      "meaning": "新近地；最近才",
+      "sentences": [
+        {
+          "en": "The newly opened restaurant near the station has already become very popular with office workers and students.",
+          "zh": "車站附近新開的餐廳已經很受上班族和學生歡迎。"
+        },
+        {
+          "en": "All newly hired employees must attend a weeklong training course before they start working with customers.",
+          "zh": "所有新進員工在開始接觸顧客前，都必須參加為期一週的訓練課程。"
+        },
+        {
+          "en": "The company moved into a newly built office tower that has a gym and a garden on the roof.",
+          "zh": "公司搬進一棟新建的辦公大樓，頂樓有健身房和花園。"
+        },
+        {
+          "en": "The newly elected mayor promised to improve public transit and build more affordable housing in the city.",
+          "zh": "新當選的市長承諾在市內改善大眾運輸並興建更多平價住宅。"
+        },
+        {
+          "en": "Visitors can enjoy the newly opened gallery, which displays modern art from all over Asia.",
+          "zh": "參觀者可以欣賞新開放的展廳，裡面展出來自亞洲各地的現代藝術。"
+        }
+      ],
+      "distractors": [
+        "nearly",
+        "neatly",
+        "namely"
+      ],
+      "note": "語塊：newly opened（新開幕的）、newly built（新建的）、newly hired（新雇用的）。newly 放在過去分詞前面，表示「剛剛才……」；recently 意思接近；new 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-critical",
+      "word": "critical",
+      "pos": "形容詞",
+      "meaning": "關鍵的；批評的；危急的",
+      "sentences": [
+        {
+          "en": "Good communication plays a critical role in the success of any project that involves many departments.",
+          "zh": "良好的溝通在任何牽涉多個部門的專案成功中扮演關鍵角色。"
+        },
+        {
+          "en": "Some residents were critical of the city's plan to build a new highway through the old neighborhood.",
+          "zh": "有些居民批評市政府要在舊社區裡蓋新高速公路的計畫。"
+        },
+        {
+          "en": "The patient was in critical condition after the accident, but he is now recovering well in the hospital.",
+          "zh": "病人在事故後情況危急，但現在正在醫院順利康復。"
+        },
+        {
+          "en": "It is critical that all workers wear safety equipment when they operate heavy machinery in the factory.",
+          "zh": "所有工人在工廠操作重型機械時都穿戴安全裝備是非常關鍵的。"
+        },
+        {
+          "en": "The report was very critical of the company's customer service, so the manager made several changes.",
+          "zh": "報告對公司的客服提出嚴厲批評，所以經理做了好幾項改變。"
+        }
+      ],
+      "distractors": [
+        "crucial",
+        "cynical",
+        "clinical"
+      ],
+      "note": "語塊：critical role（關鍵角色）、critical of（批評……的）、critical condition（危急狀況）。critical 有「非常重要的」和「愛批評的」兩個意思；criticize 是動詞「批評」；critic 是「評論家」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-a-row",
+      "word": "in a row",
+      "pos": "副詞",
+      "meaning": "連續地",
+      "sentences": [
+        {
+          "en": "The restaurant has won the award for the best seafood in the city three years in a row.",
+          "zh": "那家餐廳已經連續三年獲得市內最佳海鮮獎。"
+        },
+        {
+          "en": "It has rained for five days in a row, so many outdoor events this weekend have been canceled.",
+          "zh": "已經連續下了五天雨，所以這個週末很多戶外活動都取消了。"
+        },
+        {
+          "en": "Sales have increased for six months in a row, and the company expects the trend to continue.",
+          "zh": "銷售已經連續六個月成長，公司預期這個趨勢會持續。"
+        },
+        {
+          "en": "Mr. Kim was late for work three days in a row, so his manager asked him if there was a problem.",
+          "zh": "金先生連續三天上班遲到，所以主管問他是不是有什麼問題。"
+        },
+        {
+          "en": "The team won the national championship two years in a row, which made the whole town very proud.",
+          "zh": "那支隊伍連續兩年贏得全國冠軍，讓整個小鎮都非常驕傲。"
+        }
+      ],
+      "distractors": [
+        "in a way",
+        "in a hurry",
+        "in a word"
+      ],
+      "note": "語塊：years in a row（連續好幾年）、days in a row（連續好幾天）、months in a row（連續好幾個月）。in a row 是「一個接一個沒中斷」；consecutive 意思接近；row 是「排；列」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-end-up",
+      "word": "end up",
+      "pos": "片語動詞",
+      "meaning": "最後落得；結果成為",
+      "sentences": [
+        {
+          "en": "If you do not book a hotel early, you may end up paying much more during the festival.",
+          "zh": "如果你不提早訂飯店，節慶期間最後可能要付更多錢。"
+        },
+        {
+          "en": "If you take the wrong train, you may end up in a small town far away from the conference center.",
+          "zh": "如果你搭錯火車，最後可能會到離會議中心很遠的一個小鎮。"
+        },
+        {
+          "en": "Many people who move to the city for a short time end up living there for the rest of their lives.",
+          "zh": "很多搬到城市暫住的人，最後一輩子都住在那裡。"
+        },
+        {
+          "en": "If you do not read the contract carefully, you may end up with costs that you did not expect.",
+          "zh": "如果你不仔細看合約，最後可能會有意料之外的費用。"
+        },
+        {
+          "en": "The meeting was supposed to be short, but we will probably end up talking for two hours.",
+          "zh": "會議本來應該很短，但我們大概最後會談上兩個小時。"
+        }
+      ],
+      "distractors": [
+        "end in",
+        "make up",
+        "pick up"
+      ],
+      "note": "語塊：end up doing（最後做了……）、end up in（最後到了……）、end up with（最後得到……）。end up 是「最後的結果（常是沒預料到的）」；後面常接 V-ing 或介系詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-urgently",
+      "word": "urgently",
+      "pos": "副詞",
+      "meaning": "緊急地；迫切地",
+      "sentences": [
+        {
+          "en": "The hospital urgently needs more nurses, so it is offering higher salaries to attract new staff.",
+          "zh": "醫院迫切需要更多護理師，所以提供更高的薪水吸引新員工。"
+        },
+        {
+          "en": "Please call the client back urgently, because she has a problem with her order that must be fixed today.",
+          "zh": "請緊急回電給客戶，因為她的訂單有問題，今天必須解決。"
+        },
+        {
+          "en": "The city urgently requested help from other regions after the flood damaged hundreds of homes.",
+          "zh": "洪水損壞數百戶住家後，市政府緊急向其他地區請求協助。"
+        },
+        {
+          "en": "We urgently need to find a new supplier, because the current one cannot deliver materials until next month.",
+          "zh": "我們迫切需要找新的供應商，因為目前這家要到下個月才能交貨。"
+        },
+        {
+          "en": "The manager urgently asked all staff to check their e-mail for important news about the system.",
+          "zh": "經理緊急要求所有員工查看電子郵件，了解關於系統的重要消息。"
+        }
+      ],
+      "distractors": [
+        "currently",
+        "eagerly",
+        "gently"
+      ],
+      "note": "語塊：urgently need（迫切需要）、urgently request（緊急要求）。urgently 是 urgent（緊急的）的副詞；immediately 是「立刻」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-operational",
+      "word": "operational",
+      "pos": "形容詞",
+      "meaning": "運作中的；營運的",
+      "sentences": [
+        {
+          "en": "The new factory will be fully operational by the end of next year and will employ five hundred workers.",
+          "zh": "新工廠明年底將全面運作，雇用五百名工人。"
+        },
+        {
+          "en": "The company is trying to reduce its operational costs by using less energy in its offices.",
+          "zh": "公司正試著在辦公室減少用電，以降低營運成本。"
+        },
+        {
+          "en": "The new subway line became operational last week, and thousands of people used it on the first day.",
+          "zh": "新地鐵線上週開始營運，第一天就有數千人搭乘。"
+        },
+        {
+          "en": "Most of the machines in the factory are operational again after the power was restored this morning.",
+          "zh": "今天早上恢復供電後，工廠大部分機器又可以運作了。"
+        },
+        {
+          "en": "The airport's new terminal will not be operational until the new security system has been tested carefully.",
+          "zh": "機場新航廈要等新保全系統仔細測試完才會啟用。"
+        }
+      ],
+      "distractors": [
+        "operative",
+        "optional",
+        "occupational"
+      ],
+      "note": "語塊：fully operational（全面運作）、operational costs（營運成本）、became operational（開始營運）、operational again（又可以運作）、will not be operational（不會啟用）。operational 是「可以運作的；和營運有關的」；operation 是名詞；operate 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-population",
+      "word": "population",
+      "pos": "名詞",
+      "meaning": "人口",
+      "sentences": [
+        {
+          "en": "The city's growing population has made it more difficult to find affordable apartments near the center.",
+          "zh": "城市人口成長讓在市中心附近找到平價公寓變得更難。"
+        },
+        {
+          "en": "The population of the small town has doubled since the new factory opened ten years ago.",
+          "zh": "自從新工廠十年前開工以來，小鎮的人口已經增加了一倍。"
+        },
+        {
+          "en": "Many countries have an aging population, so there is a growing need for healthcare workers.",
+          "zh": "很多國家人口高齡化，所以對醫護人員的需求越來越大。"
+        },
+        {
+          "en": "The new hospital was built because the population in the northern part of the city has increased rapidly.",
+          "zh": "新醫院之所以興建，是因為城市北部的人口快速增加。"
+        },
+        {
+          "en": "The government will study the population of each region before it decides where to build new schools.",
+          "zh": "政府在決定在哪裡蓋新學校之前，會研究每個地區的人口。"
+        }
+      ],
+      "distractors": [
+        "popularity",
+        "pollution",
+        "publication"
+      ],
+      "note": "語塊：growing population（成長中的人口）、population of（……的人口）、aging population（高齡化人口）。population 是「一個地區的總人數」；populous 是「人口多的」；popular 是「受歡迎的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-neighborhood",
+      "word": "neighborhood",
+      "pos": "名詞",
+      "meaning": "社區；鄰近地區",
+      "sentences": [
+        {
+          "en": "The family moved to a quiet neighborhood near the park so that their children could play outside safely.",
+          "zh": "那家人搬到公園附近一個安靜的社區，讓孩子可以安全地在外面玩。"
+        },
+        {
+          "en": "There are several good restaurants in the neighborhood, so you do not need to drive downtown for dinner.",
+          "zh": "附近有好幾家不錯的餐廳，所以你不用開車到市中心吃晚餐。"
+        },
+        {
+          "en": "The city will build a new neighborhood park with a playground, a garden, and a walking path.",
+          "zh": "市政府將蓋一座新的社區公園，有遊樂場、花園和步道。"
+        },
+        {
+          "en": "Prices for apartments in this neighborhood have increased because a new subway station opened nearby.",
+          "zh": "這個社區的公寓價格上漲了，因為附近開了一座新地鐵站。"
+        },
+        {
+          "en": "Residents of the neighborhood meet every month to discuss problems such as parking and noise.",
+          "zh": "社區居民每個月開會，討論停車和噪音等問題。"
+        }
+      ],
+      "distractors": [
+        "neighbor",
+        "brotherhood",
+        "likelihood"
+      ],
+      "note": "語塊：quiet neighborhood（安靜的社區）、in the neighborhood（在附近）、neighborhood park（社區公園）。neighborhood 是英式拼法 neighbourhood 的美式寫法；neighbor 是「鄰居」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cut-down",
+      "word": "cut down",
+      "pos": "片語動詞",
+      "meaning": "減少；砍倒",
+      "sentences": [
+        {
+          "en": "The company wants to cut down on paper, so all reports will be sent by e-mail from next month.",
+          "zh": "公司想減少用紙，所以從下個月起所有報告都會用電子郵件寄送。"
+        },
+        {
+          "en": "Doctors say that people should cut down on sugar and salt to stay healthy as they get older.",
+          "zh": "醫生說人們隨著年紀增長應該減少糖和鹽的攝取，以保持健康。"
+        },
+        {
+          "en": "The city had to cut down several old trees because they were dangerous during strong winds.",
+          "zh": "市政府必須砍掉幾棵老樹，因為它們在強風中很危險。"
+        },
+        {
+          "en": "The restaurant decided to cut down on plastic by giving customers paper straws and paper bags instead.",
+          "zh": "那家餐廳決定改給顧客紙吸管和紙袋，以減少塑膠用量。"
+        },
+        {
+          "en": "If we cut down on travel and hold more online meetings, we can save a lot of money this year.",
+          "zh": "如果我們減少出差、多開線上會議，今年可以省下很多錢。"
+        }
+      ],
+      "distractors": [
+        "cut off",
+        "cut out",
+        "cut back"
+      ],
+      "note": "語塊：cut down on（減少……）、cut down a tree（砍樹）。cut down on + 東西 是「減少使用」；reduce 意思接近；cut off 是「切斷」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-avid",
+      "word": "avid",
+      "pos": "形容詞",
+      "meaning": "熱衷的；狂熱的",
+      "sentences": [
+        {
+          "en": "Ms. Lee is an avid reader who borrows at least five books from the library every month.",
+          "zh": "李小姐熱愛閱讀，每個月至少從圖書館借五本書。"
+        },
+        {
+          "en": "As an avid fan of the team, Mr. Kim goes to every home game at the stadium with his son.",
+          "zh": "身為那支球隊的狂熱粉絲，金先生每場主場比賽都帶兒子去體育場看。"
+        },
+        {
+          "en": "The magazine is popular with avid travelers who want to find quiet places that few tourists visit.",
+          "zh": "那本雜誌很受熱愛旅行、想找少有觀光客的安靜地點的人歡迎。"
+        },
+        {
+          "en": "The bookstore holds a monthly meeting for avid readers who want to discuss new novels together.",
+          "zh": "書店每個月為想一起討論新小說的愛書人舉辦聚會。"
+        },
+        {
+          "en": "The museum's new exhibition will attract every avid fan of old cars in the region.",
+          "zh": "博物館的新展覽將吸引這個地區每位老車狂熱粉絲。"
+        }
+      ],
+      "distractors": [
+        "avoid",
+        "vivid",
+        "valid"
+      ],
+      "note": "語塊：avid reader（熱愛閱讀的人）、avid fan（狂熱粉絲）、avid traveler（熱愛旅行的人）。avid 是「非常喜歡、很投入的」；keen、enthusiastic 意思接近；avoid 是「避免」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-hub",
+      "word": "hub",
+      "pos": "名詞",
+      "meaning": "中心；樞紐",
+      "sentences": [
+        {
+          "en": "The city has become a transportation hub, with trains and flights to every major city in Asia.",
+          "zh": "這座城市已成為交通樞紐，有火車和航班通往亞洲各大城市。"
+        },
+        {
+          "en": "Singapore is an important business hub, so many international companies have their Asian offices there.",
+          "zh": "新加坡是重要的商業中心，所以很多跨國公司都把亞洲辦公室設在那裡。"
+        },
+        {
+          "en": "The government wants to turn the area into a technology hub by offering low taxes to new companies.",
+          "zh": "政府想提供新公司低稅率，把這個地區打造成科技重鎮。"
+        },
+        {
+          "en": "The airport is a major hub for flights between Europe and Asia, so it is very busy at night.",
+          "zh": "那座機場是歐亞航班的主要樞紐，所以晚上非常忙碌。"
+        },
+        {
+          "en": "The new station will become a transportation hub for buses, trains, and the subway in the north.",
+          "zh": "新車站將成為北部公車、火車和地鐵的交通樞紐。"
+        }
+      ],
+      "distractors": [
+        "hug",
+        "hut",
+        "pub"
+      ],
+      "note": "語塊：transportation hub（交通樞紐）、business hub（商業中心）、technology hub（科技重鎮）。hub 是「很多事物集中的中心」；center 意思接近；hug 是「擁抱」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-care-of",
+      "word": "take care of",
+      "pos": "片語動詞",
+      "meaning": "照顧；處理",
+      "sentences": [
+        {
+          "en": "The hotel offers a service where trained staff take care of children while their parents go out for dinner.",
+          "zh": "飯店提供讓受過訓練的員工在父母外出用餐時照顧小孩的服務。"
+        },
+        {
+          "en": "Please take care of the problem with the printer before the meeting starts this afternoon.",
+          "zh": "請在今天下午開會前處理好印表機的問題。"
+        },
+        {
+          "en": "Employees who work long hours should take care of themselves by eating well and sleeping enough.",
+          "zh": "長時間工作的員工應該吃好睡飽，照顧好自己。"
+        },
+        {
+          "en": "Our customer care team will take care of your request and contact you within two working days.",
+          "zh": "我們的客服團隊會處理您的需求，並在兩個工作天內聯絡您。"
+        },
+        {
+          "en": "Ms. Lin will take care of the new client while the manager is on vacation next week.",
+          "zh": "下週經理休假時，林小姐會負責照顧新客戶。"
+        }
+      ],
+      "distractors": [
+        "care about",
+        "take part in",
+        "take charge of"
+      ],
+      "note": "語塊：take care of children（照顧小孩）、take care of the problem（處理問題）、take care of themselves（照顧自己）、take care of your request（處理您的需求）、take care of the new client（照顧新客戶）。take care of 有「照顧」和「處理」兩個意思；look after 意思接近；care about 是「在乎」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-contribution",
+      "word": "contribution",
+      "pos": "名詞",
+      "meaning": "貢獻；捐款",
+      "sentences": [
+        {
+          "en": "Ms. Park received an award for her valuable contribution to the success of the new hospital project.",
+          "zh": "朴小姐因為對新醫院專案成功的寶貴貢獻而獲獎。"
+        },
+        {
+          "en": "Every employee can make a contribution to the charity, and the company will match the amount.",
+          "zh": "每位員工都可以捐款給慈善機構，公司會捐出相同金額。"
+        },
+        {
+          "en": "The report highlights the contribution of small businesses to the local economy and job market.",
+          "zh": "報告強調小企業對地方經濟和就業市場的貢獻。"
+        },
+        {
+          "en": "Thank you for your contribution to the meeting, because your ideas helped us solve the problem.",
+          "zh": "謝謝你在會議上的貢獻，你的想法幫我們解決了問題。"
+        },
+        {
+          "en": "The museum thanked the local residents for their generous contribution to the refurbishment of the hall.",
+          "zh": "博物館感謝當地居民對大廳整修的慷慨捐助。"
+        }
+      ],
+      "distractors": [
+        "distribution",
+        "attribution",
+        "constitution"
+      ],
+      "note": "語塊：make a contribution（做出貢獻；捐款）、contribution to（對……的貢獻）、valuable contribution（寶貴的貢獻）。contribution 是 contribute（貢獻；捐助）的名詞；donation 是「捐款」；distribution 是「分配」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-timepiece",
+      "word": "timepiece",
+      "pos": "名詞",
+      "meaning": "鐘錶；計時器",
+      "sentences": [
+        {
+          "en": "The store sells every kind of luxury timepiece, from new Swiss watches to antique clocks from Europe.",
+          "zh": "那家店販售各種名錶，從新的瑞士手錶到歐洲的古董鐘都有。"
+        },
+        {
+          "en": "The antique timepiece in the hotel lobby was made more than two hundred years ago in London.",
+          "zh": "飯店大廳的古董鐘是兩百多年前在倫敦製造的。"
+        },
+        {
+          "en": "The company gives a beautiful timepiece to every employee who has worked there for twenty years.",
+          "zh": "公司會送一支漂亮的錶給每位在公司工作滿二十年的員工。"
+        },
+        {
+          "en": "The museum displays a rare timepiece that once belonged to a famous king of France in the eighteenth century.",
+          "zh": "博物館展出一支曾屬於十八世紀一位知名法國國王的稀有鐘錶。"
+        },
+        {
+          "en": "Each luxury timepiece is made by hand, so it takes several months to finish one watch.",
+          "zh": "每一支名錶都是手工製作的，所以完成一支錶要好幾個月。"
+        }
+      ],
+      "distractors": [
+        "masterpiece",
+        "centerpiece",
+        "timeline"
+      ],
+      "note": "語塊：luxury timepiece（名錶）、antique timepiece（古董鐘錶）。timepiece 是 watch 或 clock 的正式說法，常用在廣告或高級商品；watch 是「手錶」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-specific",
+      "word": "specific",
+      "pos": "形容詞",
+      "meaning": "特定的；具體的",
+      "sentences": [
+        {
+          "en": "Please choose a specific date for the meeting, because the client wants to book a flight soon.",
+          "zh": "請選定一個特定的會議日期，因為客戶想盡快訂機票。"
+        },
+        {
+          "en": "Our designers create furniture for the specific needs of each customer, such as small apartments.",
+          "zh": "我們的設計師依照每位顧客的特定需求設計家具，例如小坪數公寓。"
+        },
+        {
+          "en": "Could you be more specific about the problem, so that our technician can bring the right parts?",
+          "zh": "您可以更具體說明問題嗎？這樣我們的技術人員才能帶對零件。"
+        },
+        {
+          "en": "The job requires specific skills in accounting software, so please list them on your résumé.",
+          "zh": "這份工作需要特定的會計軟體技能，所以請在履歷上列出來。"
+        },
+        {
+          "en": "The hotel can prepare special meals for guests with specific needs, such as vegetarian or gluten-free food.",
+          "zh": "飯店可以為有特定需求的客人準備特別餐點，例如素食或無麩質食物。"
+        }
+      ],
+      "distractors": [
+        "specify",
+        "pacific",
+        "scientific"
+      ],
+      "note": "語塊：specific date（特定日期）、specific needs（特定需求）、be specific（具體一點）。specific 是「明確、特定的」；specifically 是副詞；general 是相反「一般的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-preschool",
+      "word": "preschool",
+      "pos": "名詞",
+      "meaning": "幼兒園；學前教育",
+      "sentences": [
+        {
+          "en": "The company opened a preschool in the office building so that employees can bring their children to work.",
+          "zh": "公司在辦公大樓裡開了一間幼兒園，讓員工可以帶孩子來上班。"
+        },
+        {
+          "en": "Ms. Chen has worked as a preschool teacher for ten years and loves teaching young children.",
+          "zh": "陳小姐當幼教老師十年了，很喜歡教小小孩。"
+        },
+        {
+          "en": "The new park has a special area for preschool children with small slides and soft floors.",
+          "zh": "新公園有一個學齡前兒童的專區，有小溜滑梯和軟地板。"
+        },
+        {
+          "en": "Many parents choose a preschool near their office so that they can pick up their children easily.",
+          "zh": "很多家長選擇公司附近的幼兒園，方便接孩子。"
+        },
+        {
+          "en": "The city plans to open a new preschool in every district next year because many young families have moved there.",
+          "zh": "市政府計畫明年在每個區新開一間幼兒園，因為很多年輕家庭搬到那裡。"
+        }
+      ],
+      "distractors": [
+        "high school",
+        "after-school",
+        "preschooler"
+      ],
+      "note": "語塊：preschool children（學齡前兒童）、preschool teacher（幼教老師）。preschool 是小學之前的學校；kindergarten 是「幼稚園」；primary school 是「小學」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fluency",
+      "word": "fluency",
+      "pos": "名詞",
+      "meaning": "流利（程度）",
+      "sentences": [
+        {
+          "en": "Fluency in English and Japanese is required for this position, because you will work with clients in Tokyo.",
+          "zh": "這個職位需要流利的英文和日文，因為你要和東京的客戶合作。"
+        },
+        {
+          "en": "The language school helps students improve their fluency by practicing conversation with native speakers every day.",
+          "zh": "那間語言學校讓學生每天和母語人士練習對話來提升流利度。"
+        },
+        {
+          "en": "Ms. Rivera's fluency in three languages makes her very helpful to international guests at the hotel.",
+          "zh": "里維拉小姐能流利使用三種語言，讓她對飯店的國際客人很有幫助。"
+        },
+        {
+          "en": "The test checks both the accuracy and the fluency of each student's spoken English during a short interview.",
+          "zh": "測驗會在簡短面談中檢查每位學生英語口說的準確度和流利度。"
+        },
+        {
+          "en": "Watching films without subtitles is a good way to improve your fluency in a foreign language.",
+          "zh": "看沒有字幕的電影是提升外語流利度的好方法。"
+        }
+      ],
+      "distractors": [
+        "frequency",
+        "fluidity",
+        "currency"
+      ],
+      "note": "語塊：fluency in（……的流利度）、language fluency（語言流利度）。fluency 是 fluent（流利的）的名詞；accuracy 是「準確度」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bilingual",
+      "word": "bilingual",
+      "pos": "形容詞",
+      "meaning": "雙語的；會說兩種語言的",
+      "sentences": [
+        {
+          "en": "The hotel hires bilingual staff for the front desk so that they can help guests from other countries.",
+          "zh": "飯店為櫃台雇用雙語員工，讓他們能協助其他國家的客人。"
+        },
+        {
+          "en": "Many parents send their children to a bilingual school so that they learn English from a young age.",
+          "zh": "很多家長送孩子去雙語學校，讓他們從小學英文。"
+        },
+        {
+          "en": "The government plans to support bilingual education in public schools across the country over the next ten years.",
+          "zh": "政府計畫在未來十年支持全國公立學校的雙語教育。"
+        },
+        {
+          "en": "All of the signs in the new airport are bilingual, so foreign visitors can find their way easily.",
+          "zh": "新機場的所有標示都是雙語的，所以外國旅客很容易找到路。"
+        },
+        {
+          "en": "Being bilingual can help you find a better job, especially in companies that do business abroad.",
+          "zh": "會說雙語能幫你找到更好的工作，特別是在海外有業務的公司。"
+        }
+      ],
+      "distractors": [
+        "binational",
+        "linguistic",
+        "bisexual"
+      ],
+      "note": "語塊：bilingual staff（雙語員工）、bilingual school（雙語學校）、bilingual education（雙語教育）。bilingual 是「兩種語言的」；multilingual 是「多種語言的」；fluent 是「流利的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-residency",
+      "word": "residency",
+      "pos": "名詞",
+      "meaning": "居住（期間）；駐村；住院實習",
+      "sentences": [
+        {
+          "en": "The artist received a six-month residency at the museum, where she will paint and teach classes.",
+          "zh": "那位藝術家獲得博物館六個月的駐村，她會在那裡畫畫和授課。"
+        },
+        {
+          "en": "Foreign workers must apply for a residency permit before they can start working in the country.",
+          "zh": "外籍員工必須先申請居留許可，才能在這個國家開始工作。"
+        },
+        {
+          "en": "After medical school, Dr. Lee completed her medical residency at a large hospital in the capital.",
+          "zh": "醫學院畢業後，李醫師在首都一家大醫院完成住院醫師實習。"
+        },
+        {
+          "en": "The artist residency program gives young painters free housing and a studio for one year.",
+          "zh": "藝術家駐村計畫提供年輕畫家一年免費住宿和工作室。"
+        },
+        {
+          "en": "The company will help each foreign employee apply for a residency permit and find an apartment.",
+          "zh": "公司會協助每位外籍員工申請居留許可並找公寓。"
+        }
+      ],
+      "distractors": [
+        "residence",
+        "resident",
+        "regency"
+      ],
+      "note": "語塊：artist residency（藝術家駐村）、residency permit（居留許可）、medical residency（住院醫師實習）。residency 是「在某處居住的狀態或期間」；residence 是「住所」；resident 是「居民」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
