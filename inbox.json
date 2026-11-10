@@ -50138,6 +50138,706 @@
       ],
       "note": "語塊：convenient location（便利的地點）、convenient for（對……方便）、at a convenient time（在方便的時間）。convenient 是「方便的」；convenience 是名詞；comfortable 是「舒適的」，意思不同。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retain",
+      "word": "retain",
+      "pos": "動詞",
+      "meaning": "保留；留住",
+      "sentences": [
+        {
+          "en": "The company offers good benefits and flexible hours in order to retain employees for many years.",
+          "zh": "公司提供好的福利和彈性工時，以便長期留住員工。"
+        },
+        {
+          "en": "It is much cheaper to retain customers than to find new ones, so we focus on excellent service.",
+          "zh": "留住顧客比找新顧客便宜很多，所以我們專注於提供優質服務。"
+        },
+        {
+          "en": "Please retain a copy of your receipt in case you need to return the product later this month.",
+          "zh": "請保留一份收據副本，以防這個月稍晚需要退貨。"
+        },
+        {
+          "en": "The old building will retain its historic facade, but the inside will be completely renovated.",
+          "zh": "那棟老建築會保留歷史正面，但內部將全面翻修。"
+        },
+        {
+          "en": "The hotel was able to retain most of its staff during the renovation by moving them to other locations.",
+          "zh": "翻修期間，飯店把員工調到其他分館，因此留住了大部分人。"
+        }
+      ],
+      "distractors": [
+        "remain",
+        "obtain",
+        "detain"
+      ],
+      "note": "語塊：retain employees（留住員工）、retain customers（留住顧客）、retain a copy（保留副本）。retain 比 keep 正式；retention 是名詞「保留；留任」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unique",
+      "word": "unique",
+      "pos": "形容詞",
+      "meaning": "獨特的；唯一的",
+      "sentences": [
+        {
+          "en": "The hotel offers a unique experience, with rooms built inside the trees of an old forest.",
+          "zh": "那家飯店提供獨特的體驗，房間就蓋在古老森林的樹上。"
+        },
+        {
+          "en": "The internship is a unique opportunity for students to work with engineers at a large company.",
+          "zh": "這份實習是學生和大公司工程師一起工作的難得機會。"
+        },
+        {
+          "en": "The museum's unique design has made it one of the most famous buildings in the city.",
+          "zh": "博物館獨特的設計讓它成為城裡最有名的建築之一。"
+        },
+        {
+          "en": "This type of tea is unique to the mountain region, where the weather is cool and wet all year.",
+          "zh": "這種茶是山區獨有的，那裡全年氣候涼爽潮濕。"
+        },
+        {
+          "en": "Each piece of jewelry in the shop is handmade, so every item has a unique shape and color.",
+          "zh": "店裡每件珠寶都是手工做的，所以每件都有獨特的形狀和顏色。"
+        }
+      ],
+      "distractors": [
+        "unit",
+        "uniform",
+        "antique"
+      ],
+      "note": "語塊：unique design（獨特的設計）、unique opportunity（難得的機會）、unique to（……獨有的）。unique 是「獨一無二的」；special 意思接近；uniquely 是副詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-appearance",
+      "word": "appearance",
+      "pos": "名詞",
+      "meaning": "外觀；出現；露面",
+      "sentences": [
+        {
+          "en": "The famous actor will make an appearance at the opening of the new shopping center on Saturday.",
+          "zh": "那位知名演員週六會在新購物中心的開幕式上露面。"
+        },
+        {
+          "en": "The renovation greatly improved the appearance of the old hotel, which now looks modern and bright.",
+          "zh": "翻修大幅改善了老飯店的外觀，現在看起來現代又明亮。"
+        },
+        {
+          "en": "Employees who meet with clients should pay attention to their appearance and dress professionally every day.",
+          "zh": "會和客戶見面的員工應該注意外表，穿著專業。"
+        },
+        {
+          "en": "The appearance of the new phone is similar to the old one, but it has a much larger screen.",
+          "zh": "新手機的外觀和舊款相似，但螢幕大很多。"
+        },
+        {
+          "en": "The CEO made a brief appearance at the party to thank the staff for their hard work this year.",
+          "zh": "執行長在派對上短暫露面，感謝員工今年的辛勤工作。"
+        }
+      ],
+      "distractors": [
+        "appliance",
+        "apparent",
+        "assurance"
+      ],
+      "note": "語塊：make an appearance（露面）、physical appearance（外表）、the appearance of（……的外觀）。appearance 是名詞；appear 是動詞「出現；看起來」；disappearance 是「消失」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-modification",
+      "word": "modification",
+      "pos": "名詞",
+      "meaning": "修改；變更",
+      "sentences": [
+        {
+          "en": "The engineers made a minor modification to the design after the first tests showed a small problem.",
+          "zh": "第一次測試發現小問題後，工程師對設計做了小幅修改。"
+        },
+        {
+          "en": "Any modification to the contract must be approved in writing by both companies before it takes effect.",
+          "zh": "合約的任何修改都必須在生效前經雙方書面同意。"
+        },
+        {
+          "en": "The customer asked for a modification to her order because she wanted the sofa in a different color.",
+          "zh": "那位顧客要求修改訂單，因為她想要不同顏色的沙發。"
+        },
+        {
+          "en": "The software will need some modification before it can be used by our offices in other countries.",
+          "zh": "軟體需要做一些修改，才能給我們其他國家的辦公室使用。"
+        },
+        {
+          "en": "After a small modification to the menu, the restaurant now offers more vegetarian dishes at lunch.",
+          "zh": "菜單稍作修改後，那家餐廳現在午餐提供更多素食料理。"
+        }
+      ],
+      "distractors": [
+        "notification",
+        "qualification",
+        "mortification"
+      ],
+      "note": "語塊：make modifications（做修改）、minor modification（小幅修改）、modification to（對……的修改）。modification 是名詞；modify 是動詞「修改」；change 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fleet",
+      "word": "fleet",
+      "pos": "名詞",
+      "meaning": "車隊；船隊；機隊",
+      "sentences": [
+        {
+          "en": "The company owns a fleet of delivery trucks that bring products to stores across the country.",
+          "zh": "那家公司擁有一支送貨卡車隊，把產品送到全國各地的門市。"
+        },
+        {
+          "en": "The airline plans to add twenty new planes to its fleet over the next five years.",
+          "zh": "航空公司計畫在未來五年為機隊增加二十架新飛機。"
+        },
+        {
+          "en": "The city will replace its fleet of old buses with electric ones to reduce air pollution downtown.",
+          "zh": "市政府將把老舊的公車隊換成電動公車，以減少市中心的空氣污染。"
+        },
+        {
+          "en": "A fleet of boats takes tourists around the islands every morning during the summer season.",
+          "zh": "夏季期間，每天早上都有一隊船載觀光客環繞那些島嶼。"
+        },
+        {
+          "en": "The taxi company has a fleet of more than five hundred cars, and most of them are electric.",
+          "zh": "那家計程車公司有五百多輛車的車隊，大部分是電動車。"
+        }
+      ],
+      "distractors": [
+        "flee",
+        "fleece",
+        "flight"
+      ],
+      "note": "語塊：a fleet of（一隊……）、fleet of vehicles（車隊）。fleet 是「同一公司擁有的一群車、船或飛機」；flee 是「逃跑」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-archive",
+      "word": "archive",
+      "pos": "名詞",
+      "meaning": "檔案庫；檔案室",
+      "sentences": [
+        {
+          "en": "Old copies of the newspaper are kept in the archive on the third floor of the library.",
+          "zh": "報紙的舊報存放在圖書館三樓的檔案庫裡。"
+        },
+        {
+          "en": "Customers can find every past issue of the magazine in our online archive for free.",
+          "zh": "顧客可以在我們的線上檔案庫免費找到雜誌的每一期過刊。"
+        },
+        {
+          "en": "The company keeps an archive of all of its contracts and important documents for at least ten years.",
+          "zh": "公司把所有合約和重要文件存入檔案庫，至少保留十年。"
+        },
+        {
+          "en": "Researchers spent several weeks in the archive reading letters that were written more than a century ago.",
+          "zh": "研究人員在檔案庫花了好幾週，閱讀一百多年前寫的信。"
+        },
+        {
+          "en": "Please save a copy of the report in the online archive so that other teams can read it later.",
+          "zh": "請把報告的副本存到線上檔案庫，讓其他團隊之後可以閱讀。"
+        }
+      ],
+      "distractors": [
+        "achieve",
+        "arcade",
+        "archer"
+      ],
+      "note": "語塊：in the archive（在檔案庫中）、online archive（線上檔案庫）、archive of（……的檔案）。archive 可以當名詞「檔案庫」或動詞「歸檔」；常用複數 archives。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-payment",
+      "word": "make payment",
+      "pos": "片語動詞",
+      "meaning": "付款",
+      "sentences": [
+        {
+          "en": "Customers can make payment online, by phone, or at any of our branches in the city.",
+          "zh": "顧客可以在網路上、打電話或到城裡任何一家分行付款。"
+        },
+        {
+          "en": "Please make payment by the end of the month to avoid paying a late fee on your bill.",
+          "zh": "請在月底前付款，以免帳單產生滯納金。"
+        },
+        {
+          "en": "Guests must make payment for the first night when they book a room on our website.",
+          "zh": "客人在我們網站訂房時，必須先支付第一晚的費用。"
+        },
+        {
+          "en": "If you would like to make payment by credit card, please call our billing department.",
+          "zh": "如果你想用信用卡付款，請打電話給我們的帳務部。"
+        },
+        {
+          "en": "The supplier asked us to make payment within thirty days of receiving the goods at our warehouse.",
+          "zh": "供應商要求我們收到貨物後三十天內付款。"
+        }
+      ],
+      "distractors": [
+        "make a profit",
+        "make a reservation",
+        "make an offer"
+      ],
+      "note": "語塊：make payment by（以……付款）、make payment online（線上付款）。make payment 和 pay 意思相同，比較正式；make a payment 也很常見。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sudden",
+      "word": "sudden",
+      "pos": "形容詞",
+      "meaning": "突然的",
+      "sentences": [
+        {
+          "en": "The sudden change in the weather forced the organizers to move the outdoor concert indoors.",
+          "zh": "天氣突然改變，迫使主辦單位把音樂會移到室內。"
+        },
+        {
+          "en": "There was a sudden increase in orders after the product appeared on a popular television show.",
+          "zh": "產品出現在熱門電視節目後，訂單突然增加。"
+        },
+        {
+          "en": "All of a sudden, the lights in the office went out, and everyone had to stop working for an hour.",
+          "zh": "突然之間，辦公室的燈熄了，大家只好停工一小時。"
+        },
+        {
+          "en": "The sudden resignation of the director surprised many employees who had worked with him for years.",
+          "zh": "主任突然辭職，讓很多和他共事多年的員工很驚訝。"
+        },
+        {
+          "en": "A sudden drop in temperature can damage crops, so farmers watch the weather forecast carefully.",
+          "zh": "氣溫驟降可能會損害作物，所以農民會仔細注意天氣預報。"
+        }
+      ],
+      "distractors": [
+        "sullen",
+        "sodden",
+        "hidden"
+      ],
+      "note": "語塊：sudden change（突然的改變）、all of a sudden（突然）、sudden increase（突然增加）。sudden 是形容詞；suddenly 是副詞；all of a sudden 是「突然之間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-supervisor",
+      "word": "supervisor",
+      "pos": "名詞",
+      "meaning": "主管；督導",
+      "sentences": [
+        {
+          "en": "Please ask your direct supervisor for permission before you take any days off next month.",
+          "zh": "下個月請假之前，請先徵求你直屬主管的許可。"
+        },
+        {
+          "en": "If you have a problem with a customer, you should report to a supervisor as soon as possible.",
+          "zh": "如果你和顧客之間有問題，請盡快向主管報告。"
+        },
+        {
+          "en": "Ms. Ruiz was promoted to supervisor after working on the night shift for three years.",
+          "zh": "Ruiz 小姐上了三年夜班後，被升為主管。"
+        },
+        {
+          "en": "Each supervisor is responsible for checking the work of the employees on his or her team.",
+          "zh": "每位主管都負責檢查自己團隊員工的工作。"
+        },
+        {
+          "en": "New employees will meet with their supervisor every Friday during their first month at the company.",
+          "zh": "新員工到公司的第一個月，每週五都會和主管見面。"
+        }
+      ],
+      "distractors": [
+        "superior",
+        "superstar",
+        "survivor"
+      ],
+      "note": "語塊：direct supervisor（直屬主管）、report to a supervisor（向主管報告）、promoted to supervisor（升為主管）、each supervisor（每位主管）、meet with their supervisor（和主管見面）。supervisor 是「監督別人工作的人」；supervise 是動詞；supervision 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-billing-statement",
+      "word": "billing statement",
+      "pos": "名詞",
+      "meaning": "帳單；對帳單",
+      "sentences": [
+        {
+          "en": "Customers will receive a monthly billing statement by email at the beginning of each month.",
+          "zh": "顧客每月初會透過電子郵件收到一份每月帳單。"
+        },
+        {
+          "en": "Please review your billing statement carefully and contact us right away if you see any mistakes.",
+          "zh": "請仔細檢查你的帳單，如果發現任何錯誤請聯絡我們。"
+        },
+        {
+          "en": "The billing statement shows every payment you made last month and the amount you still owe.",
+          "zh": "帳單列出你上個月的每一筆付款，以及你還欠的金額。"
+        },
+        {
+          "en": "If you would like to receive a paper billing statement, please change your settings on our website.",
+          "zh": "如果你想收到紙本帳單，請在我們網站上更改設定。"
+        },
+        {
+          "en": "The company sends a billing statement to each client at the end of every project.",
+          "zh": "公司在每個專案結束時都會寄帳單給客戶。"
+        }
+      ],
+      "distractors": [
+        "bank statement",
+        "billing address",
+        "mission statement"
+      ],
+      "note": "語塊：monthly billing statement（每月帳單）、review your billing statement（檢查你的帳單）。billing statement 是「列出應付金額的帳單」；bill、invoice 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sign-up-for",
+      "word": "sign up for",
+      "pos": "片語動詞",
+      "meaning": "報名參加；註冊",
+      "sentences": [
+        {
+          "en": "Employees who want to improve their English can sign up for a free class at the training center.",
+          "zh": "想加強英文的員工可以報名訓練中心的免費課程。"
+        },
+        {
+          "en": "Customers who sign up for our newsletter will receive a coupon for ten percent off their next order.",
+          "zh": "訂閱我們電子報的顧客下次訂購可以拿到九折優惠券。"
+        },
+        {
+          "en": "More than two hundred runners have already signed up, so please sign up for the race before Friday.",
+          "zh": "已經有兩百多位跑者報名了，所以請在週五前報名參加比賽。"
+        },
+        {
+          "en": "Students must sign up for at least four courses each semester in order to stay in the program.",
+          "zh": "學生每學期必須至少報名四門課，才能留在學程中。"
+        },
+        {
+          "en": "Please sign up for the company picnic by Wednesday so that we know how much food to order.",
+          "zh": "請在週三前報名公司野餐，讓我們知道要訂多少食物。"
+        }
+      ],
+      "distractors": [
+        "sign in",
+        "sign out",
+        "sign off"
+      ],
+      "note": "語塊：sign up for a class（報名課程）、sign up for a newsletter（訂閱電子報）、sign up for the race（報名比賽）、sign up for the company picnic（報名公司野餐）、sign up for at least（至少報名……）。sign up for 是「報名、登記參加」；register for 意思接近；sign in 是「登入」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-standard",
+      "word": "standard",
+      "pos": "名詞",
+      "meaning": "標準；水準",
+      "sentences": [
+        {
+          "en": "All of our products are tested carefully to make sure that they meet every safety standard in Europe.",
+          "zh": "我們所有產品都經過仔細測試，確保符合歐洲的每一項安全標準。"
+        },
+        {
+          "en": "The hotel is known for its high standard of service and its excellent restaurant on the top floor.",
+          "zh": "那家飯店以高水準的服務和頂樓的極佳餐廳聞名。"
+        },
+        {
+          "en": "Products that do not meet the standard set by the government cannot be sold in stores.",
+          "zh": "不符合政府標準的產品不能在商店販售。"
+        },
+        {
+          "en": "The company expects every employee to maintain a high standard of work and treat customers politely.",
+          "zh": "公司期待每位員工維持高水準的工作，並有禮貌地對待顧客。"
+        },
+        {
+          "en": "The new law raises the standard for clean air in cities, so factories must reduce their pollution.",
+          "zh": "新法律提高了城市的空氣品質標準，所以工廠必須減少污染。"
+        }
+      ],
+      "distractors": [
+        "standing",
+        "stand",
+        "standpoint"
+      ],
+      "note": "語塊：safety standards（安全標準）、high standard（高標準）、meet the standard（達到標準）。standard 可以當名詞「標準」或形容詞「標準的；一般的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-register",
+      "word": "register",
+      "pos": "動詞",
+      "meaning": "註冊；登記；報名",
+      "sentences": [
+        {
+          "en": "All of the participants must register for the conference online before the end of the month.",
+          "zh": "所有與會者都必須在月底前在線上報名研討會。"
+        },
+        {
+          "en": "You need to register online with your email address before you can use the library's services.",
+          "zh": "你需要先用電子信箱在網路上註冊，才能使用圖書館的服務。"
+        },
+        {
+          "en": "It takes about two weeks to register a company with the government and receive a business license.",
+          "zh": "向政府登記公司並拿到營業執照大約需要兩週。"
+        },
+        {
+          "en": "Guests must register at the front desk and show a photo ID when they arrive at the hotel.",
+          "zh": "客人抵達飯店時必須在櫃台登記並出示附照片的證件。"
+        },
+        {
+          "en": "Students who register for the course before Friday will receive a discount of twenty percent.",
+          "zh": "週五前報名這門課的學生可以享有八折優惠。"
+        }
+      ],
+      "distractors": [
+        "resister",
+        "registry",
+        "regulate"
+      ],
+      "note": "語塊：register for（報名……）、register online（線上註冊）、register a company（登記公司）。register 是「正式登記」；registration 是名詞；sign up 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-downgrade",
+      "word": "downgrade",
+      "pos": "動詞",
+      "meaning": "降級；調降",
+      "sentences": [
+        {
+          "en": "Customers who no longer need the extra features can downgrade to a cheaper plan at any time.",
+          "zh": "不再需要額外功能的顧客，隨時可以降級到比較便宜的方案。"
+        },
+        {
+          "en": "The bank decided to downgrade the company's credit rating because of its rising debts and falling profits.",
+          "zh": "因為負債增加，銀行決定調降那家公司的信用評等。"
+        },
+        {
+          "en": "If you downgrade your membership, you will no longer have access to the gym's swimming pool.",
+          "zh": "如果你降級會員資格，就不能再使用健身房的游泳池。"
+        },
+        {
+          "en": "The airline had to downgrade several passengers to economy class because business class was full.",
+          "zh": "因為商務艙客滿，航空公司只好把好幾位乘客降到經濟艙。"
+        },
+        {
+          "en": "Many families decided to downgrade their phone plans to save money when prices increased last year.",
+          "zh": "漲價時，很多家庭決定把手機方案降級來省錢。"
+        }
+      ],
+      "distractors": [
+        "degrade",
+        "download",
+        "downplay"
+      ],
+      "note": "語塊：downgrade to（降級到……）、downgrade a service（降級服務）。downgrade 是「降到比較低的等級」；upgrade 是「升級」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-automatic",
+      "word": "automatic",
+      "pos": "形容詞",
+      "meaning": "自動的",
+      "sentences": [
+        {
+          "en": "Customers can set up automatic payment so that their bills are paid on the same day every month.",
+          "zh": "顧客可以設定自動扣款，讓帳單每個月在同一天繳清。"
+        },
+        {
+          "en": "The store installed automatic doors at the entrance to make it easier for customers with carts.",
+          "zh": "那家店在入口裝了自動門，方便推購物車的顧客進出。"
+        },
+        {
+          "en": "Your membership will continue because of automatic renewal unless you cancel it before the end of the year.",
+          "zh": "除非你在年底前取消，否則會員資格會因自動續約而繼續。"
+        },
+        {
+          "en": "The new car has an automatic system that stops the vehicle if it gets too close to another car.",
+          "zh": "新車有一個自動系統，在太靠近其他車時會讓車子停下。"
+        },
+        {
+          "en": "The office has an automatic lighting system that turns off the lights when no one is in the room.",
+          "zh": "辦公室有自動照明系統，房間裡沒人時會自動關燈。"
+        }
+      ],
+      "distractors": [
+        "automotive",
+        "autonomous",
+        "acrobatic"
+      ],
+      "note": "語塊：automatic payment（自動扣款）、automatic doors（自動門）、automatic renewal（自動續約）。automatic 是「自動的」；automatically 是副詞；manual 是「手動的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-plan",
+      "word": "plan",
+      "pos": "動詞",
+      "meaning": "計畫；規劃",
+      "sentences": [
+        {
+          "en": "The company will plan to open three new stores in Southeast Asia if sales continue to grow.",
+          "zh": "如果銷售持續成長，公司會規劃在東南亞開三家新店。"
+        },
+        {
+          "en": "It is important to plan ahead when you travel during the holiday season, as hotels fill up quickly.",
+          "zh": "節慶期間旅行時事先規劃很重要，因為飯店很快就會客滿。"
+        },
+        {
+          "en": "The city must plan for the growing number of people who will move there in the next decade.",
+          "zh": "市政府必須為未來十年將搬來的越來越多人口做準備。"
+        },
+        {
+          "en": "We plan to finish the report by Friday so that the manager has time to review it over the weekend.",
+          "zh": "我們打算在週五前完成報告，讓經理週末有時間審閱。"
+        },
+        {
+          "en": "Families who plan ahead can save a lot of money by booking flights several months in advance.",
+          "zh": "事先規劃的家庭提前幾個月訂機票，可以省很多錢。"
+        }
+      ],
+      "distractors": [
+        "plain",
+        "plant",
+        "plane"
+      ],
+      "note": "語塊：plan to（打算……）、plan ahead（事先規劃）、plan for（為……做準備）。plan 可以當動詞或名詞「計畫」；planning 是「規劃」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-difference",
+      "word": "difference",
+      "pos": "名詞",
+      "meaning": "差異；差別",
+      "sentences": [
+        {
+          "en": "Small changes in the way we work can make a difference to the amount of energy we use.",
+          "zh": "工作方式的小改變可以影響我們用電的多寡。"
+        },
+        {
+          "en": "Can you explain the difference between the two plans before I decide which one to choose?",
+          "zh": "在我決定選哪一個之前，你可以說明兩個方案的差異嗎？"
+        },
+        {
+          "en": "There is a big difference in price between the hotels in the city center and those outside the city.",
+          "zh": "市中心的飯店和城外的飯店價格差很多。"
+        },
+        {
+          "en": "The new manager has made a big difference, and the team is now much happier and more productive.",
+          "zh": "新經理帶來了很大的改變，團隊現在快樂多了，效率也高多了。"
+        },
+        {
+          "en": "Volunteers can make a difference in the community by helping elderly people with shopping and cleaning.",
+          "zh": "志工可以幫長者購物和打掃，為社區帶來改變。"
+        }
+      ],
+      "distractors": [
+        "deference",
+        "diffidence",
+        "inference"
+      ],
+      "note": "語塊：make a difference（產生影響）、the difference between（……之間的差異）、a big difference（很大的差別）。difference 是名詞；different 是形容詞；differ 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-matter",
+      "word": "matter",
+      "pos": "名詞",
+      "meaning": "事情；問題",
+      "sentences": [
+        {
+          "en": "The manager will discuss the matter with the client and give you an answer by tomorrow morning.",
+          "zh": "經理會和客戶討論這件事，明天早上前給你答覆。"
+        },
+        {
+          "en": "Finding a good apartment in the city is often a matter of luck as well as money.",
+          "zh": "在城市找到好公寓常常不只是錢的問題，也要看運氣。"
+        },
+        {
+          "en": "No matter what the weather is like, the festival will take place in the park on Saturday.",
+          "zh": "無論天氣如何，慶典週六都會在公園舉行。"
+        },
+        {
+          "en": "The police are investigating the matter and will report their findings to the public later this week.",
+          "zh": "警方正在調查這件事，這週稍晚會公布調查結果。"
+        },
+        {
+          "en": "It is only a matter of time before electric cars become more common than gas cars in the city.",
+          "zh": "電動車在城裡比汽油車更普遍只是時間問題。"
+        }
+      ],
+      "distractors": [
+        "metal",
+        "meter",
+        "mutter"
+      ],
+      "note": "語塊：a matter of（……的問題）、no matter what（無論如何）、discuss the matter（討論這件事）。matter 當名詞是「事情」；當動詞是「要緊」（It doesn't matter 沒關係）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shortly",
+      "word": "shortly",
+      "pos": "副詞",
+      "meaning": "不久；很快",
+      "sentences": [
+        {
+          "en": "The manager will be with you shortly, so please have a seat in the waiting room.",
+          "zh": "經理很快就會來見你，所以請在等候室坐一下。"
+        },
+        {
+          "en": "Shortly after the store opened, a long line of customers formed outside the main entrance.",
+          "zh": "那家店開門後不久，正門外就排起了長長的顧客隊伍。"
+        },
+        {
+          "en": "The train to the airport will arrive shortly, so please wait behind the yellow line.",
+          "zh": "往機場的列車很快就會進站，所以請在黃線後等候。"
+        },
+        {
+          "en": "The CEO resigned shortly before the company announced its plan to close several of its factories.",
+          "zh": "就在公司宣布關閉幾座工廠的計畫之前不久，執行長辭職了。"
+        },
+        {
+          "en": "We received your order, and a confirmation email with the details will be sent to you shortly.",
+          "zh": "我們已收到你的訂單，很快會寄確認信給你。"
+        }
+      ],
+      "distractors": [
+        "shorty",
+        "sharply",
+        "slightly"
+      ],
+      "note": "語塊：shortly after（……之後不久）、shortly before（……之前不久）、arrive shortly（很快到達）。shortly 是「很快、馬上」；soon 意思接近；briefly 是「簡短地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-calculate",
+      "word": "calculate",
+      "pos": "動詞",
+      "meaning": "計算",
+      "sentences": [
+        {
+          "en": "The accountant will calculate the cost of the project and send a report to the director by Friday.",
+          "zh": "會計師會計算專案的成本，並在週五前把報告寄給總監。"
+        },
+        {
+          "en": "The website will calculate the total price of your order, including tax and shipping, automatically.",
+          "zh": "網站會自動計算你訂單的總價，包括稅和運費。"
+        },
+        {
+          "en": "It is difficult to calculate exactly how much energy the new building will save each year.",
+          "zh": "很難精確計算新大樓每年能省多少能源。"
+        },
+        {
+          "en": "The app can calculate how many calories you burn during your workout at the gym.",
+          "zh": "這個 App 可以計算你在健身房運動時消耗多少卡路里。"
+        },
+        {
+          "en": "Please calculate the cost of hotel rooms and meals for everyone who will attend the conference.",
+          "zh": "請計算所有參加研討會的人的飯店和餐費。"
+        }
+      ],
+      "distractors": [
+        "circulate",
+        "calibrate",
+        "speculate"
+      ],
+      "note": "語塊：calculate the cost（計算成本）、calculate the total（計算總額）。calculate 是「用數學算出」；calculator 是「計算機」；calculation 是名詞。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
