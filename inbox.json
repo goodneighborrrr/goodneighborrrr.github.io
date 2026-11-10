@@ -69703,6 +69703,706 @@
       ],
       "note": "語塊：cause a disturbance（造成騷動）、minimize disturbance（減少打擾）、noise disturbance（噪音干擾）。disturbance 是 disturb（打擾）的名詞；interruption 是「中斷」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reception-area",
+      "word": "reception area",
+      "pos": "名詞",
+      "meaning": "接待區；櫃台區",
+      "sentences": [
+        {
+          "en": "Please wait in the reception area on the first floor, and someone will take you to the meeting room.",
+          "zh": "請在一樓接待區等候，會有人帶你到會議室。"
+        },
+        {
+          "en": "The reception area of the hotel has comfortable sofas, free newspapers, and a small coffee bar.",
+          "zh": "飯店接待區有舒適的沙發、免費報紙和一個小咖啡吧。"
+        },
+        {
+          "en": "Visitors must sign in at the reception area before they go upstairs to the offices.",
+          "zh": "訪客上樓到辦公室之前，必須先在接待區登記。"
+        },
+        {
+          "en": "The company redesigned its reception area so that clients would have a good first impression.",
+          "zh": "公司重新設計了接待區，讓客戶有好的第一印象。"
+        },
+        {
+          "en": "Packages for employees will be left in the reception area, where they can collect them after lunch.",
+          "zh": "員工的包裹會放在接待區，他們可以午餐後去領取。"
+        }
+      ],
+      "distractors": [
+        "waiting area",
+        "dining area",
+        "arrival area"
+      ],
+      "note": "語塊：wait in the reception area（在接待區等候）、hotel reception area（飯店接待區）、sign in at the reception area（在接待區登記）、left in the reception area（放在接待區）、redesign the reception area（重新設計接待區）。reception 是「接待；櫃台；招待會」；receptionist 是「接待員」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-under-construction",
+      "word": "under construction",
+      "pos": "其他",
+      "meaning": "施工中；建設中",
+      "sentences": [
+        {
+          "en": "The new subway line is under construction and will open to the public at the end of next year.",
+          "zh": "新地鐵線正在施工，明年底將開放給民眾使用。"
+        },
+        {
+          "en": "The main entrance is currently under construction, so please use the side door near the parking lot.",
+          "zh": "正門目前施工中，所以請使用停車場旁的側門。"
+        },
+        {
+          "en": "Several hotels are under construction near the airport to meet the growing number of tourists.",
+          "zh": "機場附近有好幾家飯店正在興建，以應付日益增加的觀光客。"
+        },
+        {
+          "en": "The website is under construction, but customers can still place orders by phone or e-mail.",
+          "zh": "網站還在建置中，但顧客仍可透過電話或電子郵件下單。"
+        },
+        {
+          "en": "The road to the beach is under construction this month, so the trip may take an extra thirty minutes.",
+          "zh": "通往海灘的道路這個月施工中，所以路程可能會多三十分鐘。"
+        }
+      ],
+      "distractors": [
+        "under repair",
+        "under review",
+        "under control"
+      ],
+      "note": "語塊：be under construction（正在施工）、currently under construction（目前施工中）。under construction 是「還在蓋、還沒完成」；under repair 是「維修中」；under review 是「審查中」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-partition",
+      "word": "partition",
+      "pos": "名詞",
+      "meaning": "隔板；隔間",
+      "sentences": [
+        {
+          "en": "The company installed a glass partition between the desks so that employees have more privacy.",
+          "zh": "公司在桌子之間裝了玻璃隔間，讓員工有更多隱私。"
+        },
+        {
+          "en": "The office partition can be moved easily, so the room can be used for meetings or large events.",
+          "zh": "辦公隔板可以輕鬆移動，所以房間可以用來開會或辦大型活動。"
+        },
+        {
+          "en": "The new manager decided to remove the partition between the two rooms to create one large open office.",
+          "zh": "新經理決定拆除兩個房間之間的隔間，打造一個大型開放式辦公室。"
+        },
+        {
+          "en": "The restaurant uses a wooden partition to separate the private dining area from the main hall.",
+          "zh": "那家餐廳用木頭隔板把私人用餐區和大廳隔開。"
+        },
+        {
+          "en": "Workers will put up a temporary partition in the lobby while the floor is being repaired.",
+          "zh": "地板維修期間，工人會在大廳立起臨時隔板。"
+        }
+      ],
+      "distractors": [
+        "petition",
+        "position",
+        "portion"
+      ],
+      "note": "語塊：office partition（辦公隔板）、glass partition（玻璃隔間）、remove the partition（拆除隔間）。partition 可以當名詞「隔板」或動詞「隔開」；division 是「劃分」；petition 是「請願」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-fill-in",
+      "word": "fill in",
+      "pos": "片語動詞",
+      "meaning": "填寫；代班",
+      "sentences": [
+        {
+          "en": "Please fill in the form with your name, address, and phone number, and give it to the receptionist.",
+          "zh": "請在表格上填好姓名、地址和電話，交給接待員。"
+        },
+        {
+          "en": "Ms. Lin will fill in for the manager while he is on a business trip in Singapore next week.",
+          "zh": "下週經理去新加坡出差時，林小姐會代理他的職務。"
+        },
+        {
+          "en": "Students must fill in the blanks with the correct word before the teacher checks their answers.",
+          "zh": "學生必須在老師檢查答案前用正確的單字填空。"
+        },
+        {
+          "en": "New patients should arrive fifteen minutes early to fill in a form about their medical history.",
+          "zh": "新病人應該提早十五分鐘到，填寫病史表格。"
+        },
+        {
+          "en": "Could you fill in for me at the front desk this afternoon, because I have a dentist appointment?",
+          "zh": "你今天下午可以幫我在櫃台代班嗎？因為我要看牙醫。"
+        }
+      ],
+      "distractors": [
+        "fill up",
+        "fall in",
+        "fit in"
+      ],
+      "note": "語塊：fill in a form（填寫表格）、fill in for（代替某人）、fill in the blanks（填空）。fill in 是「把空白處填好」；fill out 意思一樣（美式較常用）；fill in for sb 是「代班」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-money-order",
+      "word": "money order",
+      "pos": "名詞",
+      "meaning": "匯票",
+      "sentences": [
+        {
+          "en": "Customers who do not have a credit card can pay by money order at any post office.",
+          "zh": "沒有信用卡的顧客可以在任何郵局用匯票付款。"
+        },
+        {
+          "en": "Please send a money order for the full amount to our office, and we will mail the books to you.",
+          "zh": "請把全額匯票寄到我們辦公室，我們會把書寄給你。"
+        },
+        {
+          "en": "Many workers abroad used to send a money order to their families every month before mobile banking.",
+          "zh": "在手機銀行出現之前，很多在國外工作的人每個月寄匯票給家人。"
+        },
+        {
+          "en": "The landlord accepts rent by money order, bank transfer, or cash, but not by personal check.",
+          "zh": "房東接受用匯票、銀行轉帳或現金付房租，但不收個人支票。"
+        },
+        {
+          "en": "You can buy a money order at the bank for a small fee, and it is safer than sending cash by mail.",
+          "zh": "你可以付一點手續費在銀行買匯票，比用郵寄現金安全。"
+        }
+      ],
+      "distractors": [
+        "money transfer",
+        "mail order",
+        "purchase order"
+      ],
+      "note": "語塊：send a money order（寄匯票）、pay by money order（用匯票付款）。money order 是在郵局或銀行買的付款憑證，可以安全寄給別人；check 是「支票」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-enroll",
+      "word": "enroll",
+      "pos": "動詞",
+      "meaning": "註冊；報名參加",
+      "sentences": [
+        {
+          "en": "Employees who want to improve their English can enroll in the free course that starts next month.",
+          "zh": "想加強英文的員工可以報名下個月開始的免費課程。"
+        },
+        {
+          "en": "The university plans to enroll more than five hundred international students in its business program next year.",
+          "zh": "那所大學計畫明年在商學課程招收五百多名國際學生。"
+        },
+        {
+          "en": "Parents must enroll their children in school before the end of June for the new school year.",
+          "zh": "家長必須在六月底前為孩子辦理新學年的入學註冊。"
+        },
+        {
+          "en": "Ms. Kim decided to enroll in a cooking class because she wants to open a small restaurant someday.",
+          "zh": "金小姐決定報名烹飪課，因為她想有一天開一家小餐廳。"
+        },
+        {
+          "en": "To enroll in the program, please fill in the online form and pay the fee by the end of the week.",
+          "zh": "要報名這個課程，請在本週末前填寫線上表格並繳費。"
+        }
+      ],
+      "distractors": [
+        "enrich",
+        "unroll",
+        "enrage"
+      ],
+      "note": "語塊：enroll in（報名參加……）、enroll students（招收學生）。enroll in a course 是「報名課程」；enrollment 是名詞「註冊；入學人數」；register 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-competition",
+      "word": "competition",
+      "pos": "名詞",
+      "meaning": "競爭；比賽",
+      "sentences": [
+        {
+          "en": "The small bookstore closed last year because of strong competition from large online stores and supermarkets.",
+          "zh": "那家小書店去年因為大型網路商店和超市的激烈競爭而關門。"
+        },
+        {
+          "en": "Ms. Park decided to enter a competition for young designers, and she won the first prize.",
+          "zh": "朴小姐決定參加年輕設計師比賽，結果拿到首獎。"
+        },
+        {
+          "en": "Competition from cheaper brands has made it difficult for the company to raise its prices this year.",
+          "zh": "便宜品牌的競爭讓公司今年很難漲價。"
+        },
+        {
+          "en": "There is strong competition for jobs at the bank, so applicants must have excellent grades and experience.",
+          "zh": "那家銀行的工作競爭很激烈，所以應徵者必須有優秀的成績和經驗。"
+        },
+        {
+          "en": "More than one hundred restaurants will enter the cooking competition at the food festival in May.",
+          "zh": "五月的美食節將有一百多家餐廳參加烹飪比賽。"
+        }
+      ],
+      "distractors": [
+        "composition",
+        "completion",
+        "compensation"
+      ],
+      "note": "語塊：strong competition（激烈的競爭）、enter a competition（參加比賽）、competition from（來自……的競爭）。competition 是 compete（競爭）的名詞；competitor 是「競爭對手」；competitive 是「有競爭力的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-gallery",
+      "word": "gallery",
+      "pos": "名詞",
+      "meaning": "畫廊；美術館；展覽室",
+      "sentences": [
+        {
+          "en": "The art gallery downtown is showing paintings by young artists from all over Asia this month.",
+          "zh": "市中心的藝廊這個月展出來自亞洲各地年輕藝術家的畫作。"
+        },
+        {
+          "en": "More than two hundred guests attended the gallery opening, including several famous collectors from Europe and Japan.",
+          "zh": "兩百多位賓客參加了畫廊開幕，包括幾位來自歐洲和日本的知名收藏家。"
+        },
+        {
+          "en": "You can see pictures of every room in the photo gallery on the hotel's website before you book.",
+          "zh": "訂房前，你可以在飯店網站的圖片集看到每間房間的照片。"
+        },
+        {
+          "en": "The museum's new gallery displays ceramic art from Japan and Korea from the last three centuries.",
+          "zh": "博物館的新展覽室展出日本和韓國過去三個世紀的陶藝作品。"
+        },
+        {
+          "en": "The art gallery is free to enter, but visitors are asked not to take photos of the paintings.",
+          "zh": "藝廊免費入場，但參觀者被要求不要拍攝畫作。"
+        }
+      ],
+      "distractors": [
+        "galaxy",
+        "gallon",
+        "galley"
+      ],
+      "note": "語塊：art gallery（藝廊）、gallery opening（畫廊開幕）、photo gallery（相簿；圖片集）。gallery 是展示藝術品的地方；museum 是「博物館」；galaxy 是「銀河」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pollution",
+      "word": "pollution",
+      "pos": "名詞",
+      "meaning": "污染",
+      "sentences": [
+        {
+          "en": "Air pollution in the city is often worse in winter, so many people wear masks when they go outside.",
+          "zh": "市區的空氣污染冬天常常比較嚴重，所以很多人出門會戴口罩。"
+        },
+        {
+          "en": "The factory was fined after it was found to be causing water pollution in the river nearby.",
+          "zh": "那家工廠被發現造成附近河川水污染後遭到罰款。"
+        },
+        {
+          "en": "The city hopes to reduce pollution by encouraging people to ride bicycles and take public transit.",
+          "zh": "市政府希望鼓勵民眾騎自行車和搭大眾運輸來減少污染。"
+        },
+        {
+          "en": "Electric buses produce no air pollution, so the city plans to replace all of its old buses by 2030.",
+          "zh": "電動公車不會產生空氣污染，所以市政府計畫在 2030 年前汰換所有舊公車。"
+        },
+        {
+          "en": "Many companies are trying to reduce pollution by using cleaner energy and less plastic packaging.",
+          "zh": "很多公司正嘗試用更乾淨的能源和更少的塑膠包裝來減少污染。"
+        }
+      ],
+      "distractors": [
+        "population",
+        "solution",
+        "collusion"
+      ],
+      "note": "語塊：air pollution（空氣污染）、water pollution（水污染）、reduce pollution（減少污染）。pollution 是 pollute（污染）的名詞；pollutant 是「污染物」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-observation",
+      "word": "observation",
+      "pos": "名詞",
+      "meaning": "觀察；觀測；意見",
+      "sentences": [
+        {
+          "en": "Visitors can see the whole city from the observation deck on the top floor of the tower.",
+          "zh": "遊客可以從塔頂的觀景台看到整座城市。"
+        },
+        {
+          "en": "After careful observation of the workers, the consultant suggested several ways to improve productivity in the factory.",
+          "zh": "仔細觀察工人後，顧問建議了幾個提高工廠生產力的方法。"
+        },
+        {
+          "en": "Ms. Lee made an interesting observation about why young customers prefer to shop online instead of in stores.",
+          "zh": "李小姐對年輕顧客為什麼偏好網購而不是去實體店，提出了一個有趣的看法。"
+        },
+        {
+          "en": "The observation deck is open until ten at night, so many people visit it to see the city lights.",
+          "zh": "觀景台開放到晚上十點，所以很多人去看城市夜景。"
+        },
+        {
+          "en": "The patient will stay in the hospital for one night for observation after the surgery.",
+          "zh": "病人手術後會在醫院留觀一晚。"
+        }
+      ],
+      "distractors": [
+        "obligation",
+        "conservation",
+        "reservation"
+      ],
+      "note": "語塊：observation deck（觀景台）、careful observation（仔細觀察）、make an observation（提出看法）。observation 是 observe（觀察）的名詞；observatory 是「天文台」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overcrowding",
+      "word": "overcrowding",
+      "pos": "名詞",
+      "meaning": "過度擁擠",
+      "sentences": [
+        {
+          "en": "The city added more trains during rush hour to reduce overcrowding on the subway line.",
+          "zh": "市政府在尖峰時段增加班次，以減少地鐵線的過度擁擠。"
+        },
+        {
+          "en": "Overcrowding in the hospital waiting room has become a serious problem during the winter months.",
+          "zh": "冬季期間，醫院候診室過度擁擠已成為嚴重問題。"
+        },
+        {
+          "en": "The school plans to build new classrooms because overcrowding makes it difficult for students to learn.",
+          "zh": "學校計畫增建教室，因為過度擁擠讓學生很難學習。"
+        },
+        {
+          "en": "To reduce overcrowding at the museum, visitors must now book a time slot online before they arrive.",
+          "zh": "為了減少博物館的擁擠，參觀者現在必須在抵達前上網預約時段。"
+        },
+        {
+          "en": "Overcrowding on trains is common during holidays, so please book your tickets as early as possible.",
+          "zh": "假期期間列車過度擁擠很常見，所以請盡早訂票。"
+        }
+      ],
+      "distractors": [
+        "overcharging",
+        "overcooking",
+        "overlooking"
+      ],
+      "note": "語塊：reduce overcrowding（減少擁擠）、overcrowding on trains（列車過度擁擠）。overcrowding 是「人太多、太擠」；overcrowded 是形容詞「過度擁擠的」；crowd 是「人群」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reveal",
+      "word": "reveal",
+      "pos": "動詞",
+      "meaning": "揭露；透露；展現",
+      "sentences": [
+        {
+          "en": "The survey will reveal that most customers prefer to shop online instead of visiting the store.",
+          "zh": "調查將會揭露大部分顧客比較喜歡網購而不是去實體店。"
+        },
+        {
+          "en": "The company will reveal the results of the design competition at a press conference next Monday.",
+          "zh": "公司將在下週一的記者會上公布設計比賽的結果。"
+        },
+        {
+          "en": "The CEO is expected to reveal plans for a new factory in Vietnam at the annual meeting.",
+          "zh": "執行長預計會在年會上公布在越南設新工廠的計畫。"
+        },
+        {
+          "en": "The report did not reveal the names of the employees who took part in the study.",
+          "zh": "報告沒有透露參與研究的員工姓名。"
+        },
+        {
+          "en": "The new photos reveal how much the old train station has changed after the refurbishment.",
+          "zh": "新照片展現了舊火車站整修後改變了多少。"
+        }
+      ],
+      "distractors": [
+        "revise",
+        "revere",
+        "repeal"
+      ],
+      "note": "語塊：reveal that（透露……）、reveal the results（公布結果）、reveal plans（公布計畫）。reveal 是「讓原本不知道的事情被看到或知道」；disclose 意思接近；conceal 是相反「隱藏」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-depict",
+      "word": "depict",
+      "pos": "動詞",
+      "meaning": "描繪；描述",
+      "sentences": [
+        {
+          "en": "The paintings in the gallery depict scenes of daily life in the old town more than a hundred years ago.",
+          "zh": "畫廊裡的畫作描繪了一百多年前老城區的日常生活景象。"
+        },
+        {
+          "en": "The new film will depict the life of a famous chef who started her career in a small family restaurant.",
+          "zh": "新電影將描繪一位從小家庭餐廳起家的知名主廚的一生。"
+        },
+        {
+          "en": "The artist likes to depict daily life in the city, such as people waiting for buses or buying food.",
+          "zh": "那位藝術家喜歡描繪城市的日常生活，例如人們等公車或買食物。"
+        },
+        {
+          "en": "The book's cover will depict the mountains and the lake near the village where the story takes place.",
+          "zh": "書的封面會描繪故事發生的村莊附近的山和湖。"
+        },
+        {
+          "en": "Many of the old photos in the museum depict scenes from the early days of the factory.",
+          "zh": "博物館裡很多老照片描繪了工廠早期的景象。"
+        }
+      ],
+      "distractors": [
+        "deploy",
+        "deport",
+        "predict"
+      ],
+      "note": "語塊：depict scenes（描繪景象）、be depicted as（被描繪成……）、depict daily life（描繪日常生活）。depict 是「用圖畫或文字呈現」；describe 是「描述」；portray 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-furnishing",
+      "word": "furnishing",
+      "pos": "名詞",
+      "meaning": "家具陳設（常用複數）",
+      "sentences": [
+        {
+          "en": "The store sells every kind of home furnishing, from curtains and carpets to lamps and sofas.",
+          "zh": "那家店販售各種家居用品，從窗簾、地毯到燈和沙發都有。"
+        },
+        {
+          "en": "The hotel spent two million dollars on new furnishing for its rooms and the lobby.",
+          "zh": "飯店花了兩百萬元為房間和大廳添購新的家具陳設。"
+        },
+        {
+          "en": "Each apartment comes with modern furnishing, so tenants do not need to buy their own furniture.",
+          "zh": "每間公寓都配有現代化的家具陳設，所以房客不用自己買家具。"
+        },
+        {
+          "en": "The designer chose simple furnishing for the office so that it would look clean and bright.",
+          "zh": "設計師為辦公室挑選簡單的家具陳設，讓它看起來乾淨又明亮。"
+        },
+        {
+          "en": "The price of the house includes all furnishing, such as beds, tables, and kitchen equipment.",
+          "zh": "房子的價格包含所有家具陳設，例如床、桌子和廚房設備。"
+        }
+      ],
+      "distractors": [
+        "furniture",
+        "finishing",
+        "flourishing"
+      ],
+      "note": "語塊：home furnishings（家居用品）、office furnishings（辦公家具）、modern furnishings（現代化陳設）。furnishings 是房間裡的家具、窗簾、地毯等；furniture 是「家具」；furnish 是動詞「布置家具」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-condition",
+      "word": "condition",
+      "pos": "名詞",
+      "meaning": "狀況；條件",
+      "sentences": [
+        {
+          "en": "The used car is in good condition, so we decided to buy it instead of a new one.",
+          "zh": "那台二手車狀況良好，所以我們決定買它而不是新車。"
+        },
+        {
+          "en": "The union asked the company to improve the working condition of the factory staff, such as longer breaks.",
+          "zh": "工會要求公司改善工廠員工的工作條件，例如更長的休息時間。"
+        },
+        {
+          "en": "The bank will lend us the money on condition that we pay it back within five years.",
+          "zh": "銀行會借錢給我們，條件是我們要在五年內還清。"
+        },
+        {
+          "en": "Please check that the products are in good condition before you sign for the delivery.",
+          "zh": "簽收貨物之前，請先確認產品狀況良好。"
+        },
+        {
+          "en": "The weather condition on the mountain can change quickly, so hikers should bring warm clothes.",
+          "zh": "山上的天氣狀況變化很快，所以登山客應該帶保暖衣物。"
+        }
+      ],
+      "distractors": [
+        "addition",
+        "tradition",
+        "edition"
+      ],
+      "note": "語塊：in good condition（狀況良好）、working conditions（工作條件）、on condition that（條件是……）。condition 可以是「狀態」或「條件」；常用複數 conditions 表示環境狀況；conditional 是「有條件的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-closely",
+      "word": "closely",
+      "pos": "副詞",
+      "meaning": "密切地；仔細地",
+      "sentences": [
+        {
+          "en": "The marketing team will work closely with the designers to create the new advertisements for the summer sale.",
+          "zh": "行銷團隊會和設計師密切合作，製作夏季特賣的新廣告。"
+        },
+        {
+          "en": "The bank will closely monitor all accounts to make sure that nobody uses them without permission.",
+          "zh": "銀行會密切監控所有帳戶，確保沒有人未經許可使用。"
+        },
+        {
+          "en": "If you look closely at the painting, you can see a small bird hidden in the trees.",
+          "zh": "如果你仔細看那幅畫，可以看到一隻藏在樹裡的小鳥。"
+        },
+        {
+          "en": "The two companies have worked closely together for more than ten years on several large projects.",
+          "zh": "兩家公司已經在好幾個大型專案上密切合作了十多年。"
+        },
+        {
+          "en": "Doctors will closely monitor the patient for a few days after the surgery to make sure she recovers well.",
+          "zh": "醫生會在手術後幾天密切監控病人，確保她恢復良好。"
+        }
+      ],
+      "distractors": [
+        "clearly",
+        "closing",
+        "costly"
+      ],
+      "note": "語塊：work closely with（與……密切合作）、closely monitor（密切監控）、look closely（仔細看）。closely 是「緊密、仔細地」；close 當副詞是「靠近地」（stand close）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-adorn",
+      "word": "adorn",
+      "pos": "動詞",
+      "meaning": "裝飾；點綴",
+      "sentences": [
+        {
+          "en": "The staff will adorn the hotel lobby with flowers and lights for the holiday season.",
+          "zh": "員工會在假期期間用花和燈裝飾飯店大廳。"
+        },
+        {
+          "en": "The library will adorn its old walls with paintings of famous writers from the region next month.",
+          "zh": "圖書館下個月會在舊牆上掛上這個地區知名作家的畫像作裝飾。"
+        },
+        {
+          "en": "The bakery will adorn the wedding cake with edible flowers and small gold leaves for the bride and groom.",
+          "zh": "麵包店會用可食用花朵和小金箔為新人裝飾婚禮蛋糕。"
+        },
+        {
+          "en": "Local artists were invited to adorn the walls of the new subway station with colorful pictures.",
+          "zh": "當地藝術家受邀用彩色圖畫裝飾新地鐵站的牆面。"
+        },
+        {
+          "en": "Every evening, the staff adorn each restaurant table with candles and fresh flowers from the market.",
+          "zh": "每天晚上，員工都會用蠟燭和市場買來的鮮花點綴餐廳的每張桌子。"
+        }
+      ],
+      "distractors": [
+        "adore",
+        "adopt",
+        "admire"
+      ],
+      "note": "語塊：adorn with（用……裝飾）、adorn the lobby（裝飾大廳）、adorn the walls（裝飾牆面）。adorn 是比較文雅的「裝飾」；decorate 是一般說法；adore 是「非常喜愛」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-faculty",
+      "word": "faculty",
+      "pos": "名詞",
+      "meaning": "全體教職員；能力",
+      "sentences": [
+        {
+          "en": "Every faculty member at the university must attend the meeting about the new safety rules on Friday.",
+          "zh": "大學的每位教職員都必須參加週五關於新安全規定的會議。"
+        },
+        {
+          "en": "The faculty meeting will be held in the main hall after classes finish on Wednesday afternoon.",
+          "zh": "教職員會議將在週三下午下課後於大禮堂舉行。"
+        },
+        {
+          "en": "The business school has a faculty of more than one hundred teachers from twenty different countries.",
+          "zh": "商學院有來自二十個國家、一百多位教師的教職團隊。"
+        },
+        {
+          "en": "New faculty members will receive a week of training before they start teaching in September.",
+          "zh": "新進教職員在九月開始教書前會接受一週的訓練。"
+        },
+        {
+          "en": "The chancellor thanked the faculty for their hard work during the difficult year of online classes.",
+          "zh": "校長感謝全體教職員在線上授課的艱難一年裡辛勤付出。"
+        }
+      ],
+      "distractors": [
+        "facility",
+        "difficulty",
+        "penalty"
+      ],
+      "note": "語塊：faculty member（教職員）、faculty meeting（教職員會議）、mental faculties（心智能力）。faculty 在大學是「全體教師」；staff 是「員工」；facility 是「設施」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-visiting-scholar",
+      "word": "visiting scholar",
+      "pos": "名詞",
+      "meaning": "訪問學者",
+      "sentences": [
+        {
+          "en": "The university invited a visiting scholar from Japan to teach a course on modern architecture this year.",
+          "zh": "大學今年邀請一位日本訪問學者來教現代建築的課程。"
+        },
+        {
+          "en": "Dr. Ahmed will work as a visiting scholar at the research center for six months next year.",
+          "zh": "阿哈邁德博士明年將在研究中心擔任六個月的訪問學者。"
+        },
+        {
+          "en": "Each visiting scholar receives an office, a computer, and free housing near the campus during the stay.",
+          "zh": "每位訪問學者都會得到一間辦公室、一台電腦和停留期間校園附近的免費住處。"
+        },
+        {
+          "en": "The visiting scholar gave an enlightening talk about the history of trade between Asia and Europe.",
+          "zh": "那位訪問學者發表了一場關於亞洲和歐洲貿易歷史、很有啟發性的演講。"
+        },
+        {
+          "en": "Students can meet the visiting scholar after the lecture to ask questions about her research.",
+          "zh": "學生可以在講座後和訪問學者見面，詢問她的研究。"
+        }
+      ],
+      "distractors": [
+        "visiting professor",
+        "visiting hours",
+        "exchange student"
+      ],
+      "note": "語塊：invite a visiting scholar（邀請訪問學者）、work as a visiting scholar（擔任訪問學者）、each visiting scholar（每位訪問學者）、meet the visiting scholar（和訪問學者見面）、the visiting scholar gave（訪問學者發表）。visiting 是「來訪的」；scholar 是「學者」；scholarship 是「獎學金」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-nutrition",
+      "word": "nutrition",
+      "pos": "名詞",
+      "meaning": "營養",
+      "sentences": [
+        {
+          "en": "Good nutrition is important for children, so the school serves healthy lunches with fruit and vegetables.",
+          "zh": "良好的營養對孩子很重要，所以學校供應有蔬果的健康午餐。"
+        },
+        {
+          "en": "Please read the nutrition facts on the package if you want to know how much sugar the product contains.",
+          "zh": "如果你想知道產品含有多少糖，請看包裝上的營養標示。"
+        },
+        {
+          "en": "The gym hired an expert in sports nutrition to give advice to members who want to build muscle.",
+          "zh": "健身房雇用了一位運動營養專家，為想增肌的會員提供建議。"
+        },
+        {
+          "en": "The hospital offers free classes on nutrition for patients with chronic illnesses and their families.",
+          "zh": "醫院為慢性病患者和他們的家人提供免費的營養課程。"
+        },
+        {
+          "en": "Many office workers do not get good nutrition because they eat fast food for lunch every day.",
+          "zh": "很多上班族營養不好，因為他們每天午餐都吃速食。"
+        }
+      ],
+      "distractors": [
+        "nutrient",
+        "tuition",
+        "intuition"
+      ],
+      "note": "語塊：good nutrition（良好的營養）、nutrition facts（營養標示）、sports nutrition（運動營養）。nutrition 是「營養（攝取）」；nutrient 是「營養素」；nutritious 是形容詞「有營養的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
