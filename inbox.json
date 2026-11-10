@@ -49438,6 +49438,706 @@
       ],
       "note": "語塊：as a result of（因為……）。as a result of + 名詞 是「因為……」；as a result 放句首是「因此」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cope-with",
+      "word": "cope with",
+      "pos": "片語動詞",
+      "meaning": "應付；處理",
+      "sentences": [
+        {
+          "en": "The workshop teaches employees simple ways to cope with stress during the busy holiday season.",
+          "zh": "工作坊教員工在忙碌節慶期間應付壓力的簡單方法。"
+        },
+        {
+          "en": "The factory hired fifty new workers to cope with demand for its products during the summer.",
+          "zh": "工廠新聘五十名工人，以應付夏天對產品的需求。"
+        },
+        {
+          "en": "Many small businesses found it difficult to cope with the rising cost of rent in the city center.",
+          "zh": "很多小企業發現很難應付市中心不斷上漲的房租。"
+        },
+        {
+          "en": "The hospital added more beds to cope with the large number of patients during the flu season.",
+          "zh": "醫院增加病床，以應付流感季大量的病人。"
+        },
+        {
+          "en": "New employees often need time to cope with the fast pace of work in our busy office.",
+          "zh": "新員工常常需要時間才能應付我們忙碌辦公室的快速工作步調。"
+        }
+      ],
+      "distractors": [
+        "copy with",
+        "cope for",
+        "come with"
+      ],
+      "note": "語塊：cope with stress（應付壓力）、cope with demand（應付需求）、cope with the rising cost（應付上漲的費用）、cope with the large number of（應付大量的……）、cope with the fast pace（應付快速步調）。cope with 是「設法處理（困難）」；deal with、handle 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-extreme",
+      "word": "extreme",
+      "pos": "形容詞",
+      "meaning": "極端的；極度的",
+      "sentences": [
+        {
+          "en": "Extreme weather such as floods and storms has become more common in many parts of the world.",
+          "zh": "洪水和暴風雨等極端天氣在世界很多地方變得更常見。"
+        },
+        {
+          "en": "Workers on the construction site take frequent breaks because of the extreme heat in the summer.",
+          "zh": "因為夏天酷熱，工地的工人經常休息。"
+        },
+        {
+          "en": "The new jackets are designed to keep people warm even in extreme cold in the mountains.",
+          "zh": "新外套的設計即使在山上的嚴寒中也能讓人保暖。"
+        },
+        {
+          "en": "The airport was closed for two days because of extreme weather that caused heavy snow and strong winds.",
+          "zh": "因為極端天氣帶來大雪和強風，機場關閉了兩天。"
+        },
+        {
+          "en": "Doctors warn that elderly people should stay indoors during long periods of extreme heat in summer.",
+          "zh": "醫生警告長者在酷熱期間應該待在室內。"
+        }
+      ],
+      "distractors": [
+        "external",
+        "esteem",
+        "supreme"
+      ],
+      "note": "語塊：extreme weather（極端天氣）、extreme heat（酷熱）、extreme cold（嚴寒）。extreme 是「非常、到極點的」；extremely 是副詞「極度地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-measure",
+      "word": "measure",
+      "pos": "名詞",
+      "meaning": "措施；量度",
+      "sentences": [
+        {
+          "en": "The government introduced a new measure to reduce traffic in the city center during rush hour.",
+          "zh": "政府推出一項新措施，減少尖峰時段市中心的交通量。"
+        },
+        {
+          "en": "As a safety measure, all visitors to the factory must wear helmets and safety glasses.",
+          "zh": "作為安全措施，所有參觀工廠的訪客都必須戴安全帽和護目鏡。"
+        },
+        {
+          "en": "Customer satisfaction is one important measure of the success of our new online delivery service.",
+          "zh": "顧客滿意度是衡量我們新服務成功與否的一項重要標準。"
+        },
+        {
+          "en": "The company introduced a measure to save energy by turning off all lights at eight o'clock every evening.",
+          "zh": "公司推出一項節能措施，每天晚上八點關掉所有的燈。"
+        },
+        {
+          "en": "As a temporary measure, employees will work from home until the office is completely repaired.",
+          "zh": "作為暫時措施，員工會在家工作到辦公室修好為止。"
+        }
+      ],
+      "distractors": [
+        "treasure",
+        "pleasure",
+        "leisure"
+      ],
+      "note": "語塊：take measures（採取措施）、safety measures（安全措施）、a measure of（衡量……的標準）。measure 當名詞常指「措施」（常用複數）；當動詞是「測量」；measurement 是「尺寸」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-keep-in-mind",
+      "word": "keep in mind",
+      "pos": "片語動詞",
+      "meaning": "記住；牢記",
+      "sentences": [
+        {
+          "en": "Please keep in mind that the office will be closed on Monday because of the national holiday.",
+          "zh": "請記得辦公室週一因國定假日休息。"
+        },
+        {
+          "en": "Keep in mind that prices may change, so please check our website before you place an order.",
+          "zh": "請記得價格可能會變動，所以下單前請先查看我們的網站。"
+        },
+        {
+          "en": "When you write the report, keep in mind that the clients may not understand technical words.",
+          "zh": "寫報告時，請記得客戶可能看不懂專業術語。"
+        },
+        {
+          "en": "Travelers should keep in mind that the museum is closed on the first Monday of every month.",
+          "zh": "旅客應記得博物館每月第一個週一休館。"
+        },
+        {
+          "en": "Please keep in mind that the deadline for submitting applications is the end of this week.",
+          "zh": "請記得提交申請的截止日是本週末。"
+        }
+      ],
+      "distractors": [
+        "keep in touch",
+        "make up one's mind",
+        "come to mind"
+      ],
+      "note": "語塊：keep in mind that（記得……）。keep in mind 是「放在心上、記得」；bear in mind 意思相同；remember 是一般說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recession",
+      "word": "recession",
+      "pos": "名詞",
+      "meaning": "經濟衰退；不景氣",
+      "sentences": [
+        {
+          "en": "Many companies stopped hiring new staff during the recession and reduced their spending on advertising.",
+          "zh": "經濟衰退期間，很多公司停止招聘並減少廣告支出。"
+        },
+        {
+          "en": "Economists warn that the country could enter a recession if consumer spending continues to fall.",
+          "zh": "經濟學家警告，如果消費支出持續下滑，該國可能陷入衰退。"
+        },
+        {
+          "en": "The restaurant managed to survive the economic recession by offering cheaper lunch menus to office workers.",
+          "zh": "那家餐廳推出比較便宜的午餐菜單，撐過了經濟衰退。"
+        },
+        {
+          "en": "During the recession, many people lost their jobs and had to look for work in other cities.",
+          "zh": "衰退期間，很多人失業，只好到其他城市找工作。"
+        },
+        {
+          "en": "The government lowered taxes to help small businesses during the long economic recession last year.",
+          "zh": "政府去年在經濟衰退期間減稅，幫助小企業。"
+        }
+      ],
+      "distractors": [
+        "recess",
+        "procession",
+        "concession"
+      ],
+      "note": "語塊：economic recession（經濟衰退）、during the recession（衰退期間）、enter a recession（陷入衰退）。recession 是「經濟衰退」；depression 是更嚴重的「蕭條」；recess 是「休會；休息」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reliant",
+      "word": "reliant",
+      "pos": "形容詞",
+      "meaning": "依賴的",
+      "sentences": [
+        {
+          "en": "The town is heavily reliant on tourism, so the loss of visitors last year hurt many local businesses.",
+          "zh": "那個小鎮非常依賴觀光業，所以去年遊客減少傷害了很多當地商家。"
+        },
+        {
+          "en": "Many farmers are reliant on seasonal workers to help them harvest their crops every autumn.",
+          "zh": "很多農民依賴季節性工人每年秋天幫忙收成。"
+        },
+        {
+          "en": "The company is too reliant on one large customer, so it is trying to find new clients in Asia.",
+          "zh": "公司太依賴一位大客戶，所以正努力在亞洲尋找新客戶。"
+        },
+        {
+          "en": "Small shops in the area are reliant on regular customers who live in the neighborhood.",
+          "zh": "這一帶的小店依賴住在附近的常客。"
+        },
+        {
+          "en": "The country is heavily reliant on imported oil, so it is investing more in solar and wind power.",
+          "zh": "該國非常依賴進口石油，所以正在加大太陽能和風力的投資。"
+        }
+      ],
+      "distractors": [
+        "reliable",
+        "resilient",
+        "defiant"
+      ],
+      "note": "語塊：be reliant on（依賴……）、heavily reliant（非常依賴）。reliant 是「依靠……的」；dependent 意思接近；reliable 是「可靠的」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-friendly",
+      "word": "friendly",
+      "pos": "形容詞",
+      "meaning": "友善的；親切的；（對……）友好的",
+      "sentences": [
+        {
+          "en": "The hotel received excellent reviews because of its friendly staff and its clean, comfortable rooms.",
+          "zh": "那家飯店因為親切的員工和舒適的房間而獲得極佳的評價。"
+        },
+        {
+          "en": "The new app is very user-friendly, so even elderly customers can use it without any help.",
+          "zh": "新 App 非常容易使用，連年長的顧客也不用別人幫忙就會用。"
+        },
+        {
+          "en": "The company uses environmentally friendly packaging made from recycled paper for all of its products.",
+          "zh": "公司所有產品都使用回收紙製的環保包裝。"
+        },
+        {
+          "en": "The friendly staff at the front desk helped us find a good restaurant near the hotel.",
+          "zh": "櫃台親切的員工幫我們找到飯店附近一家好餐廳。"
+        },
+        {
+          "en": "Customers prefer products that are environmentally friendly, even if they cost a little more money.",
+          "zh": "顧客比較喜歡環保的產品，即使價格稍微貴一點。"
+        }
+      ],
+      "distractors": [
+        "friendship",
+        "fiendish",
+        "fluently"
+      ],
+      "note": "語塊：friendly staff（親切的員工）、user-friendly（容易使用的）、environmentally friendly（環保的）。friendly 雖然是 -ly 結尾，但是形容詞；user-friendly 是「對使用者友善的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-declare",
+      "word": "declare",
+      "pos": "動詞",
+      "meaning": "宣布；申報",
+      "sentences": [
+        {
+          "en": "Travelers must declare any goods worth more than five hundred dollars when they arrive at the airport.",
+          "zh": "旅客抵達機場時，必須申報價值超過五百美元的物品。"
+        },
+        {
+          "en": "The government will declare a national holiday to celebrate the one-hundredth anniversary of the city.",
+          "zh": "政府將宣布一個國定假日，慶祝城市建城一百週年。"
+        },
+        {
+          "en": "The judges will declare the winner of the competition at the end of the awards ceremony.",
+          "zh": "評審將在頒獎典禮最後宣布比賽的得獎者。"
+        },
+        {
+          "en": "The company had to declare that it could not pay its debts after it lost its largest customer.",
+          "zh": "失去最大客戶後，公司不得不宣布無力償還債務。"
+        },
+        {
+          "en": "Please declare all of your income on the tax form, including money from part-time jobs.",
+          "zh": "請在報稅表上申報你所有的收入，包括兼職的收入。"
+        }
+      ],
+      "distractors": [
+        "decline",
+        "decrease",
+        "clear"
+      ],
+      "note": "語塊：declare goods（申報物品）、declare that（宣布……）、declare a national holiday（宣布國定假日）、declare the winner（宣布得獎者）、declare all of your income（申報所有收入）。declare 是「正式宣布」或在海關「申報」；declaration 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alliance",
+      "word": "alliance",
+      "pos": "名詞",
+      "meaning": "聯盟；同盟",
+      "sentences": [
+        {
+          "en": "The two airlines formed an alliance so that passengers can travel to more cities with one ticket.",
+          "zh": "兩家航空公司結盟，讓乘客一張票就能飛到更多城市。"
+        },
+        {
+          "en": "The company entered into a strategic alliance with a technology firm to develop new products.",
+          "zh": "那家公司和一家科技公司建立策略聯盟，開發新產品。"
+        },
+        {
+          "en": "Several small businesses in the town formed an alliance to compete with the large supermarket.",
+          "zh": "鎮上好幾家小商家結盟，和大型超市競爭。"
+        },
+        {
+          "en": "The hotel works in alliance with local restaurants to offer hotel guests special discounts on meals.",
+          "zh": "飯店和當地餐廳結盟，為客人提供特別折扣。"
+        },
+        {
+          "en": "The strategic alliance between the two banks will allow customers to use both banks' machines for free.",
+          "zh": "兩家銀行的策略聯盟將讓顧客免費使用雙方的提款機。"
+        }
+      ],
+      "distractors": [
+        "allowance",
+        "appliance",
+        "reliance"
+      ],
+      "note": "語塊：form an alliance（結盟）、strategic alliance（策略聯盟）、in alliance with（與……結盟）。alliance 是「為共同目標合作的關係」；ally 是「盟友」；allowance 是「津貼」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-vulnerable",
+      "word": "vulnerable",
+      "pos": "形容詞",
+      "meaning": "易受傷害的；脆弱的",
+      "sentences": [
+        {
+          "en": "Old computers are more vulnerable to attacks from hackers, so please update your software regularly.",
+          "zh": "舊電腦比較容易受到駭客攻擊，所以請定期更新軟體。"
+        },
+        {
+          "en": "Elderly people are especially vulnerable to the extreme heat, so they should drink plenty of water.",
+          "zh": "長者特別容易受到酷熱的影響，所以應該多喝水。"
+        },
+        {
+          "en": "The charity provides food and housing for vulnerable people who have nowhere else to go.",
+          "zh": "那個慈善團體為無處可去的弱勢族群提供食物和住處。"
+        },
+        {
+          "en": "Small businesses are more vulnerable to changes in the economy than large companies with more money.",
+          "zh": "小企業比大公司更容易受到經濟變化的影響。"
+        },
+        {
+          "en": "Farms near the river are vulnerable to flooding, so many farmers have built walls to protect their fields.",
+          "zh": "河邊的農場容易淹水，所以很多農民築了牆保護田地。"
+        }
+      ],
+      "distractors": [
+        "valuable",
+        "variable",
+        "venerable"
+      ],
+      "note": "語塊：vulnerable to（容易受到……）、vulnerable people（弱勢族群）。vulnerable 是「容易受到傷害或攻擊的」；weak 意思接近；vulnerability 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-continuous",
+      "word": "continuous",
+      "pos": "形容詞",
+      "meaning": "連續的；不間斷的",
+      "sentences": [
+        {
+          "en": "The company focuses on continuous improvement, so it asks customers for feedback by email every month.",
+          "zh": "公司注重持續改善，所以每個月都徵詢顧客意見。"
+        },
+        {
+          "en": "The factory needs a continuous supply of electricity so that the machines can run day and night.",
+          "zh": "工廠需要不間斷的電力供應，讓機器能日夜運轉。"
+        },
+        {
+          "en": "The city has enjoyed continuous growth over the past decade because of new businesses and tourism.",
+          "zh": "因為新企業和觀光業，城市過去十年持續成長。"
+        },
+        {
+          "en": "Workers on the production line take a break every two hours because continuous work can be tiring.",
+          "zh": "生產線的工人每兩小時休息一次，因為連續工作很累。"
+        },
+        {
+          "en": "The hospital provides continuous care for patients who need help and support twenty-four hours a day.",
+          "zh": "醫院為需要全天候協助的病人提供不間斷的照護。"
+        }
+      ],
+      "distractors": [
+        "continual",
+        "contiguous",
+        "conspicuous"
+      ],
+      "note": "語塊：continuous improvement（持續改善）、continuous growth（持續成長）、continuous supply（不間斷的供應）。continuous 是「沒有中斷的」；continual 是「一再發生的」；continue 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-deal-with",
+      "word": "deal with",
+      "pos": "片語動詞",
+      "meaning": "處理；應付",
+      "sentences": [
+        {
+          "en": "The customer service team is trained to deal with complaints from customers quickly and politely.",
+          "zh": "客服團隊受過訓練，能快速又有禮貌地處理投訴。"
+        },
+        {
+          "en": "The manager will deal with the problem with the printer as soon as she returns to the office.",
+          "zh": "經理一回到辦公室就會處理印表機的問題。"
+        },
+        {
+          "en": "Staff at the front desk must be patient when they deal with customers who are upset or confused.",
+          "zh": "櫃台員工應對不滿或困惑的顧客時必須有耐心。"
+        },
+        {
+          "en": "The city hired more workers to deal with the large amount of snow on the roads this winter.",
+          "zh": "市政府增聘工人，處理今年冬天道路上的大量積雪。"
+        },
+        {
+          "en": "It can be stressful to deal with problems at work, so the company offers support to its employees.",
+          "zh": "處理工作上的問題可能壓力很大，所以公司為員工提供支持。"
+        }
+      ],
+      "distractors": [
+        "deal in",
+        "dwell on",
+        "dispense with"
+      ],
+      "note": "語塊：deal with complaints（處理投訴）、deal with problems（處理問題）、deal with customers（應對顧客）。deal with 是「處理（問題、人）」；過去式 dealt with；handle 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attentively",
+      "word": "attentively",
+      "pos": "副詞",
+      "meaning": "專心地；留心地",
+      "sentences": [
+        {
+          "en": "The students listened attentively as the speaker explained how to start and run a small business.",
+          "zh": "講者說明如何創業時，學生們專心聆聽。"
+        },
+        {
+          "en": "The new employees watched attentively while the manager showed them how to use the machine.",
+          "zh": "經理示範如何使用機器時，新員工仔細觀看。"
+        },
+        {
+          "en": "Good salespeople always listen attentively to their customers before suggesting any products or services to them.",
+          "zh": "好的銷售員在推薦任何產品給顧客之前，總會先專心聽他們說。"
+        },
+        {
+          "en": "The audience listened attentively during the presentation and asked many good questions at the end.",
+          "zh": "聽眾在簡報期間專心聆聽，最後問了很多問題。"
+        },
+        {
+          "en": "The waiter served the guests attentively and made sure that their glasses were always full.",
+          "zh": "服務生很細心地招待客人，確保他們的杯子一直是滿的。"
+        }
+      ],
+      "distractors": [
+        "attractively",
+        "actively",
+        "alternatively"
+      ],
+      "note": "語塊：listen attentively（專心聆聽）、watch attentively（仔細觀看）。attentively 是「很專注地」；attentive 是形容詞「專心的；體貼的」；attention 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-insert",
+      "word": "insert",
+      "pos": "動詞",
+      "meaning": "插入；放入",
+      "sentences": [
+        {
+          "en": "Please insert your card into the machine and enter your password to withdraw money from your account.",
+          "zh": "請把卡插進機器並輸入密碼來提款。"
+        },
+        {
+          "en": "To use the parking machine, insert a coin or pay with your phone at the screen.",
+          "zh": "要使用停車機，請投幣或在螢幕上用手機付款。"
+        },
+        {
+          "en": "The editor asked the writer to insert a short paragraph about the history of the company.",
+          "zh": "編輯請作者插入一段關於公司歷史的簡短段落。"
+        },
+        {
+          "en": "Please insert the new battery carefully, making sure that it faces the correct direction inside the machine.",
+          "zh": "請小心放入新電池，確認方向正確。"
+        },
+        {
+          "en": "Before the meeting, I will insert the latest sales figures into the presentation slides for the clients.",
+          "zh": "開會前，我會把最新的銷售數字放進簡報投影片。"
+        }
+      ],
+      "distractors": [
+        "invert",
+        "assert",
+        "desert"
+      ],
+      "note": "語塊：insert a card（插卡）、insert a coin（投幣）、insert into（插入……）。insert 是「把東西放進去」；insertion 是名詞；當名詞 insert 是「插頁」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-occupant",
+      "word": "occupant",
+      "pos": "名詞",
+      "meaning": "居住者；佔用者",
+      "sentences": [
+        {
+          "en": "The previous occupant of the apartment left some furniture, which the landlord will remove next week.",
+          "zh": "公寓的前住戶留下了一些家具，房東會清走。"
+        },
+        {
+          "en": "Each occupant of the building must have a key card to enter the main door after nine o'clock.",
+          "zh": "大樓的每位住戶晚上九點後都必須有門禁卡才能進大門。"
+        },
+        {
+          "en": "The letter was addressed to the occupant, so it was delivered to everyone who lives on the street.",
+          "zh": "那封信寫給「住戶」，所以送到了這條街的每一戶。"
+        },
+        {
+          "en": "The new occupant of the office on the third floor is a small design company from Seoul.",
+          "zh": "三樓辦公室的新使用者是一家來自首爾的小設計公司。"
+        },
+        {
+          "en": "The occupant of the car was not injured in the accident, but the vehicle was badly damaged.",
+          "zh": "車上的乘客在事故中沒有受傷，但車子嚴重損壞。"
+        }
+      ],
+      "distractors": [
+        "occupation",
+        "accountant",
+        "opponent"
+      ],
+      "note": "語塊：the occupant of（……的住戶）、previous occupant（前住戶）。occupant 是「住在或使用某空間的人」；occupy 是動詞；occupation 是「職業」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-allowed-to",
+      "word": "allowed to",
+      "pos": "其他",
+      "meaning": "被允許……",
+      "sentences": [
+        {
+          "en": "Visitors are not allowed to take photographs inside the museum, so please put away your cameras.",
+          "zh": "訪客不准在博物館內拍照，所以請收起相機。"
+        },
+        {
+          "en": "Employees are allowed to work from home on Fridays if their manager agrees in advance.",
+          "zh": "如果經理事先同意，員工週五可以在家工作。"
+        },
+        {
+          "en": "Children under twelve are not allowed to use the hotel swimming pool without an adult.",
+          "zh": "十二歲以下的孩子沒有大人陪同不准使用游泳池。"
+        },
+        {
+          "en": "Passengers are allowed to bring one small bag and one suitcase on the plane for free on international flights.",
+          "zh": "乘客可以免費帶一個小包和一個行李箱上飛機。"
+        },
+        {
+          "en": "Only staff are allowed to enter the kitchen, so customers should order at the counter.",
+          "zh": "只有員工可以進廚房，所以顧客應該到櫃台點餐。"
+        }
+      ],
+      "distractors": [
+        "able to",
+        "about to",
+        "bound to"
+      ],
+      "note": "語塊：be allowed to（被允許做……）、not allowed to（不准……）。be allowed to + 原形動詞；be permitted to 意思接近；allow 是動詞「允許」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bin",
+      "word": "bin",
+      "pos": "名詞",
+      "meaning": "垃圾桶；箱子",
+      "sentences": [
+        {
+          "en": "Please put empty bottles and cans in the recycling bin near the kitchen door on each floor.",
+          "zh": "請把空瓶和空罐放進廚房門旁邊的回收桶。"
+        },
+        {
+          "en": "There is a trash bin next to every bench in the park, so please do not leave garbage on the ground.",
+          "zh": "公園每張長椅旁都有垃圾桶，所以請不要把垃圾留在地上。"
+        },
+        {
+          "en": "The office bought a large storage bin for old documents that must be kept for five years.",
+          "zh": "辦公室買了一個大收納箱，存放必須保留五年的舊文件。"
+        },
+        {
+          "en": "The city has placed a recycling bin on every street corner to encourage people to recycle.",
+          "zh": "市政府在每個街角都放了回收桶，鼓勵民眾回收。"
+        },
+        {
+          "en": "Please empty the trash bin in your office before you leave the office on Friday afternoon.",
+          "zh": "週五下午離開前，請把你辦公室的垃圾桶清空。"
+        }
+      ],
+      "distractors": [
+        "ban",
+        "bun",
+        "bean"
+      ],
+      "note": "語塊：recycling bin（回收桶）、trash bin（垃圾桶）、storage bin（收納箱）。bin 是「桶、箱」，英式英文常指垃圾桶；trash can 是美式說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-rear",
+      "word": "rear",
+      "pos": "名詞",
+      "meaning": "後面；後部",
+      "sentences": [
+        {
+          "en": "The parking lot is located at the rear of the building, next to the loading area.",
+          "zh": "停車場位於大樓後面，就在裝卸區旁邊。"
+        },
+        {
+          "en": "Please use the rear entrance while the main door of the building is being repaired this week.",
+          "zh": "這週正門維修期間，請使用後門。"
+        },
+        {
+          "en": "Passengers in the rear seat must also wear seat belts while the car is moving.",
+          "zh": "車子行駛時，後座乘客也必須繫安全帶。"
+        },
+        {
+          "en": "The kitchen is at the rear of the restaurant, so customers cannot hear the noise from the cooks.",
+          "zh": "廚房在餐廳後方，所以顧客聽不到廚師的聲音。"
+        },
+        {
+          "en": "Deliveries should be made through the rear entrance so that customers in the store are not disturbed.",
+          "zh": "送貨應該走後門，以免打擾顧客。"
+        }
+      ],
+      "distractors": [
+        "rare",
+        "near",
+        "roar"
+      ],
+      "note": "語塊：at the rear of（在……的後面）、rear entrance（後門）、rear seat（後座）。rear 可以當名詞或形容詞「後面的」；front 是「前面」；behind 是介系詞「在……後面」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-modern",
+      "word": "modern",
+      "pos": "形容詞",
+      "meaning": "現代的；新式的",
+      "sentences": [
+        {
+          "en": "The new hotel has a modern design with large windows, clean lines, and simple furniture.",
+          "zh": "新飯店有現代的設計，有大窗戶、俐落的線條和簡單的家具。"
+        },
+        {
+          "en": "The hospital uses modern technology to diagnose illnesses much more quickly and accurately than before.",
+          "zh": "醫院使用現代科技，比以前更快更準確地診斷疾病。"
+        },
+        {
+          "en": "The factory replaced its old machines with modern equipment that uses much less electricity and water.",
+          "zh": "工廠把舊機器換成用電少很多的新式設備。"
+        },
+        {
+          "en": "The museum combines old buildings with a modern glass entrance that attracts many visitors every day.",
+          "zh": "博物館結合了老建築和吸引很多遊客的現代玻璃入口。"
+        },
+        {
+          "en": "The apartments are small but modern, and each one has a new kitchen and bathroom.",
+          "zh": "那些公寓雖小但很現代，每間都有新的廚房和浴室。"
+        }
+      ],
+      "distractors": [
+        "modest",
+        "moderate",
+        "module"
+      ],
+      "note": "語塊：modern design（現代設計）、modern technology（現代科技）、modern equipment（新式設備）。modern 是「現代的、新的」；contemporary 意思接近；modest 是「謙虛的」，長得像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-convenient",
+      "word": "convenient",
+      "pos": "形容詞",
+      "meaning": "方便的；便利的",
+      "sentences": [
+        {
+          "en": "The hotel is in a convenient location near the train station and several good restaurants.",
+          "zh": "飯店位於火車站和幾家好餐廳附近的便利地點。"
+        },
+        {
+          "en": "Is Thursday afternoon convenient for you, or would you prefer to meet on Friday morning?",
+          "zh": "週四下午你方便嗎，還是比較想週五早上見面？"
+        },
+        {
+          "en": "Online banking is convenient for customers who do not have time to visit a branch during the day.",
+          "zh": "網路銀行對白天沒時間去分行的顧客來說很方便。"
+        },
+        {
+          "en": "Please call the office at a convenient time to schedule your appointment with the doctor.",
+          "zh": "請在方便的時間打電話到辦公室，預約看醫生。"
+        },
+        {
+          "en": "The new subway line is convenient for commuters because it stops right in front of the business district.",
+          "zh": "新捷運線對通勤族很方便，因為它就停在商業區正前方。"
+        }
+      ],
+      "distractors": [
+        "comfortable",
+        "convenience",
+        "competent"
+      ],
+      "note": "語塊：convenient location（便利的地點）、convenient for（對……方便）、at a convenient time（在方便的時間）。convenient 是「方便的」；convenience 是名詞；comfortable 是「舒適的」，意思不同。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
