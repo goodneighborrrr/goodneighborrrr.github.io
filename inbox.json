@@ -84368,6 +84368,706 @@
       ],
       "note": "語塊：office supply store（辦公用品店）、order office supply（訂購辦公用品）。office supplies 常用複數，指筆、紙、資料夾等；stationery 是「文具」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-currently",
+      "word": "currently",
+      "pos": "副詞",
+      "meaning": "目前；現在",
+      "sentences": [
+        {
+          "en": "The product you asked about is currently out of stock, but we expect more next week.",
+          "zh": "您詢問的產品目前缺貨，但我們預計下週會再進貨。"
+        },
+        {
+          "en": "Ms. Park is currently working on a new marketing plan that will be presented to the board next month.",
+          "zh": "朴小姐目前正在做一份下個月要向董事會報告的新行銷計畫。"
+        },
+        {
+          "en": "The company currently employs more than two thousand people in factories across Asia and Europe.",
+          "zh": "公司目前在亞洲和歐洲的工廠雇用了兩千多人。"
+        },
+        {
+          "en": "The manager is currently in a meeting, but she will call you back as soon as she is free.",
+          "zh": "經理目前在開會，但她一有空就會回電給你。"
+        },
+        {
+          "en": "There are currently three job openings in the sales department, and we hope to fill them by March.",
+          "zh": "業務部目前有三個職缺，我們希望在三月前補齊。"
+        }
+      ],
+      "distractors": [
+        "correctly",
+        "curiously",
+        "constantly"
+      ],
+      "note": "語塊：currently out of stock（目前缺貨）、currently working on（目前正在做）、currently employs（目前雇用）、currently in a meeting（目前在開會）、there are currently（目前有）。currently 是「現在這段時間」；presently 意思接近；current 是形容詞「目前的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-memo-pad",
+      "word": "memo pad",
+      "pos": "名詞",
+      "meaning": "便條紙；記事本",
+      "sentences": [
+        {
+          "en": "Please write the client's phone number on the memo pad next to the telephone so that we do not forget it.",
+          "zh": "請把客戶的電話號碼寫在電話旁的便條紙上，以免我們忘記。"
+        },
+        {
+          "en": "The hotel provides a memo pad and a pen in every room for guests who need to take notes.",
+          "zh": "飯店每間房間都提供便條紙和筆，給需要做筆記的客人。"
+        },
+        {
+          "en": "The company gives a memo pad with its logo to every visitor at the trade show.",
+          "zh": "公司在展覽上送每位訪客一本印有公司標誌的便條紙。"
+        },
+        {
+          "en": "Ms. Lee always keeps a memo pad on her desk so that she can write down ideas during phone calls.",
+          "zh": "李小姐桌上總是放著一本便條紙，講電話時可以記下想法。"
+        },
+        {
+          "en": "Please order another memo pad for each desk from the office supply store, because we only have a few left.",
+          "zh": "請向辦公用品店為每張桌子再訂一本便條紙，因為我們只剩幾本了。"
+        }
+      ],
+      "distractors": [
+        "mouse pad",
+        "launch pad",
+        "memo"
+      ],
+      "note": "語塊：on the memo pad（在便條紙上）、a memo pad and a pen（便條紙和筆）、a memo pad with its logo（印有標誌的便條紙）、keeps a memo pad（放著便條紙）、order another memo pad（再訂一本便條紙）。memo pad 是寫短筆記用的小本子；memo 是「備忘錄」；notepad 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-opening-time",
+      "word": "opening time",
+      "pos": "名詞",
+      "meaning": "開門時間；營業時間",
+      "sentences": [
+        {
+          "en": "The opening time of the museum is nine o'clock, but there is often a long line by eight thirty.",
+          "zh": "博物館開門時間是九點，但八點半常常就已經大排長龍。"
+        },
+        {
+          "en": "The store will change its opening time to eight in the morning during the holiday season.",
+          "zh": "假期期間那家店的開門時間會改成早上八點。"
+        },
+        {
+          "en": "Please check the opening time of the bank before you go, because it is different on Saturdays.",
+          "zh": "去之前請先確認銀行的營業時間，因為週六不一樣。"
+        },
+        {
+          "en": "The new café has an early opening time, so office workers can buy breakfast before work.",
+          "zh": "新咖啡廳開門很早，所以上班族可以在上班前買早餐。"
+        },
+        {
+          "en": "The opening time of the swimming pool will be delayed tomorrow because of routine maintenance.",
+          "zh": "明天游泳池的開放時間會因為例行維修延後。"
+        }
+      ],
+      "distractors": [
+        "closing time",
+        "opening day",
+        "opening speech"
+      ],
+      "note": "語塊：opening time of（……的開門時間）、change the opening time（更改營業時間）。opening time 是「開始營業的時間」；closing time 是「打烊時間」；business hours 是「營業時間」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-overseas",
+      "word": "overseas",
+      "pos": "形容詞",
+      "meaning": "海外的；國外的",
+      "sentences": [
+        {
+          "en": "The company plans to expand into overseas markets, starting with Japan and Korea next year.",
+          "zh": "公司計畫進軍海外市場，明年先從日本和韓國開始。"
+        },
+        {
+          "en": "Many young people want to study overseas so that they can improve their English and learn about other cultures.",
+          "zh": "很多年輕人想出國留學，提升英文並了解其他文化。"
+        },
+        {
+          "en": "Overseas travel became much more popular after cheap flights started flying from the local airport.",
+          "zh": "當地機場開始有便宜航班後，出國旅行變得受歡迎多了。"
+        },
+        {
+          "en": "The bank charges a small fee for every overseas payment made with a credit card.",
+          "zh": "銀行對每一筆用信用卡支付的海外款項收取少量手續費。"
+        },
+        {
+          "en": "Ms. Kim was sent to work at an overseas office for two years before she returned to the head office.",
+          "zh": "金小姐被派到海外辦公室工作兩年，之後才回到總公司。"
+        }
+      ],
+      "distractors": [
+        "oversees",
+        "overshoes",
+        "overseer"
+      ],
+      "note": "語塊：overseas market（海外市場）、overseas travel（出國旅行）、study overseas（出國留學）。overseas 可以當形容詞或副詞（work overseas）；abroad 是副詞「在國外」；foreign 是「外國的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-bibliography",
+      "word": "bibliography",
+      "pos": "名詞",
+      "meaning": "參考書目",
+      "sentences": [
+        {
+          "en": "Please include a bibliography at the end of your report that lists every book and article you used.",
+          "zh": "請在報告最後附上參考書目，列出你用過的每一本書和文章。"
+        },
+        {
+          "en": "The teacher checked each student's bibliography to make sure that they had used good sources.",
+          "zh": "老師檢查了每位學生的參考書目，確保他們用了可靠的資料來源。"
+        },
+        {
+          "en": "The book has a long bibliography, so readers can find more information about the topic.",
+          "zh": "那本書有很長的參考書目，所以讀者可以找到更多相關資訊。"
+        },
+        {
+          "en": "The librarian can help students write a bibliography in the correct format for their essays.",
+          "zh": "圖書館員可以協助學生用正確格式為論文撰寫參考書目。"
+        },
+        {
+          "en": "Every research paper must include a bibliography, or it will not be accepted by the journal.",
+          "zh": "每篇研究論文都必須附上參考書目，否則期刊不會接受。"
+        }
+      ],
+      "distractors": [
+        "biography",
+        "geography",
+        "photography"
+      ],
+      "note": "語塊：include a bibliography（附上參考書目）、bibliography of（……的書目）。bibliography 是「列出參考過的書和文章的清單」；biography 是「傳記」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-detective",
+      "word": "detective",
+      "pos": "名詞",
+      "meaning": "偵探；警探",
+      "sentences": [
+        {
+          "en": "The new film is a detective story about a woman who solves crimes in a small town by the sea.",
+          "zh": "那部新電影是一個關於海邊小鎮一位女性破案的偵探故事。"
+        },
+        {
+          "en": "The company hired a private detective to find out who was stealing products from the warehouse.",
+          "zh": "公司雇了一位私家偵探，查出是誰在偷倉庫的產品。"
+        },
+        {
+          "en": "Many readers love detective stories, so the bookstore near the station has a special section for them.",
+          "zh": "很多讀者喜歡偵探故事，所以車站附近的書店有一個專區。"
+        },
+        {
+          "en": "The famous writer has written more than twenty detective novels, and several of them became films.",
+          "zh": "那位知名作家寫了二十多本偵探小說，其中好幾本被拍成電影。"
+        },
+        {
+          "en": "The police detective asked the security staff to show him the videos from the cameras.",
+          "zh": "警探請保全人員給他看監視器的影片。"
+        }
+      ],
+      "distractors": [
+        "detector",
+        "defective",
+        "directive"
+      ],
+      "note": "語塊：detective story（偵探故事）、private detective（私家偵探）。detective 是「調查案件的人」；detect 是動詞「偵測」；detector 是「偵測器」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suspenseful",
+      "word": "suspenseful",
+      "pos": "形容詞",
+      "meaning": "懸疑的；扣人心弦的",
+      "sentences": [
+        {
+          "en": "The new detective film is very suspenseful, so many people stayed in their seats until the very end.",
+          "zh": "那部新偵探電影非常懸疑，所以很多人坐到最後一刻都沒離開。"
+        },
+        {
+          "en": "The book tells a suspenseful story about a pilot who has to land a plane during a terrible storm.",
+          "zh": "那本書講述一位飛行員必須在可怕暴風雨中降落飛機的懸疑故事。"
+        },
+        {
+          "en": "Many readers said the novel was so suspenseful that they could not stop reading it at night.",
+          "zh": "很多讀者說那本小說太扣人心弦了，晚上停不下來。"
+        },
+        {
+          "en": "The theater will show a suspenseful play about a family secret that is discovered after fifty years.",
+          "zh": "劇院將上演一齣關於五十年後才被發現的家族祕密的懸疑戲劇。"
+        },
+        {
+          "en": "The television show is suspenseful and well written, so it has become very popular this year.",
+          "zh": "那個電視節目懸疑又寫得好，所以今年變得很受歡迎。"
+        }
+      ],
+      "distractors": [
+        "suspicious",
+        "successful",
+        "resourceful"
+      ],
+      "note": "語塊：suspenseful story（懸疑的故事）、suspenseful film（懸疑電影）、very suspenseful（非常懸疑）、so suspenseful（太扣人心弦）、suspenseful play（懸疑戲劇）、suspenseful and well written（懸疑又寫得好）。suspenseful 是「讓人很緊張、想知道結果的」；suspense 是名詞「懸念」；exciting 是「刺激的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-center-on",
+      "word": "center on",
+      "pos": "片語動詞",
+      "meaning": "以……為中心；聚焦於",
+      "sentences": [
+        {
+          "en": "The conference will center on new technology and how it is changing the way people work.",
+          "zh": "研討會將聚焦於新科技以及它如何改變人們的工作方式。"
+        },
+        {
+          "en": "The company's new plan will center on customers, so every decision will start with their needs.",
+          "zh": "公司的新計畫將以顧客為中心，所以每個決定都會從他們的需求出發。"
+        },
+        {
+          "en": "The discussion will center on the budget for next year, so please read the report before the meeting.",
+          "zh": "討論會聚焦在明年的預算，所以開會前請先閱讀報告。"
+        },
+        {
+          "en": "The film's story will center on a young chef who opens a small restaurant in a busy city.",
+          "zh": "電影的故事以一位在繁忙城市開小餐廳的年輕主廚為中心。"
+        },
+        {
+          "en": "Most of the questions from reporters will center on the merger with the American company.",
+          "zh": "記者的問題大多會集中在和那家美國公司的合併上。"
+        }
+      ],
+      "distractors": [
+        "depend on",
+        "rely on",
+        "carry on"
+      ],
+      "note": "語塊：center on new technology（聚焦於新科技）、center on customers（以顧客為中心）、center on the budget（聚焦在預算）、center on a young chef（以年輕主廚為中心）、center on the merger（集中在合併上）。center on 是「主要和……有關」；focus on 意思接近；英式拼法是 centre on。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-confront",
+      "word": "confront",
+      "pos": "動詞",
+      "meaning": "面對；處理",
+      "sentences": [
+        {
+          "en": "The company must confront the problem of rising costs before it becomes too difficult to manage.",
+          "zh": "公司必須在成本上升變得難以控制之前正視這個問題。"
+        },
+        {
+          "en": "Small businesses often confront a challenge when large stores open nearby with much lower prices.",
+          "zh": "附近開了價格低很多的大型商店時，小企業常常要面對挑戰。"
+        },
+        {
+          "en": "Good managers confront problems directly instead of hoping that they will go away by themselves.",
+          "zh": "好的主管會直接面對問題，而不是希望問題自己消失。"
+        },
+        {
+          "en": "The city will confront the traffic problem by building a new subway line and more bike paths.",
+          "zh": "市政府將興建新地鐵線和更多自行車道來處理交通問題。"
+        },
+        {
+          "en": "New employees often confront a challenge when they start working in a different country far from home.",
+          "zh": "新員工開始在遠離家鄉的不同國家工作時，常常會面臨挑戰。"
+        }
+      ],
+      "distractors": [
+        "comfort",
+        "conform",
+        "confirm"
+      ],
+      "note": "語塊：confront a problem（面對問題）、confront a challenge（面對挑戰）、be confronted with（面臨……）。confront 是「直接面對困難或問題」；face 意思接近；confrontation 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-homecoming",
+      "word": "homecoming",
+      "pos": "名詞",
+      "meaning": "返鄉；校友返校活動",
+      "sentences": [
+        {
+          "en": "The university holds a homecoming event every autumn, and thousands of former students return to the campus.",
+          "zh": "大學每年秋天舉辦校友返校活動，數千名校友回到校園。"
+        },
+        {
+          "en": "The family organized a homecoming party for their son, who returned after working abroad for three years.",
+          "zh": "那家人為在國外工作三年後回來的兒子辦了一場歡迎回家派對。"
+        },
+        {
+          "en": "The homecoming event includes a football game, a concert, and a dinner for the alumni association.",
+          "zh": "返校活動包括一場足球賽、一場音樂會和校友會的晚宴。"
+        },
+        {
+          "en": "Many hotels near the university are fully booked during the homecoming weekend every year in October.",
+          "zh": "每年十月返校週末期間，大學附近很多飯店都客滿。"
+        },
+        {
+          "en": "The town held a homecoming celebration for the athlete who won a gold medal at the international games.",
+          "zh": "小鎮為在國際運動會贏得金牌的運動員舉辦了一場歡迎回家的慶祝活動。"
+        }
+      ],
+      "distractors": [
+        "homecare",
+        "homemaking",
+        "welcoming"
+      ],
+      "note": "語塊：homecoming event（返校活動）、homecoming party（歡迎回家派對）。homecoming 是「回到家鄉或母校」；在美國高中大學也指「校友返校日」；coming home 是一般說法。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-projection",
+      "word": "projection",
+      "pos": "名詞",
+      "meaning": "預測；投影",
+      "sentences": [
+        {
+          "en": "The sales projection for next year shows that the company will grow by about ten percent.",
+          "zh": "明年的銷售預測顯示公司將成長約一成。"
+        },
+        {
+          "en": "The bank asked the small company to prepare a financial projection for the next three years.",
+          "zh": "銀行要求那家小公司準備未來三年的財務預測。"
+        },
+        {
+          "en": "Please pull down the projection screen before the presentation starts in the meeting room at nine o'clock.",
+          "zh": "會議室九點簡報開始前，請把投影幕拉下來。"
+        },
+        {
+          "en": "The actual sales were much higher than the projection, so the factory had to increase production.",
+          "zh": "實際銷售比預測高很多，所以工廠必須增產。"
+        },
+        {
+          "en": "The finance team will update the financial projection after they receive the results from the third quarter.",
+          "zh": "財務團隊收到第三季結果後會更新財務預測。"
+        }
+      ],
+      "distractors": [
+        "protection",
+        "production",
+        "projector"
+      ],
+      "note": "語塊：sales projection（銷售預測）、financial projection（財務預測）、projection screen（投影幕）。projection 是 project（預估；投射）的名詞；forecast 意思接近；projector 是「投影機」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-track",
+      "word": "on track",
+      "pos": "其他",
+      "meaning": "按計畫進行；步上正軌",
+      "sentences": [
+        {
+          "en": "The project is on track to be finished before the end of the month, so the client will be very happy.",
+          "zh": "專案有望在月底前完成，所以客戶會很高興。"
+        },
+        {
+          "en": "The manager holds a short meeting every Monday to make sure the team stays on track.",
+          "zh": "經理每週一開短會，確保團隊保持進度。"
+        },
+        {
+          "en": "After a difficult year, the company is back on track and sales are increasing again.",
+          "zh": "經過艱難的一年，公司回到正軌，銷售又開始增加。"
+        },
+        {
+          "en": "We are on track to reach our sales goal for the year, thanks to strong demand in December.",
+          "zh": "多虧十二月的強勁需求，我們有望達成年度業績目標。"
+        },
+        {
+          "en": "The new schedule will help the construction team stay on track even if the weather is bad.",
+          "zh": "新時程會幫助施工團隊即使天氣不好也能保持進度。"
+        }
+      ],
+      "distractors": [
+        "on time",
+        "on hold",
+        "on board"
+      ],
+      "note": "語塊：on track to（有望……）、stay on track（保持進度）、back on track（回到正軌）。on track 是「照原定方向和進度」；off track 是「偏離進度」；on schedule 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-predecessor",
+      "word": "predecessor",
+      "pos": "名詞",
+      "meaning": "前任；前身",
+      "sentences": [
+        {
+          "en": "The new manager has many different ideas from her predecessor, who retired after twenty years.",
+          "zh": "新經理和她在職二十年後退休的前任有很多不同的想法。"
+        },
+        {
+          "en": "Mr. Lee's predecessor left a detailed report that helped him understand the project and the clients quickly.",
+          "zh": "李先生的前任留下一份詳細報告，幫助他很快了解專案和客戶。"
+        },
+        {
+          "en": "The new phone is much faster than its predecessor, and the battery lasts twice as long.",
+          "zh": "新手機比前一代快很多，電池續航力也是兩倍。"
+        },
+        {
+          "en": "The CEO thanked her predecessor for building a strong company and a loyal group of customers.",
+          "zh": "執行長感謝她的前任建立了一家強大的公司和一群忠實顧客。"
+        },
+        {
+          "en": "The new software is easier to use than its predecessor, so employees need less training.",
+          "zh": "新軟體比前一版好用，所以員工需要的訓練比較少。"
+        }
+      ],
+      "distractors": [
+        "successor",
+        "processor",
+        "professor"
+      ],
+      "note": "語塊：one's predecessor（某人的前任）、predecessor of（……的前身）。predecessor 是「在你之前做這份工作的人」；successor 是相反「繼任者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-spontaneous",
+      "word": "spontaneous",
+      "pos": "形容詞",
+      "meaning": "自發的；臨時起意的",
+      "sentences": [
+        {
+          "en": "The trip to the beach was a spontaneous decision, but it turned out to be the best day of the holiday.",
+          "zh": "去海邊是臨時起意的決定，但結果是假期中最棒的一天。"
+        },
+        {
+          "en": "The audience gave the young singer spontaneous applause in the middle of her very first song at the festival.",
+          "zh": "觀眾在那位年輕歌手在節慶上唱第一首歌唱到一半時，自發地鼓掌。"
+        },
+        {
+          "en": "Some of the best ideas come from spontaneous conversations between colleagues during lunch or coffee breaks.",
+          "zh": "有些最好的點子來自同事午餐或喝咖啡休息時自然的閒聊。"
+        },
+        {
+          "en": "The manager made a spontaneous decision to take the whole team out for dinner after the successful launch.",
+          "zh": "產品成功上市後，經理臨時決定帶整個團隊去吃晚餐。"
+        },
+        {
+          "en": "The speaker's spontaneous jokes made the long presentation much more entertaining for everyone in the room.",
+          "zh": "講者臨場的笑話讓冗長的簡報對在場的大家來說有趣多了。"
+        }
+      ],
+      "distractors": [
+        "simultaneous",
+        "instantaneous",
+        "miscellaneous"
+      ],
+      "note": "語塊：spontaneous decision（臨時的決定）、spontaneous applause（自發的掌聲）。spontaneous 是「沒有計畫、自然發生的」；spontaneously 是副詞；planned 是「計畫好的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-applause",
+      "word": "applause",
+      "pos": "名詞",
+      "meaning": "掌聲；鼓掌",
+      "sentences": [
+        {
+          "en": "Please give a round of applause to the team that organized this wonderful event for us.",
+          "zh": "請為籌辦這場精彩活動的團隊獻上一陣掌聲。"
+        },
+        {
+          "en": "The CEO's speech ended with loud applause from all of the employees in the main hall.",
+          "zh": "執行長的演講在大廳全體員工熱烈的掌聲中結束。"
+        },
+        {
+          "en": "The musicians received long applause after the concert, so they happily played one more song for the audience.",
+          "zh": "音樂會後音樂家們獲得長時間的掌聲，所以開心地為觀眾多演奏了一首。"
+        },
+        {
+          "en": "When the winner of the award was announced, the whole room was filled with loud applause.",
+          "zh": "宣布得獎者時，整個會場響起熱烈的掌聲。"
+        },
+        {
+          "en": "The young actor was surprised by the applause he received at the end of his first performance.",
+          "zh": "那位年輕演員對第一次演出結束時獲得的掌聲感到很驚訝。"
+        }
+      ],
+      "distractors": [
+        "applaud",
+        "appliance",
+        "apparatus"
+      ],
+      "note": "語塊：round of applause（一陣掌聲）、loud applause（熱烈掌聲）、received long applause（獲得長時間掌聲）、surprised by the applause（對掌聲感到驚訝）。applause 是不可數名詞；applaud 是動詞「鼓掌」；apply 是「申請」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recognize",
+      "word": "recognize",
+      "pos": "動詞",
+      "meaning": "認出；認可；表揚",
+      "sentences": [
+        {
+          "en": "The company will recognize the best employees of the year at the annual dinner next month.",
+          "zh": "公司下個月將在年度晚宴上表揚年度最佳員工。"
+        },
+        {
+          "en": "I did not recognize Mr. Kim at first, because he had changed so much since we last met.",
+          "zh": "我一開始沒認出金先生，因為從上次見面後他變了很多。"
+        },
+        {
+          "en": "Many companies now recognize the importance of giving employees enough time to rest and relax.",
+          "zh": "現在很多公司都認清讓員工有足夠時間休息放鬆的重要性。"
+        },
+        {
+          "en": "The new phone can recognize your face, so you do not need a password to unlock it.",
+          "zh": "新手機可以辨識你的臉，所以不需要密碼解鎖。"
+        },
+        {
+          "en": "The award was created to recognize people who have done important work for the local community.",
+          "zh": "這個獎是為了表揚為當地社區做出重要貢獻的人而設立的。"
+        }
+      ],
+      "distractors": [
+        "realize",
+        "organize",
+        "criticize"
+      ],
+      "note": "語塊：recognize sb for（因……表揚某人）、widely recognized（廣受認可）、recognize the importance（認清重要性）。recognize 是「認得出來」或「正式認可」；recognition 是名詞；realize 是「了解到」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-legal-advice",
+      "word": "legal advice",
+      "pos": "名詞",
+      "meaning": "法律建議",
+      "sentences": [
+        {
+          "en": "Please seek legal advice before you sign any contract that you do not fully understand.",
+          "zh": "在簽任何你不完全了解的合約之前，請先尋求法律建議。"
+        },
+        {
+          "en": "The community center offers free legal advice to local residents every Tuesday evening from six to nine.",
+          "zh": "社區中心每週二晚上六點到九點為當地居民提供免費法律諮詢。"
+        },
+        {
+          "en": "The small company decided to get legal advice after a supplier refused to deliver the products.",
+          "zh": "一家供應商拒絕交貨後，那家小公司決定尋求法律建議。"
+        },
+        {
+          "en": "Employees who have problems with their contracts can get free legal advice from the labor union.",
+          "zh": "合約有問題的員工可以從工會取得免費法律建議。"
+        },
+        {
+          "en": "It is a good idea to get legal advice before you start a business with a partner.",
+          "zh": "和合夥人創業之前，先取得法律建議是個好主意。"
+        }
+      ],
+      "distractors": [
+        "legal action",
+        "medical advice",
+        "legal fees"
+      ],
+      "note": "語塊：seek legal advice（尋求法律建議）、get legal advice（取得法律建議）、free legal advice（免費法律諮詢）。legal 是「法律的」；lawyer 是「律師」；advice 是不可數名詞「建議」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-turn-into",
+      "word": "turn into",
+      "pos": "片語動詞",
+      "meaning": "變成；轉變為",
+      "sentences": [
+        {
+          "en": "The new product started slowly, but it will turn into a success once more people know about it.",
+          "zh": "新產品一開始賣得很慢，但只要更多人知道它，就會變成成功的產品。"
+        },
+        {
+          "en": "The small café started as a hobby, but it will soon turn into a chain with ten locations.",
+          "zh": "那家小咖啡廳一開始只是興趣，但很快就會變成擁有十家分店的連鎖店。"
+        },
+        {
+          "en": "The old factory will turn into a museum and a shopping area by the end of next year.",
+          "zh": "舊工廠將在明年底前變成博物館和購物區。"
+        },
+        {
+          "en": "A small problem can turn into a serious one if you do not fix it quickly.",
+          "zh": "如果不快點解決，小問題可能會變成大問題。"
+        },
+        {
+          "en": "The empty land near the river will turn into a beautiful park for families next summer.",
+          "zh": "河邊的空地明年夏天將變成一座美麗的家庭公園。"
+        }
+      ],
+      "distractors": [
+        "turn in",
+        "turn on",
+        "turn up"
+      ],
+      "note": "語塊：turn into a success（變成成功）、turn into a chain（變成連鎖店）、turn into a serious one（變嚴重）。turn into 是「變成另一種東西」；become 意思接近；turn in 是「繳交」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-feature-film",
+      "word": "feature film",
+      "pos": "名詞",
+      "meaning": "劇情長片",
+      "sentences": [
+        {
+          "en": "The young director's first feature film will be shown at the international film festival next month.",
+          "zh": "那位年輕導演的第一部劇情長片下個月將在國際影展上映。"
+        },
+        {
+          "en": "The company that made the popular television show plans to make a feature film next year.",
+          "zh": "製作那個熱門電視節目的公司計畫明年拍一部劇情長片。"
+        },
+        {
+          "en": "The feature film was shot in the old town, so many residents appeared in it as extras.",
+          "zh": "那部劇情長片在老城區拍攝，所以很多居民在片中當臨時演員。"
+        },
+        {
+          "en": "Making a feature film can take several years and cost millions of dollars to finish.",
+          "zh": "拍完一部劇情長片可能要花好幾年和數百萬元。"
+        },
+        {
+          "en": "The theater shows a classic feature film every Sunday afternoon, and tickets are only five dollars.",
+          "zh": "那家戲院每週日下午放映一部經典劇情長片，票價只要五元。"
+        }
+      ],
+      "distractors": [
+        "short film",
+        "feature article",
+        "documentary"
+      ],
+      "note": "語塊：first feature film（第一部長片）、make a feature film（拍劇情長片）、the feature film was shot（長片拍攝於）、classic feature film（經典長片）。feature film 是電影院上映的「正式長片」；short film 是「短片」；documentary 是「紀錄片」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-disagreement",
+      "word": "disagreement",
+      "pos": "名詞",
+      "meaning": "意見不合；分歧",
+      "sentences": [
+        {
+          "en": "The two partners had a disagreement about the budget, so they asked a consultant for advice.",
+          "zh": "兩位合夥人對預算意見不合，所以請顧問給建議。"
+        },
+        {
+          "en": "There was a strong disagreement among the board members over whether to close the old factory.",
+          "zh": "董事會成員對是否關閉舊工廠有強烈的分歧。"
+        },
+        {
+          "en": "The manager tries to solve any disagreement between team members before it becomes a serious problem.",
+          "zh": "經理會試著在團隊成員之間的任何分歧變嚴重前解決它。"
+        },
+        {
+          "en": "A disagreement over the price delayed the signing of the contract with the supplier by two weeks.",
+          "zh": "價格上的分歧讓和供應商的合約簽署延後了兩週。"
+        },
+        {
+          "en": "It is normal to have a disagreement at work, but it is important to discuss it politely.",
+          "zh": "工作上有意見不合很正常，但有禮貌地討論很重要。"
+        }
+      ],
+      "distractors": [
+        "agreement",
+        "disappointment",
+        "discouragement"
+      ],
+      "note": "語塊：have a disagreement（意見不合）、disagreement over（對……的分歧）、strong disagreement（強烈反對）。disagreement 是 disagree（不同意）的名詞；agreement 是相反「同意；協議」；argument 是「爭吵」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
