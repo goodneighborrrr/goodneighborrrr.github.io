@@ -54933,6 +54933,811 @@
       ],
       "note": "語塊：stipulate that（規定……）、clearly stipulate（明確規定）。stipulate 多用在合約、法律「明訂條件」；stipulation 是名詞；specify 意思接近。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-establish",
+      "word": "establish",
+      "pos": "動詞",
+      "meaning": "建立；設立",
+      "sentences": [
+        {
+          "en": "Mr. Park decided to establish a company that makes eco-friendly packaging for restaurants and cafés.",
+          "zh": "朴先生決定創立一家為餐廳和咖啡廳製作環保包裝的公司。"
+        },
+        {
+          "en": "It takes time to establish a relationship of trust with new clients, so please be patient and polite.",
+          "zh": "和新客戶建立信任關係需要時間，所以請耐心且有禮貌。"
+        },
+        {
+          "en": "The firm is now well established in Europe and plans to establish its first office in Asia next year.",
+          "zh": "那家公司現在在歐洲根基穩固，打算明年在亞洲設立第一間辦公室。"
+        },
+        {
+          "en": "The government will establish a new fund to help small businesses that were hurt by the storm.",
+          "zh": "政府將設立一個新基金，幫助受到暴風雨影響的小企業。"
+        },
+        {
+          "en": "Our goal this year is to establish a relationship with at least three major hotel chains in Japan.",
+          "zh": "我們今年的目標是和日本至少三家大型連鎖飯店建立關係。"
+        }
+      ],
+      "distractors": [
+        "abolish",
+        "accomplish",
+        "distinguish"
+      ],
+      "note": "語塊：establish a company（創立公司）、establish a relationship（建立關係）、well established（根基穩固的）。establish 是「創立、建立」；established 當形容詞是「已建立的、知名的」；establishment 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-interest",
+      "word": "interest",
+      "pos": "名詞",
+      "meaning": "興趣；利息；利益",
+      "sentences": [
+        {
+          "en": "Many young customers have shown great interest in the new electric bicycles that we started selling in May.",
+          "zh": "很多年輕顧客對我們五月開始賣的新電動自行車表現出很大的興趣。"
+        },
+        {
+          "en": "The bank raised its interest rate on home loans, so many families are now waiting before buying a house.",
+          "zh": "銀行調高了房貸利率，所以很多家庭現在暫緩買房。"
+        },
+        {
+          "en": "In the interest of safety, all visitors must wear a helmet when they enter the construction area.",
+          "zh": "為了安全起見，所有訪客進入工地區域時都必須戴安全帽。"
+        },
+        {
+          "en": "Ms. Chen expressed interest in the marketing position and sent her résumé to the human resources department.",
+          "zh": "陳小姐對行銷職位表示有興趣，並把履歷寄給人資部門。"
+        },
+        {
+          "en": "Customers who pay their bill late will be charged interest at a rate of two percent per month.",
+          "zh": "延遲付款的顧客會被收取每月百分之二的利息。"
+        }
+      ],
+      "distractors": [
+        "interval",
+        "internet",
+        "intent"
+      ],
+      "note": "語塊：interest in（對……的興趣）、interest rate（利率）、in the interest of（為了……的利益）。interest 有「興趣」和「利息」兩個常考意思；interested 是「感興趣的（人）」，interesting 是「有趣的（事物）」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-initiative",
+      "word": "initiative",
+      "pos": "名詞",
+      "meaning": "新措施；倡議；主動性",
+      "sentences": [
+        {
+          "en": "Ms. Yamada took the initiative to organize a training session for the new employees in her department.",
+          "zh": "山田小姐主動為她部門的新員工安排了一場訓練課程。"
+        },
+        {
+          "en": "The company launched a new initiative to reduce plastic waste in all of its offices and factories.",
+          "zh": "公司推出一項新措施，要減少所有辦公室和工廠的塑膠廢棄物。"
+        },
+        {
+          "en": "Mr. Lopez called the client on his own initiative and solved the problem before the manager even knew about it.",
+          "zh": "羅培茲先生主動打電話給客戶，在經理知道之前就解決了問題。"
+        },
+        {
+          "en": "The city's new initiative encourages residents to grow vegetables in community gardens near their homes.",
+          "zh": "市政府的新措施鼓勵居民在家附近的社區菜園種菜。"
+        },
+        {
+          "en": "Managers are looking for staff who can take the initiative and suggest better ways of working.",
+          "zh": "主管在找能主動提出更好工作方式的員工。"
+        }
+      ],
+      "distractors": [
+        "initiation",
+        "innovative",
+        "indicative"
+      ],
+      "note": "語塊：take the initiative（主動）、new initiative（新措施）、on one's own initiative（主動地）。initiative 可以是公司推出的「新計畫、措施」，也可以是個人的「主動性」；initial 是「最初的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-potential",
+      "word": "potential",
+      "pos": "形容詞",
+      "meaning": "潛在的；可能的",
+      "sentences": [
+        {
+          "en": "The sales team will meet several potential customers at the trade show in Singapore next month.",
+          "zh": "業務團隊下個月會在新加坡的展覽上和幾位潛在顧客見面。"
+        },
+        {
+          "en": "Before we sign the contract, our lawyer will check the document for any potential problem.",
+          "zh": "簽約前，我們的律師會檢查文件裡有沒有可能的問題。"
+        },
+        {
+          "en": "The report explains the potential risk of opening a new store in an area with very few residents.",
+          "zh": "報告說明在居民很少的地區開新店的潛在風險。"
+        },
+        {
+          "en": "The company sends free samples to potential customers so that they can try the product before buying it.",
+          "zh": "公司寄免費樣品給潛在顧客，讓他們在購買前可以試用。"
+        },
+        {
+          "en": "Engineers tested the bridge carefully to find any potential problem before it opened to the public.",
+          "zh": "工程師在橋開放給大眾前仔細測試，找出任何可能的問題。"
+        }
+      ],
+      "distractors": [
+        "potent",
+        "patient",
+        "essential"
+      ],
+      "note": "語塊：potential customer（潛在顧客）、potential problem（可能的問題）、potential risk（潛在風險）。potential 可以當形容詞「潛在的」或名詞「潛力」（have great potential）；potent 是「強效的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reward",
+      "word": "reward",
+      "pos": "名詞",
+      "meaning": "獎勵；報酬",
+      "sentences": [
+        {
+          "en": "As a reward for their hard work, all employees will receive an extra day off at the end of the year.",
+          "zh": "作為辛勤工作的獎勵，所有員工在年底都會多一天假。"
+        },
+        {
+          "en": "Members of our reward program earn points every time they buy something at any of our stores.",
+          "zh": "我們獎勵方案的會員每次在任何一家分店消費都能賺點數。"
+        },
+        {
+          "en": "Many people choose this job not only for the financial reward but also because they enjoy helping others.",
+          "zh": "很多人選這份工作不只是為了金錢報酬，也是因為喜歡幫助別人。"
+        },
+        {
+          "en": "The manager gave the team a dinner at a nice restaurant as a reward for finishing the project early.",
+          "zh": "經理請團隊去好餐廳吃晚餐，作為提早完成專案的獎勵。"
+        },
+        {
+          "en": "Customers who join the reward program before Friday will receive a free coffee on their next visit.",
+          "zh": "週五前加入獎勵方案的顧客下次光臨時可以得到一杯免費咖啡。"
+        }
+      ],
+      "distractors": [
+        "award",
+        "regard",
+        "record"
+      ],
+      "note": "語塊：as a reward for（作為……的獎勵）、reward program（獎勵方案）、financial reward（金錢報酬）。reward 可以當名詞或動詞（reward sb for sth）；award 是「頒發的獎項」，比較正式。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-application",
+      "word": "application",
+      "pos": "名詞",
+      "meaning": "申請（書）；應用（程式）",
+      "sentences": [
+        {
+          "en": "Last month, the company received a job application from more than three hundred people for the new marketing position.",
+          "zh": "公司上個月收到三百多人應徵新行銷職位的求職申請。"
+        },
+        {
+          "en": "Please submit an application with your résumé and two reference letters by the end of this week.",
+          "zh": "請在本週末前提交申請，附上履歷和兩封推薦信。"
+        },
+        {
+          "en": "All visitors must fill out an application form at the front desk before they receive a building pass.",
+          "zh": "所有訪客都必須先在櫃台填申請表，才能拿到大樓通行證。"
+        },
+        {
+          "en": "Our new mobile application allows customers to check their account balance and pay bills at any time.",
+          "zh": "我們新的手機應用程式讓顧客隨時查詢帳戶餘額和繳帳單。"
+        },
+        {
+          "en": "If you need help completing the application form, please call our customer service center between nine and five on weekdays.",
+          "zh": "如果你填寫申請表需要協助，請在平日九點到五點之間打電話給我們的客服中心。"
+        }
+      ],
+      "distractors": [
+        "appreciation",
+        "implication",
+        "publication"
+      ],
+      "note": "語塊：job application（求職申請）、submit an application（提交申請）、application form（申請表）。application 是「申請」或「應用程式（app）」；apply 是動詞（apply for a job）；applicant 是「申請人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-technician",
+      "word": "technician",
+      "pos": "名詞",
+      "meaning": "技術人員；技師",
+      "sentences": [
+        {
+          "en": "We will send a technician to your office tomorrow morning to fix the air conditioner in the meeting room.",
+          "zh": "我們明天早上會派技術人員到你的辦公室修會議室的冷氣。"
+        },
+        {
+          "en": "The repair technician said that the printer needs a new part, which will arrive on Thursday.",
+          "zh": "維修技術人員說印表機需要一個新零件，週四會到貨。"
+        },
+        {
+          "en": "The hospital is hiring a lab technician who has at least three years of experience with medical tests.",
+          "zh": "醫院在招聘一位至少有三年醫學檢驗經驗的實驗室技術員。"
+        },
+        {
+          "en": "A technician checks all of the machines in the factory every Monday to make sure they work properly.",
+          "zh": "每週一都有技術人員檢查工廠所有的機器，確保運作正常。"
+        },
+        {
+          "en": "If the problem continues, please call us again and we will send a technician as soon as possible.",
+          "zh": "如果問題持續，請再打給我們，我們會盡快派技術人員過去。"
+        }
+      ],
+      "distractors": [
+        "technique",
+        "musician",
+        "technical"
+      ],
+      "note": "語塊：repair technician（維修技術人員）、lab technician（實驗室技術員）、send a technician（派技術人員）。technician 是做實際技術工作的人；technique 是「技巧」；technology 是「科技」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-install",
+      "word": "install",
+      "pos": "動詞",
+      "meaning": "安裝；設置",
+      "sentences": [
+        {
+          "en": "Please install the new software on your computer before the training session starts on Monday morning.",
+          "zh": "請在週一早上訓練課程開始前把新軟體安裝到你的電腦上。"
+        },
+        {
+          "en": "The workers will install new equipment in the kitchen next week, so the restaurant will close for two days.",
+          "zh": "工人下週會在廚房安裝新設備，所以餐廳會休息兩天。"
+        },
+        {
+          "en": "We will have a technician install new security cameras at every entrance of the building because of the break-in last month.",
+          "zh": "因為上個月發生闖入事件，我們會請技術人員在大樓每個入口裝新的監視器。"
+        },
+        {
+          "en": "The technician needed only an hour to install the new air conditioner in the conference room.",
+          "zh": "技術人員只花了一個小時就在會議室裝好新的冷氣。"
+        },
+        {
+          "en": "It is not difficult to install the software yourself, but you can call our support team if you need help.",
+          "zh": "自己安裝軟體並不難，但如果需要協助可以打電話給我們的支援團隊。"
+        }
+      ],
+      "distractors": [
+        "instill",
+        "instant",
+        "insult"
+      ],
+      "note": "語塊：install software（安裝軟體）、install equipment（安裝設備）、have sth installed（請人安裝）。install 是「安裝」；installation 是名詞「安裝」；installment 是「分期付款」，很容易搞混。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-activate",
+      "word": "activate",
+      "pos": "動詞",
+      "meaning": "啟用；啟動",
+      "sentences": [
+        {
+          "en": "Please click the link in the e-mail to activate your account before you log in for the first time.",
+          "zh": "第一次登入前，請點擊電子郵件裡的連結來啟用你的帳戶。"
+        },
+        {
+          "en": "You must call the bank to activate your card before you can use it in stores or online.",
+          "zh": "你必須先打電話給銀行開卡，才能在店裡或網路上使用。"
+        },
+        {
+          "en": "The last person to leave the office each evening must activate the alarm and lock the front door.",
+          "zh": "每天晚上最後離開辦公室的人必須啟動警報器並鎖上前門。"
+        },
+        {
+          "en": "Customers can now activate their new phone online without visiting one of our stores or waiting in a long line.",
+          "zh": "顧客現在不用到我們的門市、也不用排長長的隊，就能在線上啟用新手機。"
+        },
+        {
+          "en": "If you forget to activate the alarm, the security company will call you to remind you.",
+          "zh": "如果你忘了啟動警報器，保全公司會打電話提醒你。"
+        }
+      ],
+      "distractors": [
+        "activity",
+        "captivate",
+        "motivate"
+      ],
+      "note": "語塊：activate an account（啟用帳戶）、activate a card（開卡）、activate the alarm（啟動警報器）。activate 是「啟用、使開始運作」；active 是「活躍的」；activity 是「活動」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-solar-plant",
+      "word": "solar plant",
+      "pos": "名詞",
+      "meaning": "太陽能發電廠",
+      "sentences": [
+        {
+          "en": "The energy company will build a solar plant in the desert that can provide electricity for fifty thousand homes.",
+          "zh": "能源公司將在沙漠裡蓋一座能供應五萬戶用電的太陽能發電廠。"
+        },
+        {
+          "en": "The solar plant project was delayed for six months because the company could not find enough land.",
+          "zh": "因為公司找不到足夠的土地，太陽能電廠專案延後了六個月。"
+        },
+        {
+          "en": "Local residents supported the plan to build a solar plant because it will create jobs and clean energy.",
+          "zh": "當地居民支持蓋太陽能發電廠的計畫，因為它會創造工作和乾淨能源。"
+        },
+        {
+          "en": "Engineers from Germany will visit the solar plant next week to check whether the panels are working properly.",
+          "zh": "德國的工程師下週會參觀太陽能發電廠，檢查太陽能板是否運作正常。"
+        },
+        {
+          "en": "The solar plant project is expected to reduce the city's electricity costs by about twenty percent.",
+          "zh": "這個太陽能電廠專案預計能讓城市的電費降低約百分之二十。"
+        }
+      ],
+      "distractors": [
+        "nuclear plant",
+        "power plan",
+        "solar panel"
+      ],
+      "note": "語塊：build a solar plant（建造太陽能發電廠）、solar plant project（太陽能電廠專案）。solar 是「太陽的」；solar panel 是「太陽能板」；plant 在這裡是「工廠、發電廠」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renewable",
+      "word": "renewable",
+      "pos": "形容詞",
+      "meaning": "可再生的；可續約的",
+      "sentences": [
+        {
+          "en": "The government plans to produce half of the country's electricity from renewable energy by the year 2040.",
+          "zh": "政府計畫在 2040 年前讓全國一半的電力來自再生能源。"
+        },
+        {
+          "en": "Wind and sunlight are renewable resources, so many companies are investing in them to reduce pollution.",
+          "zh": "風和陽光是可再生資源，所以很多公司投資它們來減少污染。"
+        },
+        {
+          "en": "Ms. Kim signed a one-year renewable contract, which she can extend if both sides are satisfied.",
+          "zh": "金小姐簽了一年可續約的合約，如果雙方都滿意就可以延長。"
+        },
+        {
+          "en": "The company switched to renewable energy last year and has already reduced its electricity costs by ten percent.",
+          "zh": "公司去年改用再生能源，已經讓電費減少了一成。"
+        },
+        {
+          "en": "The conference will focus on how cities can make better use of renewable resources such as wind and water.",
+          "zh": "研討會會聚焦在城市如何更善用風和水等可再生資源。"
+        }
+      ],
+      "distractors": [
+        "reasonable",
+        "removable",
+        "reliable"
+      ],
+      "note": "語塊：renewable energy（再生能源）、renewable resources（可再生資源）、renewable contract（可續約的合約）。renewable 是「可再生的」或「可續期的」；renew 是動詞「續約；更新」；renewal 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-advanced",
+      "word": "advanced",
+      "pos": "形容詞",
+      "meaning": "先進的；高階的",
+      "sentences": [
+        {
+          "en": "The new factory uses advanced technology that allows it to produce twice as many cars as the old one.",
+          "zh": "新工廠使用先進技術，產量是舊工廠的兩倍。"
+        },
+        {
+          "en": "Employees who complete the advanced course in accounting will be eligible for a higher salary next year.",
+          "zh": "完成會計進階課程的員工明年有資格領更高的薪水。"
+        },
+        {
+          "en": "Candidates with an advanced degree in engineering will be given priority for the research position.",
+          "zh": "擁有工程高等學位的應徵者會優先獲得研究職位。"
+        },
+        {
+          "en": "The hospital bought several advanced machines that can find health problems much earlier and more accurately than before.",
+          "zh": "醫院買了幾台先進的機器，可以比以前更早、更準確地發現健康問題。"
+        },
+        {
+          "en": "The language school offers an advanced course for students who want to improve their business writing skills.",
+          "zh": "語言學校為想加強商業寫作能力的學生開設進階課程。"
+        }
+      ],
+      "distractors": [
+        "advantage",
+        "adventure",
+        "balanced"
+      ],
+      "note": "語塊：advanced technology（先進技術）、advanced course（進階課程）、advanced degree（高等學位）。advanced 是「先進的、程度高的」；advance 是動詞或名詞「前進；預先」（in advance 是「事先」）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-synthetic",
+      "word": "synthetic",
+      "pos": "形容詞",
+      "meaning": "合成的；人造的",
+      "sentences": [
+        {
+          "en": "The jacket is made of a light synthetic material that keeps you dry even in heavy rain.",
+          "zh": "這件外套是用輕巧的合成材料做的，即使大雨也能讓你保持乾爽。"
+        },
+        {
+          "en": "Many sports clothes are made from synthetic fiber because it dries much faster than cotton.",
+          "zh": "很多運動服是用合成纖維做的，因為它比棉乾得快很多。"
+        },
+        {
+          "en": "The company is looking for a synthetic material that is cheaper than leather but looks just as good.",
+          "zh": "公司在找一種比皮革便宜、但看起來一樣好的合成材料。"
+        },
+        {
+          "en": "Our new carpets contain no synthetic fiber, so they are safer for families with small children.",
+          "zh": "我們的新地毯不含合成纖維，所以對有小孩的家庭比較安全。"
+        },
+        {
+          "en": "The factory produces synthetic rubber for car tires and sells most of it to companies in Europe.",
+          "zh": "那家工廠生產汽車輪胎用的合成橡膠，大部分賣給歐洲的公司。"
+        }
+      ],
+      "distractors": [
+        "sympathetic",
+        "systematic",
+        "synthesis"
+      ],
+      "note": "語塊：synthetic material（合成材料）、synthetic fiber（合成纖維）。synthetic 是「人工合成的」，相反是 natural（天然的）；artificial 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-affordable",
+      "word": "affordable",
+      "pos": "形容詞",
+      "meaning": "負擔得起的；價格實惠的",
+      "sentences": [
+        {
+          "en": "The new hotel offers comfortable rooms at an affordable price, so it is popular with young travelers.",
+          "zh": "新飯店以實惠的價格提供舒適的房間，所以很受年輕旅客歡迎。"
+        },
+        {
+          "en": "The city plans to build more affordable housing for families who cannot pay the high rents downtown.",
+          "zh": "市政府計畫為付不起市中心高房租的家庭蓋更多平價住宅。"
+        },
+        {
+          "en": "Our goal is to make healthy food affordable for everyone, not only for people with high incomes.",
+          "zh": "我們的目標是讓每個人都買得起健康食物，不只是高收入的人。"
+        },
+        {
+          "en": "The store became successful by selling good furniture at an affordable price to young couples.",
+          "zh": "那家店靠著用實惠的價格賣好家具給年輕夫妻而成功。"
+        },
+        {
+          "en": "The government will spend more money next year on affordable housing near train stations for young workers and their families.",
+          "zh": "政府明年會花更多錢，在火車站附近為年輕上班族和家庭蓋平價住宅。"
+        }
+      ],
+      "distractors": [
+        "available",
+        "adorable",
+        "accountable"
+      ],
+      "note": "語塊：affordable price（實惠的價格）、affordable housing（平價住宅）。affordable 是「買得起的」；afford 是動詞（can afford to do）；expensive 是「昂貴的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-summarize",
+      "word": "summarize",
+      "pos": "動詞",
+      "meaning": "總結；摘要",
+      "sentences": [
+        {
+          "en": "At the end of the meeting, Ms. Lee will summarize the main points so that everyone knows what to do next.",
+          "zh": "會議最後，李小姐會總結重點，讓每個人都知道下一步做什麼。"
+        },
+        {
+          "en": "Please summarize the results of the customer survey in a short report for the director by Friday.",
+          "zh": "請在週五前把顧客調查的結果總結成一份簡短報告給主任。"
+        },
+        {
+          "en": "Could you briefly summarize what was discussed at yesterday's meeting for those who could not attend?",
+          "zh": "你能為昨天沒能參加會議的人簡短總結一下討論了什麼嗎？"
+        },
+        {
+          "en": "The first page of the report should summarize the main points in no more than two hundred words.",
+          "zh": "報告的第一頁應該用不超過兩百字總結重點。"
+        },
+        {
+          "en": "The speaker will briefly summarize her research on consumer habits before answering questions from the audience at the conference.",
+          "zh": "在研討會上回答觀眾提問之前，講者會簡短總結她對消費習慣的研究。"
+        }
+      ],
+      "distractors": [
+        "memorize",
+        "summon",
+        "sympathize"
+      ],
+      "note": "語塊：summarize the main points（總結重點）、summarize the results（總結結果）、briefly summarize（簡短總結）。summarize 是動詞；summary 是名詞（in summary 是「總之」）。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-essentially",
+      "word": "essentially",
+      "pos": "副詞",
+      "meaning": "本質上；基本上",
+      "sentences": [
+        {
+          "en": "The two phones look different, but they are essentially the same, so you should buy the cheaper one.",
+          "zh": "這兩支手機看起來不一樣，但基本上一樣，所以你應該買比較便宜的。"
+        },
+        {
+          "en": "The new plan is essentially different from the old one because it focuses on online sales.",
+          "zh": "新計畫和舊計畫本質上不同，因為它著重在網路銷售。"
+        },
+        {
+          "en": "The job is essentially the same as your current one, but the salary is about twenty percent higher.",
+          "zh": "那份工作基本上和你目前的工作一樣，但薪水高大約兩成。"
+        },
+        {
+          "en": "The two companies sell essentially the same products, so they compete mostly on price and service.",
+          "zh": "兩家公司賣的產品基本上一樣，所以主要在價格和服務上競爭。"
+        },
+        {
+          "en": "The restaurant has changed its name, but the menu and the staff are essentially the same as before.",
+          "zh": "那家餐廳改了名字，但菜單和員工基本上和以前一樣。"
+        }
+      ],
+      "distractors": [
+        "especially",
+        "eventually",
+        "exceptionally"
+      ],
+      "note": "語塊：essentially the same（基本上一樣）、essentially different（本質上不同）。essentially 是「基本上、實質上」；basically 意思接近；essential 是形容詞「必要的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-availability",
+      "word": "availability",
+      "pos": "名詞",
+      "meaning": "可取得性；有空；供應情況",
+      "sentences": [
+        {
+          "en": "Please check availability on our website before you visit, because some rooms may already be booked.",
+          "zh": "來之前請先在我們的網站上查詢空房，因為有些房間可能已經被訂走了。"
+        },
+        {
+          "en": "Because of limited availability, each customer can buy only two tickets for the opening concert.",
+          "zh": "因為數量有限，每位顧客只能買兩張開幕演唱會的票。"
+        },
+        {
+          "en": "The availability of cheap flights has made it easier for people to travel abroad for short holidays.",
+          "zh": "便宜機票的普及讓人們更容易出國度短假。"
+        },
+        {
+          "en": "Please let me know your availability next week so that we can schedule the interview.",
+          "zh": "請告訴我你下週什麼時候有空，讓我們安排面試。"
+        },
+        {
+          "en": "Our staff will check availability of the product in other stores if it is out of stock here.",
+          "zh": "如果這裡缺貨，我們的店員會查詢其他分店有沒有這項產品。"
+        }
+      ],
+      "distractors": [
+        "ability",
+        "accountability",
+        "applicability"
+      ],
+      "note": "語塊：check availability（查詢空位／庫存）、limited availability（數量有限）、availability of（……的供應）。availability 是 available（可取得的；有空的）的名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-evolve",
+      "word": "evolve",
+      "pos": "動詞",
+      "meaning": "演變；發展",
+      "sentences": [
+        {
+          "en": "Over forty years, the small family shop managed to evolve into one of the largest grocery chains in the country.",
+          "zh": "那家小家庭商店四十年來演變成全國最大的超市連鎖之一。"
+        },
+        {
+          "en": "Customer needs evolve over time, so the company reviews its products and services every year.",
+          "zh": "顧客的需求會隨時間演變，所以公司每年都會檢討產品和服務。"
+        },
+        {
+          "en": "Online shopping will continue to evolve as more people use their phones to buy everyday items.",
+          "zh": "隨著更多人用手機買日常用品，網路購物會持續發展。"
+        },
+        {
+          "en": "The website started as a simple blog, but it will soon evolve into a popular news service.",
+          "zh": "那個網站一開始只是簡單的部落格，很快會演變成受歡迎的新聞服務。"
+        },
+        {
+          "en": "Technology continues to evolve so quickly that workers must keep learning new skills throughout their careers.",
+          "zh": "科技持續快速發展，所以工作者整個職涯都必須一直學新技能。"
+        }
+      ],
+      "distractors": [
+        "involve",
+        "revolve",
+        "resolve"
+      ],
+      "note": "語塊：evolve into（演變成……）、evolve over time（隨時間演變）、continue to evolve（持續發展）。evolve 是「逐漸發展、演變」；evolution 是名詞；involve 是「涉及」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-viable",
+      "word": "viable",
+      "pos": "形容詞",
+      "meaning": "可行的；能成功的",
+      "sentences": [
+        {
+          "en": "Working from home is a viable option for employees who live far away from the office.",
+          "zh": "對住得離公司很遠的員工來說，在家工作是可行的選擇。"
+        },
+        {
+          "en": "The engineers must prove that the new battery is commercially viable before the company invests more money.",
+          "zh": "在公司投入更多錢之前，工程師必須證明新電池在商業上可行。"
+        },
+        {
+          "en": "Electric buses are now a viable alternative to diesel buses in many cities around the world.",
+          "zh": "在世界各地很多城市，電動公車現在是柴油公車的可行替代方案。"
+        },
+        {
+          "en": "The consultant said that opening a second store downtown is not a viable option this year.",
+          "zh": "顧問說今年在市中心開第二家店不是可行的選擇。"
+        },
+        {
+          "en": "Online classes have become a viable alternative for students who cannot attend school in person.",
+          "zh": "線上課程已經成為無法親自上學的學生可行的替代方案。"
+        }
+      ],
+      "distractors": [
+        "variable",
+        "visible",
+        "reliable"
+      ],
+      "note": "語塊：viable option（可行的選擇）、commercially viable（商業上可行的）、viable alternative（可行的替代方案）。viable 是「行得通的」；feasible 意思接近；variable 是「可變的」，拼法很像。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-note",
+      "word": "note",
+      "pos": "動詞",
+      "meaning": "注意；指出；記下",
+      "sentences": [
+        {
+          "en": "Please note that the office will be closed on Monday because of the national holiday.",
+          "zh": "請注意，辦公室週一因國定假日休息。"
+        },
+        {
+          "en": "The manager asked everyone to take note of the new safety rules posted near the elevator.",
+          "zh": "經理請大家留意貼在電梯旁邊的新安全規則。"
+        },
+        {
+          "en": "Please make a note of the customer's phone number so that we can call her back this afternoon.",
+          "zh": "請記下那位顧客的電話號碼，讓我們今天下午可以回電給她。"
+        },
+        {
+          "en": "The report will note that sales increased in every region except South America last year.",
+          "zh": "報告會指出去年除了南美洲以外，每個地區的銷售都增加了。"
+        },
+        {
+          "en": "Visitors should take note of the emergency exits when they enter the theater for the first time.",
+          "zh": "訪客第一次進入劇院時應該留意緊急出口的位置。"
+        }
+      ],
+      "distractors": [
+        "nod",
+        "vote",
+        "notice"
+      ],
+      "note": "語塊：please note that（請注意……）、take note of（留意……）、make a note of（記下……）。note 可以是名詞「筆記；便條」或動詞「注意、指出」；notice 是「注意到；通知」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-secure",
+      "word": "secure",
+      "pos": "動詞",
+      "meaning": "取得；確保；保護",
+      "sentences": [
+        {
+          "en": "Our sales team worked hard for six months to secure a contract with the largest hotel chain in Asia.",
+          "zh": "我們的業務團隊努力了六個月，拿下和亞洲最大連鎖飯店的合約。"
+        },
+        {
+          "en": "The start-up needs to secure funding from investors before it can hire more engineers next year.",
+          "zh": "那家新創公司要先從投資人那裡取得資金，明年才能雇用更多工程師。"
+        },
+        {
+          "en": "After two interviews, Ms. Kim was able to secure a position as a designer at a famous fashion company.",
+          "zh": "經過兩次面試，金小姐在一家知名時裝公司取得了設計師的職位。"
+        },
+        {
+          "en": "Please secure all windows and doors before you leave the office, because a storm is expected tonight.",
+          "zh": "離開辦公室前請把所有門窗關緊，因為今晚預計會有暴風雨。"
+        },
+        {
+          "en": "The museum hopes to secure funding from the city to repair its roof before the winter season.",
+          "zh": "博物館希望在冬天前從市政府取得資金修理屋頂。"
+        }
+      ],
+      "distractors": [
+        "secret",
+        "rescue",
+        "cure"
+      ],
+      "note": "語塊：secure a contract（拿下合約）、secure funding（取得資金）、secure a position（取得職位）。secure 當動詞是「（費力）取得」或「使安全」；當形容詞是「安全的」；security 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-divergence",
+      "word": "divergence",
+      "pos": "名詞",
+      "meaning": "分歧；差異",
+      "sentences": [
+        {
+          "en": "There was a clear divergence of opinion among the board members about whether to open a new factory.",
+          "zh": "董事會成員對於是否要開新工廠有明顯的意見分歧。"
+        },
+        {
+          "en": "The report showed a large divergence between the sales forecast and the actual sales in the third quarter.",
+          "zh": "報告顯示第三季銷售預測和實際銷售之間有很大的差異。"
+        },
+        {
+          "en": "The divergence of opinion between the two partners finally led them to start separate companies.",
+          "zh": "兩個合夥人之間的意見分歧最後讓他們各自創業。"
+        },
+        {
+          "en": "Economists are studying the divergence between rising prices and slow wage growth in the region.",
+          "zh": "經濟學家正在研究該地區物價上漲和薪資成長緩慢之間的差異。"
+        },
+        {
+          "en": "The manager tried to reduce the divergence of opinion within the team by holding a long discussion.",
+          "zh": "經理藉由一場長時間的討論，試著減少團隊內的意見分歧。"
+        }
+      ],
+      "distractors": [
+        "diversity",
+        "diversion",
+        "deference"
+      ],
+      "note": "語塊：divergence of opinion（意見分歧）、divergence between（……之間的差異）。divergence 是 diverge（分歧）的名詞；difference 意思接近但較口語；convergence 是相反詞「匯合」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-attribute",
+      "word": "attribute",
+      "pos": "動詞",
+      "meaning": "歸因於；認為……是由於",
+      "sentences": [
+        {
+          "en": "In his speech, the CEO will attribute the company's success to its hardworking employees and loyal customers.",
+          "zh": "執行長在演講中會把公司的成功歸功於努力的員工和忠實的顧客。"
+        },
+        {
+          "en": "Many people attribute the increase in sales to the new advertising campaign that started in March.",
+          "zh": "很多人把銷售增加歸功於三月開始的新廣告活動。"
+        },
+        {
+          "en": "Experts attribute the high number of accidents to poor lighting on the road at night.",
+          "zh": "專家把車禍數量高歸因於夜間道路照明不足。"
+        },
+        {
+          "en": "The airline will attribute the delay to bad weather, which stopped all flights for almost two days.",
+          "zh": "航空公司會把延誤歸因於惡劣天氣，所有航班幾乎停飛了兩天。"
+        },
+        {
+          "en": "Many analysts attribute the drop in profits to rising fuel prices and higher shipping costs.",
+          "zh": "很多分析師把獲利下滑歸因於燃料價格上漲和運費提高。"
+        }
+      ],
+      "distractors": [
+        "contribute",
+        "distribute",
+        "tribute"
+      ],
+      "note": "語塊：attribute A to B（把 A 歸因於 B）、attribute success to（把成功歸功於）。attribute A to B 是「把 A 歸功／歸咎於 B」；當名詞時是「特質、屬性」；contribute 是「貢獻」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
