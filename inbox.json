@@ -62703,6 +62703,706 @@
       ],
       "note": "語塊：use at your own risk（使用風險自負）、enter at your own risk（進入風險自負）、swim at your own risk（游泳風險自負）。at your own risk 常見於告示：「風險自負」；at risk 是「處於危險中」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-on-top-of",
+      "word": "on top of",
+      "pos": "介系詞",
+      "meaning": "除了……之外還；在……之上",
+      "sentences": [
+        {
+          "en": "On top of a higher salary, the new job offers four weeks of paid vacation every year.",
+          "zh": "除了更高的薪水，新工作每年還有四週的帶薪假。"
+        },
+        {
+          "en": "The manager uses a shared calendar to stay on top of all of the team's deadlines and meetings.",
+          "zh": "經理用共用行事曆來掌握團隊所有的截止日期和會議。"
+        },
+        {
+          "en": "The hotel is close to the beach, and on top of that, breakfast is included in the room price.",
+          "zh": "那家飯店離海灘很近，除此之外，房價還含早餐。"
+        },
+        {
+          "en": "It is hard to stay on top of the latest technology because new products come out every month.",
+          "zh": "要跟上最新科技很難，因為每個月都有新產品推出。"
+        },
+        {
+          "en": "On top of the delivery fee, customers who live on islands must pay an extra charge for shipping.",
+          "zh": "除了運費之外，住在離島的顧客還必須支付額外的運送費用。"
+        }
+      ],
+      "distractors": [
+        "on behalf of",
+        "in front of",
+        "at the top of"
+      ],
+      "note": "語塊：on top of that（除此之外）、stay on top of（掌握；跟上）。on top of 可以是「在……上面」或「除了……還有」；stay on top of 是「掌握狀況」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-renew",
+      "word": "renew",
+      "pos": "動詞",
+      "meaning": "續約；更新",
+      "sentences": [
+        {
+          "en": "The company decided to renew its contract with the cleaning service for another two years.",
+          "zh": "公司決定和清潔公司再續約兩年。"
+        },
+        {
+          "en": "Please remember to renew your subscription before the end of the month so that you do not miss any issues.",
+          "zh": "請記得在月底前續訂，以免錯過任何一期。"
+        },
+        {
+          "en": "You should renew your passport at least six months before it expires if you plan to travel abroad.",
+          "zh": "如果你打算出國，應該在護照到期前至少六個月更新。"
+        },
+        {
+          "en": "The library sends an e-mail to remind members to renew their books before they are due.",
+          "zh": "圖書館會寄電子郵件提醒會員在書到期前續借。"
+        },
+        {
+          "en": "If the landlord does not renew our lease, we will have to find a new office by next spring.",
+          "zh": "如果房東不跟我們續約，我們必須在明年春天前找新辦公室。"
+        }
+      ],
+      "distractors": [
+        "review",
+        "remove",
+        "renown"
+      ],
+      "note": "語塊：renew a contract（續約）、renew a subscription（續訂）、renew a passport（更新護照）。renew 是「延長有效期」；renewal 是名詞；renewable 是「可再生的；可續約的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wellness",
+      "word": "wellness",
+      "pos": "名詞",
+      "meaning": "健康；身心健康",
+      "sentences": [
+        {
+          "en": "The company started a wellness program that offers free yoga classes and health checks for all staff.",
+          "zh": "公司推出一項健康促進計畫，為所有員工提供免費瑜伽課和健康檢查。"
+        },
+        {
+          "en": "The hotel's new wellness center includes a spa, a swimming pool, and a quiet room for meditation.",
+          "zh": "飯店新的養生中心有水療、游泳池和一間冥想用的安靜房間。"
+        },
+        {
+          "en": "Many managers now believe that employee wellness is important for keeping workers happy and productive.",
+          "zh": "很多主管現在相信，員工健康對讓員工開心又有效率很重要。"
+        },
+        {
+          "en": "Employees who join the wellness program can receive a discount at the gym near the office.",
+          "zh": "參加健康促進計畫的員工可以在公司附近的健身房享有折扣。"
+        },
+        {
+          "en": "The resort is famous for its wellness center, which offers massages and healthy meals made from local food.",
+          "zh": "那家度假村以養生中心聞名，提供按摩和用在地食材做的健康餐點。"
+        }
+      ],
+      "distractors": [
+        "illness",
+        "wilderness",
+        "willingness"
+      ],
+      "note": "語塊：wellness program（健康促進計畫）、wellness center（養生中心）、employee wellness（員工健康）。wellness 是「整體身心健康」；health 是「健康」；fitness 是「體能」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-validity",
+      "word": "validity",
+      "pos": "名詞",
+      "meaning": "有效性；效期",
+      "sentences": [
+        {
+          "en": "The period of validity for the gift card is one year from the date of purchase.",
+          "zh": "禮物卡的有效期限是購買日起一年。"
+        },
+        {
+          "en": "Security staff will check the validity of each visitor's ID card before they enter the building.",
+          "zh": "保全人員會在訪客進入大樓前檢查每張身分證件的有效性。"
+        },
+        {
+          "en": "Please check the validity of your visa carefully before you book your flight to the United States.",
+          "zh": "訂飛美國的機票之前，請仔細檢查你簽證的效期。"
+        },
+        {
+          "en": "The contract has a period of validity of three years, after which both companies may decide to renew it.",
+          "zh": "合約的有效期限是三年，之後兩家公司可以決定是否續約。"
+        },
+        {
+          "en": "The lawyer questioned the validity of the agreement because it was signed without the manager's approval.",
+          "zh": "律師質疑那份協議的有效性，因為它是在沒有經理批准的情況下簽的。"
+        }
+      ],
+      "distractors": [
+        "velocity",
+        "vanity",
+        "viability"
+      ],
+      "note": "語塊：period of validity（有效期限）、check the validity（檢查有效性）。validity 是 valid（有效的）的名詞；expiration 是「到期」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-uninterested",
+      "word": "uninterested",
+      "pos": "形容詞",
+      "meaning": "不感興趣的",
+      "sentences": [
+        {
+          "en": "Many young people are uninterested in buying cars, because they prefer to use public transit.",
+          "zh": "很多年輕人對買車沒興趣，因為他們比較喜歡搭大眾運輸。"
+        },
+        {
+          "en": "The audience seemed uninterested during the long presentation, so the speaker decided to finish early.",
+          "zh": "冗長的簡報期間觀眾看起來沒興趣，所以講者決定提早結束。"
+        },
+        {
+          "en": "The investor was uninterested in the project because it would take ten years to make a profit.",
+          "zh": "那位投資人對這個專案沒興趣，因為要十年才能獲利。"
+        },
+        {
+          "en": "Customers who seem uninterested at first may change their minds after they try the product.",
+          "zh": "一開始看起來沒興趣的顧客，在試用產品後可能會改變主意。"
+        },
+        {
+          "en": "The manager noticed that the staff were uninterested in the old training videos, so she made new ones.",
+          "zh": "經理注意到員工對舊的訓練影片不感興趣，所以她做了新的。"
+        }
+      ],
+      "distractors": [
+        "disinterested",
+        "uninteresting",
+        "interested"
+      ],
+      "note": "語塊：uninterested in（對……不感興趣）、seem uninterested（看起來沒興趣）。uninterested 是「沒興趣的」；disinterested 是「公正無私的」，常被混用但意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shipment",
+      "word": "shipment",
+      "pos": "名詞",
+      "meaning": "貨物；出貨",
+      "sentences": [
+        {
+          "en": "The store will receive a shipment of new winter coats on Monday, so please prepare space in the stockroom.",
+          "zh": "店裡週一會收到一批新的冬季大衣，所以請在倉庫準備空間。"
+        },
+        {
+          "en": "A shipment of computer parts arrived late because of the storm, so the factory stopped production for a day.",
+          "zh": "一批電腦零件因暴風雨晚到，所以工廠停工了一天。"
+        },
+        {
+          "en": "The supplier had to delay the shipment because some of the products did not pass the quality check.",
+          "zh": "因為有些產品沒有通過品質檢查，供應商不得不延遲出貨。"
+        },
+        {
+          "en": "Please check every box in the shipment carefully and report any damage to the delivery company.",
+          "zh": "請仔細檢查這批貨的每一個箱子，並把任何損壞通報貨運公司。"
+        },
+        {
+          "en": "We will send you an e-mail with a tracking number as soon as your shipment leaves our warehouse.",
+          "zh": "您的貨物一離開我們的倉庫，我們就會寄給您附有追蹤號碼的電子郵件。"
+        }
+      ],
+      "distractors": [
+        "equipment",
+        "shipyard",
+        "segment"
+      ],
+      "note": "語塊：receive a shipment（收到貨）、shipment of（一批……）、delay a shipment（延遲出貨）。shipment 是「一批運送的貨物」；ship 是動詞「運送」；shipping 是「運送；運費」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tolerance",
+      "word": "tolerance",
+      "pos": "名詞",
+      "meaning": "容忍；耐受度",
+      "sentences": [
+        {
+          "en": "The company has a zero tolerance policy for employees who are rude to customers or other staff.",
+          "zh": "公司對無禮對待顧客或其他員工的人採取零容忍政策。"
+        },
+        {
+          "en": "Some customers have a low tolerance for long waiting times, so we try to answer calls within one minute.",
+          "zh": "有些顧客對長時間等待的容忍度很低，所以我們盡量在一分鐘內接電話。"
+        },
+        {
+          "en": "These plants have a high tolerance of dry weather, so they are perfect for gardens in hot cities.",
+          "zh": "這些植物對乾燥天氣的耐受力很高，所以非常適合炎熱城市的花園。"
+        },
+        {
+          "en": "The school has zero tolerance for bullying and will contact parents immediately if it happens.",
+          "zh": "學校對霸凌零容忍，一旦發生會立刻聯絡家長。"
+        },
+        {
+          "en": "Workers with a low tolerance for noise should wear ear protection when they enter the factory floor.",
+          "zh": "對噪音耐受度低的工人進入工廠作業區時應該戴耳罩。"
+        }
+      ],
+      "distractors": [
+        "tolerant",
+        "tenderness",
+        "temperance"
+      ],
+      "note": "語塊：zero tolerance（零容忍）、tolerance for（對……的容忍度）、tolerance of（對……的耐受力）。tolerance 是 tolerate（容忍）的名詞；tolerant 是形容詞「寬容的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-production-rate",
+      "word": "production rate",
+      "pos": "名詞",
+      "meaning": "生產速度；產量",
+      "sentences": [
+        {
+          "en": "The new machines will increase the production rate of the factory by about thirty percent.",
+          "zh": "新機器會讓工廠的生產速度提高約三成。"
+        },
+        {
+          "en": "The production rate of the new phone has doubled since the second factory opened in Vietnam.",
+          "zh": "自從越南第二座工廠開工後，新手機的產量已經加倍。"
+        },
+        {
+          "en": "To increase the production rate, the company added a night shift and hired fifty more workers.",
+          "zh": "為了提高生產速度，公司增加了夜班並多雇用五十名工人。"
+        },
+        {
+          "en": "The manager checks the production rate every morning to make sure the factory will meet its target.",
+          "zh": "經理每天早上檢查生產速度，確保工廠能達成目標。"
+        },
+        {
+          "en": "A higher production rate is important, but the quality of the products must not become worse.",
+          "zh": "提高產量很重要，但產品品質不能變差。"
+        }
+      ],
+      "distractors": [
+        "production line",
+        "birth rate",
+        "exchange rate"
+      ],
+      "note": "語塊：increase the production rate（提高生產速度）、production rate of（……的產量）。production rate 是單位時間內的產量；output 是「產出量」；productivity 是「生產力」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-tailor",
+      "word": "tailor",
+      "pos": "名詞",
+      "meaning": "裁縫師",
+      "sentences": [
+        {
+          "en": "Mr. Wong took his suit to a skilled tailor to make the jacket fit better before the wedding.",
+          "zh": "王先生在婚禮前把西裝拿去給技術好的裁縫師修改，讓外套更合身。"
+        },
+        {
+          "en": "The tailor shop near the station can finish a new shirt in only two days for a small extra fee.",
+          "zh": "車站附近的裁縫店只要加一點錢，兩天就能做好一件新襯衫。"
+        },
+        {
+          "en": "A good tailor will measure you carefully and ask how you want the clothes to fit before starting.",
+          "zh": "好的裁縫師開始之前會仔細幫你量尺寸，並問你想要衣服怎麼合身。"
+        },
+        {
+          "en": "The hotel offers a tailor service for guests who need their clothes repaired during their business trip.",
+          "zh": "飯店為出差期間需要修補衣服的客人提供裁縫服務。"
+        },
+        {
+          "en": "The old tailor shop has been run by the same family for more than eighty years in the old town.",
+          "zh": "那家老城區的老裁縫店由同一個家族經營了八十多年。"
+        }
+      ],
+      "distractors": [
+        "trailer",
+        "tutor",
+        "sailor"
+      ],
+      "note": "語塊：skilled tailor（技術好的裁縫師）、tailor shop（裁縫店）。tailor 也可以當動詞「量身訂做；調整」（tailor sth to sb's needs）；tailor-made 是「量身訂做的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-aside-from",
+      "word": "aside from",
+      "pos": "介系詞",
+      "meaning": "除了……之外",
+      "sentences": [
+        {
+          "en": "Aside from the cost, the main problem with the plan is that it will take too long to complete.",
+          "zh": "除了費用之外，這個計畫的主要問題是要花太久才能完成。"
+        },
+        {
+          "en": "The hotel was clean and comfortable, and aside from that, the staff were very friendly and helpful.",
+          "zh": "飯店乾淨又舒適，除此之外，員工也非常親切又樂於幫忙。"
+        },
+        {
+          "en": "Aside from a few small problems with the software, the product launch went very smoothly.",
+          "zh": "除了軟體有幾個小問題之外，產品發表進行得非常順利。"
+        },
+        {
+          "en": "Aside from the cost of the tickets, visitors should also budget for food and transportation in the city.",
+          "zh": "除了門票費用之外，遊客也應該為市內的餐飲和交通編列預算。"
+        },
+        {
+          "en": "Everyone aside from Mr. Lee attended the meeting, because he was on a business trip in Singapore.",
+          "zh": "除了李先生之外，大家都參加了會議，因為他在新加坡出差。"
+        }
+      ],
+      "distractors": [
+        "apart from",
+        "as for",
+        "along with"
+      ],
+      "note": "語塊：aside from that（除此之外）、aside from the cost（除了費用之外）。aside from 可以是「除了……以外（都）」或「除了……還有」；apart from 意思一樣。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-entire",
+      "word": "entire",
+      "pos": "形容詞",
+      "meaning": "整個的；全部的",
+      "sentences": [
+        {
+          "en": "The entire staff will attend the training session on the new safety rules next Friday afternoon.",
+          "zh": "全體員工下週五下午都會參加新安全規定的訓練課程。"
+        },
+        {
+          "en": "The entire process of applying for a loan can now be completed online in less than one hour.",
+          "zh": "申請貸款的整個流程現在不到一小時就能在線上完成。"
+        },
+        {
+          "en": "The power went out, so the factory had to stop production for the entire day on Tuesday.",
+          "zh": "停電了，所以工廠週二一整天都必須停工。"
+        },
+        {
+          "en": "The CEO thanked the entire staff for their hard work during the company's most successful year.",
+          "zh": "執行長感謝全體員工在公司最成功的一年裡辛勤工作。"
+        },
+        {
+          "en": "The consultant will review the entire process of hiring new employees and suggest ways to make it faster.",
+          "zh": "顧問會檢視整個招募新員工的流程，並建議加快的方法。"
+        }
+      ],
+      "distractors": [
+        "entice",
+        "entry",
+        "endure"
+      ],
+      "note": "語塊：entire staff（全體員工）、entire process（整個流程）、the entire day（一整天）。entire 是「全部、完整的」；whole 意思接近；entirely 是副詞「完全地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-wireless",
+      "word": "wireless",
+      "pos": "形容詞",
+      "meaning": "無線的",
+      "sentences": [
+        {
+          "en": "All rooms in the hotel have free wireless internet, which guests can use with the password at the front desk.",
+          "zh": "飯店所有房間都有免費無線網路，客人可以用櫃台提供的密碼使用。"
+        },
+        {
+          "en": "The store is having a sale on wireless headphones, with prices up to thirty percent off this week.",
+          "zh": "那家店本週無線耳機特價，最多打七折。"
+        },
+        {
+          "en": "The new phone supports wireless charging, so you do not need a cable to charge the battery.",
+          "zh": "新手機支援無線充電，所以不需要充電線就能充電。"
+        },
+        {
+          "en": "The café offers wireless internet to customers, but the connection can be slow during busy times.",
+          "zh": "咖啡廳提供顧客無線網路，但忙碌時段網速可能會變慢。"
+        },
+        {
+          "en": "Many offices now use wireless charging pads on the meeting tables so that people can charge their phones easily.",
+          "zh": "很多辦公室現在在會議桌上使用無線充電板，讓大家方便幫手機充電。"
+        }
+      ],
+      "distractors": [
+        "wiring",
+        "careless",
+        "tireless"
+      ],
+      "note": "語塊：wireless internet（無線網路）、wireless headphones（無線耳機）、wireless charging（無線充電）。wireless 是「不用電線的」；wire 是「電線」；Wi-Fi 是無線網路的通稱。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reorganization",
+      "word": "reorganization",
+      "pos": "名詞",
+      "meaning": "重組；改組",
+      "sentences": [
+        {
+          "en": "After the company reorganization, the sales and marketing departments will be combined into one team.",
+          "zh": "公司重組後，業務部和行銷部會合併成一個團隊。"
+        },
+        {
+          "en": "The bank will undergo a reorganization next year to reduce costs and improve customer service.",
+          "zh": "那家銀行明年將進行改組，以降低成本並改善客戶服務。"
+        },
+        {
+          "en": "Several managers left the firm during the reorganization because they did not agree with the new plan.",
+          "zh": "改組期間好幾位經理離開了公司，因為他們不同意新的計畫。"
+        },
+        {
+          "en": "The CEO explained the reasons for the company reorganization at a meeting with all employees.",
+          "zh": "執行長在全體員工會議上說明公司重組的原因。"
+        },
+        {
+          "en": "The reorganization of the warehouse made it much faster for workers to find and pack orders.",
+          "zh": "倉庫重新規劃後，工人找貨和包裝訂單快了很多。"
+        }
+      ],
+      "distractors": [
+        "renovation",
+        "registration",
+        "realization"
+      ],
+      "note": "語塊：company reorganization（公司重組）、undergo a reorganization（進行改組）。reorganization 是 reorganize（重新組織）的名詞；restructuring 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-concern",
+      "word": "concern",
+      "pos": "名詞",
+      "meaning": "擔憂；關切",
+      "sentences": [
+        {
+          "en": "Several residents raised a concern about the noise from the new factory at the town meeting.",
+          "zh": "好幾位居民在鎮民大會上提出對新工廠噪音的疑慮。"
+        },
+        {
+          "en": "The doctor expressed concern about the patient's high blood pressure and asked him to come back next week.",
+          "zh": "醫生對病人的高血壓表示關切，請他下週回診。"
+        },
+        {
+          "en": "Our main concern is the safety of our customers, so every product is tested many times before it is sold.",
+          "zh": "我們最主要的考量是顧客的安全，所以每項產品販售前都經過多次測試。"
+        },
+        {
+          "en": "If you have any concern about your order, please contact our customer care team at any time.",
+          "zh": "如果您對訂單有任何疑慮，請隨時聯絡我們的客服團隊。"
+        },
+        {
+          "en": "The main concern for many small businesses this year is the rising cost of rent in the city center.",
+          "zh": "今年很多小公司最主要的擔憂是市中心房租上漲。"
+        }
+      ],
+      "distractors": [
+        "concert",
+        "consent",
+        "confirm"
+      ],
+      "note": "語塊：raise concerns（提出疑慮）、express concern（表達關切）、main concern（主要擔憂）。concern 可以當名詞「擔憂」或動詞「關係到；使擔心」；concerned 是「擔心的；相關的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-alternative",
+      "word": "alternative",
+      "pos": "名詞",
+      "meaning": "替代方案；選擇",
+      "sentences": [
+        {
+          "en": "Many people are choosing electric cars as an alternative to cars that use gas, especially in large cities.",
+          "zh": "很多人選擇電動車作為汽油車的替代品，特別是在大城市。"
+        },
+        {
+          "en": "Because the bridge was closed, drivers had no alternative but to take the longer road around the lake.",
+          "zh": "因為橋封閉了，駕駛別無選擇，只能繞湖走比較遠的路。"
+        },
+        {
+          "en": "Online meetings have become a viable alternative to business trips for many international companies with offices in different countries.",
+          "zh": "對很多在不同國家設有辦公室的跨國公司來說，線上會議已經成為出差的可行替代方案。"
+        },
+        {
+          "en": "If the hotel is fully booked, our travel agent will suggest an alternative near the conference center.",
+          "zh": "如果飯店客滿，我們的旅行社會建議會議中心附近的替代方案。"
+        },
+        {
+          "en": "The restaurant offers a vegetarian alternative to every meat dish on the menu for guests who do not eat meat.",
+          "zh": "那家餐廳菜單上的每道肉類料理都有素食的替代選擇，給不吃肉的客人。"
+        }
+      ],
+      "distractors": [
+        "alternate",
+        "alteration",
+        "altitude"
+      ],
+      "note": "語塊：alternative to（……的替代品）、have no alternative（別無選擇）、viable alternative（可行的替代方案）。alternative 可以當名詞或形容詞「替代的」；alternate 是「交替的；輪流的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surgery",
+      "word": "surgery",
+      "pos": "名詞",
+      "meaning": "手術",
+      "sentences": [
+        {
+          "en": "Mr. Davis will undergo surgery on his knee next week, so he will work from home for a month.",
+          "zh": "戴維斯先生下週要接受膝蓋手術，所以會在家工作一個月。"
+        },
+        {
+          "en": "The hospital is famous for heart surgery, and doctors from other countries come here to learn.",
+          "zh": "那家醫院以心臟手術聞名，其他國家的醫生會來這裡學習。"
+        },
+        {
+          "en": "Patients usually need about two weeks to recover from surgery before they can return to work.",
+          "zh": "病人通常需要約兩週的術後恢復時間才能回去上班。"
+        },
+        {
+          "en": "Ms. Park took three weeks off from work after her surgery, and her team covered her tasks.",
+          "zh": "朴小姐手術後請了三週假，由她的團隊分擔她的工作。"
+        },
+        {
+          "en": "The new machine helps doctors perform surgery more quickly and with less pain for patients.",
+          "zh": "新機器幫助醫生更快地進行手術，病人也比較不痛。"
+        }
+      ],
+      "distractors": [
+        "surgeon",
+        "survey",
+        "surge"
+      ],
+      "note": "語塊：undergo surgery（接受手術）、heart surgery（心臟手術）、recover from surgery（術後恢復）。surgery 是「手術」；surgeon 是「外科醫生」；surgical 是形容詞「外科的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-surgical",
+      "word": "surgical",
+      "pos": "形容詞",
+      "meaning": "外科的；手術的",
+      "sentences": [
+        {
+          "en": "All visitors to the hospital must wear a surgical mask and wash their hands at the entrance.",
+          "zh": "所有醫院訪客都必須戴外科口罩，並在入口洗手。"
+        },
+        {
+          "en": "The surgical team worked for eight hours to complete the difficult operation on Saturday night.",
+          "zh": "手術團隊週六晚上花了八小時完成那台困難的手術。"
+        },
+        {
+          "en": "The new surgical procedure is less painful, so patients can go home on the same day.",
+          "zh": "新的外科手術比較不痛，所以病人當天就能回家。"
+        },
+        {
+          "en": "The company produces surgical instruments that are used every day in hospitals across Europe and Asia.",
+          "zh": "那家公司生產歐洲和亞洲各地醫院每天使用的外科器械。"
+        },
+        {
+          "en": "Each member of the surgical team must wash their hands carefully and wear clean gloves during the long operation.",
+          "zh": "手術團隊的每位成員在長時間手術期間都必須仔細洗手並戴乾淨的手套。"
+        }
+      ],
+      "distractors": [
+        "surgeon",
+        "spherical",
+        "cynical"
+      ],
+      "note": "語塊：surgical mask（外科口罩）、surgical team（手術團隊）、surgical procedure（外科手術）。surgical 是 surgery 的形容詞；medical 是「醫療的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-approve",
+      "word": "approve",
+      "pos": "動詞",
+      "meaning": "批准；核准；贊成",
+      "sentences": [
+        {
+          "en": "The board will approve the plan to build a new factory if the cost is lower than five million dollars.",
+          "zh": "如果成本低於五百萬元，董事會就會批准蓋新工廠的計畫。"
+        },
+        {
+          "en": "Many employees do not approve of the new policy because it reduces the number of holidays.",
+          "zh": "很多員工不贊成新規定，因為它減少了假期天數。"
+        },
+        {
+          "en": "Your immediate supervisor must approve all travel expenses before you book the trip to the conference.",
+          "zh": "在預訂研討會行程之前，你的直屬主管必須核准所有差旅費用。"
+        },
+        {
+          "en": "The city council will approve the budget for the new park at its meeting next Tuesday.",
+          "zh": "市議會將在下週二的會議上批准新公園的預算。"
+        },
+        {
+          "en": "The manager will approve your request for time off as soon as she checks the team schedule.",
+          "zh": "經理一確認團隊班表就會批准你的請假申請。"
+        }
+      ],
+      "distractors": [
+        "improve",
+        "prove",
+        "approach"
+      ],
+      "note": "語塊：approve a plan（批准計畫）、approve of（贊成）、approve expenses（核准費用）。approve sth 是「核准」；approve of sth 是「贊成」；approval 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pre-registration",
+      "word": "pre-registration",
+      "pos": "名詞",
+      "meaning": "預先報名；事先登記",
+      "sentences": [
+        {
+          "en": "Pre-registration is required for the cooking workshop on Saturday, because only thirty people can attend it.",
+          "zh": "週六的烹飪工作坊須事先報名，因為只能容納三十人。"
+        },
+        {
+          "en": "The pre-registration fee for the conference is lower than the price you pay at the door.",
+          "zh": "研討會的預先報名費比現場報名便宜。"
+        },
+        {
+          "en": "Online pre-registration for the marathon will open on the first of March and close two weeks later.",
+          "zh": "馬拉松的線上預先報名將在三月一日開放，兩週後截止。"
+        },
+        {
+          "en": "Visitors who complete pre-registration can enter the trade show without waiting in the long line.",
+          "zh": "完成預先報名的訪客可以不用排長隊就進入展覽。"
+        },
+        {
+          "en": "Please complete the online pre-registration form at least three days before the event begins next month.",
+          "zh": "請至少在下個月活動開始前三天完成線上預先報名表。"
+        }
+      ],
+      "distractors": [
+        "preparation",
+        "registration",
+        "pre-order"
+      ],
+      "note": "語塊：pre-registration required（須事先報名）、pre-registration fee（預先報名費）、online pre-registration（線上預先報名）。pre- 是「事先」；registration 是「登記；報名」；register 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-beachfront",
+      "word": "beachfront",
+      "pos": "形容詞",
+      "meaning": "海濱的；面海的",
+      "sentences": [
+        {
+          "en": "The company will hold its annual party at a beachfront hotel with a large pool and a view of the ocean.",
+          "zh": "公司會在一家有大泳池和海景的海濱飯店舉辦年度派對。"
+        },
+        {
+          "en": "Prices for beachfront property have risen sharply because many people want to own a holiday home.",
+          "zh": "海濱房產的價格大幅上漲，因為很多人想擁有度假屋。"
+        },
+        {
+          "en": "The beachfront restaurant is famous for its fresh seafood, friendly staff, and beautiful sunset views.",
+          "zh": "那家海邊餐廳以新鮮海鮮、親切的員工和美麗的夕陽景色聞名。"
+        },
+        {
+          "en": "All of the rooms in the beachfront hotel have a private balcony facing the sea.",
+          "zh": "那家海濱飯店所有房間都有面海的私人陽台。"
+        },
+        {
+          "en": "Developers plan to build more beachfront property along the coast, but some residents are against it.",
+          "zh": "開發商計畫沿著海岸蓋更多海濱房產，但有些居民反對。"
+        }
+      ],
+      "distractors": [
+        "storefront",
+        "waterfront",
+        "forefront"
+      ],
+      "note": "語塊：beachfront hotel（海濱飯店）、beachfront property（海濱房產）、beachfront restaurant（海邊餐廳）。beachfront 是「緊鄰海灘的」；waterfront 是「濱水的」；seaside 是「海邊的」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
