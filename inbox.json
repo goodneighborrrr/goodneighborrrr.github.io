@@ -48738,6 +48738,706 @@
       ],
       "note": "語塊：because of time constraints（因為時間有限）、work under time constraints（在時間壓力下工作）。time constraint 常用複數 time constraints；constraint 是「限制」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-facility",
+      "word": "facility",
+      "pos": "名詞",
+      "meaning": "設施；場所",
+      "sentences": [
+        {
+          "en": "The new sports facility near the school has a swimming pool, a gym, and two tennis courts.",
+          "zh": "學校附近的新運動設施有游泳池、健身房和兩座網球場。"
+        },
+        {
+          "en": "The company plans to build a production facility in Vietnam to make parts for its electric cars.",
+          "zh": "公司計畫在越南興建一座生產工廠，製造電動車的零件。"
+        },
+        {
+          "en": "The hotel offers a facility for business meetings, with modern equipment and free internet access.",
+          "zh": "飯店提供商務會議的設施，配備現代化設備和免費網路。"
+        },
+        {
+          "en": "Visitors to the research facility must wear safety glasses and sign in at the security desk.",
+          "zh": "參觀研究設施的訪客必須戴護目鏡，並在保全櫃台登記。"
+        },
+        {
+          "en": "The city will open a new facility for recycling plastic and glass on the edge of town next year.",
+          "zh": "市政府明年將在鎮郊啟用一座新的塑膠和玻璃回收設施。"
+        }
+      ],
+      "distractors": [
+        "faculty",
+        "fatality",
+        "felicity"
+      ],
+      "note": "語塊：sports facility（運動設施）、production facility（生產工廠）、facility for（……的設施）。facility 是「為某目的蓋的地方或設備」，常用複數 facilities；facilitate 是「促進」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-opening",
+      "word": "opening",
+      "pos": "名詞",
+      "meaning": "開幕；職缺；開頭",
+      "sentences": [
+        {
+          "en": "The grand opening of the new shopping center will take place on the first Saturday of next month.",
+          "zh": "新購物中心的盛大開幕將在下個月第一個週六舉行。"
+        },
+        {
+          "en": "There is a job opening in the marketing department for someone with experience in social media.",
+          "zh": "行銷部有一個職缺，要找有社群媒體經驗的人。"
+        },
+        {
+          "en": "The mayor will give a short speech at the opening ceremony of the new library on Friday.",
+          "zh": "市長將在週五新圖書館的開幕典禮上簡短致詞。"
+        },
+        {
+          "en": "Please check our website regularly, as we post every new job opening there before anywhere else.",
+          "zh": "請定期查看我們的網站，因為每個新職缺都會先貼在那裡。"
+        },
+        {
+          "en": "Hundreds of people attended the grand opening of the restaurant, which offered free food all day.",
+          "zh": "數百人參加了那家餐廳的盛大開幕，當天整天提供免費食物。"
+        }
+      ],
+      "distractors": [
+        "openness",
+        "offering",
+        "ordering"
+      ],
+      "note": "語塊：grand opening（盛大開幕）、job opening（職缺）、opening ceremony（開幕典禮）。opening 可以是「開幕」、「職缺」或「開頭」；open 是動詞或形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-line-up",
+      "word": "line up",
+      "pos": "片語動詞",
+      "meaning": "排隊；安排好",
+      "sentences": [
+        {
+          "en": "Hundreds of customers began to line up outside the store early in the morning for the new phone.",
+          "zh": "數百位顧客一大早就開始在店外排隊買新手機。"
+        },
+        {
+          "en": "The organizers have managed to line up several famous speakers for the conference next spring.",
+          "zh": "主辦單位已經為明年春天的研討會安排好幾位知名講者。"
+        },
+        {
+          "en": "Please line up at the gate and have your ticket ready before the doors open at seven.",
+          "zh": "請在門口排隊，並在七點開門前準備好門票。"
+        },
+        {
+          "en": "The manager will line up interviews with three candidates for the open position next week.",
+          "zh": "經理下週會為那個職缺安排三位候選人的面試。"
+        },
+        {
+          "en": "Fans line up for hours to buy tickets whenever the popular band announces a new concert.",
+          "zh": "每當那個熱門樂團宣布新演唱會，歌迷都會排好幾個小時買票。"
+        }
+      ],
+      "distractors": [
+        "line out",
+        "lie down",
+        "look up"
+      ],
+      "note": "語塊：line up for（為……排隊）、line up speakers（安排講者）。line up 可以是「排隊」或「事先安排好（人、活動）」；lineup 是名詞「陣容」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-articulate",
+      "word": "articulate",
+      "pos": "形容詞",
+      "meaning": "口齒清晰的；表達清楚的",
+      "sentences": [
+        {
+          "en": "Ms. Lee is an articulate speaker who can explain complicated ideas in a simple way.",
+          "zh": "李小姐是一位口才很好的講者，能用簡單的方式解釋複雜的概念。"
+        },
+        {
+          "en": "We are looking for an articulate and friendly person to give tours of the museum to visitors.",
+          "zh": "我們在找一位表達清楚又親切的人，為訪客做博物館導覽。"
+        },
+        {
+          "en": "The candidate was articulate during the interview and answered every difficult question clearly and confidently.",
+          "zh": "那位候選人面試時表達清楚，每個問題都回答得清晰又有自信。"
+        },
+        {
+          "en": "The CEO gave an articulate explanation of the company's plans for the next five years.",
+          "zh": "執行長清楚地說明了公司未來五年的計畫。"
+        },
+        {
+          "en": "Customer service staff must be articulate and patient when they speak with customers on the phone.",
+          "zh": "客服人員和顧客通電話時必須表達清楚又有耐心。"
+        }
+      ],
+      "distractors": [
+        "accurate",
+        "arbitrate",
+        "particulate"
+      ],
+      "note": "語塊：articulate speaker（口才好的講者）、clear and articulate（清楚又有條理）。articulate 當形容詞是「表達能力好的」；當動詞是「清楚表達」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-economic",
+      "word": "economic",
+      "pos": "形容詞",
+      "meaning": "經濟的",
+      "sentences": [
+        {
+          "en": "The new factory will support economic growth in the region by creating hundreds of jobs.",
+          "zh": "新工廠將創造數百個工作機會，支持該地區的經濟成長。"
+        },
+        {
+          "en": "Many small businesses closed during the economic crisis that began several years ago in Europe.",
+          "zh": "好幾年前開始的經濟危機期間，很多小企業倒閉了。"
+        },
+        {
+          "en": "The government is investing in roads and schools to encourage economic development in rural areas.",
+          "zh": "政府正在投資道路和學校，鼓勵鄉村地區的經濟發展。"
+        },
+        {
+          "en": "Economic experts expect prices to rise slowly over the next year as demand slowly increases.",
+          "zh": "經濟專家預期隨著需求增加，物價明年會緩慢上漲。"
+        },
+        {
+          "en": "The conference will discuss the economic effects of tourism on small towns along the coast.",
+          "zh": "研討會將討論觀光業對沿海小鎮的經濟影響。"
+        }
+      ],
+      "distractors": [
+        "economical",
+        "ecological",
+        "ergonomic"
+      ],
+      "note": "語塊：economic growth（經濟成長）、economic crisis（經濟危機）、economic development（經濟發展）。economic 是「和經濟有關的」；economical 是「節省的、划算的」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-ideal",
+      "word": "ideal",
+      "pos": "形容詞",
+      "meaning": "理想的；完美的",
+      "sentences": [
+        {
+          "en": "The ideal candidate will have at least five years of experience in sales and speak English fluently.",
+          "zh": "理想人選需要至少五年業務經驗，並能流利說英文。"
+        },
+        {
+          "en": "The quiet hotel near the beach is ideal for families who want to relax during the summer.",
+          "zh": "海邊那家安靜的飯店非常適合想在夏天放鬆的家庭。"
+        },
+        {
+          "en": "The building is in an ideal location for a new store because it is next to the train station.",
+          "zh": "那棟建築是開新店的理想地點，因為就在火車站旁邊。"
+        },
+        {
+          "en": "The spacious conference room is ideal for large meetings and training sessions with many people.",
+          "zh": "那間寬敞的會議室非常適合人很多的大型會議和訓練課程。"
+        },
+        {
+          "en": "Spring is the ideal time to visit the city, as the weather is warm and the parks are full of flowers.",
+          "zh": "春天是造訪這座城市的理想時節，因為天氣溫暖、公園裡開滿花。"
+        }
+      ],
+      "distractors": [
+        "idle",
+        "identical",
+        "idol"
+      ],
+      "note": "語塊：ideal candidate（理想人選）、ideal for（非常適合……）、ideal location（理想地點）。ideal 是「最適合的」；idea 是「想法」；idealistic 是「理想主義的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-go-on-sale",
+      "word": "go on sale",
+      "pos": "片語動詞",
+      "meaning": "開始販售；開賣",
+      "sentences": [
+        {
+          "en": "Tickets for the concert will go on sale online at ten o'clock on Friday morning.",
+          "zh": "演唱會門票將在週五早上十點於網路開賣。"
+        },
+        {
+          "en": "The new phone will go on sale in stores across the country starting next Monday.",
+          "zh": "新手機從下週一起將在全國門市開賣。"
+        },
+        {
+          "en": "The author's new book will go on sale next month, and many fans have already ordered copies.",
+          "zh": "那位作家的新書下個月開賣，很多書迷已經預購了。"
+        },
+        {
+          "en": "Winter clothing will go on sale at the end of January to make room for the spring collection.",
+          "zh": "冬季服飾將在一月底開賣特價，為春季系列騰出空間。"
+        },
+        {
+          "en": "The new model is expected to go on sale in Europe before it is released in Asia.",
+          "zh": "新機型預計會先在歐洲開賣，再在亞洲推出。"
+        }
+      ],
+      "distractors": [
+        "be on sale",
+        "for sale",
+        "go on strike"
+      ],
+      "note": "語塊：go on sale at（在……開賣）。go on sale 是「開始賣」；be on sale 是「在特價中」，意思不同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-comparable",
+      "word": "comparable",
+      "pos": "形容詞",
+      "meaning": "可比較的；相當的",
+      "sentences": [
+        {
+          "en": "The quality of the new store brand is comparable to that of the famous brands, but it is much cheaper.",
+          "zh": "新的自有品牌品質和知名品牌相當，但便宜很多。"
+        },
+        {
+          "en": "Salaries at our company are comparable to those at other firms of the same size in the city.",
+          "zh": "我們公司的薪水和城裡同規模的其他公司相當。"
+        },
+        {
+          "en": "The two hotels offer rooms at a comparable price, so we chose the one that is closer to the beach.",
+          "zh": "兩家飯店的房價相近，所以我們選了離海灘近的那家。"
+        },
+        {
+          "en": "The new laptop has a battery life comparable to that of much more expensive models.",
+          "zh": "新筆電的電池續航和更貴的機型相當。"
+        },
+        {
+          "en": "It is difficult to find a comparable apartment in the city center for such a low rent.",
+          "zh": "在市中心很難找到房租這麼低又差不多條件的公寓。"
+        }
+      ],
+      "distractors": [
+        "compatible",
+        "comfortable",
+        "capable"
+      ],
+      "note": "語塊：comparable to（和……相當）、comparable price（相近的價格）。comparable 是「差不多、可以相比的」；compare 是動詞；comparison 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-shipping",
+      "word": "shipping",
+      "pos": "名詞",
+      "meaning": "運送；運費",
+      "sentences": [
+        {
+          "en": "The online store offers free shipping on all orders over fifty dollars placed before Friday.",
+          "zh": "那家網路商店週五前下單滿五十美元全部免運費。"
+        },
+        {
+          "en": "The shipping cost will be added to your order when you check out on our website.",
+          "zh": "在我們網站結帳時，運費會加到你的訂單上。"
+        },
+        {
+          "en": "The company changed to a new shipping company because the old one often delivered packages late.",
+          "zh": "公司換了一家新的貨運公司，因為舊的那家常常晚送包裹。"
+        },
+        {
+          "en": "Customers can choose express shipping if they need their order to arrive the next day.",
+          "zh": "如果顧客需要訂單隔天送到，可以選擇快速運送。"
+        },
+        {
+          "en": "Rising fuel prices have increased the shipping cost for many small online businesses this year.",
+          "zh": "油價上漲增加了今年很多小企業的運費。"
+        }
+      ],
+      "distractors": [
+        "shopping",
+        "sipping",
+        "shipment"
+      ],
+      "note": "語塊：free shipping（免運費）、shipping cost（運費）、shipping company（貨運公司）。shipping 是「運送、運費」；ship 當動詞是「運送」；shipment 是「一批貨」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-handling-charge",
+      "word": "handling charge",
+      "pos": "名詞",
+      "meaning": "手續費；處理費",
+      "sentences": [
+        {
+          "en": "A small handling charge will be added to every order that is sent to an address overseas.",
+          "zh": "每一筆寄往海外地址的訂單都會加收一小筆手續費。"
+        },
+        {
+          "en": "The ticket price includes a handling charge of three dollars for all tickets bought online.",
+          "zh": "票價包含線上購買的三美元手續費。"
+        },
+        {
+          "en": "Customers who return items after thirty days may have to pay a handling charge of five dollars.",
+          "zh": "超過三十天退貨的顧客可能需要支付處理費。"
+        },
+        {
+          "en": "The total cost of the order, including the shipping and handling charge, is shown at the bottom of the page.",
+          "zh": "訂單總金額，包括運費和處理費，顯示在頁面最下方。"
+        },
+        {
+          "en": "The bank does not add a handling charge if you pay your bill online instead of at the counter.",
+          "zh": "如果你在網路上繳費而不是到櫃台，銀行不會加收手續費。"
+        }
+      ],
+      "distractors": [
+        "service charge",
+        "extra charge",
+        "handling time"
+      ],
+      "note": "語塊：a handling charge of（……的手續費）、shipping and handling charge（運費及處理費）。handling charge 是「處理訂單、包裝等的費用」；handle 是動詞「處理」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-job-offer",
+      "word": "job offer",
+      "pos": "名詞",
+      "meaning": "工作邀約；錄取通知",
+      "sentences": [
+        {
+          "en": "Ms. Lee decided to accept a job offer from a bank in Singapore because the salary was much higher.",
+          "zh": "李小姐決定接受新加坡一家銀行的工作邀約，因為薪水高很多。"
+        },
+        {
+          "en": "After three interviews, Mr. Kim was happy to receive a job offer from the technology company.",
+          "zh": "經過三次面試，金先生很開心收到那家科技公司的錄取通知。"
+        },
+        {
+          "en": "She had to turn down a job offer in Tokyo because she did not want to move away from her family.",
+          "zh": "她只好拒絕東京的工作邀約，因為她不想離開家人。"
+        },
+        {
+          "en": "Please reply to the job offer by Friday so that we can prepare your contract and start date.",
+          "zh": "請在週五前回覆工作邀約，讓我們準備你的合約和到職日。"
+        },
+        {
+          "en": "The job offer includes a good salary, health insurance, and four weeks of paid vacation every year.",
+          "zh": "這份工作邀約包括不錯的薪水、健康保險和每年四週的帶薪休假。"
+        }
+      ],
+      "distractors": [
+        "job opening",
+        "job title",
+        "job fair"
+      ],
+      "note": "語塊：accept a job offer（接受工作邀約）、receive a job offer（收到錄取通知）、turn down a job offer（拒絕工作邀約）。job offer 是「公司正式提供的工作機會」；offer 也可以是動詞「提供」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-relaxing",
+      "word": "relaxing",
+      "pos": "形容詞",
+      "meaning": "令人放鬆的",
+      "sentences": [
+        {
+          "en": "The hotel's spa offers a relaxing atmosphere where guests can rest after a busy day of meetings.",
+          "zh": "飯店的水療中心提供放鬆的氣氛，讓客人在忙碌開會一天後休息。"
+        },
+        {
+          "en": "Many families choose the small island for a relaxing vacation away from the noise of the city.",
+          "zh": "很多家庭選擇那座小島，度過遠離城市喧囂的輕鬆假期。"
+        },
+        {
+          "en": "The café plays soft music to create a relaxing environment for customers who want to read or work.",
+          "zh": "咖啡館播放輕柔的音樂，為想看書或工作的顧客營造放鬆的環境。"
+        },
+        {
+          "en": "A short walk in the park during lunch can be very relaxing for office workers who sit all day.",
+          "zh": "午餐時間在公園散個步，對整天坐著的上班族來說非常放鬆。"
+        },
+        {
+          "en": "The resort is famous for its relaxing atmosphere, beautiful gardens, and excellent food made from local ingredients.",
+          "zh": "那個度假村以放鬆的氣氛、美麗的花園和極佳的食物聞名。"
+        }
+      ],
+      "distractors": [
+        "relaxed",
+        "relating",
+        "replacing"
+      ],
+      "note": "語塊：relaxing atmosphere（放鬆的氣氛）、relaxing vacation（輕鬆的假期）。relaxing 是「讓人放鬆的（事物）」；relaxed 是「（人）感到放鬆的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-regarding",
+      "word": "regarding",
+      "pos": "介系詞",
+      "meaning": "關於",
+      "sentences": [
+        {
+          "en": "I am writing regarding your order, which will be delivered on Thursday instead of Monday.",
+          "zh": "我來信是關於您的訂單，它會在週四而不是週一送達。"
+        },
+        {
+          "en": "Please contact Ms. Park if you have any questions regarding the new vacation policy for next year.",
+          "zh": "如果你對新的休假規定有任何問題，請聯絡朴小姐。"
+        },
+        {
+          "en": "The manager sent an email regarding the changes to the schedule for next week's training session.",
+          "zh": "經理寄了一封關於下週訓練課程時程變更的電子郵件。"
+        },
+        {
+          "en": "The board will make a decision regarding the merger at its meeting at the end of the month.",
+          "zh": "董事會將在月底的會議上對合併做出決定。"
+        },
+        {
+          "en": "Regarding your request for a refund, we will send the money to your bank account within five days.",
+          "zh": "關於您的退款申請，我們會在五天內把錢匯到您的銀行帳戶。"
+        }
+      ],
+      "distractors": [
+        "regardless",
+        "guarding",
+        "regaining"
+      ],
+      "note": "語塊：regarding your order（關於您的訂單）、questions regarding（關於……的問題）。regarding 和 concerning、about 意思相同，比較正式；with regard to 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-carbon",
+      "word": "carbon",
+      "pos": "名詞",
+      "meaning": "碳",
+      "sentences": [
+        {
+          "en": "The company plans to reduce its carbon emissions by using electric trucks for all of its deliveries.",
+          "zh": "公司計畫所有配送都改用電動卡車，以減少碳排放。"
+        },
+        {
+          "en": "Trees absorb carbon dioxide from the air, so planting more of them can help slow climate change.",
+          "zh": "樹木會吸收空氣中的二氧化碳，所以多種樹有助於減緩氣候變遷。"
+        },
+        {
+          "en": "Many travelers want to reduce their carbon footprint by taking trains instead of airplanes when they travel.",
+          "zh": "很多旅客想搭火車而不是飛機，來減少碳足跡。"
+        },
+        {
+          "en": "The new building uses solar power and very little energy, so its carbon footprint is small.",
+          "zh": "新大樓使用太陽能且耗能極少，所以碳足跡很小。"
+        },
+        {
+          "en": "Factories that produce high carbon emissions will have to pay a new tax starting next year.",
+          "zh": "碳排放量高的工廠從明年起將須繳一項新稅。"
+        }
+      ],
+      "distractors": [
+        "cartoon",
+        "carbonate",
+        "caravan"
+      ],
+      "note": "語塊：carbon emissions（碳排放）、carbon dioxide（二氧化碳）、carbon footprint（碳足跡）。carbon 是「碳」；carbon footprint 是一個人或公司造成的碳排放量。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unattended",
+      "word": "unattended",
+      "pos": "形容詞",
+      "meaning": "無人看管的",
+      "sentences": [
+        {
+          "en": "Please do not leave your bags unattended in the airport, as they may be removed by security.",
+          "zh": "請不要把行李留在機場無人看管，因為可能會被保全移走。"
+        },
+        {
+          "en": "Unattended bags found in the train station will be taken to the lost and found office.",
+          "zh": "火車站裡發現的無人看管行李會被送到失物招領處。"
+        },
+        {
+          "en": "Children must not be left unattended in the swimming pool area at any time of the day.",
+          "zh": "任何時候都不可以讓孩子在游泳池區無人看管。"
+        },
+        {
+          "en": "The store is not responsible for any items left unattended in the shopping carts in the parking lot.",
+          "zh": "商店對留在購物車裡無人看管的任何物品概不負責。"
+        },
+        {
+          "en": "Never leave cooking food unattended in the kitchen, as it can easily cause a fire.",
+          "zh": "絕對不要讓廚房裡正在煮的食物無人看管，因為很容易引起火災。"
+        }
+      ],
+      "distractors": [
+        "unintended",
+        "untended",
+        "unattached"
+      ],
+      "note": "語塊：leave sth unattended（把……留著不管）、unattended bags（無人看管的行李）。unattended 是「沒有人在旁邊看著的」；attend 是「照料；出席」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-recent",
+      "word": "recent",
+      "pos": "形容詞",
+      "meaning": "最近的",
+      "sentences": [
+        {
+          "en": "In recent years, many young people have moved to the city to look for jobs in technology.",
+          "zh": "近年來，很多年輕人搬到城市找科技業的工作。"
+        },
+        {
+          "en": "A recent survey showed that most customers prefer to pay with their phones instead of cash.",
+          "zh": "最近的一項調查顯示，大多數顧客比較喜歡用手機而不是現金付款。"
+        },
+        {
+          "en": "Please send me the most recent version of the report so that I can check the numbers.",
+          "zh": "請把報告的最新版本寄給我，讓我檢查數字。"
+        },
+        {
+          "en": "Prices for housing in the city have increased sharply in recent years because of strong demand.",
+          "zh": "近年來因為需求強勁，城市的房價大幅上漲。"
+        },
+        {
+          "en": "The recent storm caused damage to several buildings near the coast, but no one was hurt.",
+          "zh": "最近的暴風雨損壞了海岸附近好幾棟建築，但沒有人受傷。"
+        }
+      ],
+      "distractors": [
+        "decent",
+        "resent",
+        "regent"
+      ],
+      "note": "語塊：recent years（近年來）、recent survey（最近的調查）、most recent（最新的）。recent 是「最近發生的」；recently 是副詞「最近」；decent 是「得體的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-loss",
+      "word": "loss",
+      "pos": "名詞",
+      "meaning": "損失；虧損",
+      "sentences": [
+        {
+          "en": "The company suffered a loss last year because of rising costs and lower sales in Europe.",
+          "zh": "因為成本上漲和歐洲銷售下滑，公司去年蒙受損失。"
+        },
+        {
+          "en": "Many workers are worried about job loss after the factory announced that it would use more robots.",
+          "zh": "工廠宣布要使用更多機器人後，很多工人擔心失業。"
+        },
+        {
+          "en": "The store sold its old products at a loss in order to make room for the new collection.",
+          "zh": "那家店虧本出售舊產品，為新系列騰出空間。"
+        },
+        {
+          "en": "The storm caused a loss of electricity in thousands of homes for more than ten hours.",
+          "zh": "暴風雨造成數千戶家庭停電十多個小時。"
+        },
+        {
+          "en": "Insurance can protect small businesses from a large loss if there is a fire or a flood.",
+          "zh": "保險可以在發生火災或水災時保護小企業免於重大損失。"
+        }
+      ],
+      "distractors": [
+        "lose",
+        "loose",
+        "lass"
+      ],
+      "note": "語塊：suffer a loss（蒙受損失）、job loss（失業）、at a loss（虧本；不知所措）。loss 是名詞；lose 是動詞「失去；輸」；loose 是「鬆的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-consistent",
+      "word": "consistent",
+      "pos": "形容詞",
+      "meaning": "一致的；穩定的",
+      "sentences": [
+        {
+          "en": "Customers return to the restaurant because the food has consistent quality every time they visit.",
+          "zh": "顧客會再回到那家餐廳，因為每次來食物品質都很穩定。"
+        },
+        {
+          "en": "The results of the second test were consistent with those of the first one, so the product is safe.",
+          "zh": "第二次測試的結果和第一次一致，所以產品是安全的。"
+        },
+        {
+          "en": "The company has shown consistent growth over the past five years, mainly because of online sales.",
+          "zh": "公司過去五年持續成長，主要是因為網路銷售。"
+        },
+        {
+          "en": "It is important to be consistent when you train new employees, so everyone learns the same rules.",
+          "zh": "訓練新員工時保持一致很重要，這樣每個人學到的規定都一樣。"
+        },
+        {
+          "en": "The new policy is consistent with the company's goal of reducing waste and saving energy.",
+          "zh": "新政策和公司減少浪費、節約能源的目標一致。"
+        }
+      ],
+      "distractors": [
+        "constant",
+        "persistent",
+        "insistent"
+      ],
+      "note": "語塊：consistent with（和……一致）、consistent quality（穩定的品質）、consistent growth（持續成長）。consistent 是「一直都一樣、穩定的」；consistency 是名詞；constant 是「不斷的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-timely",
+      "word": "timely",
+      "pos": "形容詞",
+      "meaning": "及時的；適時的",
+      "sentences": [
+        {
+          "en": "Please respond to all customer emails in a timely manner, ideally within twenty-four hours of receiving them.",
+          "zh": "請及時回覆所有顧客的電子郵件，最好在二十四小時內。"
+        },
+        {
+          "en": "We chose this supplier because it has a reputation for timely delivery and high-quality products.",
+          "zh": "我們選這家供應商，因為它以準時交貨和高品質產品著稱。"
+        },
+        {
+          "en": "Thank you for your timely response to our questions about the contract, which helped us a lot.",
+          "zh": "謝謝你及時回覆我們關於合約的問題，幫了我們很大的忙。"
+        },
+        {
+          "en": "The bank processes all loan applications in a timely manner so that customers can plan ahead.",
+          "zh": "銀行及時處理所有貸款申請，讓顧客能提前規劃。"
+        },
+        {
+          "en": "Timely delivery is important for restaurants, which need fresh ingredients from local farms every morning.",
+          "zh": "準時交貨對每天早上都需要新鮮食材的餐廳來說很重要。"
+        }
+      ],
+      "distractors": [
+        "timeless",
+        "lately",
+        "likely"
+      ],
+      "note": "語塊：in a timely manner（及時地）、timely delivery（準時交貨）、timely response（及時的回應）。timely 雖然是 -ly 結尾，但是形容詞；on time 是「準時」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-as-a-result-of",
+      "word": "as a result of",
+      "pos": "其他",
+      "meaning": "由於；因為……的結果",
+      "sentences": [
+        {
+          "en": "As a result of the heavy snow, many flights were canceled and the airport was closed for a day.",
+          "zh": "由於大雪，很多航班被取消，機場也關閉了一天。"
+        },
+        {
+          "en": "Sales increased by twenty percent as a result of the new advertising campaign on social media.",
+          "zh": "由於社群媒體上的新廣告活動，銷售增加了兩成。"
+        },
+        {
+          "en": "Several employees left the company as a result of the changes to the working hours last year.",
+          "zh": "因為去年工時的變動，好幾位員工離開了公司。"
+        },
+        {
+          "en": "As a result of the merger, the new company will have offices in more than thirty countries.",
+          "zh": "因為合併，新公司將在三十多個國家設有辦公室。"
+        },
+        {
+          "en": "The road was closed for several hours as a result of an accident involving two trucks.",
+          "zh": "因為一起兩輛卡車的事故，那條路封閉了好幾個小時。"
+        }
+      ],
+      "distractors": [
+        "as a matter of",
+        "in spite of",
+        "on behalf of"
+      ],
+      "note": "語塊：as a result of（因為……）。as a result of + 名詞 是「因為……」；as a result 放句首是「因此」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
