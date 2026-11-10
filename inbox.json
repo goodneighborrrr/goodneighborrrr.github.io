@@ -80133,6 +80133,706 @@
       ],
       "note": "語塊：every toddler（每位幼兒）、with a toddler（帶著幼兒）、a toddler can play（幼兒可以玩）。toddler 是一到三歲、剛學走路的小孩；infant 是「嬰兒」；preschooler 是「學齡前兒童」。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-place",
+      "word": "take place",
+      "pos": "片語動詞",
+      "meaning": "舉行；發生",
+      "sentences": [
+        {
+          "en": "The annual conference will take place in Singapore next month, and more than two thousand people will attend.",
+          "zh": "年度研討會下個月將在新加坡舉行，將有兩千多人參加。"
+        },
+        {
+          "en": "The concert will take place on Saturday evening at the outdoor stadium, even if it rains.",
+          "zh": "演唱會將在週六晚上於戶外體育場舉行，即使下雨也照常。"
+        },
+        {
+          "en": "The meeting will take place in Conference Room B, so please arrive ten minutes early.",
+          "zh": "會議將在 B 會議室舉行，所以請提早十分鐘到。"
+        },
+        {
+          "en": "The award ceremony will take place at the end of the dinner, after the CEO gives a short speech.",
+          "zh": "頒獎典禮將在晚宴最後、執行長簡短致詞後舉行。"
+        },
+        {
+          "en": "Several important changes will take place in the company next year, including a new office in Tokyo.",
+          "zh": "公司明年將有好幾項重要改變，包括在東京開新辦公室。"
+        }
+      ],
+      "distractors": [
+        "take part",
+        "take over",
+        "take off"
+      ],
+      "note": "語塊：take place in（在……舉行）、take place on（在……日舉行）。take place 是「（活動）舉行；（事情）發生」，沒有被動；happen 是「（意外）發生」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-in-need",
+      "word": "in need",
+      "pos": "形容詞",
+      "meaning": "有需要的；貧困的",
+      "sentences": [
+        {
+          "en": "The charity collects food and clothes and gives them to people in need during the winter months.",
+          "zh": "慈善機構收集食物和衣物，在冬季送給需要幫助的人。"
+        },
+        {
+          "en": "The company donates part of its profits to families in need who cannot afford to pay their rent.",
+          "zh": "公司把部分利潤捐給付不起房租的貧困家庭。"
+        },
+        {
+          "en": "Volunteers will deliver hot meals to older people in need every day during the holiday season.",
+          "zh": "假期期間，志工每天都會送熱食給有需要的長者。"
+        },
+        {
+          "en": "The school offers free books and lunches to children in need so that they can focus on studying.",
+          "zh": "學校提供免費書本和午餐給需要幫助的孩子，讓他們能專心讀書。"
+        },
+        {
+          "en": "Many residents donated money to help families in need after the flood damaged their homes.",
+          "zh": "洪水損壞住家後，很多居民捐款幫助受災的貧困家庭。"
+        }
+      ],
+      "distractors": [
+        "in deed",
+        "in demand",
+        "in debt"
+      ],
+      "note": "語塊：people in need（需要幫助的人）、families in need（貧困家庭）、children in need（需要幫助的孩子）。in need 放在名詞後面，表示「需要幫助的」；needy 意思接近，放在名詞前。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-needy",
+      "word": "needy",
+      "pos": "形容詞",
+      "meaning": "貧困的；需要幫助的",
+      "sentences": [
+        {
+          "en": "The charity provides free meals to needy families in the city every weekend at the community center.",
+          "zh": "慈善機構每個週末在社區中心為市內的貧困家庭提供免費餐點。"
+        },
+        {
+          "en": "The university offers scholarships to needy students who have excellent grades and want to study engineering.",
+          "zh": "大學提供獎學金給成績優秀、想念工程的清寒學生。"
+        },
+        {
+          "en": "The company gave blankets and warm clothes to needy families before the cold winter began.",
+          "zh": "公司在寒冷冬天開始前，送毛毯和保暖衣物給貧困家庭。"
+        },
+        {
+          "en": "Money from the fundraiser will be used to buy computers for needy students at local schools.",
+          "zh": "募款活動的錢將用來為當地學校的清寒學生買電腦。"
+        },
+        {
+          "en": "Volunteers spent the weekend building houses for needy families who lost their homes in the storm.",
+          "zh": "志工花了一個週末，為在暴風雨中失去家園的貧困家庭蓋房子。"
+        }
+      ],
+      "distractors": [
+        "nerdy",
+        "needle",
+        "speedy"
+      ],
+      "note": "語塊：needy families（貧困家庭）、needy students（清寒學生）。needy 是「很窮、需要幫助的」；放在名詞前；poor 意思接近；the needy 是「窮人」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-sponsor",
+      "word": "sponsor",
+      "pos": "動詞",
+      "meaning": "贊助；主辦",
+      "sentences": [
+        {
+          "en": "Several local businesses agreed to sponsor the marathon, so runners can take part for free this year.",
+          "zh": "好幾家當地企業同意贊助馬拉松，所以今年跑者可以免費參加。"
+        },
+        {
+          "en": "The company will sponsor a young athlete who hopes to compete in the international games next year.",
+          "zh": "公司將贊助一位希望明年參加國際運動會的年輕運動員。"
+        },
+        {
+          "en": "The music festival was able to sponsor free concerts in the park thanks to support from the city.",
+          "zh": "多虧市政府支持，音樂節得以贊助在公園舉辦的免費演唱會。"
+        },
+        {
+          "en": "Our bank is proud to sponsor the city's art museum, which offers free entry to students every Friday.",
+          "zh": "我們銀行很榮幸贊助市立美術館，每週五學生免費入場。"
+        },
+        {
+          "en": "If you would like to sponsor an event, please contact our marketing department for more information.",
+          "zh": "如果您想贊助活動，請聯絡我們的行銷部了解更多資訊。"
+        }
+      ],
+      "distractors": [
+        "sponge",
+        "spoon",
+        "spokesman"
+      ],
+      "note": "語塊：sponsor an event（贊助活動）、be sponsored by（由……贊助）、corporate sponsor（企業贊助商）。sponsor 可以當動詞或名詞「贊助者」；sponsorship 是名詞「贊助」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-mission",
+      "word": "mission",
+      "pos": "名詞",
+      "meaning": "使命；任務",
+      "sentences": [
+        {
+          "en": "Our company's mission is to provide healthy and affordable food to every family in the country.",
+          "zh": "我們公司的使命是為全國每個家庭提供健康又平價的食物。"
+        },
+        {
+          "en": "Please read the mission statement on our website to learn more about our goals and values.",
+          "zh": "請閱讀我們網站上的使命宣言，進一步了解我們的目標和價值觀。"
+        },
+        {
+          "en": "The government will send a business mission to Japan to find new partners for local companies.",
+          "zh": "政府將派一個商務考察團到日本，為本地企業尋找新夥伴。"
+        },
+        {
+          "en": "The charity's mission is to help children in need get a good education and healthy meals.",
+          "zh": "那個慈善機構的使命是幫助需要的孩子獲得良好教育和健康餐點。"
+        },
+        {
+          "en": "Every employee should understand the company mission and think about it when making important decisions.",
+          "zh": "每位員工都應該了解公司使命，並在做重要決定時想到它。"
+        }
+      ],
+      "distractors": [
+        "emission",
+        "permission",
+        "session"
+      ],
+      "note": "語塊：company mission（公司使命）、mission statement（使命宣言）、business mission（商務考察團）。mission 是「重要的目標或任務」；task 是一般「任務」；missionary 是「傳教士」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-donate",
+      "word": "donate",
+      "pos": "動詞",
+      "meaning": "捐贈；捐款",
+      "sentences": [
+        {
+          "en": "The company will donate one dollar to the children's hospital for every product sold this month.",
+          "zh": "這個月每賣出一件產品，公司就捐一元給兒童醫院。"
+        },
+        {
+          "en": "Many residents decided to donate money to help the families who lost their homes in the fire.",
+          "zh": "很多居民決定捐錢幫助在火災中失去家園的家庭。"
+        },
+        {
+          "en": "Employees can donate blood at the hospital near the office during their lunch break on Friday.",
+          "zh": "員工週五午休時可以到公司附近的醫院捐血。"
+        },
+        {
+          "en": "The famous collector plans to donate his paintings to the city museum after he retires.",
+          "zh": "那位知名收藏家打算退休後把畫作捐給市立博物館。"
+        },
+        {
+          "en": "Please donate any old clothes or books that you no longer need to the charity box near the entrance.",
+          "zh": "請把不再需要的舊衣服或書捐到入口附近的慈善箱。"
+        }
+      ],
+      "distractors": [
+        "denote",
+        "detonate",
+        "dominate"
+      ],
+      "note": "語塊：donate money（捐錢）、donate to（捐給……）、donate blood（捐血）。donate 是「捐」；donation 是名詞「捐款」；donor 是「捐贈者」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-volunteer",
+      "word": "volunteer",
+      "pos": "名詞",
+      "meaning": "志工；義工",
+      "sentences": [
+        {
+          "en": "Every volunteer who helped clean the beach on Saturday morning received a free lunch from the city.",
+          "zh": "每位週六早上幫忙清理海灘的志工都收到市政府提供的免費午餐。"
+        },
+        {
+          "en": "Ms. Lee has done volunteer work at the hospital every weekend for more than five years.",
+          "zh": "李小姐每個週末都在醫院做志工，已經五年多了。"
+        },
+        {
+          "en": "Many retired people volunteer at the museum, where they guide visitors and answer their questions.",
+          "zh": "很多退休人士在博物館當志工，帶參觀者導覽並回答問題。"
+        },
+        {
+          "en": "Every volunteer at the marathon will receive a free T-shirt and lunch on the day of the race.",
+          "zh": "馬拉松的每位志工在比賽當天都會得到一件免費 T 恤和午餐。"
+        },
+        {
+          "en": "Mr. Kim joined the charity as a volunteer and later became the manager of the whole program.",
+          "zh": "金先生以志工身分加入慈善機構，後來成為整個計畫的經理。"
+        }
+      ],
+      "distractors": [
+        "voluntary",
+        "vulture",
+        "venture"
+      ],
+      "note": "語塊：volunteer work（志工服務）、volunteer at（在……當志工）、as a volunteer（以志工身分）。volunteer 可以當名詞或動詞「自願」；voluntary 是形容詞「自願的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-antiquity",
+      "word": "antiquity",
+      "pos": "名詞",
+      "meaning": "古代；古物",
+      "sentences": [
+        {
+          "en": "The museum's new gallery displays objects from antiquity, including coins, pottery, and jewelry from Greece.",
+          "zh": "博物館的新展廳展出古代文物，包括來自希臘的硬幣、陶器和首飾。"
+        },
+        {
+          "en": "The city has a long history, and some of its buildings date back to antiquity.",
+          "zh": "這座城市歷史悠久，有些建築可以追溯到古代。"
+        },
+        {
+          "en": "Scholars study how people lived in antiquity by looking at the tools and buildings they left behind.",
+          "zh": "學者藉由研究古人留下的工具和建築，了解古代人如何生活。"
+        },
+        {
+          "en": "The temple is a place of great antiquity, so visitors are asked not to touch the old walls.",
+          "zh": "那座寺廟年代久遠，所以參觀者被要求不要觸摸古老的牆壁。"
+        },
+        {
+          "en": "The exhibition explains how trade between Asia and Europe began in antiquity and continued for centuries.",
+          "zh": "展覽說明亞洲和歐洲之間的貿易如何在古代開始並持續了幾個世紀。"
+        }
+      ],
+      "distractors": [
+        "antique",
+        "iniquity",
+        "quantity"
+      ],
+      "note": "語塊：in antiquity（在古代）、objects from antiquity（古代文物）、great antiquity（年代久遠）。antiquity 是「很久以前的時代」或「古代的物品」；antique 是「古董」；ancient 是「古代的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-refreshment",
+      "word": "refreshment",
+      "pos": "名詞",
+      "meaning": "茶點；提神的東西",
+      "sentences": [
+        {
+          "en": "Light refreshment will be served in the lobby after the presentation, so please stay and meet the speakers.",
+          "zh": "簡報結束後大廳會提供簡單茶點，所以請留下來和講者交流。"
+        },
+        {
+          "en": "The hotel will offer refreshment to every guest who arrives early and has to wait for the room.",
+          "zh": "飯店會為每位提早到、需要等房間的客人提供茶點。"
+        },
+        {
+          "en": "There is a refreshment stand near the entrance of the park where visitors can buy water and snacks.",
+          "zh": "公園入口附近有一個點心攤，遊客可以買水和零食。"
+        },
+        {
+          "en": "The organizers will offer refreshment to all of the volunteers who help at the charity event on Sunday.",
+          "zh": "主辦單位會為週日在慈善活動幫忙的所有志工提供茶點。"
+        },
+        {
+          "en": "After the long hike, a cold drink at the refreshment stand was exactly what everyone needed.",
+          "zh": "長途健行後，在點心攤喝一杯冷飲正是大家需要的。"
+        }
+      ],
+      "distractors": [
+        "refinement",
+        "replenishment",
+        "reinforcement"
+      ],
+      "note": "語塊：light refreshment（簡單茶點）、offer refreshment（提供茶點）、refreshment stand（點心攤）。refreshment 常用複數 refreshments，指活動提供的「點心和飲料」；refresh 是動詞「使恢復精神」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-excursion",
+      "word": "excursion",
+      "pos": "名詞",
+      "meaning": "短途旅行；遠足",
+      "sentences": [
+        {
+          "en": "The cruise ship offers a day excursion to a small island where passengers can swim and enjoy lunch.",
+          "zh": "郵輪提供一個到小島的一日遊，乘客可以游泳和享用午餐。"
+        },
+        {
+          "en": "The students will go on an excursion to the national park to learn about plants and animals.",
+          "zh": "學生會去國家公園遠足，認識植物和動物。"
+        },
+        {
+          "en": "The tour price does not include the optional excursion to the mountains, which costs fifty dollars extra.",
+          "zh": "行程價格不包含到山區的自費行程，要另外加五十元。"
+        },
+        {
+          "en": "The hotel can arrange a day excursion to the famous temples outside the city for its guests.",
+          "zh": "飯店可以為客人安排到城外知名寺廟的一日遊。"
+        },
+        {
+          "en": "More than half of the passengers booked the optional excursion to the old town on the second day.",
+          "zh": "超過一半的乘客預訂了第二天到老城區的自費行程。"
+        }
+      ],
+      "distractors": [
+        "exclusion",
+        "incursion",
+        "extension"
+      ],
+      "note": "語塊：day excursion（一日遊）、go on an excursion（去遠足）、optional excursion（自費行程）。excursion 是「團體的短途旅遊」；trip 是一般「旅行」；outing 是「出遊」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-retail",
+      "word": "retail",
+      "pos": "名詞",
+      "meaning": "零售",
+      "sentences": [
+        {
+          "en": "The company plans to open ten new retail stores in shopping centers across the country next year.",
+          "zh": "公司計畫明年在全國的購物中心開設十家新零售店。"
+        },
+        {
+          "en": "The retail price of the new phone is eight hundred dollars, but members can buy it for less.",
+          "zh": "新手機的零售價是八百元，但會員可以用更低的價格買到。"
+        },
+        {
+          "en": "Many people in the retail industry work on weekends and holidays, when stores are the busiest.",
+          "zh": "很多零售業的人在週末和假日上班，那是店裡最忙的時候。"
+        },
+        {
+          "en": "Online shopping has changed the retail industry, so many stores now sell their products on the internet too.",
+          "zh": "網購改變了零售業，所以很多店現在也在網路上賣產品。"
+        },
+        {
+          "en": "The retail price includes tax, so customers will not have to pay anything extra at the counter.",
+          "zh": "零售價已含稅，所以顧客在櫃台不用另外付任何費用。"
+        }
+      ],
+      "distractors": [
+        "detail",
+        "retain",
+        "resale"
+      ],
+      "note": "語塊：retail store（零售店）、retail price（零售價）、retail industry（零售業）。retail 是「直接賣給消費者」；wholesale 是「批發」；retailer 是「零售商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-publicly",
+      "word": "publicly",
+      "pos": "副詞",
+      "meaning": "公開地",
+      "sentences": [
+        {
+          "en": "The company will publicly announce the name of its new CEO at the press conference tomorrow.",
+          "zh": "公司明天將在記者會上公開宣布新任執行長的名字。"
+        },
+        {
+          "en": "Shares of publicly traded companies can be bought by anyone through a bank or an online service.",
+          "zh": "公開上市公司的股票，任何人都可以透過銀行或線上服務購買。"
+        },
+        {
+          "en": "The airline publicly apologized to passengers after hundreds of flights were canceled because of the storm last week.",
+          "zh": "上週數百個航班因暴風雨取消後，航空公司公開向乘客道歉。"
+        },
+        {
+          "en": "The mayor will publicly thank the volunteers who helped clean the city after the storm.",
+          "zh": "市長將公開感謝在暴風雨後幫忙清理城市的志工。"
+        },
+        {
+          "en": "The results of the study will be publicly available on the university's website next month.",
+          "zh": "研究結果下個月將公開刊登在大學網站上。"
+        }
+      ],
+      "distractors": [
+        "politely",
+        "privately",
+        "partially"
+      ],
+      "note": "語塊：publicly announce（公開宣布）、publicly traded（公開上市的）、publicly apologize（公開道歉）。publicly 是 public（公眾的）的副詞；privately 是相反「私下地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-stock-value",
+      "word": "stock value",
+      "pos": "名詞",
+      "meaning": "股價；股票價值",
+      "sentences": [
+        {
+          "en": "The stock value of the company rose by ten percent after it announced strong sales in Asia.",
+          "zh": "公司宣布亞洲銷售強勁後，股價上漲了一成。"
+        },
+        {
+          "en": "Investors were worried when the stock value fell sharply after the problems with the new product.",
+          "zh": "新產品出問題後股價大跌，投資人很擔心。"
+        },
+        {
+          "en": "The CEO said that the main goal for next year is to increase the stock value for all shareholders.",
+          "zh": "執行長說明年的主要目標是為所有股東提升股價。"
+        },
+        {
+          "en": "Many employees own shares, so they pay close attention to the stock value of the company.",
+          "zh": "很多員工持有股票，所以他們很關注公司的股價。"
+        },
+        {
+          "en": "The stock value of technology companies has grown rapidly over the past five years, especially in Asia.",
+          "zh": "科技公司的股價在過去五年快速成長，特別是在亞洲。"
+        }
+      ],
+      "distractors": [
+        "stock market",
+        "book value",
+        "face value"
+      ],
+      "note": "語塊：increase in stock value（股價上漲）、stock value of（……的股價）。stock 是「股票；庫存」；share price 意思接近；value 是「價值」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-make-public",
+      "word": "make public",
+      "pos": "片語動詞",
+      "meaning": "公開；公布",
+      "sentences": [
+        {
+          "en": "The company will make public the results of the survey at the meeting with shareholders next week.",
+          "zh": "公司將在下週的股東會議上公布調查結果。"
+        },
+        {
+          "en": "The government decided to make public the full report about air pollution in the city and its causes.",
+          "zh": "政府決定公開關於市區空氣污染及其原因的完整報告。"
+        },
+        {
+          "en": "The hotel will not make public the names of its guests, because it protects their privacy.",
+          "zh": "飯店不會公開客人的名字，因為它保護客人的隱私。"
+        },
+        {
+          "en": "The two companies plan to make public the details of the merger at the end of the month.",
+          "zh": "兩家公司打算在月底公開合併的細節。"
+        },
+        {
+          "en": "Please do not make public any information about the new product until it is officially launched.",
+          "zh": "在新產品正式上市之前，請不要公開任何相關資訊。"
+        }
+      ],
+      "distractors": [
+        "make sure",
+        "make clear",
+        "make known"
+      ],
+      "note": "語塊：make public the results（公布結果）、make sth public（把……公開）。make public 是「讓大家都知道」；announce、publish 意思接近；keep private 是相反。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-net-profit",
+      "word": "net profit",
+      "pos": "名詞",
+      "meaning": "淨利",
+      "sentences": [
+        {
+          "en": "The company reported a net profit of five million dollars last year, which was a new record.",
+          "zh": "公司公布去年淨利五百萬元，創下新紀錄。"
+        },
+        {
+          "en": "Although sales increased, the net profit fell because the cost of materials and shipping rose sharply.",
+          "zh": "雖然銷售增加，但因為材料和運輸成本大漲，淨利下降了。"
+        },
+        {
+          "en": "The new manager hopes to increase net profit by reducing waste and improving productivity in every factory.",
+          "zh": "新經理希望藉由減少每座工廠的浪費和提高生產力來增加淨利。"
+        },
+        {
+          "en": "Part of the net profit will be shared with employees as a bonus at the end of the year.",
+          "zh": "部分淨利會在年底以獎金形式分給員工。"
+        },
+        {
+          "en": "The small café made a net profit for the first time in its third year, after it began selling lunch sets.",
+          "zh": "那家小咖啡廳在開始賣午餐套餐後，第三年首次有淨利。"
+        }
+      ],
+      "distractors": [
+        "gross profit",
+        "net income",
+        "net weight"
+      ],
+      "note": "語塊：net profit of（……的淨利）、increase net profit（提高淨利）。net profit 是「扣掉所有成本後真正賺到的錢」；gross profit 是「毛利」；revenue 是「營收」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-individual",
+      "word": "individual",
+      "pos": "名詞",
+      "meaning": "個人",
+      "sentences": [
+        {
+          "en": "The training program is designed to meet the needs of each individual, so classes are very small.",
+          "zh": "訓練計畫是為了滿足每個人的需求而設計的，所以班級人數很少。"
+        },
+        {
+          "en": "The hotel can arrange special meals for individual needs, such as vegetarian or gluten-free food.",
+          "zh": "飯店可以依個人需求安排特別餐點，例如素食或無麩質食物。"
+        },
+        {
+          "en": "The painting was bought by a private individual who did not want his name to be made public.",
+          "zh": "那幅畫被一位不想公開姓名的一般民眾買走了。"
+        },
+        {
+          "en": "Every individual on the team has different skills, so the manager gives each person a different task.",
+          "zh": "團隊裡每個人都有不同的技能，所以經理給每個人不同的任務。"
+        },
+        {
+          "en": "The doctor creates an exercise plan for each individual, depending on his or her age and health.",
+          "zh": "醫生會依每個人的年齡和健康狀況，量身制定運動計畫。"
+        }
+      ],
+      "distractors": [
+        "indivisible",
+        "industrial",
+        "intellectual"
+      ],
+      "note": "語塊：each individual（每個人）、individual needs（個人需求）、private individual（一般民眾）。individual 可以當名詞「個人」或形容詞「個別的」；individually 是副詞「個別地」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-across-the-board",
+      "word": "across the board",
+      "pos": "其他",
+      "meaning": "全面地；一律",
+      "sentences": [
+        {
+          "en": "The company will raise salaries across the board by three percent for all employees starting in January.",
+          "zh": "公司從一月開始將為所有員工全面調薪百分之三。"
+        },
+        {
+          "en": "The store decided to cut prices across the board during the holiday sale to attract more customers.",
+          "zh": "那家店決定在假期特賣期間全面降價，吸引更多顧客。"
+        },
+        {
+          "en": "Costs increased across the board this year, from rent and electricity to the price of raw materials.",
+          "zh": "今年成本全面上升，從房租、電費到原料價格都是。"
+        },
+        {
+          "en": "The new rules will apply across the board to everyone, including managers and part-time workers.",
+          "zh": "新規定將一律適用於每個人，包括主管和兼職人員。"
+        },
+        {
+          "en": "Sales improved across the board last quarter, with every store reporting higher numbers than before.",
+          "zh": "上一季銷售全面改善，每家店的數字都比之前高。"
+        }
+      ],
+      "distractors": [
+        "on board",
+        "above board",
+        "across the street"
+      ],
+      "note": "語塊：salaries across the board（全面調薪）、prices across the board（全面降價）、increased across the board（全面上升）、apply across the board（一律適用）、improved across the board（全面改善）。across the board 是「對所有人或所有項目都一樣」；overall 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-initially",
+      "word": "initially",
+      "pos": "副詞",
+      "meaning": "起初；最初",
+      "sentences": [
+        {
+          "en": "The project was initially planned to take six months, but it was finished in only four.",
+          "zh": "專案最初計畫要花六個月，但只花了四個月就完成了。"
+        },
+        {
+          "en": "Initially, many customers did not like the new design, but now it is our best-selling product.",
+          "zh": "起初很多顧客不喜歡新設計，但現在它是我們最暢銷的產品。"
+        },
+        {
+          "en": "The cost of the bridge was much higher than the city initially expected, because of the bad weather.",
+          "zh": "因為天氣不好，那座橋的成本比市政府最初預期的高很多。"
+        },
+        {
+          "en": "The restaurant initially opened as a small café, but it has grown into a chain with ten locations.",
+          "zh": "那家餐廳最初是以小咖啡廳開業，現在已發展成有十家分店的連鎖店。"
+        },
+        {
+          "en": "Ms. Lee was initially hired as an assistant, but she was promoted to manager after only two years.",
+          "zh": "李小姐最初是以助理身分被雇用，但只過了兩年就升為經理。"
+        }
+      ],
+      "distractors": [
+        "initiative",
+        "essentially",
+        "finally"
+      ],
+      "note": "語塊：initially planned（最初計畫）、initially expected（最初預期）、initially opened（最初開業）、initially hired（最初受雇）、initially, many（起初很多）。initially 是「一開始」；at first 意思接近；initial 是形容詞「最初的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-pay-off",
+      "word": "pay off",
+      "pos": "片語動詞",
+      "meaning": "還清；得到回報",
+      "sentences": [
+        {
+          "en": "Mr. Kim worked two jobs for five years to pay off the loan he used to start his business.",
+          "zh": "金先生打兩份工五年，還清了他創業用的貸款。"
+        },
+        {
+          "en": "The team's hard work will pay off when the new product goes on sale next month.",
+          "zh": "新產品下個月上市時，團隊的努力就會有回報。"
+        },
+        {
+          "en": "Many young people want to pay off their student loans before they buy a house.",
+          "zh": "很多年輕人想在買房前還清學貸。"
+        },
+        {
+          "en": "The company's investment in new machines began to pay off after only one year of production.",
+          "zh": "公司對新機器的投資生產僅一年就開始有回報。"
+        },
+        {
+          "en": "If you pay off your credit card bill every month, you will not have to pay any interest.",
+          "zh": "如果你每個月繳清信用卡帳單，就不用付任何利息。"
+        }
+      ],
+      "distractors": [
+        "pay back",
+        "pay out",
+        "pay for"
+      ],
+      "note": "語塊：pay off the loan（還清貸款）、pay off loans（還清貸款）、hard work will pay off（努力會有回報）、investment began to pay off（投資開始有回報）、pay off your bill（繳清帳單）。pay off 有「把債還清」和「努力得到好結果」兩個意思；pay back 是「償還」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-loan",
+      "word": "loan",
+      "pos": "名詞",
+      "meaning": "貸款；借款",
+      "sentences": [
+        {
+          "en": "The restaurant owner applied for a loan from the bank to open a second location near the university.",
+          "zh": "餐廳老闆向銀行申請貸款，在大學附近開第二家店。"
+        },
+        {
+          "en": "The bank loan must be paid back within five years, and the interest rate is four percent.",
+          "zh": "銀行貸款必須在五年內還清，利率是百分之四。"
+        },
+        {
+          "en": "Many students take out a loan to pay for their university fees, books, and housing.",
+          "zh": "很多學生借貸支付大學學費、書費和住宿費。"
+        },
+        {
+          "en": "The company was able to pay back the loan early because sales were much higher than expected.",
+          "zh": "因為銷售比預期高很多，公司得以提前償還貸款。"
+        },
+        {
+          "en": "Before you apply for a loan, please compare the interest rates at several different banks.",
+          "zh": "申請貸款前，請比較好幾家銀行的利率。"
+        }
+      ],
+      "distractors": [
+        "lawn",
+        "lone",
+        "moan"
+      ],
+      "note": "語塊：apply for a loan（申請貸款）、bank loan（銀行貸款）、pay back a loan（償還貸款）。loan 可以當名詞或動詞「借出」；borrow 是「借入」；lend 是「借出」。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
