@@ -52938,6 +52938,671 @@
       ],
       "note": "語塊：pediatric doctor（小兒科醫生）、pediatric clinic（兒科診所）、pediatric care（兒童醫療）。pediatric 是「兒童醫療的」；pediatrician 是「小兒科醫生」；英式拼法 paediatric。",
       "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-continued",
+      "word": "continued",
+      "pos": "形容詞",
+      "meaning": "持續的",
+      "sentences": [
+        {
+          "en": "We would like to thank our customers for their continued support over the past twenty years.",
+          "zh": "我們要感謝顧客過去二十年來持續的支持。"
+        },
+        {
+          "en": "The company expects continued growth in its online sales because more people are shopping from home.",
+          "zh": "公司預期網路銷售會持續成長，因為更多人在家購物。"
+        },
+        {
+          "en": "We wish you continued success in your new position at the head office in New York.",
+          "zh": "祝你在紐約總公司的新職位上持續成功。"
+        },
+        {
+          "en": "The continued rise in fuel prices has forced many airlines to increase the cost of their tickets.",
+          "zh": "油價持續上漲迫使很多航空公司調高機票價格。"
+        },
+        {
+          "en": "Thanks to the continued efforts of our staff, the hotel received excellent reviews again this year.",
+          "zh": "多虧員工持續的努力，飯店今年又獲得了極佳的評價。"
+        }
+      ],
+      "distractors": [
+        "continual",
+        "contained",
+        "contended"
+      ],
+      "note": "語塊：continued support（持續的支持）、continued growth（持續成長）、continued success（持續成功）。continued 是「繼續下去的」；continuous 是「不間斷的」；continue 是動詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-primarily",
+      "word": "primarily",
+      "pos": "副詞",
+      "meaning": "主要地；首要地",
+      "sentences": [
+        {
+          "en": "The company sells its products primarily online, although it also has a few stores in large cities.",
+          "zh": "公司主要在網路上販售產品，雖然在大城市也有幾家門市。"
+        },
+        {
+          "en": "The meeting room is primarily used for training sessions, but it can also be booked for interviews.",
+          "zh": "那間會議室主要用來辦訓練課程，但也可以預約來面試。"
+        },
+        {
+          "en": "Sales increased last year primarily because of the success of our new advertising campaign on social media.",
+          "zh": "去年銷售增加主要是因為新廣告活動很成功。"
+        },
+        {
+          "en": "The program is aimed primarily at young people who want to start their own businesses.",
+          "zh": "這個計畫主要是針對想創業的年輕人。"
+        },
+        {
+          "en": "The museum's collection consists primarily of paintings by artists who lived and worked in the region.",
+          "zh": "博物館的館藏主要是住在該地區的藝術家的畫作。"
+        }
+      ],
+      "distractors": [
+        "primitively",
+        "privately",
+        "promptly"
+      ],
+      "note": "語塊：primarily because（主要是因為）、primarily used for（主要用於）、primarily online（主要在網路上）、aimed primarily at（主要針對）、consists primarily of（主要由……組成）。primarily 是「主要」；mainly、mostly 意思接近；primary 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-safely",
+      "word": "safely",
+      "pos": "副詞",
+      "meaning": "安全地",
+      "sentences": [
+        {
+          "en": "The pilot announced that the plane would land safely at the airport despite the strong winds.",
+          "zh": "機長宣布儘管風很大，飛機會安全降落在機場。"
+        },
+        {
+          "en": "Please drive safely on the mountain roads, especially at night when it is raining or snowing.",
+          "zh": "在山路上請安全駕駛，尤其是下雨或下雪的時候。"
+        },
+        {
+          "en": "All customer data is safely stored on secure servers that are protected by special software.",
+          "zh": "所有顧客資料都安全存放在受特殊軟體保護的伺服器上。"
+        },
+        {
+          "en": "The package arrived safely, and none of the glass bottles inside were broken during the delivery.",
+          "zh": "包裹平安送達，裡面的玻璃瓶在運送過程中都沒有破。"
+        },
+        {
+          "en": "Workers must be trained to use the machines safely before they start working on the production line.",
+          "zh": "工人在開始上生產線工作之前，必須受過安全使用機器的訓練。"
+        }
+      ],
+      "distractors": [
+        "safety",
+        "sadly",
+        "sanely"
+      ],
+      "note": "語塊：arrive safely（平安抵達）、drive safely（安全駕駛）、safely stored（安全存放）。safely 是副詞；safe 是形容詞「安全的」；safety 是名詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-age-group",
+      "word": "age group",
+      "pos": "名詞",
+      "meaning": "年齡層",
+      "sentences": [
+        {
+          "en": "The new phone is popular with people in the age group between twenty and thirty-five.",
+          "zh": "新手機很受二十到三十五歲年齡層的人歡迎。"
+        },
+        {
+          "en": "The survey asked people in each age group how often they shop online and what they usually buy.",
+          "zh": "調查詢問每個年齡層的人多常在網路上購物、通常買什麼。"
+        },
+        {
+          "en": "Each age group at the summer camp has its own activities and its own teachers.",
+          "zh": "夏令營的每個年齡層都有自己的活動和老師。"
+        },
+        {
+          "en": "The museum offers special tours for every age group, from young children to elderly visitors.",
+          "zh": "博物館為每個年齡層都提供特別導覽，從幼童到年長的訪客都有。"
+        },
+        {
+          "en": "Sales of the new game were highest in the age group of teenagers and university students.",
+          "zh": "新遊戲在青少年和大學生的年齡層中銷量最高。"
+        }
+      ],
+      "distractors": [
+        "age limit",
+        "target group",
+        "peer group"
+      ],
+      "note": "語塊：in the age group（在……年齡層）、each age group（每個年齡層）。age group 是「某個年齡範圍的人」；generation 是「世代」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-cybercrime",
+      "word": "cybercrime",
+      "pos": "名詞",
+      "meaning": "網路犯罪",
+      "sentences": [
+        {
+          "en": "The bank has hired more experts to fight cybercrime and protect its customers' personal information.",
+          "zh": "銀行增聘了更多專家打擊網路犯罪，保護顧客的個人資料。"
+        },
+        {
+          "en": "Many small businesses do not know how to protect themselves from cybercrime, so the city offers free classes.",
+          "zh": "很多小企業不知道如何防範網路犯罪，所以市政府提供免費課程。"
+        },
+        {
+          "en": "The police have created a special team that deals only with cybercrime and online fraud.",
+          "zh": "警方成立了一個專門處理網路犯罪和線上詐騙的特別小組。"
+        },
+        {
+          "en": "Cybercrime has increased in recent years because more and more people shop and bank online.",
+          "zh": "近年來網路犯罪增加了，因為越來越多人在網路上購物和處理銀行業務。"
+        },
+        {
+          "en": "Employees should never share their passwords, as this is one of the easiest ways for cybercrime to happen.",
+          "zh": "員工絕對不要分享密碼，因為這是網路犯罪最容易發生的方式之一。"
+        }
+      ],
+      "distractors": [
+        "cyberspace",
+        "crime rate",
+        "cybersecurity"
+      ],
+      "note": "語塊：fight cybercrime（打擊網路犯罪）、protect ... from cybercrime（防範網路犯罪）、deals with cybercrime（處理網路犯罪）、cybercrime has increased（網路犯罪增加）。cybercrime 是「透過網路進行的犯罪」；cyber 是「網路的」；hacker 是「駭客」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-caution",
+      "word": "caution",
+      "pos": "名詞",
+      "meaning": "小心；謹慎；警告",
+      "sentences": [
+        {
+          "en": "Drivers should use caution on the mountain roads because they can be very slippery after the rain.",
+          "zh": "駕駛在山路上應該小心，因為下雨後路面可能非常滑。"
+        },
+        {
+          "en": "Please exercise caution when you open emails from people you do not know, as they may contain viruses.",
+          "zh": "打開陌生人寄來的郵件時請謹慎，因為可能含有病毒。"
+        },
+        {
+          "en": "The new medicine should be used with caution by elderly patients and people with heart problems.",
+          "zh": "長者和有心臟問題的人使用新藥時應該小心。"
+        },
+        {
+          "en": "The sign near the entrance warns visitors to use caution because the floor is wet.",
+          "zh": "入口附近的標示提醒訪客要小心，因為地板是濕的。"
+        },
+        {
+          "en": "Investors are advised to proceed with caution because the market has been unstable this year.",
+          "zh": "建議投資人謹慎行事，因為今年市場一直不穩定。"
+        }
+      ],
+      "distractors": [
+        "cushion",
+        "auction",
+        "causation"
+      ],
+      "note": "語塊：with caution（小心地）、exercise caution（謹慎行事）、use caution（小心）。caution 是「小心」；cautious 是形容詞「謹慎的」；caution 也可以當動詞「警告」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-suspicious",
+      "word": "suspicious",
+      "pos": "形容詞",
+      "meaning": "可疑的；懷疑的",
+      "sentences": [
+        {
+          "en": "Please report any suspicious activity in the building to the security guard at the front desk.",
+          "zh": "大樓裡有任何可疑活動，請通報櫃台的保全。"
+        },
+        {
+          "en": "The airport was closed for an hour after a suspicious package was found near one of the gates.",
+          "zh": "在一個登機門附近發現可疑包裹後，機場關閉了一小時。"
+        },
+        {
+          "en": "The bank will call you if it notices suspicious activity on your credit card account.",
+          "zh": "如果銀行發現你的信用卡帳戶有可疑活動，會打電話給你。"
+        },
+        {
+          "en": "Many customers are suspicious of emails that ask for their passwords or bank details by email.",
+          "zh": "很多顧客會懷疑要求提供密碼或銀行資料的電子郵件。"
+        },
+        {
+          "en": "The manager became suspicious when the same invoice was sent to the accounting department twice.",
+          "zh": "同一張發票被寄到會計部兩次時，經理開始起疑。"
+        }
+      ],
+      "distractors": [
+        "superstitious",
+        "delicious",
+        "ambitious"
+      ],
+      "note": "語塊：suspicious activity（可疑活動）、suspicious package（可疑包裹）、be suspicious of（懷疑……）。suspicious 可以是「可疑的（事物）」或「起疑心的（人）」；suspect 是動詞「懷疑」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-inconvenient",
+      "word": "inconvenient",
+      "pos": "形容詞",
+      "meaning": "不方便的",
+      "sentences": [
+        {
+          "en": "I am sorry if I called at an inconvenient time, so please let me know when it is better to talk.",
+          "zh": "如果我打來的時間不方便，很抱歉，請告訴我什麼時候比較適合談。"
+        },
+        {
+          "en": "The new meeting time is inconvenient for employees who need to pick up their children from school.",
+          "zh": "新的會議時間對需要去學校接孩子的員工來說不方便。"
+        },
+        {
+          "en": "The location of the new office is inconvenient because it is far from the subway station.",
+          "zh": "新辦公室的位置不方便，因為離捷運站很遠。"
+        },
+        {
+          "en": "We understand that the construction work may be inconvenient for residents, and we apologize for the noise.",
+          "zh": "我們了解施工可能會造成居民的不便，並為噪音致歉。"
+        },
+        {
+          "en": "If the delivery date is inconvenient for you, please call us and we will arrange another time.",
+          "zh": "如果送貨日期對你不方便，請打電話給我們，我們會安排其他時間。"
+        }
+      ],
+      "distractors": [
+        "incompetent",
+        "inconsistent",
+        "inexpensive"
+      ],
+      "note": "語塊：inconvenient time（不方便的時間）、inconvenient for（對……不方便）。inconvenient 是形容詞；inconvenience 是名詞「不便」；convenient 是「方便的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-increasingly",
+      "word": "increasingly",
+      "pos": "副詞",
+      "meaning": "越來越；日益",
+      "sentences": [
+        {
+          "en": "Electric cars are becoming increasingly popular as the price of fuel continues to rise around the world.",
+          "zh": "隨著油價持續上漲，電動車越來越受歡迎。"
+        },
+        {
+          "en": "It is becoming increasingly difficult for young families to buy homes in the city center.",
+          "zh": "年輕家庭要在市中心買房變得越來越困難。"
+        },
+        {
+          "en": "Online reviews are increasingly important for small restaurants that want to attract new customers online.",
+          "zh": "網路評論對想吸引新顧客的餐廳越來越重要。"
+        },
+        {
+          "en": "Many workers are increasingly worried about their jobs as companies use more robots in factories.",
+          "zh": "隨著公司在工廠使用更多機器人，很多工人越來越擔心自己的工作。"
+        },
+        {
+          "en": "The museum has become increasingly popular with tourists since it opened its new science exhibit.",
+          "zh": "博物館自從開了新的科學展後，越來越受觀光客歡迎。"
+        }
+      ],
+      "distractors": [
+        "incredibly",
+        "increasing",
+        "incidentally"
+      ],
+      "note": "語塊：increasingly popular（越來越受歡迎）、increasingly difficult（越來越困難）、increasingly important（越來越重要）。increasingly 是「一直變得更……」；more and more 意思接近。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-finance",
+      "word": "finance",
+      "pos": "名詞",
+      "meaning": "財務；金融",
+      "sentences": [
+        {
+          "en": "Please send all of your receipts to the finance department by the end of the month.",
+          "zh": "請在月底前把所有收據寄到財務部。"
+        },
+        {
+          "en": "The book offers simple advice about personal finance, such as how to save money and avoid debt.",
+          "zh": "那本書提供簡單的個人理財建議，例如如何存錢和避免負債。"
+        },
+        {
+          "en": "Ms. Park was promoted to finance director after working in the department for twelve years.",
+          "zh": "朴小姐在部門工作十二年後被升為財務總監。"
+        },
+        {
+          "en": "Mr. Lee studied finance at university and now works as an analyst at a large bank.",
+          "zh": "李先生大學讀財務，現在在一家大銀行擔任分析師。"
+        },
+        {
+          "en": "The finance department will review every expense report before employees are paid back for their costs.",
+          "zh": "財務部會在員工拿到報銷款之前審查每一份支出報告。"
+        }
+      ],
+      "distractors": [
+        "fiancé",
+        "fine",
+        "finalize"
+      ],
+      "note": "語塊：finance department（財務部）、personal finance（個人理財）、finance director（財務總監）。finance 可以當名詞或動詞「提供資金」；financial 是形容詞。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-unauthorized",
+      "word": "unauthorized",
+      "pos": "形容詞",
+      "meaning": "未經授權的",
+      "sentences": [
+        {
+          "en": "The security system will stop any unauthorized access to the server room after business hours.",
+          "zh": "保全系統會阻止下班後任何未經授權進入機房的行為。"
+        },
+        {
+          "en": "Unauthorized use of company cars is not allowed, and employees who break this rule may be punished.",
+          "zh": "不得擅自使用公司車輛，違反這項規定的員工可能會受罰。"
+        },
+        {
+          "en": "The sign on the door says that unauthorized personnel are not allowed to enter the laboratory.",
+          "zh": "門上的標示寫著未經授權人員不得進入實驗室。"
+        },
+        {
+          "en": "Please contact the bank immediately if you notice any unauthorized payments on your credit card.",
+          "zh": "如果你發現信用卡上有任何未經授權的付款，請立刻聯絡銀行。"
+        },
+        {
+          "en": "The company installed new cameras to prevent unauthorized entry into the warehouse late at night.",
+          "zh": "公司裝了新的監視器，防止晚上有人未經授權進入倉庫。"
+        }
+      ],
+      "distractors": [
+        "unorganized",
+        "unauthentic",
+        "undecided"
+      ],
+      "note": "語塊：unauthorized access（未經授權的進入）、unauthorized use（擅自使用）、unauthorized personnel（未經授權人員）。unauthorized 是「沒有得到許可的」；authorized 是「經授權的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-statement",
+      "word": "statement",
+      "pos": "名詞",
+      "meaning": "聲明；陳述；對帳單",
+      "sentences": [
+        {
+          "en": "The company will issue a statement about the merger at a press conference on Monday morning.",
+          "zh": "公司將在週一早上的記者會上就合併發表聲明。"
+        },
+        {
+          "en": "Please check your bank statement every month to make sure that there are no mistakes.",
+          "zh": "請每個月檢查你的銀行對帳單，確認沒有錯誤。"
+        },
+        {
+          "en": "The accountant prepared a financial statement that shows the company's income and expenses for the year.",
+          "zh": "會計師準備了一份財務報表，列出公司全年的收入和支出。"
+        },
+        {
+          "en": "The airline issued a statement to apologize for the long delays that passengers experienced last weekend.",
+          "zh": "航空公司發表聲明，為乘客上週末遭遇的長時間延誤道歉。"
+        },
+        {
+          "en": "You can download your monthly bank statement from the website or ask for a printed copy at a branch.",
+          "zh": "你可以從網站下載每月銀行對帳單，或到分行索取紙本。"
+        }
+      ],
+      "distractors": [
+        "settlement",
+        "statute",
+        "stagnant"
+      ],
+      "note": "語塊：issue a statement（發表聲明）、bank statement（銀行對帳單）、financial statement（財務報表）。statement 可以是「聲明」或「對帳單、報表」；state 當動詞是「陳述」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-compare",
+      "word": "compare",
+      "pos": "動詞",
+      "meaning": "比較",
+      "sentences": [
+        {
+          "en": "Before you buy a new laptop, it is a good idea to compare prices at several different stores.",
+          "zh": "買新筆電之前，最好先比較好幾家不同店的價格。"
+        },
+        {
+          "en": "The report will compare sales this year with sales over the past five years in every region.",
+          "zh": "報告會把今年的銷售和過去五年每個地區的銷售做比較。"
+        },
+        {
+          "en": "If you compare the new office with the old one, the new one is much brighter and closer to the station.",
+          "zh": "如果把新辦公室和舊的比較，新的明亮很多，也更靠近車站。"
+        },
+        {
+          "en": "Customers can use the website to compare the features of each phone before they make a decision.",
+          "zh": "顧客可以用網站比較每支手機的功能，再做決定。"
+        },
+        {
+          "en": "It is difficult to compare the two hotels because one is in the city and the other is near the beach.",
+          "zh": "很難比較這兩家飯店，因為一家在市區，另一家在海邊。"
+        }
+      ],
+      "distractors": [
+        "compete",
+        "compile",
+        "prepare"
+      ],
+      "note": "語塊：compare A with B（把 A 和 B 比較）、compare the features（比較功能）、compare prices（比價）。compare with 和 compare to 常可互換；comparison 是名詞；comparable 是「可比較的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-randomly",
+      "word": "randomly",
+      "pos": "副詞",
+      "meaning": "隨機地；任意地",
+      "sentences": [
+        {
+          "en": "Five customers will be randomly selected to win a free vacation at the end of the month.",
+          "zh": "月底將隨機選出五位顧客，贏得一次免費度假。"
+        },
+        {
+          "en": "The survey was sent to one thousand randomly chosen people who live in the city.",
+          "zh": "那份調查寄給了一千位隨機挑選、住在城裡的人。"
+        },
+        {
+          "en": "The inspectors will randomly check boxes from each shipment to make sure the products are not damaged.",
+          "zh": "檢查員會從每批貨中隨機抽查箱子，確認產品沒有損壞。"
+        },
+        {
+          "en": "Seats on the bus are not reserved, so passengers may sit randomly wherever there is space.",
+          "zh": "巴士座位不對號，所以乘客可以隨意找空位坐。"
+        },
+        {
+          "en": "The winners of the prize draw will be randomly selected by a computer program on Friday.",
+          "zh": "抽獎的得主將在週五由電腦程式隨機選出。"
+        }
+      ],
+      "distractors": [
+        "rarely",
+        "readily",
+        "roughly"
+      ],
+      "note": "語塊：randomly selected（隨機選出的）、randomly chosen（隨機挑選的）。randomly 是「沒有特定規則地」；random 是形容詞「隨機的」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-reschedule",
+      "word": "reschedule",
+      "pos": "動詞",
+      "meaning": "重新安排時間；改期",
+      "sentences": [
+        {
+          "en": "I need to reschedule the meeting because I have to visit a client on Thursday afternoon.",
+          "zh": "我需要把會議改期，因為週四下午得去拜訪客戶。"
+        },
+        {
+          "en": "Please call the clinic at least one day in advance if you need to reschedule an appointment.",
+          "zh": "如果你需要改約時間，請至少提前一天打電話給診所。"
+        },
+        {
+          "en": "The concert was rescheduled because of the storm, and the organizers will reschedule it for next Saturday.",
+          "zh": "演唱會因暴風雨延期，主辦單位會改到下週六舉行。"
+        },
+        {
+          "en": "The airline will reschedule your flight at no extra cost if your original flight is canceled.",
+          "zh": "如果你原本的航班被取消，航空公司會免費幫你改期。"
+        },
+        {
+          "en": "The manager asked whether we could reschedule the training session for a day when everyone is available.",
+          "zh": "經理問我們能不能把訓練課程改到大家都有空的一天。"
+        }
+      ],
+      "distractors": [
+        "schedule",
+        "rescue",
+        "reshuffle"
+      ],
+      "note": "語塊：reschedule a meeting（會議改期）、reschedule an appointment（改約時間）、reschedule for（改到……）。reschedule 是「把約好的時間改到另一個時間」；postpone 是「延後」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-take-care-to",
+      "word": "take care to",
+      "pos": "其他",
+      "meaning": "小心地……；留意去……",
+      "sentences": [
+        {
+          "en": "Please take care to lock all of the doors and windows before you leave the office at night.",
+          "zh": "晚上離開辦公室前，請留意把所有門窗鎖好。"
+        },
+        {
+          "en": "Workers must take care to wear gloves when they handle the chemicals in the laboratory.",
+          "zh": "工作人員在實驗室處理化學品時，必須注意戴手套。"
+        },
+        {
+          "en": "Take care to save your work often, as the old computers sometimes stop working without warning.",
+          "zh": "請留意經常存檔，因為舊電腦有時會毫無預警地當機。"
+        },
+        {
+          "en": "The movers will take care to protect the furniture so that nothing is damaged during the move.",
+          "zh": "搬家人員會小心保護家具，讓搬家過程中沒有東西損壞。"
+        },
+        {
+          "en": "Please take care to write your name and address clearly on the form so that we can contact you.",
+          "zh": "請留意在表格上清楚寫下姓名和地址，讓我們能聯絡你。"
+        }
+      ],
+      "distractors": [
+        "take care of",
+        "take part in",
+        "take pride in"
+      ],
+      "note": "語塊：take care to（注意要……）。take care to + 原形動詞 是「小心、留意去做」；take care of 是「照顧」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-throw-away",
+      "word": "throw away",
+      "pos": "片語動詞",
+      "meaning": "丟掉",
+      "sentences": [
+        {
+          "en": "Please do not throw away any documents that contain customer information without shredding them first.",
+          "zh": "含有顧客資訊的文件，請不要沒先用碎紙機銷毀就丟掉。"
+        },
+        {
+          "en": "The restaurant tries not to throw away food by giving extra meals to a local charity.",
+          "zh": "那家餐廳盡量不丟掉食物，把多的餐點送給當地慈善團體。"
+        },
+        {
+          "en": "Before you throw away old electronics, please check whether they can be recycled at the store.",
+          "zh": "丟掉舊電子產品之前，請先確認店裡是否能回收。"
+        },
+        {
+          "en": "Many people throw away clothes that are still in good condition, so the charity collects them.",
+          "zh": "很多人丟掉還很好的衣服，所以那個慈善團體會收集它們。"
+        },
+        {
+          "en": "The office will throw away the old chairs next week, so please take one home if you want it.",
+          "zh": "辦公室下週會丟掉舊椅子，所以如果你想要可以帶一張回家。"
+        }
+      ],
+      "distractors": [
+        "throw up",
+        "throw in",
+        "give away"
+      ],
+      "note": "語塊：throw away any documents（丟掉任何文件）、throw away food（丟掉食物）、throw away old electronics（丟掉舊電子產品）、throw away clothes（丟掉衣服）、throw away the old chairs（丟掉舊椅子）。throw away 是「丟棄」；過去式 threw away；throw out 意思相同。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-property-development",
+      "word": "property development",
+      "pos": "名詞",
+      "meaning": "房地產開發",
+      "sentences": [
+        {
+          "en": "The property development company plans to build three hundred apartments near the new subway station.",
+          "zh": "那家房地產開發公司計畫在新捷運站附近蓋三百戶公寓。"
+        },
+        {
+          "en": "Mr. Kim has worked in property development for twenty years and has built many offices in the city.",
+          "zh": "金先生從事房地產開發二十年，在城裡蓋了很多辦公大樓。"
+        },
+        {
+          "en": "The property development project will include shops, restaurants, and a large park for the residents.",
+          "zh": "那個建案將包括商店、餐廳和一座給居民的大公園。"
+        },
+        {
+          "en": "Many residents are worried that the new property development will make traffic in the area much worse.",
+          "zh": "很多居民擔心新的房地產開發會讓這一帶的交通變得更糟。"
+        },
+        {
+          "en": "The city has strict rules for property development near the river in order to protect the environment.",
+          "zh": "市政府對河邊的房地產開發有嚴格的規定，以保護環境。"
+        }
+      ],
+      "distractors": [
+        "real estate",
+        "property manager",
+        "urban development"
+      ],
+      "note": "語塊：property development company（房地產開發公司）、property development project（建案）、worked in property development（從事房地產開發）、the new property development（新的房地產開發）、rules for property development（房地產開發規定）。property development 是「買地蓋房再出售或出租」；developer 是「開發商」。",
+      "addedAt": "2026-11-09"
+    },
+    {
+      "id": "20261109-transform",
+      "word": "transform",
+      "pos": "動詞",
+      "meaning": "轉變；改造",
+      "sentences": [
+        {
+          "en": "The city plans to transform the old factory into a modern art museum with shops and cafés.",
+          "zh": "市政府計畫把舊工廠改造成有商店和咖啡館的現代美術館。"
+        },
+        {
+          "en": "Smartphones have transformed the way people shop, and they will transform it even more in the future.",
+          "zh": "智慧型手機改變了人們購物的方式，未來還會改變得更多。"
+        },
+        {
+          "en": "The new manager hopes to transform the small company into one of the leading firms in the industry.",
+          "zh": "新經理希望把那家小公司變成業界的領導企業之一。"
+        },
+        {
+          "en": "The designer was able to transform the dark basement into a bright and comfortable meeting room.",
+          "zh": "設計師把昏暗的地下室改造成明亮舒適的會議室。"
+        },
+        {
+          "en": "New technology can transform agriculture by helping farmers grow more food with much less water.",
+          "zh": "新科技能幫助農民用更少的水種出更多食物，徹底改變農業。"
+        }
+      ],
+      "distractors": [
+        "transfer",
+        "transmit",
+        "translate"
+      ],
+      "note": "語塊：transform A into B（把 A 變成 B）、transform the way（改變方式）。transform 是「徹底改變」；transformation 是名詞；change 是一般說法。",
+      "addedAt": "2026-11-09"
     }
   ],
   "notes": [
