@@ -93,6 +93,9 @@ main{padding-block:20px 48px}
 .opt.wrong{border-color:var(--wrong);background:var(--wrong-wash)}
 .opt.wrong .k{background:var(--wrong);border-color:var(--wrong);color:#fff}
 .opt.dim{opacity:.55}
+.opt .wd{display:flex;flex-direction:column;gap:2px;min-width:0}
+.kk{font-family:system-ui,-apple-system,"Segoe UI","Lucida Sans Unicode","Arial Unicode MS",sans-serif;font-size:13px;font-weight:400;color:var(--muted);letter-spacing:.01em}
+.wordline .kk{font-size:15px}
 .opt .gl{margin-left:auto;padding-left:12px;font-family:var(--font-ui);font-size:14px;color:var(--muted);text-align:right;line-height:1.35}
 .opt.dim .gl{color:var(--ink)}
 .opt.wrong .gl{color:var(--wrong)}
@@ -655,13 +658,13 @@ function renderQuestion(){
       let cls = "opt";
       if (answered){ if (k === q.correct || (q.disputed && k === q.picked)) cls += " right"; else if (k === q.picked) cls += " wrong"; else cls += " dim"; }
       const gl = answered && k !== q.correct ? glossFor(o) : "";
-      return `<li><button class="${cls}" data-k="${k}" ${answered ? "disabled" : ""} lang="en"><span class="k">${LETTERS[k]}</span><span>${escapeHtml(o)}</span>${gl ? `<span class="gl" lang="zh-Hant">${escapeHtml(gl)}</span>` : ""}</button></li>`;
+      return `<li><button class="${cls}" data-k="${k}" ${answered ? "disabled" : ""} lang="en"><span class="k">${LETTERS[k]}</span><span class="wd"><span>${escapeHtml(o)}</span>${kkHtml(o)}</span>${gl ? `<span class="gl" lang="zh-Hant">${escapeHtml(gl)}</span>` : ""}</button></li>`;
     }).join("")}</ul>
     ${answered ? `
     <section class="feedback">
       <div class="verdict ${ok || q.disputed ? "ok" : "no"}">${ok ? "答對了！" : q.disputed ? `算你對！(${LETTERS[q.picked]}) 放進句子也說得通` : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
       ${q.learnedNow ? `<p class="note" style="margin:6px 0 0">🎉 這個字已經連續答對 ${MASTER_RUN} 次，自動移到「已學會」了</p>` : ""}
-      <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span></div>
+      <div class="wordline"><span class="w" lang="en">${escapeHtml(w.word)}</span>${kkHtml(w.word)}<span class="pos">${escapeHtml(w.pos)}</span></div>
       <div class="meaning">${escapeHtml(w.meaning || "（還沒有中文意思）")}</div>
       ${q.sentence.zh ? `<div class="zh">${escapeHtml(q.sentence.zh)}</div>` : ""}
       ${(nh => nh ? `<div class="wnote">${nh}</div>` : "")(w.note ? noteHtml(w.note, q.sentence.en) : "")}
@@ -670,6 +673,7 @@ function renderQuestion(){
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
     <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}`;
   main.querySelectorAll(".opt").forEach(b => b.onclick = () => answer(+b.dataset.k));
+  fillKK([w.word, ...q.options]);
   if (answered){ $("#next").onclick = next; fillGloss(q); const d = $("#dispute"); if (d) d.onclick = disputeAnswer; }
   bindSeg();
 }
@@ -707,7 +711,7 @@ function renderResults(){
     <div class="score"><div class="big">${right}<small> / ${S.round.length}</small></div>
       <p>${right === S.round.length ? "全部答對，太厲害了！" : `答錯 ${wrongs.length} 題，這些字明天會再考你一次。`}</p>
       <p class="cyc">第 ${cycleNo()} 輪：已答對 ${cycleProgress().done} / ${cycleProgress().total} 個字${cycleProgress().done >= cycleProgress().total ? "，下一回開始新的一輪" : ""}</p></div>
-    ${wrongs.length ? `<ul class="list">${wrongs.map(w => `<li><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="tag warn">${escapeHtml(w.pos)}</span><span class="m">${escapeHtml(w.meaning)}</span></li>`).join("")}</ul>` : ""}
+    ${wrongs.length ? `<ul class="list">${wrongs.map(w => `<li><span class="w" lang="en">${escapeHtml(w.word)}</span>${kkHtml(w.word)}<span class="tag warn">${escapeHtml(w.pos)}</span><span class="m">${escapeHtml(w.meaning)}</span></li>`).join("")}</ul>` : ""}
     <div class="segc">${segHtml()}</div>
     <button class="primary" id="again" style="margin-top:4px">再來一回</button>
     <div class="row" style="justify-content:center;margin-top:12px"><button class="ghost" id="toBank">看單字庫</button></div>`;
@@ -1070,7 +1074,7 @@ function openBank(){
     $("#bankList").innerHTML = shown.length ? shown.map(w => {
       const r = errRate(w);
       return `<li class="sw"><button class="delbtn ${learnedTab ? "back" : "done"}" data-del="${w.id}" tabindex="-1">${learnedTab ? "移回" : "已學會"}</button><button class="bankitem" data-id="${w.id}">
-        <span class="top"><span class="w" lang="en">${escapeHtml(w.word)}</span><span class="pos">${escapeHtml(w.pos)}</span>
+        <span class="top"><span class="w" lang="en">${escapeHtml(w.word)}</span>${kkHtml(w.word)}<span class="pos">${escapeHtml(w.pos)}</span>
           ${w.review.active ? `<span class="tag warn">複習中 ${w.review.streak}/${STREAK_TO_CLEAR}</span>` : ""}</span>
         <span class="m">${escapeHtml(w.meaning)}</span>
         <span class="rate">${r < 0 ? `<b>—</b><span>還沒考過</span>` : `<b class="${r >= .5 ? "hi" : ""}">${Math.round(r * 100)}%</b><span>錯 ${w.stats.wrong} / 答 ${w.stats.attempts}</span><span class="meter"><i style="width:${Math.round(r * 100)}%"></i></span>`}</span>
@@ -1284,6 +1288,33 @@ async function fillGloss(q){
   } catch {}
 }
 
+/* ---------- KK 音標：先查 kk.json（Claude 準備的），沒有的再請 AI 補並記在雲端 ---------- */
+const KK = {};
+async function loadKK(){
+  try { const r = await fetch(`kk.json?t=${Date.now()}`, { cache: "no-store" }); if (r.ok){ const j = await r.json(); Object.assign(KK, j.words || {}); if (Store.loaded) render(); } } catch {}
+}
+function kkFor(word){
+  const k = String(word || "").trim().toLowerCase().replace(/’/g, "'");
+  return KK[k] || (Store.settings.kk || {})[k] || "";
+}
+function kkHtml(word){ const v = kkFor(word); return v ? `<span class="kk" lang="en-fonipa">[${escapeHtml(v)}]</span>` : ""; }
+const kkTried = new Set();
+async function fillKK(list){
+  if (!Object.keys(KK).length || !Store.settings.aiKey) return;
+  const missing = [...new Set(list.map(o => String(o).trim().toLowerCase()))].filter(o => o && !kkFor(o) && !kkTried.has(o));
+  if (!missing.length) return;
+  missing.forEach(o => kkTried.add(o));
+  try {
+    const j = await AI.call(`Give the American English pronunciation of each word or phrase below in KK phonetic symbols (Kenyon and Knott, as used in Taiwan), using ˋ before the primary-stressed syllable and ˏ before the secondary-stressed syllable, no brackets. Return ONLY a JSON object mapping each item exactly as given (lowercase) to its KK transcription. Items: ${JSON.stringify(missing)}`);
+    const add = {};
+    for (const o of missing){ const v = j && j[o]; if (typeof v === "string" && v.trim()) add[o] = v.trim().replace(/^[\[\/]|[\]\/]$/g, "").slice(0, 60); }
+    if (!Object.keys(add).length) return;
+    Store.settings.kk = Object.assign({}, Store.settings.kk, add);
+    Store.saveSettings({ kk: add });
+    render();
+  } catch {}
+}
+
 /* ---------- 幫舊單字補上慣用語塊（用 AI，可以中斷後再繼續） ---------- */
 function needsColloc(w){ return !w.colloc && !/^\s*語塊：/.test(w.note || ""); }
 let collocRunning = false;
@@ -1326,7 +1357,7 @@ let importing = false;
 async function importInbox({ quiet = false } = {}){
   if (importing || !Store.uid || !Store.loaded) return;
   importing = true;
-  loadGloss();
+  loadGloss(); loadKK();
   try {
     // 收件匣只給主人；其他帳號第一次登入時，匯入一次主人的起始單字庫（starter.json），之後就各自獨立
     const owner = isOwner();
