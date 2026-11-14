@@ -56,5 +56,5 @@
 ## 其他
 
 - 不公開的備份空間是 `goodneighborrrr/eq-vocab-app`，App 的檔案兩邊要保持一致。
-- 雲端單字庫在 Firebase 專案 `eq-vocab-app`（Firestore，`users/{uid}/words`），只有主人的帳號能讀寫。
+- 雲端單字庫在 Firebase 專案 `eq-vocab-app`（Firestore，`users/{uid}/words`）。資料庫規則只允許名單上的信箱讀寫自己的資料：主人 shihchun7644@gmail.com、女朋友 hsiangningc@gmail.com。要再加人，得到 Firebase 控制台 → Firestore → 規則，把信箱加進名單。
 - 測試「隔天再考」：網址後面加 `#test`，「隔天」會變成「1 分鐘後」。
