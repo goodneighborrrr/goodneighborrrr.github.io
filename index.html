@@ -118,6 +118,9 @@ main{padding-block:20px 48px}
 .wnote li .en{font-weight:600}
 .linkish{justify-self:start;border:0;background:none;padding:4px 0;color:var(--muted);font-size:13px;text-decoration:underline;text-underline-offset:3px;text-align:left}
 .linkish:hover{color:var(--ink)}
+.endround{display:block;margin:18px auto 0;border:1px solid var(--line);background:none;border-radius:999px;padding:7px 16px;color:var(--muted);font-size:13px}
+.endround:hover{color:var(--ink);border-color:var(--muted)}
+.endround.armed{color:var(--wrong);border-color:var(--wrong)}
 .primary{width:100%;margin-top:16px;height:50px;border-radius:25px;border:0;background:var(--leaf);color:#fff;font-weight:700;font-size:16px;letter-spacing:.04em}
 .primary:hover{filter:brightness(1.05)}
 .primary:disabled{opacity:.5;cursor:default}
@@ -671,9 +674,11 @@ function renderQuestion(){
       ${!ok && !q.disputed ? `<button class="linkish" id="dispute">我選的 ${escapeHtml(q.options[q.picked])} 放進句子也對？按這裡算我對</button>` : ""}
     </section>
     <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
-    <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}`;
+    <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}
+    <button class="endround" id="endRound" type="button">結束這一回</button>`;
   main.querySelectorAll(".opt").forEach(b => b.onclick = () => answer(+b.dataset.k));
   fillKK([w.word, ...q.options]);
+  bindEndRound(answered);
   if (answered){ $("#next").onclick = next; fillGloss(q); const d = $("#dispute"); if (d) d.onclick = disputeAnswer; }
   bindSeg();
 }
@@ -700,6 +705,17 @@ function disputeAnswer(){
   q.learnedNow = recordAnswer(w, true); if (q.learnedNow) celebrate(w.word);
   toast(`已記下：${w.word} 和 ${other} 以後不會出在同一題，這題算你對`);
   render();
+}
+/* 答到一半想停：按兩次「結束這一回」，用已經答完的題目算成績；一題都沒答就直接換新的一回 */
+function bindEndRound(answered){
+  const b = $("#endRound"); if (!b) return;
+  const done = S.i + (answered ? 1 : 0);
+  let armed = false;
+  b.onclick = () => {
+    if (!armed){ armed = true; b.classList.add("armed"); b.textContent = done ? `再按一次結束（已答 ${done} 題）` : "再按一次結束（還沒作答）"; setTimeout(() => { armed = false; if (b.isConnected){ b.classList.remove("armed"); b.textContent = "結束這一回"; } }, 3000); return; }
+    if (!done){ newRound(); window.scrollTo({top:0}); toast("已結束這一回，換一回新的"); return; }
+    S.round = S.round.slice(0, done); S.i = done; render(); window.scrollTo({top:0, behavior:"smooth"});
+  };
 }
 function next(){ S.i++; render(); window.scrollTo({top:0, behavior:"smooth"}); }
 
