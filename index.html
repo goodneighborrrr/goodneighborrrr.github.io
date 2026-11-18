@@ -261,9 +261,9 @@ let db;
 try { db = initializeFirestore(fbApp, { localCache: persistentLocalCache({ tabManager: persistentMultipleTabManager() }) }); }
 catch (e) { db = initializeFirestore(fbApp, {}); }
 
-const ROUND_SIZES = [30, 50, 100];
+const ROUND_SIZES = [25, 50, 100];
 const DEFAULT_ROUND_SIZE = 100;
-function roundSize(){ const n = +(Store.settings && Store.settings.roundSize); return ROUND_SIZES.includes(n) ? n : DEFAULT_ROUND_SIZE; }
+function roundSize(){ let n = +(Store.settings && Store.settings.roundSize); if (n === 30) n = 25; return ROUND_SIZES.includes(n) ? n : DEFAULT_ROUND_SIZE; }
 const STREAK_TO_CLEAR = 3;
 const TEST_MODE = location.hash === "#test";   // 測試用：「隔天」改成「1 分鐘後」
 const POS_LIST = ["名詞","動詞","形容詞","副詞","介系詞","連接詞","片語動詞","其他"];
@@ -604,7 +604,7 @@ Items: ${JSON.stringify(items)}`, 0.2);
   }
 }
 
-/* 每回題數：30 / 50 / 100，選了會記在雲端，手機和電腦一致 */
+/* 每回題數：25 / 50 / 100（以前選 30 的自動變 25），選了會記在雲端，手機和電腦一致 */
 function segHtml(){
   const cur = roundSize();
   return `<div class="seg"><span>每回</span><span class="opts" role="group" aria-label="每回題數">${ROUND_SIZES.map(n => `<button type="button" data-size="${n}" aria-pressed="${n === cur}">${n}</button>`).join("")}</span><span>題</span></div>`;
