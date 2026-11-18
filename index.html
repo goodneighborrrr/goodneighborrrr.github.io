@@ -1431,7 +1431,7 @@ $("#btnRefresh").onclick = async () => {
   const b = $("#btnRefresh"); b.classList.remove("spin"); void b.offsetWidth; b.classList.add("spin");
   await importInbox({ quiet: true });
   const v = await pageSig();
-  if (pageSig0 && v && v !== pageSig0){ location.reload(); return; }      // 有新版本就直接更新
+  if (pageSig0 && v && v !== pageSig0){ hardReload(); return; }      // 有新版本就直接更新
   newRound(); window.scrollTo({top:0}); toast("已換一組新題目");
 };
 document.addEventListener("keydown", e => {
@@ -1445,15 +1445,27 @@ document.addEventListener("keydown", e => {
   else if (q.picked >= 0 && e.key === "Enter" && document.activeElement.id !== "next"){ e.preventDefault(); next(); }
 });
 /* 自動檢查新版本：App 從背景回來時，看網站上的程式有沒有更新，有的話提示一鍵更新 */
-async function pageSig(){
-  try { const r = await fetch(`index.html?t=${Date.now()}`, { cache: "no-store" }); if (!r.ok) return ""; const t = await r.text(); let h = 0; for (let i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) | 0; return t.length + ":" + h; } catch { return ""; }
+function sigOf(doc){
+  const t = [...doc.querySelectorAll("script:not([src]),style")].map(e => e.textContent).join("\n");
+  let h = 0; for (let i = 0; i < t.length; i++) h = (h * 31 + t.charCodeAt(i)) | 0; return t.length + ":" + h;
 }
-let pageSig0 = "", updateShown = false;
-pageSig().then(v => { pageSig0 = v; });
+async function pageSig(){
+  try { const r = await fetch(`index.html?t=${Date.now()}`, { cache: "no-store" }); if (!r.ok) return ""; return sigOf(new DOMParser().parseFromString(await r.text(), "text/html")); } catch { return ""; }
+}
+/* 用「目前畫面上正在跑的程式」當基準，手機拿到舊的暫存版也抓得出來 */
+let pageSig0 = sigOf(document), updateShown = false;
+function hardReload(){ const u = new URL(location.href); u.searchParams.set("v", Date.now()); location.replace(u.toString()); }
+/* 一打開就檢查：拿到舊版就自動換成新版（1 分鐘內剛換過就不再換，避免一直重新整理） */
+(async () => {
+  const last = +new URL(location.href).searchParams.get("v") || 0;
+  if (Date.now() - last < 60000) return;
+  const v = await pageSig();
+  if (v && v !== pageSig0) hardReload();
+})();
 async function checkUpdate(){
   if (!pageSig0 || updateShown) return;
   const v = await pageSig();
-  if (v && v !== pageSig0){ updateShown = true; toast("App 有新版本", { label: "更新", run: () => location.reload() }); }
+  if (v && v !== pageSig0){ updateShown = true; toast("App 有新版本", { label: "更新", run: hardReload }); }
 }
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible"){ importInbox({ quiet: true }); checkUpdate(); } });
 
