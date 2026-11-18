@@ -664,6 +664,7 @@ function renderQuestion(){
       return `<li><button class="${cls}" data-k="${k}" ${answered ? "disabled" : ""} lang="en"><span class="k">${LETTERS[k]}</span><span class="wd"><span>${escapeHtml(o)}</span>${kkHtml(o)}</span>${gl ? `<span class="gl" lang="zh-Hant">${escapeHtml(gl)}</span>` : ""}</button></li>`;
     }).join("")}</ul>
     ${answered ? `
+    <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
     <section class="feedback">
       <div class="verdict ${ok || q.disputed ? "ok" : "no"}">${ok ? "答對了！" : q.disputed ? `算你對！(${LETTERS[q.picked]}) 放進句子也說得通` : `答錯了，正確答案是 (${LETTERS[q.correct]})`}</div>
       ${q.learnedNow ? `<p class="note" style="margin:6px 0 0">🎉 這個字已經連續答對 ${MASTER_RUN} 次，自動移到「已學會」了</p>` : ""}
@@ -673,7 +674,6 @@ function renderQuestion(){
       ${(nh => nh ? `<div class="wnote">${nh}</div>` : "")(w.note ? noteHtml(w.note, q.sentence.en) : "")}
       ${!ok && !q.disputed ? `<button class="linkish" id="dispute">我選的 ${escapeHtml(q.options[q.picked])} 放進句子也對？按這裡算我對</button>` : ""}
     </section>
-    <button class="primary" id="next">${S.i + 1 < S.round.length ? "下一題" : "看結果"}</button>
     <p class="hint">電腦可以按 Enter 到下一題</p>` : `<p class="hint">電腦也可以按鍵盤 A / B / C / D 作答</p>`}
     <button class="endround" id="endRound" type="button">結束這一回</button>`;
   main.querySelectorAll(".opt").forEach(b => b.onclick = () => answer(+b.dataset.k));
